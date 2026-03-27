@@ -48,7 +48,7 @@
       "subject": "ELAR",
       "status": "ready",
       "root": "collections/grade-4/elar",
-      "source_pdf": "collections/grade-4/elar/source/4thelar.pdf",
+      "source_pdf": null,
       "catalog": "collections/grade-4/elar/data/staar_catalog.json",
       "reports": {
         "coverage_csv": "collections/grade-4/elar/reports/pdf_coverage_report.csv",
@@ -65,11 +65,15 @@
       "label": "Grade 4 Math",
       "grade": 4,
       "subject": "Math",
-      "status": "source_only",
+      "status": "ready",
       "root": "collections/grade-4/math",
       "source_pdf": "collections/grade-4/math/source/4thmath.pdf",
-      "catalog": null,
-      "reports": {},
+      "catalog": "collections/grade-4/math/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-4/math/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-4/math/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-4/math/reports/pdf_coverage_summary.json"
+      },
       "images_dir": "collections/grade-4/math/images/extracted",
       "stimulus_images_dir": "collections/grade-4/math/images/stimuli",
       "vision_cache_dir": "collections/grade-4/math/cache/vision"
@@ -82,7 +86,7 @@
       "subject": "ELAR",
       "status": "ready",
       "root": "collections/grade-5/elar",
-      "source_pdf": "collections/grade-5/elar/source/5thelar.pdf",
+      "source_pdf": null,
       "catalog": "collections/grade-5/elar/data/staar_catalog.json",
       "reports": {
         "coverage_csv": "collections/grade-5/elar/reports/pdf_coverage_report.csv",
@@ -139,7 +143,7 @@
       "subject": "ELAR",
       "status": "ready",
       "root": "collections/grade-6/elar",
-      "source_pdf": "collections/grade-6/elar/source/6thelar.pdf",
+      "source_pdf": null,
       "catalog": "collections/grade-6/elar/data/staar_catalog.json",
       "reports": {
         "coverage_csv": "collections/grade-6/elar/reports/pdf_coverage_report.csv",

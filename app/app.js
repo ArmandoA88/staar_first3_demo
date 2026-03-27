@@ -227,6 +227,34 @@ function normalizeText(value) {
   return (value || "").toLowerCase().trim();
 }
 
+function getQuestionDisplayTitle(item) {
+  const stem = String(item?.question?.stem || "").replace(/\s+/g, " ").trim();
+  if (stem) {
+    return stem;
+  }
+
+  const year = item?.metadata?.year;
+  const questionNumber = item?.metadata?.question_number;
+  const questionLabel = item?.metadata?.question_label;
+  const standard = item?.metadata?.standard;
+
+  const parts = [];
+  if (year) {
+    parts.push(String(year));
+  }
+  if (questionNumber) {
+    parts.push(`Q${questionNumber}`);
+  } else if (questionLabel) {
+    parts.push(String(questionLabel));
+  }
+
+  const baseTitle = parts.join(" - ");
+  if (baseTitle && standard) {
+    return `${baseTitle} | ${standard}`;
+  }
+  return baseTitle || standard || item.id;
+}
+
 function escapeHtml(value) {
   return String(value || "")
     .replaceAll("&", "&amp;")
@@ -1186,7 +1214,7 @@ function renderCard(item, options = {}) {
     toggleSelection(item.id);
   });
 
-  title.textContent = item.question.stem || item.id;
+  title.textContent = getQuestionDisplayTitle(item);
   instruction.textContent = item.question.instruction || "";
   instruction.hidden = !item.question.instruction;
 
@@ -1467,7 +1495,7 @@ function renderBuilder() {
     const moveDown = fragment.querySelector(".move-down");
     const removeButton = fragment.querySelector(".remove-item");
 
-    title.textContent = `${index + 1}. ${item.question.stem || item.id}`;
+    title.textContent = `${index + 1}. ${getQuestionDisplayTitle(item)}`;
     meta.textContent = `${item.metadata.standard} | ${item.metadata.year} | ${item.metadata.item_type}${
       stimulusGroup?.label ? ` | ${stimulusGroup.label}` : ""
     }`;
@@ -1565,7 +1593,7 @@ function buildStudentQuestionOcrMarkup(item, questionNumber) {
         <span>Question ${questionNumber}</span>
         <span class="print-question-type">${escapeHtml(item.metadata.declared_item_type_display || item.metadata.item_type || "")}</span>
       </div>
-      <div class="print-question-stem">${escapeHtml(item.question.stem || item.id)}</div>
+      <div class="print-question-stem">${escapeHtml(getQuestionDisplayTitle(item))}</div>
       ${
         item.question.instruction
           ? `<div class="print-question-instruction">${escapeHtml(item.question.instruction)}</div>`
@@ -1732,7 +1760,7 @@ function buildAnswerKeyMarkup(selectedItems) {
                 <div class="answer-key-row-main">
                   <div class="answer-key-number">Q${index + 1}</div>
                   <div>
-                    <div class="answer-key-stem">${escapeHtml(item.question.stem || item.id)}</div>
+                    <div class="answer-key-stem">${escapeHtml(getQuestionDisplayTitle(item))}</div>
                     <div class="answer-key-meta">
                       TEKS ${escapeHtml(item.metadata.standard)} | ${item.metadata.year} | ${escapeHtml(item.metadata.item_type)}${
                         item.stimulus?.label ? ` | ${escapeHtml(item.stimulus.label)}` : ""
