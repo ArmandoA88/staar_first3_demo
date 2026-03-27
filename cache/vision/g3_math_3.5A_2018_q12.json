@@ -1,0 +1,31 @@
+{
+  "stem": "Tyrese had 572 baseball cards. He sold some of the baseball cards and then had 98 baseball cards left.\n\nWhich equation could NOT be used to find the number of baseball cards Tyrese sold?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "572 - \u25a1 = 98"
+    },
+    {
+      "label": "G",
+      "text": "572 - 98 = \u25a1"
+    },
+    {
+      "label": "H",
+      "text": "98 + \u25a1 = 572"
+    },
+    {
+      "label": "J",
+      "text": "98 + 572 = \u25a1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem involves interpreting a real-life situation and translating it into algebraic equations, then identifying which equation does not accurately represent the scenario. This requires understanding of subtraction and addition relationships in context.",
+  "confidence": 0.99,
+  "notes": null
+}

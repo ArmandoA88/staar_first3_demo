@@ -1,0 +1,33 @@
+{
+  "stem": "Timothy wants to buy a camera that costs $75. He has saved $23, as shown in the model.\n\nWhich equation can be used to find how much more money Timothy needs in order to buy the camera?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$75 + $52 ="
+    },
+    {
+      "label": "G",
+      "text": "$75 + $23 = "
+    },
+    {
+      "label": "H",
+      "text": "$75 - $23 = "
+    },
+    {
+      "label": "J",
+      "text": "$52 - $23 = "
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Model showing a rectangle labeled 'Camera' with total length $75, subdivided into $23 and ?"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves simple subtraction to find how much more money is needed, which requires basic understanding of the relationship between parts and total.",
+  "confidence": 1,
+  "notes": null
+}

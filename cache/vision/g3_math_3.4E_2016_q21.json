@@ -1,0 +1,34 @@
+{
+  "stem": "Zachary lists some different methods he thinks he can use to solve the multiplication problem shown.\n\n8 \u00d7 4 = ?\n\nWhich of these is not a method Zachary can use to get the correct answer?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Image of 8 rows of 4 circles each)"
+    },
+    {
+      "label": "B",
+      "text": "8 \u00d7 8 \u00d7 8 \u00d7 8"
+    },
+    {
+      "label": "C",
+      "text": "4, 8, 12, 16, 20, 24, 28, 32"
+    },
+    {
+      "label": "D",
+      "text": "(Number line from 0 to 36 with jumps of 4 up to 32)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of 8 rows of 4 circles each",
+    "Number line from 0 to 36 with jumps of 4 up to 32"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding multiplication and recognizing correct and incorrect methods of solving 8 \u00d7 4, involving comprehension of arrays, repeated multiplication, skip counting, and use of number line, requiring modest reasoning typical for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

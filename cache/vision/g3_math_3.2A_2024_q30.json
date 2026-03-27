@@ -1,0 +1,43 @@
+{
+  "stem": "Create an expression equivalent to 40,280.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "hundreds"
+    },
+    {
+      "label": null,
+      "text": "ten thousands"
+    },
+    {
+      "label": null,
+      "text": "ones"
+    },
+    {
+      "label": null,
+      "text": "thousands"
+    },
+    {
+      "label": null,
+      "text": "tens"
+    }
+  ],
+  "choice_pool": [
+    "hundreds",
+    "ten thousands",
+    "ones",
+    "thousands",
+    "tens"
+  ],
+  "response_template": "4 [blank_1] + 2 [blank_2] + 8 [blank_3]",
+  "visual_elements": [
+    "tokens: hundreds, ten thousands, ones, thousands, tens"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding place value and formulating an expression correctly from a 5-digit number with multiple steps involved.",
+  "confidence": 1,
+  "notes": null
+}

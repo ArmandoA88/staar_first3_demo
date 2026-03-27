@@ -1,0 +1,33 @@
+{
+  "stem": "A restaurant sells 38 pizzas on Wednesday. The expression 38 \\times 2 can be used to find the number of pizzas the restaurant sells on Saturday.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There are 38 times as many pizzas sold on Wednesday as on Saturday."
+    },
+    {
+      "label": "B",
+      "text": "There are 2 times as many pizzas sold on Wednesday as on Saturday."
+    },
+    {
+      "label": "C",
+      "text": "There are 2 times as many pizzas sold on Saturday as on Wednesday."
+    },
+    {
+      "label": "D",
+      "text": "There are 38 times as many pizzas sold on Saturday as on Wednesday."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "38 \\times 2"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding multiplication as a comparison between two quantities (relation between Wednesday and Saturday sales) and interpreting the expression correctly to identify the true statement.",
+  "confidence": 1,
+  "notes": null
+}

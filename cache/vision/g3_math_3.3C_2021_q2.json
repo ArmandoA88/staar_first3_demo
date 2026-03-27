@@ -1,0 +1,33 @@
+{
+  "stem": "Three friends divided three pizzas into pieces. The shaded parts of the models represent the pieces that the friends ate.\n\nWhich statement describes the fraction of a pizza that one of the friends ate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Diego ate \\( \\frac{1}{2} \\) of a pizza, because he ate the largest piece of his 2 pieces."
+    },
+    {
+      "label": "G",
+      "text": "Victoria ate \\( \\frac{1}{3} \\) of a pizza, because she ate 1 piece and had 3 equal-size pieces left over."
+    },
+    {
+      "label": "H",
+      "text": "Wesley ate \\( \\frac{1}{2} \\) of a pizza, because he ate 1 piece of his 2 equal-size pieces."
+    },
+    {
+      "label": "J",
+      "text": "Victoria ate \\( \\frac{3}{1} \\) of a pizza, because she ate 1 piece and had 3 pieces left over."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Three labeled circle models with shaded portions: Diego (5/8 shaded approx), Victoria (1/4 shaded), Wesley (1/2 shaded)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires interpreting fractional parts from shaded models and matching them to conceptual fractional statements, involving reasoning beyond direct recall.",
+  "confidence": 0.98,
+  "notes": null
+}

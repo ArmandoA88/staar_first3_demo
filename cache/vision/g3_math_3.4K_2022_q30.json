@@ -1,0 +1,31 @@
+{
+  "stem": "Alex bought 4 packages of pink golf balls and 2 packages of orange golf balls. There were 12 golf balls in each package.\n\nHow many golf balls did Alex buy?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "72"
+    },
+    {
+      "label": "G",
+      "text": "50"
+    },
+    {
+      "label": "H",
+      "text": "96"
+    },
+    {
+      "label": "J",
+      "text": "18"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires simple multiplication and addition to find the total number of golf balls, a straightforward arithmetic step appropriate for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

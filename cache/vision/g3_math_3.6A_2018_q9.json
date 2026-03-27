@@ -1,0 +1,33 @@
+{
+  "stem": "The figures shown can be sorted into groups.\n\nWhich list shows a correct way to group the figures?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2 prisms, 1 cone, 2 cylinders, and 1 pyramid"
+    },
+    {
+      "label": "B",
+      "text": "3 prisms, 1 cone, and 2 cylinders"
+    },
+    {
+      "label": "C",
+      "text": "2 prisms, 2 cylinders, 1 sphere, and 1 cube"
+    },
+    {
+      "label": "D",
+      "text": "3 prisms, 1 cylinder, and 2 cones"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "six 3D geometric figures showing (from left to right): a rectangular prism, a triangular prism, a cone, a cylinder, a cube, another cylinder"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding and identifying different 3D shapes and correctly grouping them based on shape category.",
+  "confidence": 1,
+  "notes": null
+}

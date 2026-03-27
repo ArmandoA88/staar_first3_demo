@@ -1,0 +1,33 @@
+{
+  "stem": "The models shown are the same size. Each model is divided into equal-size parts and is shaded to represent a fraction.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\(\\frac{6}{8} < \\frac{8}{8}\\), because sixths are smaller parts than eighths"
+    },
+    {
+      "label": "G",
+      "text": "\\(\\frac{6}{8} < \\frac{8}{8}\\), because 6 out of 8 parts is less than 8 out of 8 parts"
+    },
+    {
+      "label": "H",
+      "text": "\\(\\frac{6}{8} > \\frac{8}{8}\\), because sixths are larger parts than eighths"
+    },
+    {
+      "label": "J",
+      "text": "\\(\\frac{6}{8} > \\frac{8}{8}\\), because 6 out of 8 parts is greater than 8 out of 8 parts"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two rectangles with equal size: the first divided into 8 parts with 6 shaded, the second divided into 8 parts with all 8 shaded."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of fractions, fraction size, and comparison based on parts shaded and denominators.",
+  "confidence": 0.99,
+  "notes": null
+}

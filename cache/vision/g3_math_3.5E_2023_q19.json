@@ -1,0 +1,58 @@
+{
+  "stem": "A pet store has several aquariums. The table shows the relationship between the number of aquariums and the total number of fish at the pet store.\n\nPet Store Fish\n\n| Number of Aquariums | 3 | 5 | 9 | 12 |\n|---------------------|---|---|---|----|\n| Number of Fish      | 18| 30| 54| 72 |\n\nComplete the sentence to describe the relationship in the table.\n\nSelect the correct answer for each blank from the drop-down menus.\n\nTo find the number of fish, [blank_1] the number of aquariums by [blank_2]",
+  "instruction": "Select the correct answer for each blank from the drop-down menus.",
+  "options": [
+    {
+      "label": null,
+      "text": "Add"
+    },
+    {
+      "label": null,
+      "text": "Subtract"
+    },
+    {
+      "label": null,
+      "text": "Multiply"
+    },
+    {
+      "label": null,
+      "text": "Divide"
+    },
+    {
+      "label": null,
+      "text": "5"
+    },
+    {
+      "label": null,
+      "text": "6"
+    },
+    {
+      "label": null,
+      "text": "9"
+    },
+    {
+      "label": null,
+      "text": "12"
+    }
+  ],
+  "choice_pool": [
+    "Add",
+    "Subtract",
+    "Multiply",
+    "Divide",
+    "5",
+    "6",
+    "9",
+    "12"
+  ],
+  "response_template": "To find the number of fish, [blank_1] the number of aquariums by [blank_2]",
+  "visual_elements": [
+    "table with Number of Aquariums: 3, 5, 9, 12 and Number of Fish: 18, 30, 54, 72"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "The problem requires recognizing the relationship in the table and selecting appropriate mathematical operations and values to complete the sentence, involving proportional reasoning.",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "The expanded form of a number is shown.\n\n90,000 + 200 + 40 + 1\n\nWhat is the standard form of this number?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "9,241"
+    },
+    {
+      "label": "G",
+      "text": "92,041"
+    },
+    {
+      "label": "H",
+      "text": "90,241"
+    },
+    {
+      "label": "J",
+      "text": "90,421"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Expanded form equation: 90,000 + 200 + 40 + 1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires recognizing place values and adding, which is a straightforward step for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

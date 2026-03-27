@@ -1,0 +1,33 @@
+{
+  "stem": "Gemma reads a book for 1 hour and 20 minutes. She finishes reading at 7:13 p.m. as shown on the clock.\n\nWhat time did Gemma start reading her book?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6:13 p.m."
+    },
+    {
+      "label": "B",
+      "text": "5:53 p.m."
+    },
+    {
+      "label": "C",
+      "text": "8:33 p.m."
+    },
+    {
+      "label": "D",
+      "text": "6:53 p.m."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "clock showing time 7:13"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires subtracting time duration (1 hour 20 minutes) from given end time (7:13 p.m.) to find the start time, involving multiple steps and time calculation.",
+  "confidence": 1,
+  "notes": null
+}

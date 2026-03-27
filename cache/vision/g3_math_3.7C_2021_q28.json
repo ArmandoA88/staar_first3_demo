@@ -1,0 +1,33 @@
+{
+  "stem": "On Saturday afternoon Marcus went to a swimming pool. The clock shows the time he arrived at the pool.\n\nHe left the pool 45 minutes later. At what time did Marcus leave the pool?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "2:20 P.M."
+    },
+    {
+      "label": "G",
+      "text": "7:55 P.M."
+    },
+    {
+      "label": "H",
+      "text": "2:15 P.M."
+    },
+    {
+      "label": "J",
+      "text": "3:20 P.M."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "clock showing 2:35"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires reading an analog clock and then adding 45 minutes, involving more than one step and time calculation.",
+  "confidence": 1,
+  "notes": null
+}

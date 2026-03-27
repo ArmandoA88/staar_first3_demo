@@ -1,0 +1,33 @@
+{
+  "stem": "The picture shows 8 seats in a movie theater. Children are sitting in a fraction of the seats.\n\nWhich expression is equivalent to the fraction of the seats that have children sitting in them?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\t\\t\\t\\textstyle \\frac{1}{8} + \\frac{1}{8} + \\frac{1}{8} + \\frac{1}{8} + \\frac{1}{8} + \\frac{1}{8} + \\frac{1}{8} + \\frac{1}{8}"
+    },
+    {
+      "label": "G",
+      "text": "\\t\\t\\t\\textstyle \\frac{1}{3} + \\frac{1}{3} + \\frac{1}{3}"
+    },
+    {
+      "label": "H",
+      "text": "\\t\\t\\t\\textstyle \\frac{3}{8} + \\frac{3}{8} + \\frac{3}{8} + \\frac{3}{8} + \\frac{3}{8} + \\frac{3}{8} + \\frac{3}{8} + \\frac{3}{8}"
+    },
+    {
+      "label": "J",
+      "text": "\\t\\t\\t\\textstyle \\frac{1}{8} + \\frac{1}{8} + \\frac{1}{8}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of 8 movie theater seats with 3 children sitting in the 2nd, 4th, and 8th seats respectively."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 4,
+  "difficulty_rationale": "Requires identifying the fraction of seats occupied by children and recognizing the correct equivalent fractional addition expression among distractors.",
+  "confidence": 0.98,
+  "notes": null
+}

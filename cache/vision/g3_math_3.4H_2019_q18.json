@@ -1,0 +1,33 @@
+{
+  "stem": "A group of 27 students played a game with the hoops shown. An equal number of the students shared each hoop.\n\nHow many students shared each hoop?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3"
+    },
+    {
+      "label": "G",
+      "text": "18"
+    },
+    {
+      "label": "H",
+      "text": "9"
+    },
+    {
+      "label": "J",
+      "text": "36"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "9 hoops arranged in a 3 by 3 array"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a simple division (27 \u00f7 9) to find the answer, involving direct application of equal sharing.",
+  "confidence": 1,
+  "notes": null
+}

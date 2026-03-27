@@ -1,0 +1,35 @@
+{
+  "stem": "The sum of 8 ten thousands, 4 hundreds, and 9 tens can be expressed as what number in standard form?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "80,490"
+    },
+    {
+      "label": "B",
+      "text": "8,490"
+    },
+    {
+      "label": "C",
+      "text": "849"
+    },
+    {
+      "label": "D",
+      "text": "80,049"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: 2016 - Q27",
+    "Question 27 text",
+    "Options labeled A, B, C, D with corresponding numbers"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding place value and combining specific place value amounts to form a standard number.",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,16 @@
+{
+  "stem": "The graph shows the number of rings Mrs. Adams sold during six weeks at her jewelry store.\n\nEach \ud83d\udc8d means 6 rings sold.\n\nWhat is the total number of rings Mrs. Adams sold during weeks 4, 5, and 6?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with rows labeled Week 1 to Week 6 and columns representing number of rings sold as ring icons with each ring icon representing 6 rings."
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires reading a pictograph, multiplying by 6 for each ring icon, then summing multiple weeks, involving multiple steps and reasoning.",
+  "confidence": 0.98,
+  "notes": null
+}

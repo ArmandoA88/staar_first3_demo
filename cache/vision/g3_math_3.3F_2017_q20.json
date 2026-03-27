@@ -1,0 +1,37 @@
+{
+  "stem": "Eddie marked the fraction \\( \\frac{3}{4} \\) with a star on the number line shown.\n\nWhich of these number lines shows a fraction equivalent to \\( \\frac{3}{4} \\) marked with a star?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Star at \\( \\frac{3}{6} \\) on number line from 0 to 1 in sixths"
+    },
+    {
+      "label": "G",
+      "text": "Star at \\( \\frac{7}{8} \\) on number line from 0 to 1 in eighths"
+    },
+    {
+      "label": "H",
+      "text": "Star at \\( \\frac{6}{8} \\) on number line from 0 to 1 in eighths"
+    },
+    {
+      "label": "J",
+      "text": "Star at \\( \\frac{5}{6} \\) on number line from 0 to 1 in sixths"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line 0 to 1 with marks at 0, 1/4, 2/4, star at 3/4, 1",
+    "Number line F 0 to 1 with marks at 0, 1/6, 2/6, star at 3/6, 4/6, 5/6, 1",
+    "Number line G 0 to 1 with marks at 0, 1/8, 2/8, 3/8, 4/8, 5/8, 6/8, star at 7/8, 1",
+    "Number line H 0 to 1 with marks at 0, 1/8, 2/8, 3/8, 4/8, 5/8, star at 6/8, 7/8, 1",
+    "Number line J 0 to 1 with marks at 0, 1/6, 2/6, 3/6, 4/6, star at 5/6, 1"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires understanding of equivalent fractions and correctly identifying them on number lines with different denominators.",
+  "confidence": 0.99,
+  "notes": null
+}

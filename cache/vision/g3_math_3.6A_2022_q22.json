@@ -1,0 +1,36 @@
+{
+  "stem": "Chris built a fort using prisms. Which figure is NOT one Chris could have used to build his fort?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(cube image)"
+    },
+    {
+      "label": "H",
+      "text": "(rectangular prism image)"
+    },
+    {
+      "label": "G",
+      "text": "(triangular prism image)"
+    },
+    {
+      "label": "J",
+      "text": "(pyramid image)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cube",
+    "rectangular prism",
+    "triangular prism",
+    "pyramid"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The item requires students to identify three-dimensional prisms and differentiate them from a non-prism solid (pyramid), involving some conceptual understanding of geometric solids.",
+  "confidence": 1,
+  "notes": null
+}

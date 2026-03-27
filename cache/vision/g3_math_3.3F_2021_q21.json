@@ -1,0 +1,33 @@
+{
+  "stem": "Irene has a group of counters, as shown.\n\nWhich two fractions can represent the black counters in the group?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{2}{6} and \\frac{2}{8}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{1}{3} and \\frac{2}{6}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{1}{4} and \\frac{2}{8}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{1}{4} and \\frac{2}{4}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two-row rectangle with 8 circles: 2 black counters on the left in the first column, 6 white counters."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of basic fractions representing part of a set, straightforward counting and comparison.",
+  "confidence": 1,
+  "notes": null
+}

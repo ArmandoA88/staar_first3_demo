@@ -1,0 +1,33 @@
+{
+  "stem": "Erika's goal is to practice playing her guitar for 300 minutes this week.\n\n\u2022 On Sunday she practiced for 117 minutes.\n\u2022 On Tuesday she practiced for 58 minutes.\n\nHow many more minutes does Erika need to practice in order to meet her goal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "125 minutes"
+    },
+    {
+      "label": "B",
+      "text": "235 minutes"
+    },
+    {
+      "label": "C",
+      "text": "475 minutes"
+    },
+    {
+      "label": "D",
+      "text": "175 minutes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bullet points"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires adding practice times and subtracting the total from the goal, involving multiple steps and basic arithmetic.",
+  "confidence": 1,
+  "notes": null
+}

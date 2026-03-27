@@ -1,0 +1,31 @@
+{
+  "stem": "Eliza rode her bike on three days last week.\n\n\u2022 On Tuesday, she rode 12 miles.\n\n\u2022 On Thursday, she rode 9 miles.\n\n\u2022 On Saturday, she rode 7 miles.\n\nShe rounds each number to the nearest ten to find the estimate of the total number of miles she rode.\n\nWhat is Eliza's estimate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10 mi"
+    },
+    {
+      "label": "B",
+      "text": "30 mi"
+    },
+    {
+      "label": "C",
+      "text": "40 mi"
+    },
+    {
+      "label": "D",
+      "text": "20 mi"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires only rounding and addition, involving straightforward steps appropriate for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

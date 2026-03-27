@@ -1,0 +1,33 @@
+{
+  "stem": "A teacher bought 8 boxes of pencils. Each box contained 48 pencils. How many pencils did the teacher buy?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "376"
+    },
+    {
+      "label": "B",
+      "text": "384"
+    },
+    {
+      "label": "C",
+      "text": "366"
+    },
+    {
+      "label": "D",
+      "text": "324"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2024 - Q28"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires one straightforward multiplication step to solve.",
+  "confidence": 1,
+  "notes": null
+}

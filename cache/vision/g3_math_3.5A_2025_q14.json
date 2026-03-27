@@ -1,0 +1,33 @@
+{
+  "stem": "A library has 530 books at the start of the day. The number line shown can be used to find the number of books the library has at the end of the day.\n\nWhich statement is best represented by the number line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "250 books are returned and 150 books are borrowed."
+    },
+    {
+      "label": "B",
+      "text": "250 books are borrowed. Another 150 books are borrowed."
+    },
+    {
+      "label": "C",
+      "text": "250 books are returned. Another 150 books are returned."
+    },
+    {
+      "label": "D",
+      "text": "250 books are borrowed and 150 books are returned."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line from 250 to 550, with two arrows: one arrow from 280 to 530 approximately, another arrow from 530 to 680 approximately"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires interpreting a number line with arrows and understanding addition and subtraction of books relative to the starting number, involving modest reasoning.",
+  "confidence": 0.99,
+  "notes": null
+}

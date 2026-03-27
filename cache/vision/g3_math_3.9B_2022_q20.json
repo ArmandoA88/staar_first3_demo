@@ -1,0 +1,33 @@
+{
+  "stem": "Dahlia sold pineapples at a fruit stand. The table shows the number of pineapples Dahlia had for sale each week and the number of customers she expected to come to her fruit stand.\n\nDahlia\u2019s Pineapples\n\n|                     | Week 1 | Week 2 | Week 3 | Week 4 |\n|---------------------|--------|--------|--------|--------|\n| Number of Pineapples | 110    | 150    | 200    | 25     |\n| Number of Expected Customers | 50     | 150    | 40     | 50     |\n\nIn which week did Dahlia most likely sell her pineapples for the highest price?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Week 1, because the number of pineapples was greater than the expected number of customers"
+    },
+    {
+      "label": "G",
+      "text": "Week 2, because the number of pineapples was the same as the expected number of customers"
+    },
+    {
+      "label": "H",
+      "text": "Week 3, because fewer customers were expected to come to the fruit stand this week than any other week"
+    },
+    {
+      "label": "J",
+      "text": "Week 4, because the number of pineapples was less than the expected number of customers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with two rows: Number of Pineapples and Number of Expected Customers; and four columns: Week 1 (110 pineapples, 50 customers), Week 2 (150 pineapples, 150 customers), Week 3 (200 pineapples, 40 customers), Week 4 (25 pineapples, 50 customers)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires comparison of two sets of numerical data over multiple weeks and understanding the relationship between supply, demand, and likely pricing, involving reasoning beyond direct recall.",
+  "confidence": 0.99,
+  "notes": null
+}

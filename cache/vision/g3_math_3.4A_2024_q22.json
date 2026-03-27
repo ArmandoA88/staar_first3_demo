@@ -1,0 +1,33 @@
+{
+  "stem": "At a weekend bake sale, 295 cookies were sold on Saturday. On Sunday 88 more cookies were sold than were sold on Saturday.\n\nWhat was the total number of cookies sold on Saturday and Sunday?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "207"
+    },
+    {
+      "label": "B",
+      "text": "383"
+    },
+    {
+      "label": "C",
+      "text": "502"
+    },
+    {
+      "label": "D",
+      "text": "678"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text including numbers 295, 88, and options labeled A-D with values 207, 383, 502, 678"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding and performing addition with a two-step reasoning: first calculating Sunday sales (295 + 88), then adding Saturday and Sunday sales totals.",
+  "confidence": 1,
+  "notes": null
+}

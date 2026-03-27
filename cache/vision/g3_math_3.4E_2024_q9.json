@@ -1,0 +1,33 @@
+{
+  "stem": "A student solved a problem by skip counting. The student\u2019s work is shown with the answer circled.\n\n4, 8, 12, 16, 20, 24, 28, 32, 36, (40), 44\n\nWhich equation CANNOT be used to find the answer the student circled?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10 \u00d7 10 \u00d7 10 \u00d7 10 = "
+    },
+    {
+      "label": "B",
+      "text": "4 \u00d7 10 = "
+    },
+    {
+      "label": "C",
+      "text": "10 \u00d7 4 = "
+    },
+    {
+      "label": "D",
+      "text": "4 + 4 + 4 + 4 + 4 + 4 + 4 + 4 + 4 + 4 = "
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4, 8, 12, 16, 20, 24, 28, 32, 36, (40), 44"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of skip counting, multiplication, and recognizing inappropriate multiplication or addition expressions related to the sequence.",
+  "confidence": 1,
+  "notes": null
+}

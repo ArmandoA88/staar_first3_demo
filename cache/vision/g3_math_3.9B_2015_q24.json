@@ -1,0 +1,31 @@
+{
+  "stem": "Bad weather destroyed most of the peaches on the peach trees in an orchard. This will have an effect on the price of the remaining peaches. Which statement best describes the effect on the price?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The price will likely increase, because there are more peaches available to buy."
+    },
+    {
+      "label": "B",
+      "text": "The price will likely decrease, because there are more peaches available to buy."
+    },
+    {
+      "label": "C",
+      "text": "The price will likely increase, because there are fewer peaches available to buy."
+    },
+    {
+      "label": "D",
+      "text": "The price will likely decrease, because there are fewer peaches available to buy."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires understanding of how supply changes affect prices, combining economic reasoning with reading comprehension.",
+  "confidence": 0.99,
+  "notes": null
+}

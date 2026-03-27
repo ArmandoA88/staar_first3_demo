@@ -1,0 +1,33 @@
+{
+  "stem": "Gina has 42 mushrooms to put into 6 salads. She wants to put the same number of mushrooms in each salad.\n\nWhich strip diagram shows how to find the number of mushrooms that Gina should put in each salad?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "7    7    7    7    7    7"
+    },
+    {
+      "label": "B",
+      "text": "6    6    6    6    6    6"
+    },
+    {
+      "label": "C",
+      "text": "42    42    42    42    42    42"
+    },
+    {
+      "label": "D",
+      "text": "7    7    7    7    7    7    7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "strip diagrams with labeled blocks for options A, B, C, D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires dividing 42 mushrooms equally into 6 groups and recognizing the correct strip diagram representing this division, involving modest reasoning about equal parts and division.",
+  "confidence": 1,
+  "notes": null
+}

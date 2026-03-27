@@ -1,0 +1,36 @@
+{
+  "stem": "In which set do all the figures appear to be either a rhombus, parallelogram, trapezoid, rectangle, or square?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(parallelogram, rectangle, parallelogram, trapezoid)"
+    },
+    {
+      "label": "G",
+      "text": "(rectangle, square, rhombus, trapezoid)"
+    },
+    {
+      "label": "H",
+      "text": "(square, rhombus, irregular quadrilateral, parallelogram)"
+    },
+    {
+      "label": "J",
+      "text": "(square, irregular shape, trapezoid, irregular quadrilateral)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Set F: parallelogram, rectangle, parallelogram, trapezoid shapes",
+    "Set G: rectangle, square, rhombus, trapezoid shapes",
+    "Set H: square, rhombus, irregular quadrilateral, parallelogram shapes",
+    "Set J: square, concave shape, trapezoid, irregular quadrilateral shapes"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding and classifying different quadrilaterals and identifying which set completely fits the category, involving modest reasoning about geometric figures.",
+  "confidence": 0.95,
+  "notes": null
+}

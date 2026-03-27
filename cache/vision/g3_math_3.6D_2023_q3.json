@@ -1,0 +1,33 @@
+{
+  "stem": "The shaded figure on the grid represents the ceiling of a closet. The ceiling has two rectangular sections.\n\nWhat is the area of the ceiling in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "12 square feet"
+    },
+    {
+      "label": "B",
+      "text": "10 square feet"
+    },
+    {
+      "label": "C",
+      "text": "20 square feet"
+    },
+    {
+      "label": "D",
+      "text": "16 square feet"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Grid with shaded figure showing two rectangular sections representing the ceiling. One square on the grid equals 1 square foot."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding that the shape is composed of two rectangles and calculating the total area by finding the area of each rectangle and adding them, involving multiple concepts.",
+  "confidence": 1,
+  "notes": null
+}

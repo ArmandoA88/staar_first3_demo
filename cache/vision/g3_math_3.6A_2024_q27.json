@@ -1,0 +1,38 @@
+{
+  "stem": "How did Rashida group the figures?",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [
+    {
+      "label": null,
+      "text": "have rectangular faces"
+    },
+    {
+      "label": null,
+      "text": "do not have rectangular faces"
+    },
+    {
+      "label": null,
+      "text": "have triangular faces"
+    },
+    {
+      "label": null,
+      "text": "do not have triangular faces"
+    }
+  ],
+  "choice_pool": [
+    "have rectangular faces",
+    "do not have rectangular faces",
+    "have triangular faces",
+    "do not have triangular faces"
+  ],
+  "response_template": "The figures in Group A have [blank_1] but the figures in Group B do not.\nThe figures in Group B have [blank_2] but the figures in Group A do not.",
+  "visual_elements": [
+    "Image of Rashida's Figures showing Group A with two figures having rectangular faces and Group B with two figures having triangular faces."
+  ],
+  "item_type_inferred": "Inline Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires the student to analyze 3D figures and understand faces shapes to classify them properly, which involves modest reasoning about geometric properties beyond direct recall.",
+  "confidence": 0.98,
+  "notes": null
+}

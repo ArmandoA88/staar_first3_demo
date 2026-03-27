@@ -1,0 +1,33 @@
+{
+  "stem": "A student measures the heights of some pea plants in inches. The dot plot shows his data.\n\nPea Plants\n\nEach \u25cf represents 1 pea plant.\n\nWhich list represents the heights of the pea plants in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2 3 4 4 4 5 5 6 6 7"
+    },
+    {
+      "label": "B",
+      "text": "2 3 4 4 4 5 5 6 7"
+    },
+    {
+      "label": "C",
+      "text": "2 3 4 4 5 5 6 7"
+    },
+    {
+      "label": "D",
+      "text": "2 3 4 5 6 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot with x-axis labeled 2 to 7 showing pea plant heights with counts: 2(1 dot), 3(1 dot), 4(4 dots), 5(3 dots), 6(2 dots), 7(1 dot)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires interpreting a dot plot, counting the number of dots for each height, then listing those numbers correctly.",
+  "confidence": 1,
+  "notes": null
+}

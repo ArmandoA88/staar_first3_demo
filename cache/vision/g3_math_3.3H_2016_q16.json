@@ -1,0 +1,34 @@
+{
+  "stem": "Bailey and Dylan each had pies that were the same size. Bailey ate \\( \\frac{1}{3} \\) of his pie. Dylan ate \\( \\frac{1}{4} \\) of his pie. Which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The boys ate the same amount of pie, because both fractions have a numerator of 1."
+    },
+    {
+      "label": "G",
+      "text": "Bailey ate more pie, because each slice of a pie cut into 3 equal parts is larger than each slice of a pie cut into 4 equal parts."
+    },
+    {
+      "label": "H",
+      "text": "Dylan ate more pie, because a denominator of 4 is larger than a denominator of 3."
+    },
+    {
+      "label": "J",
+      "text": "There is not enough information to determine who ate more pie."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Fraction 1/3 with numerator 1 and denominator 3",
+    "Fraction 1/4 with numerator 1 and denominator 4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding of fractions and comparing fractional parts with different denominators, which involves modest reasoning beyond direct recall.",
+  "confidence": 1,
+  "notes": null
+}

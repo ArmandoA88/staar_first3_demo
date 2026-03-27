@@ -1,0 +1,34 @@
+{
+  "stem": "Martin has 11 cages in his bird store. Each cage can hold 7 birds. The store has 21 birds in its cages.\n\nWhat is the greatest number of birds Martin can add to his cages?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "98"
+    },
+    {
+      "label": "B",
+      "text": "56"
+    },
+    {
+      "label": "C",
+      "text": "17"
+    },
+    {
+      "label": "D",
+      "text": "39"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Math problem text",
+    "Four multiple choice options labeled A through D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires multiple-step reasoning: calculating total capacity and subtracting birds currently present to find the number that can still be added.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,37 @@
+{
+  "stem": "Kailani drew four congruent squares. She shaded the same fraction of each square. This is one of Kailani's squares.",
+  "instruction": "Which square CANNOT be another one of Kailani's squares?",
+  "options": [
+    {
+      "label": "F",
+      "text": "A square with eight equal rows and one shaded top right small square (1/8 shaded)."
+    },
+    {
+      "label": "G",
+      "text": "A square divided into four smaller squares, each divided diagonally into two triangles, with one large bottom-left triangle shaded (1/8 shaded)."
+    },
+    {
+      "label": "H",
+      "text": "A square divided into four smaller squares, each divided diagonally into two triangles, with one small top-left triangle shaded (1/8 shaded)."
+    },
+    {
+      "label": "J",
+      "text": "A square divided into four rows and four columns (16 small squares), with one shaded in the second column, second row from the top (1/16 shaded)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "One large square divided into 8 equal horizontal rows with the top row shaded.",
+    "Option F: A square divided into 8 equal horizontal rows and 2 equal vertical columns with the top right small rectangle shaded.",
+    "Option G: A square divided into 4 smaller squares, each divided diagonally into two small triangles, with the bottom-left large triangle shaded.",
+    "Option H: A square divided into 4 smaller squares, each divided diagonally into two small triangles, with the top-left small triangle shaded.",
+    "Option J: A square divided into 4 horizontal rows and 4 vertical columns with one small rectangle shaded in the second column, second row."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding of fraction equivalence and visual fraction comparison, involving reasoning about shape partitioning and equal fractions.",
+  "confidence": 0.95,
+  "notes": null
+}

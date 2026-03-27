@@ -1,0 +1,33 @@
+{
+  "stem": "Each rectangle shown will be covered with equal-size squares. Some of the squares have been placed as shown. Which of these rectangles have an area of 36 square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Rectangles V, W, X, Y, and Z"
+    },
+    {
+      "label": "G",
+      "text": "Rectangles X and Y only"
+    },
+    {
+      "label": "H",
+      "text": "Rectangles W and Z only"
+    },
+    {
+      "label": "J",
+      "text": "Rectangles V, X, and Y only"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Five rectangles labeled V, W, X, Y, Z each with small squares along two sides showing the unit lengths. Small square icon labeled as 1 square centimeter."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding that counting squares on two sides can determine side lengths, then calculating area to identify rectangles with 36 square centimeters, a multi-step process.",
+  "confidence": 1,
+  "notes": null
+}

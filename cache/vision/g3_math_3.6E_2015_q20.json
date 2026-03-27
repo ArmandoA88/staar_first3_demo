@@ -1,0 +1,33 @@
+{
+  "stem": "The two figures shown are congruent, and one-fourth of each figure is shaded.\n\nWhich statement about the shaded parts of these figures is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The area of the shaded part of Figure M is greater than the area of the shaded part of Figure N."
+    },
+    {
+      "label": "B",
+      "text": "The area of the shaded part of Figure M is less than the area of the shaded part of Figure N."
+    },
+    {
+      "label": "C",
+      "text": "The area of the shaded part of Figure M is equal to the area of the shaded part of Figure N."
+    },
+    {
+      "label": "D",
+      "text": "None of the above"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two rectangles labeled Figure M and Figure N. Figure M is divided into 4 equal vertical sections with the second section shaded gray. Figure N is divided into 4 equal horizontal sections with the third section shaded gray."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Requires understanding that congruent figures with the same fraction shaded have equal shaded areas; simple comparison of area concepts.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Miriam had 63 flowers and 9 vases.\n\n\u2022 She threw away 9 flowers that had broken stems.\n\u2022 She put an equal number of all the flowers she had left into each vase.\n\nWhat is the greatest number of flowers Miriam put into each vase?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "2"
+    },
+    {
+      "label": "G",
+      "text": "7"
+    },
+    {
+      "label": "H",
+      "text": "8"
+    },
+    {
+      "label": "J",
+      "text": "6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires multiple steps: subtracting flowers thrown away and dividing remaining flowers evenly among vases.",
+  "confidence": 1,
+  "notes": null
+}

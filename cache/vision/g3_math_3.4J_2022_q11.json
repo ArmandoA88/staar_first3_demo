@@ -1,0 +1,33 @@
+{
+  "stem": "Which number sentence can be used to find the number that goes in the box?  \n\n12 \u00f7 2 = \u25a1",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2 + 12 = 14"
+    },
+    {
+      "label": "B",
+      "text": "6 \u00d7 2 = 12"
+    },
+    {
+      "label": "C",
+      "text": "12 \u00d7 2 = 24"
+    },
+    {
+      "label": "D",
+      "text": "2 + 10 = 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "12 \u00f7 2 = \u25a1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires identifying a number sentence that corresponds directly to the equation 12 \u00f7 2 = \u25a1, which involves simple division and identifying related multiplication fact.",
+  "confidence": 1,
+  "notes": null
+}

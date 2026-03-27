@@ -1,0 +1,33 @@
+{
+  "stem": "The table shows the number of each type of science report that third-grade students completed.\n\nComplete the bar graph to show the data in the table.\n\nSelect the correct height for each bar in the graph.",
+  "instruction": "Select the correct height for each bar in the graph.",
+  "options": [
+    {
+      "label": "A",
+      "text": "6 bars, 12 bars, 9 bars"
+    },
+    {
+      "label": "B",
+      "text": "9 bars, 6 bars, 12 bars"
+    },
+    {
+      "label": "C",
+      "text": "12 bars, 9 bars, 6 bars"
+    },
+    {
+      "label": "D",
+      "text": "6 bars, 9 bars, 12 bars"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A blank bar graph titled 'Students' Science Reports' with three categories on the x-axis labeled 'Rocks', 'Animals', and 'Oceans' and the y-axis labeled 'Number of Reports' from 0 to 14."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires one straightforward step of matching values from the table to the bar heights on the graph, testing basic data interpretation.",
+  "confidence": 0.99,
+  "notes": null
+}

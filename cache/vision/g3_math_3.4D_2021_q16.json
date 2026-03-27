@@ -1,0 +1,33 @@
+{
+  "stem": "The electrical panel shown has 4 outlets.\n\nHow many outlets do 6 of these electrical panels have?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "28"
+    },
+    {
+      "label": "G",
+      "text": "20"
+    },
+    {
+      "label": "H",
+      "text": "24"
+    },
+    {
+      "label": "J",
+      "text": "10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of an electrical panel with 4 outlets arranged in a square"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires a straightforward multiplication of 4 outlets per panel times 6 panels, a direct application of multiplication.",
+  "confidence": 1,
+  "notes": null
+}

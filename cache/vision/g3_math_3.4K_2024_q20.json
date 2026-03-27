@@ -1,0 +1,36 @@
+{
+  "stem": "Steve puts 75 shirts on shelves at a store. He puts 15 shirts on each shelf.\n\nHow many shelves does Steve put shirts on?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "90"
+    },
+    {
+      "label": "B",
+      "text": "60"
+    },
+    {
+      "label": "C",
+      "text": "5"
+    },
+    {
+      "label": "D",
+      "text": "6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A 90",
+    "B 60",
+    "C 5",
+    "D 6"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires division to find the number of shelves from total shirts and shirts per shelf, involving basic arithmetic reasoning beyond direct recall.",
+  "confidence": 1,
+  "notes": null
+}

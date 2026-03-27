@@ -1,0 +1,23 @@
+{
+  "stem": "Point \\( U \\) on the number line represents equivalent fractions.\n\nWhat is true about point \\( U \\)?\n\nComplete the sentences by selecting the correct answers from the drop-down menus.\n\nPoint \\( U \\) can represent [blank_1] or [blank_2]. The two fractions are equal because they both [blank_3].",
+  "instruction": "Complete the sentences by selecting the correct answers from the drop-down menus.",
+  "options": [],
+  "choice_pool": [
+    "\\frac{3}{6}",
+    "\\frac{4}{8}",
+    "have equal numerators",
+    "have equal denominators",
+    "simplify to the same fraction",
+    "are both greater than 1"
+  ],
+  "response_template": "Point U can represent [blank_1] or [blank_2]. The two fractions are equal because they both [blank_3].",
+  "visual_elements": [
+    "number line with point U marked between 0 and 1"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of equivalent fractions on a number line and reasoning about why the fractions are equal.",
+  "confidence": 1,
+  "notes": null
+}

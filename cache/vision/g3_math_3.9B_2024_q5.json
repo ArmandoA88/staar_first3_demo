@@ -1,0 +1,33 @@
+{
+  "stem": "Farmers planted more orange trees, resulting in an increase in the orange crop this year. This will affect the price of oranges.\n\nWhich statement best describes the effect on the price of oranges this year?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The price will likely increase because there are more oranges for sale."
+    },
+    {
+      "label": "B",
+      "text": "The price will likely decrease because there are more oranges for sale."
+    },
+    {
+      "label": "C",
+      "text": "The price will likely increase because there are fewer oranges for sale."
+    },
+    {
+      "label": "D",
+      "text": "The price will likely decrease because there are fewer oranges for sale."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice options labeled A, B, C, and D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding of supply and demand concepts to infer the effect of increased supply on price, involving modest reasoning.",
+  "confidence": 1,
+  "notes": null
+}

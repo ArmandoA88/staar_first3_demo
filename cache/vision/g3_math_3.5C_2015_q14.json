@@ -1,0 +1,33 @@
+{
+  "stem": "Tyler read 10 books. The number of books Eli read can be represented by this expression.\n\n4 \\times 10\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Tyler read 10 times the number of books Eli read."
+    },
+    {
+      "label": "B",
+      "text": "Eli read 10 times the number of books Tyler read."
+    },
+    {
+      "label": "C",
+      "text": "Tyler read 4 times the number of books Eli read."
+    },
+    {
+      "label": "D",
+      "text": "Eli read 4 times the number of books Tyler read."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4 \\times 10"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of multiplication expressions and comparing quantities with variables representing unknowns.",
+  "confidence": 1,
+  "notes": null
+}

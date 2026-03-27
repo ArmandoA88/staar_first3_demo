@@ -1,0 +1,33 @@
+{
+  "stem": "A classroom currently contains 6 rows of chairs with 5 chairs per row. On parents\u2019 night the classroom had twice as many chairs.\n\nWhich number sentence can be used to find the number of chairs in the classroom on parents\u2019 night?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6 + 5 + 2 = [ ]"
+    },
+    {
+      "label": "B",
+      "text": "6 \u00d7 5 \u00d7 2 = [ ]"
+    },
+    {
+      "label": "C",
+      "text": "6 \u00d7 5 \u00f7 2 = [ ]"
+    },
+    {
+      "label": "D",
+      "text": "6 + 5 \u00d7 2 = [ ]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number sentence options labeled A, B, C, D with equal signs and empty answer boxes"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding multiplication to find the total chairs initially, then using multiplication again to find twice as many, demonstrating modest reasoning with more than one concept (rows \u00d7 chairs per row, then doubled).",
+  "confidence": 0.99,
+  "notes": null
+}

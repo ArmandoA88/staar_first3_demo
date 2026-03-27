@@ -1,0 +1,31 @@
+{
+  "stem": "Kayla and Doug are playing with blocks.\n\n\u2022 Kayla has 6 blocks.\n\n\u2022 Doug has 8 blocks.\n\n\u2022 Kayla and Doug each have 3 yellow blocks.\n\nWho has a greater fraction of yellow blocks?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Kayla, because \\(\\frac{3}{6} > \\frac{3}{8}\\)"
+    },
+    {
+      "label": "B",
+      "text": "Doug, because \\(\\frac{3}{6} > \\frac{3}{8}\\)"
+    },
+    {
+      "label": "C",
+      "text": "Kayla, because \\(\\frac{3}{6} < \\frac{3}{8}\\)"
+    },
+    {
+      "label": "D",
+      "text": "Doug, because \\(\\frac{3}{6} < \\frac{3}{8}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding of fractions and comparison of fractions with different denominators, involving reasoning about part-whole relationships for two individuals.",
+  "confidence": 1,
+  "notes": null
+}

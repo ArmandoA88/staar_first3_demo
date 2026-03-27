@@ -1,0 +1,34 @@
+{
+  "stem": "Greg had a package of 14 stars to put on the 2 posters shown. He put the same number of stars on each poster, and he used all the stars in the package.\n\nPoster 1                  Poster 2\n\nHow many stars did Greg put on each poster?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "28"
+    },
+    {
+      "label": "B",
+      "text": "16"
+    },
+    {
+      "label": "C",
+      "text": "12"
+    },
+    {
+      "label": "D",
+      "text": "7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Poster 1 blank rectangle",
+    "Poster 2 blank rectangle"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires simple division to find the number of stars on each poster, which involves one straightforward step.",
+  "confidence": 1,
+  "notes": null
+}

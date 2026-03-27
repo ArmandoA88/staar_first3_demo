@@ -1,0 +1,33 @@
+{
+  "stem": "An ant crawled \\(\\frac{2}{8}\\) yard from an ant mound. On which number line does point A represent the ant\u2019s position after crawling \\(\\frac{2}{8}\\) yard?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number line with point A at the \\(\\frac{4}{8}\\) mark between 0 and 1 yard"
+    },
+    {
+      "label": "B",
+      "text": "Number line with point A at the \\(\\frac{1}{8}\\) mark between 0 and 1 yard"
+    },
+    {
+      "label": "C",
+      "text": "Number line with point A at the \\(\\frac{2}{8}\\) mark between 0 and 1 yard"
+    },
+    {
+      "label": "D",
+      "text": "Number line with point A at the \\(\\frac{3}{8}\\) mark between 0 and 1 yard"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four number lines each labeled from 0 to 1 yard with different points labeled A at various fraction marks: (A) at \\(\\frac{4}{8}\\), (B) at \\(\\frac{1}{8}\\), (C) at \\(\\frac{2}{8}\\), and (D) at \\(\\frac{3}{8}\\). Each has an ant and an ant mound at the start of the line."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The task requires simple understanding of fractions and locating the fraction \\(\\frac{2}{8}\\) on a number line, a straightforward skill for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

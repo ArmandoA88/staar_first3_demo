@@ -1,0 +1,33 @@
+{
+  "stem": "Kevin and his two brothers ate a bowl of grapes. There were 27 grapes in the bowl. Each boy ate the same number of grapes.\n\nWhat is the number of grapes each boy ate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "54"
+    },
+    {
+      "label": "B",
+      "text": "81"
+    },
+    {
+      "label": "C",
+      "text": "7"
+    },
+    {
+      "label": "D",
+      "text": "9"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text and multiple choice answer options"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves straightforward division to find equal share, a direct application of basic division suited for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

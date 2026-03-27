@@ -1,0 +1,31 @@
+{
+  "stem": "A store has 45 toy cars in 5 different colors. There are the same number of cars in each color. Which equation could be used to find the number of cars in each of the 5 colors?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5 \u00d7 9 = 45"
+    },
+    {
+      "label": "B",
+      "text": "5 \u00d7 45 = 225"
+    },
+    {
+      "label": "C",
+      "text": "45 - 5 = 40"
+    },
+    {
+      "label": "D",
+      "text": "45 + 5 = 50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding division and multiplication relationship, applying reasoning to interpret the problem context and set up an equation correctly.",
+  "confidence": 1,
+  "notes": null
+}

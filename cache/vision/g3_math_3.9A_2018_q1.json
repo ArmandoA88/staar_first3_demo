@@ -1,0 +1,31 @@
+{
+  "stem": "Nina works for a restaurant. The restaurant pays her every week for the work she does. Some weeks she works more hours than other weeks.\n\nWhich statement is most likely true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When Nina works fewer hours, she earns more income from the restaurant."
+    },
+    {
+      "label": "B",
+      "text": "When Nina works more hours, she earns more income from the restaurant."
+    },
+    {
+      "label": "C",
+      "text": "When Nina works more hours, the restaurant gets less labor from her."
+    },
+    {
+      "label": "D",
+      "text": "When Nina works fewer hours, the restaurant gets more labor from her."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires understanding the relationship between hours worked and income, which is a straightforward concept.",
+  "confidence": 0.99,
+  "notes": null
+}

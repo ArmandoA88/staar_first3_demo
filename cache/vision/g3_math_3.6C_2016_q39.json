@@ -1,0 +1,31 @@
+{
+  "stem": "Donte counted the square tiles on a rectangular floor at his school. Each tile had an area of 1 square foot. On the floor there were 9 rows of tiles and 36 tiles in each row. What is the area of the floor in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "360 square feet"
+    },
+    {
+      "label": "B",
+      "text": "45 square feet"
+    },
+    {
+      "label": "C",
+      "text": "324 square feet"
+    },
+    {
+      "label": "D",
+      "text": "90 square feet"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward multiplication of the number of rows and tiles per row to find the area, testing basic area calculation skills.",
+  "confidence": 1,
+  "notes": null
+}

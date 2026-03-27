@@ -1,0 +1,38 @@
+{
+  "stem": "The table shows the number of seats in four stadiums.\n\nNumber of Seats in Stadium\n\n| Stadium   | Number of Seats |\n|-----------|-----------------|\n| Stadium W | 74,867          |\n| Stadium X | 71,608          |\n| Stadium Y | 76,416          |\n| Stadium Z | 74,295          |\n\nCompare the number of seats in the stadiums.\n\nChoose the correct answer from each drop-down menu to complete the sentences.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [
+    {
+      "label": null,
+      "text": "Stadium W"
+    },
+    {
+      "label": null,
+      "text": "Stadium X"
+    },
+    {
+      "label": null,
+      "text": "Stadium Y"
+    },
+    {
+      "label": null,
+      "text": "Stadium Z"
+    }
+  ],
+  "choice_pool": [
+    "Stadium W",
+    "Stadium X",
+    "Stadium Y",
+    "Stadium Z"
+  ],
+  "response_template": "The stadium with the least number of seats is Stadium [blank_1].\nThe stadium with the greatest number of seats is Stadium [blank_2].",
+  "visual_elements": [
+    "table with stadium names and seat numbers"
+  ],
+  "item_type_inferred": "inline choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The task requires reading, comparing four numbers, and identifying minimum and maximum values, which involves modest reasoning.",
+  "confidence": 0.99,
+  "notes": null
+}

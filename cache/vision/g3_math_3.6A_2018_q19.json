@@ -1,0 +1,33 @@
+{
+  "stem": "Dominique put figures into groups based on certain attributes. Sometimes she put figures into more than one group.\n\nDominique's Figures\n\n| Group | Attribute                |\n|-------|--------------------------|\n| 1     | Has all sides congruent  |\n| 2     | Has exactly 4 sides       |\n| 3     | Is a polygon              |\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A square could be put into all the groups."
+    },
+    {
+      "label": "B",
+      "text": "A triangle could be put into all the groups."
+    },
+    {
+      "label": "C",
+      "text": "A rectangle could be put into Groups 1 and 2 only."
+    },
+    {
+      "label": "D",
+      "text": "A pentagon could be put into Group 1 only."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with Groups and Attributes"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of geometric figures and their attributes, and reasoning about which groups each figure fits into based on those attributes.",
+  "confidence": 1,
+  "notes": null
+}

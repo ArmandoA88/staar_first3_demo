@@ -1,0 +1,16 @@
+{
+  "stem": "Lena draws a rectangle on a grid made of same-sized squares that do not overlap.\n\n\u2022 Each square has an area of one square centimeter.\n\n\u2022 There are 32 rows in the rectangle.\n\n\u2022 Each row has 8 squares.\n\nWhat is the area of the rectangle in square centimeters?",
+  "instruction": "Enter your answer in the space provided.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Onscreen keyboard with digits 0 through 9 and navigation arrows"
+  ],
+  "item_type_inferred": "numeric_response",
+  "difficulty_label": "easy",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires straightforward multiplication of the number of rows and squares per row to find the area.",
+  "confidence": 1,
+  "notes": null
+}

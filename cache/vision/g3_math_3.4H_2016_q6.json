@@ -1,0 +1,33 @@
+{
+  "stem": "Daria has 42 baseball gloves in her store.\n\nShe will put these gloves on 7 shelves. She will put the same number of gloves on each shelf. How many gloves will Daria put on each shelf?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "8, because 42 \u00f7 7 = 8"
+    },
+    {
+      "label": "G",
+      "text": "9, because 42 \u00f7 7 = 9"
+    },
+    {
+      "label": "H",
+      "text": "6, because 42 \u00f7 7 = 6"
+    },
+    {
+      "label": "J",
+      "text": "7, because 42 \u00f7 7 = 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "42 gray baseball gloves arranged in rows"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves a straightforward division to equally distribute 42 items into 7 groups, requiring only direct recall and a basic calculation.",
+  "confidence": 1,
+  "notes": null
+}

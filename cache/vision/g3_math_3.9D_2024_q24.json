@@ -1,0 +1,33 @@
+{
+  "stem": "Which statement is an example of using credit?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Dante saves $100 per paycheck."
+    },
+    {
+      "label": "B",
+      "text": "Baylee budgets $85 for groceries each week."
+    },
+    {
+      "label": "C",
+      "text": "Maria borrows $400 for car repairs."
+    },
+    {
+      "label": "D",
+      "text": "Nina earns $250 in tips at work."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2024 \u2013 Q24"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question requires understanding of the concept of credit and identifying an example from everyday contexts, which is a straightforward reasoning task suitable for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

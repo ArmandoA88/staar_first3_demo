@@ -1,0 +1,33 @@
+{
+  "stem": "A school had 375 hot dogs to sell during a carnival. After the carnival ended, 83 hot dogs were not sold.\n\nHow many hot dogs were sold during the carnival?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "292"
+    },
+    {
+      "label": "B",
+      "text": "312"
+    },
+    {
+      "label": "C",
+      "text": "458"
+    },
+    {
+      "label": "D",
+      "text": "282"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires a straightforward subtraction to find how many hot dogs were sold: 375 - 83.",
+  "confidence": 0.99,
+  "notes": null
+}

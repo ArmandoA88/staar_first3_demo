@@ -1,0 +1,31 @@
+{
+  "stem": "Which answer choice does NOT describe the number 7,140?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The sum of seven thousands and fourteen tens"
+    },
+    {
+      "label": "B",
+      "text": "The sum of seven thousands, one hundred, and forty tens"
+    },
+    {
+      "label": "C",
+      "text": "The sum of seven thousands, one hundred, and four tens"
+    },
+    {
+      "label": "D",
+      "text": "The sum of seven thousands, one hundred, and forty ones"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding place values and translating verbal descriptions to numbers, identifying which description does not match 7,140.",
+  "confidence": 1,
+  "notes": null
+}

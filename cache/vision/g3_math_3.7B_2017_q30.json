@@ -1,0 +1,31 @@
+{
+  "stem": "A triangle has a perimeter of 18 units. Each side of this triangle is the same length.\n\nWhat is the length of one side of the triangle in units?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3 units"
+    },
+    {
+      "label": "G",
+      "text": "6 units"
+    },
+    {
+      "label": "H",
+      "text": "19 units"
+    },
+    {
+      "label": "J",
+      "text": "54 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires simple division to find the length of one side of an equilateral triangle given the perimeter, which is a direct and straightforward calculation.",
+  "confidence": 1,
+  "notes": null
+}

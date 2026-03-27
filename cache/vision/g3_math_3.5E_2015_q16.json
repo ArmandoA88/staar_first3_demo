@@ -1,0 +1,33 @@
+{
+  "stem": "There are 10 sunglasses in each display case at a store. Which table shows the number of sunglasses in different numbers of these display cases?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number of Display Cases  2  6  11  12\nNumber of Sunglasses  20  30  40  50"
+    },
+    {
+      "label": "B",
+      "text": "Number of Display Cases  2  6  11  12\nNumber of Sunglasses  20  60  110  120"
+    },
+    {
+      "label": "C",
+      "text": "Number of Display Cases  2  6  11  12\nNumber of Sunglasses  20  60  100  140"
+    },
+    {
+      "label": "D",
+      "text": "Number of Display Cases  2  6  11  12\nNumber of Sunglasses  10  20  30  40"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, and D each show 'Number of Display Cases' with values 2, 6, 11, 12 and corresponding 'Number of Sunglasses' values."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires understanding of multiplication and checking for consistency across multiple values in the table.",
+  "confidence": 0.99,
+  "notes": null
+}

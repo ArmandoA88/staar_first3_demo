@@ -1,0 +1,33 @@
+{
+  "stem": "A figure is divided into 7 sections, as shown below.\n\nWhich 2 sections are quadrilaterals?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sections 4 and 5"
+    },
+    {
+      "label": "G",
+      "text": "Sections 2 and 4"
+    },
+    {
+      "label": "H",
+      "text": "Sections 1 and 3"
+    },
+    {
+      "label": "J",
+      "text": "Sections 5 and 6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangle divided into 7 sections labeled 1 to 7"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of polygon types and identification of quadrilaterals among multiple shapes.",
+  "confidence": 0.95,
+  "notes": null
+}

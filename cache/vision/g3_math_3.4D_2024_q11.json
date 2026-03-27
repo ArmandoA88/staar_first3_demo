@@ -1,0 +1,33 @@
+{
+  "stem": "There are 8 squares on each row of a game board. One row of the game board is shown.\n\nHow many squares are on 8 rows of the game board?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "56"
+    },
+    {
+      "label": "B",
+      "text": "8"
+    },
+    {
+      "label": "C",
+      "text": "16"
+    },
+    {
+      "label": "D",
+      "text": "64"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A single row of 8 squares with alternating colors (4 white, 4 gray)"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires a simple multiplication step (8 squares \u00d7 8 rows) to find the total number of squares, which is straightforward for grade 3 students.",
+  "confidence": 1,
+  "notes": null
+}

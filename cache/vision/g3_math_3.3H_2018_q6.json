@@ -1,0 +1,33 @@
+{
+  "stem": "The number lines model two different fractions.\n\n[Two number lines shown. The first number line shows 3 steps from 0: the first jump covers 2 steps of the eighths; the second jump covers 1 step of the eighths, ending at 3/8. The second number line shows 1 jump from 0 of size 1/8.]  \n\nWhich comparison of these fractions is true?",
+  "instruction": "Choose the correct comparison of these fractions.",
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( \\frac{1}{2} > \\frac{1}{1} \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( \\frac{2}{8} > \\frac{1}{8} \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( \\frac{1}{8} = \\frac{2}{8} \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( \\frac{2}{8} < \\frac{1}{8} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two number lines with jumps indicating fractions 3/8 and 1/8."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Requires simple comparison of fractions by examining jump sizes on number lines, a direct comparison task that is straightforward for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

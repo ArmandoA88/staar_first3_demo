@@ -1,0 +1,33 @@
+{
+  "stem": "Derrick drew two congruent figures and then shaded \\( \\frac{1}{4} \\) of each figure.\nWhich figures could be the ones Derrick drew and shaded?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Two circles each divided into 4 parts; one has a quarter shaded on the top left, the other has a quarter shaded on the bottom right."
+    },
+    {
+      "label": "B",
+      "text": "Two rectangles, one divided into 4 parts and the other into 6 parts, with a single part shaded on the left side for each."
+    },
+    {
+      "label": "C",
+      "text": "Two circles each divided into 5 parts; one has a shaded part on the top left, and the other has a shaded part on the right."
+    },
+    {
+      "label": "D",
+      "text": "Two rectangles with 5 parts shaded; one is vertically divided into 5 equal parts with one shaded on the right, the other is divided into 5 horizontal parts with one part shaded on top."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four pairs of shaded figures labeled A, B, C, and D showing different configurations of shaded parts in congruent shapes."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Understanding congruency and fractional shading in different shapes requires modest reasoning to eliminate incorrect options; it is more than one concept but does not involve multi-step complex calculations.",
+  "confidence": 0.95,
+  "notes": null
+}

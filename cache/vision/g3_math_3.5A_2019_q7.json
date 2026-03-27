@@ -1,0 +1,33 @@
+{
+  "stem": "Freddie had $256 in his bank account.  \n\u2022 On Monday he put $50 more into his account.  \n\u2022 On Tuesday he took out $87 to buy a bicycle.  \nWhich equation can be used to find the amount of money Freddie had in his bank account after he took out money on Tuesday?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "256 - 50 - 87 = \u25a1"
+    },
+    {
+      "label": "B",
+      "text": "256 + 50 + 87 = \u25a1"
+    },
+    {
+      "label": "C",
+      "text": "250 - 50 + 87 = \u25a1"
+    },
+    {
+      "label": "D",
+      "text": "256 + 50 - 87 = \u25a1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equations with blanks for answers: A 256 - 50 - 87 = \u25a1, B 256 + 50 + 87 = \u25a1, C 250 - 50 + 87 = \u25a1, D 256 + 50 - 87 = \u25a1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires a straightforward one-step arithmetic equation creation based on adding and subtracting amounts from the initial value.",
+  "confidence": 1,
+  "notes": null
+}

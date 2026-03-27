@@ -1,0 +1,34 @@
+{
+  "stem": "A cafeteria had 280 ice-cream bars. During lunch some of the ice-cream bars were sold. After lunch 130 ice-cream bars were left over.\n\nWhich answer choice best represents one way to find the number of ice-cream bars sold during lunch?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\square - 280 = 130"
+    },
+    {
+      "label": "B",
+      "text": "[Table with 280 and 130 separated by a cell with ?]"
+    },
+    {
+      "label": "C",
+      "text": "280 + \\square = 130"
+    },
+    {
+      "label": "D",
+      "text": "[Number line with arrows indicating positions at 0, 100, 200, and ending past 280 near 300]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with three cells: ? | 280 | 130",
+    "Number line with marks 0 to 300 with intervals of 100 and two arrows indicating quantities"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves simple arithmetic to find the difference between total and leftover, a straightforward subtraction step appropriate for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

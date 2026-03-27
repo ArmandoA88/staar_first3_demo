@@ -1,0 +1,33 @@
+{
+  "stem": "In math class 5 students split up 65 flash cards to practice their math facts. The picture shows the total number of flash cards. Each student took the same number of flash cards.\n\nWhat is the number of flash cards each student took?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "13"
+    },
+    {
+      "label": "G",
+      "text": "15"
+    },
+    {
+      "label": "H",
+      "text": "70"
+    },
+    {
+      "label": "J",
+      "text": "60"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A picture showing total flash cards (not transcribable)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward division of the total number of flash cards by the number of students to find an equal share, which is a direct arithmetic operation appropriate for grade 3.",
+  "confidence": 0.98,
+  "notes": null
+}

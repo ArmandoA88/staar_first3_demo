@@ -1,0 +1,38 @@
+{
+  "stem": "Byron draws the fraction model shown.\n\nHe claims that the shaded part represents \\( \\frac{1}{7} \\) of the whole model.\n\nComplete the statement to describe Byron's claim.\n\nChoose the correct answer from each drop-down menu to complete the sentence.\n\nByron's claim is [blank_1] because \\( \\frac{1}{7} \\) of a model should be represented by 1 shaded part [blank_2].",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "correct"
+    },
+    {
+      "label": "B",
+      "text": "incorrect"
+    },
+    {
+      "label": "C",
+      "text": "more than"
+    },
+    {
+      "label": "D",
+      "text": "less than"
+    }
+  ],
+  "choice_pool": [
+    "correct",
+    "incorrect",
+    "more than",
+    "less than"
+  ],
+  "response_template": "Byron's claim is [blank_1] because \\( \\frac{1}{7} \\) of a model should be represented by 1 shaded part [blank_2].",
+  "visual_elements": [
+    "pie chart with 7 segments, 2 segments shaded"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 4,
+  "difficulty_rationale": "Requires understanding of fractions and interpreting fraction models; visual reasoning to compare shaded parts to fraction 1/7 for accuracy.",
+  "confidence": 0.95,
+  "notes": null
+}

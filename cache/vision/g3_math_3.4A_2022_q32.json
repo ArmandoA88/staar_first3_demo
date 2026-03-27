@@ -1,0 +1,33 @@
+{
+  "stem": "At the beginning of September, Mr. Watkins had 543 erasers.\n\n\u2022 During September he gave his students 99 of the erasers.\n\u2022 During October he gave his students 212 of the erasers.\n\nHow many erasers did Mr. Watkins have at the end of October?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "854"
+    },
+    {
+      "label": "G",
+      "text": "232"
+    },
+    {
+      "label": "H",
+      "text": "430"
+    },
+    {
+      "label": "J",
+      "text": "344"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text showing problem statement and answer options F, G, H, J"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves simple subtraction steps applied sequentially to find the remaining quantity but does not involve complex reasoning or multiple concepts.",
+  "confidence": 0.99,
+  "notes": null
+}

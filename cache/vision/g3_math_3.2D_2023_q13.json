@@ -1,0 +1,36 @@
+{
+  "stem": "Which list contains only numbers that belong between 5,090 and 6,300 on a number line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "53,450\n54,258\n61,988"
+    },
+    {
+      "label": "B",
+      "text": "5,009\n5,894\n6,132"
+    },
+    {
+      "label": "C",
+      "text": "5,450\n6,215\n6,381"
+    },
+    {
+      "label": "D",
+      "text": "5,746\n6,099\n6,211"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "boxed option A containing numbers 53,450, 54,258, and 61,988",
+    "boxed option B containing numbers 5,009, 5,894, and 6,132",
+    "boxed option C containing numbers 5,450, 6,215, and 6,381",
+    "boxed option D containing numbers 5,746, 6,099, and 6,211"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires identifying which numbers lie within a specified range by comparing multiple numbers to boundary values, involving multiple reasoning steps.",
+  "confidence": 1,
+  "notes": null
+}

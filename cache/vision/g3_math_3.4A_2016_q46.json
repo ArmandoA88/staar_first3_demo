@@ -1,0 +1,33 @@
+{
+  "stem": "Mr. Thompson sold 247 meals on Tuesday at his restaurant. He sold 516 meals on Wednesday. What is the difference between the numbers of meals Mr. Thompson sold on these two days?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "763"
+    },
+    {
+      "label": "G",
+      "text": "331"
+    },
+    {
+      "label": "H",
+      "text": "379"
+    },
+    {
+      "label": "J",
+      "text": "269"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Q46 text and answer choices"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward subtraction to find the difference between two given numbers, a direct recall of subtraction concepts.",
+  "confidence": 1,
+  "notes": null
+}

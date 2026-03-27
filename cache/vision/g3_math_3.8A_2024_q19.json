@@ -1,0 +1,34 @@
+{
+  "stem": "A restaurant sells four sizes of pizza. The table shows the pizzas sold.\n\n| Size       | Number |\n|------------|---------|\n| Small      | 4       |\n| Medium     | 10      |\n| Large      | 18      |\n| Extra large| 8       |\n\nWhich pictograph shows the data in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Pizzas Sold\nSize      Number\nSmall     \ud83c\udf55\nMedium    \ud83c\udf55\ud83c\udf55\ud83c\udf55\nLarge     \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\nExtra large \ud83c\udf55\ud83c\udf55\nEach \ud83c\udf55 represents 4 pizzas."
+    },
+    {
+      "label": "B",
+      "text": "Pizzas Sold\nSize      Number\nSmall     \ud83c\udf55\nMedium    \ud83c\udf55\ud83c\udf55\ud83c\udf13\nLarge     \ud83c\udf55\ud83c\udf55\nExtra large \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf13\nEach \ud83c\udf55 represents 4 pizzas."
+    },
+    {
+      "label": "C",
+      "text": "Pizzas Sold\nSize      Number\nSmall     \ud83c\udf55\nMedium    \ud83c\udf55\ud83c\udf55\ud83c\udf13\nLarge     \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\nExtra large \ud83c\udf55\ud83c\udf55\nEach \ud83c\udf55 represents 4 pizzas."
+    },
+    {
+      "label": "D",
+      "text": "Pizzas Sold\nSize      Number\nSmall     \ud83c\udf55\nMedium    \ud83c\udf55\ud83c\udf55\ud83c\udf13\nLarge     \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf13\nExtra large \nEach \ud83c\udf55 represents 4 pizzas."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Pizzas Sold table with Size and Number columns",
+    "Four pictographs labeled A, B, C, D with pizza icons representing counts"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires interpreting a table, converting numbers to multiple of 4, and comparing pictographs with partial icons (whole and fraction) to represent quantities accurately, involving multi-step reasoning and understanding of fractions.",
+  "confidence": 0.95,
+  "notes": null
+}

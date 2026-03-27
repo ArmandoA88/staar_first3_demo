@@ -1,0 +1,33 @@
+{
+  "stem": "Thomas put a ham in the oven at 4:45 P.M. After 15 minutes he put a cake in the oven. The ham and the cake were in the oven together for 60 minutes. Then Thomas took them both out of the oven.",
+  "instruction": "At what time did Thomas take both the ham and cake out of the oven?",
+  "options": [
+    {
+      "label": "A",
+      "text": "5:45 P.M."
+    },
+    {
+      "label": "B",
+      "text": "6:30 P.M."
+    },
+    {
+      "label": "C",
+      "text": "5:15 P.M."
+    },
+    {
+      "label": "D",
+      "text": "6:00 P.M."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "timeline from 4:30 to 6:45 marked every 15 minutes, labels at 4:30, 4:45, 5:00, 5:15, 5:30, 5:45, 6:00, 6:15, 6:30, 6:45"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding of elapsed time and sequencing events with minutes and clock times.",
+  "confidence": 1,
+  "notes": null
+}

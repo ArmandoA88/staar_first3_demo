@@ -1,0 +1,16 @@
+{
+  "stem": "The perimeter of the rectangular floor of Mr. Bryan\u2019s cabin is 46 feet. The width of the floor is 10 feet, as shown.\n\nWhat is the length of the floor of Mr. Bryan\u2019s cabin in feet?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle diagram with one side labeled 10 ft"
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding the perimeter formula of a rectangle and solving for an unknown side, involving basic algebra.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "The Leija family is on a road trip. The number line represents the distance the family drove on Monday from their home to point A.\n\nAbout how many miles did the family drive on Monday?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "300, because point A is less than halfway between 300 and 400"
+    },
+    {
+      "label": "B",
+      "text": "500, because point A is more than halfway between 300 and 500"
+    },
+    {
+      "label": "C",
+      "text": "200, because point A is less than halfway between 200 and 400"
+    },
+    {
+      "label": "D",
+      "text": "400, because point A is more than halfway between 300 and 400"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line from 0 miles to 600 miles, marked in increments of 100. Point A is marked at 375 miles, between 300 and 400, closer to 400."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires reading a number line and estimating distance, a single straightforward reasoning step for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

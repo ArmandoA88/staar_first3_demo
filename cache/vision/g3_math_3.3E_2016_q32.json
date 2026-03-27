@@ -1,0 +1,33 @@
+{
+  "stem": "Lonny opened a new box of granola bars. Lonny and three of his friends equally shared the granola bars shown in the picture.\n\nWhat fraction of the granola bars did each of them get?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3/8"
+    },
+    {
+      "label": "G",
+      "text": "2/8"
+    },
+    {
+      "label": "H",
+      "text": "1/8"
+    },
+    {
+      "label": "J",
+      "text": "4/8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "7 granola bars images"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires dividing a small number of items equally among a known number of people and expressing the result as a fraction, which involves straightforward division and fraction understanding suitable for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

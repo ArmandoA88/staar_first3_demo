@@ -1,0 +1,33 @@
+{
+  "stem": "Which statement is an example of using credit?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Paying sales tax at a restaurant"
+    },
+    {
+      "label": "B",
+      "text": "Saving part of your income in a bank"
+    },
+    {
+      "label": "C",
+      "text": "Using cash to pay for a book"
+    },
+    {
+      "label": "D",
+      "text": "Getting a loan to pay for a car"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question requires basic understanding of the concept of credit and identifying the correct example from common financial actions, which is a straightforward recall and comprehension task for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

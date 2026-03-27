@@ -1,0 +1,46 @@
+{
+  "stem": "Andrea has 67 green marbles and 54 blue marbles. She rounds each number to the nearest ten to estimate how many marbles she has in total.\n\nComplete the sentences to show how Andrea estimates the total.",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "70"
+    },
+    {
+      "label": null,
+      "text": "50"
+    },
+    {
+      "label": null,
+      "text": "130"
+    },
+    {
+      "label": null,
+      "text": "60"
+    },
+    {
+      "label": null,
+      "text": "110"
+    },
+    {
+      "label": null,
+      "text": "120"
+    }
+  ],
+  "choice_pool": [
+    "70",
+    "50",
+    "130",
+    "60",
+    "110",
+    "120"
+  ],
+  "response_template": "She rounds 67 green marbles to [blank_1].\n\nShe rounds 54 blue marbles to [blank_2].\n\nAndrea estimates she has [blank_3] marbles in total.",
+  "visual_elements": [],
+  "item_type_inferred": "Drag and Drop",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires rounding two numbers to the nearest ten and then adding the rounded numbers to estimate a total, involving multiple concepts.",
+  "confidence": 0.98,
+  "notes": null
+}

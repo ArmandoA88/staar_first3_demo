@@ -1,0 +1,33 @@
+{
+  "stem": "Denise planted a flower garden with a rectangular section and a square section, as shown.\n\n[Image of an L-shaped garden divided into squares, each representing 1 square foot]\n\nWhat is the total area of the garden in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "56 square feet"
+    },
+    {
+      "label": "B",
+      "text": "112 square feet"
+    },
+    {
+      "label": "C",
+      "text": "80 square feet"
+    },
+    {
+      "label": "D",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "L-shaped garden diagram divided into 1 square foot units"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires counting or calculating the area of composite shapes, understanding area units, and summing areas.",
+  "confidence": 0.95,
+  "notes": null
+}

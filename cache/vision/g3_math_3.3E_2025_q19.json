@@ -1,0 +1,33 @@
+{
+  "stem": "A school chooses 4 students to paint an entire wall. The model shown represents the wall divided into equal parts. Each student will paint the same amount of the wall. What fraction of the wall will each student paint?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{8} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{4}{8} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{12}{8} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{2}{8} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A rectangle divided into 8 equal smaller rectangles arranged in 2 rows and 4 columns."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question requires direct understanding of dividing a whole into equal parts and identifying the fraction represented by each part; it involves basic fraction concept and division of the number of parts by the number of students.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "How many guests rated the hotel fewer than 3 stars?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2"
+    },
+    {
+      "label": "B",
+      "text": "3"
+    },
+    {
+      "label": "C",
+      "text": "6"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot titled 'Hotel Rating' with number line from 1 to 5 with dots representing guest ratings: 5 dots above 1, 1 dot above 2, 3 dots above 3, 4 dots above 4, and 4 dots above 5"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires a straightforward count of dots representing ratings fewer than 3, involving simple interpretation of a dot plot.",
+  "confidence": 1,
+  "notes": null
+}

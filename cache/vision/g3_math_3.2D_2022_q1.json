@@ -1,0 +1,33 @@
+{
+  "stem": "Which comparison is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "68 > 649"
+    },
+    {
+      "label": "B",
+      "text": "571 > 582"
+    },
+    {
+      "label": "C",
+      "text": "730 < 806"
+    },
+    {
+      "label": "D",
+      "text": "709 < 692"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "comparison options"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question requires direct comparison of numbers to identify the true inequality, a single-step reasoning suitable for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

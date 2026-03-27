@@ -1,0 +1,31 @@
+{
+  "stem": "An art teacher had 736 crayons.\n\n\u2022 She threw away 197 broken crayons.\n\u2022 Then she bought 150 more crayons.\n\nWhich equation shows how to find the number of crayons the art teacher has now?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "736 - 197 - 150 = \u25a1"
+    },
+    {
+      "label": "B",
+      "text": "736 - 197 + 150 = \u25a1"
+    },
+    {
+      "label": "C",
+      "text": "736 + 197 + 150 = \u25a1"
+    },
+    {
+      "label": "D",
+      "text": "736 + 197 - 150 = \u25a1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This is a straightforward arithmetic problem involving simple subtraction and addition to find the current number of crayons.",
+  "confidence": 1,
+  "notes": null
+}

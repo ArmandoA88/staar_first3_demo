@@ -1,0 +1,36 @@
+{
+  "stem": "Dana used the money shown to buy a snack.\n\nWhat amount of money did Dana use to buy the snack?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$1.37"
+    },
+    {
+      "label": "B",
+      "text": "$1.32"
+    },
+    {
+      "label": "C",
+      "text": "$1.40"
+    },
+    {
+      "label": "D",
+      "text": "$1.27"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "one dollar bill",
+    "quarter coin",
+    "dime coin",
+    "two penny coins"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Requires simple addition of coin and bill values, direct recall of coin amounts, and one straightforward step to find total.",
+  "confidence": 1,
+  "notes": null
+}

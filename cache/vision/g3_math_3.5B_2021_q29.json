@@ -1,0 +1,37 @@
+{
+  "stem": "Cassandra used all the balloons in 11 packages to decorate for a party.\n\n\u2022 There were 6 balloons in each package.\n\u2022 Half of the balloons in each package were red.\n\nWhich equation can be used to find the total number of red balloons Cassandra used?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "11 \u00d7 6 \u2212 3 = 63"
+    },
+    {
+      "label": "B",
+      "text": "11 \u00d7 6 \u00f7 2 = 33"
+    },
+    {
+      "label": "C",
+      "text": "11 \u2212 6 + 2 = 7"
+    },
+    {
+      "label": "D",
+      "text": "11 \u00d7 6 \u00f7 3 = 22"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text: Cassandra used all the balloons in 11 packages to decorate for a party.",
+    "bullet: There were 6 balloons in each package.",
+    "bullet: Half of the balloons in each package were red.",
+    "question: Which equation can be used to find the total number of red balloons Cassandra used?",
+    "four labeled choices: A 11 \u00d7 6 \u2212 3 = 63, B 11 \u00d7 6 \u00f7 2 = 33, C 11 \u2212 6 + 2 = 7, D 11 \u00d7 6 \u00f7 3 = 22"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires applying one straightforward multiplication step and then dividing or halving the result, which is direct and involves simple reasoning suitable for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

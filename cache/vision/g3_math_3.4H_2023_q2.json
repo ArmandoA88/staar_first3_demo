@@ -1,0 +1,33 @@
+{
+  "stem": "Lupita has 26 pieces of candy as shown.\n\nShe puts two pieces of candy each into bags.\n\nHow many bags does Lupita need for all of the candy?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2"
+    },
+    {
+      "label": "B",
+      "text": "24"
+    },
+    {
+      "label": "C",
+      "text": "3"
+    },
+    {
+      "label": "D",
+      "text": "13"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "candy icons in 3 rows representing 26 pieces of candy"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward division of total candies by the number of candies per bag, which is a single-step calculation.",
+  "confidence": 0.99,
+  "notes": null
+}

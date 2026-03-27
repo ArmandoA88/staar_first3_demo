@@ -1,0 +1,31 @@
+{
+  "stem": "A baseball league bought 9 boxes of baseballs. Each box contained 36 baseballs. How many baseballs did the league buy?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "324"
+    },
+    {
+      "label": "G",
+      "text": "274"
+    },
+    {
+      "label": "H",
+      "text": "84"
+    },
+    {
+      "label": "J",
+      "text": "34"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward multiplication of two numbers to find the total baseballs, with no additional steps or complex reasoning.",
+  "confidence": 1,
+  "notes": null
+}

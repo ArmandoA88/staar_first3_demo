@@ -1,0 +1,36 @@
+{
+  "stem": "The total number of keys on a computer keyboard is 87.\n\n\u2022 There are 26 letter keys and 21 special symbol keys on the keyboard.\n\u2022 The rest of the keys are function keys.\n\nWhich model represents one way to find the number of function keys on the keyboard?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number line with sections labeled Function (0 to 26), Special symbol (26 to 47), Letter (47 to 87)"
+    },
+    {
+      "label": "B",
+      "text": "Bar model with total 87 above, parts 26, 21, and ? in a row"
+    },
+    {
+      "label": "C",
+      "text": "Number line with sections labeled Special symbol (0 to 21), Letter (21 to 26), Function (26 to 87)"
+    },
+    {
+      "label": "D",
+      "text": "Bar model with parts 26, 21, and 87 below, and ? above"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line labeled A: 0 to 90, divided into Function, Special symbol, Letter segments in that order from left to right",
+    "Bar model labeled B: total 87 with parts 26, 21, and ?",
+    "Number line labeled C: 0 to 90, divided into Special symbol, Letter, Function segments in that order from left to right",
+    "Bar model labeled D: parts 26, 21, and 87 with ? above"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of parts-whole relationships and interpreting different models; involves subtracting known parts from total to find unknown part.",
+  "confidence": 1,
+  "notes": null
+}

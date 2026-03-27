@@ -1,0 +1,33 @@
+{
+  "stem": "A container of liquid laundry detergent at a grocery store is marked with the volume of detergent inside. Which unit of measurement could be marked on the container?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Kilograms"
+    },
+    {
+      "label": "B",
+      "text": "Meters"
+    },
+    {
+      "label": "C",
+      "text": "Pounds"
+    },
+    {
+      "label": "D",
+      "text": "Liters"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text showing question and four multiple-choice options labeled A, B, C, D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question involves direct recall of appropriate units of measurement for volume, a straightforward concept suitable for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

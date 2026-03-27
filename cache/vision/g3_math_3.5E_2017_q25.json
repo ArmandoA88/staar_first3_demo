@@ -1,0 +1,33 @@
+{
+  "stem": "Mr. Morales gives bonus points when a challenge question on a test is answered correctly. The table shows the relationship between test scores before and after Mr. Morales gives the bonus points.\n\nTest Scores\n\n| Test Score Before Bonus Points | Test Score After Bonus Points |\n| ------------------------------ | ----------------------------- |\n| 77                             | 81                            |\n| 79                             | 83                            |\n| 81                             | 85                            |\n| 83                             | 87                            |\n\nWhich of these describes the relationship shown in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The test score before bonus points minus 2 equals the test score after bonus points."
+    },
+    {
+      "label": "B",
+      "text": "The test score before bonus points minus 4 equals the test score after bonus points."
+    },
+    {
+      "label": "C",
+      "text": "The test score before bonus points plus 2 equals the test score after bonus points."
+    },
+    {
+      "label": "D",
+      "text": "The test score before bonus points plus 4 equals the test score after bonus points."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with two columns labeled 'Test Score Before Bonus Points' and 'Test Score After Bonus Points' with rows: 77 and 81, 79 and 83, 81 and 85, 83 and 87."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves identifying a simple arithmetic relationship (addition or subtraction) between two sets of numbers in a table, which is a straightforward step for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

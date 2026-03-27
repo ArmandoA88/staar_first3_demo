@@ -1,0 +1,48 @@
+{
+  "stem": "A number is shown.\n\n858,386\n\nCompare the value of 8 in each place value.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [
+    {
+      "label": null,
+      "text": "1"
+    },
+    {
+      "label": null,
+      "text": "10"
+    },
+    {
+      "label": null,
+      "text": "100"
+    },
+    {
+      "label": null,
+      "text": "1,000"
+    },
+    {
+      "label": null,
+      "text": "10,000"
+    },
+    {
+      "label": null,
+      "text": "100,000"
+    }
+  ],
+  "choice_pool": [
+    "1",
+    "10",
+    "100",
+    "1,000",
+    "10,000",
+    "100,000"
+  ],
+  "response_template": "The value of the 8 in the hundred thousands place is [blank_1] times greater than the value of the 8 in the thousands place.\n\nThe value of the 8 in the hundred thousands place is [blank_2] times greater than the value of the 8 in the tens place.",
+  "visual_elements": [
+    "The number 858,386 displayed showing digits and place value context."
+  ],
+  "item_type_inferred": "Inline Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding and comparing place values of digits in a large number, involving reasoning about place value and multiplication factors.",
+  "confidence": 0.98,
+  "notes": null
+}

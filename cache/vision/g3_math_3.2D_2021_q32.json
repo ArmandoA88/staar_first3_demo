@@ -1,0 +1,31 @@
+{
+  "stem": "Which comparison is NOT true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "17,090 > 2,984"
+    },
+    {
+      "label": "G",
+      "text": "34,162 < 3,986"
+    },
+    {
+      "label": "H",
+      "text": "16,538 > 15,981"
+    },
+    {
+      "label": "J",
+      "text": "2,438 < 3,438"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Requires basic comparison of multi-digit numbers, a single-step process suitable for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

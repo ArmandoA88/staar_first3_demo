@@ -1,0 +1,33 @@
+{
+  "stem": "A table with the areas of four states is shown.\n\nState Areas\n\n| State         | Area (square miles) |\n|---------------|---------------------|\n| Connecticut   | 4,845               |\n| Vermont       | 9,624               |\n| Hawaii        | 6,423               |\n| New Hampshire | 9,350               |\n\nWhich list represents the areas of the states ordered from least to greatest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Vermont, New Hampshire, Hawaii, Connecticut"
+    },
+    {
+      "label": "B",
+      "text": "Connecticut, Hawaii, New Hampshire, Vermont"
+    },
+    {
+      "label": "C",
+      "text": "Connecticut, Hawaii, Vermont, New Hampshire"
+    },
+    {
+      "label": "D",
+      "text": "New Hampshire, Hawaii, Vermont, Connecticut"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns State and Area (square miles) with data Connecticut 4,845, Vermont 9,624, Hawaii 6,423, New Hampshire 9,350"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding a table, extracting numerical data, and ordering items from least to greatest, involving modest reasoning about numeric size and order.",
+  "confidence": 1,
+  "notes": null
+}

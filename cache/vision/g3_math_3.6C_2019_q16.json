@@ -1,0 +1,33 @@
+{
+  "stem": "The shaded figure on the grid represents Erin\u2019s rectangular lawn.\n\nWhat is the area in square meters of Erin\u2019s lawn?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "18 square meters"
+    },
+    {
+      "label": "G",
+      "text": "36 square meters"
+    },
+    {
+      "label": "H",
+      "text": "62 square meters"
+    },
+    {
+      "label": "J",
+      "text": "72 square meters"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "grid with rectangular lawn shaded, 6 units by 12 units, a legend showing one square equals 1 square meter"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires calculating area of a rectangle by counting grid squares or using length times width, involving modest reasoning about area measurement.",
+  "confidence": 1,
+  "notes": null
+}

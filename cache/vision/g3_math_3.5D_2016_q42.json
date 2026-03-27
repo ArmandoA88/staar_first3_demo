@@ -1,0 +1,33 @@
+{
+  "stem": "What number goes in the [blank_1] to make a true statement? [blank_1] \u00d7 5 = 45",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "50"
+    },
+    {
+      "label": "G",
+      "text": "8"
+    },
+    {
+      "label": "H",
+      "text": "9"
+    },
+    {
+      "label": "J",
+      "text": "40"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "[blank_1] \u00d7 5 = 45"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires solving a simple multiplication equation with one unknown, which is a straightforward, single-step task suitable for grade 3.",
+  "confidence": 1.0,
+  "notes": null
+}

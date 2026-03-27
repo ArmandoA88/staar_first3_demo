@@ -1,0 +1,37 @@
+{
+  "stem": "Nelson is playing a math game. He needs to match two cards that show equivalent shaded fractions.\n\nNelson's Card\n[Image of circle divided into 3 equal parts with 2 parts shaded]\n\nWhich of these cards shows a fraction that is equivalent to the fraction on Nelson's card?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[Image of circle divided into 4 equal parts with 2 parts shaded]"
+    },
+    {
+      "label": "B",
+      "text": "[Image of circle divided into 6 equal parts with 2 parts shaded]"
+    },
+    {
+      "label": "C",
+      "text": "[Image of circle divided into 8 equal parts with 4 parts shaded]"
+    },
+    {
+      "label": "D",
+      "text": "[Image of circle divided into 6 equal parts with 4 parts shaded]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circle divided into 3 equal parts with 2 parts shaded (Nelson's Card)",
+    "Circle divided into 4 equal parts with 2 parts shaded (Option A)",
+    "Circle divided into 6 equal parts with 2 parts shaded (Option B)",
+    "Circle divided into 8 equal parts with 4 parts shaded (Option C)",
+    "Circle divided into 6 equal parts with 4 parts shaded (Option D)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires understanding of equivalent fractions and comparing shaded parts in circles divided into different numbers of segments.",
+  "confidence": 0.97,
+  "notes": null
+}

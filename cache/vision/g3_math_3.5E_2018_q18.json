@@ -1,0 +1,36 @@
+{
+  "stem": "A store is having a sale on books. The sale price of each book is $6 less than the regular price. Which table shows prices of different books at this store?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Regular Price $12 $19 $26 $33\nSale Price $18 $25 $32 $39"
+    },
+    {
+      "label": "G",
+      "text": "Regular Price $18 $25 $32 $39\nSale Price $12 $19 $26 $33"
+    },
+    {
+      "label": "H",
+      "text": "Regular Price $36 $30 $24 $18\nSale Price $34 $28 $22 $16"
+    },
+    {
+      "label": "J",
+      "text": "Regular Price $36 $30 $24 $18\nSale Price $6 $5 $4 $3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table F: Regular Price $12 $19 $26 $33, Sale Price $18 $25 $32 $39",
+    "Table G: Regular Price $18 $25 $32 $39, Sale Price $12 $19 $26 $33",
+    "Table H: Regular Price $36 $30 $24 $18, Sale Price $34 $28 $22 $16",
+    "Table J: Regular Price $36 $30 $24 $18, Sale Price $6 $5 $4 $3"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding and applying the rule (sale price is $6 less than regular price) to multiple data points in tables to identify the correct one.",
+  "confidence": 1,
+  "notes": null
+}

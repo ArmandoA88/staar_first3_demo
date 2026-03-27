@@ -1,0 +1,31 @@
+{
+  "stem": "Last month the school store sold 107 T-shirts and 88 sweatshirts.\n\nHow many more T-shirts were sold than sweatshirts?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "19"
+    },
+    {
+      "label": "B",
+      "text": "29"
+    },
+    {
+      "label": "C",
+      "text": "185"
+    },
+    {
+      "label": "D",
+      "text": "195"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a single straightforward subtraction step to find how many more T-shirts were sold than sweatshirts.",
+  "confidence": 1,
+  "notes": null
+}

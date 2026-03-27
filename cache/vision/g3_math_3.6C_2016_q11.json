@@ -1,0 +1,16 @@
+{
+  "stem": "Felicia started placing square tiles inside a rectangle, as shown in the diagram. Each square tile has a side length of 1 cm.\n\nShe continued placing square tiles without any overlaps to cover the rectangle. What is the area of the rectangle in square centimeters?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram of a rectangle partially covered with square tiles; the rectangle is 3 tiles high and 7 tiles wide; each tile is 1 cm by 1 cm"
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires interpretation of the diagram to find the length and height of the rectangle and then to compute the area by multiplying length by height.",
+  "confidence": 0.98,
+  "notes": null
+}

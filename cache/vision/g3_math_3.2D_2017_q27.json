@@ -1,0 +1,31 @@
+{
+  "stem": "The list shows three clues about a number.\n\n\u2022 The number is less than 6,538.\n\u2022 The number is greater than 6,355.\n\u2022 The number has a digit less than 5 in the hundreds place.\n\nWhich of these could be the number described?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6,549"
+    },
+    {
+      "label": "B",
+      "text": "6,268"
+    },
+    {
+      "label": "C",
+      "text": "6,519"
+    },
+    {
+      "label": "D",
+      "text": "6,449"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires reasoning with inequalities and place value concepts to eliminate options.",
+  "confidence": 0.99,
+  "notes": null
+}

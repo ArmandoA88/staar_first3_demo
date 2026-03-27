@@ -1,0 +1,36 @@
+{
+  "stem": "Evie finds the sum of 70 hundreds, 1 ten, and 15 ones.\n\nWhat number represents Evie's sum?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "70,025"
+    },
+    {
+      "label": "B",
+      "text": "7,025"
+    },
+    {
+      "label": "C",
+      "text": "70,115"
+    },
+    {
+      "label": "D",
+      "text": "7,015"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "choice A: 70,025",
+    "choice B: 7,025",
+    "choice C: 70,115",
+    "choice D: 7,015"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding place value with regrouping the ones (15 ones = 1 ten + 5 ones) and then summing correctly.",
+  "confidence": 1,
+  "notes": null
+}

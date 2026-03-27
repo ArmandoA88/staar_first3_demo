@@ -1,0 +1,34 @@
+{
+  "stem": "Heidi is making a rectangular card. The shaded rectangle on the grid represents the card.\n\nWhat is the area of this card in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "18 square centimeters"
+    },
+    {
+      "label": "G",
+      "text": "36 square centimeters"
+    },
+    {
+      "label": "H",
+      "text": "90 square centimeters"
+    },
+    {
+      "label": "J",
+      "text": "81 square centimeters"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "grid with shaded rectangle spanning 9 squares by 9 squares",
+    "key showing one square = 1 square centimeter"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires calculating area by counting grid squares or multiplying length by width, a straightforward geometry application for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

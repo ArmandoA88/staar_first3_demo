@@ -1,0 +1,35 @@
+{
+  "stem": "This list shows three clues about a number:\n\n\u2022 The number is greater than 89,236.\n\n\u2022 The number is less than 91,103.\n\n\u2022 The number has a digit greater than 7 in the thousands place.\n\nWhich of these could be the number?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "88,598"
+    },
+    {
+      "label": "B",
+      "text": "91,057"
+    },
+    {
+      "label": "C",
+      "text": "89,099"
+    },
+    {
+      "label": "D",
+      "text": "89,572"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "89,236",
+    "91,103",
+    "greater than 7"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires reasoning about number size comparisons and digit place value to determine which option meets all three clues simultaneously.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,37 @@
+{
+  "stem": "Charlie emptied his piggy bank and counted $5.63 in savings. Which set of bills and coins could not be the total amount of money that was in Charlie\u2019s piggy bank?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5 one-dollar bills, 3 quarters, 1 dime, 3 pennies"
+    },
+    {
+      "label": "B",
+      "text": "4 one-dollar bills, 5 nickels, 1 quarter, 3 pennies"
+    },
+    {
+      "label": "C",
+      "text": "6 one-dollar bills, 6 nickels, 4 quarters, 3 pennies"
+    },
+    {
+      "label": "D",
+      "text": "5 one-dollar bills, 2 quarters, 2 dimes, 3 nickels"
+    },
+    {
+      "label": null,
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "images of bills and coins as depicted in each option A, B, C, D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires adding dollar bills and coins, and determining which total does not equal $5.63, involving multiple steps of counting and comparing values.",
+  "confidence": 0.95,
+  "notes": null
+}

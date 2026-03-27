@@ -1,0 +1,33 @@
+{
+  "stem": "Elisha listed the amounts she paid for guitar lessons for three months.\n\n\u2022 February: $78\n\u2022 March: $90\n\u2022 April: $156\n\nWhat is the amount Elisha paid for guitar lessons for these three months?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$314"
+    },
+    {
+      "label": "B",
+      "text": "$324"
+    },
+    {
+      "label": "C",
+      "text": "$114"
+    },
+    {
+      "label": "D",
+      "text": "$325"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bullet list of months and amounts: February: $78, March: $90, April: $156"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires adding three amounts, which is a straightforward arithmetic task appropriate for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "stem": "A sports complex has 4 basketball courts. There are 2 bags of basketballs for each court. Each bag contains 7 basketballs.\n\nComplete the equation to represent the total number of basketballs at the sports complex.\n\nMove the correct answer to each box. Each answer may be used more than once. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "+"
+    },
+    {
+      "label": null,
+      "text": "\u2212"
+    },
+    {
+      "label": null,
+      "text": "\u00d7"
+    },
+    {
+      "label": null,
+      "text": "\u00f7"
+    }
+  ],
+  "choice_pool": [
+    "+",
+    "\u2212",
+    "\u00d7",
+    "\u00f7"
+  ],
+  "response_template": "4 [blank_1] 2 [blank_2] 7 = [blank_3]",
+  "visual_elements": [
+    "4 [box] 2 [box] 7 = [square]",
+    "Operators: +, \u2212, \u00d7, \u00f7"
+  ],
+  "item_type_inferred": "drag and drop",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding of multiplication and the composition of quantities, and choosing correct operations for the equation.",
+  "confidence": 0.99,
+  "notes": null
+}

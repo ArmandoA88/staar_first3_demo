@@ -1,0 +1,33 @@
+{
+  "stem": "Felix swam, rode his bike, and ran in a race.\n\n\u2022 He spent 19 minutes swimming.\n\u2022 He spent 21 minutes riding his bike.\n\u2022 He spent 30 minutes running.\n\nWhat was the total amount of time Felix spent swimming, riding his bike, and running in this race?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1 hour 20 minutes"
+    },
+    {
+      "label": "B",
+      "text": "40 minutes"
+    },
+    {
+      "label": "C",
+      "text": "1 hour 10 minutes"
+    },
+    {
+      "label": "D",
+      "text": "1 hour"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "clock face showing 1:10"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a simple addition of times and conversion into hours and minutes, a straightforward step with no complex reasoning.",
+  "confidence": 1,
+  "notes": null
+}

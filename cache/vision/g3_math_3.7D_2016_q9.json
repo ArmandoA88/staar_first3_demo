@@ -1,0 +1,31 @@
+{
+  "stem": "Patrick\u2019s class collected boxes of food for charity. Which unit of measurement should be used to measure the weight of the boxes of food?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Quarts"
+    },
+    {
+      "label": "B",
+      "text": "Pounds"
+    },
+    {
+      "label": "C",
+      "text": "Gallons"
+    },
+    {
+      "label": "D",
+      "text": "Fluid ounces"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question requires recognizing that weight is measured in pounds, which is a direct recall of common units of measurement relevant to grade 3.",
+  "confidence": 1,
+  "notes": null
+}

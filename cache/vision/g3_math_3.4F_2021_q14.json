@@ -1,0 +1,16 @@
+{
+  "stem": "There are 4 erasers on each table in a classroom. There are 5 tables in the classroom.\n\nWhat is the total number of erasers on all of the tables in this classroom?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There are 4 erasers on each table in a classroom. There are 5 tables in the classroom."
+  ],
+  "item_type_inferred": "numeric_response",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires a straightforward multiplication to find the total number of erasers, which is a direct application of multiplication without additional steps or complex reasoning.",
+  "confidence": 0.98,
+  "notes": null
+}

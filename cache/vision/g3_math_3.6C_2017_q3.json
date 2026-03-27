@@ -1,0 +1,33 @@
+{
+  "stem": "A model of a rectangular bulletin board is shown. The top row has been divided into squares of equal size.\n\nThe rest of the model will also be divided into squares of the same size. What is the area in square units represented by this model?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8 square units"
+    },
+    {
+      "label": "B",
+      "text": "15 square units"
+    },
+    {
+      "label": "C",
+      "text": "12 square units"
+    },
+    {
+      "label": "D",
+      "text": "16 square units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A rectangular shape divided into 4 horizontal rows. The top row is further divided into 5 equal squares. Each square represents 1 unit by 1 unit, as labeled on the top and side of the rectangle."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires counting the unit squares and understanding area as a product of length and width based on given unit squares.",
+  "confidence": 1,
+  "notes": null
+}

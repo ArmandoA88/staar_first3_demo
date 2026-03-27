@@ -1,0 +1,33 @@
+{
+  "stem": "There are 18 spoons in a drawer. This expression represents the number of forks in the same drawer.\n\n2 \\times 18\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "There are 2 more spoons than forks in the drawer."
+    },
+    {
+      "label": "G",
+      "text": "There are 2 more forks than spoons in the drawer."
+    },
+    {
+      "label": "H",
+      "text": "There are 2 times as many forks as spoons in the drawer."
+    },
+    {
+      "label": "J",
+      "text": "There are 2 times as many spoons as forks in the drawer."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2 \\times 18"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding the multiplication expression represents forks, comparing quantities of spoons and forks, and interpreting statements accordingly.",
+  "confidence": 0.98,
+  "notes": null
+}

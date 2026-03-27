@@ -1,0 +1,33 @@
+{
+  "stem": "Which fraction strip shows a shaded area equivalent to \\( \\frac{4}{6} \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{3} \\) \\( \\frac{1}{3} \\) \\( \\frac{1}{3} \\) with first two parts shaded"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{6} \\) \\( \\frac{1}{6} \\) \\( \\frac{1}{6} \\) \\( \\frac{1}{6} \\) \\( \\frac{1}{6} \\) \\( \\frac{1}{6} \\) with the first three shaded"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{8} \\) \\( \\frac{1}{8} \\) \\( \\frac{1}{8} \\) \\( \\frac{1}{8} \\) \\( \\frac{1}{8} \\) \\( \\frac{1}{8} \\) \\( \\frac{1}{8} \\) \\( \\frac{1}{8} \\) with the first four shaded"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{1}{4} \\) \\( \\frac{1}{4} \\) \\( \\frac{1}{4} \\) \\( \\frac{1}{4} \\) all shaded"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Fraction strips labeled A, B, C, and D with respective fractions and partial shading"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding of equivalent fractions and comparing shaded areas in fraction strips, involving modest reasoning beyond straightforward recall.",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "The pictograph shows the number of games each team in a volleyball league won during one season.\n\nVolleyball Games Won\n\nEach \ud83c\udfd0 means 3 games won.\n\nWhich table represents the data in the pictograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Team | Spikes | Aces | Stars | Nets | Digs\nNumber of Games Won | 12 | 15 | 9 | 6 | 3"
+    },
+    {
+      "label": "B",
+      "text": "Team | Spikes | Aces | Stars | Nets | Digs\nNumber of Games Won | 4 | 3 | 5 | 2 | 1"
+    },
+    {
+      "label": "C",
+      "text": "Team | Spikes | Aces | Stars | Nets | Digs\nNumber of Games Won | 12 | 9 | 15 | 6 | 3"
+    },
+    {
+      "label": "D",
+      "text": "Team | Spikes | Aces | Stars | Nets | Digs\nNumber of Games Won | 4 | 5 | 3 | 2 | 1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Volleyball Games Won pictograph with:\nSpikes: 4 volleyballs, Aces: 3 volleyballs, Stars: 5 volleyballs, Nets: 1 volleyball, Digs: 1 volleyball"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires interpreting a pictograph where each icon represents 3 games and converting this visual data into numerical data to match tables, involving multiplication and comparison.",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "stem": "Ms. Morales made 28 fluid ounces of sugar water to fill the hummingbird feeders in her backyard.\n\n\u2022 She put 7 fluid ounces of sugar water into each feeder.\n\n\u2022 She put all the sugar water she made into the feeders.\n\nWhich equation can be used to find the total number of feeders Ms. Morales filled with sugar water?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "28 - 7 = 21"
+    },
+    {
+      "label": "B",
+      "text": "7 \u00d7 4 = 28"
+    },
+    {
+      "label": "C",
+      "text": "28 + 4 = 32"
+    },
+    {
+      "label": "D",
+      "text": "7 \u00d7 28 = 196"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A 28 - 7 = 21",
+    "B 7 \u00d7 4 = 28",
+    "C 28 + 4 = 32",
+    "D 7 \u00d7 28 = 196"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding how to form an equation based on a word problem and involves division or multiplication reasoning to relate total amount to per-item amount and quantity.",
+  "confidence": 1,
+  "notes": null
+}

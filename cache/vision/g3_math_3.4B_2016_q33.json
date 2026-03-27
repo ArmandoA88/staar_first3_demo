@@ -1,0 +1,33 @@
+{
+  "stem": "Vicente hung three posters in his bedroom.\n\n\u2022 The first poster had a length of 59 centimeters.\n\u2022 The second poster had a length of 92 centimeters.\n\u2022 The third poster had a length of 127 centimeters.\n\nWhat is the best estimate of the total length of these three posters in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "260 cm"
+    },
+    {
+      "label": "B",
+      "text": "350 cm"
+    },
+    {
+      "label": "C",
+      "text": "240 cm"
+    },
+    {
+      "label": "D",
+      "text": "280 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bullet points listing lengths: 59 cm, 92 cm, 127 cm"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires estimating sums of multi-digit numbers, combining reasoning about rounding and addition.",
+  "confidence": 1,
+  "notes": null
+}

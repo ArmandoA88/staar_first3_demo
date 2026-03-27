@@ -1,0 +1,33 @@
+{
+  "stem": "A softball team played in 6 tournaments last year. The team paid $95 to play in each tournament.\n\nWhat was the total amount the softball team paid to play in these 6 tournaments?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$570"
+    },
+    {
+      "label": "B",
+      "text": "$540"
+    },
+    {
+      "label": "C",
+      "text": "$101"
+    },
+    {
+      "label": "D",
+      "text": "$480"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a single straightforward multiplication step to find the total cost (6 x 95).",
+  "confidence": 0.99,
+  "notes": null
+}

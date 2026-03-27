@@ -1,0 +1,33 @@
+{
+  "stem": "The table shows the numbers of flowers of different colors in four vases.\n\nFlowers in Vases\n\n| Vase | Yellow | Red |\n|------|---------|-----|\n| Q    | 9       | 3   |\n| R    | 15      | 5   |\n| S    | 21      | 7   |\n| T    | 27      | 9   |\n\nBased on the relationship shown in the table, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "There are 3 times as many yellow flowers as red flowers in each vase."
+    },
+    {
+      "label": "G",
+      "text": "There are 9 times as many yellow flowers as red flowers in each vase."
+    },
+    {
+      "label": "H",
+      "text": "There are 6 times as many yellow flowers as red flowers in each vase."
+    },
+    {
+      "label": "J",
+      "text": "There are 11 times as many yellow flowers as red flowers in each vase."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Vase, Yellow, Red and rows Q, 9, 3; R, 15, 5; S, 21, 7; T, 27, 9"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 4,
+  "difficulty_rationale": "Requires understanding and verifying the consistent ratio between yellow and red flowers across multiple rows in the table, which is more than direct recall but does not require multi-step problem solving.",
+  "confidence": 0.99,
+  "notes": null
+}

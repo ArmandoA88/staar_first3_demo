@@ -1,0 +1,31 @@
+{
+  "stem": "Gerardo bought 3 packages of mint gum and 2 packages of bubble gum. Each package had 8 pieces of gum.\n\nHow many pieces of gum did Gerardo buy?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "26"
+    },
+    {
+      "label": "G",
+      "text": "40"
+    },
+    {
+      "label": "H",
+      "text": "12"
+    },
+    {
+      "label": "J",
+      "text": "48"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward calculation of total pieces of gum by multiplying and adding quantities, typical of grade 3-level arithmetic.",
+  "confidence": 1,
+  "notes": null
+}

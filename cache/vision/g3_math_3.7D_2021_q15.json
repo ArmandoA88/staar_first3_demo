@@ -1,0 +1,31 @@
+{
+  "stem": "After a soccer game Isaac drank a bottle of water. Which unit of measurement can be used to measure the volume of the water in the bottle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Fluid ounces"
+    },
+    {
+      "label": "B",
+      "text": "Grams"
+    },
+    {
+      "label": "C",
+      "text": "Inches"
+    },
+    {
+      "label": "D",
+      "text": "Square centimeters"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple-choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves direct recall of the appropriate unit to measure volume, a straightforward single-concept question suitable for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

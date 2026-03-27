@@ -1,0 +1,33 @@
+{
+  "stem": "Four fraction models are shown.\n\nModel W\n[\u25a0\u25a0\u25a1\u25a1\u25a1\u25a1\u25a1\u25a1]  \nModel X\n[\u25a0\u25a0\u25a0\u25a1\u25a1\u25a1]  \nModel Y\n[\u25a0\u25a0\u25a0\u25a1]  \nModel Z\n[\u25a0\u25a0\u25a0\u25a0\u25a1\u25a1\u25a1]\n\nWhich two models are shaded to show equivalent fractions?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Models W and X"
+    },
+    {
+      "label": "B",
+      "text": "Models X and Z"
+    },
+    {
+      "label": "C",
+      "text": "Models W and Z"
+    },
+    {
+      "label": "D",
+      "text": "Models X and Y"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four fraction bar models labeled W, X, Y, and Z with shaded parts as described"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding and comparing fractions by interpreting shaded parts in different models, not just direct recall.",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "stem": "Kacie sold bracelets at a store. She sold 3 bracelets for 1 dollar.\n\nWhich table represents the numbers of bracelets that would be sold for different numbers of dollars?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number of Dollars | Number of Bracelets\n1 | 3\n2 | 4\n4 | 6\n5 | 10"
+    },
+    {
+      "label": "B",
+      "text": "Number of Dollars | Number of Bracelets\n1 | 3\n2 | 6\n4 | 12\n5 | 15"
+    },
+    {
+      "label": "C",
+      "text": "Number of Dollars | Number of Bracelets\n3 | 1\n4 | 2\n6 | 4\n10 | 5"
+    },
+    {
+      "label": "D",
+      "text": "Number of Dollars | Number of Bracelets\n3 | 1\n6 | 2\n12 | 4\n15 | 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table A",
+    "Table B",
+    "Table C",
+    "Table D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of ratio and interpreting which table correctly shows the proportional relationship between dollars and bracelets.",
+  "confidence": 1,
+  "notes": null
+}

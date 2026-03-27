@@ -1,0 +1,33 @@
+{
+  "stem": "Ms. Green had some fabric to make costumes for three different plays at school. The table shows the number of yards of fabric Ms. Green used to make the costumes for each play.\n\nMs. Green had 27 yards of fabric left over after making costumes for these plays. How many yards of fabric did Ms. Green start with?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "170 yards"
+    },
+    {
+      "label": "B",
+      "text": "197 yards"
+    },
+    {
+      "label": "C",
+      "text": "143 yards"
+    },
+    {
+      "label": "D",
+      "text": "177 yards"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with header 'Fabric Used' and columns 'Play' and 'Fabric (yards)' showing rows: X 69, Y 48, Z 53"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires adding quantities from a table and then adding the leftover amount to find the original total, involving multiple steps of arithmetic reasoning suitable for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

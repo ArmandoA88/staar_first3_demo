@@ -1,0 +1,33 @@
+{
+  "stem": "Brandon drew the two congruent squares shown.\n\n\u2022 He divided one square into 2 congruent triangular parts.\n\u2022 He divided the other square into 2 congruent rectangular parts.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Each triangular part and each rectangular part represents \\( \\frac{1}{2} \\) the area of one square."
+    },
+    {
+      "label": "G",
+      "text": "Each triangular part has an area that is greater than the area of each rectangular part."
+    },
+    {
+      "label": "H",
+      "text": "Each triangular part and each rectangular part represents \\( \\frac{1}{4} \\) the area of one square."
+    },
+    {
+      "label": "J",
+      "text": "Each rectangular part has an area that is greater than the area of each triangular part."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two identical squares side by side, both unmarked."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves recognizing that dividing congruent squares into two congruent parts results in equal area parts, a straightforward concept involving basic fraction knowledge.",
+  "confidence": 0.95,
+  "notes": null
+}

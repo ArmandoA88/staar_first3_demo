@@ -1,0 +1,39 @@
+{
+  "stem": "A group of 64 children and 24 adults will travel to a zoo in vans. There will be 8 people in each van.\n\nHow many vans will be needed to take the group to the zoo?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "11"
+    },
+    {
+      "label": "G",
+      "text": "80"
+    },
+    {
+      "label": "H",
+      "text": "8"
+    },
+    {
+      "label": "J",
+      "text": "5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text: 2018 - Q16",
+    "text: 16 A group of 64 children and 24 adults will travel to a zoo in vans. There will be 8 people in each van.",
+    "text: How many vans will be needed to take the group to the zoo?",
+    "text: F 11",
+    "text: G 80",
+    "text: H 8",
+    "text: J 5"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a simple addition and division to find the number of vans needed, a straightforward calculation suitable for grade 3 level.",
+  "confidence": 1,
+  "notes": null
+}

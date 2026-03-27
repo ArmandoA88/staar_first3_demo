@@ -1,0 +1,33 @@
+{
+  "stem": "Roger has two boxes of nails. One box has 438 nails, and the other box has 375 nails.\n\nHow many nails does Roger have in these two boxes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "813"
+    },
+    {
+      "label": "B",
+      "text": "703"
+    },
+    {
+      "label": "C",
+      "text": "814"
+    },
+    {
+      "label": "D",
+      "text": "713"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text of a math problem stating quantities of nails in two boxes and four answer choices labeled A through D."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires one straightforward arithmetic addition step to find the total number of nails.",
+  "confidence": 1,
+  "notes": null
+}

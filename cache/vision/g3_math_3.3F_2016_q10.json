@@ -1,0 +1,37 @@
+{
+  "stem": "Point X on the number line represents a fraction.\n\n[Image of number line labeled 0 to 1 with point X at the midpoint]\n\nOn which number line does point Z represent a fraction equivalent to the one represented by point X?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "[Image of number line labeled 0 to 1 with point Z at 1/4]"
+    },
+    {
+      "label": "G",
+      "text": "[Image of number line labeled 0 to 1 with point Z at 1/8]"
+    },
+    {
+      "label": "H",
+      "text": "[Image of number line labeled 0 to 1 with point Z at 1/2]"
+    },
+    {
+      "label": "J",
+      "text": "[Image of number line labeled 0 to 1 with point Z at 3/8]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line with 0 and 1, point X at midpoint",
+    "number line F with 0 and 1, point Z at fourth mark",
+    "number line G with 0 and 1, point Z at second mark",
+    "number line H with 0 and 1, point Z at midpoint",
+    "number line J with 0 and 1, point Z at sixth mark"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of fractions on number lines and equivalence by comparing different partitions and points.",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,37 @@
+{
+  "stem": "Evelyn makes a rectangular birthday card. The card has a length of 9 inches and a width of 6 inches.\n\nWhat is the perimeter of Evelyn\u2019s card in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "15 in."
+    },
+    {
+      "label": "B",
+      "text": "30 in."
+    },
+    {
+      "label": "C",
+      "text": "36 in."
+    },
+    {
+      "label": "D",
+      "text": "54 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2025 \u2013 Q11",
+    "A) 15 in.",
+    "B) 30 in.",
+    "C) 36 in.",
+    "D) 54 in."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward calculation of the perimeter of a rectangle using given length and width, which is a basic geometric concept.",
+  "confidence": 1,
+  "notes": null
+}

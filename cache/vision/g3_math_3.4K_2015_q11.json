@@ -1,0 +1,31 @@
+{
+  "stem": "A music teacher had 4 boxes of recorders. There were 9 recorders in each box. The music teacher gave an equal number of recorders to each of 6 classes. How many recorders did each class receive?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "7"
+    },
+    {
+      "label": "B",
+      "text": "6"
+    },
+    {
+      "label": "C",
+      "text": "30"
+    },
+    {
+      "label": "D",
+      "text": "36"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires multiplication to find total recorders and division to find how many each class gets, involving two steps of reasoning.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "There were 35 pretzels at a bakery. A baker made 20 more pretzels. The baker then sold 11 pretzels. Which equation shows how to find the number of pretzels there are now?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "35 + 20 + 11 ="
+    },
+    {
+      "label": "B",
+      "text": "35 - 20 + 11 ="
+    },
+    {
+      "label": "C",
+      "text": "35 - 20 - 11 ="
+    },
+    {
+      "label": "D",
+      "text": "35 + 20 - 11 ="
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equations with blank boxes for answers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves a simple application of addition and subtraction with small numbers, requiring only one-step reasoning about joining and removing amounts.",
+  "confidence": 0.99,
+  "notes": null
+}

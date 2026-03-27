@@ -1,0 +1,34 @@
+{
+  "stem": "The bar graph shows the number of third graders who brought lunch to school each day last week.",
+  "instruction": "Which table best represents the data in the graph?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Monday 36, Tuesday 24, Wednesday 28, Thursday 20, Friday 56"
+    },
+    {
+      "label": "B",
+      "text": "Monday 32, Tuesday 24, Wednesday 24, Thursday 16, Friday 56"
+    },
+    {
+      "label": "C",
+      "text": "Monday 40, Tuesday 24, Wednesday 32, Thursday 24, Friday 56"
+    },
+    {
+      "label": "D",
+      "text": "Monday 34, Tuesday 24, Wednesday 26, Thursday 18, Friday 56"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Third Graders Who Brought Lunch to School' with bars for Mon. (about 30), Tues. (about 20), Wed. (about 25), Thurs. (about 15), Fri. (about 55)",
+    "Four tables labeled A, B, C, D with days Monday to Friday and respective counts of Number of Lunches"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires reading a bar graph with approximate values and comparing multiple tables to find the best fit, involving multiple steps of data interpretation.",
+  "confidence": 0.95,
+  "notes": null
+}

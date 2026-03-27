@@ -1,0 +1,33 @@
+{
+  "stem": "Workers at a school are covering a rectangular patio with square tiles. Each square tile has an area of 1 square yard. The figure shows the part of the patio that has already been covered with square tiles.\n\n[Image shows a rectangular shape with visible tile markings on left and bottom edges, each square represents 1 square yard.]",
+  "instruction": "What is the area of the entire patio in square yards?",
+  "options": [
+    {
+      "label": "A",
+      "text": "105 square yards"
+    },
+    {
+      "label": "B",
+      "text": "90 square yards"
+    },
+    {
+      "label": "C",
+      "text": "98 square yards"
+    },
+    {
+      "label": "D",
+      "text": "84 square yards"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangle with part tiled along left vertical and bottom horizontal edges, each square tile area = 1 square yard"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding area calculation and counting tiles to determine full area of rectangular patio, involving modest reasoning with spatial visualization.",
+  "confidence": 0.99,
+  "notes": null
+}

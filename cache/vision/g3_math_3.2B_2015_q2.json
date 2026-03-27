@@ -1,0 +1,39 @@
+{
+  "stem": "Which statement about the number 5,555 is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There is a 5 in the tens place, so 5 times 10 equals 50."
+    },
+    {
+      "label": "B",
+      "text": "There is a 5 in the hundreds place, so 5 times 100 equals 50."
+    },
+    {
+      "label": "C",
+      "text": "There is a 5 in the tens place, so 5 times 10 equals 500."
+    },
+    {
+      "label": "D",
+      "text": "There is a 5 in the thousands place, so 5 times 1,000 equals 500."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text: 2015 - Q2 Sample",
+    "text: 2",
+    "text: Which statement about the number 5,555 is true?",
+    "text: A There is a 5 in the tens place, so 5 times 10 equals 50.",
+    "text: B There is a 5 in the hundreds place, so 5 times 100 equals 50.",
+    "text: C There is a 5 in the tens place, so 5 times 10 equals 500.",
+    "text: D There is a 5 in the thousands place, so 5 times 1,000 equals 500."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This is a straightforward question about place value understanding and basic multiplication.",
+  "confidence": 1,
+  "notes": null
+}

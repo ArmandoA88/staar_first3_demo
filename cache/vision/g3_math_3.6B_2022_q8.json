@@ -1,0 +1,33 @@
+{
+  "stem": "A group of figures is shown.\n\nWhich word best describes all the figures in the group?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Rectangle"
+    },
+    {
+      "label": "G",
+      "text": "Rhombus"
+    },
+    {
+      "label": "H",
+      "text": "Trapezoid"
+    },
+    {
+      "label": "J",
+      "text": "Parallelogram"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Three geometric figures: one irregular quadrilateral, one trapezoid, and one quadrilateral with one pair of parallel sides."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Student must recognize and compare shapes to determine a common classification, requiring understanding of quadrilateral types.",
+  "confidence": 1,
+  "notes": null
+}

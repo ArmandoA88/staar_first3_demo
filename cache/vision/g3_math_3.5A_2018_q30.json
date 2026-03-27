@@ -1,0 +1,33 @@
+{
+  "stem": "There are a total of 294 restaurants in a city.\n\n\u2022 Of these restaurants, 196 are along the highways, and 49 are downtown.\n\u2022 The rest of the restaurants are in shopping malls.\n\nWhich model can be used to find the number of restaurants in the city that are in shopping malls?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "? | 294 | 196 | 49"
+    },
+    {
+      "label": "G",
+      "text": "294 | 196 | 49 | ?"
+    },
+    {
+      "label": "H",
+      "text": "196 | 294 | 49 | ?"
+    },
+    {
+      "label": "J",
+      "text": "49 | 294 | 196 | ?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four bar models labeled F, G, H, and J.\nF: Top bar unknown represented by ?, bottom bar divided into three parts: 294, 196, and 49.\nG: Top bar 294, bottom bar divided into 196, 49, and ?.\nH: Top bar 196, bottom bar divided into 294, 49, and ?.\nJ: Top bar 49, bottom bar divided into 294, 196, and ?."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "The problem requires understanding the subtraction model to find the remainder when total and two parts are known. It involves reasoning about the meaning of the parts and the question mark placement in the models, thus more than one concept is involved.",
+  "confidence": 0.95,
+  "notes": null
+}

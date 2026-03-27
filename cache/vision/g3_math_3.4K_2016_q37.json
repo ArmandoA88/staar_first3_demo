@@ -1,0 +1,31 @@
+{
+  "stem": "Ms. Losoya has 72 index cards. She will arrange the cards in 6 equal stacks. How many index cards will be in each stack?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "12"
+    },
+    {
+      "label": "B",
+      "text": "9"
+    },
+    {
+      "label": "C",
+      "text": "78"
+    },
+    {
+      "label": "D",
+      "text": "66"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward division to find equal groups, which is a direct application of basic arithmetic.",
+  "confidence": 1,
+  "notes": null
+}

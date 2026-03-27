@@ -1,0 +1,33 @@
+{
+  "stem": "The number of classes Ms. Elisha teaches is equal to the number of days she teaches times 6.\n\nWhich table shows this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number of Days | Number of Classes\n6 | 1\n18 | 3\n30 | 5"
+    },
+    {
+      "label": "B",
+      "text": "Number of Days | Number of Classes\n1 | 7\n2 | 8\n3 | 9"
+    },
+    {
+      "label": "C",
+      "text": "Number of Days | Number of Classes\n1 | 6\n3 | 18\n5 | 30"
+    },
+    {
+      "label": "D",
+      "text": "Number of Days | Number of Classes\n6 | 0\n18 | 12\n30 | 24"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, D, each titled Ms. Elisha\u2019s Classes, showing Number of Days and Number of Classes with different values in each table as described in options."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires understanding a direct multiplication relationship and identifying a correct table that matches it. This is a straightforward single-step reasoning task appropriate for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

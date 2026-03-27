@@ -1,0 +1,38 @@
+{
+  "stem": "Scott has 28 toy cars to put on 4 shelves. He wants to put the same number of cars on each shelf.\n\nHow many toy cars should Scott put on each shelf?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "32, because 4 + 28 = 32"
+    },
+    {
+      "label": "B",
+      "text": "112, because 28 \u00d7 4 = 112"
+    },
+    {
+      "label": "C",
+      "text": "7, because 4 \u00d7 7 = 28"
+    },
+    {
+      "label": "D",
+      "text": "24, because 28 \u2212 24 = 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text: 23 Scott has 28 toy cars to put on 4 shelves. He wants to put the same number of cars on each shelf.",
+    "text: How many toy cars should Scott put on each shelf?",
+    "choice A: 32, because 4 + 28 = 32",
+    "choice B: 112, because 28 \u00d7 4 = 112",
+    "choice C: 7, because 4 \u00d7 7 = 28",
+    "choice D: 24, because 28 \u2212 24 = 4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires only a straightforward division (28 \u00f7 4) to find the answer, involving direct recall of division concepts.",
+  "confidence": 1,
+  "notes": null
+}

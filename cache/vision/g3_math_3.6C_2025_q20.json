@@ -1,0 +1,33 @@
+{
+  "stem": "Avalon draws a shaded rectangle on a grid, as shown.\n\nWhat is the area of Avalon's shaded rectangle in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "50 square centimeters"
+    },
+    {
+      "label": "B",
+      "text": "26 square centimeters"
+    },
+    {
+      "label": "C",
+      "text": "36 square centimeters"
+    },
+    {
+      "label": "D",
+      "text": "30 square centimeters"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle grid with shaded rectangle covering 10 squares horizontally and 5 squares vertically, 1 square = 1 square centimeter"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires counting squares on a grid to find the area of a rectangle, which is a straightforward application of multiplication of length and width.",
+  "confidence": 0.99,
+  "notes": null
+}

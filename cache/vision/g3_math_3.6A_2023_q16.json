@@ -1,0 +1,27 @@
+{
+  "stem": "How many of the shapes are polygons with more than three sides?",
+  "instruction": "Enter your answer in the space provided.",
+  "options": [],
+  "choice_pool": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "0"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "11 shapes shown including various polygons and curved shapes"
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires identifying polygons and counting those with more than three sides, involving shape recognition and counting.",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Anissa shaded part of the figure shown below.\n\nWhat fraction of the figure is shaded?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\frac{6}{8}\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\frac{1}{6}\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\frac{2}{8}\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\(\\frac{2}{6}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "star-shaped figure with 8 triangular sections, 6 of which are shaded"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires counting shaded sections and total sections to determine a fraction, a straightforward step suitable for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

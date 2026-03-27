@@ -1,0 +1,33 @@
+{
+  "stem": "A movie theater has 710 seats.\n\n\u2022 158 seats are red.\n\n\u2022 247 seats are black.\n\n\u2022 119 seats are yellow.\n\n\u2022 The rest of the seats are green.\n\nHow many seats are green?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "186"
+    },
+    {
+      "label": "B",
+      "text": "524"
+    },
+    {
+      "label": "C",
+      "text": "214"
+    },
+    {
+      "label": "D",
+      "text": "206"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The text layout with bulleted seat counts and four multiple choice answers labeled A through D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires one straightforward step of subtracting known seat counts from the total to find the remaining green seats.",
+  "confidence": 1,
+  "notes": null
+}

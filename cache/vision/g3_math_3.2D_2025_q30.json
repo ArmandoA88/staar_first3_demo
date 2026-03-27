@@ -1,0 +1,33 @@
+{
+  "stem": "Emilia compares three numbers. One of the numbers is missing, as shown.\n\n46,523 < [box] < 46,779\n\nWhich number can go in the box to make the statement true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "47,623"
+    },
+    {
+      "label": "B",
+      "text": "46,518"
+    },
+    {
+      "label": "C",
+      "text": "46,575"
+    },
+    {
+      "label": "D",
+      "text": "45,250"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "46,523 < [box] < 46,779"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires straightforward comparison of numbers to identify which fits between two given values.",
+  "confidence": 1,
+  "notes": null
+}

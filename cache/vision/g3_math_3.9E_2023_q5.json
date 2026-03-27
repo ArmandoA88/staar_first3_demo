@@ -1,0 +1,37 @@
+{
+  "stem": "What are some benefits of saving money?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "To increase debt"
+    },
+    {
+      "label": null,
+      "text": "To increase interest on monthly bills"
+    },
+    {
+      "label": null,
+      "text": "To prepare to pay for college"
+    },
+    {
+      "label": null,
+      "text": "To help spend money faster"
+    },
+    {
+      "label": null,
+      "text": "To help pay for unplanned needs"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "checkboxes"
+  ],
+  "item_type_inferred": "Multiselect",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This question asks for identification of correct benefits from a straightforward list, requiring basic knowledge and simple recall about saving money.",
+  "confidence": 1,
+  "notes": null
+}

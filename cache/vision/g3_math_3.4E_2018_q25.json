@@ -1,0 +1,34 @@
+{
+  "stem": "The model shown can represent two number sentences.",
+  "instruction": "Which two number sentences can the model represent?",
+  "options": [
+    {
+      "label": "A",
+      "text": "3 \\times 3 = \\boxed{}  \n3 + 3 = \\boxed{}"
+    },
+    {
+      "label": "B",
+      "text": "3 \\times 2 = \\boxed{}  \n3 + 3 = \\boxed{}"
+    },
+    {
+      "label": "C",
+      "text": "2 \\times 3 = \\boxed{}  \n2 \\times 2 \\times 2 = \\boxed{}"
+    },
+    {
+      "label": "D",
+      "text": "3 + 3 + 3 = \\boxed{}  \n2 + 2 + 2 = \\boxed{}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Row 1: three stars",
+    "Row 2: three stars"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Identifying number sentences from a visual model of stars with a single step calculation needed",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "The table shows the number of snow cones sold at a shop on each of three days.\n\nSnow Cones\n\n| Day      | Number Sold |\n|----------|-------------|\n| Friday   | 273         |\n| Saturday | 123         |\n| Sunday   | 305         |\n\nWhich answer choice is the best estimate of the total number of snow cones sold on these three days?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "600"
+    },
+    {
+      "label": "G",
+      "text": "700"
+    },
+    {
+      "label": "H",
+      "text": "900"
+    },
+    {
+      "label": "J",
+      "text": "800"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with days (Friday, Saturday, Sunday) and number of snow cones sold (273, 123, 305)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires addition and rounding to estimate a total, involving modest reasoning beyond direct recall.",
+  "confidence": 0.99,
+  "notes": null
+}

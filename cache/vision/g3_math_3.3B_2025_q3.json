@@ -1,0 +1,33 @@
+{
+  "stem": "A number line is shown.\n\n[image of number line with points labeled 0 and 1, and a point marked at the fifth tick after 0 out of 6 equal parts between 0 and 1]\n\nWhich fraction does the point represent?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{5} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{6} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{5}{5} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{5}{6} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line with intervals from 0 to 1 divided into 6 equal parts, with a point at the fifth mark"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The student must count and understand fractions on a number line divided into sixths, distinguishing between similar fractions involving fifths and sixths.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "The pictograph shows the number of each type of balloon animal a clown made on Tuesday.\n\n[Table of Balloon Animals with rows: Dog (4 balloons), Monkey (2 balloons), Rabbit (6 balloons), Bear (3 balloons)]\n\nEach balloon means 2 animals.\n\nWhich table correctly represents the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Dog 4\nMonkey 2\nRabbit 5\nBear 3"
+    },
+    {
+      "label": "B",
+      "text": "Dog 8\nMonkey 4\nRabbit 12\nBear 6"
+    },
+    {
+      "label": "C",
+      "text": "Dog 4\nMonkey 2\nRabbit 6\nBear 3"
+    },
+    {
+      "label": "D",
+      "text": "Dog 8\nMonkey 4\nRabbit 10\nBear 6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table pictograph with four rows: Dog with 4 balloon icons, Monkey with 2 balloon icons, Rabbit with 6 balloon icons, Bear with 3 balloon icons; Note: each balloon icon represents 2 animals."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires interpreting a pictograph where each symbol represents multiple units and then selecting the corresponding numeric table, involving multiplication and data matching.",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Four students with number cards want to line up from left to right in order from least to greatest number.",
+  "instruction": "Which statement is true?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Olivia should be between Erin and Rico."
+    },
+    {
+      "label": "B",
+      "text": "Erin should be on the right end after Olivia."
+    },
+    {
+      "label": "C",
+      "text": "Penelope should be on the right end after Olivia."
+    },
+    {
+      "label": "D",
+      "text": "All the students are in the correct order."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four students holding cards: Erin with 9,975, Rico with 90,096, Penelope with 98,300, Olivia with 98,087, arranged left to right in that order."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires comparing and ordering multi-digit numbers and evaluating the correctness of a provided sequence.",
+  "confidence": 0.99,
+  "notes": null
+}

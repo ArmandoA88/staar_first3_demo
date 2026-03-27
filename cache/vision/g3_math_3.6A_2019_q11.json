@@ -1,0 +1,36 @@
+{
+  "stem": "Which figure CANNOT be classified as a prism?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Cube"
+    },
+    {
+      "label": "B",
+      "text": "Triangular prism"
+    },
+    {
+      "label": "C",
+      "text": "Cylinder"
+    },
+    {
+      "label": "D",
+      "text": "Rectangular prism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cube diagram",
+    "Triangular prism diagram",
+    "Cylinder diagram",
+    "Rectangular prism diagram"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires students to identify the figure that is not a prism from basic geometric shapes, which is a straightforward classification task for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

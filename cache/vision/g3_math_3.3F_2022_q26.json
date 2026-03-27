@@ -1,0 +1,33 @@
+{
+  "stem": "Which fraction is equivalent to \\frac{2}{4}?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{1}{2}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{2}{6}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{3}{4}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{1}{3}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "An image of fraction strips divided into increasing numbers of equal parts from one whole down to eighths, aligned horizontally."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires identifying an equivalent fraction by visual and numeric recognition from a small set of options, focusing on simple understanding of fraction equivalence.",
+  "confidence": 0.98,
+  "notes": null
+}

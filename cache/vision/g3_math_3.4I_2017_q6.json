@@ -1,0 +1,33 @@
+{
+  "stem": "These six basketball jerseys are hanging on a wall. Lori's favorite basketball players each have an odd number on their jerseys.\n\nWhich list shows only the numbers of Lori's favorite basketball players?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "10, 21, 25, 33"
+    },
+    {
+      "label": "G",
+      "text": "21, 25, 33"
+    },
+    {
+      "label": "H",
+      "text": "21, 50, 52"
+    },
+    {
+      "label": "J",
+      "text": "10, 33, 50, 52"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "six basketball jerseys with numbers: 21, 10, 25, 52, 50, 33"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Requires identification of odd numbers from a simple list, straightforward reasoning.",
+  "confidence": 0.99,
+  "notes": null
+}

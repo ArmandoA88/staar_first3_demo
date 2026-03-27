@@ -1,0 +1,34 @@
+{
+  "stem": "The list shows the number of ribbons of each color that a school ordered for a science fair.\n\n\u2022 12 blue\n\u2022 18 red\n\u2022 36 green\n\u2022 60 purple\n\nWhich pictograph best represents the information in the list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Each \ud83c\udfc1 means 4 ribbons.\n\nBlue: 3 icons\nRed: 5 icons\nGreen: 9 icons\nPurple: 15 icons"
+    },
+    {
+      "label": "B",
+      "text": "Each \ud83c\udfc1 means 6 ribbons.\n\nBlue: 2 icons\nRed: 3 icons\nGreen: 6 icons\nPurple: 7 icons"
+    },
+    {
+      "label": "C",
+      "text": "Each \ud83c\udfc1 means 12 ribbons.\n\nBlue: 1 icon\nRed: 2 icons and 1 quarter icon\nGreen: 3 icons\nPurple: 5 icons"
+    },
+    {
+      "label": "D",
+      "text": "Each \ud83c\udfc1 means 9 ribbons.\n\nBlue: 2 icons\nRed: 2 icons\nGreen: 4 icons\nPurple: 7 icons"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four pictographs labeled A, B, C, and D representing Science Fair Ribbons with rows for Blue, Red, Green, and Purple ribbons.",
+    "Each pictograph uses an icon of a ribbon and a scale indicating the number of ribbons each icon represents, varying by pictograph (4, 6, 12, or 9 ribbons per icon)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires interpreting a pictograph with different scales and matching quantities by dividing and counting icons, involving modest reasoning.",
+  "confidence": 1,
+  "notes": null
+}

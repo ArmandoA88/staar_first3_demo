@@ -1,0 +1,33 @@
+{
+  "stem": "Four fraction models are shown.\n\nModel 1, Model 2, Model 3, Model 4\n\nWhich two models are shaded to show equivalent fractions?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Models 1 and 2"
+    },
+    {
+      "label": "G",
+      "text": "Models 1 and 3"
+    },
+    {
+      "label": "H",
+      "text": "Models 2 and 4"
+    },
+    {
+      "label": "J",
+      "text": "Models 2 and 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four rectangles labeled Model 1 through Model 4. Model 1 is divided into 3 vertical sections with 2 shaded. Model 2 is divided into 4 sections by 2 vertical and 1 horizontal line arranged 2 by 2 with 3 of 4 sections shaded. Model 3 is divided into 3 vertical sections with 1 shaded (the middle one). Model 4 is divided into 4 equal sections by a vertical and horizontal line; 3 of 4 sections are shaded."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 4,
+  "difficulty_rationale": "Requires recognizing and comparing fractions from visual models and identifying equivalent fractions, involving conceptual understanding beyond direct recall.",
+  "confidence": 1,
+  "notes": null
+}

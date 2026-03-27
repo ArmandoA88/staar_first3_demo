@@ -1,0 +1,33 @@
+{
+  "stem": "Ms. Gonz\u00e1lez is putting square stickers on a rectangular poster. Each sticker has an area of 1 square inch. She has already put some stickers on the poster as shown.\n\nWhat is the area of the entire poster in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "56"
+    },
+    {
+      "label": "G",
+      "text": "42"
+    },
+    {
+      "label": "H",
+      "text": "48"
+    },
+    {
+      "label": "J",
+      "text": "15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle with 7 stickers along the top edge and 7 stickers along the left edge, each sticker is 1 square inch"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding that the stickers form the length and width of the poster, then calculating the area by multiplying these dimensions. Involves spatial reasoning and multiplication.",
+  "confidence": 0.95,
+  "notes": null
+}

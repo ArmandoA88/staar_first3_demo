@@ -1,0 +1,19 @@
+{
+  "stem": "Holly made a poster using two congruent pentagons and a square.\n\nWhat is the perimeter of the poster in inches?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of a poster composed of two congruent pentagons and a square arranged in a row.",
+    "Top horizontal lengths: 30 in., 12 in.",
+    "Bottom horizontal lengths: 30 in., 12 in.",
+    "Two equal slant lengths on right pentagon labeled 22 in. each."
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires understanding of perimeter as the sum of all side lengths, identifying and adding congruent pentagon and square side lengths together, involving multi-step conceptual reasoning.",
+  "confidence": 0.99,
+  "notes": null
+}

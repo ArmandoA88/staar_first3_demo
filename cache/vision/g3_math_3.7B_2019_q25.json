@@ -1,0 +1,33 @@
+{
+  "stem": "A model of Mr. Estrada\u2019s rectangular calculator is shown. Use the ruler provided to measure the length and width of the calculator to the nearest centimeter.\n\nWhich measurement is closest to the perimeter of the calculator in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10 cm"
+    },
+    {
+      "label": "B",
+      "text": "32 cm"
+    },
+    {
+      "label": "C",
+      "text": "16 cm"
+    },
+    {
+      "label": "D",
+      "text": "36 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of rectangular calculator with visible ruler markings"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires measuring dimensions accurately, then calculating perimeter, combining two concepts.",
+  "confidence": 0.95,
+  "notes": null
+}

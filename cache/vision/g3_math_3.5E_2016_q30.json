@@ -1,0 +1,33 @@
+{
+  "stem": "There are 8 socks in each package sold at a shoe store. Which table shows the number of socks in different numbers of these packages?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Number of Packages 5 8 10 11\nNumber of Socks 40 48 56 64"
+    },
+    {
+      "label": "G",
+      "text": "Number of Packages 5 8 10 11\nNumber of Socks 40 64 88 112"
+    },
+    {
+      "label": "H",
+      "text": "Number of Packages 5 8 10 11\nNumber of Socks 40 64 80 88"
+    },
+    {
+      "label": "J",
+      "text": "Number of Packages 5 8 10 11\nNumber of Socks 40 80 120 160"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labelled F, G, H, J titled 'Packages of Socks', each with rows 'Number of Packages' and 'Number of Socks' and numeric values as per options."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires direct multiplication and simple verification of values in a table, involving straightforward reasoning without multiple steps.",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Shelly needs tickets for rides at an amusement park. The table shows the numbers of tickets needed to ride different numbers of rides.\n\nAmusement Park Rides\n\n| Number of Tickets | Number of Rides |\n|-------------------|-----------------|\n| 6                 | 3               |\n| 12                | 6               |\n| 18                | 9               |\n| 24                | 12              |\n\nBased on the relationship shown in the table, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Shelly needs 3 tickets for each ride, because the number of tickets minus 3 equals the number of rides."
+    },
+    {
+      "label": "B",
+      "text": "Shelly needs 3 tickets for each ride, because the number of tickets plus 3 equals the number of rides."
+    },
+    {
+      "label": "C",
+      "text": "Shelly needs 2 tickets for each ride, because the number of tickets divided by 2 equals the number of rides."
+    },
+    {
+      "label": "D",
+      "text": "Shelly needs 2 tickets for each ride, because the number of tickets times 2 equals the number of rides."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns 'Number of Tickets' and 'Number of Rides' showing values (6,3), (12,6), (18,9), (24,12)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding a ratio relationship from a table and selecting the correct verbal statement that matches the ratio, involving modest reasoning about multiplication and division by 2 or 3.",
+  "confidence": 0.99,
+  "notes": null
+}

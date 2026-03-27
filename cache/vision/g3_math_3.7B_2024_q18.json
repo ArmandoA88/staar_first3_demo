@@ -1,0 +1,33 @@
+{
+  "stem": "A rectangular flag has a perimeter of 40 inches and a width of 5 inches.\n\nWhat is the length of the flag in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "15 in."
+    },
+    {
+      "label": "B",
+      "text": "8 in."
+    },
+    {
+      "label": "C",
+      "text": "30 in."
+    },
+    {
+      "label": "D",
+      "text": "35 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice layout with four answer options labeled A, B, C, and D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding the formula for the perimeter of a rectangle and solving for the unknown length using given information.",
+  "confidence": 1,
+  "notes": null
+}

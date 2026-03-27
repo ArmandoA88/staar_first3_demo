@@ -1,0 +1,33 @@
+{
+  "stem": "What is the relationship between the thousands place and the tens place in the number shown?\n\n583,436",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The thousands place is two times greater than the tens place."
+    },
+    {
+      "label": "B",
+      "text": "The thousands place is ten times greater than the tens place."
+    },
+    {
+      "label": "C",
+      "text": "The thousands place is one hundred times greater than the tens place."
+    },
+    {
+      "label": "D",
+      "text": "The thousands place is three hundred times greater than the tens place."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "583,436"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding place values and comparing magnitude between thousands and tens places, involves reasoning with multiplication factors.",
+  "confidence": 1,
+  "notes": null
+}

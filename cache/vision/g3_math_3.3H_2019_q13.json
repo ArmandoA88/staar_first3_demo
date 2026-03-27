@@ -1,0 +1,33 @@
+{
+  "stem": "Fraction strips are shown.\n\nWhich comparison and explanation are true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{5}{6} < \\frac{5}{8} \\), because eighths are larger than sixths"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{5}{6} < \\frac{5}{8} \\), because sixths are larger than eighths"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{5}{6} > \\frac{5}{8} \\), because eighths are larger than sixths"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{5}{6} > \\frac{5}{8} \\), because sixths are larger than eighths"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two fraction strips are shown. The top strip is divided into 6 equal parts. The bottom strip is divided into 8 equal parts."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding of fraction sizes relative to denominators and comparing two fractions with different denominators using visual aids.",
+  "confidence": 0.99,
+  "notes": null
+}

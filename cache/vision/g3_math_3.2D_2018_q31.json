@@ -1,0 +1,33 @@
+{
+  "stem": "The table shows the weights of four elephants.\n\nElephant Weights\n\n| Elephant | Weight (pounds) |\n|----------|-----------------|\n| R        | 12,345          |\n| S        | 13,960          |\n| T        | 12,509          |\n| U        | 11,960          |\n\nWhich comparison of these weights is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight of Elephant R < the weight of Elephant T"
+    },
+    {
+      "label": "B",
+      "text": "The weight of Elephant U > the weight of Elephant T"
+    },
+    {
+      "label": "C",
+      "text": "The weight of Elephant S = the weight of Elephant U"
+    },
+    {
+      "label": "D",
+      "text": "The weight of Elephant S < the weight of Elephant T"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table of Elephant Weights with columns 'Elephant' and 'Weight (pounds)': R - 12,345; S - 13,960; T - 12,509; U - 11,960"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires comparing multiple values in a table to evaluate each inequality or equality, involving more than one step of reasoning.",
+  "confidence": 1,
+  "notes": null
+}

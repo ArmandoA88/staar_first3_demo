@@ -1,0 +1,33 @@
+{
+  "stem": "Miyoung uses a computer to randomly generate numbers between 1 and 10. The results are shown in the dot plot.\n\nEach \u25cf means 1 number.\n\nWhich list of numbers represents Miyoung's results?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1 2 4 5 7 8 9"
+    },
+    {
+      "label": "B",
+      "text": "1 2 3 4 5 6 7 8 9 10"
+    },
+    {
+      "label": "C",
+      "text": "1 2 4 5 7 8 9 10"
+    },
+    {
+      "label": "D",
+      "text": "1 2 4 4 5 5 7 7 8 9"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot showing numbers and frequencies: 1(1), 2(1), 4(2), 5(2), 7(2), 8(1), 9(1)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires directly interpreting a simple dot plot and matching the frequency of numbers to a list, which is a straightforward skill at grade 3 level.",
+  "confidence": 1,
+  "notes": null
+}

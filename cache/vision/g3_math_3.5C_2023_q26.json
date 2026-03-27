@@ -1,0 +1,48 @@
+{
+  "stem": "Alex scored 8 points in a basketball game. The expression shows the number of points that Sara scored.\n\n8 \u00d7 3\n\nComplete the statement to compare the numbers of points scored by Alex and Sara.\n\nMove the correct answer to each box. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Sara"
+    },
+    {
+      "label": null,
+      "text": "Alex"
+    },
+    {
+      "label": null,
+      "text": "8"
+    },
+    {
+      "label": null,
+      "text": "3"
+    },
+    {
+      "label": null,
+      "text": "more points than"
+    },
+    {
+      "label": null,
+      "text": "times as many points as"
+    }
+  ],
+  "choice_pool": [
+    "Sara",
+    "Alex",
+    "8",
+    "3",
+    "more points than",
+    "times as many points as"
+  ],
+  "response_template": "[blank_1] scored [blank_2] [blank_3]\n[blank_4] did.",
+  "visual_elements": [
+    "8 \u00d7 3"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding multiplication and comparison of quantities, then correctly using language to compare two quantities, which involves multiple concepts fitting a modest reasoning level for grade 3.",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,27 @@
+{
+  "stem": "Frank puts 90 pictures in a book. He puts 6 pictures on each page.\n\nHow many pages does Frank put pictures on?",
+  "instruction": "Enter your answer in the space provided.",
+  "options": [],
+  "choice_pool": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "0"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "numeric keypad with digits 0-9 and backspace"
+  ],
+  "item_type_inferred": "numeric response",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves a straightforward division of 90 by 6 to find the number of pages, a single-step calculation appropriate for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

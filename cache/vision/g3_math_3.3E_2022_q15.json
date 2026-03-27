@@ -1,0 +1,33 @@
+{
+  "stem": "Carter and Dane shared a package of 8 baseballs equally.\n\nWhat fraction of the package of baseballs did each person get?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{2}{8}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{4}{4}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{4}{1}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{4}{8}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "8 baseball images visually representing the total baseballs"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Requires basic understanding of equal sharing and fractions with a straightforward calculation (8 baseballs shared by 2 people).",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "A farmer gave \\( \\frac{1}{4} \\) of a bale of hay to a horse each day on Monday, Tuesday, and Wednesday. Which equation can be used to find the fraction of a bale of hay the farmer gave the horse on these three days?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{4} + \\frac{1}{4} + \\frac{1}{4} = \\frac{3}{4} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{4} + \\frac{1}{4} + \\frac{1}{4} = \\frac{3}{12} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{7} + \\frac{1}{7} + \\frac{1}{7} = \\frac{3}{7} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{1}{7} + \\frac{1}{7} + \\frac{1}{7} = \\frac{3}{21} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Equations with fractions showing addition and equals signs for options A, B, C, and D."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves directly adding fractions with the same denominator and comparing given equations, which requires straightforward recall and simple addition of fractions for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

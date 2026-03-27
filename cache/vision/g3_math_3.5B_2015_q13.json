@@ -1,0 +1,33 @@
+{
+  "stem": "Larry has 14 oranges. He will cut each of these oranges into 7 slices. Which array can be used to find the number of orange slices he will have?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(emoji cluster representing 14 rows of 7 slices each)"
+    },
+    {
+      "label": "B",
+      "text": "(emoji cluster representing 7 slices in the first row and 14 slices in the second row)"
+    },
+    {
+      "label": "C",
+      "text": "(emoji cluster representing 7 slices in a single row)"
+    },
+    {
+      "label": "D",
+      "text": "(emoji cluster representing 14 slices in a single row)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A: array of 14 rows by 7 slices, B: array with first row 7 slices, second row 14 slices, C: array with 7 slices in one row, D: array with 14 slices in one row"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires simple multiplication understanding and recognition of the correct array arrangement for 14 times 7, which is a direct representation of the problem context.",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "The objects shown can be classified into groups based on their shape.\n\nWhich table best represents the classifications for these objects?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Classifications\nGroup | Object\nPrism | Eraser, Toolbox\nCylinder | Can, Drum"
+    },
+    {
+      "label": "G",
+      "text": "Classifications\nGroup | Object\nCube | Eraser, Toolbox\nCylinder | Can, Drum"
+    },
+    {
+      "label": "H",
+      "text": "Classifications\nGroup | Object\nPrism | Eraser, Toolbox\nSphere | Can, Drum"
+    },
+    {
+      "label": "J",
+      "text": "Classifications\nGroup | Object\nCylinder | Eraser, Toolbox\nPrism | Can, Drum"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Images of a Can, Eraser, Toolbox, Drum labeled accordingly"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding geometric shapes and classification of objects based on shape, with some reasoning to recognize correct groups for each object.",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "stem": "Gia lists some different methods she thinks she can use to solve the multiplication problem shown.\n\n7 \\times 11 = ?\n\nWhich answer choice is NOT a correct method for Gia to use?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Seven groups of eleven shown in an array of blocks"
+    },
+    {
+      "label": "B",
+      "text": "A number line with seven jumps of 11 each from 0 to 77"
+    },
+    {
+      "label": "C",
+      "text": "11, 22, 33, 44, 55, 66, 77"
+    },
+    {
+      "label": "D",
+      "text": "7, 18, 29, 40, 51, 62, 73"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Array of 7 vertical stacks with 11 blocks each labeled A",
+    "Number line from 0 to 80 with 7 jumps of 11 units each labeled B",
+    "Sequence of multiples of 11 ending at 77 labeled C",
+    "Sequence starting at 7 and adding 11 incorrectly ending at 73 labeled D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of multiplication and the ability to evaluate multiple methods and identify an incorrect sequence.",
+  "confidence": 0.95,
+  "notes": null
+}

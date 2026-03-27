@@ -1,0 +1,34 @@
+{
+  "stem": "The graph shows the number of rolls of wrapping paper sold by four students.\n\n[Graph: Horizontal bar graph with x-axis labeled \"Number Sold\" from 0 to 100 in increments of 20, y-axis labeled \"Student\" with four bars labeled Ari, Evan, Quinn, and Tori. Ari's bar extends to 80, Evan's bar extends to 60, Quinn's bar extends to 50, Tori's bar extends to 70.]\n\nWhich table represents the information in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Student Ari  Number Sold 80\nStudent Evan Number Sold 60\nStudent Quinn Number Sold 50\nStudent Tori  Number Sold 70"
+    },
+    {
+      "label": "B",
+      "text": "Student Ari  Number Sold 80\nStudent Evan Number Sold 60\nStudent Quinn Number Sold 40\nStudent Tori  Number Sold 60"
+    },
+    {
+      "label": "C",
+      "text": "Student Ari  Number Sold 80\nStudent Evan Number Sold 60\nStudent Quinn Number Sold 45\nStudent Tori  Number Sold 65"
+    },
+    {
+      "label": "D",
+      "text": "Student Ari  Number Sold 80\nStudent Evan Number Sold 60\nStudent Quinn Number Sold 60\nStudent Tori  Number Sold 80"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Horizontal bar graph labeled 'Wrapping Paper' with 'Number Sold' on x-axis and 'Student' on y-axis. Bars represent number sold by Ari (80), Evan (60), Quinn (50), Tori (70).",
+    "Four tables labeled A, B, C, D each listing students Ari, Evan, Quinn, Tori and their number sold values."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires interpreting a graph, understanding data, comparing values, and selecting the matching data table among similar options.",
+  "confidence": 1,
+  "notes": null
+}

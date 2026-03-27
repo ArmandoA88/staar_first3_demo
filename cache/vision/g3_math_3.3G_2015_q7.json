@@ -1,0 +1,33 @@
+{
+  "stem": "Point Y is labeled on the number line.\n\n[Number line from 0 to 1 with point Y marked exactly halfway between 0 and 1]\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Point Y represents \\( \\frac{3}{6} \\) and \\( \\frac{3}{4} \\), because both fractions represent 3 equal parts of a whole."
+    },
+    {
+      "label": "B",
+      "text": "Point Y represents \\( \\frac{3}{6} \\) and \\( \\frac{1}{2} \\), because both fractions are exactly halfway between 0 and 1 on the number line."
+    },
+    {
+      "label": "C",
+      "text": "Point Y represents \\( \\frac{4}{6} \\) and \\( \\frac{3}{6} \\), because both fractions represent 6 equal parts of a whole."
+    },
+    {
+      "label": "D",
+      "text": "Point Y represents \\( \\frac{4}{6} \\) and \\( \\frac{1}{2} \\), because both fractions are exactly halfway between 0 and 1 on the number line."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line from 0 to 1 with point Y marked exactly halfway between 0 and 1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of fractions as points on a number line, equivalence of fractions, and interpreting which fractions correctly represent the marked point.",
+  "confidence": 0.98,
+  "notes": null
+}

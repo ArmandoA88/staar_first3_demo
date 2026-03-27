@@ -1,0 +1,33 @@
+{
+  "stem": "The table shows the numbers of baseball cards in different numbers of packages.\n\nBaseball Cards\n\n| Number of Packages | Number of Baseball Cards |\n|--------------------|-------------------------|\n| 2                  | 22                      |\n| 3                  | 33                      |\n| 4                  | 44                      |\n| 5                  | 55                      |\n\nBased on the relationship shown in the table, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of packages times 1 equals the number of baseball cards."
+    },
+    {
+      "label": "B",
+      "text": "The number of packages plus 1 equals the number of baseball cards."
+    },
+    {
+      "label": "C",
+      "text": "The number of packages plus 11 equals the number of baseball cards."
+    },
+    {
+      "label": "D",
+      "text": "The number of packages times 11 equals the number of baseball cards."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with data: Number of Packages (2,3,4,5) and Number of Baseball Cards (22,33,44,55)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires direct observation and understanding of the multiplicative relationship in the table, a straightforward concept for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "Alberto ran for exercise every day for 16 days. The table shows how many days he ran each distance.\n\nExercise\nDistance (miles)  1    1 1/2    2    2 1/2    3\nNumber of Days   ||    |||||   |||   ||||    ||\n\nWhich dot plot represents these data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Dot plot with dots stacked 2 at 1 mile, 5 at 1 1/2 miles, 3 at 2 miles, 4 at 2 1/2 miles, 2 at 3 miles"
+    },
+    {
+      "label": "B",
+      "text": "Dot plot with dots stacked 3 at 1 mile, 4 at 1 1/2 miles, 3 at 2 miles, 4 at 2 1/2 miles, 2 at 3 miles"
+    },
+    {
+      "label": "C",
+      "text": "Dot plot with dots stacked 2 at 1 mile, 4 at 1 1/2 miles, 3 at 2 miles, 5 at 2 1/2 miles, 2 at 3 miles"
+    },
+    {
+      "label": "D",
+      "text": "Dot plot with 1 dot spaced equally at each tick from 1 to 3 miles"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: Distance (miles): 1, 1 1/2, 2, 2 1/2, 3; Number of Days: 2, 5, 3, 4, 2",
+    "Dot plots A, B, C, D showing different distributions of dots over mile distances as described in options"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding and comparing data from a table to multiple dot plots, including fractions and multiple quantities to count.",
+  "confidence": 0.95,
+  "notes": null
+}

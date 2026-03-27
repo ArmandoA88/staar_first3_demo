@@ -1,0 +1,16 @@
+{
+  "stem": "A group of people bought tickets for a roller-coaster ride.\n\n\u2022 The group spent $4 for each ticket.\n\u2022 Altogether the group spent $48 on tickets.\n\u2022 Each person in the group got 2 tickets.\n\nHow many people were in the group?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A list with bullet points:\n- The group spent $4 for each ticket.\n- Altogether the group spent $48 on tickets.\n- Each person in the group got 2 tickets."
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding relationships between total cost, cost per ticket, number of tickets, and number of people with multiplication and division steps.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,16 @@
+{
+  "stem": "The frequency table shows the number of points scored by each player on a basketball team during a game.\n\nPoints Scored\nPlayer | Tally\nStephen | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02\nAlfred | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02\nKenji | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02\nPete | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02\ud800\udd02\nEric | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02\nWesley | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\nHayes | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02",
+  "instruction": "What is the combined number of points scored by Stephen, Alfred, Pete, and Wesley?\n\nRecord your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "frequency table with players and tally marks"
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires counting tally marks accurately for four players and summing the totals, involving multiple steps and attention to detail.",
+  "confidence": 0.95,
+  "notes": null
+}

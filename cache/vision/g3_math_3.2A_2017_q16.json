@@ -1,0 +1,35 @@
+{
+  "stem": "Which of these describes the number 35,824?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The sum of three thousands, five thousands, eight hundreds, two tens, and four ones"
+    },
+    {
+      "label": "G",
+      "text": "The sum of thirty-five hundreds, eight tens, and twenty-four ones"
+    },
+    {
+      "label": "H",
+      "text": "The sum of three ten thousands, five thousands, eight hundreds, two tens, and four ones"
+    },
+    {
+      "label": "J",
+      "text": "The sum of five ten thousands, three thousands, eight hundreds, two tens, and four ones"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: 2017 - Q16",
+    "Question number 16",
+    "Four answer choices labeled F, G, H, J with text as above"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding place value and addition of the place values to correctly describe the number 35,824. Some answer choices mix place values, so it is more than simple recall.",
+  "confidence": 1,
+  "notes": null
+}

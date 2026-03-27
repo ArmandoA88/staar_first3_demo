@@ -1,0 +1,33 @@
+{
+  "stem": "Fraction strips are shown.",
+  "instruction": "Which comparison is true?",
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{6} < \\frac{1}{4} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{3} < \\frac{1}{8} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{4} > \\frac{1}{2} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{1}{8} = \\frac{2}{8} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Fraction strips showing 1 whole divided into various fractions including sixths, fourths, thirds, eighths, halves."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of fraction size and comparison of different fractions involving multiple concepts of numerators and denominators and visual fraction models.",
+  "confidence": 1,
+  "notes": null
+}

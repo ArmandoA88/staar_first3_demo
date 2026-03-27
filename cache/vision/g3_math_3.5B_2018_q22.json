@@ -1,0 +1,33 @@
+{
+  "stem": "Noah has 48 cookies. The model represents what he did with the cookies.\n\nBased on the model, which of these could explain what Noah did with the cookies?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He put (48 \u00f7 8) cookies into each of 8 bags and ate (2 \u00d7 6) of the cookies."
+    },
+    {
+      "label": "G",
+      "text": "He put (48 \u00f7 6) cookies into each of 8 bags and ate (2 \u00d7 8) of the cookies."
+    },
+    {
+      "label": "H",
+      "text": "He put (48 \u2212 6) cookies into each of 8 bags and ate (2 \u00d7 6) of the cookies."
+    },
+    {
+      "label": "J",
+      "text": "He put (48 \u00d7 6) cookies into each of 8 bags and ate (2 + 6) of the cookies."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing 8 bags arranged in a grid of 4 rows and 2 columns with cookie images inside each bag. The last row bags are crossed out."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "The problem requires understanding division and multiplication applied to a model with visual information and eliminating incorrect options based on the model. It involves reasoning about the relationship between total cookies, groups, and eaten cookies, which is more than recalling a fact or direct computation.",
+  "confidence": 0.95,
+  "notes": null
+}

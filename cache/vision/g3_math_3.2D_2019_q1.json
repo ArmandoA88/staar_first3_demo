@@ -1,0 +1,33 @@
+{
+  "stem": "Which list shows the numbers in order from greatest to least value?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "38,945  9,052  9,181"
+    },
+    {
+      "label": "B",
+      "text": "6,912  29,013  34,987"
+    },
+    {
+      "label": "C",
+      "text": "58,702  50,716  581"
+    },
+    {
+      "label": "D",
+      "text": "6,092  60,019  5,005"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text with numbers and choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The task requires recognizing and comparing place values to order numbers, which is a straightforward skill for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

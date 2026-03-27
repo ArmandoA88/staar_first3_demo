@@ -1,0 +1,41 @@
+{
+  "stem": "Which figures are quadrilaterals?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "Triangle with three sides"
+    },
+    {
+      "label": null,
+      "text": "Parallelogram"
+    },
+    {
+      "label": null,
+      "text": "Square"
+    },
+    {
+      "label": null,
+      "text": "Pentagon"
+    },
+    {
+      "label": null,
+      "text": "Right triangle"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangle with three sides",
+    "parallelogram",
+    "square",
+    "pentagon",
+    "right triangle"
+  ],
+  "item_type_inferred": "Hot Spot",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Identifying quadrilaterals is a direct recall skill of geometric shapes and their sides, requiring no multi-step reasoning.",
+  "confidence": 1,
+  "notes": null
+}

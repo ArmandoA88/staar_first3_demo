@@ -1,0 +1,33 @@
+{
+  "stem": "The chef at a restaurant makes 6 burritos with every 1 pound of meat.\n\nWhich table shows the relationship between burritos and pounds of meat?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number of Burritos | Pounds of Meat\n7 | 1\n8 | 2\n16 | 10\n20 | 14"
+    },
+    {
+      "label": "B",
+      "text": "Number of Burritos | Pounds of Meat\n6 | 1\n12 | 2\n60 | 10\n84 | 14"
+    },
+    {
+      "label": "C",
+      "text": "Number of Burritos | Pounds of Meat\n1 | 6\n2 | 12\n10 | 60\n14 | 84"
+    },
+    {
+      "label": "D",
+      "text": "Number of Burritos | Pounds of Meat\n6 | 1\n12 | 7\n18 | 13\n24 | 19"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Tables labeled A, B, C, D showing number of burritos and pounds of meat"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding and applying a ratio to find the correct relationship from multiple tables.",
+  "confidence": 0.99,
+  "notes": null
+}

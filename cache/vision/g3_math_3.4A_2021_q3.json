@@ -1,0 +1,33 @@
+{
+  "stem": "A theater sold tickets for three movies. The table shows the number of tickets sold for each movie.\n\nMovie Tickets Sold\n\n| Movie              | 1   | 2   | 3   |\n|--------------------|-----|-----|-----|\n| Number of Tickets  | 143 | 158 | 175 |\n\nWhat was the total number of tickets the theater sold for these three movies?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "476"
+    },
+    {
+      "label": "B",
+      "text": "366"
+    },
+    {
+      "label": "C",
+      "text": "376"
+    },
+    {
+      "label": "D",
+      "text": "473"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with rows labeled 'Movie' and 'Number of Tickets' and columns for movies 1, 2, 3 with values 143, 158, 175"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Requires one straightforward step of adding three numbers to find the total.",
+  "confidence": 1,
+  "notes": null
+}

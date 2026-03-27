@@ -1,0 +1,17 @@
+{
+  "stem": "Kasey bought two bags of beads.\n\n\u2022 One bag contained 250 beads.\n\n\u2022 The other bag contained 400 beads.\n\nKasey used all but 36 of the total number of beads for an art project.\n\nWhat was the total number of beads that Kasey used for the art project?",
+  "instruction": "Enter your answer in the box.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Kasey bought two bags of beads.\n\n\u2022 One bag contained 250 beads.\n\n\u2022 The other bag contained 400 beads.\n\nKasey used all but 36 of the total number of beads for an art project.\n\nWhat was the total number of beads that Kasey used for the art project?",
+    "Equation editor with digits 1-9, 0, and fraction symbol"
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires only simple addition and subtraction to find how many beads were used, which is a basic calculation for grade 3 level.",
+  "confidence": 0.99,
+  "notes": null
+}

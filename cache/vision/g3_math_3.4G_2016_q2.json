@@ -1,0 +1,31 @@
+{
+  "stem": "The members of a gym use 98 towels every day. How many towels are used in 7 days?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "636"
+    },
+    {
+      "label": "G",
+      "text": "14"
+    },
+    {
+      "label": "H",
+      "text": "686"
+    },
+    {
+      "label": "J",
+      "text": "91"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward multiplication to find the total number of towels used in 7 days; no complex reasoning involved.",
+  "confidence": 0.99,
+  "notes": null
+}

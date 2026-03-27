@@ -1,0 +1,45 @@
+{
+  "stem": "Owen received the coins and bills shown when he sold lemonade.\n\nWhat is the value of the coins and bills Owen received?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$8.85"
+    },
+    {
+      "label": "G",
+      "text": "$9.00"
+    },
+    {
+      "label": "H",
+      "text": "$9.10"
+    },
+    {
+      "label": "J",
+      "text": "$8.90"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "$5 bill",
+    "$1 bill",
+    "$1 bill",
+    "quarter",
+    "quarter",
+    "dime",
+    "quarter",
+    "quarter",
+    "dime",
+    "quarter",
+    "quarter",
+    "nickel",
+    "dime"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires counting different US currency bills and coins and then summing their values, involving multiple steps and conversion of coin counts into dollar amounts.",
+  "confidence": 0.99,
+  "notes": null
+}

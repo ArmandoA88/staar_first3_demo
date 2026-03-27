@@ -1,0 +1,33 @@
+{
+  "stem": "Calvin draws two congruent figures. He shades an equal area of each figure.\nWhich figures could be Calvin\u2019s?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Two circles each divided into four equal parts, one part shaded in each, with the larger circle's shaded part half the size but same fraction as smaller circle's shaded part."
+    },
+    {
+      "label": "B",
+      "text": "Two hexagonal figures split into six triangles each, one small triangle shaded in each, matching in shaded fraction despite different shape presentation."
+    },
+    {
+      "label": "C",
+      "text": "Two squares each divided into four parts; one is a square with one quarter shaded and the other a square divided by diagonals with one triangular quarter shaded."
+    },
+    {
+      "label": "D",
+      "text": "Two large triangles each subdivided into four smaller triangles; shaded regions include three of the four in first and one of the four in second."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four pairs of geometric figures labeled A, B, C, and D, with shaded areas indicating fractions of the figures's areas."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of congruency and fractional areas, and comparing shapes and shaded regions computationally.",
+  "confidence": 0.95,
+  "notes": null
+}

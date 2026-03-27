@@ -1,0 +1,33 @@
+{
+  "stem": "There were 25 people in a library. Some people left the library and went home. Then there were 13 people remaining in the library. Which number line represents one way to determine the number of people who left the library?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Number line starting at 25 and showing the difference to 40"
+    },
+    {
+      "label": "G",
+      "text": "Number line showing two segments between 0 and 25, totaling 25"
+    },
+    {
+      "label": "H",
+      "text": "Number line showing segment from 0 to 13"
+    },
+    {
+      "label": "J",
+      "text": "Number line showing a segment from 0 to 25 and another within it from 13 to 25"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four number lines labeled F, G, H, J with segments indicating intervals relevant to the problem"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding subtraction and interpreting number lines to find the difference between 25 and 13",
+  "confidence": 1,
+  "notes": null
+}

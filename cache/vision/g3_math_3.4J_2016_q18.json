@@ -1,0 +1,33 @@
+{
+  "stem": "There are a total of 36 bicycles in 6 rows at a bicycle shop. There are the same number of bicycles in each row. Which equation can be used to find the number of bicycles in each row?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "6 \\times 6 = 36"
+    },
+    {
+      "label": "G",
+      "text": "36 - 6 = 30"
+    },
+    {
+      "label": "H",
+      "text": "36 \\times 6 = 216"
+    },
+    {
+      "label": "J",
+      "text": "6 + 6 = 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves a straightforward division/multiplication relationship to find the number of bicycles per row from a total and equal distributions, typical of grade 3 level.",
+  "confidence": 1,
+  "notes": null
+}

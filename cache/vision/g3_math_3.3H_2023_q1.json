@@ -1,0 +1,37 @@
+{
+  "stem": "Which comparison is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{2}{4} > \\frac{2}{6}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{2}{3} = \\frac{2}{4}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{2}{6} > \\frac{2}{4}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{2}{3} < \\frac{2}{8}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fractions",
+    "greater than sign",
+    "less than sign",
+    "equal sign",
+    "multiple choice labels: A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires comparing fractions with different denominators and selecting the true comparison, involving modest reasoning about fraction sizes.",
+  "confidence": 1,
+  "notes": null
+}

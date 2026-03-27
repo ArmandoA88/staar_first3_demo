@@ -1,0 +1,37 @@
+{
+  "stem": "A group of figures is shown.\n\n[image with three figures: a rectangular prism, a triangular prism, and a cube]\n\nWhich statements appear to be true about the group of figures?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "All the figures are prisms."
+    },
+    {
+      "label": null,
+      "text": "All the figures are polygons."
+    },
+    {
+      "label": null,
+      "text": "All the figures have at least one triangular face."
+    },
+    {
+      "label": null,
+      "text": "All the figures have zero vertices."
+    },
+    {
+      "label": null,
+      "text": "All the figures have at least one rectangular face."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Three 3D figures: rectangular prism, triangular prism, and cube"
+  ],
+  "item_type_inferred": "Multiselect",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding of 3D shapes, identifying prisms, their faces, and vertices, involving modest spatial reasoning beyond basic recall.",
+  "confidence": 0.99,
+  "notes": null
+}

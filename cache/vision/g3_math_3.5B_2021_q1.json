@@ -1,0 +1,33 @@
+{
+  "stem": "Victor bought 36 eggs at a grocery store. The eggs were in cartons with 12 eggs in each carton.\n\nWhich model best represents the number of cartons of eggs Victor bought?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "One carton with 12 eggs shown partially crossed out"
+    },
+    {
+      "label": "B",
+      "text": "Three cartons with 12 eggs each"
+    },
+    {
+      "label": "C",
+      "text": "Two cartons with 12 eggs and one larger carton with 24 eggs"
+    },
+    {
+      "label": "D",
+      "text": "Three small cartons with 6 eggs each"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of cartons of eggs labeled A, B, C, D with different quantities and arrangements of eggs to represent the models"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question requires a simple division calculation (36 eggs \u00f7 12 eggs per carton) to identify the correct model representing the number of cartons; this involves straightforward reasoning with visible cues.",
+  "confidence": 0.98,
+  "notes": null
+}

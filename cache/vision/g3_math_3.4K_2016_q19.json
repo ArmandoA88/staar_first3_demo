@@ -1,0 +1,34 @@
+{
+  "stem": "There are two different vegetables in a garden.\n\n\u2022 There are 5 rows that have 16 carrot plants in each row.\n\u2022 There are 72 spinach plants.\n\nHow many vegetable plants are there in the garden?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "152"
+    },
+    {
+      "label": "B",
+      "text": "88"
+    },
+    {
+      "label": "C",
+      "text": "93"
+    },
+    {
+      "label": "D",
+      "text": "122"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There are 5 rows that have 16 carrot plants in each row.",
+    "There are 72 spinach plants."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires straightforward multiplication and addition to find the total number of plants, which is a simple two-step calculation appropriate for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

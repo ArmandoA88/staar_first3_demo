@@ -1,0 +1,33 @@
+{
+  "stem": "The table below shows the number of each kind of magazine sold in a store during one month.\n\nMagazines Sold\n\nKind of Magazine | Number Sold\nFashion         | 1,728\nNews            | 1,723\nEntertainment   | 2,114\nSports          | 2,186\n\nWhich list shows the kinds of magazines in order from greatest to least number sold?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sports, entertainment, fashion, news"
+    },
+    {
+      "label": "B",
+      "text": "Fashion, sports, entertainment, news"
+    },
+    {
+      "label": "C",
+      "text": "Sports, fashion, news, entertainment"
+    },
+    {
+      "label": "D",
+      "text": "Fashion, news, entertainment, sports"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns: Kind of Magazine, Number Sold; rows: Fashion - 1728, News - 1723, Entertainment - 2114, Sports - 2186"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires comparing and ordering multiple numerical values from a table, involving modest reasoning about magnitude.",
+  "confidence": 1,
+  "notes": null
+}

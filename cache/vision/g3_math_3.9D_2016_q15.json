@@ -1,0 +1,31 @@
+{
+  "stem": "Mrs. Williams borrowed $6,000 from a bank to pay for some home repairs. She paid $7,500 back to the bank. Which of these is the most likely reason Mrs. Williams paid the bank more than the amount she borrowed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She made a mistake in calculating the amount she needed to pay back."
+    },
+    {
+      "label": "B",
+      "text": "She actually needed more than $6,000 for the home repairs."
+    },
+    {
+      "label": "C",
+      "text": "She had to pay interest on the amount of money she borrowed."
+    },
+    {
+      "label": "D",
+      "text": "She had to pay sales tax on the amount of money she borrowed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding of borrowing money and the concept of paying interest, distinguishing it from mistakes or other reasons for paying more.",
+  "confidence": 1,
+  "notes": null
+}

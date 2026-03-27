@@ -1,0 +1,33 @@
+{
+  "stem": "Hector played a game 14 times. Each time he played, he threw 4 red balls and 3 green balls at a target.\n\nWhat was the total number of balls Hector threw at the target?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "21"
+    },
+    {
+      "label": "B",
+      "text": "68"
+    },
+    {
+      "label": "C",
+      "text": "98"
+    },
+    {
+      "label": "D",
+      "text": "46"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward multiplication and addition step to find the total balls thrown.",
+  "confidence": 1,
+  "notes": null
+}

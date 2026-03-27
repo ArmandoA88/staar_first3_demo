@@ -1,0 +1,33 @@
+{
+  "stem": "Two friends played a game. The first friend scored 339 points. The second friend scored 75 more points than the first friend.\n\nWhich strip diagram can be used to find the total number of points both friends scored?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "339\n75 ?"
+    },
+    {
+      "label": "B",
+      "text": "339 339\n75 ?"
+    },
+    {
+      "label": "C",
+      "text": "?\n339 75"
+    },
+    {
+      "label": "D",
+      "text": "?\n339 339 75"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four strip diagrams labeled A, B, C, D; each diagram is a rectangle(s) divided to show parts with numbers 339, 75, ?, or combinations thereof."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding how to represent addition with a strip diagram involving a base quantity and an increase, then finding the total. It requires modest reasoning about the relationship between the quantities and choosing the appropriate representation.",
+  "confidence": 0.95,
+  "notes": null
+}

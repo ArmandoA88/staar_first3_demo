@@ -1,0 +1,33 @@
+{
+  "stem": "An artist painted 20 skateboards on Saturday. She painted 4 flowers on each skateboard.\n\nWhich equation can be used to find the total number of flowers the artist painted on these skateboards?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "20 \u00d7 4 = 80"
+    },
+    {
+      "label": "B",
+      "text": "20 \u00f7 4 = 5"
+    },
+    {
+      "label": "C",
+      "text": "20 + 4 = 24"
+    },
+    {
+      "label": "D",
+      "text": "20 \u2212 4 = 16"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Equation choices: 20 \u00d7 4 = 80, 20 \u00f7 4 = 5, 20 + 4 = 24, 20 \u2212 4 = 16"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 1,
+  "difficulty_rationale": "The problem requires a straightforward application of multiplication to find the total number of flowers, involving one simple reasoning step.",
+  "confidence": 0.98,
+  "notes": null
+}

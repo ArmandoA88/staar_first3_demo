@@ -1,0 +1,33 @@
+{
+  "stem": "The side lengths of a rectangular mirror are shown in inches.\n\nWhat is the perimeter of the mirror in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "72 in."
+    },
+    {
+      "label": "B",
+      "text": "46 in."
+    },
+    {
+      "label": "C",
+      "text": "74 in."
+    },
+    {
+      "label": "D",
+      "text": "92 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangle with top side labeled '18 in.' and right side labeled '28 in.'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires the student to calculate the perimeter of a rectangle using the given side lengths, a straightforward two-step calculation.",
+  "confidence": 1,
+  "notes": null
+}

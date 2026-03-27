@@ -1,0 +1,33 @@
+{
+  "stem": "To make posters, 6 students each collected 8 pictures of animals. The students put 4 animal pictures on each poster they made. Which equation shows one way to find the number of posters the students made?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "6 + 8 + 4 = 18"
+    },
+    {
+      "label": "G",
+      "text": "6 \u00d7 8 \u00f7 4 = 12"
+    },
+    {
+      "label": "H",
+      "text": "6 \u00d7 8 \u00d7 4 = 192"
+    },
+    {
+      "label": "J",
+      "text": "6 + 8 \u2212 4 = 10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "6 \u00d7 8 \u00f7 4 = 12"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires multiple steps: finding total pictures and then dividing by pictures per poster, which involves both multiplication and division in context, suitable for grade 3 understanding.",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "A cafeteria sold a total of 513 drinks on Wednesday. The table shows the number of each type of drink that was sold. The number of bottles of milk is missing from the table.\n\nDrinks Sold\n\n| Type of Drink         | Number Sold |\n|----------------------|-------------|\n| Bottles of apple juice | 172         |\n| Bottles of milk        | ?           |\n| Bottles of water       | 263         |\n\nWhich set of equations can be used to find the number of bottles of milk sold?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "172 + 263 = 435\n513 + 435 = [ ]"
+    },
+    {
+      "label": "G",
+      "text": "263 - 172 = 91\n513 - 91 = [ ]"
+    },
+    {
+      "label": "H",
+      "text": "513 - 172 = 341\n341 + 263 = [ ]"
+    },
+    {
+      "label": "J",
+      "text": "172 + 263 = 435\n513 - 435 = [ ]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: Drinks Sold with columns Type of Drink and Number Sold.\nRows: Bottles of apple juice 172, Bottles of milk ?, Bottles of water 263."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires understanding of addition and subtraction to set up equations based on given totals and partial sums, not a single step but straightforward reasoning.",
+  "confidence": 0.99,
+  "notes": null
+}

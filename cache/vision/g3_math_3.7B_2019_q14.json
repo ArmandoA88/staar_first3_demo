@@ -1,0 +1,16 @@
+{
+  "stem": "Gina\u2019s journal has a square cover with the side length shown.\n\nWhat is the perimeter of the cover of Gina\u2019s journal in centimeters?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "square with side length 24 cm labeled"
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires calculating the perimeter of a square given the side length, a direct recall of the perimeter formula (4 times the side).",
+  "confidence": 1,
+  "notes": null
+}

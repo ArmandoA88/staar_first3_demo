@@ -1,0 +1,31 @@
+{
+  "stem": "A triangular sign has a perimeter of 44 centimeters. Two of the sides are each 14 centimeters long. What is the length of the third side in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "28 cm"
+    },
+    {
+      "label": "G",
+      "text": "16 cm"
+    },
+    {
+      "label": "H",
+      "text": "30 cm"
+    },
+    {
+      "label": "J",
+      "text": "14 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires straightforward subtraction to find the length of the third side by subtracting the sum of the two given sides from the perimeter.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "The numbers listed show the speed in miles per hour Henry pitched a baseball.\n\n30, 32, 38, 30, 33, 34, 32, 35, 38, 36, 35, 32, 30, 32, 35\nWhich dot plot represents the speed of Henry's pitches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "dot plot with one dot at 30, one at 31, three at 32, one at 33, one at 34, one at 35, one at 36, zero at 37, one at 38"
+    },
+    {
+      "label": "H",
+      "text": "dot plot with three dots at 30, one dot at 32, one dot at 33, one dot at 34, two dots at 35, one dot at 36, one dot at 37, one dot at 38"
+    },
+    {
+      "label": "G",
+      "text": "dot plot with three dots at 30, four dots at 32, one dot at 33, two dots at 34, three dots at 35, one dot at 36, zero dots at 37, one dot at 38"
+    },
+    {
+      "label": "J",
+      "text": "dot plot with three dots at 30, four dots at 32, one dot at 33, two dots at 34, two dots at 35, one dot at 36, zero dots at 37, two dots at 38"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "four dot plots labeled F, H, G, and J with number line from 30 to 38 and dots above numbers varying by plot as described in options"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires counting frequency of each speed from data then matching to dot plot frequencies, involving moderate reasoning with data representation.",
+  "confidence": 0.99,
+  "notes": null
+}

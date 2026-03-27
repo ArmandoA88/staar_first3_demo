@@ -1,0 +1,73 @@
+{
+  "stem": "Ben rolls a number cube 10 times and records the results shown.\n\n6  3  5  4  4  1  5  3  6  5\n\nHe then creates the dot plot shown with the results.\n\nNumber Cube Rolls\n\n1  .\n2\n3  ..\n4  ..\n5  ...\n6  .\n\nEach \u25cf means 1 roll.\n\nComplete the sentence by selecting the correct answers from the drop-down menus.\n\nBen\u2019s dot plot is incorrect because there should be [blank_1] above the number [blank_2].",
+  "instruction": "Complete the sentence by selecting the correct answers from the drop-down menus.",
+  "options": [
+    {
+      "label": "A",
+      "text": "1 dot"
+    },
+    {
+      "label": "B",
+      "text": "2 dots"
+    },
+    {
+      "label": "C",
+      "text": "3 dots"
+    },
+    {
+      "label": "D",
+      "text": "4 dots"
+    },
+    {
+      "label": "E",
+      "text": "5 dots"
+    },
+    {
+      "label": "F",
+      "text": "1"
+    },
+    {
+      "label": "G",
+      "text": "2"
+    },
+    {
+      "label": "H",
+      "text": "3"
+    },
+    {
+      "label": "I",
+      "text": "4"
+    },
+    {
+      "label": "J",
+      "text": "5"
+    },
+    {
+      "label": "K",
+      "text": "6"
+    }
+  ],
+  "choice_pool": [
+    "1 dot",
+    "2 dots",
+    "3 dots",
+    "4 dots",
+    "5 dots",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "response_template": "Ben\u2019s dot plot is incorrect because there should be [blank_1] above the number [blank_2].",
+  "visual_elements": [
+    "Number Cube Rolls dot plot with numbers 1 to 6 on the horizontal axis and dots representing rolls: 1 has 1 dot, 2 has 0 dots, 3 has 2 dots, 4 has 2 dots, 5 has 3 dots, 6 has 1 dot."
+  ],
+  "item_type_inferred": "Inline Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "The problem requires counting and comparing the frequency of rolls in the dot plot versus the data set, identifying a discrepancy, and completing a sentence with correct terms.",
+  "confidence": 0.98,
+  "notes": null
+}

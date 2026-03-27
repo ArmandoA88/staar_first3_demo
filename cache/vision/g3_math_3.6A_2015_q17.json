@@ -1,0 +1,38 @@
+{
+  "stem": "The figures shown can be sorted into groups.\n\nWhich of these shows a correct way to group these figures?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3 rectangles and 3 hexagons"
+    },
+    {
+      "label": "B",
+      "text": "2 hexagons and 4 quadrilaterals"
+    },
+    {
+      "label": "C",
+      "text": "2 hexagons, 2 pentagons, and 2 rectangles"
+    },
+    {
+      "label": "D",
+      "text": "1 pentagon, 2 hexagons, and 3 quadrilaterals"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "square",
+    "hexagon",
+    "rectangle",
+    "pentagon",
+    "irregular quadrilateral",
+    "L-shaped figure"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires identifying and counting different types of polygons and understanding grouping by shape type, which involves modest reasoning.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Vince built a fence around his rectangular garden. The perimeter of the garden is 26 feet. The length of the garden is 8 feet.\n\nWhat is the width of the garden in feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5 ft"
+    },
+    {
+      "label": "B",
+      "text": "10 ft"
+    },
+    {
+      "label": "C",
+      "text": "8 ft"
+    },
+    {
+      "label": "D",
+      "text": "16 ft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of the perimeter formula for rectangles and solving for the unknown width, involving basic algebra.",
+  "confidence": 1,
+  "notes": null
+}

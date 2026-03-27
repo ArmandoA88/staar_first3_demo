@@ -1,0 +1,33 @@
+{
+  "stem": "There are 4 books on a shelf. In the model the shaded books represent nonfiction books.\nWhich expression represents the fraction of the books on the shelf that are nonfiction?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{1}{4} + \\frac{1}{4} + \\frac{1}{4} + \\frac{1}{4}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{1}{4} + \\frac{1}{4} + \\frac{1}{4}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{1}{3} + \\frac{1}{3} + \\frac{1}{3}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{3}{1} + \\frac{3}{1} + \\frac{3}{1}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image showing 4 books on a shelf, 3 shaded and 1 white. Shaded books represent nonfiction books."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires simple identification of fractions and counting to determine the fraction of nonfiction books, no complex calculations.",
+  "confidence": 0.99,
+  "notes": null
+}

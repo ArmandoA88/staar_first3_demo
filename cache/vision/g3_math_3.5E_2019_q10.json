@@ -1,0 +1,36 @@
+{
+  "stem": "There are 8 oranges in each bag for sale at a store. Which table shows the relationship between the number of bags and the number of oranges in the bags?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Number of Bags | Number of Oranges\n2 | 8\n3 | 16\n4 | 24\n5 | 32"
+    },
+    {
+      "label": "H",
+      "text": "Number of Bags | Number of Oranges\n2 | 10\n3 | 11\n4 | 12\n5 | 13"
+    },
+    {
+      "label": "G",
+      "text": "Number of Bags | Number of Oranges\n2 | 16\n3 | 24\n4 | 32\n5 | 40"
+    },
+    {
+      "label": "J",
+      "text": "Number of Bags | Number of Oranges\n2 | 16\n3 | 32\n4 | 64\n5 | 128"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table F showing Number of Bags and Number of Oranges: 2->8, 3->16, 4->24, 5->32",
+    "Table H showing Number of Bags and Number of Oranges: 2->10, 3->11, 4->12, 5->13",
+    "Table G showing Number of Bags and Number of Oranges: 2->16, 3->24, 4->32, 5->40",
+    "Table J showing Number of Bags and Number of Oranges: 2->16, 3->32, 4->64, 5->128"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires direct application of multiplication by 8 to identify the correct table, a straightforward step for grade 3 students.",
+  "confidence": 0.99,
+  "notes": null
+}

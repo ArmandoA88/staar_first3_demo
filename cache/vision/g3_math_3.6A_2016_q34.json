@@ -1,0 +1,34 @@
+{
+  "stem": "Sofia separated some figures into two sets. The figures in Set A have a common characteristic. The figures in Set B do not have the characteristic.",
+  "instruction": "Which of these is the best description of the common characteristic of the figures in Set A?",
+  "options": [
+    {
+      "label": "F",
+      "text": "They have no vertices."
+    },
+    {
+      "label": "G",
+      "text": "They have at least one circular base."
+    },
+    {
+      "label": "H",
+      "text": "They have at least one edge."
+    },
+    {
+      "label": "J",
+      "text": "They have faces that are polygons."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Set A contains drawings of a cylinder and a sphere.",
+    "Set B contains drawings of a cone, a hexagon, and a cube."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of geometric figure properties and reasoning about which characteristic is common to one set but not the other.",
+  "confidence": 1,
+  "notes": null
+}

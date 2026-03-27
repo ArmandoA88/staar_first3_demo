@@ -1,0 +1,33 @@
+{
+  "stem": "Rita had two boxes of ribbons.\n\n\u2022 She had 37 large ribbons in the first box.\n\u2022 She had 56 small ribbons in the second box.\n\u2022 She gave 28 of the large ribbons to her sister.\n\nWhich number sentence can be used to find the number of ribbons Rita had left in the two boxes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "56 + 28 + 37 ="
+    },
+    {
+      "label": "G",
+      "text": "37 - 28 + 56 ="
+    },
+    {
+      "label": "H",
+      "text": "37 + 28 - 56 ="
+    },
+    {
+      "label": "J",
+      "text": "56 + 28 - 37 ="
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number sentences labeled F, G, H, J with addition and subtraction expressions involving 37, 56, 28."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding which operations to perform to find how many ribbons are left after giving some away, involving multiple steps and reasoning about subtraction and addition.",
+  "confidence": 1,
+  "notes": null
+}

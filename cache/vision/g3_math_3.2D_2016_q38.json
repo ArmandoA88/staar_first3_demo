@@ -1,0 +1,41 @@
+{
+  "stem": "The list shows three clues about a number.\n\n\u2022 The number is greater than 85,629.\n\u2022 The number is less than 88,231.\n\u2022 The number has a digit greater than 6 in the hundreds place.\n\nWhich of these could be the number described?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "88,165"
+    },
+    {
+      "label": "G",
+      "text": "85,625"
+    },
+    {
+      "label": "H",
+      "text": "88,930"
+    },
+    {
+      "label": "J",
+      "text": "87,720"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The list shows three clues about a number.",
+    "\u2022 The number is greater than 85,629.",
+    "\u2022 The number is less than 88,231.",
+    "\u2022 The number has a digit greater than 6 in the hundreds place.",
+    "Which of these could be the number described?",
+    "F 88,165",
+    "G 85,625",
+    "H 88,930",
+    "J 87,720"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of place value, inequality, and digit position within number to evaluate each option.",
+  "confidence": 1,
+  "notes": null
+}

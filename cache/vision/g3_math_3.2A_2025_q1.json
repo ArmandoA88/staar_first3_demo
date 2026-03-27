@@ -1,0 +1,37 @@
+{
+  "stem": "Which expressions are equivalent to 15,090?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "1,000 + 5,000 + 900"
+    },
+    {
+      "label": null,
+      "text": "15,000 + 90"
+    },
+    {
+      "label": null,
+      "text": "1,000 + 5,000 + 90"
+    },
+    {
+      "label": null,
+      "text": "15,000 + 900"
+    },
+    {
+      "label": null,
+      "text": "10,000 + 5,000 + 90"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Checkboxes next to each expression"
+  ],
+  "item_type_inferred": "Multiselect",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of place value and addition to identify equivalent expressions for a given number, involving some arithmetic and reasoning.",
+  "confidence": 1,
+  "notes": null
+}

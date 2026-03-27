@@ -1,0 +1,36 @@
+{
+  "stem": "In which empty square would the number 1,677 make the comparison true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1,749 > ___ > 1,695"
+    },
+    {
+      "label": "B",
+      "text": "1,645 < ___ < 1,684"
+    },
+    {
+      "label": "C",
+      "text": "1,805 > ___ > 1,789"
+    },
+    {
+      "label": "D",
+      "text": "1,650 < ___ < 1,675"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A: 1,749 > [blank] > 1,695",
+    "B: 1,645 < [blank] < 1,684",
+    "C: 1,805 > [blank] > 1,789",
+    "D: 1,650 < [blank] < 1,675"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding and comparing inequalities, and evaluating where a specific number fits within numeric bounds, which requires modest reasoning beyond direct recall.",
+  "confidence": 0.99,
+  "notes": null
+}

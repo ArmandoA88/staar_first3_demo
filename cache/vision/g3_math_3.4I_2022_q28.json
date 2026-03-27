@@ -1,0 +1,38 @@
+{
+  "stem": "Which statement about the number 27 is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It is even because the digit in the tens place is even."
+    },
+    {
+      "label": "G",
+      "text": "It is odd because the digit in the ones place is odd."
+    },
+    {
+      "label": "H",
+      "text": "It is even because it can be divided by 9 evenly."
+    },
+    {
+      "label": "J",
+      "text": "It is odd because it can be divided by 2 evenly."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q28",
+    "28 Which statement about the number 27 is true?",
+    "F It is even because the digit in the tens place is even.",
+    "G It is odd because the digit in the ones place is odd.",
+    "H It is even because it can be divided by 9 evenly.",
+    "J It is odd because it can be divided by 2 evenly."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "This problem requires basic knowledge of even/odd numbers and place value.",
+  "confidence": 1,
+  "notes": null
+}

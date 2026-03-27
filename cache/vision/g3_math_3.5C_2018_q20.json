@@ -1,0 +1,33 @@
+{
+  "stem": "Hakeem received 13 phone calls on Tuesday. This expression can be used to show the number of phone calls he received on Saturday.\n\n13 \\times 4\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Hakeem received 4 more phone calls on Saturday than he received on Tuesday."
+    },
+    {
+      "label": "G",
+      "text": "Hakeem received 4 more phone calls on Tuesday than he received on Saturday."
+    },
+    {
+      "label": "H",
+      "text": "Hakeem received 4 times as many phone calls on Saturday as he received on Tuesday."
+    },
+    {
+      "label": "J",
+      "text": "Hakeem received 4 times as many phone calls on Tuesday as he received on Saturday."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "13 \\times 4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires understanding of multiplication and interpreting it in context with a straightforward comparison of quantities related to phone calls on different days.",
+  "confidence": 1,
+  "notes": null
+}

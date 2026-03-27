@@ -1,0 +1,33 @@
+{
+  "stem": "Which answer choice best describes the two quadrilaterals that are pieces of the puzzle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Square and parallelogram"
+    },
+    {
+      "label": "B",
+      "text": "Parallelogram and triangle"
+    },
+    {
+      "label": "C",
+      "text": "Square and trapezoid"
+    },
+    {
+      "label": "D",
+      "text": "Triangle and rhombus"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "seven pieces of a geometric puzzle shown in a large square outline with several shapes inside: triangles, one small square, and other polygons"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of quadrilateral types and identifying them from geometric puzzle pieces, involving modest reasoning.",
+  "confidence": 1,
+  "notes": null
+}

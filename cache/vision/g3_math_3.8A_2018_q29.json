@@ -1,0 +1,33 @@
+{
+  "stem": "The picture shows the coins that are in a piggy bank.\n\nWhich dot plot represents the value in cents of each coin in the piggy bank?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Dot plot with dots evenly spread across 5, 10, 15, 20, 25, 30, 35, 40, 45 cents)"
+    },
+    {
+      "label": "B",
+      "text": "(Dot plot with 5 dots at 5 cents, 2 dots at 10 cents, and 3 dots at 30 cents)"
+    },
+    {
+      "label": "C",
+      "text": "(Dot plot with 1 dot at 5 cents, 2 dots at 10 cents, 1 dot at 25 cents)"
+    },
+    {
+      "label": "D",
+      "text": "(Dot plot with 4 dots at 5 cents, 2 dots at 10 cents, 3 dots at 25 cents)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of coins: 4 quarters (25 cents), 3 nickels (5 cents), 2 dimes (10 cents)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires identifying coin values and counting each to match the correct dot plot, involving modest reasoning with multiple concepts (coin identification, counting, data representation).",
+  "confidence": 0.95,
+  "notes": null
+}

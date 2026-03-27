@@ -1,0 +1,41 @@
+{
+  "stem": "The rectangles shown will be covered with squares.\n\n\u2022 Each square has an area of 1 square inch.\n\n\u2022 Some of the squares have already been placed as shown.\n\nWhich rectangles have an area of 24 square inches?\n\nSelect TWO correct answers.",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "[Image of first rectangle with squares]"
+    },
+    {
+      "label": null,
+      "text": "[Image of second rectangle with squares]"
+    },
+    {
+      "label": null,
+      "text": "[Image of third rectangle with squares]"
+    },
+    {
+      "label": null,
+      "text": "[Image of fourth rectangle with squares]"
+    },
+    {
+      "label": null,
+      "text": "[Image of fifth rectangle with squares]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle option 1",
+    "rectangle option 2",
+    "rectangle option 3",
+    "rectangle option 4",
+    "rectangle option 5"
+  ],
+  "item_type_inferred": "Multiselect",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires counting squares and calculating area to identify rectangles with area equal to 24; involves understanding area and multiplication concepts.",
+  "confidence": 0.95,
+  "notes": "Images of rectangles are used as answer options; each square counts as 1 square inch."
+}

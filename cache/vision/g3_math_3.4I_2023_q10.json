@@ -1,0 +1,31 @@
+{
+  "stem": "Which statement about the number 510 is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It is odd, because it can be divided by 3 evenly."
+    },
+    {
+      "label": "B",
+      "text": "It is odd, because the digit in the hundreds place is odd."
+    },
+    {
+      "label": "C",
+      "text": "It is even, because it can be divided by 2 evenly."
+    },
+    {
+      "label": "D",
+      "text": "It is even, because the digit in the tens place is even."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires understanding of odd/even rules about divisibility and place value, a direct recall and application of these basic concepts.",
+  "confidence": 1,
+  "notes": null
+}

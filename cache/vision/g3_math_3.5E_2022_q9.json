@@ -1,0 +1,33 @@
+{
+  "stem": "The table shows the numbers of tomato plants and spinach plants in five different gardens.\n\nGarden Plants\n\n| Garden | Number of Tomato Plants | Number of Spinach Plants |\n|--------|-------------------------|--------------------------|\n| K      | 34                      | 43                       |\n| L      | 26                      | 35                       |\n| M      | 38                      | 47                       |\n| N      | 29                      | 38                       |\n| P      | 45                      | 54                       |\n\nBased on the relationship shown in the table, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There are 9 more spinach plants than tomato plants in each garden."
+    },
+    {
+      "label": "B",
+      "text": "There are 9 fewer spinach plants than tomato plants in each garden."
+    },
+    {
+      "label": "C",
+      "text": "There are 8 more spinach plants than tomato plants in each garden."
+    },
+    {
+      "label": "D",
+      "text": "There are 8 fewer spinach plants than tomato plants in each garden."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Garden, Number of Tomato Plants, Number of Spinach Plants; rows K(34,43), L(26,35), M(38,47), N(29,38), P(45,54)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Students need to calculate the difference between the number of spinach and tomato plants for each garden and recognize the pattern, which is a straightforward comparison task.",
+  "confidence": 0.99,
+  "notes": null
+}

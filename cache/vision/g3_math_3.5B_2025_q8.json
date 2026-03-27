@@ -1,0 +1,33 @@
+{
+  "stem": "There are 12 students in a class.\n\n\u2022 Half of the students play an instrument.\n\n\u2022 There are an equal number of students who play the guitar, piano, and violin.\n\nWhich set of equations can be used to find how many students play the guitar?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "12 \u00d7 2 = 24\n24 \u00d7 3 = ?"
+    },
+    {
+      "label": "B",
+      "text": "12 \u00d7 2 = 24\n24 \u00f7 3 = ?"
+    },
+    {
+      "label": "C",
+      "text": "12 \u00f7 2 = 6\n6 \u00d7 3 = ?"
+    },
+    {
+      "label": "D",
+      "text": "12 \u00f7 2 = 6\n6 \u00f7 3 = ?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "mathematical multiplications and divisions"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires multiple steps: calculating half the class, then dividing by 3 to find how many play the guitar, combining reasoning about fractions and division.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Each side of this figure is the same length. The perimeter of the figure is 72 inches.\n\nWhat is the length of one side of the figure in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "8 in."
+    },
+    {
+      "label": "G",
+      "text": "12 in."
+    },
+    {
+      "label": "H",
+      "text": "9 in."
+    },
+    {
+      "label": "J",
+      "text": "18 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "regular octagon"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward division of the total perimeter by the number of equal sides (8) to find the side length.",
+  "confidence": 1,
+  "notes": null
+}

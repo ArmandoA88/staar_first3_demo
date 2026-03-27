@@ -1,0 +1,33 @@
+{
+  "stem": "There are 6 photographs on each page of an album. One page of the album is shown.\n\nHow many photographs are on 9 pages of the album?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "48"
+    },
+    {
+      "label": "G",
+      "text": "45"
+    },
+    {
+      "label": "H",
+      "text": "15"
+    },
+    {
+      "label": "J",
+      "text": "54"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "a 2 by 3 grid of photographs with 5 photos of people and 1 of a dog"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Direct multiplication of given quantity (6 photos per page) by number of pages (9). Straightforward arithmetic operation.",
+  "confidence": 1,
+  "notes": null
+}

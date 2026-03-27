@@ -1,0 +1,33 @@
+{
+  "stem": "The bar graph shows the number of each different type of drink that was ordered in a restaurant one day.\n\nWhat was the total number of drinks ordered?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "205"
+    },
+    {
+      "label": "B",
+      "text": "75"
+    },
+    {
+      "label": "C",
+      "text": "215"
+    },
+    {
+      "label": "D",
+      "text": "210"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Drinks Ordered' with x-axis labeled 'Type of Drink' and y-axis labeled 'Number Ordered'. Bars show: Water = 50, Lemonade = 30, Tea = 75, Soda = 60."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires adding multiple values from a bar graph to find total, involving reading and summing data from four categories.",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "stem": "Felix drew the figures shown below.\n\nFigure 1\n\n25 mm\n14 mm       14 mm\n       11 mm\n\nFigure 2\n\n17 mm       20 mm\n       17 mm\n\nFigure 3\n\n12 mm       15 mm\n15 mm       12 mm\n\nFigure 4\n\n10 mm       9 mm\n16 mm       10 mm\n       9 mm\n\nWhich list shows all the figures that have a perimeter of 54 millimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Figures 2, 3, and 4"
+    },
+    {
+      "label": "G",
+      "text": "Figures 2 and 4"
+    },
+    {
+      "label": "H",
+      "text": "Figures 1 and 3"
+    },
+    {
+      "label": "J",
+      "text": "Figures 1, 2, and 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Figure 1 trapezoid with sides 25 mm, 14 mm, 14 mm, 11 mm",
+    "Figure 2 triangle with sides 17 mm, 20 mm, 17 mm",
+    "Figure 3 parallelogram with sides 15 mm, 12 mm, 15 mm, 12 mm",
+    "Figure 4 irregular pentagon with sides 10 mm, 16 mm, 10 mm, 9 mm, 9 mm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires calculating perimeters by adding all side lengths for multiple figures and comparing results to 54 mm, which involves multiple steps and reasoning.",
+  "confidence": 0.95,
+  "notes": null
+}

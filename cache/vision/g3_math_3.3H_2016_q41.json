@@ -1,0 +1,33 @@
+{
+  "stem": "Lily is painting two identical walls. The models are shaded to represent the fraction of each wall that is painted purple.\n\nWhich comparison of these fractions is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{3}{6} = \\frac{5}{6} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{3}{6} > \\frac{1}{6} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{3}{6} > \\frac{5}{6} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{3}{6} < \\frac{1}{6} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two grids each divided into 2 columns and 3 rows (6 equal parts). In the first grid, 3 parts shaded: top-left, middle-right, bottom-left. In the second grid, 1 part shaded: top-right."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires interpreting visual fraction models and comparing fractions with the same denominators but different numerators, involving conceptual understanding of fractions and comparison.",
+  "confidence": 0.99,
+  "notes": null
+}

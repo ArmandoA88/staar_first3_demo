@@ -1,0 +1,49 @@
+{
+  "stem": "Serena and Ricky each have a milkshake. The two milkshakes are the same size.\n\n\u2022 Serena drinks \\( \\frac{5}{6} \\) of her milkshake.\n\n\u2022 Ricky drinks \\( \\frac{5}{8} \\) of his milkshake.\n\nCompare the amounts that Serena and Ricky drink.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [
+    {
+      "label": null,
+      "text": "more"
+    },
+    {
+      "label": null,
+      "text": "less"
+    },
+    {
+      "label": null,
+      "text": "the same amount"
+    },
+    {
+      "label": null,
+      "text": "\\( \\frac{5}{6} \\) is greater than \\( \\frac{5}{8} \\)"
+    },
+    {
+      "label": null,
+      "text": "\\( \\frac{5}{6} \\) is less than \\( \\frac{5}{8} \\)"
+    },
+    {
+      "label": null,
+      "text": "\\( \\frac{5}{6} \\) is equal to \\( \\frac{5}{8} \\)"
+    }
+  ],
+  "choice_pool": [
+    "more",
+    "less",
+    "the same amount",
+    "\\( \\frac{5}{6} \\) is greater than \\( \\frac{5}{8} \\)",
+    "\\( \\frac{5}{6} \\) is less than \\( \\frac{5}{8} \\)",
+    "\\( \\frac{5}{6} \\) is equal to \\( \\frac{5}{8} \\)"
+  ],
+  "response_template": "Serena drinks [blank_1] Ricky because [blank_2].",
+  "visual_elements": [
+    "\\( \\frac{5}{6} \\)",
+    "\\( \\frac{5}{8} \\)"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires comparing fractions with unlike denominators to determine which fraction is greater, then interpreting that result in context to make a comparison statement.",
+  "confidence": 0.98,
+  "notes": null
+}

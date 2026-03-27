@@ -1,0 +1,36 @@
+{
+  "stem": "Which number is odd?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "205"
+    },
+    {
+      "label": "G",
+      "text": "350"
+    },
+    {
+      "label": "H",
+      "text": "168"
+    },
+    {
+      "label": "J",
+      "text": "514"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "F  205",
+    "G  350",
+    "H  168",
+    "J  514"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires direct recall of the property of odd numbers, which is straightforward for grade 3 students.",
+  "confidence": 1,
+  "notes": null
+}

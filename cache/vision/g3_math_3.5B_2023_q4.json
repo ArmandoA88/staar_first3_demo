@@ -1,0 +1,36 @@
+{
+  "stem": "A total of 32 magnets were attached to 8 metal cabinets, and an equal number of the magnets were attached to each cabinet.\n\nWhich model can be used to find the number of magnets attached to each cabinet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "32 32 32 32 32 32 32 32\n\n?"
+    },
+    {
+      "label": "B",
+      "text": "? ? ? ? ? ? ? ?\n\n32"
+    },
+    {
+      "label": "C",
+      "text": "8 32\n\n?"
+    },
+    {
+      "label": "D",
+      "text": "8 ?\n\n32"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Option A: A wide rectangle divided into eight equal squares each labeled 32, with a bracket labeled '?' beneath all eight squares.",
+    "Option B: A wide rectangle divided into eight equal squares each labeled '?', with a bracket labeled '32' beneath all eight squares.",
+    "Option C: A large rectangle divided into two parts, one smaller labeled 8 and the other larger labeled 32, with a bracket labeled '?' beneath both parts.",
+    "Option D: A large rectangle divided into two parts, one smaller labeled 8 and the other labeled '?', with a bracket labeled '32' beneath both parts."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding the concept of equal groups and choosing a model that represents division to find the number of magnets per cabinet, which involves conceptual reasoning beyond simple recall.",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Gretchen made this table to show the side lengths and perimeters of three figures.\n\nGretchen\u2019s Figures\n\n| Figure   | Side Lengths (yards) | Perimeter (yards) |\n|----------|----------------------|-------------------|\n| Square   | 6, 6, 6, 6           | 24                |\n| Triangle | 4, 7, 8              | 19                |\n| Rectangle| 4, 8, 4, 8           | 32                |\n\nWhat mistake, if any, did Gretchen make?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The perimeter of the rectangle should be 24 yards."
+    },
+    {
+      "label": "B",
+      "text": "The perimeter of the square should be 36 yards."
+    },
+    {
+      "label": "C",
+      "text": "The perimeter of the triangle should be 20 yards."
+    },
+    {
+      "label": "D",
+      "text": "Gretchen did not make any mistakes in the table."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with figures, side lengths (yards), and perimeter (yards)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires addition of side lengths and verification of perimeter for multiple shapes, involving reasoning about geometric properties.",
+  "confidence": 1,
+  "notes": null
+}

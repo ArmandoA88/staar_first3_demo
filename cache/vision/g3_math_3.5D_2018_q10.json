@@ -1,0 +1,33 @@
+{
+  "stem": "What number goes in the \\boxed{\\ } to make the equation true? \\n\\n\\boxed{\\ } \\div 11 = 9",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "99"
+    },
+    {
+      "label": "G",
+      "text": "91"
+    },
+    {
+      "label": "H",
+      "text": "20"
+    },
+    {
+      "label": "J",
+      "text": "2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation with blank box divided by 11 equals 9"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Requires a straightforward application of basic division and multiplication facts to find the missing number.",
+  "confidence": 1,
+  "notes": null
+}

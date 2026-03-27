@@ -1,0 +1,36 @@
+{
+  "stem": "Stacy used 21 feet of ribbon to make bows. She used 3 feet of ribbon for each bow.\n\nWhich equation can be used to find the number of bows Stacy made with this ribbon?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "21 \\times 3 = 63"
+    },
+    {
+      "label": "G",
+      "text": "21 \\div 3 = 7"
+    },
+    {
+      "label": "H",
+      "text": "21 + 3 = 24"
+    },
+    {
+      "label": "J",
+      "text": "21 - 3 = 18"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "21 \\times 3 = 63",
+    "21 \\div 3 = 7",
+    "21 + 3 = 24",
+    "21 - 3 = 18"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires understanding basic division to solve a real-world problem involving measurement and equal parts, a straightforward step for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

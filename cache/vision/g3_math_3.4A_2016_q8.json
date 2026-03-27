@@ -1,0 +1,42 @@
+{
+  "stem": "Wanda traveled on an airplane three times last year.\n\n\u2022 In January she traveled 278 miles.\n\u2022 In April she traveled 652 miles.\n\u2022 In September she traveled 767 miles.\n\nHow many more miles did Wanda travel in January and April combined than she traveled in September?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "930 mi"
+    },
+    {
+      "label": "G",
+      "text": "147 mi"
+    },
+    {
+      "label": "H",
+      "text": "163 mi"
+    },
+    {
+      "label": "J",
+      "text": "237 mi"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q8",
+    "8 Wanda traveled on an airplane three times last year.",
+    "\u2022 In January she traveled 278 miles.",
+    "\u2022 In April she traveled 652 miles.",
+    "\u2022 In September she traveled 767 miles.",
+    "How many more miles did Wanda travel in January and April combined than she traveled in September?",
+    "F 930 mi",
+    "G 147 mi",
+    "H 163 mi",
+    "J 237 mi"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires straightforward addition and subtraction with no complex steps.",
+  "confidence": 1,
+  "notes": null
+}

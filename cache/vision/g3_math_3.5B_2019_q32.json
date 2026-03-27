@@ -1,0 +1,36 @@
+{
+  "stem": "Yolanda made 11 sandwiches for a picnic. She used 2 pieces of bread for each sandwich.\n\nWhich strip diagram can be used to find the number of pieces of bread Yolanda used?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "11  11  11  11  11  11  11  11  11  11  11  11"
+    },
+    {
+      "label": "G",
+      "text": "2    2"
+    },
+    {
+      "label": "H",
+      "text": "2          11"
+    },
+    {
+      "label": "J",
+      "text": "2  2  2  2  2  2  2  2  2  2  2  2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "strip diagram labeled F with twelve boxes each containing \"11\"",
+    "strip diagram labeled G with two boxes each containing \"2\"",
+    "strip diagram labeled H with two boxes containing \"2\" and \"11\" respectively",
+    "strip diagram labeled J with twelve boxes each containing \"2\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding that the total number of pieces of bread is 11 sandwiches times 2 pieces each and selecting the strip diagram that models this multiplication correctly.",
+  "confidence": 1,
+  "notes": null
+}

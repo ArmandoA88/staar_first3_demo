@@ -1,0 +1,16 @@
+{
+  "stem": "The graph below shows the number of pounds of plastic the Keller family recycled for five months.\n\nRecycled Plastic\n\nEach (cylindrical icon) means 20 pounds.\n\nBased on the graph, how many more pounds of plastic did the family recycle in July than in April?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph showing columns for March (3 icons), April (4 icons), May (6 icons), June (5 icons), and July (7 icons), labeled 'Recycled Plastic'. Each icon represents 20 pounds."
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires interpretation of a bar graph with a multiplication step and subtraction to find the difference in amounts recycled across months.",
+  "confidence": 0.98,
+  "notes": null
+}

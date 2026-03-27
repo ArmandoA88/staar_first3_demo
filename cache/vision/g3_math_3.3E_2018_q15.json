@@ -1,0 +1,33 @@
+{
+  "stem": "The picture represents the trophies 3 brothers have on a shelf. Each brother won the same number of trophies.\n\nWhat fraction of the trophies did each brother win?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{2}{3} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{2}{6} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{3}{6} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{3}{3} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of a shelf with 6 trophies in total, representing trophies won by 3 brothers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem involves counting total trophies and dividing by 3 to find the fraction for each brother, which is a straightforward step.",
+  "confidence": 0.99,
+  "notes": null
+}

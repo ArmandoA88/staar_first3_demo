@@ -1,0 +1,33 @@
+{
+  "stem": "Which measurement is closest to the amount of juice in a full juice box?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2 milliliters"
+    },
+    {
+      "label": "B",
+      "text": "200 milliliters"
+    },
+    {
+      "label": "C",
+      "text": "2 liters"
+    },
+    {
+      "label": "D",
+      "text": "200 liters"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of a lunch tray with an apple, a juice box labeled \"Juice with Vitamins\", a taco, rice, and beans."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem involves selecting the appropriate unit of volume for a juice box, which is a straightforward reasoning task suitable for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

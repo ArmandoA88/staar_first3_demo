@@ -1,0 +1,36 @@
+{
+  "stem": "A group of figures is shown.\n\nWhich statement appears to be true about all the figures in the group?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "All the figures are parallelograms."
+    },
+    {
+      "label": "B",
+      "text": "All the figures are polygons."
+    },
+    {
+      "label": "C",
+      "text": "All the figures have equal side lengths."
+    },
+    {
+      "label": "D",
+      "text": "All the figures are prisms."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle",
+    "hexagon",
+    "quadrilateral",
+    "triangle"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires recognizing basic properties of shapes and identifying a common characteristic from the group. This is a straightforward concept for grade 3 students.",
+  "confidence": 0.98,
+  "notes": null
+}

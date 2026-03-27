@@ -1,0 +1,33 @@
+{
+  "stem": "Hector has four circles that are the same size. He divided and shaded the first circle to represent the fraction \\(\\frac{4}{6}\\).\n\nHector will correctly divide and shade the other circles to represent fractions less than \\(\\frac{4}{6}\\).\n\nWhich answer choice is NOT a way Hector could divide and shade a circle to represent a fraction less than \\(\\frac{4}{6}\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He could divide a circle into 6 equal parts and shade 1 of the parts."
+    },
+    {
+      "label": "B",
+      "text": "He could divide a circle into 8 equal parts and shade 4 of the parts."
+    },
+    {
+      "label": "C",
+      "text": "He could divide a circle into 4 equal parts and shade 4 of the parts."
+    },
+    {
+      "label": "D",
+      "text": "He could divide a circle into 6 equal parts and shade 3 of the parts."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four circles with only the first circle divided into 6 equal parts with 4 parts shaded."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding fractions and comparing fractions with different denominators, which involves more than straightforward recall but not multi-step reasoning.",
+  "confidence": 0.99,
+  "notes": null
+}

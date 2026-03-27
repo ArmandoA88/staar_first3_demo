@@ -1,0 +1,33 @@
+{
+  "stem": "The graph below shows the number of miles Lincoln rode his bike during six weeks.\n\n[Graph titled \"Bike Rides\" with Week on the vertical axis labeled 1 to 6, and Number of Miles on the horizontal axis labeled 0 to 48. Horizontal bars indicating miles for each week: Week 1 = 36 miles, Week 2 = 14 miles, Week 3 = 36 miles, Week 4 = 24 miles, Week 5 = 48 miles, Week 6 = 36 miles]\n\nWhich table represents the information in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Week | Number of Miles\n1 | 36\n2 | 14\n3 | 38\n4 | 26\n5 | 48\n6 | 38"
+    },
+    {
+      "label": "H",
+      "text": "Week | Number of Miles\n1 | 36\n2 | 18\n3 | 42\n4 | 30\n5 | 42\n6 | 48"
+    },
+    {
+      "label": "G",
+      "text": "Week | Number of Miles\n1 | 36\n2 | 24\n3 | 48\n4 | 36\n5 | 48\n6 | 48"
+    },
+    {
+      "label": "J",
+      "text": "Week | Number of Miles\n1 | 36\n2 | 18\n3 | 42\n4 | 30\n5 | 48\n6 | 42"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph showing number of miles Lincoln rode his bike each week for 6 weeks"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires interpreting a bar graph and matching values to a data table, involving modest reasoning to accurately read and match all weekly values.",
+  "confidence": 0.95,
+  "notes": "Numbers in tables differ in each option; the correct table must match the graph bar lengths exactly. There may be a slight OCR or image discrepancy for week 3 and 6, assumed as 36 miles based on bar length."
+}

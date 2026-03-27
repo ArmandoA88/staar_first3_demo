@@ -1,0 +1,33 @@
+{
+  "stem": "What number goes in the \\boxed{} to make the equation true? \\boxed{} \\times 7 = 98",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "14"
+    },
+    {
+      "label": "B",
+      "text": "91"
+    },
+    {
+      "label": "C",
+      "text": "105"
+    },
+    {
+      "label": "D",
+      "text": "13"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\boxed{} \\times 7 = 98"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a straightforward operation of division or multiplication to find the missing number, which is a single-step solution suitable for grade 3.",
+  "confidence": 0.98,
+  "notes": null
+}

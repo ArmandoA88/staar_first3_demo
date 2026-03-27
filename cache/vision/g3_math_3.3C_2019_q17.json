@@ -1,0 +1,33 @@
+{
+  "stem": "Models R and T are shown.\n\nModel R           Model T",
+  "instruction": "Which statement is true?",
+  "options": [
+    {
+      "label": "A",
+      "text": "The shaded parts of Model R and Model T are different sizes, but each model represents the same fraction of the whole."
+    },
+    {
+      "label": "B",
+      "text": "The shaded part of Model R cannot be written as the fraction \\( \\frac{1}{5} \\), because the parts are not all equal in size."
+    },
+    {
+      "label": "C",
+      "text": "The shaded part of Model T is \\( \\frac{1}{4} \\), because the parts are all equal in size."
+    },
+    {
+      "label": "D",
+      "text": "The total number of parts in Model R is 5, so \\( \\frac{1}{5} \\) of Model R is shaded."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two pie charts labeled Model R and Model T. Model R is divided into 5 parts with one part shaded gray, but parts are unequal in size. Model T is divided into 5 equal parts with one part shaded gray."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires understanding fractions, equal parts, and interpreting shaded areas in two different models with unequal and equal parts.",
+  "confidence": 0.98,
+  "notes": null
+}

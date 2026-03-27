@@ -1,0 +1,31 @@
+{
+  "stem": "Claire borrowed $20 from her mom in order to buy game tokens at a festival. Her mom said Claire would have to pay the money back with interest. Which statement best explains what Claire's mom meant?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She expected Claire to pay back only the money she borrowed."
+    },
+    {
+      "label": "B",
+      "text": "She expected Claire to pay back only part of the money she borrowed."
+    },
+    {
+      "label": "C",
+      "text": "She expected Claire to keep the money she borrowed and not pay any of it back."
+    },
+    {
+      "label": "D",
+      "text": "She expected Claire to pay back the money she borrowed plus an additional amount of money."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires understanding the meaning of 'interest' in a borrowing context, which is a straightforward concept for grade 3 level.",
+  "confidence": 0.98,
+  "notes": null
+}

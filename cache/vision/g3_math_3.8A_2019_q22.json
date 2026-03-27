@@ -1,0 +1,34 @@
+{
+  "stem": "A school keeps boxes of paper of different colors in a room. The table shows how many boxes of each color are in the room.\n\nBoxes of Paper\n| Color  | Number |\n|--------|---------|\n| White  | 48      |\n| Yellow | 24      |\n| Blue   | 42      |\n| Red    | 18      |\n\nWhich answer choice does NOT represent the information in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Boxes of Paper\n| Color  | Number                   |\n|--------|--------------------------|\n| White  | ||||| ||||| ||||| ||||| ||||| ||||| ||| |\n| Yellow | ||||| |||| |||| |||| ||||  |\n| Blue   | ||||| ||||| ||||| ||||| ||||| ||||| ||   |\n| Red    | ||||| |||| |||         |"
+    },
+    {
+      "label": "G",
+      "text": "Boxes of Paper\nWhite         Yellow         Blue         Red\n[5 boxes icons] [2 boxes icons] [3 boxes icons] [2 boxes icons]\nEach [box icon] means 12 boxes."
+    },
+    {
+      "label": "H",
+      "text": "Boxes of Paper\nBar graph with bars for:\nWhite = 48,\nYellow = 24,\nBlue = 42,\nRed = 18."
+    },
+    {
+      "label": "J",
+      "text": "Boxes of Paper\nWhite         Yellow         Blue         Red\n[7 boxes icons] [4 boxes icons] [7 boxes icons] [3 boxes icons]\nEach [box icon] means 6 boxes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table of Colors and Numbers (White 48, Yellow 24, Blue 42, Red 18)",
+    "Four answer choices labeled F, G, H, J with tally marks, pictorial boxes, bar graph, and box icons"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires interpretation of multiple data representations (tally, pictorial, bar graph) and comparing to given table, applying multiplication for pictorial key. Moderate reasoning and cross-checking information.",
+  "confidence": 0.98,
+  "notes": null
+}

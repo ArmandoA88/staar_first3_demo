@@ -1,0 +1,44 @@
+{
+  "stem": "Inez did laundry. She found $6.47 in the pocket of her dad's pants. Which of the following could NOT represent the amount of money Inez found?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Two $1 bills, four dimes, one quarter, two nickels"
+    },
+    {
+      "label": "G",
+      "text": "Two $1 bills, six dimes, two nickels, two pennies"
+    },
+    {
+      "label": "H",
+      "text": "Two $1 bills, one quarter, three dimes, two pennies"
+    },
+    {
+      "label": "J",
+      "text": "Two $1 bills, one quarter, two dimes, two nickels"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two 1-dollar bills",
+    "Four dimes",
+    "One quarter",
+    "Two nickels",
+    "Six dimes",
+    "Two pennies",
+    "One quarter",
+    "Three dimes",
+    "Two pennies",
+    "One quarter",
+    "Two dimes",
+    "Two nickels"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires adding different values of coins and bills to see which combination cannot equal $6.47, combining basic currency knowledge and addition skills.",
+  "confidence": 0.98,
+  "notes": null
+}

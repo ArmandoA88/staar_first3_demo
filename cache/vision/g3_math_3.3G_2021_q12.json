@@ -1,0 +1,35 @@
+{
+  "stem": "Each strip of the diagram is shaded to represent a fraction of 1 whole.\n\n[Diagram showing 1 whole, Strip A divided into 4 parts with 3 shaded, Strip B divided into 8 parts with 6 shaded]\n\nThe fractions represented are \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "equivalent, because the shaded area of Strip B is greater than the shaded area of Strip A"
+    },
+    {
+      "label": "G",
+      "text": "not equivalent, because Strip A has 4 parts in all and Strip B has 8 parts in all"
+    },
+    {
+      "label": "H",
+      "text": "equivalent, because the shaded area of Strip A is the same as the shaded area of Strip B"
+    },
+    {
+      "label": "J",
+      "text": "not equivalent, because Strip A has 3 shaded parts and Strip B has 6 shaded parts"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangular strip labeled '1 whole'",
+    "strip A divided into 4 parts, 3 shaded",
+    "strip B divided into 8 parts, 6 shaded"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding fractions, comparing fraction sizes, and recognizing equivalence by area and number of parts, which involves moderate reasoning beyond simple recall.",
+  "confidence": 0.95,
+  "notes": null
+}

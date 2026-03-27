@@ -1,0 +1,37 @@
+{
+  "stem": "Debra and Shelly started running a race at 9:00 A.M. Debra finished in 45 minutes. Shelly finished the race 20 minutes after Debra did. Which clock shows the time Shelly finished the race?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Clock showing 10:05"
+    },
+    {
+      "label": "H",
+      "text": "Clock showing 9:50"
+    },
+    {
+      "label": "G",
+      "text": "Clock showing 9:20"
+    },
+    {
+      "label": "J",
+      "text": "Clock showing 9:45"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Clock labeled Start Time at 9:00",
+    "Clock F at 10:05",
+    "Clock H at 9:50",
+    "Clock G at 9:20",
+    "Clock J at 9:45"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding of elapsed time and addition of minutes to calculate finishing time, with multiple clock options to interpret.",
+  "confidence": 0.99,
+  "notes": null
+}

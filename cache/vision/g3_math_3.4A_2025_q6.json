@@ -1,0 +1,33 @@
+{
+  "stem": "Tina hikes in the summer, winter, and fall. She records how many hours she spends hiking in a table, as shown.\n\nTime Spent Hiking\n\n| Season | Time (hours) |\n|--------|--------------|\n| Summer | 360          |\n| Fall   | 610          |\n| Winter | 344          |\n\nHow many more hours does Tina hike during summer and winter combined than in the fall?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "704 hours"
+    },
+    {
+      "label": "B",
+      "text": "250 hours"
+    },
+    {
+      "label": "C",
+      "text": "94 hours"
+    },
+    {
+      "label": "D",
+      "text": "114 hours"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns 'Season' and 'Time (hours)' showing Summer 360, Fall 610, Winter 344"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires combining two numbers and then subtracting a third, involving multiple steps and basic arithmetic reasoning.",
+  "confidence": 1,
+  "notes": null
+}

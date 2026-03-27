@@ -1,0 +1,33 @@
+{
+  "stem": "The lengths of four sides of a polygon are shown in the diagram.\n\n7 units    7 units\n8 units    8 units\n\nThe perimeter of the polygon is 40 units. What is the missing length in units?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8 units"
+    },
+    {
+      "label": "B",
+      "text": "15 units"
+    },
+    {
+      "label": "C",
+      "text": "10 units"
+    },
+    {
+      "label": "D",
+      "text": "30 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Polygon with four sides labeled: two sides 7 units, two sides 8 units (missing side not labeled)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "Requires simple addition to find the missing side length given the total perimeter.",
+  "confidence": 1,
+  "notes": null
+}

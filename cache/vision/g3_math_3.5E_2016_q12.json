@@ -1,0 +1,33 @@
+{
+  "stem": "Campers at a lake rented 18 more canoes than paddleboats each week during five weeks. Which table could show the numbers of canoes and paddleboats rented during these five weeks?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "72  90\n37  55\n61  79\n85  103\n68  86"
+    },
+    {
+      "label": "H",
+      "text": "72  54\n37  19\n61  43\n85  67\n68  50"
+    },
+    {
+      "label": "G",
+      "text": "72  54\n37  72\n61  90\n85  108\n68  126"
+    },
+    {
+      "label": "J",
+      "text": "72  18\n37  36\n61  54\n85  72\n68  90"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled F, H, G, J titled 'Canoes and Paddleboats' with columns 'Number of Canoes' and 'Number of Paddleboats' containing numbers as seen in the image."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding the relationship between canoes and paddleboats to identify the correct table where canoes are exactly 18 more than paddleboats each week.",
+  "confidence": 0.99,
+  "notes": null
+}

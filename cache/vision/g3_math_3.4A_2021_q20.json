@@ -1,0 +1,31 @@
+{
+  "stem": "There are two lions at a zoo. The weight of the younger lion is 379 pounds. The weight of the older lion is 514 pounds.\n\nWhat is the difference in pounds between these two weights?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "235 lb"
+    },
+    {
+      "label": "G",
+      "text": "135 lb"
+    },
+    {
+      "label": "H",
+      "text": "265 lb"
+    },
+    {
+      "label": "J",
+      "text": "145 lb"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires one straightforward subtraction step to find the difference between two numbers, suitable for grade 3 standard.",
+  "confidence": 1,
+  "notes": null
+}

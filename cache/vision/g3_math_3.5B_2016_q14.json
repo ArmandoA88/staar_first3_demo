@@ -1,0 +1,36 @@
+{
+  "stem": "Edward made 26 hamburgers. He used a total of 78 pickle slices on the hamburgers. He put the same number of pickle slices on each hamburger. Which diagram shows how to find the number of pickle slices Edward put on each hamburger?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?  78"
+    },
+    {
+      "label": "G",
+      "text": "?   ?   ?  \n26"
+    },
+    {
+      "label": "H",
+      "text": "26    78\n?"
+    },
+    {
+      "label": "J",
+      "text": "78\n26    ?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Option F: A long line segment divided evenly into 26 parts labeled with question marks, with the whole length labeled 78.",
+    "Option G: A line segment divided into 3 parts with question marks, the whole length labeled 26.",
+    "Option H: A line segment divided into two parts, labeled 26 and 78, with the whole length labeled with a question mark.",
+    "Option J: A line segment with a 78 above it, divided into parts labeled 26 and a question mark."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding division as equal sharing and interpreting bar models to represent the division of total items into equal groups. It involves multiple mathematical concepts and reasoning steps appropriate for grade 3.",
+  "confidence": 0.95,
+  "notes": null
+}

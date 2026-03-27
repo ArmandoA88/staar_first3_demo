@@ -1,0 +1,34 @@
+{
+  "stem": "The models shown are the same size and are each divided into equal-size parts. The models are shaded to represent two fractions.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( \\frac{2}{3} > \\frac{2}{4} \\), because thirds are larger than fourths."
+    },
+    {
+      "label": "G",
+      "text": "\\( \\frac{2}{3} = \\frac{2}{4} \\), because each model has 2 parts shaded."
+    },
+    {
+      "label": "H",
+      "text": "\\( \\frac{1}{3} < \\frac{1}{4} \\), because 3 is less than 4."
+    },
+    {
+      "label": "J",
+      "text": "\\( \\frac{1}{3} = \\frac{1}{4} \\), because each model shows 1 whole."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circle divided into 3 equal parts with 2 shaded",
+    "circle divided into 4 equal parts with 2 shaded"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding of fractional parts, comparing fractions with different denominators, and interpreting visual fraction models, which requires modest reasoning beyond direct recall.",
+  "confidence": 0.99,
+  "notes": null
+}

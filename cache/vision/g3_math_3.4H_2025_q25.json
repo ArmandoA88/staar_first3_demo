@@ -1,0 +1,38 @@
+{
+  "stem": "Barry has 24 marbles. He separates them into 3 groups of equal size.\n\nSelect the number of marbles that are in one group.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "8"
+    },
+    {
+      "label": null,
+      "text": "6"
+    },
+    {
+      "label": null,
+      "text": "12"
+    },
+    {
+      "label": null,
+      "text": "9"
+    }
+  ],
+  "choice_pool": [
+    "8",
+    "6",
+    "12",
+    "9"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "24 marbles arranged in 4 rows of 6 marbles each"
+  ],
+  "item_type_inferred": "Hot Spot",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The item requires a straightforward division to find equal groups, a simple arithmetic step.",
+  "confidence": 1,
+  "notes": null
+}

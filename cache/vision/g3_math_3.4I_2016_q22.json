@@ -1,0 +1,33 @@
+{
+  "stem": "Which statement about the number 34 is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It is odd, because the digit in the tens place is odd."
+    },
+    {
+      "label": "G",
+      "text": "It is even, because the digit in the tens place is even."
+    },
+    {
+      "label": "H",
+      "text": "It is odd, because it can be divided by 3 evenly."
+    },
+    {
+      "label": "J",
+      "text": "It is even, because it can be divided by 2 evenly."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question requires direct knowledge of odd/even properties and understanding place value, which is a straightforward recall task for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

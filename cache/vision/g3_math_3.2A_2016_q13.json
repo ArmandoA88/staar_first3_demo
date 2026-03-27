@@ -1,0 +1,37 @@
+{
+  "stem": "Which expression represents the number 867?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "80 + 60 + 70"
+    },
+    {
+      "label": "B",
+      "text": "800 + 6 + 7"
+    },
+    {
+      "label": "C",
+      "text": "500 + 300 + 50 + 10 + 7"
+    },
+    {
+      "label": "D",
+      "text": "500 + 300 + 60 + 70"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: 13 Which expression represents the number 867?",
+    "Option A: 80 + 60 + 70",
+    "Option B: 800 + 6 + 7",
+    "Option C: 500 + 300 + 50 + 10 + 7",
+    "Option D: 500 + 300 + 60 + 70"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires direct understanding of place value and addition, a straightforward recall of number composition.",
+  "confidence": 1.0,
+  "notes": null
+}

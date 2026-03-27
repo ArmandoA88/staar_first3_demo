@@ -1,0 +1,33 @@
+{
+  "stem": "Three students made models to represent numbers. The models are shown.\n\nAnne                              Kareena                              Zane\n\nWhich models represent the same number?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Anne\u2019s model and Kareena\u2019s model, because 1 hundred, 1 ten, and 10 ones is equivalent to 1 hundred and 2 ones"
+    },
+    {
+      "label": "B",
+      "text": "Kareena\u2019s model and Zane\u2019s model, because 1 hundred and 2 ones is equivalent to 12 tens"
+    },
+    {
+      "label": "C",
+      "text": "Anne\u2019s model and Zane\u2019s model, because 1 hundred, 1 ten, and 10 ones is equivalent to 12 tens"
+    },
+    {
+      "label": "D",
+      "text": "None of the models"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "models showing base-ten representations by Anne, Kareena, and Zane"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding of place value and equivalence between hundreds, tens, and ones across different representations.",
+  "confidence": 0.99,
+  "notes": null
+}

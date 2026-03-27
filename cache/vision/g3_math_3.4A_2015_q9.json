@@ -1,0 +1,31 @@
+{
+  "stem": "Ms. Elizondo shipped yogurt cups to stores on Monday.\n\n\u2022 She shipped 648 cups of strawberry yogurt.\n\u2022 She shipped 216 cups of peach yogurt.\n\u2022 She shipped 264 cups of vanilla yogurt.\n\nHow many more cups of strawberry yogurt did Ms. Elizondo ship than cups of peach and vanilla yogurt combined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "168"
+    },
+    {
+      "label": "B",
+      "text": "480"
+    },
+    {
+      "label": "C",
+      "text": "248"
+    },
+    {
+      "label": "D",
+      "text": "178"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "The problem requires multiple steps: adding two numbers and then subtracting from a third number. It involves basic addition and subtraction but in a combined context, which requires modest multi-step reasoning suitable for grade 3.",
+  "confidence": 0.98,
+  "notes": null
+}

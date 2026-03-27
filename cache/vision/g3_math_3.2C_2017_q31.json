@@ -1,0 +1,33 @@
+{
+  "stem": "The point on the number line represents the amount of money needed to build a garage.\n\n[Number line with $4,000 on the left, $5,000 on the right, and a point labeled \"Amount needed\" closer to $5,000 than to $4,000]\n\nWhich statement best describes the amount of money needed to build the garage?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The amount of money needed is more than $5,000."
+    },
+    {
+      "label": "B",
+      "text": "The amount of money needed is less than $4,000."
+    },
+    {
+      "label": "C",
+      "text": "The amount of money needed is about $5,000, because the point is closer to $5,000."
+    },
+    {
+      "label": "D",
+      "text": "The amount of money needed is about $4,000, because the point is closer to $4,000."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line with $4,000 on the left, $5,000 on the right, and a point labeled 'Amount needed' closer to $5,000"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires direct interpretation of a number line and comparing the position of a point between two values, a straightforward skill for grade 3.",
+  "confidence": 1,
+  "notes": null
+}

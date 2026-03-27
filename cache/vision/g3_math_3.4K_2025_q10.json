@@ -1,0 +1,34 @@
+{
+  "stem": "Amy, Carl, and Liz equally share 60 building blocks. Amy divides her share of building blocks into 4 equal piles.\n\nHow many building blocks are in each of Amy\u2019s piles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "15"
+    },
+    {
+      "label": "B",
+      "text": "16"
+    },
+    {
+      "label": "C",
+      "text": "5"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2025 \u2013 Q10",
+    "A B C D answer labels"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires understanding of equal sharing (division) between three people and then dividing one person's share into equal piles, involving two division steps.",
+  "confidence": 1,
+  "notes": null
+}

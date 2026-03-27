@@ -1,0 +1,43 @@
+{
+  "stem": "Isabel sells clothing online. She sends a free gift with each order. The table shows the number of items ordered and the number of items sent for three orders, X, Y, and Z.\n\nComplete the sentence to describe the relationship in the table.\n\nSelect the correct answer for each blank from the drop-down menus.\n\nThe number of items ordered [blank_1] the number [blank_2] equals the number of items sent.",
+  "instruction": "Select the correct answer for each blank from the drop-down menus.",
+  "options": [
+    {
+      "label": "1",
+      "text": "plus"
+    },
+    {
+      "label": "2",
+      "text": "minus"
+    },
+    {
+      "label": "3",
+      "text": "times"
+    },
+    {
+      "label": "4",
+      "text": "divided by"
+    },
+    {
+      "label": "5",
+      "text": "1"
+    }
+  ],
+  "choice_pool": [
+    "plus",
+    "minus",
+    "times",
+    "divided by",
+    "1"
+  ],
+  "response_template": "The number of items ordered [blank_1] the number [blank_2] equals the number of items sent.",
+  "visual_elements": [
+    "Table titled Isabel\u2019s Clothing Orders with columns: Order (X, Y, Z), Items Ordered (5, 3, 6), Items Sent (6, 4, 7)"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires recognizing the one-to-one addition relationship between items ordered and items sent; namely, each order sends one more item than ordered.",
+  "confidence": 0.98,
+  "notes": null
+}

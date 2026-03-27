@@ -1,0 +1,33 @@
+{
+  "stem": "There are 3 basketball teams practicing together in a gym.\n\n\u2022 Each team has 10 players.\n\u2022 All of the players are used to make 6 groups during the practice.\n\u2022 There is an equal number of players in each group.\n\nHow many players are in each group?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "180"
+    },
+    {
+      "label": "G",
+      "text": "6"
+    },
+    {
+      "label": "H",
+      "text": "24"
+    },
+    {
+      "label": "J",
+      "text": "5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There are 3 basketball teams practicing together in a gym.\n\u2022 Each team has 10 players.\n\u2022 All of the players are used to make 6 groups during the practice.\n\u2022 There is an equal number of players in each group.\nHow many players are in each group?\nF 180\nG 6\nH 24\nJ 5"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires multi-step reasoning: total players from teams, then dividing into groups equally.",
+  "confidence": 0.99,
+  "notes": null
+}

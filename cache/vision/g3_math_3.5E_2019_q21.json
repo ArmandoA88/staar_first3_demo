@@ -1,0 +1,33 @@
+{
+  "stem": "Four people at a snack bar each bought a drink. The table shows the amount of money each person gave the cashier and the amount of money each person got back in change.\n\nSnack-Bar Drinks\n\n| Name   | Amount Given to Cashier (cents) | Amount of Change (cents) |\n|--------|---------------------------------|--------------------------|\n| Caleb  | 55                              | 3                        |\n| Andrew | 60                              | 8                        |\n| Morgan | 75                              | 23                       |\n| Trish  | 100                             | 48                       |\n\nBased on the relationship shown in the table, which statement is true?",
+  "instruction": "Choose the correct statement based on the given data.",
+  "options": [
+    {
+      "label": "A",
+      "text": "A drink at the snack bar costs 52 cents, because the amount given to the cashier minus 52 equals the amount of change."
+    },
+    {
+      "label": "B",
+      "text": "A drink at the snack bar costs 52 cents, because the amount given to the cashier plus 52 equals the amount of change."
+    },
+    {
+      "label": "C",
+      "text": "A drink at the snack bar costs 48 cents, because the amount given to the cashier minus 48 equals the amount of change."
+    },
+    {
+      "label": "D",
+      "text": "A drink at the snack bar costs 48 cents, because the amount given to the cashier plus 48 equals the amount of change."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns: Name, Amount Given to Cashier (cents), Amount of Change (cents); rows with names Caleb, Andrew, Morgan, Trish and respective amounts"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 4,
+  "difficulty_rationale": "The problem requires understanding the relationship between amounts given, change returned, and cost, involving subtraction and reasoning about the patterns in the table.",
+  "confidence": 0.95,
+  "notes": null
+}

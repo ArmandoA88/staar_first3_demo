@@ -1,0 +1,35 @@
+{
+  "stem": "Which of these models represent the same number?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Model X and Model Y, because 20 ones is equivalent to 20 tens."
+    },
+    {
+      "label": "G",
+      "text": "Model X and Model Z, because 20 ones is equivalent to 2 hundreds."
+    },
+    {
+      "label": "H",
+      "text": "Model Y and Model Z, because 20 tens is equivalent to 2 hundreds."
+    },
+    {
+      "label": "J",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Model X: 20 small squares in 4 rows of 5 each",
+    "Model Y: 20 rods representing tens (each rod with 10 squares, 2 rods per row, 10 rows total)",
+    "Model Z: 2 large 10x10 grids shaded"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding place value and equivalency between ones, tens, and hundreds, including counting and comparing visual models.",
+  "confidence": 1,
+  "notes": null
+}

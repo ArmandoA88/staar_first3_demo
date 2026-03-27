@@ -1,0 +1,33 @@
+{
+  "stem": "Michel plots a point on a number line to represent a number. The point is more than halfway between 200 and 300.\n\nWhich number could Michel's point represent?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "225"
+    },
+    {
+      "label": "B",
+      "text": "208"
+    },
+    {
+      "label": "C",
+      "text": "264"
+    },
+    {
+      "label": "D",
+      "text": "250"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line showing points at 200, midpoint, and 300"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires identifying numbers on a number line and understanding the concept of 'more than halfway' between two points, which is a straightforward step for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "stem": "Janet has 2 new games.\n\n\u2022 Each game has 3 packs of cards.\n\u2022 Each pack has 10 cards.\n\nWhich model can be used to find the total number of cards Janet has for these 2 games?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "10  10  10      10  10  10"
+    },
+    {
+      "label": "G",
+      "text": "3  3  3      3  3  3"
+    },
+    {
+      "label": "H",
+      "text": "3  10      3  10"
+    },
+    {
+      "label": "J",
+      "text": "10      10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "model F: two rows of three boxes each containing 10",
+    "model G: two rows of three boxes each containing 3",
+    "model H: two rows of two boxes each containing 3 and 10",
+    "model J: two rows of one box each containing 10"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires understanding of multiplication and representing the total number of cards by combining groups and packs across two games.",
+  "confidence": 1,
+  "notes": null
+}

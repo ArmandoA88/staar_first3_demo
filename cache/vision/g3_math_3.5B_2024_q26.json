@@ -1,0 +1,31 @@
+{
+  "stem": "Eva\u2019s flower shop has 72 flowers.\n\n\u2022 Eva places an equal number of flowers in 8 vases.\n\n\u2022 She sells 3 vases from the flower shop.\n\nWhich equation can be used to find how many flowers Eva sells?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "72 \u00f7 8 \u00f7 3 = 3"
+    },
+    {
+      "label": "B",
+      "text": "72 - 8 - 3 = 61"
+    },
+    {
+      "label": "C",
+      "text": "72 \u00f7 8 \u00d7 3 = 27"
+    },
+    {
+      "label": "D",
+      "text": "72 \u00f7 8 + 3 = 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding division to find flowers per vase, then multiplication to find the total flowers sold for 3 vases, combining multiple steps and operations.",
+  "confidence": 0.99,
+  "notes": null
+}

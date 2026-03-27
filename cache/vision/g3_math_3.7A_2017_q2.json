@@ -1,0 +1,37 @@
+{
+  "stem": "The number line represents a distance of 1 foot.\n\nOn which of these number lines does point H represent \\( \\frac{1}{2} \\) foot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Number line with 1 foot divided into 2 segments; point H is at the first segment after 0."
+    },
+    {
+      "label": "G",
+      "text": "Number line with 1 foot divided into 3 segments; point H is at the second segment after 0."
+    },
+    {
+      "label": "H",
+      "text": "Number line with 1 foot divided into 4 segments; point H is at the first segment after 0."
+    },
+    {
+      "label": "J",
+      "text": "Number line with 1 foot divided into 5 segments; point H is at the second segment after 0."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line from 0 to 1 foot",
+    "Number line F with midpoint labeled H at 1/2 foot",
+    "Number line G with H at 2/3 foot",
+    "Number line H with H at 1/4 foot",
+    "Number line J with H at 2/5 foot"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires understanding fractions on number lines and comparing segment divisions to identify the correct half-foot mark.",
+  "confidence": 0.95,
+  "notes": null
+}

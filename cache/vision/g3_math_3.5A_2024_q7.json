@@ -1,0 +1,41 @@
+{
+  "stem": "Jada is traveling to visit her aunt who lives 789 miles away. She needs to travel 321 more miles to arrive at her aunt\u2019s house.\n\nWhich representations can be used to find the number of miles Jada has already traveled?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "321 - \u25a1 = 789"
+    },
+    {
+      "label": null,
+      "text": "321 + \u25a1 = 789"
+    },
+    {
+      "label": null,
+      "text": "789 + 321 = \u25a1"
+    },
+    {
+      "label": null,
+      "text": "[?]  \n789    321"
+    },
+    {
+      "label": null,
+      "text": "789  \n[?]  321"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "321 - [ ] = 789",
+    "321 + [ ] = 789",
+    "789 + 321 = [ ]",
+    "[?]  789  321",
+    "789  [?]  321"
+  ],
+  "item_type_inferred": "Multiselect",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding of an addition/subtraction relationship from a real world context and identifying correct algebraic and visual representations, involving modest reasoning.",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "The expanded notation of a number is shown.\n\n(3 \\times 10,000) + (8 \\times 100) + (2 \\times 10) + (6 \\times 1)\n\nWhat is this number written in standard form?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "38,026"
+    },
+    {
+      "label": "B",
+      "text": "38,260"
+    },
+    {
+      "label": "C",
+      "text": "3,826"
+    },
+    {
+      "label": "D",
+      "text": "30,826"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(3 \\times 10,000) + (8 \\times 100) + (2 \\times 10) + (6 \\times 1)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires performing basic multiplication and addition to convert expanded form to standard form, a straightforward multi-step process appropriate for grade 3.",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "stem": "Merlin had a bag of tiles. Each tile was labeled with a number. Merlin pulled one tile out of the bag and recorded the number on that tile. He repeated this 18 times. The numbers on the tiles Merlin pulled are shown in the list.\n\n8, 7, 12, 1, 8, 9, 12, 0, 7, 8, 10, 4, 5, 8, 12, 4, 0, 8\n\nWhich dot plot represents the numbers on the tiles Merlin pulled out of the bag?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Dots clustered at 8 with 5 dots, with correct dot counts at other numbers, including 3 dots at 0, 2 dots at 4, 1 dot at 5 and 10."
+    },
+    {
+      "label": "G",
+      "text": "Dots evenly spread mostly single at each, with no clusters."
+    },
+    {
+      "label": "H",
+      "text": "Dots clustered at 8 with 5 dots, with 2 dots at 0, 1 dot at 2 and 1 dot at 3."
+    },
+    {
+      "label": "J",
+      "text": "Dots clustered at 8 with 5 dots, 2 dots at 0, 1 dot at 1, 1 dot at 2, and 1 dot at 3."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Dot plot labeled F with x-axis from 0 to 12 and varying dots as in the first graph in the image.",
+    "Dot plot labeled G with x-axis from 0 to 12 and dots evenly spread as in the second graph in the image.",
+    "Dot plot labeled H with x-axis from 0 to 12 and dots clustered at 8, with several at each number as in the third graph in the image.",
+    "Dot plot labeled J with x-axis from 0 to 12 and dots clustered at 8, with single dots at multiple others as in the fourth graph in the image."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires interpreting a list of numbers, counting occurrences, and comparing these counts to multiple dot plots to select the correct one.",
+  "confidence": 0.95,
+  "notes": null
+}

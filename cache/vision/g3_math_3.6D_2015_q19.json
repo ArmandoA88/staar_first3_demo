@@ -1,0 +1,16 @@
+{
+  "stem": "The diagram represents the floor of a storage building. The floor is composed of two rectangles.\n\nWhat is the area of the floor in square yards?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing floor area composed of two rectangles with a key showing one shaded square equals 1 square yard"
+  ],
+  "item_type_inferred": "numeric-response",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires understanding of area calculation by decomposing a composite figure into two rectangles and summing their areas, a modest reasoning step beyond direct recall.",
+  "confidence": 0.95,
+  "notes": null
+}

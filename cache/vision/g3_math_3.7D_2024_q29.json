@@ -1,0 +1,33 @@
+{
+  "stem": "Guadalupe has a bottle of juice.\n\nWhich unit of measurement could be used to measure the volume of juice in the bottle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Pounds"
+    },
+    {
+      "label": "B",
+      "text": "Feet"
+    },
+    {
+      "label": "C",
+      "text": "Centimeters"
+    },
+    {
+      "label": "D",
+      "text": "Liters"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "multiple choice options labeled A through D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question asks for a direct recall of appropriate volume units, which is a straightforward concept for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

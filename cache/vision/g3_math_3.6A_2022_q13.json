@@ -1,0 +1,33 @@
+{
+  "stem": "Leighton made a table that correctly shows the attributes of shapes. She used a check mark to identify the attributes of each shape.\n\nWhich table could be the one Leighton made?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Has Vertices: Rectangle \u2713, Triangle \u2713, Circle \nQuadrilateral: Rectangle \u2713, Triangle \u2713, Circle "
+    },
+    {
+      "label": "B",
+      "text": "Has Vertices: Rectangle , Triangle , Circle \u2713\nQuadrilateral: Rectangle \u2713, Triangle , Circle "
+    },
+    {
+      "label": "C",
+      "text": "Has Vertices: Rectangle \u2713, Triangle \u2713, Circle \nQuadrilateral: Rectangle \u2713, Triangle , Circle "
+    },
+    {
+      "label": "D",
+      "text": "Has Vertices: Rectangle \u2713, Triangle \u2713, Circle \nQuadrilateral: Rectangle , Triangle , Circle "
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, and D, each showing three shapes (rectangle, triangle, circle) across columns and two attributes (Has Vertices, Quadrilateral) in rows, with check marks corresponding to shape attributes."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires understanding and applying geometric concepts about vertices and quadrilaterals to identify the correct table, involving multiple attributes and shapes.",
+  "confidence": 0.98,
+  "notes": null
+}

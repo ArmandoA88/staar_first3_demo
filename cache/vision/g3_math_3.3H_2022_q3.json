@@ -1,0 +1,34 @@
+{
+  "stem": "A student measured the lengths of two worms.\n\n\u2022 Worm S was \\(\\frac{1}{2}\\) foot long.\n\n\u2022 Worm T was \\(\\frac{2}{2}\\) foot long.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The length of Worm S is greater than the length of Worm T."
+    },
+    {
+      "label": "B",
+      "text": "The length of Worm T is greater than the length of Worm S."
+    },
+    {
+      "label": "C",
+      "text": "The length of Worm S is equal to the length of Worm T."
+    },
+    {
+      "label": "D",
+      "text": "There is not enough information to compare the lengths of the worms."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\(\\frac{1}{2}\\)",
+    "\\(\\frac{2}{2}\\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires direct comparison of two fractions with like denominators, a straightforward concept for grade 3.",
+  "confidence": 0.95,
+  "notes": null
+}

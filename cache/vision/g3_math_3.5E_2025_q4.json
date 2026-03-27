@@ -1,0 +1,58 @@
+{
+  "stem": "Lilah reads 5 books every month. The table shows the total number of books Lilah reads over time.\n\nLilah\u2019s Reading\n\n| Number of Months | Books Read |\n|------------------|------------|\n| 2                | 10         |\n| 4                | 20         |\n| 6                | 30         |\n\nComplete the sentence to describe the relationship in the table.\n\nChoose the correct answer from each drop-down menu to complete the sentence.\n\nThe number of months [blank_1] [blank_2] is equal to the number of books Lilah reads.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [
+    {
+      "label": null,
+      "text": "multiplied by"
+    },
+    {
+      "label": null,
+      "text": "divided by"
+    },
+    {
+      "label": null,
+      "text": "added to"
+    },
+    {
+      "label": null,
+      "text": "subtracted from"
+    },
+    {
+      "label": null,
+      "text": "5"
+    },
+    {
+      "label": null,
+      "text": "10"
+    },
+    {
+      "label": null,
+      "text": "20"
+    },
+    {
+      "label": null,
+      "text": "30"
+    }
+  ],
+  "choice_pool": [
+    "multiplied by",
+    "divided by",
+    "added to",
+    "subtracted from",
+    "5",
+    "10",
+    "20",
+    "30"
+  ],
+  "response_template": "The number of months [blank_1] [blank_2] is equal to the number of books Lilah reads.",
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "inline choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question involves straightforward reasoning to understand and describe a simple multiplicative relationship from a table.",
+  "confidence": 1,
+  "notes": null
+}

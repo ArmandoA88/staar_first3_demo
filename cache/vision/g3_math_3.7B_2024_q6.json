@@ -1,0 +1,33 @@
+{
+  "stem": "Zachary drew these figures. The dimensions of each figure are given in feet.\n\nFigure P is a rectangle with lengths 13 ft and widths 5 ft.\nFigure Q is a hexagon with all sides 6 ft.\nFigure R is a parallelogram with lengths 11 ft and widths 7 ft.\nFigure S is an equilateral triangle with all sides 12 ft.\nFigure T is a square with all sides 6 ft.\n\nWhich list shows all the figures that have a perimeter of 36 feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Figures P, Q, R, and S only"
+    },
+    {
+      "label": "B",
+      "text": "Figures Q, R, and T only"
+    },
+    {
+      "label": "C",
+      "text": "Figures P, R, and S only"
+    },
+    {
+      "label": "D",
+      "text": "Figures P, Q, R, S, and T"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Several labeled geometric figures with side lengths as described in the stem."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "Requires calculation of perimeters for several shapes and comparison to a target value, involving multiple steps and different polygon types.",
+  "confidence": 1,
+  "notes": null
+}

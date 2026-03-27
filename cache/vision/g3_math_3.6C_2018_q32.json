@@ -1,0 +1,33 @@
+{
+  "stem": "Maria put cloth squares together to make a blanket. The blanket is modeled by this rectangle.\n\nWhat is the area of the blanket in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "17 square feet"
+    },
+    {
+      "label": "G",
+      "text": "34 square feet"
+    },
+    {
+      "label": "H",
+      "text": "72 square feet"
+    },
+    {
+      "label": "J",
+      "text": "63 square feet"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle grid of 9 columns by 8 rows of cloth squares with 1 foot labeled for width of one square and 1 foot labeled for height of one square"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 3,
+  "difficulty_rationale": "The problem requires calculating area using length and width of a rectangle with direct measurement, involving one straightforward step.",
+  "confidence": 0.99,
+  "notes": null
+}

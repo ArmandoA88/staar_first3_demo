@@ -1,0 +1,33 @@
+{
+  "stem": "Each day a bakery makes cookies and muffins. The number of cookies the bakery makes is always 12 more than the number of muffins it makes.\n\nWhich table shows the relationship between the number of muffins and the number of cookies this bakery makes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number of Muffins 6 18 30 42\nNumber of Cookies 12 24 36 48"
+    },
+    {
+      "label": "B",
+      "text": "Number of Muffins 24 36 48 60\nNumber of Cookies 12 24 36 48"
+    },
+    {
+      "label": "C",
+      "text": "Number of Muffins 1 2 2 4\nNumber of Cookies 12 24 36 48"
+    },
+    {
+      "label": "D",
+      "text": "Number of Muffins 12 24 36 48\nNumber of Cookies 24 36 48 60"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, and D, each showing 'Number of Muffins' and 'Number of Cookies' rows with numeric values."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 5,
+  "difficulty_rationale": "The problem requires understanding and applying a numerical relationship (cookies = muffins + 12) and evaluating multiple numerical patterns to find the correct table.",
+  "confidence": 0.99,
+  "notes": null
+}

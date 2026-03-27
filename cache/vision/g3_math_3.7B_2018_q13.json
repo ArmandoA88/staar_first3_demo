@@ -1,0 +1,33 @@
+{
+  "stem": "A rectangular business card is shown. Use the ruler provided to measure the length and width of the business card to the nearest centimeter.\n\nWhich measurement is closest to the perimeter of the business card in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "14 cm"
+    },
+    {
+      "label": "B",
+      "text": "28 cm"
+    },
+    {
+      "label": "C",
+      "text": "45 cm"
+    },
+    {
+      "label": "D",
+      "text": "32 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of rectangular business card with text 'Jerry's Balloon Arrangements 1-512-555-3636' and images of balloons on left and right sides"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires measuring with a ruler and then calculating the perimeter, which includes multiple steps combining measurement and basic geometry.",
+  "confidence": 1,
+  "notes": null
+}

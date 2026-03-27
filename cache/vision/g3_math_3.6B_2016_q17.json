@@ -1,0 +1,37 @@
+{
+  "stem": "A group of figures is shown.\n\nWhich of these figures do not appear to be a rhombus, trapezoid, rectangle, or square?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Figures V, W, X, and Z"
+    },
+    {
+      "label": "B",
+      "text": "Figures W and Y"
+    },
+    {
+      "label": "C",
+      "text": "Figure Y only"
+    },
+    {
+      "label": "D",
+      "text": "Figures V, X, and Z only"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diamond labeled Figure V",
+    "Trapezoid labeled Figure W",
+    "Rectangle labeled Figure X",
+    "Irregular quadrilateral labeled Figure Y",
+    "Square labeled Figure Z"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires identification and classification of different quadrilaterals and reasoning to determine which do not fit the given categories.",
+  "confidence": 0.95,
+  "notes": null
+}

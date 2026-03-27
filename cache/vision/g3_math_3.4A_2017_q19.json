@@ -1,0 +1,33 @@
+{
+  "stem": "The table shows the numbers of puzzle pieces in four puzzles. Derek put together the two puzzles that had the greatest numbers of pieces.\n\nPuzzle Pieces\n\nPuzzle      Number of Pieces\nLion        402\nBoat        498\nGarden      419\nWaterfall   473\n\nWhat is the total number of pieces in these two puzzles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "961"
+    },
+    {
+      "label": "B",
+      "text": "900"
+    },
+    {
+      "label": "C",
+      "text": "861"
+    },
+    {
+      "label": "D",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with puzzles: Lion 402, Boat 498, Garden 419, Waterfall 473"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires identifying the two greatest numbers and adding them, straightforward one-step calculation.",
+  "confidence": 1,
+  "notes": null
+}

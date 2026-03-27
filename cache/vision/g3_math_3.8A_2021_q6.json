@@ -1,0 +1,33 @@
+{
+  "stem": "The bar graph shows the number of math problems each of five students completed during math class.\n\nMath Problems\n\n[Graph showing number completed: Jeff: 6, Amber: 24, Gary: 8, Farrah: 14, Steve: 20]",
+  "instruction": "Which list matches the data in the bar graph?",
+  "options": [
+    {
+      "label": "F",
+      "text": "Jeff: 6\nAmber: 24\nGary: 8\nFarrah: 14\nSteve: 20"
+    },
+    {
+      "label": "G",
+      "text": "Jeff: 9\nAmber: 24\nGary: 6\nFarrah: 15\nSteve: 21"
+    },
+    {
+      "label": "H",
+      "text": "Jeff: 6\nAmber: 24\nGary: 9\nFarrah: 15\nSteve: 21"
+    },
+    {
+      "label": "J",
+      "text": "Jeff: 6\nAmber: 21\nGary: 9\nFarrah: 15\nSteve: 24"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph labeled 'Math Problems' with students Jeff, Amber, Gary, Farrah, Steve on y-axis and number completed on x-axis 0 to 24 in increments of 6. Bars show values: Jeff=6, Amber=24, Gary=8, Farrah=14, Steve=20."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires reading and interpreting a bar graph accurately, then matching values to a list among similar numeric options.",
+  "confidence": 0.98,
+  "notes": null
+}

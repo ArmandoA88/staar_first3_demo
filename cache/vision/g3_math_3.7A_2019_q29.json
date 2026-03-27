@@ -1,0 +1,33 @@
+{
+  "stem": "Javier rode his bike a distance of \\(\\frac{1}{2}\\) mile from his house. On which number line does point \\(J\\) represent Javier's position after riding his bike?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Point J is at \\(\\frac{1}{2}\\) mile on the number line from 0 to 1 mile, with an arrow showing distance from 0 to J."
+    },
+    {
+      "label": "B",
+      "text": "Point J is slightly less than 1 mile from 0, with an arrow showing distance from 0 to J."
+    },
+    {
+      "label": "C",
+      "text": "Point J is at 1 mile on the number line, with an arrow showing distance from 0 to J."
+    },
+    {
+      "label": "D",
+      "text": "Point J is slightly less than 1 mile from 0, with an arrow showing distance from 0 to J, with the biker positioned after J."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four number lines each labeled 0 to 1 mile, with a house on the left, point J marked on each line, and a biker shown near point J, differing in position among the four choices."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires identifying the position \\(\\frac{1}{2}\\) on a number line, which is a straightforward recognition and simple measurement concept appropriate for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

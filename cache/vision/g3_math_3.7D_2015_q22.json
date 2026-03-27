@@ -1,0 +1,33 @@
+{
+  "stem": "Olga uses the same amount of water to fill her water bottle every day. Which unit of measurement should Olga use to measure the amount of water in her water bottle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Pound"
+    },
+    {
+      "label": "B",
+      "text": "Fluid ounce"
+    },
+    {
+      "label": "C",
+      "text": "Yard"
+    },
+    {
+      "label": "D",
+      "text": "Ounce"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question requires direct recall of appropriate units of measurement for liquid volume, which is a straightforward concept for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

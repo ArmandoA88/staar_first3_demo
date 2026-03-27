@@ -1,0 +1,36 @@
+{
+  "stem": "Which answer choice describes the number 9,140?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The sum of nine thousands and fourteen ones"
+    },
+    {
+      "label": "B",
+      "text": "The sum of nine thousands, one hundred, and forty tens"
+    },
+    {
+      "label": "C",
+      "text": "The sum of nine thousands, one hundred, and four tens"
+    },
+    {
+      "label": "D",
+      "text": "The sum of nine thousands, one hundred, and four ones"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The sum of nine thousands and fourteen ones",
+    "The sum of nine thousands, one hundred, and forty tens",
+    "The sum of nine thousands, one hundred, and four tens",
+    "The sum of nine thousands, one hundred, and four ones"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires understanding place value and identifying correct components of the number 9,140, which is a straightforward concept for grade 3.",
+  "confidence": 0.99,
+  "notes": null
+}

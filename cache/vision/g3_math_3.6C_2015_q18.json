@@ -1,0 +1,31 @@
+{
+  "stem": "Joseph counted the square tiles on the ceiling of his rectangular closet. The area of each tile is 1 square foot. The ceiling has 5 rows of tiles with 4 tiles in each row. What is the area of the ceiling of Joseph's closet in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "20 square feet"
+    },
+    {
+      "label": "B",
+      "text": "10 square feet"
+    },
+    {
+      "label": "C",
+      "text": "18 square feet"
+    },
+    {
+      "label": "D",
+      "text": "9 square feet"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The problem requires a single straightforward calculation of multiplying rows and tiles per row to find area.",
+  "confidence": 1,
+  "notes": null
+}

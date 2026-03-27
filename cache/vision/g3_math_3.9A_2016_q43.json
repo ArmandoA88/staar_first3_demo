@@ -1,0 +1,34 @@
+{
+  "stem": "A city pays each police officer for the work the police officer does. Which factor would most likely not affect the amount of money this city pays a police officer?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The size of the police officer\u2019s family"
+    },
+    {
+      "label": "B",
+      "text": "The number of years the police officer has worked for the city"
+    },
+    {
+      "label": "C",
+      "text": "The special skills that the police officer has"
+    },
+    {
+      "label": "D",
+      "text": "The level of education that the police officer has"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: '43 A city pays each police officer for the work the police officer does. Which factor would most likely not affect the amount of money this city pays a police officer?'",
+    "Answer choices labeled A-D with text as above."
+  ],
+  "item_type_inferred": "multiple choice",
+  "difficulty_label": "easy",
+  "difficulty_score": 2,
+  "difficulty_rationale": "The question asks for understanding of factors affecting pay in a straightforward scenario, requiring simple reasoning about relevance of options.",
+  "confidence": 1,
+  "notes": null
+}

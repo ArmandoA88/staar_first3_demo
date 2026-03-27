@@ -1,0 +1,35 @@
+{
+  "stem": "Vienna creates a bar graph and a pictograph to show what types of books she owns. She has 5 comic books, 9 mystery books, and 3 sports books. She makes an error in one of the graphs, as shown.\n\nVienna\u2019s Books\n\n[Bar graph labeled \"Vienna's Books\" with bars: Comic at 5, Mystery at 9, Sports at 3]\n\nVienna\u2019s Books\n\n[Pictograph with 3 rows: Comic (2 whole book symbols and 1 half book symbol), Mystery (4 whole book symbols and 1 half book symbol), Sports (2 whole book symbols)]\n\nEach book symbol represents 2 books.",
+  "instruction": "Which graph has the error?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Bar graph, because the bar for mystery books should be at 9"
+    },
+    {
+      "label": "B",
+      "text": "Pictograph, because the row for mystery books should have 4 whole symbols and one half symbol"
+    },
+    {
+      "label": "C",
+      "text": "Bar graph, because the bar for sports books should be at 4"
+    },
+    {
+      "label": "D",
+      "text": "Pictograph, because the row for sports books should have one whole symbol and one half symbol"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Vienna's Books' with bars: Comic at 5, Mystery at 9, Sports at 3",
+    "Pictograph titled 'Vienna's Books' showing Comic: 2 full book symbols and 1 half book symbol, Mystery: 4 full book symbols and 1 half book symbol, Sports: 2 full book symbols",
+    "Legend: Each full book symbol represents 2 books"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 6,
+  "difficulty_rationale": "Requires understanding of how to read and interpret both bar graphs and pictographs, converting quantities to graphical representations with fractional symbols.",
+  "confidence": 0.95,
+  "notes": null
+}

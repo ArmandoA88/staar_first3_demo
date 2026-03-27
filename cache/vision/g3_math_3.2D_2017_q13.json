@@ -1,0 +1,33 @@
+{
+  "stem": "The table shows the land areas of some states.\n\nLand Areas\n\n| State     | Area (square miles) |\n|-----------|---------------------|\n| Arkansas  | 52,068              |\n| Louisiana | 43,204              |\n| Alabama   | 50,744              |\n| Oklahoma  | 68,667              |\n| Mississippi | 46,907            |\n\nWhich comparison of two land areas is NOT true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The land area of Alabama > the land area of Mississippi"
+    },
+    {
+      "label": "B",
+      "text": "The land area of Arkansas < the land area of Alabama"
+    },
+    {
+      "label": "C",
+      "text": "The land area of Oklahoma > the land area of Louisiana"
+    },
+    {
+      "label": "D",
+      "text": "The land area of Louisiana < the land area of Mississippi"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with land areas of five states: Arkansas 52,068, Louisiana 43,204, Alabama 50,744, Oklahoma 68,667, Mississippi 46,907."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "difficulty_label": "medium",
+  "difficulty_score": 3,
+  "difficulty_rationale": "Requires comparing numerical values from a table and evaluating comparisons to identify the false statement.",
+  "confidence": 1.0,
+  "notes": null
+}
