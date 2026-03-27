@@ -1,5 +1,9 @@
 __pycache__/
 *.pyc
+/STAARProblemBrowser.exe
+build/
+dist/
+*.spec
 
 # >>> split large files >>>
 # Paths in this block are restored locally from chunked parts and should not be committed.

@@ -73,6 +73,27 @@ http://localhost:8000
 
 The root page redirects to `app/`, and the app loads `collections/index.json`.
 
+## Build a Standalone Windows EXE
+
+The desktop build wraps the browser app in a local launcher EXE. It bundles the static UI plus the runtime collection data and images, then opens the app automatically in the default browser.
+
+Build it with:
+
+```powershell
+py scripts/build_desktop_exe.py
+```
+
+Output:
+
+```text
+STAARProblemBrowser.exe
+```
+
+Notes:
+
+- The EXE intentionally excludes extraction-only folders such as `source/`, `cache/`, and `reports/` to keep the bundle smaller.
+- Because the packaged image assets are large, the EXE will still be a large file and may take a moment to unpack on first launch.
+
 ## Extract a Collection
 
 Grade 3 Math:
