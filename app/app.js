@@ -177,6 +177,7 @@ const state = {
     studentPrintFormat: "png",
   },
   printMode: "",
+  pdfExportMode: "",
 };
 
 const elements = {
@@ -199,6 +200,7 @@ const elements = {
   teksCount: document.querySelector("#teks-count"),
   yearCount: document.querySelector("#year-count"),
   difficultyCount: document.querySelector("#difficulty-count"),
+  selectionActionCopy: document.querySelector("#selection-action-copy"),
   cardTemplate: document.querySelector("#item-card-template"),
   selectedItemTemplate: document.querySelector("#selected-item-template"),
   selectedCount: document.querySelector("#selected-count"),
@@ -206,6 +208,7 @@ const elements = {
   testTitle: document.querySelector("#test-title"),
   teacherName: document.querySelector("#teacher-name"),
   studentPrintFormat: document.querySelector("#student-print-format"),
+  addSelection: document.querySelector("#add-selection"),
   addVisible: document.querySelector("#add-visible"),
   removeVisible: document.querySelector("#remove-visible"),
   clearSelection: document.querySelector("#clear-selection"),
@@ -213,6 +216,8 @@ const elements = {
   presetButtons: [...document.querySelectorAll("[data-preset]")],
   printTest: document.querySelector("#print-test"),
   printAnswerKey: document.querySelector("#print-answer-key"),
+  downloadTestPdf: document.querySelector("#download-test-pdf"),
+  downloadAnswerKeyPdf: document.querySelector("#download-answer-key-pdf"),
   printWorkspace: document.querySelector("#print-workspace"),
 };
 
@@ -612,6 +617,13 @@ function attachEvents() {
     renderBuilder();
   });
 
+  elements.addSelection.addEventListener("click", () => {
+    const addedCount = addItemsToSelection(getSortedItems(getFilteredItems()));
+    if (!addedCount) {
+      window.alert("All questions in the current selection are already in the test.");
+    }
+  });
+
   elements.addVisible.addEventListener("click", () => {
     const addedCount = addItemsToSelection(getSortedItems(getFilteredItems()));
     if (!addedCount) {
@@ -647,6 +659,14 @@ function attachEvents() {
 
   elements.printAnswerKey.addEventListener("click", () => {
     preparePrint("answer-key");
+  });
+
+  elements.downloadTestPdf.addEventListener("click", () => {
+    downloadPdf("student");
+  });
+
+  elements.downloadAnswerKeyPdf.addEventListener("click", () => {
+    downloadPdf("answer-key");
   });
 
   window.addEventListener("afterprint", cleanupPrintWorkspace);
@@ -705,8 +725,13 @@ async function switchCollection(collectionId) {
   render();
 }
 
-function getFilteredItems() {
-  const search = normalizeText(state.filters.search);
+function getFilteredItems(options = {}) {
+  const filters = {
+    ...state.filters,
+    ...(options.filters || {}),
+  };
+  const ignoredFilters = new Set(options.ignore || []);
+  const search = normalizeText(filters.search);
   return state.items.filter((item) => {
     const haystack = normalizeText(
       [
@@ -727,22 +752,26 @@ function getFilteredItems() {
         .join(" ")
     );
 
-    if (state.filters.teks && item.metadata.standard !== state.filters.teks) {
+    if (!ignoredFilters.has("teks") && filters.teks && item.metadata.standard !== filters.teks) {
       return false;
     }
-    if (state.filters.year && String(item.metadata.year) !== state.filters.year) {
+    if (!ignoredFilters.has("year") && filters.year && String(item.metadata.year) !== filters.year) {
       return false;
     }
-    if (state.filters.difficulty && item.metadata.difficulty?.label !== state.filters.difficulty) {
+    if (
+      !ignoredFilters.has("difficulty") &&
+      filters.difficulty &&
+      item.metadata.difficulty?.label !== filters.difficulty
+    ) {
       return false;
     }
-    if (state.filters.itemType && item.metadata.item_type !== state.filters.itemType) {
+    if (!ignoredFilters.has("itemType") && filters.itemType && item.metadata.item_type !== filters.itemType) {
       return false;
     }
-    if (state.filters.content && item.metadata.content !== state.filters.content) {
+    if (!ignoredFilters.has("content") && filters.content && item.metadata.content !== filters.content) {
       return false;
     }
-    if (state.filters.reviewOnly && !item.extraction_quality.needs_review) {
+    if (!ignoredFilters.has("reviewOnly") && filters.reviewOnly && !item.extraction_quality.needs_review) {
       return false;
     }
     if (search && !haystack.includes(search)) {
@@ -864,7 +893,7 @@ function applyPreset(presetName) {
   }
 }
 
-function setChipGroup(container, counts, totalLabel, activeValue, onClick) {
+function setChipGroup(container, counts, totalLabel, activeValue, onClick, options = {}) {
   container.innerHTML = "";
   if (!counts.length) {
     const empty = document.createElement("span");
@@ -874,7 +903,21 @@ function setChipGroup(container, counts, totalLabel, activeValue, onClick) {
     return;
   }
 
-  counts.slice(0, 18).forEach(([label, count]) => {
+  const limit = options.limit ?? 18;
+  const showAll = limit === "all";
+  let visibleCounts = showAll ? [...counts] : counts.slice(0, Math.max(0, limit));
+
+  if (activeValue && !visibleCounts.some(([label]) => label === activeValue)) {
+    const activeEntry = counts.find(([label]) => label === activeValue);
+    if (activeEntry) {
+      if (!showAll && visibleCounts.length >= limit && limit > 0) {
+        visibleCounts = visibleCounts.slice(0, -1);
+      }
+      visibleCounts.push(activeEntry);
+    }
+  }
+
+  visibleCounts.forEach(([label, count]) => {
     const button = document.createElement("button");
     button.type = "button";
     button.className = `chip-button${activeValue === label ? " is-active" : ""}`;
@@ -883,22 +926,25 @@ function setChipGroup(container, counts, totalLabel, activeValue, onClick) {
     container.append(button);
   });
 
-  if (counts.length > 18) {
+  if (!showAll && counts.length > visibleCounts.length) {
     const tail = document.createElement("span");
     tail.className = "chip-static";
-    tail.textContent = `+${counts.length - 18} more ${totalLabel}`;
+    tail.textContent = `+${counts.length - visibleCounts.length} more ${totalLabel}`;
     container.append(tail);
   }
 }
 
 function renderSummary(filteredItems) {
   const collection = getActiveCollection();
+  const collectionReady = collection?.status === "ready";
   const catalogSubject = state.catalog?.subject || collection?.subject || "Unknown subject";
   const catalogGrade = state.catalog?.grade || collection?.grade || "?";
   const itemCount = state.catalog?.item_count || 0;
   const visibleStimulusGroupCount = new Set(
     filteredItems.map((item) => item.stimulus?.group_id).filter(Boolean)
   ).size;
+  const selectedVisibleCount = filteredItems.filter((item) => state.selectedIds.includes(item.id)).length;
+  const addableVisibleCount = filteredItems.length - selectedVisibleCount;
 
   elements.resultsSummary.textContent = `${filteredItems.length} of ${state.items.length} problems shown`;
   elements.stats.innerHTML = `
@@ -909,7 +955,7 @@ function renderSummary(filteredItems) {
     ${state.selectedIds.length} problems in the current test
   `;
 
-  const teksCounts = buildCounts(filteredItems, (item) => item.metadata.standard);
+  const teksCounts = buildCounts(getFilteredItems({ ignore: ["teks"] }), (item) => item.metadata.standard);
   const yearCounts = buildCounts(filteredItems, (item) => String(item.metadata.year));
   const difficultyCounts = buildCounts(filteredItems, (item) => item.metadata.difficulty?.label);
 
@@ -917,11 +963,36 @@ function renderSummary(filteredItems) {
   elements.yearCount.textContent = `${yearCounts.length} years`;
   elements.difficultyCount.textContent = `${difficultyCounts.length} levels`;
 
-  setChipGroup(elements.teksGroups, teksCounts, "TEKS groups", state.filters.teks, (label) => {
-    state.filters.teks = state.filters.teks === label ? "" : label;
-    elements.teksFilter.value = state.filters.teks;
-    render();
-  });
+  if (!collectionReady) {
+    elements.selectionActionCopy.textContent = "This collection is indexed but does not have extracted questions yet.";
+    elements.addSelection.textContent = "Add All Questions From Selection";
+    elements.addSelection.disabled = true;
+  } else if (!filteredItems.length) {
+    elements.selectionActionCopy.textContent = "No questions match the current selection yet.";
+    elements.addSelection.textContent = "Add All Questions From Selection";
+    elements.addSelection.disabled = true;
+  } else if (!addableVisibleCount) {
+    elements.selectionActionCopy.textContent = `${filteredItems.length} questions match the current selection, and all of them are already in the test.`;
+    elements.addSelection.textContent = "All Matching Questions Added";
+    elements.addSelection.disabled = true;
+  } else {
+    elements.selectionActionCopy.textContent = `${filteredItems.length} questions match the current selection. ${addableVisibleCount} can be added to the test right now.`;
+    elements.addSelection.textContent = `Add ${addableVisibleCount} Question${addableVisibleCount === 1 ? "" : "s"} From Selection`;
+    elements.addSelection.disabled = false;
+  }
+
+  setChipGroup(
+    elements.teksGroups,
+    teksCounts,
+    "TEKS groups",
+    state.filters.teks,
+    (label) => {
+      state.filters.teks = state.filters.teks === label ? "" : label;
+      elements.teksFilter.value = state.filters.teks;
+      render();
+    },
+    { limit: "all" }
+  );
   setChipGroup(elements.yearGroups, yearCounts, "years", state.filters.year, (label) => {
     state.filters.year = state.filters.year === label ? "" : label;
     elements.yearFilter.value = state.filters.year;
@@ -1100,8 +1171,15 @@ function renderBuilder() {
   elements.teacherName.value = state.packet.teacher;
   elements.studentPrintFormat.value = getStudentPrintFormat();
   const collectionReady = collection?.status === "ready";
-  elements.printTest.disabled = selectedItems.length === 0 || !collectionReady;
-  elements.printAnswerKey.disabled = selectedItems.length === 0 || !collectionReady;
+  const exportLocked = Boolean(state.pdfExportMode);
+  elements.printTest.disabled = selectedItems.length === 0 || !collectionReady || exportLocked;
+  elements.printAnswerKey.disabled = selectedItems.length === 0 || !collectionReady || exportLocked;
+  elements.downloadTestPdf.disabled = selectedItems.length === 0 || !collectionReady || exportLocked;
+  elements.downloadAnswerKeyPdf.disabled = selectedItems.length === 0 || !collectionReady || exportLocked;
+  elements.downloadTestPdf.textContent =
+    state.pdfExportMode === "student" ? "Preparing Student PDF..." : "Download Student PDF";
+  elements.downloadAnswerKeyPdf.textContent =
+    state.pdfExportMode === "answer-key" ? "Preparing Answer Key PDF..." : "Download Answer Key PDF";
   elements.clearSelection.disabled = selectedItems.length === 0;
   elements.addVisible.disabled = !collectionReady;
   elements.removeVisible.disabled = !collectionReady;
@@ -1434,9 +1512,72 @@ function buildAnswerKeyMarkup(selectedItems) {
   `;
 }
 
+function buildPrintableMarkup(mode, selectedItems) {
+  return mode === "student" ? buildStudentPrintMarkup(selectedItems) : buildAnswerKeyMarkup(selectedItems);
+}
+
+function mountPrintWorkspace(mode, selectedItems, options = {}) {
+  state.printMode = mode;
+  elements.printWorkspace.innerHTML = buildPrintableMarkup(mode, selectedItems);
+  elements.printWorkspace.setAttribute("aria-hidden", "false");
+  document.body.classList.toggle("is-printing-student", mode === "student");
+  document.body.classList.toggle("is-printing-answer-key", mode === "answer-key");
+
+  if (options.exportingPdf) {
+    elements.printWorkspace.dataset.exporting = "true";
+    Object.assign(elements.printWorkspace.style, {
+      display: "block",
+      position: "fixed",
+      left: "-200vw",
+      top: "0",
+      width: "8.5in",
+      padding: "0.45in 0.55in",
+      background: "#fff",
+      zIndex: "-1",
+    });
+  }
+}
+
+function sanitizeFilename(value) {
+  const normalized = String(value || "")
+    .replace(/[<>:"/\\|?*\u0000-\u001f]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  return normalized || "STAAR Packet";
+}
+
+function buildPdfFilename(mode) {
+  const suffix = mode === "student" ? "Student Test" : "Answer Key";
+  return `${sanitizeFilename(buildPacketTitle())} - ${suffix}.pdf`;
+}
+
+function waitForImageLoad(image) {
+  return new Promise((resolve) => {
+    if (image.complete) {
+      resolve();
+      return;
+    }
+    const finish = () => resolve();
+    image.addEventListener("load", finish, { once: true });
+    image.addEventListener("error", finish, { once: true });
+  });
+}
+
+async function waitForPrintableContent(container) {
+  const images = [...container.querySelectorAll("img")];
+  await Promise.all(images.map(waitForImageLoad));
+  await new Promise((resolve) => {
+    window.requestAnimationFrame(() => {
+      window.requestAnimationFrame(resolve);
+    });
+  });
+}
+
 function cleanupPrintWorkspace() {
   elements.printWorkspace.innerHTML = "";
   elements.printWorkspace.setAttribute("aria-hidden", "true");
+  elements.printWorkspace.removeAttribute("data-exporting");
+  elements.printWorkspace.removeAttribute("style");
   document.body.classList.remove("is-printing-student", "is-printing-answer-key");
   state.printMode = "";
 }
@@ -1448,16 +1589,66 @@ function preparePrint(mode) {
     return;
   }
 
-  state.printMode = mode;
-  elements.printWorkspace.innerHTML =
-    mode === "student" ? buildStudentPrintMarkup(selectedItems) : buildAnswerKeyMarkup(selectedItems);
-  elements.printWorkspace.setAttribute("aria-hidden", "false");
-  document.body.classList.toggle("is-printing-student", mode === "student");
-  document.body.classList.toggle("is-printing-answer-key", mode === "answer-key");
+  mountPrintWorkspace(mode, selectedItems);
 
   window.requestAnimationFrame(() => {
     window.print();
   });
+}
+
+async function downloadPdf(mode) {
+  const selectedItems = getSelectedItems();
+  if (!selectedItems.length) {
+    window.alert("Select at least one problem before downloading a PDF.");
+    return;
+  }
+  if (state.pdfExportMode) {
+    return;
+  }
+  if (typeof window.html2pdf !== "function") {
+    window.alert("The PDF export library did not load. Refresh the page and try again.");
+    return;
+  }
+
+  state.pdfExportMode = mode;
+  renderBuilder();
+
+  try {
+    mountPrintWorkspace(mode, selectedItems, { exportingPdf: true });
+    await waitForPrintableContent(elements.printWorkspace);
+
+    const exportScale = Math.max(1.5, Math.min(window.devicePixelRatio || 1, 2));
+    await window
+      .html2pdf()
+      .set({
+        filename: buildPdfFilename(mode),
+        margin: 0,
+        image: { type: "jpeg", quality: 0.98 },
+        html2canvas: {
+          scale: exportScale,
+          useCORS: true,
+          backgroundColor: "#ffffff",
+          scrollX: 0,
+          scrollY: 0,
+        },
+        jsPDF: {
+          unit: "in",
+          format: "letter",
+          orientation: "portrait",
+        },
+        pagebreak: {
+          mode: ["css", "legacy"],
+        },
+      })
+      .from(elements.printWorkspace)
+      .save();
+  } catch (error) {
+    window.alert(`Unable to download PDF. ${error.message || "Please try again."}`);
+  } finally {
+    cleanupPrintWorkspace();
+    state.pdfExportMode = "";
+    renderBuilder();
+  }
 }
 
 async function init() {

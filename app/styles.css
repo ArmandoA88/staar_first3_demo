@@ -57,6 +57,7 @@ img {
 .sidebar,
 .hero-panel,
 .summary-panel,
+.selection-action-bar,
 .item-card,
 .builder-panel {
   border: 1px solid var(--line);
@@ -108,7 +109,6 @@ img {
 .item-instruction,
 .item-footer,
 .stats-panel,
-.chip-button,
 .chip-static {
   color: var(--muted);
 }
@@ -215,6 +215,10 @@ img {
   margin-top: 16px;
 }
 
+.print-actions button {
+  min-width: 190px;
+}
+
 .print-format-field {
   margin-top: 16px;
 }
@@ -293,10 +297,21 @@ img {
   color: #fff;
 }
 
+.download-button {
+  background: linear-gradient(180deg, var(--panel-strong) 0%, var(--accent-soft-surface) 100%);
+  color: var(--ink);
+  box-shadow: inset 0 0 0 1px var(--selection-outline);
+}
+
 .primary-button:hover,
 .select-button:hover,
 .tiny-button:hover {
   filter: brightness(0.98);
+}
+
+.download-button:hover {
+  filter: none;
+  background: linear-gradient(180deg, var(--accent-soft) 0%, var(--accent-soft-surface) 100%);
 }
 
 .primary-button:disabled,
@@ -421,6 +436,25 @@ img {
   gap: 18px;
 }
 
+.selection-action-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 20px;
+  border-radius: 24px;
+}
+
+.selection-action-copy {
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.selection-action-button {
+  flex-shrink: 0;
+}
+
 .summary-panel {
   padding: 18px;
   border-radius: 24px;
@@ -457,17 +491,40 @@ img {
   padding: 8px 12px;
   border-radius: 999px;
   border: 1px solid var(--line);
-  background: var(--panel-soft);
+  background: var(--panel-strong);
   font-size: 0.84rem;
 }
 
 .chip-button {
   cursor: pointer;
+  color: var(--ink);
+  font-weight: 600;
+  border-color: var(--accent-soft-strong);
+  background: linear-gradient(180deg, var(--panel-strong) 0%, var(--accent-soft-surface) 100%);
+  transition:
+    background 180ms ease,
+    color 180ms ease,
+    border-color 180ms ease,
+    box-shadow 180ms ease,
+    transform 180ms ease;
+}
+
+.chip-button:hover {
+  border-color: var(--selection-outline);
+  background: linear-gradient(180deg, var(--accent-soft) 0%, var(--accent-soft-surface) 100%);
+  transform: translateY(-1px);
 }
 
 .chip-button.is-active {
-  background: var(--accent);
+  border-color: transparent;
+  background: linear-gradient(135deg, var(--accent) 0%, var(--ink) 100%);
   color: #fff;
+  box-shadow: 0 12px 24px var(--accent-soft);
+}
+
+.chip-button.is-active:hover {
+  background: linear-gradient(135deg, var(--accent) 0%, var(--ink) 100%);
+  transform: translateY(-1px);
 }
 
 .results-grid {
@@ -829,6 +886,7 @@ img {
 
   .builder-form-grid,
   .hero-panel,
+  .selection-action-bar,
   .item-body,
   .item-footer,
   .sidebar-grid {
@@ -838,6 +896,19 @@ img {
   .hero-panel {
     display: grid;
     align-items: start;
+  }
+
+  .selection-action-bar {
+    display: grid;
+  }
+
+  .selection-action-button {
+    width: 100%;
+  }
+
+  .print-actions button {
+    width: 100%;
+    min-width: 0;
   }
 }
 

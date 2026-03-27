@@ -193,12 +193,19 @@
             <div class="print-actions">
               <button id="print-test" class="primary-button" type="button">Print Student Test</button>
               <button id="print-answer-key" class="primary-button" type="button">Print Answer Key</button>
+              <button id="download-test-pdf" class="primary-button download-button" type="button">
+                Download Student PDF
+              </button>
+              <button id="download-answer-key-pdf" class="primary-button download-button" type="button">
+                Download Answer Key PDF
+              </button>
             </div>
 
             <div class="print-notes">
               <p>Use the filters first, add the visible problems, then print.</p>
               <p>The student packet uses source PNGs by default. Switch to OCR text only when you want a text-rendered version.</p>
               <p>ELAR passages still print from the original PNGs so the passage stays attached to its questions. The answer key prints TEKS, answers, and state percent correct.</p>
+              <p>Download PDF exports the current student packet or answer key directly to a PDF file.</p>
             </div>
           </article>
         </section>
@@ -227,6 +234,13 @@
             </div>
             <div id="difficulty-groups" class="chip-grid"></div>
           </article>
+        </section>
+
+        <section class="selection-action-bar" aria-live="polite">
+          <div id="selection-action-copy" class="selection-action-copy">Choose filters to build a question selection.</div>
+          <button id="add-selection" class="primary-button selection-action-button" type="button">
+            Add All Questions From Selection
+          </button>
         </section>
 
         <section id="results" class="results-grid" aria-live="polite"></section>
@@ -274,6 +288,7 @@
       </article>
     </template>
 
+    <script src="vendor/html2pdf.bundle.min.js" defer></script>
     <script src="app.js" defer></script>
   </body>
 </html>
