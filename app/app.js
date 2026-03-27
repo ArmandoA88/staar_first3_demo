@@ -177,6 +177,7 @@ const state = {
     studentPrintFormat: "png",
   },
   printMode: "",
+  printPreparingMode: "",
   pdfExportMode: "",
 };
 
@@ -209,6 +210,7 @@ const elements = {
   teacherName: document.querySelector("#teacher-name"),
   studentPrintFormat: document.querySelector("#student-print-format"),
   addSelection: document.querySelector("#add-selection"),
+  removeSelection: document.querySelector("#remove-selection"),
   addVisible: document.querySelector("#add-visible"),
   removeVisible: document.querySelector("#remove-visible"),
   clearSelection: document.querySelector("#clear-selection"),
@@ -315,15 +317,74 @@ function getActiveCollection() {
   return state.collections.find((collection) => collection.id === state.activeCollectionId) || null;
 }
 
+function buildFallbackStimulusGroup(item) {
+  const year = item?.metadata?.year || "unknown";
+  const label = item?.metadata?.stimulus_reference || item?.stimulus?.label || "Stimulus bundle";
+  return {
+    id: `fallback:${year}:${label}`,
+    label,
+    year,
+    page_count: 0,
+    page_numbers: [],
+    page_images: [],
+    question_ids: [],
+    missing: true,
+  };
+}
+
 function getStimulusGroupForItem(item) {
-  if (!item?.stimulus?.group_id) {
+  if (!item) {
     return null;
   }
-  return state.stimulusGroupsById.get(item.stimulus.group_id) || null;
+  if (!item?.stimulus?.group_id) {
+    return item.metadata?.stimulus_reference ? buildFallbackStimulusGroup(item) : null;
+  }
+  const group = state.stimulusGroupsById.get(item.stimulus.group_id) || null;
+  if (!group) {
+    return buildFallbackStimulusGroup(item);
+  }
+
+  const itemYear = Number(item.metadata?.year);
+  const groupYear = Number(group.year);
+  const expectedLabel = String(item.metadata?.stimulus_reference || "").trim();
+  const actualLabel = String(group.label || "").trim();
+  const hasYearMismatch = Number.isFinite(itemYear) && Number.isFinite(groupYear) && itemYear !== groupYear;
+  const hasLabelMismatch = expectedLabel && actualLabel && expectedLabel !== actualLabel;
+
+  if (hasYearMismatch || hasLabelMismatch) {
+    return buildFallbackStimulusGroup(item);
+  }
+
+  return group;
 }
 
 function getStimulusGroupKey(item) {
-  return item?.stimulus?.group_id || `item:${item.id}`;
+  return getStimulusGroupForItem(item)?.id || `item:${item.id}`;
+}
+
+function shouldRenderStimulusBundles(collection = getActiveCollection()) {
+  return collection?.subject === "ELAR" && Number(collection?.grade) === 3;
+}
+
+function buildStimulusBundles(items) {
+  const bundles = [];
+  const bundlesByKey = new Map();
+
+  getSortedItems(items).forEach((item) => {
+    const key = getStimulusGroupKey(item);
+    if (!bundlesByKey.has(key)) {
+      const bundle = {
+        key,
+        stimulusGroup: getStimulusGroupForItem(item),
+        items: [],
+      };
+      bundlesByKey.set(key, bundle);
+      bundles.push(bundle);
+    }
+    bundlesByKey.get(key).items.push(item);
+  });
+
+  return bundles;
 }
 
 function isExternalPath(value) {
@@ -624,6 +685,13 @@ function attachEvents() {
     }
   });
 
+  elements.removeSelection.addEventListener("click", () => {
+    const removedCount = removeItemsFromSelection(getFilteredItems().map((item) => item.id));
+    if (!removedCount) {
+      window.alert("No matching questions are currently in the test.");
+    }
+  });
+
   elements.addVisible.addEventListener("click", () => {
     const addedCount = addItemsToSelection(getSortedItems(getFilteredItems()));
     if (!addedCount) {
@@ -669,7 +737,13 @@ function attachEvents() {
     downloadPdf("answer-key");
   });
 
-  window.addEventListener("afterprint", cleanupPrintWorkspace);
+  window.addEventListener("afterprint", () => {
+    cleanupPrintWorkspace();
+    if (state.printPreparingMode) {
+      state.printPreparingMode = "";
+      renderBuilder();
+    }
+  });
 }
 
 function resetFiltersState() {
@@ -937,20 +1011,23 @@ function setChipGroup(container, counts, totalLabel, activeValue, onClick, optio
 function renderSummary(filteredItems) {
   const collection = getActiveCollection();
   const collectionReady = collection?.status === "ready";
+  const bundleMode = shouldRenderStimulusBundles(collection);
   const catalogSubject = state.catalog?.subject || collection?.subject || "Unknown subject";
   const catalogGrade = state.catalog?.grade || collection?.grade || "?";
   const itemCount = state.catalog?.item_count || 0;
-  const visibleStimulusGroupCount = new Set(
-    filteredItems.map((item) => item.stimulus?.group_id).filter(Boolean)
-  ).size;
+  const visibleBundleCount = bundleMode
+    ? buildStimulusBundles(filteredItems).length
+    : new Set(filteredItems.map((item) => getStimulusGroupKey(item)).filter(Boolean)).size;
   const selectedVisibleCount = filteredItems.filter((item) => state.selectedIds.includes(item.id)).length;
   const addableVisibleCount = filteredItems.length - selectedVisibleCount;
 
-  elements.resultsSummary.textContent = `${filteredItems.length} of ${state.items.length} problems shown`;
+  elements.resultsSummary.textContent = bundleMode
+    ? `${visibleBundleCount} passage bundles containing ${filteredItems.length} of ${state.items.length} problems shown`
+    : `${filteredItems.length} of ${state.items.length} problems shown`;
   elements.stats.innerHTML = `
     <strong>${escapeHtml(catalogSubject)} Grade ${escapeHtml(catalogGrade)}</strong><br />
     ${itemCount} extracted items<br />
-    ${visibleStimulusGroupCount} visible stimulus bundles<br />
+    ${visibleBundleCount} visible stimulus bundles<br />
     ${filteredItems.filter((item) => item.extraction_quality.needs_review).length} visible items marked for review<br />
     ${state.selectedIds.length} problems in the current test
   `;
@@ -967,18 +1044,32 @@ function renderSummary(filteredItems) {
     elements.selectionActionCopy.textContent = "This collection is indexed but does not have extracted questions yet.";
     elements.addSelection.textContent = "Add All Questions From Selection";
     elements.addSelection.disabled = true;
+    elements.removeSelection.textContent = "Remove Matching Questions";
+    elements.removeSelection.disabled = true;
   } else if (!filteredItems.length) {
     elements.selectionActionCopy.textContent = "No questions match the current selection yet.";
     elements.addSelection.textContent = "Add All Questions From Selection";
     elements.addSelection.disabled = true;
+    elements.removeSelection.textContent = "Remove Matching Questions";
+    elements.removeSelection.disabled = true;
   } else if (!addableVisibleCount) {
     elements.selectionActionCopy.textContent = `${filteredItems.length} questions match the current selection, and all of them are already in the test.`;
     elements.addSelection.textContent = "All Matching Questions Added";
     elements.addSelection.disabled = true;
-  } else {
+    elements.removeSelection.textContent = `Remove ${selectedVisibleCount} Question${selectedVisibleCount === 1 ? "" : "s"} From Selection`;
+    elements.removeSelection.disabled = false;
+  } else if (!selectedVisibleCount) {
     elements.selectionActionCopy.textContent = `${filteredItems.length} questions match the current selection. ${addableVisibleCount} can be added to the test right now.`;
     elements.addSelection.textContent = `Add ${addableVisibleCount} Question${addableVisibleCount === 1 ? "" : "s"} From Selection`;
     elements.addSelection.disabled = false;
+    elements.removeSelection.textContent = "No Matching Questions In Test";
+    elements.removeSelection.disabled = true;
+  } else {
+    elements.selectionActionCopy.textContent = `${filteredItems.length} questions match the current selection. ${addableVisibleCount} can be added, and ${selectedVisibleCount} can be removed right now.`;
+    elements.addSelection.textContent = `Add ${addableVisibleCount} Question${addableVisibleCount === 1 ? "" : "s"} From Selection`;
+    elements.addSelection.disabled = false;
+    elements.removeSelection.textContent = `Remove ${selectedVisibleCount} Question${selectedVisibleCount === 1 ? "" : "s"} From Selection`;
+    elements.removeSelection.disabled = false;
   }
 
   setChipGroup(
@@ -1023,7 +1114,8 @@ function renderAnswer(item) {
   return answer.raw_pdf_answer_text || "Unavailable";
 }
 
-function renderCard(item) {
+function renderCard(item, options = {}) {
+  const { hideStimulusMeta = false } = options;
   const collection = getActiveCollection();
   const stimulusGroup = getStimulusGroupForItem(item);
   const fragment = elements.cardTemplate.content.cloneNode(true);
@@ -1053,11 +1145,18 @@ function renderCard(item) {
     meta.append(pill);
   });
 
-  if (stimulusGroup?.label) {
+  if (!hideStimulusMeta && stimulusGroup?.label) {
     const stimulusPill = document.createElement("span");
     stimulusPill.className = "meta-pill stimulus";
     stimulusPill.textContent = stimulusGroup.label;
     meta.append(stimulusPill);
+  }
+
+  if (stimulusGroup?.missing) {
+    const missingPill = document.createElement("span");
+    missingPill.className = "meta-pill review";
+    missingPill.textContent = "passage image missing";
+    meta.append(missingPill);
   }
 
   const difficultyLabel = item.metadata.difficulty?.label || "unknown";
@@ -1133,7 +1232,124 @@ function renderCard(item) {
   `;
 
   card.dataset.id = item.id;
-  return fragment;
+  return card;
+}
+
+function renderStimulusBundle(bundle) {
+  const collection = getActiveCollection();
+  const stimulusGroup = bundle.stimulusGroup;
+  const article = document.createElement("article");
+  article.className = "stimulus-bundle";
+
+  const selectedCount = bundle.items.filter((item) => state.selectedIds.includes(item.id)).length;
+  if (selectedCount === bundle.items.length) {
+    article.classList.add("is-selected");
+  }
+
+  const header = document.createElement("div");
+  header.className = "stimulus-bundle-header";
+
+  const copy = document.createElement("div");
+  copy.className = "stimulus-bundle-copy";
+
+  const eyebrow = document.createElement("p");
+  eyebrow.className = "eyebrow";
+  eyebrow.textContent = "Passage Bundle";
+  copy.append(eyebrow);
+
+  const title = document.createElement("h3");
+  title.className = "stimulus-bundle-title";
+  title.textContent =
+    stimulusGroup?.label || bundle.items[0]?.metadata?.stimulus_reference || "Stimulus-linked questions";
+  copy.append(title);
+
+  const note = document.createElement("p");
+  note.className = "stimulus-bundle-note";
+  const totalQuestionCount = stimulusGroup?.question_ids?.length || bundle.items.length;
+  note.textContent =
+    totalQuestionCount > bundle.items.length
+      ? `Showing ${bundle.items.length} of ${totalQuestionCount} questions from this passage based on the current filters.`
+      : `${bundle.items.length} questions are linked to this passage.`;
+  copy.append(note);
+
+  const meta = document.createElement("div");
+  meta.className = "stimulus-bundle-meta";
+  [
+    String(bundle.items[0]?.metadata?.year || stimulusGroup?.year || ""),
+    `${bundle.items.length} question${bundle.items.length === 1 ? "" : "s"}`,
+    stimulusGroup?.page_images?.length
+      ? `${stimulusGroup.page_images.length} passage page${stimulusGroup.page_images.length === 1 ? "" : "s"}`
+      : "passage image missing",
+    selectedCount ? `${selectedCount} selected` : "",
+  ]
+    .filter(Boolean)
+    .forEach((value) => {
+      const pill = document.createElement("span");
+      pill.className = "meta-pill";
+      pill.textContent = value;
+      meta.append(pill);
+    });
+  copy.append(meta);
+
+  const actions = document.createElement("div");
+  actions.className = "stimulus-bundle-actions";
+
+  const toggleBundleButton = document.createElement("button");
+  toggleBundleButton.type = "button";
+  toggleBundleButton.className = "tiny-button";
+  if (selectedCount === bundle.items.length) {
+    toggleBundleButton.textContent = "Remove Passage Questions";
+    toggleBundleButton.addEventListener("click", () => {
+      removeItemsFromSelection(bundle.items.map((item) => item.id));
+    });
+  } else if (selectedCount > 0) {
+    toggleBundleButton.textContent = `Add ${bundle.items.length - selectedCount} Remaining Questions`;
+    toggleBundleButton.addEventListener("click", () => {
+      addItemsToSelection(bundle.items.filter((item) => !state.selectedIds.includes(item.id)));
+    });
+  } else {
+    toggleBundleButton.textContent = `Add All ${bundle.items.length} Questions`;
+    toggleBundleButton.addEventListener("click", () => {
+      addItemsToSelection(bundle.items);
+    });
+  }
+  actions.append(toggleBundleButton);
+
+  header.append(copy, actions);
+  article.append(header);
+
+  if (stimulusGroup?.page_images?.length) {
+    const gallery = document.createElement("div");
+    gallery.className = "stimulus-bundle-gallery";
+
+    stimulusGroup.page_images.forEach((imagePath, index) => {
+      const image = document.createElement("img");
+      image.className = "stimulus-bundle-image";
+      image.src = resolveCollectionAssetPath(imagePath, collection);
+      image.alt = `${title.textContent} page ${index + 1}`;
+      image.loading = "lazy";
+      gallery.append(image);
+    });
+
+    article.append(gallery);
+  } else {
+    const warning = document.createElement("div");
+    warning.className = "stimulus-bundle-warning";
+    warning.textContent =
+      "Passage image is missing in this catalog. Keep these questions out of student packets until the source passage is recovered.";
+    article.append(warning);
+  }
+
+  const questionList = document.createElement("div");
+  questionList.className = "stimulus-question-list";
+  bundle.items.forEach((item) => {
+    const card = renderCard(item, { hideStimulusMeta: true });
+    card.classList.add("stimulus-question-card");
+    questionList.append(card);
+  });
+  article.append(questionList);
+
+  return article;
 }
 
 function renderResults(filteredItems) {
@@ -1151,6 +1367,13 @@ function renderResults(filteredItems) {
     empty.className = "empty-state";
     empty.textContent = "No problems match the current filters.";
     elements.results.append(empty);
+    return;
+  }
+
+  if (shouldRenderStimulusBundles(collection)) {
+    buildStimulusBundles(filteredItems).forEach((bundle) => {
+      elements.results.append(renderStimulusBundle(bundle));
+    });
     return;
   }
 
@@ -1172,10 +1395,16 @@ function renderBuilder() {
   elements.studentPrintFormat.value = getStudentPrintFormat();
   const collectionReady = collection?.status === "ready";
   const exportLocked = Boolean(state.pdfExportMode);
-  elements.printTest.disabled = selectedItems.length === 0 || !collectionReady || exportLocked;
-  elements.printAnswerKey.disabled = selectedItems.length === 0 || !collectionReady || exportLocked;
-  elements.downloadTestPdf.disabled = selectedItems.length === 0 || !collectionReady || exportLocked;
-  elements.downloadAnswerKeyPdf.disabled = selectedItems.length === 0 || !collectionReady || exportLocked;
+  const printLocked = Boolean(state.printPreparingMode);
+  const outputLocked = exportLocked || printLocked;
+  elements.printTest.disabled = selectedItems.length === 0 || !collectionReady || outputLocked;
+  elements.printAnswerKey.disabled = selectedItems.length === 0 || !collectionReady || outputLocked;
+  elements.downloadTestPdf.disabled = selectedItems.length === 0 || !collectionReady || outputLocked;
+  elements.downloadAnswerKeyPdf.disabled = selectedItems.length === 0 || !collectionReady || outputLocked;
+  elements.printTest.textContent =
+    state.printPreparingMode === "student" ? "Preparing Student Print..." : "Print Student Test";
+  elements.printAnswerKey.textContent =
+    state.printPreparingMode === "answer-key" ? "Preparing Answer Key Print..." : "Print Answer Key";
   elements.downloadTestPdf.textContent =
     state.pdfExportMode === "student" ? "Preparing Student PDF..." : "Download Student PDF";
   elements.downloadAnswerKeyPdf.textContent =
@@ -1318,7 +1547,7 @@ function buildStudentQuestionImageMarkup(item, questionNumber, collection) {
       </div>
       <img class="print-question-image" src="${escapeHtml(
         resolveCollectionAssetPath(item.source.question_image, collection)
-      )}" alt="Question ${questionNumber}" />
+      )}" alt="Question ${questionNumber}" loading="eager" decoding="sync" fetchpriority="high" />
     </section>
   `;
 }
@@ -1437,19 +1666,32 @@ function buildStudentPrintMarkup(selectedItems) {
                   <div class="print-stimulus-title">${escapeHtml(chunk.stimulusGroup.label)}</div>
                   <div class="print-stimulus-note">Questions ${startNumber}-${endNumber} use this passage set.</div>
                 </div>
-                <div class="print-stimulus-gallery">
-                  ${(chunk.stimulusGroup.page_images || [])
-                    .map(
-                      (imagePath, imageIndex) => `
-                        <img
-                          class="print-stimulus-image"
-                          src="${escapeHtml(resolveCollectionAssetPath(imagePath, collection))}"
-                          alt="${escapeHtml(chunk.stimulusGroup.label)} page ${imageIndex + 1}"
-                        />
-                      `
-                    )
-                    .join("")}
-                </div>
+                ${
+                  chunk.stimulusGroup.page_images?.length
+                    ? `
+                      <div class="print-stimulus-gallery">
+                        ${(chunk.stimulusGroup.page_images || [])
+                          .map(
+                            (imagePath, imageIndex) => `
+                              <img
+                                class="print-stimulus-image"
+                                src="${escapeHtml(resolveCollectionAssetPath(imagePath, collection))}"
+                                alt="${escapeHtml(chunk.stimulusGroup.label)} page ${imageIndex + 1}"
+                                loading="eager"
+                                decoding="sync"
+                                fetchpriority="high"
+                              />
+                            `
+                          )
+                          .join("")}
+                      </div>
+                    `
+                    : `
+                      <div class="print-stimulus-missing">
+                        Passage image missing for ${escapeHtml(chunk.stimulusGroup.label)}. Do not use this packet until the source passage is restored.
+                      </div>
+                    `
+                }
               </section>
             `
             : "";
@@ -1523,8 +1765,13 @@ function mountPrintWorkspace(mode, selectedItems, options = {}) {
   document.body.classList.toggle("is-printing-student", mode === "student");
   document.body.classList.toggle("is-printing-answer-key", mode === "answer-key");
 
-  if (options.exportingPdf) {
-    elements.printWorkspace.dataset.exporting = "true";
+  if (options.exportingPdf || options.preparingPrint) {
+    if (options.exportingPdf) {
+      elements.printWorkspace.dataset.exporting = "true";
+    }
+    if (options.preparingPrint) {
+      elements.printWorkspace.dataset.preparingPrint = "true";
+    }
     Object.assign(elements.printWorkspace.style, {
       display: "block",
       position: "fixed",
@@ -1552,7 +1799,7 @@ function buildPdfFilename(mode) {
 }
 
 function waitForImageLoad(image) {
-  return new Promise((resolve) => {
+  const waitForEvent = new Promise((resolve) => {
     if (image.complete) {
       resolve();
       return;
@@ -1561,14 +1808,34 @@ function waitForImageLoad(image) {
     image.addEventListener("load", finish, { once: true });
     image.addEventListener("error", finish, { once: true });
   });
+
+  const waitForDecode =
+    typeof image.decode === "function"
+      ? image.decode().catch(() => {})
+      : Promise.resolve();
+
+  const timeout = new Promise((resolve) => {
+    window.setTimeout(resolve, 10000);
+  });
+
+  return Promise.race([Promise.all([waitForEvent, waitForDecode]), timeout]);
 }
 
 async function waitForPrintableContent(container) {
   const images = [...container.querySelectorAll("img")];
   await Promise.all(images.map(waitForImageLoad));
+  if (document.fonts?.ready) {
+    try {
+      await document.fonts.ready;
+    } catch (error) {
+      // Font readiness should not block printing forever.
+    }
+  }
   await new Promise((resolve) => {
     window.requestAnimationFrame(() => {
-      window.requestAnimationFrame(resolve);
+      window.requestAnimationFrame(() => {
+        window.setTimeout(resolve, 120);
+      });
     });
   });
 }
@@ -1577,23 +1844,46 @@ function cleanupPrintWorkspace() {
   elements.printWorkspace.innerHTML = "";
   elements.printWorkspace.setAttribute("aria-hidden", "true");
   elements.printWorkspace.removeAttribute("data-exporting");
+  elements.printWorkspace.removeAttribute("data-preparing-print");
   elements.printWorkspace.removeAttribute("style");
   document.body.classList.remove("is-printing-student", "is-printing-answer-key");
   state.printMode = "";
 }
 
-function preparePrint(mode) {
+function releasePrintWorkspaceForPrint() {
+  elements.printWorkspace.removeAttribute("data-preparing-print");
+  elements.printWorkspace.removeAttribute("style");
+}
+
+async function preparePrint(mode) {
   const selectedItems = getSelectedItems();
   if (!selectedItems.length) {
     window.alert("Select at least one problem before printing.");
     return;
   }
+  if (state.pdfExportMode || state.printPreparingMode) {
+    return;
+  }
 
-  mountPrintWorkspace(mode, selectedItems);
+  state.printPreparingMode = mode;
+  renderBuilder();
 
-  window.requestAnimationFrame(() => {
+  try {
+    mountPrintWorkspace(mode, selectedItems, { preparingPrint: true });
+    await waitForPrintableContent(elements.printWorkspace);
+    releasePrintWorkspaceForPrint();
+    await new Promise((resolve) => {
+      window.requestAnimationFrame(() => {
+        window.requestAnimationFrame(resolve);
+      });
+    });
     window.print();
-  });
+  } catch (error) {
+    cleanupPrintWorkspace();
+    state.printPreparingMode = "";
+    renderBuilder();
+    window.alert(`Unable to prepare print preview. ${error.message || "Please try again."}`);
+  }
 }
 
 async function downloadPdf(mode) {

@@ -238,9 +238,14 @@
 
         <section class="selection-action-bar" aria-live="polite">
           <div id="selection-action-copy" class="selection-action-copy">Choose filters to build a question selection.</div>
-          <button id="add-selection" class="primary-button selection-action-button" type="button">
-            Add All Questions From Selection
-          </button>
+          <div class="selection-action-buttons">
+            <button id="add-selection" class="primary-button selection-action-button" type="button">
+              Add All Questions From Selection
+            </button>
+            <button id="remove-selection" class="primary-button selection-action-button selection-action-button-secondary" type="button">
+              Remove Matching Questions
+            </button>
+          </div>
         </section>
 
         <section id="results" class="results-grid" aria-live="polite"></section>

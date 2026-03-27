@@ -4449,8 +4449,8 @@
         "notes": null
       },
       "stimulus": {
-        "group_id": "g3_elar_2021_passage-2_p33",
-        "label": "Passage #2",
+        "group_id": "g3_elar_2019_passage-1_external",
+        "label": "Passage #1",
         "page_count": 1
       }
     },
@@ -4540,8 +4540,8 @@
         "notes": null
       },
       "stimulus": {
-        "group_id": "g3_elar_2021_passage-2_p33",
-        "label": "Passage #2",
+        "group_id": "g3_elar_2019_passage-1_external",
+        "label": "Passage #1",
         "page_count": 1
       }
     },
@@ -4631,8 +4631,8 @@
         "notes": null
       },
       "stimulus": {
-        "group_id": "g3_elar_2021_passage-2_p33",
-        "label": "Passage #2",
+        "group_id": "g3_elar_2019_passage-1_external",
+        "label": "Passage #1",
         "page_count": 1
       }
     },
@@ -4724,8 +4724,8 @@
         "notes": null
       },
       "stimulus": {
-        "group_id": "g3_elar_2021_passage-2_p33",
-        "label": "Passage #2",
+        "group_id": "g3_elar_2019_passage-1_external",
+        "label": "Passage #1",
         "page_count": 1
       }
     },
@@ -4815,8 +4815,8 @@
         "notes": null
       },
       "stimulus": {
-        "group_id": "g3_elar_2021_passage-2_p33",
-        "label": "Passage #2",
+        "group_id": "g3_elar_2019_passage-1_external",
+        "label": "Passage #1",
         "page_count": 1
       }
     },
@@ -4906,8 +4906,8 @@
         "notes": null
       },
       "stimulus": {
-        "group_id": "g3_elar_2021_passage-2_p33",
-        "label": "Passage #2",
+        "group_id": "g3_elar_2019_passage-1_external",
+        "label": "Passage #1",
         "page_count": 1
       }
     },
@@ -4999,8 +4999,8 @@
         "notes": null
       },
       "stimulus": {
-        "group_id": "g3_elar_2021_passage-2_p33",
-        "label": "Passage #2",
+        "group_id": "g3_elar_2019_passage-1_external",
+        "label": "Passage #1",
         "page_count": 1
       }
     },
@@ -5090,8 +5090,8 @@
         "notes": null
       },
       "stimulus": {
-        "group_id": "g3_elar_2021_passage-2_p33",
-        "label": "Passage #2",
+        "group_id": "g3_elar_2019_passage-1_external",
+        "label": "Passage #1",
         "page_count": 1
       }
     },
@@ -5183,8 +5183,8 @@
         "notes": null
       },
       "stimulus": {
-        "group_id": "g3_elar_2021_passage-2_p33",
-        "label": "Passage #2",
+        "group_id": "g3_elar_2019_passage-1_external",
+        "label": "Passage #1",
         "page_count": 1
       }
     },
@@ -39825,6 +39825,27 @@
       ]
     },
     {
+      "id": "g3_elar_2019_passage-1_external",
+      "label": "Passage #1",
+      "year": 2019,
+      "page_count": 1,
+      "page_numbers": [],
+      "page_images": [
+        "collections/grade-3/elar/images/stimuli/g3_elar_2019_passage-1_external_stimulus_1.png"
+      ],
+      "question_ids": [
+        "g3_elar_3.10D_2019_q1",
+        "g3_elar_3.3D_2019_q4",
+        "g3_elar_3.6F_2019_q5",
+        "g3_elar_3.6F_2019_q6",
+        "g3_elar_3.8B_2019_q3",
+        "g3_elar_3.8B_2019_q7",
+        "g3_elar_3.8B_2019_q8",
+        "g3_elar_3.8C_2019_q2",
+        "g3_elar_3.8C_2019_q9"
+      ]
+    },
+    {
       "id": "g3_elar_2017_passage-3_p242",
       "label": "Passage #3",
       "year": 2017,
@@ -40223,5 +40244,5 @@
       ]
     }
   ],
-  "stimulus_group_count": 68
+  "stimulus_group_count": 69
 }
