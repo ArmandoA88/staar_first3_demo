@@ -1,0 +1,35 @@
+{
+  "stem": "Antarctica is a good place to search for meteorites because \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "natural events in Antarctica make it possible for meteorites to be noticed easily"
+    },
+    {
+      "label": "B",
+      "text": "the weather conditions in Antarctica keep people from visiting the area"
+    },
+    {
+      "label": "C",
+      "text": "meteorites land in Antarctica more often than in other areas"
+    },
+    {
+      "label": "D",
+      "text": "a robot can easily travel on the ice-covered land in Antarctica"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q43 Passage #5",
+    "43 Antarctica is a good place to search for meteorites because \u2014",
+    "A natural events in Antarctica make it possible for meteorites to be noticed easily",
+    "B the weather conditions in Antarctica keep people from visiting the area",
+    "C meteorites land in Antarctica more often than in other areas",
+    "D a robot can easily travel on the ice-covered land in Antarctica"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

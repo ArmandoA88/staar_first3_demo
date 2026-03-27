@@ -1,0 +1,32 @@
+{
+  "stem": "What is the value of \\( \\frac{8}{18} \\div \\frac{6}{12} \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{2}{9} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{9}{8} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{9}{2} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{8}{9} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction 8 over 18",
+    "fraction 6 over 12",
+    "division sign"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

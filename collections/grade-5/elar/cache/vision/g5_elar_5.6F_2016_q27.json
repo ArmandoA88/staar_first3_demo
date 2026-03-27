@@ -1,0 +1,28 @@
+{
+  "stem": "This poem is written from the point of view of a \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "mouse"
+    },
+    {
+      "label": "B",
+      "text": "baby bird"
+    },
+    {
+      "label": "C",
+      "text": "mother bird"
+    },
+    {
+      "label": "D",
+      "text": "cricket"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Students conduct an investigation to determine how water changes state when it is heated and cooled. They complete the steps shown in the table.\n\nStep 1: Place the beaker of ice cubes outside on a 25 \u00baC, sunny day for 2 hours. Observation: The ice cubes disappear, and only liquid water is present in the beaker.\n\nStep 2: Bring the beaker of water into an air-conditioned room for 10 minutes. Observation: Water droplets form on the outside of the beaker.\n\nStep 3: Heat the beaker of water on a hot plate at 100 \u00baC for 10 minutes. Observation: ?",
+  "instruction": "Which observation will the students MOST LIKELY make in Step 3?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Water vapor forms from outside of the beaker, and the amount of water in the beaker decreases."
+    },
+    {
+      "label": "B",
+      "text": "The water in the beaker begins to form a layer of ice on top."
+    },
+    {
+      "label": "C",
+      "text": "The water in the beaker begins bubbling, and the amount of water decreases."
+    },
+    {
+      "label": "D",
+      "text": "Water droplets begin to form on the inside of the beaker."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with three steps describing temperature conditions and observations of water state changes"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

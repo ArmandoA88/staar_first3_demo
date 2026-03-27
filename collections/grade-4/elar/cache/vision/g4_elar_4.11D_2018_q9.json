@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, is needed in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change served to serve"
+    },
+    {
+      "label": "B",
+      "text": "Change called to they are called"
+    },
+    {
+      "label": "C",
+      "text": "Change the period to a comma"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed in sentence 5."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

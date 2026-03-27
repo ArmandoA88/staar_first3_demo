@@ -1,0 +1,30 @@
+{
+  "stem": "Scott drank 3.5 bottles of water yesterday. Each bottle contained 1.2 pints of water. What was the number of pints of water Scott drank yesterday?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4.7 pints"
+    },
+    {
+      "label": "B",
+      "text": "4.2 pints"
+    },
+    {
+      "label": "C",
+      "text": "4.1 pints"
+    },
+    {
+      "label": "D",
+      "text": "42 pints"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

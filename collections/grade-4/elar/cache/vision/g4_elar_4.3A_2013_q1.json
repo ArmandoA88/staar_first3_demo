@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition of stand is used in paragraph 6?",
+  "instruction": "Read this dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "stand \\\u02c8stand\\ noun\n1. a frame that is used to hold something upright\n2. a small structure from which products are sold\n3. a raised platform from which a person makes a speech\n4. the place where a witness presents information in a courtroom"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

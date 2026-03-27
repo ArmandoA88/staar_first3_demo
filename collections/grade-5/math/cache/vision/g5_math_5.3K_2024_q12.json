@@ -1,0 +1,13 @@
+{
+  "stem": "The table shows how many miles Easton rode his bike last week.\n\nDistance Biked\n\n| Day       | Number of Miles |\n|-----------|-----------------|\n| Monday    | \\( \\frac{1}{4} \\)           |\n| Wednesday | 0.75            |\n| Friday    | \\( \\frac{5}{8} \\)           |\n\nHow many total miles did Easton ride his bike last week?",
+  "instruction": "Enter your answer in the space provided.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing days Monday, Wednesday, Friday with distances 1/4, 0.75, 5/8 miles"
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 1,
+  "notes": null
+}

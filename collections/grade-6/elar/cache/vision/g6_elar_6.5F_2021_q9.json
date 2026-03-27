@@ -1,0 +1,28 @@
+{
+  "stem": "What is the underlying cause of Owner and Dog's disagreement?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Owner wishes Dog would stop interrupting his naps."
+    },
+    {
+      "label": "B",
+      "text": "Owner is angry about Dog destroying his books."
+    },
+    {
+      "label": "C",
+      "text": "Dog feels that Owner has stopped meeting his needs."
+    },
+    {
+      "label": "D",
+      "text": "Dog wants praise for being loyal to Owner."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

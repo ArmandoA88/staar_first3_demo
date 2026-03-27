@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made to sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change their to there"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after hotel"
+    },
+    {
+      "label": "C",
+      "text": "Change shaped to shape"
+    },
+    {
+      "label": "D",
+      "text": "Change bird's to birds"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text including question and answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

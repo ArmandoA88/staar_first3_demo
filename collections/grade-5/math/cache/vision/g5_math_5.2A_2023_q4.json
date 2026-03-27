@@ -1,0 +1,32 @@
+{
+  "stem": "Three expressions are shown.\n\n\u2022 (7 \\times 10)\n\n\u2022 (3 \\times 0.1)\n\n\u2022 (9 \\times 0.001)\n\nIn which number do the digits 7, 3, and 9 have the same values as those shown in the expressions?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "715.349"
+    },
+    {
+      "label": "B",
+      "text": "78.039"
+    },
+    {
+      "label": "C",
+      "text": "275.369"
+    },
+    {
+      "label": "D",
+      "text": "72.39"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(7 \\times 10)",
+    "(3 \\times 0.1)",
+    "(9 \\times 0.001)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

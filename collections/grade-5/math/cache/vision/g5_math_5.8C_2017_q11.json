@@ -1,0 +1,30 @@
+{
+  "stem": "Thomas planted a seed and measured the height of the stem each week for four weeks.\n\n\u2022 The stem grew 1 inch in the first week.\n\u2022 The stem grew 2 inches each week after the first week.\n\nWhich graph represents the growth of this plant?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with points at (1,1), (2,3), (3,5), (4,7)"
+    },
+    {
+      "label": "B",
+      "text": "Graph with points at (1,2), (2,4), (3,6), (4,8)"
+    },
+    {
+      "label": "C",
+      "text": "Graph with points at (1,2), (2,3), (3,4), (4,5)"
+    },
+    {
+      "label": "D",
+      "text": "Graph with points at (1,1), (3,2), (5,3), (7,4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, and D each titled 'Plant Growth' with x-axis labeled 'Week' from 0 to 8 and y-axis labeled 'Growth (in.)' from 0 to 8 showing respective points."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

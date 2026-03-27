@@ -1,0 +1,34 @@
+{
+  "stem": "Based on the student\u2019s observations in the table, how many of the substances did NOT dissolve in the water?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "1 substance"
+    },
+    {
+      "label": "G",
+      "text": "2 substances"
+    },
+    {
+      "label": "H",
+      "text": "3 substances"
+    },
+    {
+      "label": "J",
+      "text": "4 substances"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns: Substance, Appearance, Observations When Stirring, Observations After Stirring Stopped.",
+    "Iron filings, Silvery gray, Particles swirling around, Particles settled to bottom of beaker.",
+    "Papain, White powder, Cloudy changing to clear, Clear; no visible particles.",
+    "Talcum powder, White powder, Floating on surface in clumps, Collected on beaker walls above liquid.",
+    "Vegetable oil, Yellow liquid, Oil in clumps moving around, Formed a layer on top of water."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

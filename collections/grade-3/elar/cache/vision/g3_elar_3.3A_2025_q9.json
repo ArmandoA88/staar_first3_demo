@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the way the word manage is used in paragraph 5?",
+  "instruction": "Read the dictionary entry for the word manage.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "manage \\\u02c8ma-nij\\ verb 1. to look after something 2. to give someone direction 3. to make someone listen 4. to try to change something"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

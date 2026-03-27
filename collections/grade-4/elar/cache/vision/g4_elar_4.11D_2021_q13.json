@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He wanted to bring other Russian artists to the area to create works of art."
+    },
+    {
+      "label": "B",
+      "text": "He wanted to bring other Russian artists to the area. To create works of art."
+    },
+    {
+      "label": "C",
+      "text": "He wanted to bring other Russian artists to the area they could create works of art."
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in sentence 21."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

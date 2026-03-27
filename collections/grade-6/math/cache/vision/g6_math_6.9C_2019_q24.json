@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation could be represented by the equation 10.75 = 5.5n?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Ricardo ran 5.5 miles.\nHe ran each mile in 10.75 minutes.\nWhat is n, the total number of minutes it took Ricardo to run 5.5 miles?"
+    },
+    {
+      "label": "G",
+      "text": "Ricardo ran a total of 10.75 miles on Monday.\nHe ran 5.5 miles in the morning and the rest of the miles in the evening.\nWhat is n, the number of miles Ricardo ran in the evening?"
+    },
+    {
+      "label": "H",
+      "text": "Ricardo ran a total of 10.75 miles.\nHe ran 5.5 miles each hour.\nWhat is n, the number of hours Ricardo ran?"
+    },
+    {
+      "label": "J",
+      "text": "Ricardo ran 10.75 hours one week and 5.5 hours the next week.\nWhat is n, the total number of hours Ricardo ran during these weeks?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: 10.75 = 5.5n"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

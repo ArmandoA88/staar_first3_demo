@@ -1,0 +1,30 @@
+{
+  "stem": "What is one difference between the selections?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The article describes how stage fright feels, but the poem does not."
+    },
+    {
+      "label": "G",
+      "text": "The article provides a scientific explanation for stage fright, but the poem does not."
+    },
+    {
+      "label": "H",
+      "text": "The poem indicates that a person can overcome stage fright, but the article does not."
+    },
+    {
+      "label": "J",
+      "text": "The poem gives an example of a person with stage fright, but the article does not."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

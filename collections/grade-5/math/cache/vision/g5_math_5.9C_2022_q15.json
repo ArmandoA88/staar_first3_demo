@@ -1,0 +1,30 @@
+{
+  "stem": "The frequency table shows the numbers of visitors in different age ranges who visited a children's museum on Saturday. What is the difference between the number of visitors who were younger than 20 and the number of visitors who were 20 and older?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "75"
+    },
+    {
+      "label": "B",
+      "text": "52"
+    },
+    {
+      "label": "C",
+      "text": "18"
+    },
+    {
+      "label": "D",
+      "text": "23"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Children's Museum Visitors frequency table with age ranges 0\u20134, 5\u20139, 10\u201314, 15\u201319, 20\u201324, 25\u201329, 30\u201334, 35\u201340 and number of visitors shown as tally marks."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

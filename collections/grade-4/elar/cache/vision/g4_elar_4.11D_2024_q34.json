@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *quickly* to *quick*"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after *recipe*"
+    },
+    {
+      "label": "C",
+      "text": "Change *asked* to *ask*"
+    },
+    {
+      "label": "D",
+      "text": "Change *tuesday* to *Tuesday*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

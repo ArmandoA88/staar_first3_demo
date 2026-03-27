@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the population of three Texas counties. The population of Gray County is missing.\n\nThe population of Gray County is 35,553 less than the population of Anderson County. What is the combined population of these four counties?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "2,694,709"
+    },
+    {
+      "label": "G",
+      "text": "2,707,507"
+    },
+    {
+      "label": "H",
+      "text": "2,695,209"
+    },
+    {
+      "label": "J",
+      "text": "2,765,815"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with headers County and Population listing Anderson 58,308; Dallas 2,416,014; Brazos 197,632; Gray (blank)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

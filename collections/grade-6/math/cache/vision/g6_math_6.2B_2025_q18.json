@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of the expression shown?\n\n|6.28|",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-62.8"
+    },
+    {
+      "label": "B",
+      "text": "-6.28"
+    },
+    {
+      "label": "C",
+      "text": "6.28"
+    },
+    {
+      "label": "D",
+      "text": "62.8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "|6.28|"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

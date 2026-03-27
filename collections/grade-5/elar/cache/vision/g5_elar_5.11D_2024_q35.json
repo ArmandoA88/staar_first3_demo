@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change was to being"
+    },
+    {
+      "label": "B",
+      "text": "Change in to for"
+    },
+    {
+      "label": "C",
+      "text": "Change todays' to today's"
+    },
+    {
+      "label": "D",
+      "text": "Change money to monney"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 5?",
+    "A Change was to being",
+    "B Change in to for",
+    "C Change todays' to today's",
+    "D Change money to monney"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

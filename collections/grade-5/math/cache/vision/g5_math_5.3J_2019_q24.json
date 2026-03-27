@@ -1,0 +1,30 @@
+{
+  "stem": "The model is shaded to represent the remaining one-half of a cake. Three friends will each receive an equal amount of the remaining cake until it is all gone.\n\nWhich equation can be used to determine the fraction of the whole cake each friend will receive?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\(\\frac{1}{2} \\times 3 = \\frac{3}{2}\\)"
+    },
+    {
+      "label": "G",
+      "text": "\\(\\frac{1}{2} \\times 6 = \\frac{6}{2}\\)"
+    },
+    {
+      "label": "H",
+      "text": "\\(\\frac{1}{2} \\div 3 = \\frac{1}{6}\\)"
+    },
+    {
+      "label": "J",
+      "text": "\\(\\frac{1}{2} \\div 6 = \\frac{1}{12}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cake model with 6 segments, bottom 3 shaded to represent one-half"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

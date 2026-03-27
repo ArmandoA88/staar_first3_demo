@@ -1,0 +1,30 @@
+{
+  "stem": "What is the difference between the number of students who did more than 36 sit-ups and the number of students who did fewer than 25 sit-ups?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "11"
+    },
+    {
+      "label": "G",
+      "text": "6"
+    },
+    {
+      "label": "H",
+      "text": "18"
+    },
+    {
+      "label": "J",
+      "text": "1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Stem and leaf plot with stems 0-9 and leaves as 9, 3 7 9, 0 3 6, 1 2 5 5 7, 4 6 7 7, 0 3, 2 2, 6, , 0 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

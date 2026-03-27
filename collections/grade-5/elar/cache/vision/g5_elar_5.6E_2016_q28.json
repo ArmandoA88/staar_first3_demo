@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best describes a difference between the article and the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The article consists of factual information, while the poem allows for a deeper understanding of an animal's experience."
+    },
+    {
+      "label": "G",
+      "text": "The article describes the appearance of the cholla cactus, while the poem describes its growth patterns."
+    },
+    {
+      "label": "H",
+      "text": "The article discusses the usefulness of the cholla cactus, while the poem does not."
+    },
+    {
+      "label": "J",
+      "text": "The article describes an animal's daily activities, while the poem does not."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

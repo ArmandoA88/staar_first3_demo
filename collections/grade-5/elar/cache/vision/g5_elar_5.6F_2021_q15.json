@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the paragraph, what can the reader infer about Desha?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She is annoyed that James found her."
+    },
+    {
+      "label": "B",
+      "text": "She is ashamed to admit that she is glad James found her."
+    },
+    {
+      "label": "C",
+      "text": "She is impressed that James knew where to find her."
+    },
+    {
+      "label": "D",
+      "text": "She is surprised that anyone was interested in finding her."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\u201cDon\u2019t you have a basketball game to watch?\u201d I complained. So much for my perfect hideaway."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

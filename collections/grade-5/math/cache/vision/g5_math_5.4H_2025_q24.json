@@ -1,0 +1,28 @@
+{
+  "stem": "A square has a perimeter of 36 inches.\n\nWhat is the area of the square in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "9 square inches"
+    },
+    {
+      "label": "B",
+      "text": "72 square inches"
+    },
+    {
+      "label": "C",
+      "text": "18 square inches"
+    },
+    {
+      "label": "D",
+      "text": "81 square inches"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

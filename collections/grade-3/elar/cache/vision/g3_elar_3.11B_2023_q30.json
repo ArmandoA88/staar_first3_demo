@@ -1,0 +1,34 @@
+{
+  "stem": "Which sentence would BEST follow and support sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Recess was usually held outside in the winter."
+    },
+    {
+      "label": "B",
+      "text": "It was still really early in the school year."
+    },
+    {
+      "label": "C",
+      "text": "Learning had always been important to Mr. Walker."
+    },
+    {
+      "label": "D",
+      "text": "They simply were not used to this new schedule."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Which sentence would BEST follow and support sentence 12?",
+    "A Recess was usually held outside in the winter.",
+    "B It was still really early in the school year.",
+    "C Learning had always been important to Mr. Walker.",
+    "D They simply were not used to this new schedule."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

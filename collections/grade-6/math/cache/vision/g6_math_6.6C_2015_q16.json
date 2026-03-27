@@ -1,0 +1,30 @@
+{
+  "stem": "A firefighter uses equipment that weighs 60 pounds. The firefighter weighs x pounds. Which equation can be used to find t, the total weight of both the firefighter and his equipment in pounds?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "t = 60x"
+    },
+    {
+      "label": "B",
+      "text": "t = x + 60"
+    },
+    {
+      "label": "C",
+      "text": "t = 60 - x"
+    },
+    {
+      "label": "D",
+      "text": "t = x - 60"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

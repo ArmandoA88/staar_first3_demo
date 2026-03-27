@@ -1,0 +1,30 @@
+{
+  "stem": "Look at the dictionary entry below.\n\nmeasure \\\u02c8me-zher\\ n\n1. an acceptable amount 2. a standard used for comparison 3. an action intended to achieve a result 4. a size, capacity, or weight of an object\n\nWhich definition of the word measures is used in paragraph 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dictionary entry box containing the word measure, pronunciation, part of speech, and four definitions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

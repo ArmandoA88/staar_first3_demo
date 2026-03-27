@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change took to had took"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after vacation"
+    },
+    {
+      "label": "C",
+      "text": "Change city to City"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

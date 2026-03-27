@@ -1,0 +1,34 @@
+{
+  "stem": "Which comparisons are true?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "35.07 > 35.70"
+    },
+    {
+      "label": null,
+      "text": "102.08 > 102.4"
+    },
+    {
+      "label": null,
+      "text": "23.501 > 23.5"
+    },
+    {
+      "label": null,
+      "text": "10.909 > 10.98"
+    },
+    {
+      "label": null,
+      "text": "37.2 > 37.01"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "checkbox"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

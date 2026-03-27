@@ -1,0 +1,30 @@
+{
+  "stem": "Select the correct verb for sentence 4.\n\nLoop the loops and figure eights _____ her favorites.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "is"
+    },
+    {
+      "label": "B",
+      "text": "are"
+    },
+    {
+      "label": "C",
+      "text": "was"
+    },
+    {
+      "label": "D",
+      "text": "were"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dropdown"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

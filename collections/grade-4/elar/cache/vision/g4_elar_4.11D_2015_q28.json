@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 34?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "I would try my hardest to gather plenty of food because I wanted to become the very best worker ant. That our colony has ever had!"
+    },
+    {
+      "label": "G",
+      "text": "I would try my hardest to gather plenty of food because I wanted to become. The very best worker ant our colony has ever had!"
+    },
+    {
+      "label": "H",
+      "text": "I would try my hardest to gather plenty of food. Wanting to become the very best worker ant our colony has ever had!"
+    },
+    {
+      "label": "J",
+      "text": "I would try my hardest to gather plenty of food. I wanted to become the very best worker ant our colony has ever had!"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q28 Passage #5"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Liam has made an error in sentence 7. Select the response that corrects this error.\n\nThe cage has to be cleaned once a [dropdown] and I could take turns doing that job.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "week"
+    },
+    {
+      "label": null,
+      "text": "weeks"
+    },
+    {
+      "label": null,
+      "text": "week's"
+    },
+    {
+      "label": null,
+      "text": "weekes"
+    }
+  ],
+  "choice_pool": [
+    "week",
+    "weeks",
+    "week's",
+    "weekes"
+  ],
+  "response_template": "The cage has to be cleaned once a [blank_1] and I could take turns doing that job.",
+  "visual_elements": [],
+  "item_type_inferred": "inline choice",
+  "confidence": 1,
+  "notes": null
+}

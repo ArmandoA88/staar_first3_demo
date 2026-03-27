@@ -1,0 +1,30 @@
+{
+  "stem": "Which model represents \\( \\frac{3}{5} \\) of 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "[\u25a0\u25a0\u25a0\u25a1\u25a1\u25a1\u25a1\u25a1\u25a1\u25a1] (15 total boxes, 3 shaded)"
+    },
+    {
+      "label": "G",
+      "text": "[\u25a0\u25a0\u25a0\u25a1\u25a1] (5 total boxes, 3 shaded)"
+    },
+    {
+      "label": "H",
+      "text": "[\u25a0\u25a0\u25a0] [\u25a1\u25a1\u25a1] [\u25a1\u25a1\u25a1] [\u25a1\u25a1\u25a1] [\u25a1\u25a1\u25a1] (5 groups of 3 boxes, only first group shaded 3 boxes)"
+    },
+    {
+      "label": "J",
+      "text": "[\u25a0\u25a0\u25a0] [\u25a0\u25a0\u25a0] [\u25a0\u25a0\u25a0] [\u25a1\u25a1\u25a1] [\u25a1\u25a1\u25a1] (5 groups of 3 boxes, 3 groups shaded)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Models with shaded and unshaded boxes representing fractions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Labels and representations preserved exactly; shaded boxes counted to identify fraction model."
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-4-math",
+  "label": "Grade 4 Math",
+  "grade": 4,
+  "subject": "Math",
+  "status": "source_only",
+  "root": "collections/grade-4/math",
+  "source_pdf": "collections/grade-4/math/source/4thmath.pdf",
+  "catalog": null,
+  "reports": {},
+  "images_dir": "collections/grade-4/math/images/extracted",
+  "stimulus_images_dir": "collections/grade-4/math/images/stimuli",
+  "vision_cache_dir": "collections/grade-4/math/cache/vision"
+}

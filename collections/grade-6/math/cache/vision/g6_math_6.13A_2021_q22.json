@@ -1,0 +1,30 @@
+{
+  "stem": "The box plot summarizes the finishing times for the runners in a race.\n\nWhich statement is best supported by the data in the box plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Approximately 50% of the finishing times were less than 25 minutes."
+    },
+    {
+      "label": "G",
+      "text": "Approximately \\( \\frac{1}{4} \\) of the finishing times were greater than 28 minutes."
+    },
+    {
+      "label": "H",
+      "text": "Approximately 25% of the finishing times were in the interval 20\u201322 minutes."
+    },
+    {
+      "label": "J",
+      "text": "Approximately \\( \\frac{3}{4} \\) of the finishing times were in the interval 15\u201330 minutes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plot with scale from 14 to 32, minimum near 16, Q1 near 20, median near 22, Q3 near 25, maximum near 30"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

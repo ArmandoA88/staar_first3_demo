@@ -1,0 +1,30 @@
+{
+  "stem": "In paragraph 2, the word treacherous means \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "quick"
+    },
+    {
+      "label": "G",
+      "text": "unexpected"
+    },
+    {
+      "label": "H",
+      "text": "dangerous"
+    },
+    {
+      "label": "J",
+      "text": "questionable"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: 22 In paragraph 2, the word treacherous means \u2014 F quick G unexpected H dangerous J questionable"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

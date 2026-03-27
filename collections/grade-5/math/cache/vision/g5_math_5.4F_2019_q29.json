@@ -1,0 +1,30 @@
+{
+  "stem": "Nakita bought items at a grocery store.\n\n\u2022 She bought 2 boxes of crackers for $3.50 each.\n\u2022 She used a coupon for $0.80 off the price of each box of crackers.\n\u2022 She bought a jar of peanut butter for $4.85.\n\u2022 She bought a package of juice boxes for $2.40.\n\u2022 She used a coupon for $3.00 off the total price of the items she bought.\n\nThis expression can be used to determine the price of the items Nakita bought.\n\n\\[2(3.50 - 0.80) + 4.85 + 2.40\\] - 3.00\n\nWhat is the price of the items Nakita bought?",
+  "instruction": "What is the price of the items Nakita bought?",
+  "options": [
+    {
+      "label": "A",
+      "text": "$6.95"
+    },
+    {
+      "label": "B",
+      "text": "$10.45"
+    },
+    {
+      "label": "C",
+      "text": "$9.65"
+    },
+    {
+      "label": "D",
+      "text": "$12.65"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2(3.50 - 0.80) + 4.85 + 2.40 - 3.00"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

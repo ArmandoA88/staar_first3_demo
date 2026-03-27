@@ -1,0 +1,30 @@
+{
+  "stem": "With which statement would the author most likely agree?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Millan has a special talent for dealing with all kinds of dogs."
+    },
+    {
+      "label": "B",
+      "text": "Millan understands that some dogs are too difficult to train."
+    },
+    {
+      "label": "C",
+      "text": "Millan is disappointed that he was not able to train dogs for the movies."
+    },
+    {
+      "label": "D",
+      "text": "Millan wants to give all people the chance to own a dog of their own."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

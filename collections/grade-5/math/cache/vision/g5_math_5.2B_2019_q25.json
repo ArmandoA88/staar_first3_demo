@@ -1,0 +1,30 @@
+{
+  "stem": "Which inequality is NOT true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "65.7 < 67.54"
+    },
+    {
+      "label": "B",
+      "text": "4.003 > 4.03"
+    },
+    {
+      "label": "C",
+      "text": "26.4 < 26.48"
+    },
+    {
+      "label": "D",
+      "text": "0.91 > 0.097"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "inequalities"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

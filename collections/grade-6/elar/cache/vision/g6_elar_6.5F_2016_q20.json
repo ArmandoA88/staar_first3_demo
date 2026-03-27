@@ -1,0 +1,30 @@
+{
+  "stem": "The author included paragraph 1 in the selection most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "provide background information about the home of the red crabs"
+    },
+    {
+      "label": "G",
+      "text": "explain why it is important for the red crabs to reach the ocean"
+    },
+    {
+      "label": "H",
+      "text": "provide reasons for visiting Christmas Island during the red crab migration"
+    },
+    {
+      "label": "J",
+      "text": "explain why Christmas Island is a perfect place for red crabs to live"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

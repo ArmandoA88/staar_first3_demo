@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "One kind of an air bubble is shaped like a circle and called a bubble ring. Happening to be the perfect sea toy."
+    },
+    {
+      "label": "G",
+      "text": "One kind of air bubble is shaped like a circle, and called a bubble ring. Then it happens to be the perfect sea toy."
+    },
+    {
+      "label": "H",
+      "text": "One kind of air bubble is shaped like a circle, called a bubble ring it happens to be the perfect sea toy."
+    },
+    {
+      "label": "J",
+      "text": "One kind of air bubble is shaped like a circle. It is called a bubble ring, and it happens to be the perfect sea toy."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

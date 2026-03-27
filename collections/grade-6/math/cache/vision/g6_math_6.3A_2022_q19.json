@@ -1,0 +1,32 @@
+{
+  "stem": "Which expression is equivalent to 6 \\u00F7 \\u00BD?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\u00BD \\u00B7 \\u00B2\\/\\u2075"
+    },
+    {
+      "label": "B",
+      "text": "6 \\u00B7 \\u2075\\/\\u00B2"
+    },
+    {
+      "label": "C",
+      "text": "\\u00BD \\u00F7 \\u00B2\\/\\u2075"
+    },
+    {
+      "label": "D",
+      "text": "6 \\u00F7 \\u2075\\/\\u00B2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fractions",
+    "multiplication",
+    "division"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

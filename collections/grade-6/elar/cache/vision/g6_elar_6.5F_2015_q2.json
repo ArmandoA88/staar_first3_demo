@@ -1,0 +1,30 @@
+{
+  "stem": "The reader can infer that future skyscrapers may surpass 3,000 feet because \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "there were few tall buildings at the beginning of the 1900s"
+    },
+    {
+      "label": "G",
+      "text": "engineering and technological advances have improved the design of skyscrapers"
+    },
+    {
+      "label": "H",
+      "text": "the Burj Khalifa is the world\u2019s tallest building"
+    },
+    {
+      "label": "J",
+      "text": "skyscrapers have become a common feature of city skylines around the world"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

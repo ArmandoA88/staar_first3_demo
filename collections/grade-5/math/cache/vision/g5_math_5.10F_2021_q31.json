@@ -1,0 +1,30 @@
+{
+  "stem": "Amelia made this list of her monthly expenses.\n\nExpenses\n\n| Category | Amount (dollars) |\n|---|---|\n| Food | 400 |\n| Rent | 850 |\n| Savings | 150 |\n| Other | |\n\nAmelia's net income for the month is $2,135. How much money does she have for other expenses?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$3,535"
+    },
+    {
+      "label": "B",
+      "text": "$1,400"
+    },
+    {
+      "label": "C",
+      "text": "$885"
+    },
+    {
+      "label": "D",
+      "text": "$735"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with categories and amounts"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

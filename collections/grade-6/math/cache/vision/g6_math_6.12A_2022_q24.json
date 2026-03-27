@@ -1,0 +1,33 @@
+{
+  "stem": "The list shows the amount of flour in pounds used by a bakery each day for 15 days.\n\n16, 17, 18, 19, 20, 23, 24, 29, 30, 31, 32, 32, 32, 32, 35\nWhich box plot best displays a summary of these data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(box plot with minimum at 16, Q1 near 20, median near 29, Q3 near 31, maximum at 35)"
+    },
+    {
+      "label": "G",
+      "text": "(box plot with minimum at 15, Q1 near 20, median near 30, Q3 near 35, maximum at 35)"
+    },
+    {
+      "label": "H",
+      "text": "(box plot with minimum around 16, Q1 near 23, median near 29, Q3 near 32, maximum at 35)"
+    },
+    {
+      "label": "J",
+      "text": "(box plot with minimum at 16, two dots at 17 and 18, Q1 near 24, median near 29, Q3 near 32, maximum at 35)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plot F",
+    "box plot G",
+    "box plot H",
+    "box plot J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Options show box plots with labeled minimum, quartiles, median, and maximum on a scale from 15 to 35 pounds."
+}

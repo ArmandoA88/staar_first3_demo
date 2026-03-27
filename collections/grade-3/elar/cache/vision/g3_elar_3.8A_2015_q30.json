@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best expresses the theme of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "I asked my dad if I could change my name."
+    },
+    {
+      "label": "G",
+      "text": "\"I get teased all the time.\""
+    },
+    {
+      "label": "H",
+      "text": "\"But you shouldn\u2019t change who you are.\""
+    },
+    {
+      "label": "J",
+      "text": "In no time at all we were laughing and talking."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

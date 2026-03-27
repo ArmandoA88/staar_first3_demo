@@ -1,0 +1,30 @@
+{
+  "stem": "The doctor\u2019s waiting room is decorated with animals most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "convince children that animals are interesting"
+    },
+    {
+      "label": "B",
+      "text": "allow children to study animals during their visit"
+    },
+    {
+      "label": "C",
+      "text": "help children imagine what going to the zoo is like"
+    },
+    {
+      "label": "D",
+      "text": "create a pleasing environment for children"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The question text and four lettered answer choices"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

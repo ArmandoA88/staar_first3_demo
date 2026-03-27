@@ -1,0 +1,30 @@
+{
+  "stem": "The poet uses these lines to show \u2014",
+  "instruction": "Read lines 15 and 16 from the poem.\n\nSo many rows of jars and cans.\nSo little room to hide.",
+  "options": [
+    {
+      "label": "F",
+      "text": "that the speaker is surprised by how big the store is"
+    },
+    {
+      "label": "G",
+      "text": "how badly the speaker wants to avoid being seen by his teacher"
+    },
+    {
+      "label": "H",
+      "text": "that the speaker is shy around his teacher"
+    },
+    {
+      "label": "J",
+      "text": "how worried the speaker is that his mom will find him"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "So many rows of jars and cans.\nSo little room to hide."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

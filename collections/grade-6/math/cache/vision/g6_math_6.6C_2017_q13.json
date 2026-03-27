@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shows the number of points, \\( y \\), a player earns in a balloon game based on the number of balloons the player pops, \\( x \\).",
+  "instruction": "Which equation best represents the relationship between \\( x \\) and \\( y \\)?",
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( y = x + 25 \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( x = y + 25 \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( x = 25y \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( y = 25x \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A scatter plot titled 'Balloon Game' with x-axis labeled 'Number of Balloons Popped' ranging from 0 to 5 and y-axis labeled 'Number of Points' ranging from 0 to 130. Points plotted at (1, 25), (2, 50), (3, 75), (4, 100), (5, 125)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

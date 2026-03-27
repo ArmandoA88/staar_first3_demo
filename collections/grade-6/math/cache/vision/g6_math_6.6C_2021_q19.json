@@ -1,0 +1,30 @@
+{
+  "stem": "At a bookstore the total cost of 6 books is $45.00. Each book costs the same amount.\n\nWhich table shows the relationship between the number of books bought and the total cost in dollars?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number of Books Bought | 1 | 2 | 3 | 4\nCost (dollars)          | 7.50 | 15.00 | 22.50 | 30.00"
+    },
+    {
+      "label": "B",
+      "text": "Number of Books Bought | 8.5 | 9.5 | 10.5 | 11.5\nCost (dollars)          | 1.00 | 2.00 | 3.00 | 4.00"
+    },
+    {
+      "label": "C",
+      "text": "Number of Books Bought | 7.5 | 15 | 22.5 | 30\nCost (dollars)          | 1.00 | 2.00 | 3.00 | 4.00"
+    },
+    {
+      "label": "D",
+      "text": "Number of Books Bought | 1 | 2 | 3 | 4\nCost (dollars)          | 8.50 | 9.50 | 10.50 | 11.50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, and D representing the number of books bought and the corresponding cost (dollars) values as described in the options."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

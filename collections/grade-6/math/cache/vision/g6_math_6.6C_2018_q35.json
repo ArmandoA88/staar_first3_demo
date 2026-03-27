@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation can be represented by the equation y = 74x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A company uses a total of y gallons of water at a rate of 74 gallons per hour for x hours."
+    },
+    {
+      "label": "B",
+      "text": "A restaurant serves a total of y meals in one day, in which 74 meals are served during the first hour and x meals are served during the remaining hours."
+    },
+    {
+      "label": "C",
+      "text": "A company manufactures a total of 74 drinking glasses every hour, with x of the glasses made of clear glass and y of them made of blue glass."
+    },
+    {
+      "label": "D",
+      "text": "A restaurant prepares a total of y batches of pizza sauce from 74 pounds of tomatoes, with each batch weighing x pounds."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation y = 74x"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

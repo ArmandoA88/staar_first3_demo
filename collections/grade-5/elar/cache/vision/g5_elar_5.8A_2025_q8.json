@@ -1,0 +1,34 @@
+{
+  "stem": "Which sentence best represents an important theme in the story \u201cTasha\u2019s Hat\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Learning about different styles can inspire original ideas."
+    },
+    {
+      "label": "B",
+      "text": "Spending time in a new place can lead to surprises."
+    },
+    {
+      "label": "C",
+      "text": "Being patient can have rewarding results."
+    },
+    {
+      "label": "D",
+      "text": "Sharing a hobby can bring people closer together."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Which sentence best represents an important theme in the story \u201cTasha\u2019s Hat\u201d?",
+    "A Learning about different styles can inspire original ideas.",
+    "B Spending time in a new place can lead to surprises.",
+    "C Being patient can have rewarding results.",
+    "D Sharing a hobby can bring people closer together."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

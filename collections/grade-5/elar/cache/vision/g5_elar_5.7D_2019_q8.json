@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Koalas are furry mammals that can be found in Australia. Over the years scientists have learned a great deal about these tree-dwelling animals. For example, scientists know that koalas eat eucalyptus leaves and hug trees."
+    },
+    {
+      "label": "G",
+      "text": "Scientists wondered why koalas grasp the lower trunks of eucalyptus trees when the temperature rises. By using technology to study koalas, scientists discovered that doing so allowed the koalas to conserve the water in their bodies."
+    },
+    {
+      "label": "H",
+      "text": "Scientists used technology to observe koalas that hug trees. The scientists located the animals with radio tags, took photographs of them, and measured their temperatures."
+    },
+    {
+      "label": "J",
+      "text": "It is difficult for koalas to live in hot environments because they cannot sweat. They can lick themselves or pant, but these methods can cause them to become dehydrated."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

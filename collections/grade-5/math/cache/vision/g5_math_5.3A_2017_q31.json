@@ -1,0 +1,30 @@
+{
+  "stem": "The list shows the length of a day on two different planets.\n\n\u2022 Neptune: 16.11 hours\n\u2022 Venus: 5,832.40 hours\n\nWhich statement is best supported by this information?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A day on Venus is about 40 times as long as a day on Neptune."
+    },
+    {
+      "label": "B",
+      "text": "A day on Venus is about 400 times as long as a day on Neptune."
+    },
+    {
+      "label": "C",
+      "text": "A day on Venus is about 50 times as long as a day on Neptune."
+    },
+    {
+      "label": "D",
+      "text": "A day on Venus is about 500 times as long as a day on Neptune."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bullet points listing planet day lengths"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

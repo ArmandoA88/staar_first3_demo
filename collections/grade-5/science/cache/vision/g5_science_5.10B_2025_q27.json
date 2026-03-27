@@ -1,0 +1,30 @@
+{
+  "stem": "A student uses three sediments to make a cementation model. She layers the sediments in a container as shown.\n\nIncomplete Cementation Model\n\nWhat should the student do NEXT to complete the model of cementation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Mix food coloring with each sediment"
+    },
+    {
+      "label": "B",
+      "text": "Add a heat source above the container"
+    },
+    {
+      "label": "C",
+      "text": "Shake the container until materials mix"
+    },
+    {
+      "label": "D",
+      "text": "Add enough glue to fill gaps in materials"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of a cylindrical container showing three labeled layers: Gravel, Silt, Sand"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

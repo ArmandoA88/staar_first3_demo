@@ -1,0 +1,34 @@
+{
+  "stem": "Ms. Olsen has \\( \\frac{1}{8} \\) acre of land divided into 6 equal parts. What is the size of each part?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{2} \\) acre"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{14} \\) acre"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{3}{4} \\) acre"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{1}{48} \\) acre"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction \\( \\frac{1}{8} \\)",
+    "fraction \\( \\frac{1}{2} \\)",
+    "fraction \\( \\frac{1}{14} \\)",
+    "fraction \\( \\frac{3}{4} \\)",
+    "fraction \\( \\frac{1}{48} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

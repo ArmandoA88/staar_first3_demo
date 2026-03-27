@@ -1,0 +1,30 @@
+{
+  "stem": "How does this line support a major theme of the drama?",
+  "instruction": "Read line 12.\n\nMOTHER ANT: Hormiguita, your father is right. As an ant, you need to help with the work of the anthill.",
+  "options": [
+    {
+      "label": "A",
+      "text": "By emphasizing that children and parents should do activities together"
+    },
+    {
+      "label": "B",
+      "text": "By explaining that the demands of some tasks can result in little time for rest"
+    },
+    {
+      "label": "C",
+      "text": "By highlighting that children need to learn from their parents\u2019 wisdom"
+    },
+    {
+      "label": "D",
+      "text": "By suggesting that everyone\u2019s efforts are needed to achieve a common goal"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "MOTHER ANT: Hormiguita, your father is right. As an ant, you need to help with the work of the anthill."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

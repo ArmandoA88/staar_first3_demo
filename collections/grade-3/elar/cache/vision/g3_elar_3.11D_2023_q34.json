@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *Doing* to *Do*"
+    },
+    {
+      "label": "B",
+      "text": "Change *chores* to *Chores*"
+    },
+    {
+      "label": "C",
+      "text": "Change *board* to *bored*"
+    },
+    {
+      "label": "D",
+      "text": "Change *saved* to *saves*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

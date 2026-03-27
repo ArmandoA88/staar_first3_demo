@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence expresses the main idea of paragraph 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Jean Chu and her family adopted Dusty, their pet cat, a few years ago."
+    },
+    {
+      "label": "G",
+      "text": "Not long after he moved in, the family members started finding odd objects lying around."
+    },
+    {
+      "label": "H",
+      "text": "One day they would find a glove and an unfamiliar towel."
+    },
+    {
+      "label": "J",
+      "text": "Soon they realized that the objects always showed up in the morning."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Harry Burt put his ice-cream treat on a stick \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "to keep the ice cream from melting"
+    },
+    {
+      "label": "G",
+      "text": "so that less chocolate would be needed"
+    },
+    {
+      "label": "H",
+      "text": "so that it could be sold as a lollipop"
+    },
+    {
+      "label": "J",
+      "text": "to make eating the treat easier"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

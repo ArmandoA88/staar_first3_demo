@@ -1,0 +1,30 @@
+{
+  "stem": "Keith wrote the expression shown to determine the cost in dollars for an upcoming trip.\n\n(127.50 - 23.50) + 3(86.50 + 4)\n\nWhich expression is equivalent to the one Keith wrote?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "107(90.50)"
+    },
+    {
+      "label": "G",
+      "text": "101(90.50)"
+    },
+    {
+      "label": "H",
+      "text": "104 + 3(90.50)"
+    },
+    {
+      "label": "J",
+      "text": "104 + 263.50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(127.50 - 23.50) + 3(86.50 + 4)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

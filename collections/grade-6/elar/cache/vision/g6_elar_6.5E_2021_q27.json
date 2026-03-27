@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 5 of the selection \u201cA Massive Mission.\u201d\n\nEvery day people come to see the shuttle that flew so many daring missions into space.\n\nWhich sentence from the selection \u201cDO Look Down!\u201d includes a similar idea?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Though it would take a great amount of work, many tribe members liked this idea; they felt the skywalk would provide job opportunities. (paragraph 4)"
+    },
+    {
+      "label": "B",
+      "text": "It is strong enough to hold the weight of 71 airplanes. (paragraph 5)"
+    },
+    {
+      "label": "C",
+      "text": "Since then the $30 million attraction has welcomed millions of visitors. (paragraph 6)"
+    },
+    {
+      "label": "D",
+      "text": "The Hualapai have future plans to add businesses and a museum. (paragraph 6)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Every day people come to see the shuttle that flew so many daring missions into space."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

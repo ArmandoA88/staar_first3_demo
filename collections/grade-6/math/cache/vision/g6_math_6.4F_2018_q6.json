@@ -1,0 +1,30 @@
+{
+  "stem": "An engine is operating at 25% of its full power. Which number line shows a point that represents 25%?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Number line with a point at 3/10"
+    },
+    {
+      "label": "G",
+      "text": "Number line with a point at 2/10"
+    },
+    {
+      "label": "H",
+      "text": "Number line with a point at 4/10"
+    },
+    {
+      "label": "J",
+      "text": "Number line with a point at 5/10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four number lines labeled F, G, H, J with points marked: F at 3 ticks out of 10, G at 2 ticks out of 10, H at 4 ticks out of 10, J at 5 ticks out of 10 between 0 and 1."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "The correct answer is G as 25% corresponds to 0.25, or 2.5 ticks out of 10, closest to 2 ticks for this discrete choice."
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Which triangle belongs in the intersection of \u201cAcute triangles\u201d and \u201cIsosceles triangles\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Triangle F"
+    },
+    {
+      "label": "G",
+      "text": "Triangle G"
+    },
+    {
+      "label": "H",
+      "text": "Triangle H"
+    },
+    {
+      "label": "J",
+      "text": "Triangle J"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with two intersecting circles labeled 'Isosceles triangles' and 'Acute triangles' inside a rectangle labeled 'Triangles'. Question mark in the intersecting area.",
+    "Four triangle diagrams labeled F, G, H, and J with various angle and side marks."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The length of a large piece of paper was 91.44 centimeters from top to bottom. The diagram shows the lengths of two strips of paper Patricia cut from the large piece of paper.\n\nWhat is the length in centimeters of the remaining part of the large piece of paper from top to bottom?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "73.66 cm"
+    },
+    {
+      "label": "B",
+      "text": "61.2 cm"
+    },
+    {
+      "label": "C",
+      "text": "40.64 cm"
+    },
+    {
+      "label": "D",
+      "text": "50.8 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with a large rectangle labeled 91.44 cm vertically, and two smaller segments labeled 25.4 cm and 15.24 cm with a ? in between."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

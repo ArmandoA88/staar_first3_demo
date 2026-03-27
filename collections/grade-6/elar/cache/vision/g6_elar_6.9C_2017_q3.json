@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the labels in the diagram of the human eye, the reader can conclude that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "more muscles are used to move the eye than to blink"
+    },
+    {
+      "label": "B",
+      "text": "eye muscles are stronger than any other muscles in the body"
+    },
+    {
+      "label": "C",
+      "text": "blinking provides several benefits to the eyeball"
+    },
+    {
+      "label": "D",
+      "text": "blinking happens in a way that does not affect a person\u2019s vision"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram of the human eye"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": "No diagram included in image; text-only question extracted as requested."
+}

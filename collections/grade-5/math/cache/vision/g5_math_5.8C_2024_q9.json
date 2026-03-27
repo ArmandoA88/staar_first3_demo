@@ -1,0 +1,30 @@
+{
+  "stem": "Three customers at a store each use a coupon for $5 off the total cost of what they are buying.\n\nWhich graph could best represent the total cost for each customer before using the coupon, x, and after using the coupon, y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[Graph showing points at (15, 30), (25, 40), and (35, 45) approximately]"
+    },
+    {
+      "label": "B",
+      "text": "[Graph showing points at (10, 20), (20, 30), and (30, 40) approximately]"
+    },
+    {
+      "label": "C",
+      "text": "[Graph showing points all near y=5 for x=10, 20, and 30]"
+    },
+    {
+      "label": "D",
+      "text": "[Graph showing points at (20, 10), (30, 20), and (40, 30) approximately]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, and D showing points plotted on coordinate grids labeled 'Before Coupon (dollars)' on the x-axis and 'After Coupon (dollars)' on the y-axis. Graph A points are above line y=x by about 15. Graph B points are about 10 above line y=x. Graph C points cluster near y=5. Graph D points appear below line y=x."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": "Exact coordinates of points were approximated because the graphs do not have exact numeric labels for the points."
+}

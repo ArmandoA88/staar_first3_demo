@@ -1,0 +1,30 @@
+{
+  "stem": "Read line 8 from the poem.\n\nHurrylikethis\n\nThe lack of spaces between the words creates a sense of \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "mystery"
+    },
+    {
+      "label": "B",
+      "text": "feeling rushed"
+    },
+    {
+      "label": "C",
+      "text": "happiness"
+    },
+    {
+      "label": "D",
+      "text": "feeling surprised"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Hurrylikethis"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Aidan wants to use a more appropriate phrase than a super dry in sentence 15. Which phrase should replace a super dry in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "an intensely dry"
+    },
+    {
+      "label": "B",
+      "text": "an ordinarily dry"
+    },
+    {
+      "label": "C",
+      "text": "an excellently dry"
+    },
+    {
+      "label": "D",
+      "text": "an admirably dry"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with multiple choice options labeled A to D."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

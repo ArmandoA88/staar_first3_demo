@@ -1,0 +1,30 @@
+{
+  "stem": "The shaded part of the model represents a fraction. Another fraction was subtracted from the first fraction.\n\nWhich expression does the model represent?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "11/15 - 1/6"
+    },
+    {
+      "label": "G",
+      "text": "11/12 - 6/12"
+    },
+    {
+      "label": "H",
+      "text": "6/15 - 4/15"
+    },
+    {
+      "label": "J",
+      "text": "11/15 - 2/5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A rectangular model divided into 3 rows and 5 columns (15 small rectangles total). The first 11 small rectangles are shaded gray. Another portion of these shaded rectangles are marked by an X shape covering 4 of those shaded small rectangles."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": "The model shows subtraction of a fraction from a fraction with denominators related to 15. The options and fractions exactly match the fractions visualized."
+}

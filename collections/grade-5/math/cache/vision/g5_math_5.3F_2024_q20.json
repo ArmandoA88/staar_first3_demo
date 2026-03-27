@@ -1,0 +1,33 @@
+{
+  "stem": "A person has $1.20 in pennies. The person makes 4 equal stacks of pennies. The equation 1.20 \\div 4 = 0.30 shows the value of each stack in dollars.\n\nWhich hundredths model best represents this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Four horizontal rectangles stacked, each with 30 shaded squares and 70 unshaded squares on a 100-square grid."
+    },
+    {
+      "label": "B",
+      "text": "Four vertical rounded rectangles, each covering 30 shaded squares on a 100-square grid, followed by an empty 100-square grid."
+    },
+    {
+      "label": "C",
+      "text": "Three horizontal rectangles stacked, each with 30 shaded squares and 70 unshaded squares on a 100-square grid."
+    },
+    {
+      "label": "D",
+      "text": "Three vertical rounded rectangles, each covering 30 shaded squares on a 100-square grid, followed by an empty 100-square grid."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four horizontal rectangles stacked with 30 shaded squares each (A)",
+    "Four vertical rounded rectangles with 30 shaded squares each next to one empty grid (B)",
+    "Three horizontal rectangles stacked with 30 shaded squares each (C)",
+    "Three vertical rounded rectangles with 30 shaded squares each next to one empty grid (D)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

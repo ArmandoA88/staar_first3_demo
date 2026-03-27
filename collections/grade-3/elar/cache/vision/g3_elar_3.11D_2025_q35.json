@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change second to secend"
+    },
+    {
+      "label": "B",
+      "text": "Change mr. henderson to Mr. Henderson"
+    },
+    {
+      "label": "C",
+      "text": "Change let to letting"
+    },
+    {
+      "label": "D",
+      "text": "Change lizard to lizards"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 3?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

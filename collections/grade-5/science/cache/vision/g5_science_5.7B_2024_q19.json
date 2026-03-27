@@ -1,0 +1,30 @@
+{
+  "stem": "A student wants to investigate how the force with which a ball is thrown affects how high of a splash it makes in a pool.\n\nWhich table **BEST** represents how the investigation should be set up?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Independent variable  Type of ball\nDependent variable  Weight of the ball\nControlled variables  Height of the splash\nForce the ball is thrown with\nHeight the ball is thrown from"
+    },
+    {
+      "label": "B",
+      "text": "Independent variable  Height of the splash\nDependent variable  Force the ball is thrown with\nControlled variables  Weight of the ball\nType of ball\nHeight the ball is thrown from"
+    },
+    {
+      "label": "C",
+      "text": "Independent variable  Weight of the ball\nDependent variable  Type of ball\nControlled variables  Height of the splash\nForce the ball is thrown with\nHeight the ball is thrown from"
+    },
+    {
+      "label": "D",
+      "text": "Independent variable  Force the ball is thrown with\nDependent variable  Height of the splash\nControlled variables  Weight of the ball\nType of ball\nHeight the ball is thrown from"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, and D showing independent variable, dependent variable, and controlled variables for different experiment setups"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

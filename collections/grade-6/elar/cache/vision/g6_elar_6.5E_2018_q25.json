@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 5 of \"George Washington's Portrait.\"\n\nPeople have always believed that the portrait truly captures this great man's presence.\n\nWhich sentence from the second selection shows that Tolkien's The Silmarillion was not as well received?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It is an account of the history of this fantasy world before The Hobbit takes place."
+    },
+    {
+      "label": "B",
+      "text": "Some stories required organizing, and some parts were still incomplete and needed finishing."
+    },
+    {
+      "label": "C",
+      "text": "Some people believed it was too different from what they had come to expect from Tolkien's writing."
+    },
+    {
+      "label": "D",
+      "text": "They knew that Christopher had started the task with many incomplete pieces."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "People have always believed that the portrait truly captures this great man's presence."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

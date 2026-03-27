@@ -1,0 +1,30 @@
+{
+  "stem": "Students place a toy elephant on the floor in a room without windows. The students turn the room's light on and off and record their observations in the table.\n\n| Light | Observation         |\n|-------|---------------------|\n| On    | Can see the toy     |\n| Off   | Cannot see the toy  |\n\nWhich statement describes the conditions that allow the students to see the toy?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Light rays reflect off the toy and travel to the lightbulb."
+    },
+    {
+      "label": "B",
+      "text": "Light rays reflect off the toy and travel to the students\u2019 eyes."
+    },
+    {
+      "label": "C",
+      "text": "Light rays refract off the toy and travel to the lightbulb."
+    },
+    {
+      "label": "D",
+      "text": "Light rays refract off the toy and travel to the students\u2019 eyes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with Light and Observation columns showing On = Can see the toy, Off = Cannot see the toy"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

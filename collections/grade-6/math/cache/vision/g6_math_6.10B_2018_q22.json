@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation has a solution of k = 6.5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-3k = 19.5"
+    },
+    {
+      "label": "G",
+      "text": "-1 + k = 7.5"
+    },
+    {
+      "label": "H",
+      "text": "-7k = -45.5"
+    },
+    {
+      "label": "J",
+      "text": "-2 + k = -8.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Equation list with labels F, G, H, J and the question text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

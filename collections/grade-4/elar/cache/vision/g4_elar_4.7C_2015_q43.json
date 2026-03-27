@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph included with the selection shows \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the reason people were surprised by Becky\u2019s invention"
+    },
+    {
+      "label": "B",
+      "text": "which companies purchased Becky\u2019s invention"
+    },
+    {
+      "label": "C",
+      "text": "the process Becky followed to create her invention"
+    },
+    {
+      "label": "D",
+      "text": "that people were interested in Becky\u2019s invention"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

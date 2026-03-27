@@ -1,0 +1,30 @@
+{
+  "stem": "A farmer watered \\( \\frac{3}{8} \\) of a field. What percentage is equivalent to the fraction of the field the farmer watered?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "24.00%"
+    },
+    {
+      "label": "B",
+      "text": "37.50%"
+    },
+    {
+      "label": "C",
+      "text": "8.30%"
+    },
+    {
+      "label": "D",
+      "text": "3.75%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction 3/8"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

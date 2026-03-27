@@ -1,0 +1,30 @@
+{
+  "stem": "Mrs. Torres is mailing a package that weighs 12.5 pounds. The post office charges by the ounce to mail a package. How much does the package weigh in ounces?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "187 ounces"
+    },
+    {
+      "label": "B",
+      "text": "200 ounces"
+    },
+    {
+      "label": "C",
+      "text": "192.5 ounces"
+    },
+    {
+      "label": "D",
+      "text": "100 ounces"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

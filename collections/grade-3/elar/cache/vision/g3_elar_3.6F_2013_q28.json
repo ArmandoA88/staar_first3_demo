@@ -1,0 +1,30 @@
+{
+  "stem": "Read line 8 from the poem.\n\n\"I thought that I would die!\"",
+  "instruction": "The poet uses this line to show that the speaker is \u2014",
+  "options": [
+    {
+      "label": "F",
+      "text": "careless"
+    },
+    {
+      "label": "G",
+      "text": "disappointed"
+    },
+    {
+      "label": "H",
+      "text": "embarrassed"
+    },
+    {
+      "label": "J",
+      "text": "angry"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I thought that I would die!"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

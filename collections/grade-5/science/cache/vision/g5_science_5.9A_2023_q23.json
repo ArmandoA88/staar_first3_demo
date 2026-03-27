@@ -1,0 +1,30 @@
+{
+  "stem": "A student makes a sundial. The student takes a picture of the sundial at 3:30 P.M.\n\nBased on the student's sundial, which letter is closest to the position of the sun when the picture was taken?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "W"
+    },
+    {
+      "label": "B",
+      "text": "X"
+    },
+    {
+      "label": "C",
+      "text": "Y"
+    },
+    {
+      "label": "D",
+      "text": "Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of a sundial with shadow between Y and X; dial labeled with letters W (top), X (right), Y (bottom), Z (left)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

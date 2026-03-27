@@ -1,0 +1,30 @@
+{
+  "stem": "What is the message of this poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Music can make a situation less stressful."
+    },
+    {
+      "label": "B",
+      "text": "Kind words can be very helpful."
+    },
+    {
+      "label": "C",
+      "text": "Children are amused by animals."
+    },
+    {
+      "label": "D",
+      "text": "Children are not easily fooled."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "23 What is the message of this poem? A Music can make a situation less stressful. B Kind words can be very helpful. C Children are amused by animals. D Children are not easily fooled."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

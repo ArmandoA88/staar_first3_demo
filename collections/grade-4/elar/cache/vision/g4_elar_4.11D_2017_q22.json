@@ -1,0 +1,31 @@
+{
+  "stem": "What change needs to be made in sentence 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change found to finds"
+    },
+    {
+      "label": "G",
+      "text": "Change began to begun"
+    },
+    {
+      "label": "H",
+      "text": "Change her work to their work"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q22 Passage #4",
+    "22"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

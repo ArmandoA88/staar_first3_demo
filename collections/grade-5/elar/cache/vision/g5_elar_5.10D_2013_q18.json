@@ -1,0 +1,30 @@
+{
+  "stem": "The poet uses the figurative expression \u201clearned them by heart\u201d to emphasize that the speaker \u2014",
+  "instruction": "Read these lines from the poem.",
+  "options": [
+    {
+      "label": "F",
+      "text": "has volunteered to be in the play"
+    },
+    {
+      "label": "G",
+      "text": "practices on the stage"
+    },
+    {
+      "label": "H",
+      "text": "enjoys playing the role of the prince"
+    },
+    {
+      "label": "J",
+      "text": "feels prepared for his performance"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I memorized each line. Learned them by heart."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

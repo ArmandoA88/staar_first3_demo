@@ -1,0 +1,33 @@
+{
+  "stem": "Joshua compared the values of these decimals.\n\n0.06      0.6      0.006      0.060\n\nWhich statement correctly compares two of these numbers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.6 < 0.06"
+    },
+    {
+      "label": "B",
+      "text": "0.006 > 0.6"
+    },
+    {
+      "label": "C",
+      "text": "0.6 = 0.06"
+    },
+    {
+      "label": "D",
+      "text": "0.060 = 0.06"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "0.06",
+    "0.6",
+    "0.006",
+    "0.060"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

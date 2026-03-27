@@ -1,0 +1,30 @@
+{
+  "stem": "The dot plot shows the lengths of the 12 trailers sold at a store last month.\n\nWhich statement about the data is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The interquartile range is 7, and the range is 17."
+    },
+    {
+      "label": "G",
+      "text": "The interquartile range is 7, and the range is 11."
+    },
+    {
+      "label": "H",
+      "text": "The interquartile range is 2.75, and the range is 17."
+    },
+    {
+      "label": "J",
+      "text": "The interquartile range is 2.75, and the range is 11."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot showing trailer lengths with data points at 6 (4 dots), 9 (2 dots), 13 (4 dots), 17 (2 dots)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

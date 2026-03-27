@@ -1,0 +1,33 @@
+{
+  "stem": "Which sentence from the story shows that Marvin does not want to create more problems for his mother?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\"I can wear my old shoes,\" Marvin offered."
+    },
+    {
+      "label": "G",
+      "text": "\"It's not regular television,\" Marvin tried to explain."
+    },
+    {
+      "label": "H",
+      "text": "Marvin didn't know what to do."
+    },
+    {
+      "label": "J",
+      "text": "He slowly started up the stairs."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "F \"I can wear my old shoes,\" Marvin offered.",
+    "G \"It's not regular television,\" Marvin tried to explain.",
+    "H Marvin didn't know what to do.",
+    "J He slowly started up the stairs."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

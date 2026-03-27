@@ -1,0 +1,31 @@
+{
+  "stem": "Customers at a gift shop receive free stickers for every T-shirt they buy. The graph shows the relationship between x, the number of T-shirts customers buy, and y, the number of stickers customers receive.\n\nWhich table also represents this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Number of T-Shirts Bought | Number of Free Stickers\n6 | 6\n7 | 7\n8 | 8\n9 | 9"
+    },
+    {
+      "label": "H",
+      "text": "Number of T-Shirts Bought | Number of Free Stickers\n6 | 3\n10 | 5\n14 | 7\n18 | 9"
+    },
+    {
+      "label": "G",
+      "text": "Number of T-Shirts Bought | Number of Free Stickers\n6 | 12\n7 | 14\n8 | 16\n9 | 18"
+    },
+    {
+      "label": "J",
+      "text": "Number of T-Shirts Bought | Number of Free Stickers\n6 | 18\n10 | 30\n14 | 42\n18 | 54"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatter plot graph titled 'Gift Shop', x-axis labeled 'Number of T-Shirts Bought' 0-10, y-axis labeled 'Number of Free Stickers' 0-10 with points plotted at (1,2), (2,4), (3,6), (4,8), (5,10)",
+    "Four tables labeled F, H, G, and J each with two columns labeled 'Number of T-Shirts Bought' and 'Number of Free Stickers' with respective values as listed in options"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

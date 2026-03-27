@@ -1,0 +1,30 @@
+{
+  "stem": "In triangle QRT, angle Q measures 80\u00b0 and angle T measures 35\u00b0. Which list shows the side lengths of the triangle in order from greatest to least?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "QT  RT  QR"
+    },
+    {
+      "label": "B",
+      "text": "RT  QT  QR"
+    },
+    {
+      "label": "C",
+      "text": "QT  QR  RT"
+    },
+    {
+      "label": "D",
+      "text": "RT  QR  QT"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle QRT with angle Q = 80\u00b0, angle T = 35\u00b0"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

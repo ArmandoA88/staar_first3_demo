@@ -1,0 +1,205 @@
+{
+  "source_pdf": "ALL STAAR QUESTIONS.pdf",
+  "generated_at_utc": "2026-03-27T02:23:48Z",
+  "extraction_method": {
+    "question_region": "Rendered page crop transcribed with vision",
+    "answer_key": "Parsed from PDF text layer"
+  },
+  "schema_version": "demo_v1",
+  "items": [
+    {
+      "id": "g3_math_3.2A_2025_q1",
+      "source": {
+        "pdf_file": "ALL STAAR QUESTIONS.pdf",
+        "page_number": 4,
+        "crop_bbox_pdf_points": [
+          50.0,
+          107.924,
+          413.0,
+          483.959
+        ],
+        "question_image": "collections/grade-3/math/images/demo/g3_math_3.2A_2025_q1.png",
+        "render_dpi": 300,
+        "image_width_px": 1513,
+        "image_height_px": 1568,
+        "sha256": "94bda405441a9ebba8705cb27994189c497e8253fd8f8db44850609f5820dcd9"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.2(A)",
+        "year": 2025,
+        "question_number": 1,
+        "item_type": "multiselect",
+        "points": 2
+      },
+      "question": {
+        "stem": "Which expressions are equivalent to 15,090?",
+        "instruction": "Select TWO correct answers.",
+        "options": [
+          {
+            "position": 1,
+            "text": "1,000 + 5,000 + 900"
+          },
+          {
+            "position": 2,
+            "text": "15,000 + 90"
+          },
+          {
+            "position": 3,
+            "text": "1,000 + 5,000 + 90"
+          },
+          {
+            "position": 4,
+            "text": "15,000 + 900"
+          },
+          {
+            "position": 5,
+            "text": "10,000 + 5,000 + 90"
+          }
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (2nd option; 5th option)",
+        "answer_format": "multi_select_positions",
+        "correct_positions": [
+          2,
+          5
+        ],
+        "correct_texts": [
+          "15,000 + 90",
+          "10,000 + 5,000 + 90"
+        ]
+      },
+      "extraction_quality": {
+        "question_content_source": "vision on rendered crop",
+        "answer_source": "pdf text layer footer",
+        "needs_review": false,
+        "notes": "Checkbox options are unlabeled in the source image, so positions are stored as 1-based indices."
+      }
+    },
+    {
+      "id": "g3_math_3.2A_2025_q24",
+      "source": {
+        "pdf_file": "ALL STAAR QUESTIONS.pdf",
+        "page_number": 5,
+        "crop_bbox_pdf_points": [
+          50.0,
+          69.957,
+          413.0,
+          391.517
+        ],
+        "question_image": "collections/grade-3/math/images/demo/g3_math_3.2A_2025_q24.png",
+        "render_dpi": 300,
+        "image_width_px": 1513,
+        "image_height_px": 1341,
+        "sha256": "ec4d09d591f76df5cb67032f7b5a7790063caf24133704bbc30f472b2a674437"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.2(A)",
+        "year": 2025,
+        "question_number": 24,
+        "item_type": "multiple_choice",
+        "points": 1
+      },
+      "question": {
+        "stem": "Evie finds the sum of 70 hundreds, 1 ten, and 15 ones. What number represents Evie's sum?",
+        "options": [
+          {
+            "label": "A",
+            "text": "70,025"
+          },
+          {
+            "label": "B",
+            "text": "7,025"
+          },
+          {
+            "label": "C",
+            "text": "70,115"
+          },
+          {
+            "label": "D",
+            "text": "7,015"
+          }
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": "7,025",
+        "distractor_note": {
+          "raw_pdf_text": "highly chosen incorrect answer (C)",
+          "label": "C",
+          "text": "70,115"
+        }
+      },
+      "extraction_quality": {
+        "question_content_source": "vision on rendered crop",
+        "answer_source": "pdf text layer footer",
+        "needs_review": false
+      }
+    },
+    {
+      "id": "g3_math_3.2A_2024_q30",
+      "source": {
+        "pdf_file": "ALL STAAR QUESTIONS.pdf",
+        "page_number": 6,
+        "crop_bbox_pdf_points": [
+          50.0,
+          73.809,
+          413.0,
+          380.513
+        ],
+        "question_image": "collections/grade-3/math/images/demo/g3_math_3.2A_2024_q30.png",
+        "render_dpi": 300,
+        "image_width_px": 1513,
+        "image_height_px": 1279,
+        "sha256": "2871f4ac3b41a3ea635b29375147d2049d35539233f2bace4f1d07f12c1b711a"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.2(A)",
+        "year": 2024,
+        "question_number": 30,
+        "item_type": "drag_and_drop",
+        "points": 2
+      },
+      "question": {
+        "stem": "Create an expression equivalent to 40,280.",
+        "instruction": "Move the correct answer to each box. Not all answers will be used.",
+        "draggable_choices": [
+          "hundreds",
+          "ten thousands",
+          "ones",
+          "thousands",
+          "tens"
+        ],
+        "template_text": "4 [blank_1] + 2 [blank_2] + 8 [blank_3]"
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (ten thousands; hundreds; tens)",
+        "answer_format": "ordered_blanks",
+        "blank_values": [
+          "ten thousands",
+          "hundreds",
+          "tens"
+        ],
+        "blank_map": {
+          "blank_1": "ten thousands",
+          "blank_2": "hundreds",
+          "blank_3": "tens"
+        },
+        "normalized_expression": "4 ten thousands + 2 hundreds + 8 tens"
+      },
+      "extraction_quality": {
+        "question_content_source": "vision on rendered crop",
+        "answer_source": "pdf text layer footer",
+        "needs_review": false
+      }
+    }
+  ]
+}

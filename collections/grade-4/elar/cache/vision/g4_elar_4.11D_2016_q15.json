@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 17 and 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "All the attention prompted Blare to create an organization. Which he called Blare's Bears for Haiti."
+    },
+    {
+      "label": "B",
+      "text": "All the attention prompting Blare to create an organization called Blare's Bears for Haiti."
+    },
+    {
+      "label": "C",
+      "text": "All the attention prompted Blare to create an organization, it was called Blare\u2019s Bears for Haiti."
+    },
+    {
+      "label": "D",
+      "text": "All the attention prompted Blare to create an organization called Blare\u2019s Bears for Haiti."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

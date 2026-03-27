@@ -1,0 +1,30 @@
+{
+  "stem": "Students create the circuit shown.\n\nWhat do the lightbulb and the bell do when the switch is left open?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The lightbulb glows, and the bell rings."
+    },
+    {
+      "label": "B",
+      "text": "The lightbulb glows, and the bell does not ring."
+    },
+    {
+      "label": "C",
+      "text": "The lightbulb does not glow, and the bell rings."
+    },
+    {
+      "label": "D",
+      "text": "The lightbulb does not glow, and the bell does not ring."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a circuit with a Bell, Switch, Lightbulb, and Batteries connected as shown in the image."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "What change, if any, should be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Charlotte's to Charlottes'."
+    },
+    {
+      "label": "B",
+      "text": "Change memory to memery."
+    },
+    {
+      "label": "C",
+      "text": "Change Texas hill Country to Texas Hill Country."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Change Charlotte's to Charlottes'",
+    "Change memory to memery",
+    "Change Texas hill Country to Texas Hill Country",
+    "No change is needed."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

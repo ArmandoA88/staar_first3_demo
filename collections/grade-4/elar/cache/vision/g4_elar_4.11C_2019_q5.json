@@ -1,0 +1,28 @@
+{
+  "stem": "Xavier would like to replace sentence 2 with a sentence that will improve the focus of his paper. Which sentence should he use?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "LEGO bricks are a great toy because building with them teaches children important skills."
+    },
+    {
+      "label": "B",
+      "text": "Playing with LEGO bricks is a hobby families can really enjoy together."
+    },
+    {
+      "label": "C",
+      "text": "I was surprised that I had never heard of the LEGO KidsFest."
+    },
+    {
+      "label": "D",
+      "text": "Last week I had a great day with my family and learned about one of my favorite toys at LEGO KidsFest."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

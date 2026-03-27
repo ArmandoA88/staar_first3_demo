@@ -1,0 +1,31 @@
+{
+  "stem": "What is the difference in height between the tallest student and shortest student?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8 in."
+    },
+    {
+      "label": "B",
+      "text": "10 in."
+    },
+    {
+      "label": "C",
+      "text": "3 in."
+    },
+    {
+      "label": "D",
+      "text": "5 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Stem and leaf plot showing student heights: Stem | Leaf\n5 | 2 3 4 7\n6 | 0 0 1 2",
+    "Box with text: 5|4 means 54 inches."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

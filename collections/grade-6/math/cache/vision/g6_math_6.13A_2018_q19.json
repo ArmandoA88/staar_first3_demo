@@ -1,0 +1,30 @@
+{
+  "stem": "The stem and leaf plot shows the percentage of questions on a Spanish test that were answered correctly by each student in a class.\n\nSpanish Test\n\nStem | Leaf\n7 | 0 0 0 5 5 5 5 5\n8 | 0 0 0 5 5 5\n9 | 0 0 5 5\n10 | 0\n\n7|0 means 70%.",
+  "instruction": "Which statement is true?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Nine students answered 55% of the questions correctly."
+    },
+    {
+      "label": "B",
+      "text": "Half the students answered 70% or 75% of the questions correctly."
+    },
+    {
+      "label": "C",
+      "text": "Eight students answered more than 80% of the questions correctly."
+    },
+    {
+      "label": "D",
+      "text": "Ten students answered 100% of the questions correctly."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Stem and leaf plot showing percentages for Spanish Test with stem values 7, 8, 9, 10 and corresponding leaves for each stem."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the meaning of modern in paragraph 3 of the article \u201cCultural Cooking Connections\u201d?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "modern \\ m\u00e4-d\u0259rn\\ adjective\n1. having to do with the present time\n2. different from older art\n3. building on new information\n4. thinking in different ways"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "This massive building is the largest capitol building in the country. And looks pink because it is made from sunset-red granite."
+    },
+    {
+      "label": "G",
+      "text": "This massive building is the largest capitol building in the country and looks pink that is because it is made from sunset-red granite."
+    },
+    {
+      "label": "H",
+      "text": "This massive building is the largest capitol building in the country, and it looks pink. Because it is made from sunset-red granite."
+    },
+    {
+      "label": "J",
+      "text": "This massive building is the largest capitol building in the country. It looks pink because it is made from sunset-red granite."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

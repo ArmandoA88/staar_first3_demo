@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change When to Although"
+    },
+    {
+      "label": "B",
+      "text": "Change silly to sillier"
+    },
+    {
+      "label": "C",
+      "text": "Change the comma after first to a period"
+    },
+    {
+      "label": "D",
+      "text": "Change was to were"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 8?",
+    "(A) Change When to Although",
+    "(B) Change silly to sillier",
+    "(C) Change the comma after first to a period",
+    "(D) Change was to were"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

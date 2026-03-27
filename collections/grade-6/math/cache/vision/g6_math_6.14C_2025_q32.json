@@ -1,0 +1,40 @@
+{
+  "stem": "The beginning balance in Ms. Kar\u2019s checking account on August 22 was $563.18. She made some withdrawals and deposits over the next few days but forgot to enter some of the information in her check register.\n\nWhich two amounts are missing from Ms. Kar\u2019s check register?",
+  "instruction": "Move the correct answer to each box in the table. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "7.89"
+    },
+    {
+      "label": null,
+      "text": "12.11"
+    },
+    {
+      "label": null,
+      "text": "51.36"
+    },
+    {
+      "label": null,
+      "text": "513.18"
+    },
+    {
+      "label": null,
+      "text": "613.18"
+    }
+  ],
+  "choice_pool": [
+    "7.89",
+    "12.11",
+    "51.36",
+    "513.18",
+    "613.18"
+  ],
+  "response_template": "| Date | Description | Deposits (dollars) | Withdrawals (dollars) | Balance (dollars) |\n|-------|-------------|-------------------|-----------------------|------------------|\n| 8/22  |             |                   |                       | 563.18           |\n| 8/22  | Phone bill  |                   | 50.00                 | [blank_1]        |\n| 8/23  | Cash deposit| 25.29             |                       | 538.47           |\n| 8/24  | Cash deposit| [blank_2]         |                       | 546.36           |\n| 8/24  | Dinner out  |                   | 51.36                 | 495.00           |",
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

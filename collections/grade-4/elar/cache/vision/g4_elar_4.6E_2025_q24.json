@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea about cooking is developed in BOTH the article \u201cCultural Cooking Connections\u201d and the selection \u201cTradition with a Twist\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Foods are popular because of the familiar flavors they contain."
+    },
+    {
+      "label": "B",
+      "text": "Chefs need to be experts in preparing traditional dishes."
+    },
+    {
+      "label": "C",
+      "text": "Dishes prepared by hand take longer than those made by machines."
+    },
+    {
+      "label": "D",
+      "text": "People have their own opinions about how foods should be prepared."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text box with question and 4 multiple choice answers labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

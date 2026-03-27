@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these lines from the poem rhyme?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Lines 2 and 4"
+    },
+    {
+      "label": "B",
+      "text": "Lines 5 and 7"
+    },
+    {
+      "label": "C",
+      "text": "Lines 11 and 12"
+    },
+    {
+      "label": "D",
+      "text": "Lines 23 and 24"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

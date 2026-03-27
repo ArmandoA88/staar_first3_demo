@@ -1,0 +1,30 @@
+{
+  "stem": "Hassan used a gift card to buy a pair of jeans for $30 and 2 pairs of socks for $7 per pair. The expression shown represents the total change in the balance of the gift card in dollars.\n\n- 30 + 2(-7)\n\nWhat integer represents the total change in the value of the gift card in dollars?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "- 35"
+    },
+    {
+      "label": "B",
+      "text": "- 16"
+    },
+    {
+      "label": "C",
+      "text": "- 196"
+    },
+    {
+      "label": "D",
+      "text": "- 44"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "- 30 + 2(- 7)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

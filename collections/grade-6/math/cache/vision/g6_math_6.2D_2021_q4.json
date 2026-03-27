@@ -1,0 +1,33 @@
+{
+  "stem": "Which list shows the numbers in order from greatest to least value?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "- \\( \\frac{19}{2} \\) \\quad -3 \\frac{1}{4} \\quad -1.2 \\quad \\frac{38}{6} \\quad 7"
+    },
+    {
+      "label": "G",
+      "text": "7 \\quad \\frac{38}{6} \\quad - \\frac{19}{2} \\quad -3 \\frac{1}{4} \\quad -1.2"
+    },
+    {
+      "label": "H",
+      "text": "- \\( \\frac{19}{2} \\) \\quad 7 \\quad \\frac{38}{6} \\quad -3 \\frac{1}{4} \\quad -1.2"
+    },
+    {
+      "label": "J",
+      "text": "7 \\quad \\frac{38}{6} \\quad -1.2 \\quad -3 \\frac{1}{4} \\quad - \\frac{19}{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fractions",
+    "mixed numbers",
+    "negative numbers",
+    "decimal numbers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

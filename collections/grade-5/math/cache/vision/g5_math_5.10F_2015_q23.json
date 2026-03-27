@@ -1,0 +1,30 @@
+{
+  "stem": "Ms. Vonn's monthly budget is shown in the chart. She receives two paychecks per month.\n\nMs. Vonn's Budget\nIncome                      Expenses\nWork paycheck ........ $1,200  | House payment .......... $900\nWork paycheck ........ $1,200  | Car payment ...............\n                                         Utilities ....................... $350\n                                         Groceries .................... $250\n                                         Gas ............................. $200\n                                         Insurance .................... $150\n                                         Retirement savings ...... $250\n\nMs. Vonn's budget is balanced every month. How much is Ms. Vonn's monthly car payment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$2,400"
+    },
+    {
+      "label": "B",
+      "text": "$300"
+    },
+    {
+      "label": "C",
+      "text": "$500"
+    },
+    {
+      "label": "D",
+      "text": "$2,100"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Ms. Vonn's Budget chart with listed income and expenses as above"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

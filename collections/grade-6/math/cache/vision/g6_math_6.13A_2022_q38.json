@@ -1,0 +1,30 @@
+{
+  "stem": "The stem and leaf plot shows the pressure in pounds per square inch of each bicycle tire in a shop.\n\nBicycle Tire Pressures\n\nStem | Leaf\n5 | 0 9 9\n6 | 5\n7 | 2 4 6\n8 | 3 5 7 7 7 8 9\n9 | 1 2 3 4 6 9\n\n5|9 means 59 pounds per square inch.\n\nWhich statement is best supported by the data in the stem and leaf plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Half of the tire pressures are 75 pounds per square inch or less."
+    },
+    {
+      "label": "G",
+      "text": "There are more tires with pressures from 90 to 99 pounds per square inch than with pressures from 80 to 89 pounds per square inch."
+    },
+    {
+      "label": "H",
+      "text": "Three times as many tires have pressures from 50 to 59 pounds per square inch as tires that have a pressure of 65 pounds per square inch."
+    },
+    {
+      "label": "J",
+      "text": "There are more tires with pressures from 70 to 79 pounds per square inch than with pressures from 50 to 59 pounds per square inch."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Stem and leaf plot showing pressures:"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

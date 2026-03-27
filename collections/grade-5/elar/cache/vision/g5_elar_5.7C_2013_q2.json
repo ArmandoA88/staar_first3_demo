@@ -1,0 +1,31 @@
+{
+  "stem": "This play is divided into two scenes because \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "a character in Scene 1 is not present in Scene 2"
+    },
+    {
+      "label": "G",
+      "text": "the setting changes between Scene 1 and Scene 2"
+    },
+    {
+      "label": "H",
+      "text": "the conflict is presented in Scene 1 and resolved in Scene 2"
+    },
+    {
+      "label": "J",
+      "text": "the dialogue begins in Scene 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q2 Passage #1",
+    "2"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

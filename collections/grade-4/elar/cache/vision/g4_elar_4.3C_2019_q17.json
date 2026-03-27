@@ -1,0 +1,30 @@
+{
+  "stem": "In paragraph 3, the suffix -er in the word sender helps the reader understand that the word refers to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "a person who sends"
+    },
+    {
+      "label": "B",
+      "text": "an object that is sent"
+    },
+    {
+      "label": "C",
+      "text": "the sending of something again"
+    },
+    {
+      "label": "D",
+      "text": "the method used to send things"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-er suffix in 'sender'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Standard 4.3(C), 2019, question 17"
+}

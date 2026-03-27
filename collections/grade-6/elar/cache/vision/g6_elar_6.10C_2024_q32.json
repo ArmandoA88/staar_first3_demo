@@ -1,0 +1,34 @@
+{
+  "stem": "What is the MOST effective revision to make in sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Other lizards were found in goanna burrows and also insects, snakes, and scorpions were in the burrows."
+    },
+    {
+      "label": "B",
+      "text": "Other lizards were found in goanna burrows, including insects, snakes, and scorpions."
+    },
+    {
+      "label": "C",
+      "text": "Others were found, including lizards, insects, and snakes, and in the goanna burrows with scorpions."
+    },
+    {
+      "label": "D",
+      "text": "Other lizards, insects, snakes, and scorpions were found in goanna burrows."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the MOST effective revision to make in sentence 22?",
+    "A Other lizards were found in goanna burrows and also insects, snakes, and scorpions were in the burrows.",
+    "B Other lizards were found in goanna burrows, including insects, snakes, and scorpions.",
+    "C Others were found, including lizards, insects, and snakes, and in the goanna burrows with scorpions.",
+    "D Other lizards, insects, snakes, and scorpions were found in goanna burrows."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

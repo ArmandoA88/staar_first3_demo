@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to \\( \\frac{8}{9} \\div \\frac{3}{4} \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{8}{4} \\cdot \\frac{9}{3} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{8}{9} \\cdot \\frac{4}{3} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{9}{8} \\cdot \\frac{3}{4} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{9}{8} \\cdot \\frac{4}{3} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{8}{9} \\div \\frac{3}{4} \\)",
+    "A: \\( \\frac{8}{4} \\cdot \\frac{9}{3} \\)",
+    "B: \\( \\frac{8}{9} \\cdot \\frac{4}{3} \\)",
+    "C: \\( \\frac{9}{8} \\cdot \\frac{3}{4} \\)",
+    "D: \\( \\frac{9}{8} \\cdot \\frac{4}{3} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

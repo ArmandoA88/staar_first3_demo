@@ -1,0 +1,34 @@
+{
+  "stem": "What change should be made in sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change experts to Experts"
+    },
+    {
+      "label": "B",
+      "text": "Change were thinking to think"
+    },
+    {
+      "label": "C",
+      "text": "Change help to helps"
+    },
+    {
+      "label": "D",
+      "text": "Change hunt to hunting"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change should be made in sentence 20?",
+    "A  Change experts to Experts",
+    "B  Change were thinking to think",
+    "C  Change help to helps",
+    "D  Change hunt to hunting"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

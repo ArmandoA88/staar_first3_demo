@@ -1,0 +1,34 @@
+{
+  "stem": "Which idea do both the article and the poem support?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Animals adapt to their environment."
+    },
+    {
+      "label": "B",
+      "text": "Animals often work together."
+    },
+    {
+      "label": "C",
+      "text": "Nature changes unexpectedly."
+    },
+    {
+      "label": "D",
+      "text": "People should rely on desert resources for food."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Which idea do both the article and the poem support?",
+    "A Animals adapt to their environment.",
+    "B Animals often work together.",
+    "C Nature changes unexpectedly.",
+    "D People should rely on desert resources for food."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

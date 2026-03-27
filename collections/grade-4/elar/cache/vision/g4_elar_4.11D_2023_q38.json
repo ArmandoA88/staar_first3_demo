@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *learned* to *learnt*"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "C",
+      "text": "Change *but* to *so*"
+    },
+    {
+      "label": "D",
+      "text": "Change *suggested* to *suggest*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

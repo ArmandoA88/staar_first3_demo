@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of this expression?\n\n\\( \\frac{1}{5} \\div 30 \\)",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{150} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{6} \\)"
+    },
+    {
+      "label": "C",
+      "text": "6"
+    },
+    {
+      "label": "D",
+      "text": "150"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{1}{5} \\div 30 \\)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

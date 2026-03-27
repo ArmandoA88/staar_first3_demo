@@ -1,0 +1,30 @@
+{
+  "stem": "The frequency table shows the colors that fifth graders preferred for their school shirts.\n\nFifth-Grade Shirts\n\n| Color  | Tally                        | Frequency |\n|--------|------------------------------|-----------|\n| Red    | ||| |||| |||| |||| ||  | 32        |\n| Blue   | |||| |||| |||| |||| ||  | 35        |\n| Green  | |||| |||| |||| ||||      | 24        |\n| Orange | |||| |||| ||                | 18        |\n| Purple | |||| |||| |||| |||| |||    | 38        |\n\nBased on the data in the table, how many students preferred the three colors that had the highest frequencies?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "38"
+    },
+    {
+      "label": "B",
+      "text": "91"
+    },
+    {
+      "label": "C",
+      "text": "147"
+    },
+    {
+      "label": "D",
+      "text": "105"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Fifth-Grade Shirts table with columns Color, Tally, Frequency"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

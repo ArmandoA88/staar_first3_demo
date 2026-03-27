@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these statements describes an element of the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "All the lines have the same number of words."
+    },
+    {
+      "label": "B",
+      "text": "Most of the lines have the same meter."
+    },
+    {
+      "label": "C",
+      "text": "Each stanza introduces a new character."
+    },
+    {
+      "label": "D",
+      "text": "Each stanza solves a different problem."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

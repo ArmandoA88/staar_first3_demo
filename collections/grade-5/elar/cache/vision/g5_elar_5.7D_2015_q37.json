@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the section titled \u201cA Difficult Journey\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jackson and Crocker left San Francisco and after only 15 miles of driving, their rear tire went flat. They were able to use a spare tire for the rest of that day. They had trouble getting accurate directions at times, and bad weather was also an obstacle to completing their journey."
+    },
+    {
+      "label": "B",
+      "text": "Jackson and Crocker encountered many difficulties on their trip. Sometimes they got lost, their car frequently needed repairs, and they encountered harsh weather. They planned well, though, and received help when they needed it."
+    },
+    {
+      "label": "C",
+      "text": "When Jackson and Crocker left San Francisco, they could not predict what would happen to them in the next three months. During their journey they drove on many dirt paths. People helped the two men repair their car when it broke down from the rough travel."
+    },
+    {
+      "label": "D",
+      "text": "When Jackson and Crocker drove across the country, the land was difficult to cross. The roads were bumpy, and fields were often muddy. Bad weather made travel even more difficult and caused the car to break down at times."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "mc",
+  "confidence": 1,
+  "notes": null
+}

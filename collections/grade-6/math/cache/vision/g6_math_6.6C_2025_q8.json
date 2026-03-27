@@ -1,0 +1,46 @@
+{
+  "stem": "Which equation best represents the relationship between x and y in the table, and which equation best represents the relationship between x and y on the graph?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "y = 2x"
+    },
+    {
+      "label": null,
+      "text": "y = x - 6"
+    },
+    {
+      "label": null,
+      "text": "x = \\frac{1}{4} y"
+    },
+    {
+      "label": null,
+      "text": "x = y - 2"
+    },
+    {
+      "label": null,
+      "text": "y = \\frac{x}{4}"
+    },
+    {
+      "label": null,
+      "text": "y = x + 1"
+    }
+  ],
+  "choice_pool": [
+    "y = 2x",
+    "y = x - 6",
+    "x = \\frac{1}{4} y",
+    "x = y - 2",
+    "y = \\frac{x}{4}",
+    "y = x + 1"
+  ],
+  "response_template": "Equation: [blank_1]\nEquation: [blank_2]",
+  "visual_elements": [
+    "Table with x and y values: (8,2), (12,3), (16,4), (24,6)",
+    "Graph with points plotted at (1,2), (2,4), and (3,6)"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

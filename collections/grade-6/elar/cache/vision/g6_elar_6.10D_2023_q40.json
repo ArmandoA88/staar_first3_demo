@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change who to whom"
+    },
+    {
+      "label": "B",
+      "text": "Change showed to shown"
+    },
+    {
+      "label": "C",
+      "text": "Change particular to particuler"
+    },
+    {
+      "label": "D",
+      "text": "Change was known to were known"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

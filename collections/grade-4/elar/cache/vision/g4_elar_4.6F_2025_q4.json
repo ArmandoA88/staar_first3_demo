@@ -1,0 +1,34 @@
+{
+  "stem": "What do paragraphs 9 and 10 show about Squirrel?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She enjoys nights more than mornings."
+    },
+    {
+      "label": "B",
+      "text": "She is afraid of leaving her home."
+    },
+    {
+      "label": "C",
+      "text": "She is happy during cold weather."
+    },
+    {
+      "label": "D",
+      "text": "She cares about Robin."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What do paragraphs 9 and 10 show about Squirrel?",
+    "\u24b6 She enjoys nights more than mornings.",
+    "\u24b7 She is afraid of leaving her home.",
+    "\u24b8 She is happy during cold weather.",
+    "\u24b9 She cares about Robin."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

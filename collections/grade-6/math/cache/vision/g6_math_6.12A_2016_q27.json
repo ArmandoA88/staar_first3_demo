@@ -1,0 +1,31 @@
+{
+  "stem": "The line plot shows the number of pounds of fish eaten by each dolphin at a zoo.\n\nFish Eaten by Dolphins\n(pounds)\n\nX\n  X X\nXXX X    X    X       X     X\n16  20  24  28  32  36\n\nWhich stem and leaf plot best represents the data in the line plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Fish Eaten by Dolphins\n(pounds)\nStem | Leaf\n1 | 8 8\n2 | 0 0 2 6\n3 | 1 1 1 3\nKEY\n2 | 0 = 20 pounds"
+    },
+    {
+      "label": "B",
+      "text": "Fish Eaten by Dolphins\n(pounds)\nStem | Leaf\n1 | 7 7 8\n2 | 0 1 5\n3 | 0 0 0 3\nKEY\n2 | 0 = 20 pounds"
+    },
+    {
+      "label": "C",
+      "text": "Fish Eaten by Dolphins\n(pounds)\nStem | Leaf\n1 | 8 8 9\n2 | 0 2 6\n3 | 1 1 1 4\nKEY\n2 | 0 = 20 pounds"
+    },
+    {
+      "label": "D",
+      "text": "Fish Eaten by Dolphins\n(pounds)\nStem | Leaf\n1 | 8 9\n2 | 0 2 6\n3 | 1 4\nKEY\n2 | 0 = 20 pounds"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "line plot of fish eaten by dolphins with X marks at 17, 18, 18, 19, 20, 20, 22, 24, 26, 31, 31, 33 pounds",
+    "four stem and leaf plot options labeled A, B, C, D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

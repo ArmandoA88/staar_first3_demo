@@ -1,0 +1,30 @@
+{
+  "stem": "The author wrote this selection most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "describe ways that forest fires affect an area"
+    },
+    {
+      "label": "G",
+      "text": "explain how burned forests benefit from the black-backed woodpecker"
+    },
+    {
+      "label": "H",
+      "text": "convince the reader that the black-backed woodpecker is an unusual type of bird"
+    },
+    {
+      "label": "J",
+      "text": "demonstrate the ways animals survive in different types of forests"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "The author organizes information from the article into a bar graph most likely to make it easier for the reader to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "understand how skyscrapers affect a city's appearance"
+    },
+    {
+      "label": "B",
+      "text": "know where the tallest skyscrapers are"
+    },
+    {
+      "label": "C",
+      "text": "find out which building materials are lightest"
+    },
+    {
+      "label": "D",
+      "text": "compare the heights of buildings"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

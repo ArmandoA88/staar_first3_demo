@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change earned to erned"
+    },
+    {
+      "label": "B",
+      "text": "Change on to over"
+    },
+    {
+      "label": "C",
+      "text": "Change softball to Softball"
+    },
+    {
+      "label": "D",
+      "text": "Insert quotation marks after the exclamation point"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 6?",
+    "A Change earned to erned",
+    "B Change on to over",
+    "C Change softball to Softball",
+    "D Insert quotation marks after the exclamation point"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

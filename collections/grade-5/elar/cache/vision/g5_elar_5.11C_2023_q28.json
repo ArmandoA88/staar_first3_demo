@@ -1,0 +1,30 @@
+{
+  "stem": "The word lost is not the right word for sentence 20. Which word should replace lost in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "dreamy"
+    },
+    {
+      "label": "B",
+      "text": "fascinated"
+    },
+    {
+      "label": "C",
+      "text": "clueless"
+    },
+    {
+      "label": "D",
+      "text": "distracted"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "multiple choice options"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

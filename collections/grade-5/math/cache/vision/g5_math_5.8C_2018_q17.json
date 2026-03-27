@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shows three of the four vertices of parallelogram VWXY.\n\nAt which location on the coordinate grid could point Y be located?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(1.5, 6.5)"
+    },
+    {
+      "label": "B",
+      "text": "(6.5, 2)"
+    },
+    {
+      "label": "C",
+      "text": "(6.5, 1.5)"
+    },
+    {
+      "label": "D",
+      "text": "(2, 6.5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with points W(2,7), V(6,7), and X(3,2) labeled"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

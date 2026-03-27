@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows where the sun appears to be throughout the day.\n\nIf the sun will be setting at 6:30 p.m., where will the sun MOST LIKELY appear at 3:00 p.m.?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Point W"
+    },
+    {
+      "label": "B",
+      "text": "Point X"
+    },
+    {
+      "label": "C",
+      "text": "Point Y"
+    },
+    {
+      "label": "D",
+      "text": "Point Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with points X, W, Y, and Z showing different positions of the sun from West to East"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

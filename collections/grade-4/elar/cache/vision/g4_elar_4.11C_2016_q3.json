@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these sentences can BEST follow and support sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She would help keep the rope tight and make sure Jared was safe coming down."
+    },
+    {
+      "label": "B",
+      "text": "Andrea had been such a good friend, and looking down at her right now made Jared think of all the fun they had had."
+    },
+    {
+      "label": "C",
+      "text": "Jared was feeling great and stepped back from the cliff to look around at all the beautiful scenery."
+    },
+    {
+      "label": "D",
+      "text": "Andrea was right there, connected to the rope that Jared was connected to at the bottom of the cliff."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

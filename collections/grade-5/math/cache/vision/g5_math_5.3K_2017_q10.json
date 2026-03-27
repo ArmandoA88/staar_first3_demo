@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the heights and masses of a male gorilla and a female gorilla at a zoo.\n\nGorillas\n\n|         | Height (m) | Mass (kg) |\n|---------|------------|-----------|\n| Male    | 1.68       | 158.757   |\n| Female  | 1.448      | 95.25     |\n\nBased on the table, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The combined mass of the male gorilla and the female gorilla is 253.782 kg."
+    },
+    {
+      "label": "G",
+      "text": "The mass of the male gorilla is 63.507 kg greater than the mass of the female gorilla."
+    },
+    {
+      "label": "H",
+      "text": "The female gorilla is 1.28 m shorter than the male gorilla."
+    },
+    {
+      "label": "J",
+      "text": "The combined height of the male gorilla and the female gorilla is 2.028 m."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing heights and masses of male and female gorillas"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

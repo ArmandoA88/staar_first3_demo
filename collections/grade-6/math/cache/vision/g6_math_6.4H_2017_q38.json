@@ -1,0 +1,30 @@
+{
+  "stem": "A warehouse floor has a perimeter of 6,615 feet. What is the perimeter of the floor in yards?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "2,205 yd"
+    },
+    {
+      "label": "G",
+      "text": "19,845 yd"
+    },
+    {
+      "label": "H",
+      "text": "78,380 yd"
+    },
+    {
+      "label": "J",
+      "text": "735 yd"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A warehouse floor has a perimeter of 6,615 feet. What is the perimeter of the floor in yards?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

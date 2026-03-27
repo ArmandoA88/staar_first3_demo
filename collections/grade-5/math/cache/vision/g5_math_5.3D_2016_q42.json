@@ -1,0 +1,34 @@
+{
+  "stem": "Marisela used this model to represent 1 whole.\n\n[model of 10 connected boxes]\n\nWhich model represents 1.8 \\times 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "[Model with three groups: 10 connected boxes, 7 connected boxes, 3 connected boxes]"
+    },
+    {
+      "label": "H",
+      "text": "[Model with four groups, each group has 10 connected boxes and 8 filled boxes]"
+    },
+    {
+      "label": "G",
+      "text": "[Model with 8 groups: first has 10 connected boxes, second 7 connected boxes, then six groups of 10 connected boxes]"
+    },
+    {
+      "label": "J",
+      "text": "[Model with 4 groups arranged vertically, each with 4 boxes, two partially filled]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "model of 10 connected boxes",
+    "Model with three groups: 10 connected boxes, 7 connected boxes, 3 connected boxes",
+    "Model with four groups, each group has 10 connected boxes and 8 filled boxes",
+    "Model with 8 groups: first has 10 connected boxes, second 7 connected boxes, then six groups of 10 connected boxes",
+    "Model with 4 groups arranged vertically, each with 4 boxes, two partially filled"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

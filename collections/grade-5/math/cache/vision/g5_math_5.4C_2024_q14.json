@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph follows the rule y = x + 4.5 ?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A with points at (1,4.5) and (2,9)",
+    "Graph B with points at (1,4.5) and (2,9)",
+    "Graph C with points at (1.5,6) and (3,7)",
+    "Graph D with points at (4,0) and (6,2)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Graphs show points on coordinate grids; exact points not labeled numerically but estimated visually."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Ms. Fitzgerald had 2\\frac{1}{4} gallons of fruit punch. She served \\frac{3}{8} gallon of the fruit punch to her family at lunch.\n\nHow many gallons of fruit punch did Ms. Fitzgerald have left after lunch?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "2\\frac{1}{3} gal"
+    },
+    {
+      "label": "G",
+      "text": "1\\frac{6}{8} gal"
+    },
+    {
+      "label": "H",
+      "text": "1\\frac{1}{2} gal"
+    },
+    {
+      "label": "J",
+      "text": "1\\frac{7}{8} gal"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "stem text with fractions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

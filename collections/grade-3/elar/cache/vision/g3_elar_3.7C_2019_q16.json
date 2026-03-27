@@ -1,0 +1,28 @@
+{
+  "stem": "The author wrote this selection most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "tell the reader where children\u2019s books can be found"
+    },
+    {
+      "label": "G",
+      "text": "entertain the reader with some old children\u2019s stories"
+    },
+    {
+      "label": "H",
+      "text": "explain to the reader the history of one type of children\u2019s book"
+    },
+    {
+      "label": "J",
+      "text": "show the reader what to include in children\u2019s stories"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

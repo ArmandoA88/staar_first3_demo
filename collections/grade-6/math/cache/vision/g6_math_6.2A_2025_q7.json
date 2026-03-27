@@ -1,0 +1,30 @@
+{
+  "stem": "Which value would NOT be located in the shaded region of the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "- \\( \\frac{8}{2} \\)"
+    },
+    {
+      "label": "B",
+      "text": "-33"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{11}{8} \\)"
+    },
+    {
+      "label": "D",
+      "text": "2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A Venn diagram with three nested rectangles labeled \"Rational numbers\" (outer rectangle), \"Integers\" (middle shaded rectangle), and \"Whole numbers\" (inner rectangle)."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

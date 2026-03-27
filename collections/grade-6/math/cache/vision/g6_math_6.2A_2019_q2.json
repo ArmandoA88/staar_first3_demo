@@ -1,0 +1,30 @@
+{
+  "stem": "Which Venn diagram shows the correct relationship among different sets of numbers and the correct placement of \\(-648\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Integers\n\u2212648\nWhole numbers\nRational numbers"
+    },
+    {
+      "label": "H",
+      "text": "Whole numbers\n\u2212648\nIntegers\nRational numbers"
+    },
+    {
+      "label": "G",
+      "text": "Integers\nWhole numbers\n\u2212648\nRational numbers"
+    },
+    {
+      "label": "J",
+      "text": "Whole numbers\nIntegers\n\u2212648\nRational numbers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four Venn diagrams labeled F, H, G, and J showing sets Whole numbers, Integers, and Rational numbers with placement of -648."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

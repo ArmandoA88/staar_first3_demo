@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these helps Mike solve Mrs. Watson's problem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The detail about the Ranger Scouts meeting"
+    },
+    {
+      "label": "B",
+      "text": "The smell of her cookies"
+    },
+    {
+      "label": "C",
+      "text": "Her keys on the table"
+    },
+    {
+      "label": "D",
+      "text": "Agatha's meowing"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

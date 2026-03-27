@@ -1,0 +1,30 @@
+{
+  "stem": "Cara and Marcus shared a candy bar. The models are shaded to show the fraction of the candy bar each of them ate.\n\nCara  [8 shaded out of 11 total]\nMarcus  [3 shaded out of 11 total]\n\nWhat fraction of the candy bar did Cara and Marcus eat altogether?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{11}{12}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{9}{16}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{1}{12}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{9}{24}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two rectangular bar models: Cara's model has 11 total parts with 8 shaded, Marcus's model has 11 total parts with 3 shaded."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

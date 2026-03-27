@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of Scene 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "After Deanna finds Jonathan reading her diary, the two have a conversation about his actions. Deanna feels as though Jonathan is always going through her private things without asking."
+    },
+    {
+      "label": "G",
+      "text": "Deanna catches Jonathan in her room reading her diary and demands to know what he is doing. Jonathan at first denies reading it but then claims it seems like Deanna wanted him to read it."
+    },
+    {
+      "label": "H",
+      "text": "Jonathan is cleaning up the family room and begins reading Deanna\u2019s diary because of what she wrote on the cover. He is disappointed to find that her diary does not contain any embarrassing stories."
+    },
+    {
+      "label": "J",
+      "text": "Deanna and Jonathan disagree over the meaning of the words she wrote on the cover of her diary. She thinks he should not have read it, and he thinks she is guilty of false advertising."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

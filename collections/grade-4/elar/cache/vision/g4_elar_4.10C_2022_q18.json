@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes this illustration?",
+  "instruction": "Use \"How Six Sons Rescued Anansi\" to answer the following question.\n\nLook at this illustration from the story \"How Six Sons Rescued Anansi.\"",
+  "options": [
+    {
+      "label": "F",
+      "text": "To highlight that Anansi is about to escape from the bubble"
+    },
+    {
+      "label": "G",
+      "text": "To show that Anansi is floating high in the bubble"
+    },
+    {
+      "label": "H",
+      "text": "To hint that Anansi is worried that the hungry fish may eat him"
+    },
+    {
+      "label": "J",
+      "text": "To suggest that no one can see where Anansi has gone"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "illustration of a spider in a bubble above water with a fish below"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

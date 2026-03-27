@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Keysha\u2019s mother receives tickets to a professional basketball game. Thankful for the tickets, Keysha and her mother enjoy the game together. They see an important basketball player who has just joined the team, and Keysha gets his autograph."
+    },
+    {
+      "label": "B",
+      "text": "Keysha achieves her longtime dream of meeting her hero, a basketball player named Dwight Edwards. After the game he signs a photograph for her. Keysha feels sorry for a child who is crying because he was unable to get an autograph."
+    },
+    {
+      "label": "C",
+      "text": "Eager to see her favorite basketball player, Keysha hopes that he will sign a photograph for her. After the game her mother encourages her to approach him. He agrees to sign the photograph and thanks Keysha for coming to the game."
+    },
+    {
+      "label": "D",
+      "text": "Keysha and her mother go to a basketball game to see Keysha\u2019s favorite player, Dwight Edwards. Keysha meets him after the game and gets his autograph. However, a little boy\u2019s sadness leads Keysha to give the child her signed photograph."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2018 - Q7 Passage #1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

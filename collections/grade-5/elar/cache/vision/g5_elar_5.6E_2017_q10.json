@@ -1,0 +1,28 @@
+{
+  "stem": "Based on the information in the article, what can the reader infer about the contest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Some people travel from places outside the city to participate in the event."
+    },
+    {
+      "label": "G",
+      "text": "The contestants are required to grow the cherries that are used in the event."
+    },
+    {
+      "label": "H",
+      "text": "The contestants need to have participated in a similar event in the past."
+    },
+    {
+      "label": "J",
+      "text": "People from the town enjoyed the event only when it was a small neighborhood gathering."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

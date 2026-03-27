@@ -1,0 +1,33 @@
+{
+  "stem": "Which expression is equivalent to 1,000 + 196?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "10^{2} + 7 \\cdot 28"
+    },
+    {
+      "label": "G",
+      "text": "10^{3} + 14^{2}"
+    },
+    {
+      "label": "H",
+      "text": "100^{3} + 7 \\cdot 28"
+    },
+    {
+      "label": "J",
+      "text": "100^{2} + 14^{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "10^{2} + 7 \\cdot 28",
+    "10^{3} + 14^{2}",
+    "100^{3} + 7 \\cdot 28",
+    "100^{2} + 14^{2}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change is needed in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change idea to ideas"
+    },
+    {
+      "label": "B",
+      "text": "Change had begun to had began"
+    },
+    {
+      "label": "C",
+      "text": "Change earlyer to earlier"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed in sentence 8."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

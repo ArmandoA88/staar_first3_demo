@@ -1,0 +1,28 @@
+{
+  "stem": "The author wrote this selection most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "show the reader how cats are different from other animals"
+    },
+    {
+      "label": "B",
+      "text": "explain why some stray cats like to be around people"
+    },
+    {
+      "label": "C",
+      "text": "share an opinion about why cats make great pets"
+    },
+    {
+      "label": "D",
+      "text": "inform the reader about a special cat that lives in an unusual place"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

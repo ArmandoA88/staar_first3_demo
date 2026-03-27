@@ -1,0 +1,30 @@
+{
+  "stem": "The stem and leaf plot shows Ryan's math scores so far this year.\n\nRyan's Math Scores\nStem | Leaf\n7      9\n8      2 2 3 6\n9      0 1 3 4 7\n\n9|1 means 91.\n\nWhat is the sum of Ryan's greatest math score and least math score?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "169"
+    },
+    {
+      "label": "G",
+      "text": "187"
+    },
+    {
+      "label": "H",
+      "text": "176"
+    },
+    {
+      "label": "J",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Ryan's Math Scores stem and leaf plot"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

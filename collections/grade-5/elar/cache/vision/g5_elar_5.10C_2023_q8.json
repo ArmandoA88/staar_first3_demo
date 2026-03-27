@@ -1,0 +1,31 @@
+{
+  "stem": "What is the most likely reason the author included these photographs in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show what gave puzzles their name"
+    },
+    {
+      "label": "B",
+      "text": "To show that there are different types of puzzles"
+    },
+    {
+      "label": "C",
+      "text": "To show that the first puzzles were made of wood"
+    },
+    {
+      "label": "D",
+      "text": "To show which type of puzzle best helps the right side of the brain"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A photograph of two children putting together a jigsaw puzzle, captioned 'Putting Together a Jigsaw Puzzle'",
+    "A photograph of a detailed puzzle model of a building, captioned 'Some puzzles contain thousands of pieces.'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "What change, if any, should be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change look to looking"
+    },
+    {
+      "label": "B",
+      "text": "Delete more"
+    },
+    {
+      "label": "C",
+      "text": "Change closer to closser"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made in this sentence."
+    }
+  ],
+  "choice_pool": [
+    "Change look to looking",
+    "Delete more",
+    "Change closer to closser",
+    "No change should be made in this sentence."
+  ],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "mc",
+  "confidence": 1,
+  "notes": "Question about editing sentence 3 with four answer choices."
+}

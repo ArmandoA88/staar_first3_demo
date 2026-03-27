@@ -1,0 +1,28 @@
+{
+  "stem": "The author wrote this article most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "encourage readers to visit more museums"
+    },
+    {
+      "label": "B",
+      "text": "tell about the functions of the human body"
+    },
+    {
+      "label": "C",
+      "text": "inform readers about a unique museum"
+    },
+    {
+      "label": "D",
+      "text": "compare the different types of museum exhibits"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Read this line from the play.\n\nEMPEROR: How can such a plain-looking bird sing so beautifully?\n\nWhat is the most likely purpose of this line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To create suspense about what the emperor will do next"
+    },
+    {
+      "label": "G",
+      "text": "To set a tone of bewilderment"
+    },
+    {
+      "label": "H",
+      "text": "To resolve the emperor's problem"
+    },
+    {
+      "label": "J",
+      "text": "To foreshadow an event that will change the emperor's perspective"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Boxed quote: EMPEROR: How can such a plain-looking bird sing so beautifully?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

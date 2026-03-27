@@ -1,0 +1,30 @@
+{
+  "stem": "Nathan built the hanging mobile shown in the picture to show some relationships among shapes.",
+  "instruction": "Which shape goes in the empty box in order to complete Nathan's mobile?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Trapezoid"
+    },
+    {
+      "label": "B",
+      "text": "Quadrilateral"
+    },
+    {
+      "label": "C",
+      "text": "Rhombus"
+    },
+    {
+      "label": "D",
+      "text": "Triangle"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram shows a hierarchical mobile: top box labeled 'Parallelogram' connected to three boxes below. The middle and right boxes are labeled 'Square' and 'Rectangle', the left box is empty."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A list of numbers is shown.\n\n51 52 53 54 55\n\nHow many numbers in the list are composite numbers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4"
+    },
+    {
+      "label": "B",
+      "text": "1"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "numbers: 51 52 53 54 55"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

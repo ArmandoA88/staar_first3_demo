@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Charlotte printed out a photograph so that showing the two girls together."
+    },
+    {
+      "label": "B",
+      "text": "Charlotte printed out a photograph showing the two girls together."
+    },
+    {
+      "label": "C",
+      "text": "Charlotte printed out a photograph and showed the two girls together."
+    },
+    {
+      "label": "D",
+      "text": "Charlotte printed out a photograph. Because it showed the two girls"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Mr. Fern\u00e1ndez packed 31 red apples and 41 green apples into a box for a customer. He packed 8 boxes like this. Mr. Fern\u00e1ndez used this equation to find x, the number of apples he packed into all the boxes.\n\nx = (31 + 41)8\n\nHow many apples did Mr. Fern\u00e1ndez pack into the boxes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "576"
+    },
+    {
+      "label": "B",
+      "text": "568"
+    },
+    {
+      "label": "C",
+      "text": "80"
+    },
+    {
+      "label": "D",
+      "text": "10,168"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "x = (31 + 41)8"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

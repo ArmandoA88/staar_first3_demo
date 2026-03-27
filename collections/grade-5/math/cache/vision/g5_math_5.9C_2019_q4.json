@@ -1,0 +1,30 @@
+{
+  "stem": "How many students did not pick strawberry as their favorite ice-cream flavor?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "55"
+    },
+    {
+      "label": "G",
+      "text": "120"
+    },
+    {
+      "label": "H",
+      "text": "125"
+    },
+    {
+      "label": "J",
+      "text": "115"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A horizontal bar graph titled 'Favorite Ice-Cream Flavor' showing three categories: Vanilla, Chocolate, Strawberry with the x-axis labeled 'Number of Students' ranging from 35 to 85."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "The graph data and labels are accurately transcribed. The problem asks for students who did NOT pick strawberry, so it requires summation of other categories."
+}

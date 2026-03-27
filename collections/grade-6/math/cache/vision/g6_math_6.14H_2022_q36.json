@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the median annual salaries for two different jobs.\n\nMedian Annual Salaries\n\n| Job               | Median Annual Salary (dollars) |\n|-------------------|--------------------------------|\n| Marketing Manager | 115,750                        |\n| Financial Analyst | 76,950                         |\n\nBased on the information in the table, how much more money would a marketing manager earn than a financial analyst over 10 years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$38,800"
+    },
+    {
+      "label": "G",
+      "text": "$1,927,000"
+    },
+    {
+      "label": "H",
+      "text": "$388,000"
+    },
+    {
+      "label": "J",
+      "text": "$192,700"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

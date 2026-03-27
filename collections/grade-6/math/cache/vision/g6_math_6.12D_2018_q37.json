@@ -1,0 +1,30 @@
+{
+  "stem": "Employees who have retired from a company are placed in different benefit categories. The bar graph shows the percentages of the retired employees in different benefit categories.\n\nWhich statement about the employees is supported by the data in the bar graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "More than half the employees are in Category I."
+    },
+    {
+      "label": "B",
+      "text": "The number of employees in Category II is twice the number of employees in Category III."
+    },
+    {
+      "label": "C",
+      "text": "The number of employees in Category II or Category III is greater than the number of employees in Category I."
+    },
+    {
+      "label": "D",
+      "text": "The number of employees in Category I is three times the number of employees in Category II."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Retired Employees' with vertical axis labeled 'Percentage' increments of 10 from 0 to 50 and horizontal axis labeled 'Benefits Category' with four categories: Category I (~45), Category II (~15), Category III (~30), Category IV (~10)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Lucas spends $127 at the store.\n\n\u2022 He spends $55 on a remote-control car.\n\n\u2022 He spends $31 on a pair of headphones.\n\n\u2022 He spends the rest of the money on a video game.\n\nWhich equation can be used to find m, the amount of money in dollars that Lucas spends on the video game?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "127 = m - 55 - 31"
+    },
+    {
+      "label": "B",
+      "text": "127 = m - 55 + 31"
+    },
+    {
+      "label": "C",
+      "text": "127 = 55 + 31 - m"
+    },
+    {
+      "label": "D",
+      "text": "127 = 55 + 31 + m"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

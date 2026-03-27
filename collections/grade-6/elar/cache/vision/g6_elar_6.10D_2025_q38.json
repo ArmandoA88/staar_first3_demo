@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change chuckled to chuckling"
+    },
+    {
+      "label": "B",
+      "text": "Change quietly to quiet"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after daughter"
+    },
+    {
+      "label": "D",
+      "text": "Change honey to Honey"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 5?",
+    "A Change chuckled to chuckling",
+    "B Change quietly to quiet",
+    "C Insert a comma after daughter",
+    "D Change honey to Honey"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

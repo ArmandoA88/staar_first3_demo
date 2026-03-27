@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 15.\n\nThe whole class was buzzing now.\n\nThis sentence shows that the students in the class were \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "eager to go to lunch"
+    },
+    {
+      "label": "B",
+      "text": "nervous about collecting cans"
+    },
+    {
+      "label": "C",
+      "text": "curious about the details of the contest"
+    },
+    {
+      "label": "D",
+      "text": "excited about Mrs. Pike\u2019s news"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The whole class was buzzing now."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

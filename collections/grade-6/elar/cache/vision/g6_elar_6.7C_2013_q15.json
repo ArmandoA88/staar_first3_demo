@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence expresses the turning point in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I looked at the students and gave them a thumbs-up."
+    },
+    {
+      "label": "B",
+      "text": "I wasn\u2019t the one who was complaining anymore."
+    },
+    {
+      "label": "C",
+      "text": "It sounded like a great classroom to spend time in."
+    },
+    {
+      "label": "D",
+      "text": "Just six weeks ago I had been the envy of my middle school peers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

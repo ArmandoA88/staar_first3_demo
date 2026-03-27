@@ -1,0 +1,30 @@
+{
+  "stem": "What is the BEST way to combine sentences 7 and 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A cowboy and named Robert Ellison was the first to report seeing them."
+    },
+    {
+      "label": "B",
+      "text": "A cowboy named Robert Ellison was the first to report seeing them."
+    },
+    {
+      "label": "C",
+      "text": "A cowboy was the first to report seeing them and Robert Ellison."
+    },
+    {
+      "label": "D",
+      "text": "A cowboy was the first to report seeing them named Robert Ellison."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with a prompt and four multiple-choice options listed vertically."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

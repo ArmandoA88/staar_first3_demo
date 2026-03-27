@@ -1,0 +1,31 @@
+{
+  "stem": "What do these lines reveal about Sunny?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She believes it is important to spell difficult words."
+    },
+    {
+      "label": "B",
+      "text": "She depends on her family to help her practice."
+    },
+    {
+      "label": "C",
+      "text": "She spells certain words as a way of annoying her brother."
+    },
+    {
+      "label": "D",
+      "text": "She knows that she is a better speller than her brother."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "SUNNY: Give me an L-E-D! Give me a Z-E-P-P-E-L-I-N! What does that spell\u2014 (line 29)",
+    "SUNNY: Give me a G-R-A-T-I-T-U-D-E! What does that spell? (line 37)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

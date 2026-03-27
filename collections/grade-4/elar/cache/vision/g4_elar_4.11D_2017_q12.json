@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change She to They"
+    },
+    {
+      "label": "G",
+      "text": "Change in 350 to she was in 350"
+    },
+    {
+      "label": "H",
+      "text": "Change piece's to pieces"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in sentence 9."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

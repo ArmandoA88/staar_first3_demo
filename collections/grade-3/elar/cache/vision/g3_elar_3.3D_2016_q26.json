@@ -1,0 +1,34 @@
+{
+  "stem": "A synonym for the word eager in line 33 is \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "excited"
+    },
+    {
+      "label": "G",
+      "text": "satisfied"
+    },
+    {
+      "label": "H",
+      "text": "amused"
+    },
+    {
+      "label": "J",
+      "text": "surprised"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "26  A synonym for the word eager in line 33 is \u2014",
+    "F  excited",
+    "G  satisfied",
+    "H  amused",
+    "J  surprised"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

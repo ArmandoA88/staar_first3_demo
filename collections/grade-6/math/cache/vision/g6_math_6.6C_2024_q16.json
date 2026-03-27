@@ -1,0 +1,30 @@
+{
+  "stem": "The length of Ms. Palmer's camping trailer is x feet. The length of Mr. Guzman's camping trailer, y, is 6 feet less than the length of Ms. Palmer's trailer.\n\nWhich equation represents y, the length of Mr. Guzman's trailer in feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = -6x"
+    },
+    {
+      "label": "B",
+      "text": "y = 6 - x"
+    },
+    {
+      "label": "C",
+      "text": "y = x + 6"
+    },
+    {
+      "label": "D",
+      "text": "y = x - 6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2024 \u2013 Q16 The length of Ms. Palmer\u2019s camping trailer is x feet. The length of Mr. Guzman\u2019s camping trailer, y, is 6 feet less than the length of Ms. Palmer\u2019s trailer. Which equation represents y, the length of Mr. Guzman\u2019s trailer in feet? (A) y = -6x (B) y = 6 - x (C) y = x + 6 (D) y = x - 6"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

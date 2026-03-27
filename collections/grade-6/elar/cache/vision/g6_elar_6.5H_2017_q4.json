@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 1.\n\n_Blinking usually occurs automatically, like your heartbeat._\n\nWhich statement from the article supports the idea in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "That's when the muscles that control eyelids eventually lose some of their tone and ability to move."
+    },
+    {
+      "label": "G",
+      "text": "You rarely notice this type of blink, which is incredibly fast."
+    },
+    {
+      "label": "H",
+      "text": "Without this repeated lubrication, your eyeballs begin to dry, and your eyelids feel sticky."
+    },
+    {
+      "label": "J",
+      "text": "Each time you blink, your eye closes for about three-tenths of a second."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Blinking usually occurs automatically, like your heartbeat."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "An electronic book has a file size of 2.4 megabytes. What is the file size in megabytes of 16 of these electronic books?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "32.4 megabytes"
+    },
+    {
+      "label": "B",
+      "text": "54.4 megabytes"
+    },
+    {
+      "label": "C",
+      "text": "32.64 megabytes"
+    },
+    {
+      "label": "D",
+      "text": "38.4 megabytes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

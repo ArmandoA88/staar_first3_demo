@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change judge to Judge"
+    },
+    {
+      "label": "B",
+      "text": "Change quickly to quicker"
+    },
+    {
+      "label": "C",
+      "text": "Change and to but"
+    },
+    {
+      "label": "D",
+      "text": "Change hop to hopped"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 9?",
+    "\u24b6 Change judge to Judge",
+    "\u24b7 Change quickly to quicker",
+    "\u24b8 Change and to but",
+    "\u24b9 Change hop to hopped"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

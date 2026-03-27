@@ -1,0 +1,31 @@
+{
+  "stem": "Which sentence best completes the diagram?",
+  "instruction": "Read the diagram.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Bol wants to honor his mother."
+    },
+    {
+      "label": "G",
+      "text": "Bol thinks his friends do not have enough books."
+    },
+    {
+      "label": "H",
+      "text": "Bol wants people to learn to share with others."
+    },
+    {
+      "label": "J",
+      "text": "Bol notices that libraries make people want to read."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "CAUSE -> EFFECT",
+    "Bol builds the first Little Free Library."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

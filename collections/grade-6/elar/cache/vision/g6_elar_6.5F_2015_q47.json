@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection best shows that people recognize Fotheringham's accomplishments?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He has also been interviewed on CNN and earned a spot on the ABC news segment \"Person of the Week.\""
+    },
+    {
+      "label": "B",
+      "text": "He likes to show these young people that a wheelchair can be a toy as well as a tool."
+    },
+    {
+      "label": "C",
+      "text": "He also performs on extreme-sports tours, racing down huge ramps and flying into the air to entertain crowds."
+    },
+    {
+      "label": "D",
+      "text": "Today Fotheringham competes in extreme-sports contests, where he's almost always the only athlete in a wheelchair."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

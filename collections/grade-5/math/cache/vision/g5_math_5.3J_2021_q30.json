@@ -1,0 +1,30 @@
+{
+  "stem": "Which model represents the expression 4 \\u00f7 \\u00bc1\\u20448?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Two rows of four squares each, all divided into eighths and fully shaded"
+    },
+    {
+      "label": "G",
+      "text": "Four squares with no shading, each divided into fourths"
+    },
+    {
+      "label": "H",
+      "text": "Two rows of four squares each, some squares divided into eighths and some shaded"
+    },
+    {
+      "label": "J",
+      "text": "Two rows of four squares each, no shading, each divided into fourths"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four choices labeled F, G, H, J each showing arrangements of squares divided into sections with different shading"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

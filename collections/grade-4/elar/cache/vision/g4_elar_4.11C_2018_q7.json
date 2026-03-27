@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "All the while a regular kid had been thinking about a story."
+    },
+    {
+      "label": "B",
+      "text": "All the while he had been thinking of a story about a regular kid."
+    },
+    {
+      "label": "C",
+      "text": "All the while he had been thinking about a regular kid and a story."
+    },
+    {
+      "label": "D",
+      "text": "All the while he had been thinking of a story it was about a regular kid."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

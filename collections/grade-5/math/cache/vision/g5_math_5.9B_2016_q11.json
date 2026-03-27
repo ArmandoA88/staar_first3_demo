@@ -1,0 +1,34 @@
+{
+  "stem": "The table shows the high temperatures and the numbers of snow cones sold at a snack bar on seven days.\n\nSnow Cone Sales\n\n| High Temperature (\u00b0F) | Number Sold |\n|------------------------|-------------|\n| 92                     | 25          |\n| 85                     | 30          |\n| 90                     | 28          |\n| 87                     | 22          |\n| 95                     | 32          |\n| 93                     | 30          |\n| 92                     | 40          |\n\nWhich scatterplot best represents the data in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Scatterplot with points at approx. (92,25), (85,30), (90,28), (87,22), (95,32), (93,30), (92,40))"
+    },
+    {
+      "label": "B",
+      "text": "(Scatterplot with points at approx. (92,25), (85,30), (90,28), (87,22), (95,32), (93,30), (92,40))"
+    },
+    {
+      "label": "C",
+      "text": "(Scatterplot with points not matching table data exactly)"
+    },
+    {
+      "label": "D",
+      "text": "(Scatterplot with points not matching table data exactly)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: Snow Cone Sales",
+    "Scatterplot A",
+    "Scatterplot B",
+    "Scatterplot C",
+    "Scatterplot D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Scatterplots A and B appear visually similar and match the given data points closely. C and D do not match well. The problem asks to select the best scatterplot that represents the data."
+}

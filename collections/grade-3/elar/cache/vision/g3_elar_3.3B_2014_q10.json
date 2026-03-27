@@ -1,0 +1,34 @@
+{
+  "stem": "Which meaning most closely matches the word admitted as it is used in paragraph 22?",
+  "instruction": "Read this dictionary entry.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Meaning 1"
+    },
+    {
+      "label": "G",
+      "text": "Meaning 2"
+    },
+    {
+      "label": "H",
+      "text": "Meaning 3"
+    },
+    {
+      "label": "J",
+      "text": "Meaning 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "admit \\\u0259d-\u02c8mit\\ verb",
+    "1. to accept as a member of a group",
+    "2. to allow to go into a place",
+    "3. to allow to use as proof in a courtroom",
+    "4. to agree that something is true"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

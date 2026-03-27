@@ -1,0 +1,33 @@
+{
+  "stem": "The weights of four puppies are shown in pounds.\n\n9.5 \u00a0\u00a0 9\\frac{3}{8} \u00a0\u00a0 9.125 \u00a0\u00a0 9\\frac{3}{4}\n\nWhich list shows these weights in order from greatest to least?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "9\\frac{3}{4} \u00a0 9.5 \u00a0 9\\frac{3}{8} \u00a0 9.125"
+    },
+    {
+      "label": "G",
+      "text": "9.5 \u00a0 9\\frac{3}{8} \u00a0 9\\frac{3}{4} \u00a0 9.125"
+    },
+    {
+      "label": "H",
+      "text": "9.125 \u00a0 9\\frac{3}{8} \u00a0 9.5 \u00a0 9\\frac{3}{4}"
+    },
+    {
+      "label": "J",
+      "text": "9\\frac{3}{4} \u00a0 9\\frac{3}{8} \u00a0 9.5 \u00a0 9.125"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "9.5",
+    "9\\frac{3}{8}",
+    "9.125",
+    "9\\frac{3}{4}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

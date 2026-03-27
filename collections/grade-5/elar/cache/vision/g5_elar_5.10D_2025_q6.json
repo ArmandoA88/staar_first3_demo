@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the playwright describes Ben as \u201cout of breath\u201d and \u201clike he just rolled out of bed\u201d?",
+  "instruction": "Read line 1 from the play.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To show that Ben relies on help from other people"
+    },
+    {
+      "label": "B",
+      "text": "To show that Ben is often tired in the morning"
+    },
+    {
+      "label": "C",
+      "text": "To show that Ben does things at the last possible moment"
+    },
+    {
+      "label": "D",
+      "text": "To show that Ben cares greatly about his school work"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "[The setting is Wednesday morning on a school bus. Shruti is seated. Ben enters. He is out of breath and looks like he just rolled out of bed. He is holding a poster board. He sits next to Shruti.]"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

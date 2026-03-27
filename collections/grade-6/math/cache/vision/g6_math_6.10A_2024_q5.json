@@ -1,0 +1,30 @@
+{
+  "stem": "An equation is shown.  \n\n8x - 2x = 48\n\nWhat is the solution to the equation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = -8"
+    },
+    {
+      "label": "B",
+      "text": "x = \\frac{1}{8}"
+    },
+    {
+      "label": "C",
+      "text": "x = 8"
+    },
+    {
+      "label": "D",
+      "text": "x = -\\frac{1}{8}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "8x - 2x = 48"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

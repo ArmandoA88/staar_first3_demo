@@ -1,0 +1,30 @@
+{
+  "stem": "The dot plot shows the number of games a middle school basketball team won in each of the past 15 seasons.\n\nChoose the correct answer from each drop-down menu to complete the statements.\n\nThe mean of the data is __________, and the distribution of the data is __________.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the statements.",
+  "options": [
+    {
+      "label": null,
+      "text": "about 7; skewed right"
+    },
+    {
+      "label": null,
+      "text": "about 7; approximately symmetric"
+    },
+    {
+      "label": null,
+      "text": "about 9; skewed left"
+    },
+    {
+      "label": null,
+      "text": "about 9; approximately symmetric"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": "The mean of the data is [blank_1], and the distribution of the data is [blank_2].",
+  "visual_elements": [
+    "Dot plot titled 'Games Won Each Season' with horizontal axis labeled 'Number of Games' ranging from 2 to 12, with dots indicating seasons for each number of games: 2(1 dot), 4(1 dot), 6(3 dots), 7(1 dot), 8(2 dots), 9(3 dots), 10(3 dots), 11(2 dots)."
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.98,
+  "notes": null
+}

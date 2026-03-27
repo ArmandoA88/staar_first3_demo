@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 24 and 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Since he made his way steadily down with a grin, it began to spread over his face."
+    },
+    {
+      "label": "G",
+      "text": "He made his way steadily down because a grin began to spread over his face."
+    },
+    {
+      "label": "H",
+      "text": "As he made his way steadily down, a grin began to spread over his face."
+    },
+    {
+      "label": "J",
+      "text": "He made his way steadily down a grin began to spread over his face."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

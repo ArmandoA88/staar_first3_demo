@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to \\( (3p + 2) \\cdot 7 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3p + 9"
+    },
+    {
+      "label": "B",
+      "text": "3p + 14"
+    },
+    {
+      "label": "C",
+      "text": "21p + 2"
+    },
+    {
+      "label": "D",
+      "text": "21p + 14"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(3p + 2) \\cdot 7"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which of the following is the best summary of paragraphs 1 through 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An ant and a bee see a caterpillar making a house. Both of them talk to the caterpillar while it works to finish its task the only way it knows how."
+    },
+    {
+      "label": "B",
+      "text": "A caterpillar is making a house out of something like silk on a twig. The house is called a cocoon, and it takes a long time to make."
+    },
+    {
+      "label": "C",
+      "text": "A caterpillar is making a house for itself. An ant and a bee suggest better places for the caterpillar to live, but the caterpillar continues with its task."
+    },
+    {
+      "label": "D",
+      "text": "An ant and a bee watch a caterpillar making a house. They think the caterpillar is having trouble, so they suggest different places for it to live."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

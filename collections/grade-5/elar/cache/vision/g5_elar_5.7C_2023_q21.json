@@ -1,0 +1,22 @@
+{
+  "stem": "Which sentence from the story shows that the trip to the campsite has been carefully planned?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "3",
+      "text": "The park had hiking trails, a lake, a bird sanctuary, and even a small museum. Families flocked to the park every summer, so the Thompsons reserved their campsite six months in advance."
+    },
+    {
+      "label": "4",
+      "text": "Kim thought about what their own tent meant for this trip. She could prove how skilled she had become."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text highlighting over sentences 3 and 4 in green"
+  ],
+  "item_type_inferred": "Hot Text",
+  "confidence": 1,
+  "notes": null
+}

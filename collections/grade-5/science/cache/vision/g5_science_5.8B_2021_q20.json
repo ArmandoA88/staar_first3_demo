@@ -1,0 +1,30 @@
+{
+  "stem": "A student constructs the circuit shown for a science demonstration.\n\nWith the switches in these positions, which lights are on?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "All the lights"
+    },
+    {
+      "label": "G",
+      "text": "Lights 1 and 2 only"
+    },
+    {
+      "label": "H",
+      "text": "Lights 3 and 4 only"
+    },
+    {
+      "label": "J",
+      "text": "None of the lights"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circuit diagram with 4 light bulbs labeled 1 to 4 and 2 switches shown in the image with their current on/off positions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Andy has included a sentence that does not belong in the first paragraph (sentences 1\u20137). Which sentence should he remove?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 2"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 3"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 4"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

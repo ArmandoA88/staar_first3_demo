@@ -1,0 +1,31 @@
+{
+  "stem": "A table of ordered pairs is shown.\n\n| x | 2\\tfrac{1}{2} | 3\\tfrac{1}{2} | 4\\tfrac{1}{2} | 5\\tfrac{1}{2} | 6\\tfrac{1}{2} |\n| y | 5 | 7 | 9 | 11 | 13 |\n\nWhich graph represents these ordered pairs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with points at (2.5,5), (3.5,7), (4.5,9), (5.5,11), (6.5,13) shown "
+    },
+    {
+      "label": "H",
+      "text": "Graph similar to F but unclear if points match exactly"
+    },
+    {
+      "label": "G",
+      "text": "Graph with points at (1,5), (2,7), (3,9), (4,11), (5,13) which do not match x values"
+    },
+    {
+      "label": "J",
+      "text": "Graph with points at (2,5), (3,7), (4,9), (5,11), (6,13) which do not match x values"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing x values 2 1/2, 3 1/2, 4 1/2, 5 1/2, 6 1/2 and y values 5, 7, 9, 11, 13",
+    "Four graphs labeled F, H, G, J each a grid with plotted points"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Math fractions preserved as \\tfrac{1}{2} for clarity in JSON."
+}

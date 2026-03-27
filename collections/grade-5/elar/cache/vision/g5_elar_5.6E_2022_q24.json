@@ -1,0 +1,31 @@
+{
+  "stem": "Which statement describes a DIFFERENCE between the selection \u201cPublic Speaking Is Easier When a Cute Dog Is Listening\u201d and the poem \u201cAssembly\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The selection tells how some people get ready to perform, but the poem tells how someone feels during a performance."
+    },
+    {
+      "label": "G",
+      "text": "The selection focuses more on the people who will do the performing, but the poem focuses only on the people in the audience."
+    },
+    {
+      "label": "H",
+      "text": "The selection suggests that people must have a special talent in order to perform, but the poem suggests that anyone can do it."
+    },
+    {
+      "label": "J",
+      "text": "The selection describes people who are experienced presenters, but the poem describes someone who has never performed for a large audience."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "selection 'Public Speaking Is Easier When a Cute Dog Is Listening'",
+    "poem 'Assembly'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

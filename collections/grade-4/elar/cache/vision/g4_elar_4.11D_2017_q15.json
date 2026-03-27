@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change In 1886 to It was in 1886"
+    },
+    {
+      "label": "B",
+      "text": "Change country's to countries"
+    },
+    {
+      "label": "C",
+      "text": "Delete most"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "15  What change needs to be made in sentence 18?",
+    "A  Change In 1886 to It was in 1886",
+    "B  Change country's to countries",
+    "C  Delete most",
+    "D  No change needs to be made in this sentence."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The model represents an expression.\n\nWhich model represents an equivalent expression?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(black triangle) (white triangle) (black square)\n(black triangle)"
+    },
+    {
+      "label": "B",
+      "text": "(black triangle) (white triangle) (white square)\n(white triangle)"
+    },
+    {
+      "label": "C",
+      "text": "(black triangle) (black square) (black square)\n(black triangle) (white square)\n(black triangle)"
+    },
+    {
+      "label": "D",
+      "text": "(black triangle) (white square)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Model 1: 3 black triangles, 2 white triangles, 2 black squares\nModel 2 (A): 3 black triangles, 1 white triangle, 1 black square\nModel 3 (B): 1 black triangle, 2 white triangles, 1 white square\nModel 4 (C): 3 black triangles, 1 white square, 3 black squares\nModel 5 (D): 1 black triangle, 1 white square\nKey: white triangle = x, white square = 1, black triangle = -x, black square = -1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "The problem is a multiple-choice question about equivalent algebraic expressions represented by models with colored shapes."
+}

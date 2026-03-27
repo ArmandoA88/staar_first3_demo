@@ -1,0 +1,30 @@
+{
+  "stem": "Gabriel bought a dog crate shaped like a rectangular prism with the dimensions shown in the model.\n\nWhat is the area in square inches of the shaded floor of the dog crate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "864 square inches"
+    },
+    {
+      "label": "B",
+      "text": "1,080 square inches"
+    },
+    {
+      "label": "C",
+      "text": "720 square inches"
+    },
+    {
+      "label": "D",
+      "text": "1,296 square inches"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangular prism with dimensions 36 in., 24 in., 30 in.; shaded floor shown"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

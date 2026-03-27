@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these statements about gross income and net income is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Gross income is a tax on all income that a worker earns, and net income is a tax paid by an employer based on a worker's wages."
+    },
+    {
+      "label": "B",
+      "text": "Gross income is a tax paid by an employer based on a worker's wages, and net income is a tax on all income that a person earns."
+    },
+    {
+      "label": "C",
+      "text": "Gross income is the amount an employee is paid after deductions and taxes, and net income is the total amount an employee earns before deductions are applied."
+    },
+    {
+      "label": "D",
+      "text": "Gross income is the total amount an employee earns before deductions are applied, and net income is the amount an employee is paid after deductions and taxes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

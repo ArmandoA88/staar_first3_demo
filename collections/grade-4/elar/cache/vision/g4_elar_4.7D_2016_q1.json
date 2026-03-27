@@ -1,0 +1,35 @@
+{
+  "stem": "Which detail from the selection supports the idea that people enjoy watching the Puppy Bowl?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Animals are filmed months before the Super Bowl takes place."
+    },
+    {
+      "label": "B",
+      "text": "The Puppy Bowl is seen by as many as 12.4 million viewers every year."
+    },
+    {
+      "label": "C",
+      "text": "Animal shelters throughout the country send pictures of animals."
+    },
+    {
+      "label": "D",
+      "text": "The Puppy Bowl can be seen on the same day as the Super Bowl."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q1 Passage #1",
+    "1",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

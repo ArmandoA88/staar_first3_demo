@@ -1,0 +1,34 @@
+{
+  "stem": "The table shows the high temperatures and the numbers of umbrellas brought to the beach in a town for 7 days.\n\nBeach Umbrellas\n\n| High Temperature (\u00b0F) | 83 | 87 | 95 | 81 | 73 | 68 | 81 |\n|-----------------------|----|----|----|----|----|----|----|\n| Number of Beach Umbrellas | 52 | 63 | 80 | 57 | 48 | 44 | 72 |\n\nWhich scatterplot best represents the data in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with High Temperature (\u00b0F): 83, 87, 95, 81, 73, 68, 81 and Number of Beach Umbrellas: 52, 63, 80, 57, 48, 44, 72.",
+    "Scatterplot A with points approximately matching table data pairs",
+    "Scatterplot B with points approximately matching table data pairs",
+    "Scatterplot C with points not matching the data",
+    "Scatterplot D with points not matching the data"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Options are images of scatterplots; exact coordinates not transcribed as text; choice labels preserved as per instruction."
+}

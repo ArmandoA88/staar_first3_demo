@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the way common is used in paragraph 1?",
+  "instruction": "Read the dictionary entry for the word common.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "common \\\u02c8k\u00e4-m\u0259n\\ adjective\n1. shared by people or groups\n2. regularly seen or used\n3. expected actions or behavior\n4. not having wealth or privilege"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which point best represents the ordered pair \\((-2 \\frac{1}{2}, 3)\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Point \\(J\\)"
+    },
+    {
+      "label": "B",
+      "text": "Point \\(K\\)"
+    },
+    {
+      "label": "C",
+      "text": "Point \\(L\\)"
+    },
+    {
+      "label": "D",
+      "text": "Point \\(M\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate grid with points labeled J at (-3, -2), K at (-2, 3), L at (3, 3), M at (3, -2)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

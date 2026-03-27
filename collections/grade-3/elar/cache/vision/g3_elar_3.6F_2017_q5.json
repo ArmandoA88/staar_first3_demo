@@ -1,0 +1,30 @@
+{
+  "stem": "Why does Jake think he's made a mistake?",
+  "instruction": "Read paragraph 8 from the story.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Mrs. Snavin continues to praise him in front of the class."
+    },
+    {
+      "label": "B",
+      "text": "Mrs. Snavin is unable to get the computer program to open."
+    },
+    {
+      "label": "C",
+      "text": "The class is over before he has time to work on the math project."
+    },
+    {
+      "label": "D",
+      "text": "The librarian comes to help the students with their work."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "So I mumbled something like, \"Oh, it was nothing.\" Which was a mistake."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

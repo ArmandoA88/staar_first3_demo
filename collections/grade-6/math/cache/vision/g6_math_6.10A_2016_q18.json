@@ -1,0 +1,30 @@
+{
+  "stem": "Holly bought a magazine subscription for a year. She paid $27. Holly wanted to find the price, p, of the subscription each month. She created the model shown to help find this price.",
+  "instruction": "What was the price of the subscription each month?",
+  "options": [
+    {
+      "label": "F",
+      "text": "$39.00"
+    },
+    {
+      "label": "G",
+      "text": "$2.25"
+    },
+    {
+      "label": "H",
+      "text": "$324.00"
+    },
+    {
+      "label": "J",
+      "text": "$22.50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A rectangular model divided into 12 equal segments with each segment labeled p. Above the 12 segments is a larger rectangle labeled 27."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

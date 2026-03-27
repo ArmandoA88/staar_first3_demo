@@ -1,0 +1,28 @@
+{
+  "stem": "A group of 4 friends paid a total of $50.24 for tickets to a museum. Each friend paid the same amount for a ticket.\n\nHow much did each friend pay for a ticket to the museum?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$200.96"
+    },
+    {
+      "label": "B",
+      "text": "$10.01"
+    },
+    {
+      "label": "C",
+      "text": "$12.01"
+    },
+    {
+      "label": "D",
+      "text": "$12.56"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "What is the correct way to write sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They established the Republic of Texas. And proudly created their own flag."
+    },
+    {
+      "label": "B",
+      "text": "They established and proudly created their own flag. For the Republic of Texas."
+    },
+    {
+      "label": "C",
+      "text": "They established and proudly created for the Republic of Texas. Their own flag."
+    },
+    {
+      "label": "D",
+      "text": "They established the Republic of Texas and proudly created their own flag."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the correct way to write sentence 4?",
+    "A They established the Republic of Texas. And proudly created their own flag.",
+    "B They established and proudly created their own flag. For the Republic of Texas.",
+    "C They established and proudly created for the Republic of Texas. Their own flag.",
+    "D They established the Republic of Texas and proudly created their own flag."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

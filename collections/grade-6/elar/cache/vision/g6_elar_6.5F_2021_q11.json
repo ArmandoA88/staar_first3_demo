@@ -1,0 +1,31 @@
+{
+  "stem": "Which idea in the play does this dialogue help develop?",
+  "instruction": "Read these sentences from line 4 and line 8.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Owner does not realize that he has neglected Dog."
+    },
+    {
+      "label": "B",
+      "text": "Dog is able to speak to Owner."
+    },
+    {
+      "label": "C",
+      "text": "Owner does not want Dog to act like a human."
+    },
+    {
+      "label": "D",
+      "text": "Dog believes that the mail carrier is a danger to the house."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "OWNER: You have no idea how good you\u2019ve got it. (line 4)",
+    "OWNER: That dog has no idea how good he\u2019s got it. (line 8)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

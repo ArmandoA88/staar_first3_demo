@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to combine sentences 9 and 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "After we finished planting, we had a tasty picnic at a table we had set up under a tree."
+    },
+    {
+      "label": "G",
+      "text": "We finished planting, then we had a tasty picnic at a table we had set up under a tree."
+    },
+    {
+      "label": "H",
+      "text": "Finishing planting, we had a picnic at a table we had set up under a tree that was tasty."
+    },
+    {
+      "label": "J",
+      "text": "We finished planting and had a tasty picnic it was at a table we had set up under a tree."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

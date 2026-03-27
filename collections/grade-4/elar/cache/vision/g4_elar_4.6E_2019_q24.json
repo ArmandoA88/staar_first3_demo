@@ -1,0 +1,30 @@
+{
+  "stem": "How is the time capsule in \u201cMax\u2019s Find\u201d similar to the bottles in \u201cMessages in Bottles\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It was made in the 1980s."
+    },
+    {
+      "label": "G",
+      "text": "It was covered by water."
+    },
+    {
+      "label": "H",
+      "text": "It was found by accident."
+    },
+    {
+      "label": "J",
+      "text": "It held many items."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

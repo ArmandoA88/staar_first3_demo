@@ -1,0 +1,30 @@
+{
+  "stem": "Yvonne is researching the effect of education on annual income. A summary of her research is shown in the table.\n\nEffect of Education on Annual Income\n\n| Level of Education      | Annual Income (dollars) |\n|------------------------|-------------------------|\n| High school diploma    | 33,904                  |\n| Associate\u2019s degree     | 40,820                  |\n| Bachelor\u2019s degree      | 55,432                  |\n\nBased on the data in the table, how much more does a person with an associate\u2019s degree earn than a person with only a high school diploma over 10 years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$6,916"
+    },
+    {
+      "label": "B",
+      "text": "$74,724"
+    },
+    {
+      "label": "C",
+      "text": "$747,240"
+    },
+    {
+      "label": "D",
+      "text": "$69,160"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Effect of Education on Annual Income table with data for High school diploma: $33,904; Associate\u2019s degree: $40,820; Bachelor\u2019s degree: $55,432"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

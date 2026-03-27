@@ -1,0 +1,33 @@
+{
+  "stem": "What is 257.684 when rounded to the nearest tenth and the nearest hundredth?",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [
+    {
+      "label": null,
+      "text": "257.7"
+    },
+    {
+      "label": null,
+      "text": "257.68"
+    },
+    {
+      "label": null,
+      "text": "257.68"
+    },
+    {
+      "label": null,
+      "text": "257.69"
+    }
+  ],
+  "choice_pool": [
+    "257.7",
+    "257.6",
+    "257.68",
+    "257.69"
+  ],
+  "response_template": "When rounded to the nearest tenth, the number is [blank_1]. When rounded to the nearest hundredth, the number is [blank_2].",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.9,
+  "notes": null
+}

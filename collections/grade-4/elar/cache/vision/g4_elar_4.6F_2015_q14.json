@@ -1,0 +1,34 @@
+{
+  "stem": "Which sentence from the selection best shows that pets are welcome at Barkitecture events?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "There are areas where dogs and their owners can play."
+    },
+    {
+      "label": "G",
+      "text": "At other booths pet owners can buy treats such as chicken-chip cookies and chicken-liver brownies."
+    },
+    {
+      "label": "H",
+      "text": "Barkitecture events are becoming very popular."
+    },
+    {
+      "label": "J",
+      "text": "The imagination and creativity of the people who enter the events are also recognized."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "14 Which sentence from the selection best shows that pets are welcome at Barkitecture events?",
+    "F There are areas where dogs and their owners can play.",
+    "G At other booths pet owners can buy treats such as chicken-chip cookies and chicken-liver brownies.",
+    "H Barkitecture events are becoming very popular.",
+    "J The imagination and creativity of the people who enter the events are also recognized."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection best highlights that the author is impressed with Brown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Because she could distinguish between light and dark, she and her coach developed a system that enabled Brown to vault competitively."
+    },
+    {
+      "label": "G",
+      "text": "She had made it back to the state championships in the pole vault."
+    },
+    {
+      "label": "H",
+      "text": "She has even considered competing in the Olympics."
+    },
+    {
+      "label": "J",
+      "text": "With these goals in mind, Brown will surely continue to soar to new heights."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text question and four answer choices labeled F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

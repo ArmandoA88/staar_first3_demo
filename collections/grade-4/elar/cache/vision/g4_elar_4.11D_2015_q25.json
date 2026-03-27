@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 17?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "And was even thinking about running. Up the next stalk of grass."
+    },
+    {
+      "label": "B",
+      "text": "I was even thinking about running up the next stalk of grass."
+    },
+    {
+      "label": "C",
+      "text": "I was even thinking about running, I would go up the next stalk of grass."
+    },
+    {
+      "label": "D",
+      "text": "Sentence 17 is written correctly in the story."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

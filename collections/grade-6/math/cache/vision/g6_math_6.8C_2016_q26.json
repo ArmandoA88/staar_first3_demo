@@ -1,0 +1,30 @@
+{
+  "stem": "The table below shows the relationship between the perimeter and area of four squares.\n\nSquares\n\n| Area, A  |\n| (square units) | Perimeter, P |\n| (units) |\n| 1 | 4 |\n| 4 | 8 |\n| 9 | 12 |\n| 16 | 16 |\n\nWhich equation can be used to find A, the area of a square that has a perimeter of P units?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A = (P \\u00F7 4) \\u00D7 (P \\u00F7 4)"
+    },
+    {
+      "label": "G",
+      "text": "A = (P - 4)"
+    },
+    {
+      "label": "H",
+      "text": "A = (P + 4) \\u00D7 (P + 4)"
+    },
+    {
+      "label": "J",
+      "text": "A = P"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Squares table showing Area, A (square units) and Perimeter, P (units) with values 1 and 4, 4 and 8, 9 and 12, 16 and 16."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

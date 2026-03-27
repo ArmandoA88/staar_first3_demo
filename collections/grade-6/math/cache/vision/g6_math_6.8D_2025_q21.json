@@ -1,0 +1,39 @@
+{
+  "stem": "Which figures have the same area in square centimeters?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": "Figure J",
+      "text": "Figure J"
+    },
+    {
+      "label": "Figure K",
+      "text": "Figure K"
+    },
+    {
+      "label": "Figure L",
+      "text": "Figure L"
+    },
+    {
+      "label": "Figure M",
+      "text": "Figure M"
+    },
+    {
+      "label": "Figure N",
+      "text": "Figure N"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Figure J: trapezoid with dimensions 4 cm (top), 7 cm (height), 12 cm (bottom)",
+    "Figure K: rectangle with dimensions 4 cm by 13 cm",
+    "Figure L: triangle with base 7 cm and height 12 cm",
+    "Figure M: square with side length 21 cm",
+    "Figure N: parallelogram with base 6 cm and height 7 cm",
+    "Note: Not drawn to scale"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "The problem requires selecting two figures with equal area using the given dimensions."
+}

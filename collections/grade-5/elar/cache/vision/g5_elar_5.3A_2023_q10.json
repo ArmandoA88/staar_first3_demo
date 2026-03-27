@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the meaning of observations in paragraph 5 of the article \u201cAlone in Nature\u201d?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "observation \\,\u00e4b-s\u0259r-\u02c8v\u0101-sh\u0259n\\ noun 1. a rule of an activity 2. a result of an experiment 3. an important comment 4. the act of looking carefully"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

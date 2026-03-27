@@ -1,0 +1,30 @@
+{
+  "stem": "What can the reader conclude about the dog from this sentence?",
+  "instruction": "Read this sentence from paragraph 12.\n\n_I followed, keeping my distance so as not to scare the calf._",
+  "options": [
+    {
+      "label": "F",
+      "text": "He is no longer interested in getting on the boat with Lewis."
+    },
+    {
+      "label": "G",
+      "text": "He is not certain of where Lewis wants to explore next."
+    },
+    {
+      "label": "H",
+      "text": "He has a new understanding of the calf's feelings."
+    },
+    {
+      "label": "J",
+      "text": "He is no longer frightened by the calf."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I followed, keeping my distance\nso as not to scare the calf."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change from to for"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after spacecraft"
+    },
+    {
+      "label": "C",
+      "text": "Change will help to helped"
+    },
+    {
+      "label": "D",
+      "text": "Change initial to inital"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice question with four answer choices and instructions to identify the needed change in sentence 4."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

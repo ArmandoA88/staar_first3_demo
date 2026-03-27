@@ -1,0 +1,33 @@
+{
+  "stem": "What revision, if any, should be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It can at a time stay underwater for 21 days."
+    },
+    {
+      "label": "B",
+      "text": "It can stay underwater for 21 days at a time."
+    },
+    {
+      "label": "C",
+      "text": "It can stay and remain underwater for 21 days at a time."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A It can at a time stay underwater for 21 days.",
+    "B It can stay underwater for 21 days at a time.",
+    "C It can stay and remain underwater for 21 days at a time.",
+    "D No change is needed."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

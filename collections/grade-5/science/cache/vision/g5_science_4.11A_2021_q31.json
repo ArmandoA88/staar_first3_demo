@@ -1,0 +1,33 @@
+{
+  "stem": "Students list resources that are used to heat buildings.\n\n\u2022 Wood\n\u2022 Coal\n\u2022 Natural gas\n\u2022 Petroleum\n\u2022 Solar energy\n\nWhich of these tables correctly classifies the resources?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Renewable | Nonrenewable\nSolar energy | Petroleum\nWood | Natural gas\n | Coal"
+    },
+    {
+      "label": "B",
+      "text": "Renewable | Nonrenewable\nSolar energy | Coal\nNatural gas | Petroleum\n | Wood"
+    },
+    {
+      "label": "C",
+      "text": "Renewable | Nonrenewable\nWood | Solar energy\nCoal | Petroleum\n | Natural gas"
+    },
+    {
+      "label": "D",
+      "text": "Renewable | Nonrenewable\nPetroleum | Solar energy\nNatural gas | Wood\nCoal | "
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table A",
+    "table B",
+    "table C",
+    "table D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

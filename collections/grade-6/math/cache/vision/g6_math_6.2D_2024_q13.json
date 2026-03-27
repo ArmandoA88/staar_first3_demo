@@ -1,0 +1,23 @@
+{
+  "stem": "Arrange the numbers in order from least to greatest.\n\nMove the correct answer to each box.",
+  "instruction": null,
+  "options": [],
+  "choice_pool": [
+    "46/24",
+    "-0.209",
+    "-1/8",
+    "35/52",
+    "-1 7/10"
+  ],
+  "response_template": "[blank_1] [blank_2] [blank_3] [blank_4] [blank_5]",
+  "visual_elements": [
+    "46/24",
+    "-0.209",
+    "-1/8",
+    "35/52",
+    "-1 7/10"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

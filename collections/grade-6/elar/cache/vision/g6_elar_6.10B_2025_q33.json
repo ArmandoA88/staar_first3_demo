@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence can replace sentence 2 to improve the introduction to this letter?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There are many clubs at my school that I want to tell you a little about in this letter."
+    },
+    {
+      "label": "B",
+      "text": "My friends and I have recently formed a club devoted to community service."
+    },
+    {
+      "label": "C",
+      "text": "Our school has a club, and it is a great place to learn about working with others."
+    },
+    {
+      "label": "D",
+      "text": "I\u2019m in a club that meets on Tuesdays after school in the library next to the gym."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

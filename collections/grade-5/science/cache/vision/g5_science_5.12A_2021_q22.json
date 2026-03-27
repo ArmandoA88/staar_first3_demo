@@ -1,0 +1,35 @@
+{
+  "stem": "Which statements describe an animal interacting with a living part of the environment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Statements 1, 4, and 6 only"
+    },
+    {
+      "label": "G",
+      "text": "Statements 1, 3, and 5 only"
+    },
+    {
+      "label": "H",
+      "text": "Statements 2, 5, and 6 only"
+    },
+    {
+      "label": "J",
+      "text": "Statements 2, 3, and 4 only"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1. A hummingbird dips its beak inside a flower.",
+    "2. A lizard burrows into the sand to stay cool.",
+    "3. A fish absorbs oxygen through its gills.",
+    "4. A cactus wren eats seeds from a cactus fruit.",
+    "5. A sea star clings to a rock in a tidal pool.",
+    "6. A bear scratches its back against a tree."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

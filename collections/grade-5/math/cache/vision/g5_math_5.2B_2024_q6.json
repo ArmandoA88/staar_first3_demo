@@ -1,0 +1,33 @@
+{
+  "stem": "A group of numbers is shown.\n\n\t\t\t\t\t4.76\t4.8\t4.753\t4.801\n\nThe numbers will be listed from least to greatest. Which number should be listed third?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4.76"
+    },
+    {
+      "label": "B",
+      "text": "4.8"
+    },
+    {
+      "label": "C",
+      "text": "4.753"
+    },
+    {
+      "label": "D",
+      "text": "4.801"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4.76",
+    "4.8",
+    "4.753",
+    "4.801"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

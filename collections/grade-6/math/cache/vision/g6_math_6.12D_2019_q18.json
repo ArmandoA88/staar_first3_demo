@@ -1,0 +1,36 @@
+{
+  "stem": "On Saturday Kai gave his guinea pig 80 grams of food. The table shows the amount of each type of food he gave to the guinea pig.\n\nGuinea Pig Food\n\n| Type of Food     | Amount of Food (grams) | Key for Bar Graph |\n|-----------------|-----------------------|-------------------|\n| Hay             | 40                    | [white square]    |\n| Alfalfa pellets | 20                    | [light gray square]|\n| Tomatoes        | 10                    | [medium gray square]|\n| Lettuce         | 10                    | [dark gray square] |\n\nWhich percentage bar graph best represents the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "[white] 40%, [light gray] 20%, [medium gray] 10%, [dark gray] 10%, total 80%"
+    },
+    {
+      "label": "G",
+      "text": "[white] 40%, [light gray] 40%, [medium gray] 20%, [dark gray] 20%, total 100%"
+    },
+    {
+      "label": "H",
+      "text": "[white] 50%, [light gray] 30%, [medium gray] 20%, [dark gray] 20%, total 100%"
+    },
+    {
+      "label": "J",
+      "text": "[white] 50%, [light gray] 30%, [medium gray] 20%, [dark gray] 20%, total 90%"
+    }
+  ],
+  "choice_pool": [
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing Type of Food, Amount of Food (grams), and Key for Bar Graph with colors for Hay (40g, white), Alfalfa pellets (20g, light gray), Tomatoes (10g, medium gray), Lettuce (10g, dark gray).",
+    "Four horizontal bar graphs labeled F, G, H, J representing Guinea Pig Food as colored segments on scales from 0% to 100% showing different proportional distributions of colors white, light gray, medium gray, dark gray."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": "The problem involves matching given food amounts to the correct proportional bar graph in percentage form."
+}

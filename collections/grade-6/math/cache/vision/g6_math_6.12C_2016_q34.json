@@ -1,0 +1,30 @@
+{
+  "stem": "The dot plot shows the number of chess games won by each of the 20 students in a competition.\n\nNumber of Chess Games Won\n\nWhich statement about the data is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The median is 4, and the interquartile range is 10."
+    },
+    {
+      "label": "G",
+      "text": "The median is 4, and the interquartile range is 5."
+    },
+    {
+      "label": "H",
+      "text": "The median is 5, and the interquartile range is 10."
+    },
+    {
+      "label": "J",
+      "text": "The median is 5, and the interquartile range is 5."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Dot plot showing number of chess games won from 0 to 10 with various dots."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

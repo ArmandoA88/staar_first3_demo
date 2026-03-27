@@ -1,0 +1,25 @@
+{
+  "stem": "Brenda is putting candy into gift bags.\n\n\u2022 She has 165 pieces of candy.\n\n\u2022 Each gift bag will have exactly 12 pieces of candy.\n\nHow many gift bags can Brenda make with the candy that she has?\n\nComplete the sentences by selecting the correct answers from the drop-down menus.\n\nBrenda can make a maximum of [blank_1] gift bags.\n\nIn this situation, the remainder represents the number of pieces of candy [blank_2].",
+  "instruction": "Complete the sentences by selecting the correct answers from the drop-down menus.",
+  "options": [
+    {
+      "label": null,
+      "text": "Brenda can make a maximum of [blank_1] gift bags."
+    },
+    {
+      "label": null,
+      "text": "In this situation, the remainder represents the number of pieces of candy [blank_2]."
+    }
+  ],
+  "choice_pool": [
+    "floor",
+    "ceiling",
+    "left over",
+    "in each gift bag"
+  ],
+  "response_template": "Brenda can make a maximum of [blank_1] gift bags.\nIn this situation, the remainder represents the number of pieces of candy [blank_2].",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which model can best be used to justify why the formula for the area of a triangle is \\( \\frac{1}{2}bh \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Image of triangle with base \\(b\\) and height \\(h\\) transforming to a smaller triangle with dimensions labeled \\( \\frac{1}{2}b \\) and \\( \\frac{1}{2}h \\))"
+    },
+    {
+      "label": "B",
+      "text": "(Image of triangle with base \\(b\\) and height \\(h\\) transforming to a triangle with lines dividing into three smaller sections with right angles, all labeled with base \\(b\\))"
+    },
+    {
+      "label": "C",
+      "text": "(Image of triangle with base \\(b\\) and height \\(h\\) transforming to a parallelogram composed of two copies of the original triangle, with base \\(b\\) and height \\(h\\))"
+    },
+    {
+      "label": "D",
+      "text": "(Image of triangle with base \\(b\\) and height \\(h\\) transforming to two triangles stacked vertically, each with base \\(b\\) and height \\(h\\))"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Images of triangles showing geometric transformations to illustrate area calculation"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

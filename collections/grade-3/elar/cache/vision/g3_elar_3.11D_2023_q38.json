@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change the question mark to a period"
+    },
+    {
+      "label": "B",
+      "text": "Change *her* to **our**"
+    },
+    {
+      "label": "C",
+      "text": "Change *friends* to **friend**"
+    },
+    {
+      "label": "D",
+      "text": "Change *with* to **in**"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q38 Passage #7"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

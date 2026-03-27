@@ -1,0 +1,33 @@
+{
+  "stem": "A student compares the physical properties of the four objects shown.\n\nWhich of these physical properties do all four objects have in common?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They all have the same physical state and conduct electricity."
+    },
+    {
+      "label": "G",
+      "text": "They all conduct electricity and attract the same metal objects."
+    },
+    {
+      "label": "H",
+      "text": "They all attract the same metal objects and are not soluble in water."
+    },
+    {
+      "label": "J",
+      "text": "They all are not soluble in water and have the same physical state."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rock",
+    "Rubber eraser",
+    "Paper cup",
+    "Wooden block"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

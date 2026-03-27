@@ -1,0 +1,31 @@
+{
+  "stem": "What are paragraphs 1 and 2 mostly about?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Lakota lived on the grassy plains in the western part of the country."
+    },
+    {
+      "label": "G",
+      "text": "The Lakota used pictures in place of a writing system."
+    },
+    {
+      "label": "H",
+      "text": "The Lakota had a special way to keep track of important events."
+    },
+    {
+      "label": "J",
+      "text": "The Lakota measured years from snowfall to snowfall."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 \u2013 Q26 Passage #4",
+    "question with 4 multiple choice options: F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

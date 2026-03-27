@@ -1,0 +1,31 @@
+{
+  "stem": "The table shows the relationship between the numbers of soft pretzels customers bought at a store and the total cost of the pretzels in dollars.\n\nSoft Pretzels\n\n| Number of Soft Pretzels, x | Total Cost, y (dollars) |\n|-----------------------------|------------------------|\n| 1                           | 3.50                   |\n| 2                           | 7.00                   |\n| 3                           | 10.50                  |\n| 4                           | 14.00                  |\n\nWhich graph best represents the data from the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph labeled F showing points clustered around (4,1), (8,2), (12,3), (15,4)"
+    },
+    {
+      "label": "H",
+      "text": "Graph labeled H showing points clustered around (4,1), (7,2), (11,3), (14,4)"
+    },
+    {
+      "label": "G",
+      "text": "Graph labeled G showing points at (1,4), (2,7), (3,11), (4,14)"
+    },
+    {
+      "label": "J",
+      "text": "Graph labeled J showing points at (1,3.5), (2,7), (3,10.5), (4,14)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table of Number of Soft Pretzels vs Total Cost",
+    "Four graphs labeled F, H, G, and J with plotted points"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Graph J best matches the data points in the table exactly."
+}

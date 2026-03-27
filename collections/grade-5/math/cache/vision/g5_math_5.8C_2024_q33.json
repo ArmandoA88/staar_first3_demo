@@ -1,0 +1,31 @@
+{
+  "stem": "A table of input and output values is shown.\n\n\\begin{tabular}{|c|c|}\n\\hline\n\\textbf{x} & \\textbf{y} \\\\\n\\hline\n7 & 2 \\\\\n5 & 9 \\\\\n8 & 4 \\\\\n\\hline\n\\end{tabular}\n\nWhich graph represents the values in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph plotting points (7,7), (5,8), (9,5)"
+    },
+    {
+      "label": "B",
+      "text": "Graph plotting points (5,9), (7,2), (9,5)"
+    },
+    {
+      "label": "C",
+      "text": "Graph plotting points (7,2), (5,9), (8,4)"
+    },
+    {
+      "label": "D",
+      "text": "Graph plotting points (8,4), (7,7), (9,5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table",
+    "four coordinate plane graphs labeled A, B, C, and D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Options text paraphrased to describe the points plotted in each graph to reflect the content of the graphs shown, exactly matching the answer choices shown in the image."
+}

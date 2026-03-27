@@ -1,0 +1,30 @@
+{
+  "stem": "These lines mainly help the reader imagine what being inside a washing machine \u2014",
+  "instruction": "Read these lines from the poem.\n\ntumbling in the suds,\nlike me\nwhen I\u2019m caught\nin an ocean wave.",
+  "options": [
+    {
+      "label": "A",
+      "text": "feels like"
+    },
+    {
+      "label": "B",
+      "text": "sounds like"
+    },
+    {
+      "label": "C",
+      "text": "looks like"
+    },
+    {
+      "label": "D",
+      "text": "smells like"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "tumbling in the suds, like me when I\u2019m caught in an ocean wave."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

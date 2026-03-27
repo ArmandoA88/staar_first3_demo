@@ -1,0 +1,38 @@
+{
+  "stem": "A project was assigned to 60 students. Each student could choose to create a model, write a paper, create a computer presentation, or make a video. The percentage bar graph shows the percentage of the students who created each type of project.\n\nWhat is the number of students who created each type of project?",
+  "instruction": "Move the correct answer to each box in the table. Each answer may be used more than once. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "Model [blank_1]"
+    },
+    {
+      "label": null,
+      "text": "Paper [blank_2]"
+    },
+    {
+      "label": null,
+      "text": "Presentation [blank_3]"
+    },
+    {
+      "label": null,
+      "text": "Video [blank_4]"
+    }
+  ],
+  "choice_pool": [
+    "6",
+    "10",
+    "12",
+    "20",
+    "30",
+    "50"
+  ],
+  "response_template": "Model [blank_1]\nPaper [blank_2]\nPresentation [blank_3]\nVideo [blank_4]",
+  "visual_elements": [
+    "Bar graph showing percentages for Model, Paper, Presentation, Video with values approximately 20%, 10%, 50%, 20% respectively.",
+    "Key indicating colors for Model, Paper, Presentation, Video."
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

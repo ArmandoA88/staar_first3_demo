@@ -1,0 +1,28 @@
+{
+  "stem": "The third paragraph (sentences 12\u201317) is hard to follow because one of the sentences does not belong. Which sentence should Angela delete from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 13"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 15"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 16"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 17"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

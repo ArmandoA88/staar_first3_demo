@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Americans love ice cream as a treat. National Ice Cream Month is celebrated during July. The frozen treat is easier to get now than it was hundreds of years ago."
+    },
+    {
+      "label": "G",
+      "text": "Hundreds of years ago people began making different frozen desserts. Europeans brought the idea of ice cream to America. New ideas about how to make and serve the frozen treat have led to its wide popularity."
+    },
+    {
+      "label": "H",
+      "text": "Hundreds of years ago different ingredients were mixed with snow to make frozen treats. Some people traveled far to get the snow. Today many different flavors of ice cream are available."
+    },
+    {
+      "label": "J",
+      "text": "At a fair in 1904, people began eating ice cream in waffle cones. In the United States, National Ice Cream Month is celebrated during July. People also like to eat chocolate-covered ice-cream bars on sticks."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

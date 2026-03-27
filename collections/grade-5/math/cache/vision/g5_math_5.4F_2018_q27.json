@@ -1,0 +1,30 @@
+{
+  "stem": "A chef used \\frac{1}{4} cup of milk for one recipe. Then she used 2 cups of milk for each of 5 more recipes. The total number of cups of milk the chef used can be found by using this expression.\n\n\\frac{1}{4} + (2 \\times 5)\n\nHow many cups of milk did the chef use?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10 \\frac{1}{4} c"
+    },
+    {
+      "label": "B",
+      "text": "11 \\frac{1}{4} c"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{11}{4} c"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{15}{4} c"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\frac{1}{4} + (2 \\times 5)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

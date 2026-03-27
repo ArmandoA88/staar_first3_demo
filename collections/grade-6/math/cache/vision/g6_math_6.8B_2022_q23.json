@@ -1,0 +1,34 @@
+{
+  "stem": "Triangle KLM is shown with dimensions given in units.\n\nWhich figure best models the area formula for triangle KLM?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Parallelogram with base 16 and height 9 formed by duplicating the original triangle along side length 10."
+    },
+    {
+      "label": "B",
+      "text": "Parallelogram with base 16 and height 9 formed by extending the triangle along side length 10 horizontally."
+    },
+    {
+      "label": "C",
+      "text": "Parallelogram with base 16 and height 10 formed by duplicating the original triangle along side length 9 vertically."
+    },
+    {
+      "label": "D",
+      "text": "Parallelogram oriented horizontally with base 16, height 9, and side 10, formed to extend the triangle."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle KLM diagram with right angle at L, KL = 10, LM = 16, and altitude from L to KM = 9.",
+    "Option A diagram: parallelogram with base 16, height 9, side 10, showing the shaded triangle.",
+    "Option B diagram: parallelogram with base 16, height 9, side 10, showing the shaded triangle extended horizontally.",
+    "Option C diagram: parallelogram with base 16, height 10, side 9, showing the shaded triangle extended vertically.",
+    "Option D diagram: parallelogram with base 16, height 9, side 10 horizontally oriented showing shaded triangle."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

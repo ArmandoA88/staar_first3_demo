@@ -1,0 +1,32 @@
+{
+  "stem": "Which of these are composite numbers?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "3"
+    },
+    {
+      "label": null,
+      "text": "4"
+    },
+    {
+      "label": null,
+      "text": "19"
+    },
+    {
+      "label": null,
+      "text": "22"
+    },
+    {
+      "label": null,
+      "text": "31"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

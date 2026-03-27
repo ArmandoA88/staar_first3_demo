@@ -1,0 +1,30 @@
+{
+  "stem": "A student conducted an investigation about density. The materials used were Water, Liquid 2, Object X, and Object Y. The results of the investigation are shown.\n\nWhich option shows the correct order of the materials from lowest to highest density?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Object X, Object Y, Water, Liquid 2"
+    },
+    {
+      "label": "B",
+      "text": "Water, Liquid 2, Object X, Object Y"
+    },
+    {
+      "label": "C",
+      "text": "Water, Object X, Liquid 2, Object Y"
+    },
+    {
+      "label": "D",
+      "text": "Object X, Water, Object Y, Liquid 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image shows two transparent columns labeled 'Water' and 'Liquid 2' with objects X and Y arranged inside them. In Water, X is near the top and Y is at the bottom. In Liquid 2, X and Y are both near the top."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

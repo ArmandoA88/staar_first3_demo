@@ -1,0 +1,35 @@
+{
+  "stem": "Gale buys some baseball cards. She buys one pack of 8 baseball cards. She buys three more packs that each have 64 baseball cards.\n\nGale wants to create an equation to represent h, the total number of baseball cards she buys.\n\nComplete the equation by selecting the correct operators from the drop-down menus.\n\nh = 8 ___ 3 ___ 64",
+  "instruction": "Complete the equation by selecting the correct operators from the drop-down menus.",
+  "options": [
+    {
+      "label": null,
+      "text": "+"
+    },
+    {
+      "label": null,
+      "text": "-"
+    },
+    {
+      "label": null,
+      "text": "\u00d7"
+    },
+    {
+      "label": null,
+      "text": "\u00f7"
+    }
+  ],
+  "choice_pool": [
+    "+",
+    "-",
+    "\u00d7",
+    "\u00f7"
+  ],
+  "response_template": "h = 8 [blank_1] 3 [blank_2] 64",
+  "visual_elements": [
+    "Equation with blanks for operators: h = 8 ___ 3 ___ 64"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.99,
+  "notes": null
+}

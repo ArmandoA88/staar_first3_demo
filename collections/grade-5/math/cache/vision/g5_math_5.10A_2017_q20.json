@@ -1,0 +1,30 @@
+{
+  "stem": "A tax that includes Social Security and Medicare taxes and is paid by an employer",
+  "instruction": "Which term best fits this definition?",
+  "options": [
+    {
+      "label": "F",
+      "text": "Payroll tax"
+    },
+    {
+      "label": "G",
+      "text": "Property tax"
+    },
+    {
+      "label": "H",
+      "text": "Sales tax"
+    },
+    {
+      "label": "J",
+      "text": "Gasoline tax"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text box containing the definition: 'A tax that includes Social Security and Medicare taxes and is paid by an employer'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

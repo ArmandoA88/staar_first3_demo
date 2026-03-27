@@ -1,0 +1,30 @@
+{
+  "stem": "Cutting the wire at which numbered position would allow two of the lightbulbs to remain lit?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Position 1"
+    },
+    {
+      "label": "B",
+      "text": "Position 2"
+    },
+    {
+      "label": "C",
+      "text": "Position 3"
+    },
+    {
+      "label": "D",
+      "text": "Position 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circuit diagram with 3 light bulbs and 4 numbered positions on wires labeled 1, 2, 3, and 4"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

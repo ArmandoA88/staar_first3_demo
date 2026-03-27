@@ -1,0 +1,30 @@
+{
+  "stem": "Mr. Lorenzo gave his 2 sons $50 to buy a cooler. The total cost for the cooler is $44. Mr. Lorenzo told his sons that they could each have an equal share of the change they receive. The equation shown can be used to determine s, the amount of money each son should receive in dollars.\n\ns = (50 - 44) \u00f7 2\n\nWhat amount of money is represented by s?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$28"
+    },
+    {
+      "label": "G",
+      "text": "$6"
+    },
+    {
+      "label": "H",
+      "text": "$19"
+    },
+    {
+      "label": "J",
+      "text": "$3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: s = (50 - 44) \u00f7 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

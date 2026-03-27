@@ -1,0 +1,40 @@
+{
+  "stem": "Why is Mr. Lund important to the resolution of the play?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He listens to Nelson talk about his problem."
+    },
+    {
+      "label": "B",
+      "text": "He tells Nelson to look through his backpack again."
+    },
+    {
+      "label": "C",
+      "text": "He looks through the house to find the book."
+    },
+    {
+      "label": "D",
+      "text": "He offers a way to apologize the next day at camp."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q5 Passage #1",
+    "5",
+    "Why is Mr. Lund important to the resolution of the play?",
+    "A",
+    "He listens to Nelson talk about his problem.",
+    "B",
+    "He tells Nelson to look through his backpack again.",
+    "C",
+    "He looks through the house to find the book.",
+    "D",
+    "He offers a way to apologize the next day at camp."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

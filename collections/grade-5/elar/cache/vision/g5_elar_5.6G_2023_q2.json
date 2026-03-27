@@ -1,0 +1,34 @@
+{
+  "stem": "What key idea is supported by the details in paragraphs 3 and 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Changes to making jigsaw puzzles led to faster production."
+    },
+    {
+      "label": "B",
+      "text": "Puzzle makers had to use a saw to cut the pieces."
+    },
+    {
+      "label": "C",
+      "text": "Gluing maps onto puzzles could take a long time."
+    },
+    {
+      "label": "D",
+      "text": "The new wood-cutting tool created smaller puzzle pieces."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What key idea is supported by the details in paragraphs 3 and 4?",
+    "A Changes to making jigsaw puzzles led to faster production.",
+    "B Puzzle makers had to use a saw to cut the pieces.",
+    "C Gluing maps onto puzzles could take a long time.",
+    "D The new wood-cutting tool created smaller puzzle pieces."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

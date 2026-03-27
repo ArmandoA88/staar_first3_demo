@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best supports the idea that the use of skyscrapers was a practical solution to a problem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The need for special equipment and designs meant that building up was costly."
+    },
+    {
+      "label": "B",
+      "text": "Some skyscrapers echoed art trends of the past, linking cities to their history."
+    },
+    {
+      "label": "C",
+      "text": "Since most cities had limited amounts of land, sites for new houses and offices were scarce and expensive."
+    },
+    {
+      "label": "D",
+      "text": "These exciting new buildings gave architects and engineers a chance to demonstrate their skills."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "Which sentence best describes the relationship between Ben and Shruti?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Shruti and Ben are close friends who work on the same team."
+    },
+    {
+      "label": "B",
+      "text": "Ben enjoys working alone, and so he tries to avoid Shruti."
+    },
+    {
+      "label": "C",
+      "text": "Shruti wants to befriend Ben, but Ben is often too busy to notice."
+    },
+    {
+      "label": "D",
+      "text": "Shruti and Ben challenge each other to improve their grades at school."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Which sentence best describes the relationship between Ben and Shruti?",
+    "A Shruti and Ben are close friends who work on the same team.",
+    "B Ben enjoys working alone, and so he tries to avoid Shruti.",
+    "C Shruti wants to befriend Ben, but Ben is often too busy to notice.",
+    "D Shruti and Ben challenge each other to improve their grades at school."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

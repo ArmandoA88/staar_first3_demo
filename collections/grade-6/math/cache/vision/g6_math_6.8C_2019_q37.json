@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation can be used to represent the relationship between A and s for these squares?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A = s"
+    },
+    {
+      "label": "B",
+      "text": "A = s \\cdot s"
+    },
+    {
+      "label": "C",
+      "text": "A = 2 + s"
+    },
+    {
+      "label": "D",
+      "text": "A = s + s"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with header 'Timothy's Squares' and two rows: Row 1 labeled 'Area, A (square centimeters)' with values 1, 4, 49, 64; Row 2 labeled 'Side Length, s (centimeters)' with values 1, 2, 7, 8."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

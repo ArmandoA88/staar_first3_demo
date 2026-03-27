@@ -1,0 +1,33 @@
+{
+  "stem": "A coat is discounted 40% off its regular price. Which value is equivalent to 40%?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\frac{1}{25}\\)"
+    },
+    {
+      "label": "B",
+      "text": "0.004"
+    },
+    {
+      "label": "C",
+      "text": "40"
+    },
+    {
+      "label": "D",
+      "text": "\\(\\frac{2}{5}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\(\\frac{1}{25}\\)",
+    "0.004",
+    "40",
+    "\\(\\frac{2}{5}\\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

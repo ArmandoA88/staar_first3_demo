@@ -1,0 +1,30 @@
+{
+  "stem": "In which sentence does the author\u2019s use of language best convey a comforting mood?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After a long and bumpy ride, Uncle Stephen parked the car near a sparkling lake. (paragraph 20)"
+    },
+    {
+      "label": "B",
+      "text": "With little enthusiasm Brody also cast his line, swatting at pesky insects that swarmed all around him. (paragraph 21)"
+    },
+    {
+      "label": "C",
+      "text": "Brody cast his line again and thought about his uncle\u2019s response. (paragraph 24)"
+    },
+    {
+      "label": "D",
+      "text": "Instead, the silence enveloped him like a welcoming friend, inviting his imagination to wander. (paragraph 26)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "After a long and bumpy ride, Uncle Stephen parked the car near a sparkling lake."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of paragraphs 1 through 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Lewis and the dog enjoy walking together, and on this day, they are traveling near the banks of a river. A buffalo calf ignores the dog and follows Lewis."
+    },
+    {
+      "label": "B",
+      "text": "The dog is taking his usual walk with Lewis when they meet a buffalo calf. The dog thinks the calf is behaving strangely around Lewis."
+    },
+    {
+      "label": "C",
+      "text": "While Lewis and the dog are on a walk, a buffalo calf joins them. Because the calf follows Lewis closely, the dog thinks of a plan to scare it away."
+    },
+    {
+      "label": "D",
+      "text": "The dog notices that a buffalo calf is following Lewis. The dog decides that he had better stay close to Lewis instead of exploring the area."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

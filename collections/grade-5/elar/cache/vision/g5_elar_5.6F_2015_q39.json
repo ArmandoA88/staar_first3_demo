@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea is supported by the photograph after paragraph 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jackson had to make many repairs to the car as he traveled."
+    },
+    {
+      "label": "B",
+      "text": "Jackson refilled his gasoline tanks at general stores along his trip."
+    },
+    {
+      "label": "C",
+      "text": "Jackson traveled a great distance between stops along his trip."
+    },
+    {
+      "label": "D",
+      "text": "Jackson was welcomed by crowds when he arrived in a new town."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph after paragraph 10"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

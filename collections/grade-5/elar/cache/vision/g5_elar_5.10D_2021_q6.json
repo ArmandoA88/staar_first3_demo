@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes figurative language in these sentences?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To show that Catalina needs to use the telescope to see the sky clearly"
+    },
+    {
+      "label": "G",
+      "text": "To emphasize that Catalina knows the best time to study the stars"
+    },
+    {
+      "label": "H",
+      "text": "To emphasize that Catalina pays careful attention to the details of the stars"
+    },
+    {
+      "label": "J",
+      "text": "To show that Catalina does not understand what she sees in the night sky"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The sky did not merely consist of white dots of stars against a black background. The sky she saw every night was knotted with patterns, from fuzzy balls of fluff to filaments."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change French to french"
+    },
+    {
+      "label": "G",
+      "text": "Change were to was"
+    },
+    {
+      "label": "H",
+      "text": "Change they to it"
+    },
+    {
+      "label": "J",
+      "text": "Change revolutionary war to Revolutionary War"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

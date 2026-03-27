@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the section titled \"The Flight\"?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Charles Lindbergh asked people for directions as he flew over fishing boats on his long flight to Paris, France."
+    },
+    {
+      "label": "B",
+      "text": "Charles Lindbergh received awards from royalty and the president of the United States after he flew from New York to Paris."
+    },
+    {
+      "label": "C",
+      "text": "Charles Lindbergh was the first pilot to complete the difficult nonstop flight from New York to Paris and became an international hero."
+    },
+    {
+      "label": "D",
+      "text": "Charles Lindbergh flew across the Atlantic Ocean with only a compass and the stars to help him navigate through fog and darkness."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

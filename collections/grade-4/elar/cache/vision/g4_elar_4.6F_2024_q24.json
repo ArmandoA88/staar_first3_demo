@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason Cody \"decided to go easy\" on Mud?",
+  "instruction": "Read the sentences from paragraph 1.\n\nHe decided to go easy on him. After all, Mud wasn\u2019t the greatest soccer mind \u2014at least when it came to video games.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Cody believes he is a better soccer player than Mud."
+    },
+    {
+      "label": "B",
+      "text": "Cody thinks Mud should be prepared for how different soccer is from video games."
+    },
+    {
+      "label": "C",
+      "text": "Cody feels the rest of the team has more practice at soccer video games than Mud."
+    },
+    {
+      "label": "D",
+      "text": "Cody wants Mud to be the best soccer player on the team."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He decided to go easy on him. After all, Mud wasn\u2019t the greatest soccer mind \u2014at least when it came to video games."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

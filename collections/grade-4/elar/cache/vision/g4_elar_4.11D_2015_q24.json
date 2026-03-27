@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert a comma after legs"
+    },
+    {
+      "label": "G",
+      "text": "Change gave to given"
+    },
+    {
+      "label": "H",
+      "text": "Change great to grate"
+    },
+    {
+      "label": "J",
+      "text": "Change balanse to balance"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

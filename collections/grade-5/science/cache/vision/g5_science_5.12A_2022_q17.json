@@ -1,0 +1,30 @@
+{
+  "stem": "Two box turtles live in an area in a zoo\u2019s reptile house. Zoo visitors made a list of observations of the turtles. The list is shown.\n\n1. Sliding into a small pond\n2. Eating a strawberry\n3. Digging a hole in the sandy soil\n4. Climbing onto a flat rock\n5. Holding an earthworm in its mouth\n6. Walking across the area\n\nWhich observations best describe how box turtles interact with living parts of their environment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Observation 4 and observation 6"
+    },
+    {
+      "label": "B",
+      "text": "Observation 2 and observation 5"
+    },
+    {
+      "label": "C",
+      "text": "Observation 1 and observation 5"
+    },
+    {
+      "label": "D",
+      "text": "Observation 3 and observation 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "list of six observations labeled 1 to 6, and four answer choices labeled A to D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

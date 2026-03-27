@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following is a major difference between SmartBird in \"Looking to the Sky\" and Mr. Evolta in \"The Ironman Robot\"?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "SmartBird uses energy in a resourceful way, while Mr. Evolta uses more energy than is necessary."
+    },
+    {
+      "label": "B",
+      "text": "SmartBird does not rely on batteries to function, while Mr. Evolta relies solely on batteries to function."
+    },
+    {
+      "label": "C",
+      "text": "SmartBird was invented to find more efficient ways of using energy in the future, while Mr. Evolta was invented to demonstrate the efficiency of a current energy source."
+    },
+    {
+      "label": "D",
+      "text": "SmartBird was invented by one person, while Mr. Evolta was developed by a small team of company employees."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only content with multiple-choice options"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

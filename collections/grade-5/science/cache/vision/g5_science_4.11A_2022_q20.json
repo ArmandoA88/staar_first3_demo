@@ -1,0 +1,30 @@
+{
+  "stem": "A student lists resources that can be used to produce electricity. The list is shown.\n\n\u2022 Wind\n\u2022 Coal\n\u2022 Natural gas\n\u2022 Water power\n\u2022 Petroleum\n\nWhich of the resources are renewable resources?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Wind, water power"
+    },
+    {
+      "label": "G",
+      "text": "Wind, coal, and natural gas"
+    },
+    {
+      "label": "H",
+      "text": "Coal, water power, and petroleum"
+    },
+    {
+      "label": "J",
+      "text": "Coal, natural gas, water power, and petroleum"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "List of resources with bullet points: Wind, Coal, Natural gas, Water power, Petroleum"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

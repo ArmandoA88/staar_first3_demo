@@ -1,0 +1,30 @@
+{
+  "stem": "Use the ruler provided to measure the dimensions of the parallelogram shown to the nearest 0.5 centimeter.\n\nWhich measurement is closest to the area of the parallelogram in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "19 cm\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "22 cm\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "16.5 cm\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "8.5 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "parallelogram with a perpendicular height indicated by a dashed line and a right angle symbol"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

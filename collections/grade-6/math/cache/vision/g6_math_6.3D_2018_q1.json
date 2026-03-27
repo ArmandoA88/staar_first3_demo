@@ -1,0 +1,30 @@
+{
+  "stem": "Serena bought 5 shirts for $6 each and spent $7 on lunch. She paid for the shirts and lunch using her debit card. The change in the balance of Serena's checking account can be represented by the expression shown.\n\n5(\u22126) + (\u22127)\n\nWhich integer represents the change in the balance of Serena's checking account from these purchases?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\u221237"
+    },
+    {
+      "label": "B",
+      "text": "23"
+    },
+    {
+      "label": "C",
+      "text": "\u221218"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "5(\u22126) + (\u22127)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

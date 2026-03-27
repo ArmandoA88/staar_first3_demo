@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best expresses a theme in the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Knowing someone well takes time."
+    },
+    {
+      "label": "B",
+      "text": "It is helpful to turn to family in times of need."
+    },
+    {
+      "label": "C",
+      "text": "It is important to recognize the good in people."
+    },
+    {
+      "label": "D",
+      "text": "People often deserve a second chance."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text with four multiple choice answer options"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

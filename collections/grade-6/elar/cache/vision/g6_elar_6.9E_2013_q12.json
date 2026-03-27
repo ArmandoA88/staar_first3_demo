@@ -1,0 +1,30 @@
+{
+  "stem": "The author\u2019s choice of first-person narrator helps the reader \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "understand how the mentoring experience has had an impact on Chloe"
+    },
+    {
+      "label": "G",
+      "text": "comprehend how Chloe\u2019s classmates view her"
+    },
+    {
+      "label": "H",
+      "text": "learn how the first graders feel about Chloe"
+    },
+    {
+      "label": "J",
+      "text": "realize that the other mentors are not as serious about the project as Chloe is"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only, multiple choice question with answer options F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

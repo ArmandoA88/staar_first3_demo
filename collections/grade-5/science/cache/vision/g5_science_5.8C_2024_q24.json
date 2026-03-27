@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement BEST explains why the trees appear on the surface of the lake?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The trees produce light that reflects off the water."
+    },
+    {
+      "label": "B",
+      "text": "Light reflects off the trees and reflects off the water."
+    },
+    {
+      "label": "C",
+      "text": "The trees refract light that then reflects off the water."
+    },
+    {
+      "label": "D",
+      "text": "Light refracts from the water and is reflected off the trees."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A black and white photograph showing trees along the edge of a lake with their clear reflection visible on the surface of the lake."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

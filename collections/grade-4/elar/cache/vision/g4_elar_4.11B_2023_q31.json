@@ -1,0 +1,28 @@
+{
+  "stem": "Read the third paragraph (sentences 5\u201310) again. Which sentence in this paragraph repeats information and should be removed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 5"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 6"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 7"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Students in Mrs. Guerro's class must complete at least 40 math problems for homework every week. The table shows the progress of four students on Wednesday.\n\nHomework Progress\n\n| Student | Amount Completed |\n|---------|-----------------|\n| Katie   | 0.4             |\n| D'Angelo| 45/40           |\n| Grace   | 100%            |\n| Jonah   | 2/3             |\n\nWhich list shows the amounts of homework completed in order from greatest to least?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.4, 2/3, 45/40, 100%"
+    },
+    {
+      "label": "B",
+      "text": "45/40, 100%, 2/3, 0.4"
+    },
+    {
+      "label": "C",
+      "text": "0.4, 2/3, 100%, 45/40"
+    },
+    {
+      "label": "D",
+      "text": "2/3, 0.4, 45/40, 100%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with four rows: Katie - 0.4, D'Angelo - 45/40, Grace - 100%, Jonah - 2/3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

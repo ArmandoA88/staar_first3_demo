@@ -1,0 +1,25 @@
+{
+  "stem": "Maeve uses a 10-pound block of clay to make three different-sized vases. The amounts of clay used for two of the vases are shown in the table.\n\nMaeve's Vases\nVase | Amount of Clay (pounds)\n1 | 4 3/8\n2 | 2 3/16\n3 | ?",
+  "instruction": "How many pounds of clay does Maeve use for the last vase?\nEnter your answer in the space provided.",
+  "options": [],
+  "choice_pool": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "0",
+    "."
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 1,
+  "notes": null
+}

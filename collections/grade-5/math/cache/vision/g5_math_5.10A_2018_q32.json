@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these is NOT an example of a property tax?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Tax paid on the value of a farm a person owns"
+    },
+    {
+      "label": "G",
+      "text": "Tax paid on the value of a piece of land a person owns"
+    },
+    {
+      "label": "H",
+      "text": "Tax paid on the value of a piece of furniture a person owns"
+    },
+    {
+      "label": "J",
+      "text": "Tax paid on the value of a home a person owns"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Mr. Mart\u00ednez asked his students to write a situation that could describe the relationship between all the values of x and y in the table.\n\n|   | 0 | 1 | 2 | 3 |\n|---|---|---|---|---|\n| x |   |   |   |   |\n| y | 6 | 7 | 8 | 9 |",
+  "instruction": "Which situation best describes the relationship between all the values of x and y in the table?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Rachel had six dollars and then started to save one dollar each week."
+    },
+    {
+      "label": "B",
+      "text": "Beatriz ran one mile the first week and one mile each week after that."
+    },
+    {
+      "label": "C",
+      "text": "James read zero books in six months and then started to read one book each week."
+    },
+    {
+      "label": "D",
+      "text": "Marion has six times the number of toy trains that Tony has."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with x values 0,1,2,3 and y values 6,7,8,9"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

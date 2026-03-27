@@ -1,0 +1,30 @@
+{
+  "stem": "Jacob wrote the expression shown.\n\n10 \u00f7 5 + 4(72 - 6)\n\nWhat do these parentheses indicate in the expression?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Divide 10 by 5 before adding 4"
+    },
+    {
+      "label": "G",
+      "text": "Multiply 4 by 72 before subtracting 6"
+    },
+    {
+      "label": "H",
+      "text": "Add 5 and 4 together before subtracting 6 from 72"
+    },
+    {
+      "label": "J",
+      "text": "Subtract 6 from 72 before multiplying by 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "10 \u00f7 5 + 4(72 - 6)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

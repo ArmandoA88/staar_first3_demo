@@ -1,0 +1,30 @@
+{
+  "stem": "Ethel and Gustavo ordered a pizza for dinner. Ethel ate \\(\\frac{1}{4}\\) of the pizza, and Gustavo ate \\(\\frac{3}{8}\\) of the pizza.\n\nHow much of the pizza did Ethel and Gustavo eat?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\frac{4}{12}\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\frac{5}{8}\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\frac{5}{16}\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\(\\frac{8}{8}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fractions \\(\\frac{1}{4}\\) and \\(\\frac{3}{8}\\)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

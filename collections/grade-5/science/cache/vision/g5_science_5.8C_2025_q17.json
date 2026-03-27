@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows how a ray of light behaves when it strikes a surface.",
+  "instruction": "This question has two parts. First, answer Part A. Then answer Part B.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Arrow W and Arrow X show light refracting as it interacts with the surface."
+    },
+    {
+      "label": "B",
+      "text": "Arrow W and Arrow Y show light refracting as it interacts with the surface."
+    },
+    {
+      "label": "C",
+      "text": "Arrow Y and Arrow Z show light reflecting as it interacts with the surface."
+    },
+    {
+      "label": "D",
+      "text": "Arrow W and Arrow Z show light reflecting as it interacts with the surface."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram labeled with a flashlight pointing a ray labeled W hitting a surface. Arrows X, Y, and Z show directions of light. X goes up and right away from surface. Y goes down into surface. Z goes downward and right away from surface."
+  ],
+  "item_type_inferred": "Multipart",
+  "confidence": 1,
+  "notes": "Includes Part A and Part B with each having four answer options."
+}

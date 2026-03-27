@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change we to he"
+    },
+    {
+      "label": "B",
+      "text": "Change had to have"
+    },
+    {
+      "label": "C",
+      "text": "Change gold fish to goldfish"
+    },
+    {
+      "label": "D",
+      "text": "Change Chuckles to chuckles"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

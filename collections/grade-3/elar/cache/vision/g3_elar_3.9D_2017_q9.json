@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best states the main idea of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "All this information was available because of the microchip that had been placed under Scrub\u2019s skin many years earlier."
+    },
+    {
+      "label": "B",
+      "text": "Microchips have helped thousands of owners get their lost pets back."
+    },
+    {
+      "label": "C",
+      "text": "However, thanks to her microchip, Roxy was soon returned to her grateful owner."
+    },
+    {
+      "label": "D",
+      "text": "However, tags and collars can fall off or become difficult to read."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

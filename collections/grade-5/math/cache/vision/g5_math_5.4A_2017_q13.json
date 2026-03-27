@@ -1,0 +1,30 @@
+{
+  "stem": "Brenda said that the number 2 is prime because it has only two factors. Carla said that the number 2 is composite because it is even, and all even numbers are composite. Who is correct?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Brenda is correct."
+    },
+    {
+      "label": "B",
+      "text": "Carla is correct."
+    },
+    {
+      "label": "C",
+      "text": "Both of them are correct."
+    },
+    {
+      "label": "D",
+      "text": "Neither of them is correct."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "! icon"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

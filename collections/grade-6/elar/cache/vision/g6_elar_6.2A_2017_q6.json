@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition most closely matches the way the word violated is used in paragraph 24?",
+  "instruction": "Read the dictionary entry for the word violate.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "violate \\'vi-\u0259-\u02ccl\u0101t\\ v\n1. to break a rule 2. to interfere with someone\u2019s rights 3. to abuse something by causing damage 4. to interrupt a continuous state or action"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 0.99,
+  "notes": null
+}

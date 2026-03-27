@@ -1,0 +1,30 @@
+{
+  "stem": "A math problem is shown.\n\nWhat is the quotient?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.14"
+    },
+    {
+      "label": "B",
+      "text": "0.6"
+    },
+    {
+      "label": "C",
+      "text": "0.06"
+    },
+    {
+      "label": "D",
+      "text": "0.51"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "78)4.68"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A coach offered student athletes a choice of four workout sessions. The percentage bar graph shows the percentage of student athletes who attended each workout session.\n\nWhich statement best supports the data in the percentage bar graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "More than half the students attended the 5:00 p.m. session."
+    },
+    {
+      "label": "B",
+      "text": "Fewer students attended a morning session (a.m.) than attended an afternoon session (p.m.)."
+    },
+    {
+      "label": "C",
+      "text": "Fewer students attended the 6:00 p.m. session than attended the 5:00 p.m. session."
+    },
+    {
+      "label": "D",
+      "text": "More than twice as many students attended the 6:00 a.m. session as attended the 5:00 p.m. session."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Percentage bar graph showing attendance at workout sessions with segments for 5:00 a.m., 6:00 a.m., 5:00 p.m., and 6:00 p.m. sessions, labeled with a key indicating black (5:00 a.m.), dark gray (6:00 a.m.), light gray (5:00 p.m.), and white (6:00 p.m.). The bar shows approximately 10% for 5:00 a.m., about 45% for 6:00 a.m., about 30% for 5:00 p.m., and about 15% for 6:00 p.m."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

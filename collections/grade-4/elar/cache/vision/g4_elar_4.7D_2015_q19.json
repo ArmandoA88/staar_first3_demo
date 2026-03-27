@@ -1,0 +1,30 @@
+{
+  "stem": "The selection \"Prince of Central Park\" is mostly about \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "where people go to see red-tailed hawks"
+    },
+    {
+      "label": "B",
+      "text": "how red-tailed hawks care for their babies"
+    },
+    {
+      "label": "C",
+      "text": "what happens when two hawks make a nest near Central Park"
+    },
+    {
+      "label": "D",
+      "text": "why some people did not want hawks to live near Central Park"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Selection title: Prince of Central Park"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

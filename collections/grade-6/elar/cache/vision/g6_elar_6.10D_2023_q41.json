@@ -1,0 +1,33 @@
+{
+  "stem": "Sentence 9 is written incorrectly. Select the response that corrects this sentence.\n\nThere was also [blank_1] responsible for day-to-day decisions.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "them"
+    },
+    {
+      "label": "B",
+      "text": "those"
+    },
+    {
+      "label": "C",
+      "text": "they"
+    },
+    {
+      "label": "D",
+      "text": "their"
+    }
+  ],
+  "choice_pool": [
+    "them",
+    "those",
+    "they",
+    "their"
+  ],
+  "response_template": "There was also [blank_1] responsible for day-to-day decisions.",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

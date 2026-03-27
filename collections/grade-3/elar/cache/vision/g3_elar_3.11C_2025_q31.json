@@ -1,0 +1,28 @@
+{
+  "stem": "What is the MOST effective way to combine sentences 11 and 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It is also known but for its beautiful and old River Walk and Spanish missions too."
+    },
+    {
+      "label": "B",
+      "text": "It is also known for its beautiful River Walk and old Spanish missions."
+    },
+    {
+      "label": "C",
+      "text": "It is for its beautiful River Walk and old Spanish missions also known too."
+    },
+    {
+      "label": "D",
+      "text": "It is also known for its beautiful River Walk but known for its old Spanish missions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

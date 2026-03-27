@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A rat runs out of a hole in a wall and meets a beetle. The rat shows the beetle how quickly he can run and makes fun of the beetle for walking slowly. A parrot who has heard the conversation flies up to them and suggests the rat and beetle have a race."
+    },
+    {
+      "label": "B",
+      "text": "A green and gold parrot sees a rat and a beetle having a conversation by a wall. The parrot flies over to them and suggests that the rat and beetle race to determine who is faster. The beetle flies to the top of a cliff and beats the rat, who is tired from running so far and fast."
+    },
+    {
+      "label": "C",
+      "text": "A rat brags about his speed to a beetle he sees crawling along a wall. A parrot hears them talking and suggests the rat and beetle compete to win a gorgeous coat, so the two animals race to the top of a cliff. Because she can fly, the beetle wins the race and earns the prize."
+    },
+    {
+      "label": "D",
+      "text": "A rat and a beetle meet a green and gold parrot. The parrot tells them the tailor bird will make a beautiful coat for whoever wins a race to a palm tree on a cliff. The beetle beats the rat in the race, and the parrot asks the beetle what colors she wants her coat to be."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

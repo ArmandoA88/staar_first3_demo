@@ -1,0 +1,30 @@
+{
+  "stem": "The dialogue used in these lines shows that \u2014",
+  "instruction": "Read lines 17 and 18.",
+  "options": [
+    {
+      "label": "F",
+      "text": "the nurse thinks that the speaker is acting childish"
+    },
+    {
+      "label": "G",
+      "text": "the nurse thinks that the speaker is nervous about seeing the doctor"
+    },
+    {
+      "label": "H",
+      "text": "the speaker is not entertained by the music in the waiting room"
+    },
+    {
+      "label": "J",
+      "text": "the speaker is not distracted by the appearance of the waiting room"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\u201cDoctor is ready now,\u201d she coos. \u201cCome in, lamb, you\u2019ll be fine.\u201d"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

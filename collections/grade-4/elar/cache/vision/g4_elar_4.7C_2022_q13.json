@@ -1,0 +1,33 @@
+{
+  "stem": "Which sentence best explains why children should visit as many parks as they can?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "This program offers a fun way for children to discover and explore in Texas state parks. (paragraph 1)"
+    },
+    {
+      "label": "B",
+      "text": "This is good news for Texas state parks because there are nearly 100 parks in the state. (paragraph 2)"
+    },
+    {
+      "label": "C",
+      "text": "Each park offers a unique experience for young explorers. (paragraph 3)"
+    },
+    {
+      "label": "D",
+      "text": "This journal is available at every state park. (paragraph 4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A This program offers a fun way for children to discover and explore in Texas state parks. (paragraph 1)",
+    "B This is good news for Texas state parks because there are nearly 100 parks in the state. (paragraph 2)",
+    "C Each park offers a unique experience for young explorers. (paragraph 3)",
+    "D This journal is available at every state park. (paragraph 4)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

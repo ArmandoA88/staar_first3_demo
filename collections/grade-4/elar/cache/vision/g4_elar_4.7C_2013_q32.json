@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph is included with the selection most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "show how many arms an octopus has"
+    },
+    {
+      "label": "G",
+      "text": "demonstrate how an octopus puts shell halves together"
+    },
+    {
+      "label": "H",
+      "text": "show why octopuses need to hide from enemies"
+    },
+    {
+      "label": "J",
+      "text": "illustrate how an octopus can fit inside a coconut shell"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

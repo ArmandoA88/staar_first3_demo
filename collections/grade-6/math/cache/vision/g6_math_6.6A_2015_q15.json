@@ -1,0 +1,30 @@
+{
+  "stem": "Shaundra made this table in order to show the results of a science experiment.\n\nPlant Growth\n\n| Plant | Amount of Fertilizer Added to Soil (milliliters) | Change in Height of Plant (centimeters) |\n|-------|--------------------------------------------------|-----------------------------------------|\n| A     | 4                                                | 0.5                                     |\n| B     | 8                                                | 1.0                                     |\n| C     | 1                                                | 0.15                                    |\n| D     | 2                                                | 0.25                                    |\n\nWhich statement about the quantities in Shaundra\u2019s experiment is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The amount of fertilizer added and the change in the height of the plants are both independent quantities."
+    },
+    {
+      "label": "B",
+      "text": "The amount of fertilizer added and the change in the height of the plants are both dependent quantities."
+    },
+    {
+      "label": "C",
+      "text": "The amount of fertilizer added is a dependent quantity, and the change in the height of the plant is an independent quantity."
+    },
+    {
+      "label": "D",
+      "text": "The amount of fertilizer added is an independent quantity, and the change in the height of the plant is a dependent quantity."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing plant growth with columns: Plant, Amount of Fertilizer Added to Soil (milliliters), Change in Height of Plant (centimeters)"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 0.99,
+  "notes": null
+}

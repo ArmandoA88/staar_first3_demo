@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Nana made snowflake cookies in the winter and cookies that looked like watermelons in the summer."
+    },
+    {
+      "label": "B",
+      "text": "Nana made snowflake cookies in the winter. And cookies that looked like watermelons in the summer."
+    },
+    {
+      "label": "C",
+      "text": "Nana made snowflake cookies in the winter and made cookies. That looked like watermelons in the summer."
+    },
+    {
+      "label": "D",
+      "text": "Nana made snowflake cookies in the winter, and cookies that looked like watermelons this was in the summer."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

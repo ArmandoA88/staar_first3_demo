@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Were to We're"
+    },
+    {
+      "label": "B",
+      "text": "Change moving to moveing"
+    },
+    {
+      "label": "C",
+      "text": "Change California to california"
+    },
+    {
+      "label": "D",
+      "text": "Delete the quotation marks at the end of the sentence"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

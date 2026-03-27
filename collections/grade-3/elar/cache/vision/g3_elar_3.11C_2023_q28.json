@@ -1,0 +1,34 @@
+{
+  "stem": "How should sentence 18 be revised so that it does not repeat information?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "People should be able to relax and enjoy a meal."
+    },
+    {
+      "label": "B",
+      "text": "People should be able to relax but enjoy a meal and people."
+    },
+    {
+      "label": "C",
+      "text": "People should relax and enjoy to be able for a meal."
+    },
+    {
+      "label": "D",
+      "text": "People should be able to relax, so people should enjoy a meal."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "How should sentence 18 be revised so that it does not repeat information?",
+    "\u24b6 People should be able to relax and enjoy a meal.",
+    "\u24b7 People should be able to relax but enjoy a meal and people.",
+    "\u24b8 People should relax and enjoy to be able for a meal.",
+    "\u24b9 People should be able to relax, so people should enjoy a meal."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "stem": "A rope was 14.35 inches long. Megan cut the rope into 7 pieces of equal length. What was the length of each piece of rope in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "2.5 in."
+    },
+    {
+      "label": "G",
+      "text": "2.35 in."
+    },
+    {
+      "label": "H",
+      "text": "2.05 in."
+    },
+    {
+      "label": "J",
+      "text": "2.55 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 - Q4",
+    "4",
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

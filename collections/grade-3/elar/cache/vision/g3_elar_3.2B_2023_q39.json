@@ -1,0 +1,34 @@
+{
+  "stem": "What change is needed in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change wobbled to wobbled"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after first"
+    },
+    {
+      "label": "C",
+      "text": "Delete and"
+    },
+    {
+      "label": "D",
+      "text": "Change began to begins"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change is needed in sentence 7?",
+    "A Change wobbled to wobbled",
+    "B Insert a comma after first",
+    "C Delete and",
+    "D Change began to begins"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

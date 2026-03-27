@@ -1,0 +1,30 @@
+{
+  "stem": "The author uses the description of the pencils to show \u2014",
+  "instruction": "Read these sentences from paragraph 4.\n\nThe pencils were sharpened to perfect points. The rich colors offered endless possibilities compared to my set of eight basic colors at home.",
+  "options": [
+    {
+      "label": "F",
+      "text": "how sad the narrator feels when he can't afford them"
+    },
+    {
+      "label": "G",
+      "text": "how much the narrator wants to buy them"
+    },
+    {
+      "label": "H",
+      "text": "that the colors inspire the narrator with ideas for his comic book"
+    },
+    {
+      "label": "J",
+      "text": "that the pencils the narrator has are no longer usable"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The pencils were sharpened to perfect points. The rich colors offered endless possibilities compared to my set of eight basic colors at home."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

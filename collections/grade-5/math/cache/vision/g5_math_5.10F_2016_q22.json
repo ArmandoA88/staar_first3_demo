@@ -1,0 +1,30 @@
+{
+  "stem": "So far this month Nancy has the expenses and income shown in the chart.\n\nNancy wants to buy some music online but also have a balanced budget. Based on Nancy's current budget, what is the greatest amount of money she can spend on music?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$10"
+    },
+    {
+      "label": "G",
+      "text": "$35"
+    },
+    {
+      "label": "H",
+      "text": "$140"
+    },
+    {
+      "label": "J",
+      "text": "$5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Nancy's Current Budget\nExpenses\nClothes $40\nFood $60\nMovie tickets $30\nIncome\nLawn mowing $30\nBabysitting $50\nCar washing $25\nGarage sale $35"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

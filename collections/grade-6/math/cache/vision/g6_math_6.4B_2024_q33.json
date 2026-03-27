@@ -1,0 +1,31 @@
+{
+  "stem": "On a shelf, the ratio of science books to math books is 4:3. There are 36 science books on the shelf.\n\nHow many math books are on the shelf?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "48"
+    },
+    {
+      "label": "B",
+      "text": "35"
+    },
+    {
+      "label": "C",
+      "text": "27"
+    },
+    {
+      "label": "D",
+      "text": "63"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Ratio 4:3",
+    "36 science books"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

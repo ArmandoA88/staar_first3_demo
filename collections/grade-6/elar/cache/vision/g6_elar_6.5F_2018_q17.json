@@ -1,0 +1,30 @@
+{
+  "stem": "The author includes the details in paragraph 5 most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "explain why this particular portrait of Washington is so well known"
+    },
+    {
+      "label": "B",
+      "text": "express regret that the painting of Washington became famous only after Stuart\u2019s death"
+    },
+    {
+      "label": "C",
+      "text": "demonstrate that Washington was an important figure in history"
+    },
+    {
+      "label": "D",
+      "text": "emphasize that most of Washington\u2019s portraits were left unfinished"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 21 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change member's to members"
+    },
+    {
+      "label": "G",
+      "text": "Change gather to gathering"
+    },
+    {
+      "label": "H",
+      "text": "Change cozy to cozewy"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 21 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sentence 21"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

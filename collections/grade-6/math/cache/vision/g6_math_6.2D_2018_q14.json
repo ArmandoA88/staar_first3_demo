@@ -1,0 +1,31 @@
+{
+  "stem": "The table shows the portion of a day four students used to build a website.\n\nTime Used\n\n| Student | Portion of Day |\n|---------|---------------|\n| Jamail  | 29.4%         |\n| Andrew  | 37.6%         |\n| Ernesto | \\( \\frac{7}{25} \\) |\n| Blake   | \\( \\frac{3}{10} \\) |  \n\nWhich list shows the students in order from the greatest amount of time used to the least amount of time used?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Andrew, Blake, Jamail, Ernesto"
+    },
+    {
+      "label": "G",
+      "text": "Blake, Andrew, Jamail, Ernesto"
+    },
+    {
+      "label": "H",
+      "text": "Ernesto, Blake, Andrew, Jamail"
+    },
+    {
+      "label": "J",
+      "text": "Andrew, Jamail, Ernesto, Blake"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with students' portions of day",
+    "fractions \\( \\frac{7}{25} \\) and \\( \\frac{3}{10} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

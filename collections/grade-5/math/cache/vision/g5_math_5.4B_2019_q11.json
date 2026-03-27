@@ -1,0 +1,30 @@
+{
+  "stem": "Three friends rode their bikes last week.\n\n\u2022 Christine rode her bike 27 kilometers.\n\u2022 Philip rode his bike 12 kilometers less than Christine.\n\u2022 Nathan rode his bike 3 times as far as Philip.\n\nWhich equation represents n, the distance in kilometers Nathan rode his bike?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(27 + 12) \u00f7 3 = n"
+    },
+    {
+      "label": "B",
+      "text": "(27 - 12) \u00d7 3 = n"
+    },
+    {
+      "label": "C",
+      "text": "(27 - 12) \u00f7 3 = n"
+    },
+    {
+      "label": "D",
+      "text": "(27 + 12) \u00d7 3 = n"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "math_equations"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

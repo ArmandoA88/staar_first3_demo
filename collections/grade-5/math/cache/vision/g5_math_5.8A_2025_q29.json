@@ -1,0 +1,55 @@
+{
+  "stem": "Richard graphs the point (0, 3) on a coordinate grid. Create a true statement to describe Richard's point. Choose the correct answer from each drop-down menu to complete the sentence.\nThe [dropdown_1] is 0 and it shows the [dropdown_2] distance the point is from the origin.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "x-coordinate"
+    },
+    {
+      "label": null,
+      "text": "y-coordinate"
+    },
+    {
+      "label": null,
+      "text": "coordinates"
+    },
+    {
+      "label": null,
+      "text": "multiplication"
+    },
+    {
+      "label": null,
+      "text": "horizontal"
+    },
+    {
+      "label": null,
+      "text": "vertical"
+    },
+    {
+      "label": null,
+      "text": "straight-line"
+    },
+    {
+      "label": null,
+      "text": "backward"
+    }
+  ],
+  "choice_pool": [
+    "x-coordinate",
+    "y-coordinate",
+    "coordinates",
+    "multiplication",
+    "horizontal",
+    "vertical",
+    "straight-line",
+    "backward"
+  ],
+  "response_template": "The [blank_1] is 0 and it shows the [blank_2] distance the point is from the origin.",
+  "visual_elements": [
+    "(0, 3)"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

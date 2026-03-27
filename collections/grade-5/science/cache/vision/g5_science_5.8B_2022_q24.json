@@ -1,0 +1,30 @@
+{
+  "stem": "What object can be used at Position X for the buzzer to sound when Switch K is closed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A power source"
+    },
+    {
+      "label": "H",
+      "text": "Another bulb"
+    },
+    {
+      "label": "G",
+      "text": "An insulated wire"
+    },
+    {
+      "label": "J",
+      "text": "Another switch"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circuit diagram with Buzzer, Bulb, Switch M, Switch K and Position X labeled"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

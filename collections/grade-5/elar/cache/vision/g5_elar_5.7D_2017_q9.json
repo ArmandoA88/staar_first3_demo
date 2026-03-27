@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best states the main idea of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A truck driver from Chicago was the champion of the pit spit in Eau Claire in 2012."
+    },
+    {
+      "label": "B",
+      "text": "The pit spit, which features many eager participants, will be taking place again at the Tree-Mendus Fruit Farm in Eau Claire."
+    },
+    {
+      "label": "C",
+      "text": "Although last year's cold weather kept the cherry harvest small, this year the harvest will be ideal for the pit spit."
+    },
+    {
+      "label": "D",
+      "text": "Many members of the Krause family will be participating again this year at the pit spit."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

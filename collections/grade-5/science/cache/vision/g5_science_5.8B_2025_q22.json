@@ -1,0 +1,30 @@
+{
+  "stem": "A group of students build the circuit shown.\n\nThe students want to add an electric motor that still functions when Switch K is open.\n\nAt which location should the electric motor be placed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Location 1"
+    },
+    {
+      "label": "B",
+      "text": "Location 2"
+    },
+    {
+      "label": "C",
+      "text": "Location 3"
+    },
+    {
+      "label": "D",
+      "text": "Location 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circuit diagram with a battery, switches K and M, and bulbs represented at locations 1, 2, 3, and 4, with wires connecting them"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

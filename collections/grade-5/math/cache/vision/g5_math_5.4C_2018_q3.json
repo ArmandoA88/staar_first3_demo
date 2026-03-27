@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shown represents the rule y = x + 1.5.",
+  "instruction": "Which table contains only values that represent the rule?",
+  "options": [
+    {
+      "label": "A",
+      "text": "x 0 1 2 3 9\ny 0 1.5 3 4.5 6"
+    },
+    {
+      "label": "B",
+      "text": "x 0 1 2 3 9\ny 0 1.5 3 4.5 13.5"
+    },
+    {
+      "label": "C",
+      "text": "x 0 1 2 3 9\ny 1.5 3 4.5 6 7.5"
+    },
+    {
+      "label": "D",
+      "text": "x 0 1 2 3 9\ny 1.5 2.5 3.5 4.5 10.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with points (0,1.5), (1,2.5), (2,3.5), (3,4.5)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Why is the boxed information at the end of the article included?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To describe some of the many exhibits at the museum"
+    },
+    {
+      "label": "G",
+      "text": "To share information about the history of the museum"
+    },
+    {
+      "label": "H",
+      "text": "To show that the museum welcomes people of all ages"
+    },
+    {
+      "label": "J",
+      "text": "To provide details a museum visitor would need to know"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text",
+    "four answer choices labeled F, G, H, J"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

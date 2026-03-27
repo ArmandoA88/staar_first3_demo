@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best describes Carter and Max when they first notice the girls?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They are worried that the girls are building a better car than they are."
+    },
+    {
+      "label": "G",
+      "text": "They want to change their plan and build a different sand sculpture."
+    },
+    {
+      "label": "H",
+      "text": "They are not pleased that the girls are also building a sports car."
+    },
+    {
+      "label": "J",
+      "text": "They decide to help the girls make their car look even better."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Extracted from 2018 3rd grade reading STAAR question."
+}

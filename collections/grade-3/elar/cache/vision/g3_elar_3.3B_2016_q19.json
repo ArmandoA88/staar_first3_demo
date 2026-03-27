@@ -1,0 +1,30 @@
+{
+  "stem": "Which meaning of raise is used in paragraph 11?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Meaning 1"
+    },
+    {
+      "label": "B",
+      "text": "Meaning 2"
+    },
+    {
+      "label": "C",
+      "text": "Meaning 3"
+    },
+    {
+      "label": "D",
+      "text": "Meaning 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "raise \\'r\u0101z\\ verb\n1. to bring to a standing position\n2. to wake up or make more active\n3. to collect for a purpose\n4. to care for and help grow"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

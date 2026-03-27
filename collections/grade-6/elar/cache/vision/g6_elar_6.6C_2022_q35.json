@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best shows that the rat overestimates his abilities?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "One day a little brown beetle was crawling along a wall when a big grey rat ran out of a hole in the wall and looked down scornfully at the little beetle. (paragraph 2)"
+    },
+    {
+      "label": "B",
+      "text": "The big grey rat ran to the end of the wall, wheeled around, and came back to the place where the little beetle was slowly crawling along at only a tiny distance from where the rat had left her. (paragraph 3)"
+    },
+    {
+      "label": "C",
+      "text": "\"Why, you talk just as if you thought you had a chance to win the race,\" he said, when he could speak. (paragraph 9)"
+    },
+    {
+      "label": "D",
+      "text": "Then he started to run more slowly but every time his heart beat it said, \"Hurry up! Hurry up!\" (paragraph 11)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

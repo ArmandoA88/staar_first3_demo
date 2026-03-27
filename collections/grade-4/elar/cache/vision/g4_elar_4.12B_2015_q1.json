@@ -1,0 +1,31 @@
+{
+  "stem": "The central idea of Roland's paper is weak. Which of the following could replace sentence 3 and provide a better central idea for this paper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "For my paper I would like to tell you that you should definitely and for sure get a hedgehog this time."
+    },
+    {
+      "label": "B",
+      "text": "Everyone likes to try different things, so this time don\u2019t do the same thing again and get a hedgehog."
+    },
+    {
+      "label": "C",
+      "text": "Instead of choosing a traditional pet, such as a dog, a cat, or a guinea pig, you might want to get a hedgehog."
+    },
+    {
+      "label": "D",
+      "text": "Because you would like to try something that isn\u2019t very normal, get a hedgehog."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q1 Passage #1",
+    "1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

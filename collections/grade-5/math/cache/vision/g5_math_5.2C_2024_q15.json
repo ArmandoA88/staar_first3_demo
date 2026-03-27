@@ -1,0 +1,34 @@
+{
+  "stem": "Imogen rounds a decimal number to the nearest tenth, then records the rounded number as shown.\n\n124.6\n\nWhich numbers could Imogen have rounded to the nearest tenth?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "124.06"
+    },
+    {
+      "label": null,
+      "text": "124.55"
+    },
+    {
+      "label": null,
+      "text": "124.056"
+    },
+    {
+      "label": null,
+      "text": "124.51"
+    },
+    {
+      "label": null,
+      "text": "124.615"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "124.6"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

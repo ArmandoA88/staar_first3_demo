@@ -1,0 +1,30 @@
+{
+  "stem": "Four students each wrote down a number between 30 and 40. The list shows the numbers they wrote.\n\n\u2022 Elly\u201435\n\u2022 Ulysses\u201439\n\u2022 Maggie\u201437\n\u2022 Palmer\u201433\n\nWhich student wrote down a prime number?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Elly"
+    },
+    {
+      "label": "B",
+      "text": "Ulysses"
+    },
+    {
+      "label": "C",
+      "text": "Maggie"
+    },
+    {
+      "label": "D",
+      "text": "Palmer"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bullet list with names and numbers: Elly\u201435, Ulysses\u201439, Maggie\u201437, Palmer\u201433"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

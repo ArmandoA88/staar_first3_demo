@@ -1,0 +1,30 @@
+{
+  "stem": "The dimensions of a lawn shaped like a trapezoid are given in meters.\n\nWhat is the area of the lawn in square meters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "108 m\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "60 m\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "72 m\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "120 m\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A trapezoid labeled with sides: top 18 m, bottom 12 m, right side 5 m with a dotted line 4 m perpendicular to the base."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

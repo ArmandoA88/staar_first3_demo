@@ -1,0 +1,31 @@
+{
+  "stem": "Each ticket to ride a carousel costs $2.50. The table shows the relationship between x, the number of tickets bought, and y, the cost of the tickets in dollars.\n\nCarousel Rides\n\n| Number of Tickets, x | Cost, y (dollars) |\n|---------------------|-------------------|\n| 1                   | 2.50              |\n| 2                   | 5.00              |\n| 3                   | 7.50              |\n| 5                   | 12.50             |\n\nWhich graph best represents the data shown in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph of Carousel Rides with points approximately at (1,3), (2,5), (3,8), (5,13)"
+    },
+    {
+      "label": "H",
+      "text": "Graph of Carousel Rides with points approximately at (1,2.5), (2,5), (3,7.5), (5,12)"
+    },
+    {
+      "label": "G",
+      "text": "Graph of Carousel Rides with points approximately at (1,2.5), (2,5), (3,7.5), (5,12.5)"
+    },
+    {
+      "label": "J",
+      "text": "Graph of Carousel Rides with points approximately at (1,2), (2,5), (3,7), (5,12)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with ticket number and cost",
+    "Four graphs labeled F, H, G, J showing scatter plots of number of tickets vs cost"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Option G best matches the data exactly from the table."
+}

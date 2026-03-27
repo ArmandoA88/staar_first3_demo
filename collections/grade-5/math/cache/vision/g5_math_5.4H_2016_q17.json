@@ -1,0 +1,30 @@
+{
+  "stem": "Phoebe divided her rectangular vegetable garden into three sections, as shown in the drawing below.\n\n\u2022 The potato section is a square with a side length of 7 meters.\n\u2022 The carrot section is a square with a side length of 5 meters.\n\nWhat is the area, in square meters, of the corn section of Phoebe\u2019s garden?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10 square meters"
+    },
+    {
+      "label": "B",
+      "text": "14 square meters"
+    },
+    {
+      "label": "C",
+      "text": "84 square meters"
+    },
+    {
+      "label": "D",
+      "text": "35 square meters"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangular garden divided into three sections: Potatoes (large square), Corn (top right smaller rectangle), and Carrots (bottom right square)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

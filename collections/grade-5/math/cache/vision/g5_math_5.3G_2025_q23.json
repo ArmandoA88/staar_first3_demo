@@ -1,0 +1,33 @@
+{
+  "stem": "Santiago drives a total of 24.2 hours in 4 weeks. He drives the same number of hours each week.\n\nHow many hours does Santiago drive each week?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6.5 hours"
+    },
+    {
+      "label": "B",
+      "text": "6.05 hours"
+    },
+    {
+      "label": "C",
+      "text": "6 hours"
+    },
+    {
+      "label": "D",
+      "text": "6.2 hours"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A 6.5 hours",
+    "B 6.05 hours",
+    "C 6 hours",
+    "D 6.2 hours"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

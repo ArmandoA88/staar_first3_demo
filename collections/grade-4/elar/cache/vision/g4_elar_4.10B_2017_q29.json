@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these does the poet use in line 12 to help the reader understand that time seems to pass slowly?",
+  "instruction": "Read line 12 from the poem.\n\nNotice how an hour crawls along and crawls along",
+  "options": [
+    {
+      "label": "A",
+      "text": "Repetition"
+    },
+    {
+      "label": "B",
+      "text": "Meter"
+    },
+    {
+      "label": "C",
+      "text": "A line break"
+    },
+    {
+      "label": "D",
+      "text": "Rhyme"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Notice how an hour crawls along and crawls along"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

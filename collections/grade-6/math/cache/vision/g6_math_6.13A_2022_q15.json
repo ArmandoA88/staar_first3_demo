@@ -1,0 +1,30 @@
+{
+  "stem": "The dot plot shows the vertical jump height for each of 10 athletes.\n\nVertical Jump Heights\n\nWhich statement is supported by the data in the dot plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of athletes with a vertical jump height of 33 \\frac{1}{2} inches is less than the number of athletes with a vertical jump height of 37 \\frac{1}{2} inches and 38 inches."
+    },
+    {
+      "label": "B",
+      "text": "The number of athletes with a vertical jump height of 34 inches is \\frac{1}{4} of the total number of athletes."
+    },
+    {
+      "label": "C",
+      "text": "The least number of athletes had a vertical jump height of 33 inches."
+    },
+    {
+      "label": "D",
+      "text": "The number of athletes with a vertical jump height of 33 \\frac{1}{2} inches is \\frac{1}{5} of the total number of athletes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot showing vertical jump heights"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

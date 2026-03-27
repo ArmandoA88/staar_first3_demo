@@ -1,0 +1,30 @@
+{
+  "stem": "Two numbers are shown. A number in between is missing.\n\n6.027 [ ] 6.009\n\nWhich number can be placed in the box to show the numbers in order from greatest to least?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6.25"
+    },
+    {
+      "label": "B",
+      "text": "6.02"
+    },
+    {
+      "label": "C",
+      "text": "6.005"
+    },
+    {
+      "label": "D",
+      "text": "6.028"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "6.027 [ ] 6.009"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

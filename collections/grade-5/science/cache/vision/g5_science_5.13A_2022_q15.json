@@ -1,0 +1,31 @@
+{
+  "stem": "The foot of a hawk and the foot of a chicken are shown.\n\nThe difference between the shapes of their feet is most likely associated with the \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "predators that hunt them"
+    },
+    {
+      "label": "B",
+      "text": "climate in which they live"
+    },
+    {
+      "label": "C",
+      "text": "way they get their food"
+    },
+    {
+      "label": "D",
+      "text": "distance they can fly"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "hawk foot image",
+    "chicken foot image"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

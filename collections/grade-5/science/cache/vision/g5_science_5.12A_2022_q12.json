@@ -1,0 +1,30 @@
+{
+  "stem": "Students study barracudas. They gather some observations of barracudas. A barracuda is shown.\n\nWhich observation describes barracudas interacting with the living elements of their ecosystem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Barracudas can travel quickly using surface ocean currents."
+    },
+    {
+      "label": "G",
+      "text": "Barracudas live around hard structures such as oil rigs and jetties."
+    },
+    {
+      "label": "H",
+      "text": "Barracudas are predators of other fish."
+    },
+    {
+      "label": "J",
+      "text": "Barracudas tend to live in warm waters."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photo of a barracuda fish underwater"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

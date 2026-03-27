@@ -1,0 +1,30 @@
+{
+  "stem": "A rectangular prism has dimensions in inches as shown.\n\nThe prism will be completely filled with unit cubes that each have a volume of 1 cubic inch.\n\nHow many unit cubes are needed to fill the prism?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8"
+    },
+    {
+      "label": "B",
+      "text": "48"
+    },
+    {
+      "label": "C",
+      "text": "24"
+    },
+    {
+      "label": "D",
+      "text": "16"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a rectangular prism with dimensions labeled: 2 in. by 4 in. by 2 in."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

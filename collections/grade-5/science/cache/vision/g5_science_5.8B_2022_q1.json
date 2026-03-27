@@ -1,0 +1,33 @@
+{
+  "stem": "Which circuit shown will produce light when the switch is closed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Circuit A with battery, bulb, and switch connected as shown."
+    },
+    {
+      "label": "B",
+      "text": "Circuit B with battery, bulb, and switch connected as shown."
+    },
+    {
+      "label": "C",
+      "text": "Circuit C with battery, bulb, and switch connected as shown."
+    },
+    {
+      "label": "D",
+      "text": "Circuit D with battery, bulb, and switch connected as shown."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circuit A: Battery connected to bulb and switch, wires connected with a closed loop.",
+    "Circuit B: Battery connected to bulb and switch, wires connected forming a loop.",
+    "Circuit C: Battery connected to bulb and switch, wires arranged.",
+    "Circuit D: Battery connected to bulb and switch, wires arranged."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

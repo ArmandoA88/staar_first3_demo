@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these Little Golden Books was published first?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Two Little Miners"
+    },
+    {
+      "label": "B",
+      "text": "The Poky Little Puppy"
+    },
+    {
+      "label": "C",
+      "text": "Here Comes the Parade"
+    },
+    {
+      "label": "D",
+      "text": "Doctor Dan The Bandage Man"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

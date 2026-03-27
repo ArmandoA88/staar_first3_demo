@@ -1,0 +1,33 @@
+{
+  "stem": "A carpenter charges $720 for 18 hours of work. She charges the same amount of money for each hour of work.\n\nWhich table shows the relationship between the amount of time the carpenter works and the amount of money she charges?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Amount of Time Worked (hours) 2 4 6 8\nAmount Charged (dollars) 80 160 240 320"
+    },
+    {
+      "label": "B",
+      "text": "Amount of Time Worked (hours) 19 20 21 22\nAmount Charged (dollars) 720 738 756 774"
+    },
+    {
+      "label": "C",
+      "text": "Amount of Time Worked (hours) 3 5 7 9\nAmount Charged (dollars) 75 125 175 225"
+    },
+    {
+      "label": "D",
+      "text": "Amount of Time Worked (hours) 14 15 16 17\nAmount Charged (dollars) 720 720 720 720"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table A: Carpenter\u2019s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 2-80, 4-160, 6-240, 8-320.",
+    "Table B: Carpenter\u2019s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 19-720, 20-738, 21-756, 22-774.",
+    "Table C: Carpenter\u2019s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 3-75, 5-125, 7-175, 9-225.",
+    "Table D: Carpenter\u2019s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 14-720, 15-720, 16-720, 17-720."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

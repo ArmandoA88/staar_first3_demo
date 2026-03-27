@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Otherwise, the pancakes would stick to the surface. And have a big mess to clean up."
+    },
+    {
+      "label": "G",
+      "text": "Otherwise, the pancakes would stick to the surface then we would have a big mess to clean up."
+    },
+    {
+      "label": "H",
+      "text": "Otherwise, the pancakes would stick to the surface, and we would have a big mess to clean up."
+    },
+    {
+      "label": "J",
+      "text": "The sentence is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

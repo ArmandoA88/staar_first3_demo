@@ -1,0 +1,33 @@
+{
+  "stem": "To make pink paint, Sylvia mixes 7 cups of white paint to every 3 cups of red paint. Which table shows possible values of w, the number of cups of white paint Sylvia uses, and r, the number of cups of red paint?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "White Paint, w (cups)    7    49    343    2,401\nRed Paint, r (cups)     3     9     27      81"
+    },
+    {
+      "label": "B",
+      "text": "White Paint, w (cups)    7    8    9    10\nRed Paint, r (cups)      3    4    5     6"
+    },
+    {
+      "label": "C",
+      "text": "White Paint, w (cups)    7    14    21    28\nRed Paint, r (cups)      3     6     9    12"
+    },
+    {
+      "label": "D",
+      "text": "White Paint, w (cups)    7    6    5    4\nRed Paint, r (cups)      3    4    5    6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table A with values for white paint: 7, 49, 343, 2,401 and red paint: 3, 9, 27, 81",
+    "Table B with values for white paint: 7, 8, 9, 10 and red paint: 3, 4, 5, 6",
+    "Table C with values for white paint: 7, 14, 21, 28 and red paint: 3, 6, 9, 12",
+    "Table D with values for white paint: 7, 6, 5, 4 and red paint: 3, 4, 5, 6"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

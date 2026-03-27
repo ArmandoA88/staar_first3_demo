@@ -1,0 +1,30 @@
+{
+  "stem": "Mr. Warren drew a diagram of the base of a carton shaped like a rectangular prism. Use the ruler provided to measure the length and width of the diagram to the nearest inch.\n\nWhich measurement is closest to the area of the base of the carton in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A = 12 square inches"
+    },
+    {
+      "label": "G",
+      "text": "A = 14 square inches"
+    },
+    {
+      "label": "H",
+      "text": "A = 20 square inches"
+    },
+    {
+      "label": "J",
+      "text": "A = 18 square inches"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle base diagram, no dimensions labeled visible"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "No ruler visible in extracted image; question text implies ruler is provided elsewhere."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 2.\n\nIn fact, it\u2019s difficult to imagine a world today without grocery store check-out counters lined with colorful packages of minty or fruit-flavored gum.\n\nThe description in this sentence helps the reader understand that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "gum has become more expensive"
+    },
+    {
+      "label": "G",
+      "text": "gum is a common and popular product"
+    },
+    {
+      "label": "H",
+      "text": "shoppers often forget to buy gum until the last minute"
+    },
+    {
+      "label": "J",
+      "text": "there are more flavors of gum than there used to be"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In fact, it\u2019s difficult to imagine a world today without grocery store check-out counters lined with colorful packages of minty or fruit-flavored gum."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

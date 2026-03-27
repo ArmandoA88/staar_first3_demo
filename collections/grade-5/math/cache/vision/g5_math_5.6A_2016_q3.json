@@ -1,0 +1,31 @@
+{
+  "stem": "Rebekah is filling a cube-shaped box with small cubes. The volume of each of these cubes is 1 cubic centimeter. She has already put some of these cubes into the box, as shown in the model.\n\nWhat is the total number of small cubes that will fit in the box?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "729"
+    },
+    {
+      "label": "B",
+      "text": "81"
+    },
+    {
+      "label": "C",
+      "text": "36"
+    },
+    {
+      "label": "D",
+      "text": "27"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cube-shaped box model showing a vertical stack of 9 small cubes along one edge",
+    "Small cube icon labeled = 1 cubic centimeter"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

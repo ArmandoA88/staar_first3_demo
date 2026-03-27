@@ -1,0 +1,30 @@
+{
+  "stem": "The author uses the simile in this sentence to show that Patrick \u2014",
+  "instruction": "Read this sentence from paragraph 10.\n\nHe attempted to work with the girls' locks of hair but found the hair to be as slippery as a handful of wet noodles.",
+  "options": [
+    {
+      "label": "A",
+      "text": "thinks the girls have gotten food in their hair"
+    },
+    {
+      "label": "B",
+      "text": "thinks that the girls' hair is too wet to make proper braids"
+    },
+    {
+      "label": "C",
+      "text": "would prefer to be cooking dinner rather than braiding hair"
+    },
+    {
+      "label": "D",
+      "text": "finds it very difficult to make braids in the girls' hair"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He attempted to work with the girls' locks of hair but found the hair to be as slippery as a handful of wet noodles."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

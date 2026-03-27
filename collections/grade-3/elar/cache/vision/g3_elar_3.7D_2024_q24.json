@@ -1,0 +1,31 @@
+{
+  "stem": "Read these sentences from paragraph 18.\n\nSmooth, sticky soil has lots of clay. When this soil dries out, it becomes as hard as concrete.\n\nWhat is the best paraphrase of these sentences?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Clay is a type of soil that keeps plants from growing."
+    },
+    {
+      "label": "B",
+      "text": "Clay dries out quickly and becomes concrete."
+    },
+    {
+      "label": "C",
+      "text": "Sticky soil has clay in it and becomes hard when it is dry."
+    },
+    {
+      "label": "D",
+      "text": "Sticky soil has different types of clay in it."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Read these sentences from paragraph 18.",
+    "Smooth, sticky soil has lots of clay. When this soil dries out, it becomes as hard as concrete."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

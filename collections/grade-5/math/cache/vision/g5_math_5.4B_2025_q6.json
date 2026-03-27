@@ -1,0 +1,18 @@
+{
+  "stem": "Deidra rents b booths at a market. Each booth costs $32 to rent. Deidra pays an additional $30 in fees for a total of $94.\n\nComplete the equation that can be used to find how many booths Deidra rents.\n\nMove the correct answer to each box. Each answer may be used more than once. Not all answers will be used.\n\n94 = 32 [blank_1] b [blank_2] 30",
+  "instruction": null,
+  "options": [],
+  "choice_pool": [
+    "+",
+    "-",
+    "\u00f7",
+    "\u00d7"
+  ],
+  "response_template": "94 = 32 [blank_1] b [blank_2] 30",
+  "visual_elements": [
+    "2025-Q6, the problem text and equation with two blank boxes, and four draggable operator tokens: +, -, \u00f7, \u00d7"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.95,
+  "notes": "The item is a drag-and-drop type where students place the correct mathematical operators in the equation to represent the situation."
+}

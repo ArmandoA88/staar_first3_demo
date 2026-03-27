@@ -1,0 +1,30 @@
+{
+  "stem": "Paragraph 2 is mainly about the\u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "method Stuart used when he was painting portraits"
+    },
+    {
+      "label": "B",
+      "text": "number of portraits Stuart painted during his lifetime"
+    },
+    {
+      "label": "C",
+      "text": "reason Stuart wanted to paint portraits of famous people"
+    },
+    {
+      "label": "D",
+      "text": "popularity of the portraits Stuart painted during his lifetime"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following best supports the idea that finishing the Ironman Triathlon was a remarkable feat for Mr. Evolta?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It normally takes less than 13 hours for a human to complete the competition."
+    },
+    {
+      "label": "G",
+      "text": "Mr. Evolta is only about one-tenth the height of the average human."
+    },
+    {
+      "label": "H",
+      "text": "Each race in the event was held in Hawaii."
+    },
+    {
+      "label": "J",
+      "text": "Mr. Evolta needed more time to finish the competition than a human would."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

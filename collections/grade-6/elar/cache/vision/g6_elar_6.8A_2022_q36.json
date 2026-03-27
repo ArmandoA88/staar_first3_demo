@@ -1,0 +1,28 @@
+{
+  "stem": "Which characteristic best identifies this story as a myth?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The story uses impossible events to explain the origin of something natural."
+    },
+    {
+      "label": "G",
+      "text": "The story includes the actions and dialogue of several characters."
+    },
+    {
+      "label": "H",
+      "text": "The story includes a setting that is unoccupied by humans."
+    },
+    {
+      "label": "J",
+      "text": "The story takes place a very long time ago."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

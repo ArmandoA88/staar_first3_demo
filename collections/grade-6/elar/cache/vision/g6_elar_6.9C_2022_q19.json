@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes this photograph?",
+  "instruction": "Use \u201cDive into a Sunken Museum\u201d to answer the following question.\n\nLook at this photograph from the selection \u201cDive into a Sunken Museum.\u201d",
+  "options": [
+    {
+      "label": "A",
+      "text": "To reveal that Jason Taylor\u2019s underwater sculpture parks are very large"
+    },
+    {
+      "label": "B",
+      "text": "To explain why Jason Taylor is inspired by marine life when making his sculptures"
+    },
+    {
+      "label": "C",
+      "text": "To show how Jason Taylor\u2019s underwater parks lead people away from nearby reefs"
+    },
+    {
+      "label": "D",
+      "text": "To emphasize that Jason Taylor creates lifelike sculptures to display underwater"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photo of Jason deCaires Taylor\u2019s Sculpture, Circle of Children"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

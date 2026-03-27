@@ -1,0 +1,30 @@
+{
+  "stem": "Three points are plotted on the coordinate grid.\n\nThree statements about the points on the coordinate grid are shown.\n\n\u2022 Statement I: Point S is located on the horizontal axis.\n\n\u2022 Statement II: Point Q is located at the origin.\n\n\u2022 Statement III: Point N is the same distance from the origin as point S.\n\nWhich statements about the points on this coordinate grid are true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Statement III only"
+    },
+    {
+      "label": "B",
+      "text": "Statements I and II only"
+    },
+    {
+      "label": "C",
+      "text": "Statements I and III only"
+    },
+    {
+      "label": "D",
+      "text": "Statement II only"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with points N at (0,5), Q at (1,1), and S at (5,0)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

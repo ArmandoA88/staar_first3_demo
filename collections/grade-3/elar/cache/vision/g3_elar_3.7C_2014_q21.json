@@ -1,0 +1,28 @@
+{
+  "stem": "The author wrote this article mainly to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "show readers how to build a PlayPump"
+    },
+    {
+      "label": "B",
+      "text": "tell about a different process to pump and store water"
+    },
+    {
+      "label": "C",
+      "text": "provide readers with information about the cost of a PlayPump"
+    },
+    {
+      "label": "D",
+      "text": "tell about an inventor who thought of a creative idea"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

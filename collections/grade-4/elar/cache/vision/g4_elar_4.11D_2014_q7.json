@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 11 and 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "While the people went upstairs, Oliver was left to sleep downstairs in the basement."
+    },
+    {
+      "label": "B",
+      "text": "The people went upstairs, and Oliver was left. To sleep downstairs in the basement."
+    },
+    {
+      "label": "C",
+      "text": "The people went upstairs, Oliver was left to sleep downstairs in the basement."
+    },
+    {
+      "label": "D",
+      "text": "Sentences 11 and 12 are written correctly in the story."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

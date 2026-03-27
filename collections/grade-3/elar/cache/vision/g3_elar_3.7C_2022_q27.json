@@ -1,0 +1,28 @@
+{
+  "stem": "What sentence supports the idea that joining a book club could help someone make friends?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Today more young people are forming their own book clubs. (paragraph 1)"
+    },
+    {
+      "label": "B",
+      "text": "In many book clubs, each member takes a turn selecting the book for the group to read. (paragraph 4)"
+    },
+    {
+      "label": "C",
+      "text": "In many ways, book clubs allow their members to think about new ideas. (paragraph 4)"
+    },
+    {
+      "label": "D",
+      "text": "By spending time with them at book-club meetings, you will get to know all the members better. (paragraph 6)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Four students are traveling to a math contest. The table shows the weights of the four students\u2019 suitcases.\n\nWeights of Suitcases\n\n| Student  | Weight of Suitcase (pounds) |\n|----------|-----------------------------|\n| Juan     | 21.605                      |\n| Tiana    | 24.8                        |\n| Kimberly | 21.48                       |\n| Emanuel  | 24.75                       |\n\nIn what position would Juan\u2019s suitcase be if the weights of the suitcases in pounds were ordered from greatest to least?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "First"
+    },
+    {
+      "label": "G",
+      "text": "Second"
+    },
+    {
+      "label": "H",
+      "text": "Third"
+    },
+    {
+      "label": "J",
+      "text": "Fourth"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with headers 'Student' and 'Weight of Suitcase (pounds)' showing: Juan 21.605, Tiana 24.8, Kimberly 21.48, Emanuel 24.75"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

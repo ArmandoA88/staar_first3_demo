@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the meaning of the word composed in paragraph 1?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "compose \\k\u0259m-\u02c8p\u014dz\\ verb\n1. to write music\n2. to form by putting together\n3. to free from worry\n4. to deal with in order to make less"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

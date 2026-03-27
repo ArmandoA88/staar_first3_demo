@@ -1,0 +1,34 @@
+{
+  "stem": "Paragraphs 2 and 3 are mainly about \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "rewards people have received for returning bottles that were found"
+    },
+    {
+      "label": "G",
+      "text": "what keeps bottles with messages in them from sinking in the ocean"
+    },
+    {
+      "label": "H",
+      "text": "bottles that have drifted in the sea and then been found"
+    },
+    {
+      "label": "J",
+      "text": "what people write on the notes that are placed inside bottles"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Paragraphs 2 and 3 are mainly about \u2014",
+    "F  rewards people have received for returning bottles that were found",
+    "G  what keeps bottles with messages in them from sinking in the ocean",
+    "H  bottles that have drifted in the sea and then been found",
+    "J  what people write on the notes that are placed inside bottles"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

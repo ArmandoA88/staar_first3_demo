@@ -1,0 +1,28 @@
+{
+  "stem": "What is the main message of the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Finding adventure requires careful planning."
+    },
+    {
+      "label": "B",
+      "text": "Events are more meaningful when experienced alone."
+    },
+    {
+      "label": "C",
+      "text": "Replacing objects that are damaged is part of growing up."
+    },
+    {
+      "label": "D",
+      "text": "People can find comfort in things that are always with them."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

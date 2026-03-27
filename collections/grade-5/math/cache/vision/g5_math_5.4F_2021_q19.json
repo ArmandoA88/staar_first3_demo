@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of this expression?\n\n10[3 + (7 + 5) \u00f7 3]",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "14"
+    },
+    {
+      "label": "B",
+      "text": "34"
+    },
+    {
+      "label": "C",
+      "text": "50"
+    },
+    {
+      "label": "D",
+      "text": "70"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "10[3 + (7 + 5) \u00f7 3]"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

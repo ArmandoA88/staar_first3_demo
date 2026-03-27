@@ -1,0 +1,30 @@
+{
+  "stem": "The rectangle shown represents the base of a rectangular prism. Use the ruler provided to measure the length and width of the rectangle to the nearest \\( \\frac{1}{4} \\) inch.\n\nThe height of the prism is 2 inches. Which measurement is closest to the volume of the prism in cubic inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "27 in.\\(^{3}\\)"
+    },
+    {
+      "label": "G",
+      "text": "22 in.\\(^{3}\\)"
+    },
+    {
+      "label": "H",
+      "text": "11 in.\\(^{3}\\)"
+    },
+    {
+      "label": "J",
+      "text": "12 in.\\(^{3}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle representing base of a rectangular prism"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

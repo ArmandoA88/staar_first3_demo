@@ -1,0 +1,30 @@
+{
+  "stem": "The playground at a park is shaped like a trapezoid. The dimensions of the playground are shown in the diagram.",
+  "instruction": "What is the area of the playground in square feet?",
+  "options": [
+    {
+      "label": "A",
+      "text": "3,120 ft\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "1,560 ft\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "1,768 ft\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "3,536 ft\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a trapezoid with bases labeled 68 ft and 36 ft, height labeled 30 ft, and side length labeled 34 ft"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

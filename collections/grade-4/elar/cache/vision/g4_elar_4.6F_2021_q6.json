@@ -1,0 +1,35 @@
+{
+  "stem": "Based on information in paragraph 4, what can the reader infer about elephants?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "An elephant\u2019s ears help the elephant communicate."
+    },
+    {
+      "label": "G",
+      "text": "Elephants usually feel either happy or scared."
+    },
+    {
+      "label": "H",
+      "text": "A large herd will rarely experience danger."
+    },
+    {
+      "label": "J",
+      "text": "Scientists are confused by an elephant\u2019s body language."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q6 Passage #1",
+    "6",
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

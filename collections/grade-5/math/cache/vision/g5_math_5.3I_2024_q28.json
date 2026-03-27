@@ -1,0 +1,40 @@
+{
+  "stem": "A model is shaded to represent an expression.\n\nCreate an equation that represents the expression and its product.\n\nMove the correct answer to each box. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "2"
+    },
+    {
+      "label": null,
+      "text": "3"
+    },
+    {
+      "label": null,
+      "text": "5"
+    },
+    {
+      "label": null,
+      "text": "6"
+    },
+    {
+      "label": null,
+      "text": "10"
+    }
+  ],
+  "choice_pool": [
+    "2",
+    "3",
+    "5",
+    "6",
+    "10"
+  ],
+  "response_template": "[blank_1] \\times [blank_2] = 8",
+  "visual_elements": [
+    "Two rectangle models shown side by side; each rectangle divided into 8 parts with 6 parts shaded.\nA key shows a full rectangle with all 8 parts shaded equals 1."
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.98,
+  "notes": "The problem is drag and drop with numbers 2, 3, 5, 6, 10 to fill in blanks in an equation involving shaded parts of 8."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes this illustration in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To help the reader understand that Conejo is worried about Coyote"
+    },
+    {
+      "label": "B",
+      "text": "To show that Coyote has chased Conejo many times"
+    },
+    {
+      "label": "C",
+      "text": "To help the reader understand why Coyote believes there is cheese in the lake"
+    },
+    {
+      "label": "D",
+      "text": "To show that Conejo is just as hungry as Coyote"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "illustration of a coyote and a rabbit by a lake"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

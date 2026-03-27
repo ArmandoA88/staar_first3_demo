@@ -1,0 +1,30 @@
+{
+  "stem": "A student prepared a snack that consisted of grapes, pecans, and strawberries sprinkled with white powdered sugar. The student stored the snack in a refrigerator. An hour later the student observed that the powdered sugar could no longer be seen but the fruit and nuts had not changed in appearance.\n\nWhat most likely happened to the sugar in the mixture?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The sugar evaporated at the lower temperature in the refrigerator without causing any changes to the fruit and nuts."
+    },
+    {
+      "label": "B",
+      "text": "The sugar was more dense than the other foods in the mixture, so it settled to the bottom of the container."
+    },
+    {
+      "label": "C",
+      "text": "The sugar dissolved in the moisture on the fruit."
+    },
+    {
+      "label": "D",
+      "text": "The sugar absorbed energy from the nuts and melted into a colorless liquid."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "screenshot of science STAAR problem with question and four answer choices labeled A-D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

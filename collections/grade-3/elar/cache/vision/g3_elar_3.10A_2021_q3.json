@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author wrote this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To tell the reader where to find porcupines in the wild"
+    },
+    {
+      "label": "B",
+      "text": "To describe how a porcupine acts around an attacker"
+    },
+    {
+      "label": "C",
+      "text": "To provide the reader with many different facts about porcupines"
+    },
+    {
+      "label": "D",
+      "text": "To explain why porcupines look different from other animals"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

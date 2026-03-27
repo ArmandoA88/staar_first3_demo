@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection best helps the reader visualize what Clifford looks like?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She told Bridwell to think of a story that would match that picture."
+    },
+    {
+      "label": "B",
+      "text": "This time when he drew more pictures, he made the dog as big as a house!"
+    },
+    {
+      "label": "C",
+      "text": "In some countries Clifford's name isn't even Clifford."
+    },
+    {
+      "label": "D",
+      "text": "Clifford's image can also be seen on everything from puzzles to backpacks and clothes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

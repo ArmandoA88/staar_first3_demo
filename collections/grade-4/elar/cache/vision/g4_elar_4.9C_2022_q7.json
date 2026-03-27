@@ -1,0 +1,30 @@
+{
+  "stem": "What does this stage direction suggest about Lucia?",
+  "instruction": "Read this stage direction from line 30.\n\nLUCIA: [Closing the book and holding it to her chest.]",
+  "options": [
+    {
+      "label": "A",
+      "text": "She wants to be sure to take the book when she leaves."
+    },
+    {
+      "label": "B",
+      "text": "She wants to read the book before Nelson does."
+    },
+    {
+      "label": "C",
+      "text": "She is upset that Nelson plans to write about the book."
+    },
+    {
+      "label": "D",
+      "text": "She realizes that Nelson thinks the book belongs to him."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "LUCIA: [Closing the book and holding it to her chest.]"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

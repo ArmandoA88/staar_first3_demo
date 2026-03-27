@@ -1,0 +1,31 @@
+{
+  "stem": "A teacher used an electric kettle filled with water to demonstrate the water cycle to students. The image shows the setup for this demonstration.\n\nWhich of these identifies how a stage of the water cycle is represented in the demonstration?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Runoff: Water droplets appeared on the plate."
+    },
+    {
+      "label": "B",
+      "text": "Condensation: Water droplets fell from the plate."
+    },
+    {
+      "label": "C",
+      "text": "Evaporation: The amount of water in the kettle decreased."
+    },
+    {
+      "label": "D",
+      "text": "Precipitation: The water in the kettle began to boil."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Electric kettle plugged into an outlet on a counter",
+    "Hand wearing oven mitt holding a plate above the kettle"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

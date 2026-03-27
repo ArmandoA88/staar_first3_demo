@@ -1,0 +1,30 @@
+{
+  "stem": "Four points are graphed on the coordinate grid.\n\nWhich point is best represented by the ordered pair (2, -5.5)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Point W"
+    },
+    {
+      "label": "G",
+      "text": "Point V"
+    },
+    {
+      "label": "H",
+      "text": "Point S"
+    },
+    {
+      "label": "J",
+      "text": "Point R"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate grid with points R at approximately (-6, 2), S at approximately (3, -4), V at approximately (4, -6), W at approximately (1.5, -5.5)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

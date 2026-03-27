@@ -1,0 +1,30 @@
+{
+  "stem": "What value is equivalent to \\(3^4 - 2^3 \\cdot (5 - 2) - 60\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-3"
+    },
+    {
+      "label": "B",
+      "text": "-66"
+    },
+    {
+      "label": "C",
+      "text": "159"
+    },
+    {
+      "label": "D",
+      "text": "-21"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3^4 - 2^3 \\cdot (5 - 2) - 60"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

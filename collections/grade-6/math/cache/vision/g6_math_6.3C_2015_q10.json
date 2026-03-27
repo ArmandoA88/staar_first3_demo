@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is represented on the number line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-12 \\div -3"
+    },
+    {
+      "label": "B",
+      "text": "0 - (-12)"
+    },
+    {
+      "label": "C",
+      "text": "-3 \\cdot -4"
+    },
+    {
+      "label": "D",
+      "text": "3(-4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line from -12 to 4 with three arrows, each representing -4 steps from 0 to -12"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

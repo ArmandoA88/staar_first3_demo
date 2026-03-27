@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change boy's and girl's to boys and girls"
+    },
+    {
+      "label": "B",
+      "text": "Change are so eager to is so eager"
+    },
+    {
+      "label": "C",
+      "text": "Change they end up to you end up"
+    },
+    {
+      "label": "D",
+      "text": "Change by climbing on to they climb on"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

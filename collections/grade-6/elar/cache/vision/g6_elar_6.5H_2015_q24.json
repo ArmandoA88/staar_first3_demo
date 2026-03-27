@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea is supported by information in the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Technology is often too inefficient to be practical."
+    },
+    {
+      "label": "G",
+      "text": "Nature can inspire human innovation."
+    },
+    {
+      "label": "H",
+      "text": "The best machines have been designed to work by remote control."
+    },
+    {
+      "label": "J",
+      "text": "Innovations are usually based on the ideas of inventors who lived long ago."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

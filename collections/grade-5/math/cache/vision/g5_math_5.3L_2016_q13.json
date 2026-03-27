@@ -1,0 +1,34 @@
+{
+  "stem": "Cyril put a total of \\( \\frac{1}{8} \\) lb of gravel into 6 fish tanks. He put the same amount of gravel into each tank. How many pounds of gravel did Cyril put into each fish tank?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{6}{8} \\) lb"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{6} \\) lb"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{48} \\) lb"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{6}{48} \\) lb"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction \\( \\frac{1}{8} \\)",
+    "fraction \\( \\frac{6}{8} \\)",
+    "fraction \\( \\frac{1}{6} \\)",
+    "fraction \\( \\frac{1}{48} \\)",
+    "fraction \\( \\frac{6}{48} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

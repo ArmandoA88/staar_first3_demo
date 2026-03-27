@@ -1,0 +1,32 @@
+{
+  "stem": "Based on the pictures, how many hours should the student record on the nighttime picture to complete a day-night cycle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "11 hours"
+    },
+    {
+      "label": "B",
+      "text": "12 hours"
+    },
+    {
+      "label": "C",
+      "text": "13 hours"
+    },
+    {
+      "label": "D",
+      "text": "24 hours"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Daytime (sunrise 7:10 A.M.) 11 hours of daytime (sunset 6:10 P.M.)",
+    "Nighttime ? hours of nighttime (moon icon)",
+    "House and tree silhouettes shown in both daytime and nighttime scenes"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

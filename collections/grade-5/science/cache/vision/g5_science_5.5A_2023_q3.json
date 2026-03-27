@@ -1,0 +1,30 @@
+{
+  "stem": "Students poured water and cooking oil into a beaker. The students then added a penny, a plastic paper clip, and a cork to the beaker and recorded their observations.\n\nObservations:\n\n\u2022 The water was on the bottom, and the oil was on top of the water.\n\n\u2022 The penny dropped to the bottom of the beaker.\n\n\u2022 The plastic paper clip floated on the water but under the oil.\n\n\u2022 The cork floated on top of the oil.\n\nWhich list puts the items in order from most dense to least dense?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Cork, oil, plastic paper clip, water, penny"
+    },
+    {
+      "label": "B",
+      "text": "Water, penny, oil, plastic paper clip, cork"
+    },
+    {
+      "label": "C",
+      "text": "Penny, water, plastic paper clip, oil, cork"
+    },
+    {
+      "label": "D",
+      "text": "Oil, penny, cork, plastic paper clip, water"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Observations box with bullet points about the layers and objects: water on bottom, oil on top of water, penny bottom, plastic paper clip floats on water but under oil, cork floats on oil."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

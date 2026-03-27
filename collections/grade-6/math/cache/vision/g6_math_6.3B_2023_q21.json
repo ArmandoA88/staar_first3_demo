@@ -1,0 +1,33 @@
+{
+  "stem": "Determine whether the value of each expression is greater than 25 or less than 25.\n\nSelect the correct answer in each row.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "25 \\cdot \\frac{12}{13}"
+    },
+    {
+      "label": null,
+      "text": "25 \\cdot \\frac{15}{7}"
+    },
+    {
+      "label": null,
+      "text": "25 \\cdot \\frac{98}{25}"
+    },
+    {
+      "label": null,
+      "text": "25 \\cdot \\frac{100}{181}"
+    }
+  ],
+  "choice_pool": [
+    "Greater Than 25",
+    "Less Than 25"
+  ],
+  "response_template": "25 \\cdot \\frac{12}{13} [blank_1]\n25 \\cdot \\frac{15}{7} [blank_2]\n25 \\cdot \\frac{98}{25} [blank_3]\n25 \\cdot \\frac{100}{181} [blank_4]",
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 1,
+  "notes": null
+}

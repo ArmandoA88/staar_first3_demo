@@ -1,0 +1,28 @@
+{
+  "stem": "This question has two parts. First, answer Part A. Then answer Part B.\n\nPart A\nWhat is the central idea of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Salamanders play an important role in their environment."
+    },
+    {
+      "label": "B",
+      "text": "Scientists study how different salamanders behave."
+    },
+    {
+      "label": "C",
+      "text": "Salamanders need to live in certain temperatures."
+    },
+    {
+      "label": "D",
+      "text": "People should visit the salamanders that live in aquifers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "The problem includes Part B, but only Part A was extracted as one problem per user instruction."
+}

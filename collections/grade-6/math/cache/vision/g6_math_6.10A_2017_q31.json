@@ -1,0 +1,30 @@
+{
+  "stem": "Saritha will construct a rectangle that has a height of 4 units and an area of up to 48 square units. Which inequality represents all the possible lengths in units of the bases, b, that Saritha can use to construct this rectangle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "b \\leq 44"
+    },
+    {
+      "label": "B",
+      "text": "b \\geq 52"
+    },
+    {
+      "label": "C",
+      "text": "b \\leq 12"
+    },
+    {
+      "label": "D",
+      "text": "b \\geq 192"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "inequalities with variable b and numbers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

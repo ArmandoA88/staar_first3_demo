@@ -1,0 +1,28 @@
+{
+  "stem": "The area of a rectangle is 45.5 square inches. The base of the rectangle is 7 inches.\n\nWhat is the height of the rectangle in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "318.5 in."
+    },
+    {
+      "label": "B",
+      "text": "6.5 in."
+    },
+    {
+      "label": "C",
+      "text": "15.75 in."
+    },
+    {
+      "label": "D",
+      "text": "38.5 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What explains why a coin at the bottom of a pool of water seems closer to the surface than it really is?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Light reflects from the surface of the water."
+    },
+    {
+      "label": "B",
+      "text": "Light reflected from the coin changes direction as it leaves the water."
+    },
+    {
+      "label": "C",
+      "text": "Light travels only in straight lines after being reflected."
+    },
+    {
+      "label": "D",
+      "text": "Light reflected from the coin is absorbed by the water."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "icons indicating a multiple choice question"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

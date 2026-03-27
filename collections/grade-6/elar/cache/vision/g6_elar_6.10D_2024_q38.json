@@ -1,0 +1,33 @@
+{
+  "stem": "What change needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *shows* to **shown**"
+    },
+    {
+      "label": "B",
+      "text": "Change *is actually focusing* to **are actually focusing**"
+    },
+    {
+      "label": "C",
+      "text": "Change *early* to **earley**"
+    },
+    {
+      "label": "D",
+      "text": "Change *months* to **month's**"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,18 @@
+{
+  "stem": "Rosa\u2019s salary is $450 each week. Her take-home pay for the week is $385.\n\nComplete the statement to describe Rosa\u2019s take-home pay.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [],
+  "choice_pool": [
+    "less than her salary",
+    "more than her salary",
+    "equal to her salary",
+    "greater than expected",
+    "less than expected",
+    "equal to expected"
+  ],
+  "response_template": "Rosa\u2019s take-home pay is her [blank_1] because taxes and deductions were [blank_2].",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

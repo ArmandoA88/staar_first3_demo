@@ -1,0 +1,28 @@
+{
+  "stem": "This month Mando's expenses are greater than his income. What are two actions Mando can take in order to balance his budget?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Increase expenses and decrease income"
+    },
+    {
+      "label": "B",
+      "text": "Decrease expenses and decrease income"
+    },
+    {
+      "label": "C",
+      "text": "Decrease expenses and increase income"
+    },
+    {
+      "label": "D",
+      "text": "Increase expenses and increase income"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the article helps explain why staring at a computer screen affects blink rates?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Then blink rates decrease as people move into older adulthood."
+    },
+    {
+      "label": "B",
+      "text": "After 30 seconds you probably struggle to resist closing and then reopening your eyes."
+    },
+    {
+      "label": "C",
+      "text": "You\u2019ll blink less when you\u2019re concentrating on something."
+    },
+    {
+      "label": "D",
+      "text": "When you\u2019re thinking but not actually looking at something, your blink rate will also decrease."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q5 Passage #1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

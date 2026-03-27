@@ -1,0 +1,30 @@
+{
+  "stem": "An expression is incorrectly simplified as shown in the table.\n\n| Steps   | Expression                  |\n|---------|-----------------------------|\n| Given   | 60 \\u00f7 6 [ (1 \\u00d7 2) + (4 \\u00d7 2) ] |\n| Step 1  | 60 \\u00f7 6 [ 2 + 8 ]       |\n| Step 2  | 60 \\u00f7 12 + 8            |\n| Step 3  | 5 + 8                       |\n| Step 4  | 13                         |\n\nIn which step does the error first appear?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Step 1, because 2 + 4 should be simplified first"
+    },
+    {
+      "label": "B",
+      "text": "Step 2, because 2 + 8 should be simplified before multiplying by 6"
+    },
+    {
+      "label": "C",
+      "text": "Step 3, because 12 + 8 should be simplified before 60 \\u00f7 12"
+    },
+    {
+      "label": "D",
+      "text": "Step 1, because 60 \\u00f7 6 should be simplified first"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with steps and expressions showing the simplification process, and four multiple choice options"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

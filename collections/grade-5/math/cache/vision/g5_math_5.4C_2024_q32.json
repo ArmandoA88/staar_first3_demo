@@ -1,0 +1,51 @@
+{
+  "stem": "The values in the table represent the equation \\( y = 6x \\). Complete the table to represent the relationship between the values of \\( x \\) and \\( y \\).",
+  "instruction": "Move the correct answer to each box in the table. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "1"
+    },
+    {
+      "label": null,
+      "text": "10"
+    },
+    {
+      "label": null,
+      "text": "12"
+    },
+    {
+      "label": null,
+      "text": "36"
+    },
+    {
+      "label": null,
+      "text": "42"
+    },
+    {
+      "label": null,
+      "text": "66"
+    },
+    {
+      "label": null,
+      "text": "120"
+    }
+  ],
+  "choice_pool": [
+    "1",
+    "10",
+    "12",
+    "36",
+    "42",
+    "66",
+    "120"
+  ],
+  "response_template": "| x | y |\n|---|---|\n| 6 | [blank_1] |\n| [blank_2] | 60 |\n| [blank_3] | 72 |\n| 20 | [blank_4] |",
+  "visual_elements": [
+    "table with x and y columns",
+    "numbers: 1, 10, 12, 36, 42, 66, 120"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

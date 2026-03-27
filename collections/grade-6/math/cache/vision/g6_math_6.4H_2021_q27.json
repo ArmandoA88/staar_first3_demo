@@ -1,0 +1,30 @@
+{
+  "stem": "The length of a marathon race is 26 miles 385 yards. What is the total length of the marathon race in yards?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2,171 yd"
+    },
+    {
+      "label": "B",
+      "text": "46,145 yd"
+    },
+    {
+      "label": "C",
+      "text": "137,665 yd"
+    },
+    {
+      "label": "D",
+      "text": "5,691 yd"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "26 miles 385 yards"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Students study a landform that is found at the mouth of a river.",
+  "instruction": "Which statement BEST explains the processes that cause this landform?",
+  "options": [
+    {
+      "label": "A",
+      "text": "As ocean waves break on the shore, they deposit sediment from the ocean to the mouth of the river."
+    },
+    {
+      "label": "B",
+      "text": "As the river water flows into the ocean, it slows down, causing sediments to be deposited at the mouth of the river."
+    },
+    {
+      "label": "C",
+      "text": "As the river water flows into the ocean, it speeds up, causing sediments to be deposited at the mouth of the river."
+    },
+    {
+      "label": "D",
+      "text": "As ocean waves break on the shore, they deposit sediment from the shoreline to the mouth of the river."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a river flowing from land into the ocean with a labeled landform at the river mouth."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

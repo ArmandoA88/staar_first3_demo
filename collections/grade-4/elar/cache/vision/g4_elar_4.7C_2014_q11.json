@@ -1,0 +1,28 @@
+{
+  "stem": "Which idea from the selection does the first photograph support?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Frogs need human protection in nature."
+    },
+    {
+      "label": "B",
+      "text": "Frogs croak to interact with one another."
+    },
+    {
+      "label": "C",
+      "text": "Frogs can hide easily because of their size."
+    },
+    {
+      "label": "D",
+      "text": "Frogs search for food during the night."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

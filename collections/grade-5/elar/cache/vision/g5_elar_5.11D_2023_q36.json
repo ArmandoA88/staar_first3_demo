@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert it after brain"
+    },
+    {
+      "label": "B",
+      "text": "Change brings to brang"
+    },
+    {
+      "label": "C",
+      "text": "Delete the comma after thoughts"
+    },
+    {
+      "label": "D",
+      "text": "Change feelings to fealings"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

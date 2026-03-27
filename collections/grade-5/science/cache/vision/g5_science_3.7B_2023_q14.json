@@ -1,0 +1,31 @@
+{
+  "stem": "A student pushes a ball along a hallway. The diagram shows the position of the ball every second for five seconds after it starts rolling. At one of the positions shown, an extra force is applied to the ball as it moves.\n\nDifferent Positions of a Rolling Ball\n\nStart\n\n1     2     3     4     5\n\nPosition 1  Position 2  Position 3  Position 4  Position 5\n\nWhich diagram BEST represents the direction of the extra force and the position where the extra force was applied to the ball?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Position 2 \u2192"
+    },
+    {
+      "label": "B",
+      "text": "Position 3 \u2192"
+    },
+    {
+      "label": "C",
+      "text": "Position 4 \u2190"
+    },
+    {
+      "label": "D",
+      "text": "Position 5 \u2190"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing a ball's positions labeled 1 to 5 in a straight line, with the label 'Start' above position 1.",
+    "Four small diagrams labeled A, B, C, D showing a ball at position 2, 3, 4, or 5, respectively, with an arrow above each ball indicating force direction (A and B have arrows pointing right, C and D have arrows pointing left)."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

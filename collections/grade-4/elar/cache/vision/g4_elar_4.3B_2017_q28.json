@@ -1,0 +1,30 @@
+{
+  "stem": "In line 1 of the poem, what does the word peculiar mean?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Strange"
+    },
+    {
+      "label": "G",
+      "text": "Certain"
+    },
+    {
+      "label": "H",
+      "text": "Sensible"
+    },
+    {
+      "label": "J",
+      "text": "Cautious"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with question and multiple choice answers"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

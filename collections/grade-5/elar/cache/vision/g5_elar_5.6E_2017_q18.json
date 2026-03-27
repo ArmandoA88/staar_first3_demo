@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea is expressed in both the article and the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Spitting cherry pits is a difficult activity to plan and organize."
+    },
+    {
+      "label": "G",
+      "text": "Spitting a cherry pit as far as possible can be fun."
+    },
+    {
+      "label": "H",
+      "text": "The process of spitting a cherry pit is exciting to describe."
+    },
+    {
+      "label": "J",
+      "text": "Recording the distance a cherry pit traveled is difficult."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q18 Passage #2A Expository and Passage #2B Poetry"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

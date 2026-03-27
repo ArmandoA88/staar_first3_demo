@@ -1,0 +1,30 @@
+{
+  "stem": "Use the ruler provided to measure the dimensions of the triangle to the nearest \\frac{1}{4} inch.\n\nWhich measurement is closest to the area of the triangle in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1 \\frac{7}{8} in.^{2}"
+    },
+    {
+      "label": "B",
+      "text": "2 \\frac{1}{4} in.^{2}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{15}{16} in.^{2}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{9}{16} in.^{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangle with a dashed height line and right angle mark"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

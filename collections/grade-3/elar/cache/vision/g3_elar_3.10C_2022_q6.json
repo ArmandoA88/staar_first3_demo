@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes this illustration in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To show an important part of the fox\u2019s plan"
+    },
+    {
+      "label": "G",
+      "text": "To show how the crows build their nest in the banyan tree"
+    },
+    {
+      "label": "H",
+      "text": "To show why the snake moves into the banyan tree"
+    },
+    {
+      "label": "J",
+      "text": "To show that the crows need the fox\u2019s help in order to stay safe"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "black-and-white illustration showing a large crow flying carrying a necklace in its beak, with smaller crows and some human figures nearby"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

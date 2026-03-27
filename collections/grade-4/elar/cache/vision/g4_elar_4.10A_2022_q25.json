@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author wrote this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To describe the best places for people to listen to music"
+    },
+    {
+      "label": "B",
+      "text": "To show why athletes should listen to more music"
+    },
+    {
+      "label": "C",
+      "text": "To explain that music is more powerful than many people realize"
+    },
+    {
+      "label": "D",
+      "text": "To suggest that music is the best way to fix bad habits"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

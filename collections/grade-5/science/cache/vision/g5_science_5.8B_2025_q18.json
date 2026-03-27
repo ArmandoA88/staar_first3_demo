@@ -1,0 +1,33 @@
+{
+  "stem": "Which circuit is NOT a complete circuit?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circuit A shows a battery connected to a light bulb and a switch, with the switch in an open position breaking the circuit.",
+    "Circuit B shows a battery connected directly to a single light bulb with two wires.",
+    "Circuit C shows a battery connected to three light bulbs and a switch, all connected in series forming a closed loop.",
+    "Circuit D shows a battery connected to three light bulbs with multiple wire connections forming a closed loop."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

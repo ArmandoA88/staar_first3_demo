@@ -1,0 +1,30 @@
+{
+  "stem": "The dot plot shows the results of a survey where people were asked the number of trips they had taken to a movie theater in the last year.\n\nMovie Theater Survey\n\nEach \u25cf means 1 person.\n\nWhich statement best describes the data represented in the dot plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A total of 10 people responded to the survey."
+    },
+    {
+      "label": "B",
+      "text": "There were 8 people who took 2 or fewer trips to a movie theater."
+    },
+    {
+      "label": "C",
+      "text": "All the people who responded to the survey took at least 1 trip to a movie theater."
+    },
+    {
+      "label": "D",
+      "text": "Half the people who responded to the survey took 5 or more trips to a movie theater."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot with values: 0(3 dots), 1(2 dots), 2(3 dots), 3(1 dot), 4(3 dots), 5(4 dots), 8(1 dot), 10(1 dot)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

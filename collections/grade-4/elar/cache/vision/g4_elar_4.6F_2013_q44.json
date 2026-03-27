@@ -1,0 +1,30 @@
+{
+  "stem": "What does this stage direction suggest about Grandpa?",
+  "instruction": "Read this stage direction from the play.\n\n[Cara sands the wood, and Grandpa hums happily as he works on replacing the cracked piece.]",
+  "options": [
+    {
+      "label": "F",
+      "text": "He is good at repairing rocking chairs."
+    },
+    {
+      "label": "G",
+      "text": "He is enjoying his task."
+    },
+    {
+      "label": "H",
+      "text": "He has the tools needed to make repairs to the chair."
+    },
+    {
+      "label": "J",
+      "text": "He is glad that someone is helping him repair the chair."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "[Cara sands the wood, and Grandpa hums happily as he works on replacing the cracked piece.]"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A set of data consists of the numbers 5, 1, 2, 4, 3, and 9. Which statement is true about this data set?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The mean and the median are both 4, and the range is 8."
+    },
+    {
+      "label": "B",
+      "text": "The mean and the range are both 4, and the median is 3."
+    },
+    {
+      "label": "C",
+      "text": "The range is 4, and the median is 3.5."
+    },
+    {
+      "label": "D",
+      "text": "The mean is 4, and the median is 3.5."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A set of data consists of the numbers 5, 1, 2, 4, 3, and 9. Which statement is true about this data set?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

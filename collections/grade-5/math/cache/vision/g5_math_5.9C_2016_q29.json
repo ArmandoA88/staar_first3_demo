@@ -1,0 +1,30 @@
+{
+  "stem": "The dot plot shows the numbers of pets that the students in a class own.\n\nNumbers of Pets Owned by Students\n\nWhat fraction of the students in this class have two or more pets?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{1}{3}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{7}{24}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{2}{3}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{3}{8}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot showing numbers of pets from 0 to 6, with dots: 5 dots at 0, 3 dots at 1, 7 dots at 2, 2 dots at 3, 1 dot at 5, 4 dots at 6"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

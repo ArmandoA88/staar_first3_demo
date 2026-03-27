@@ -1,0 +1,30 @@
+{
+  "stem": "A right rectangular prism with a square base is shown. Dimensions are given in units.\n\nThe volume of the prism is 192 cubic units. What is the height, h, of the prism in units?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "48 units"
+    },
+    {
+      "label": "B",
+      "text": "12 units"
+    },
+    {
+      "label": "C",
+      "text": "24 units"
+    },
+    {
+      "label": "D",
+      "text": "64 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of a right rectangular prism with square base, side length of base labeled 4, height labeled h"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

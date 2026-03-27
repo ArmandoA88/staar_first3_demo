@@ -1,0 +1,30 @@
+{
+  "stem": "The histogram shows the total number of swimmers in different age groups who participated in a swimming competition.\n\nBased on the histogram, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There were 15 swimmers who were younger than 30 years old."
+    },
+    {
+      "label": "B",
+      "text": "A total of 10 swimmers were 50 years old or older."
+    },
+    {
+      "label": "C",
+      "text": "The number of swimmers who were 40 years old or older is less than the number of swimmers who were 29 years old or younger."
+    },
+    {
+      "label": "D",
+      "text": "A total of 70 swimmers participated in the competition."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Histogram titled 'Ages of Swimmers' with Age (years) on the x-axis (20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59) and Number of Swimmers on the y-axis (increments of 5 to 20). Bars show: 20-24 -> 5 swimmers, 25-29 -> 10 swimmers, 30-34 -> 20 swimmers, 35-39 -> 10 swimmers, 40-44 -> 15 swimmers, 45-49 -> 3 swimmers, 50-54 -> 4 swimmers, 55-59 -> 8 swimmers."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

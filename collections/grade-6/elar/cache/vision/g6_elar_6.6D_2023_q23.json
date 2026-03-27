@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following ideas should be included in this paragraph to create a complete summary of paragraphs 3 through 5?",
+  "instruction": "Read the following paragraph.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The province of Garissa is in the eastern part of Kenya."
+    },
+    {
+      "label": "B",
+      "text": "The people of Garissa are used to seeing camels deliver needed products."
+    },
+    {
+      "label": "C",
+      "text": "The books delivered by camel are meant to get children excited about learning."
+    },
+    {
+      "label": "D",
+      "text": "The government of Kenya has worked hard to increase the country\u2019s literacy rate."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In desert regions like Garissa, Kenya, the people move about as herders. Therefore, schoolchildren do not have an easy way to access books. To help, librarians from Kenya\u2019s Camel Mobile Library bring books to these areas on the backs of camels. The librarians set up a tent and mats and unload the books."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

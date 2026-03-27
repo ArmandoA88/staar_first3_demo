@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There are many reasons why people should listen to music. Studies show that music can improve your mood. Music is also good for the mind and body."
+    },
+    {
+      "label": "B",
+      "text": "Many people enjoy listening to music. It helps them feel less worried. In fact, one study showed that listening to music before bed can make people happier."
+    },
+    {
+      "label": "C",
+      "text": "Not everyone chooses to listen to music. However, some people listen to music because it helps them learn. Music is also good for people who have trouble sleeping."
+    },
+    {
+      "label": "D",
+      "text": "Music is able to help people become healthier. In addition, music helps people when they are trying to learn. Students who listen to music during a test get better grades."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

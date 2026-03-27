@@ -1,0 +1,31 @@
+{
+  "stem": "The poet uses these lines mainly to show that the speaker \u2014",
+  "instruction": "Read these lines from the poem.",
+  "options": [
+    {
+      "label": "A",
+      "text": "is confused about what she has made"
+    },
+    {
+      "label": "B",
+      "text": "wants to test her idea for herself"
+    },
+    {
+      "label": "C",
+      "text": "does not want anyone\u2019s help"
+    },
+    {
+      "label": "D",
+      "text": "is excited about showing the wings to others"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I said, \"They might, they surely might.  To know I\u2019ll have to try.\"",
+    "I said, \"I don\u2019t know that at all,  and I won\u2019t until I try.\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

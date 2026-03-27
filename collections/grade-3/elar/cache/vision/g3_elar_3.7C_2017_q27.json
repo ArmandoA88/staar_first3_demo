@@ -1,0 +1,28 @@
+{
+  "stem": "The author wrote this selection most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "describe what a teddy bear looks like"
+    },
+    {
+      "label": "B",
+      "text": "encourage the reader to buy a teddy bear"
+    },
+    {
+      "label": "C",
+      "text": "inform the reader about the history of teddy bears"
+    },
+    {
+      "label": "D",
+      "text": "tell the reader about a president who liked teddy bears"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "How does sentence 13 need to be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert quotation marks at the beginning of the sentence"
+    },
+    {
+      "label": "G",
+      "text": "Change beautiful to beautifull"
+    },
+    {
+      "label": "H",
+      "text": "Delete the comma after place"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 13 does not need to be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

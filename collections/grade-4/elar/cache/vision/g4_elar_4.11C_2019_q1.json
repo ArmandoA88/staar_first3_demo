@@ -1,0 +1,30 @@
+{
+  "stem": "Which is the best way to combine sentences 7 and 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He didn\u2019t see any that he liked because he talked with his grandmother."
+    },
+    {
+      "label": "B",
+      "text": "He didn\u2019t see any that he liked, even though he talked with his grandmother."
+    },
+    {
+      "label": "C",
+      "text": "He didn\u2019t see any that he liked, so he talked with his grandmother."
+    },
+    {
+      "label": "D",
+      "text": "He didn\u2019t see any that he liked when he talked with his grandmother."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 \u2013 Q1 Passage #1"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

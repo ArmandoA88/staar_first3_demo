@@ -1,0 +1,34 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change was filming to were filming"
+    },
+    {
+      "label": "B",
+      "text": "Change seen to scene"
+    },
+    {
+      "label": "C",
+      "text": "Change for to it was for"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change, if any, needs to be made in sentence 3?",
+    "A Change was filming to were filming",
+    "B Change seen to scene",
+    "C Change for to it was for",
+    "D No change is needed."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

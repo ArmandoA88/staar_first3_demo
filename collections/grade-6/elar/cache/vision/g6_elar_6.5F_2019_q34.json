@@ -1,0 +1,30 @@
+{
+  "stem": "Read this line from the poem.\n\nIts greatness makes me feel very small.\n\nThis line helps the reader understand that the speaker \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "feels unpleasantly overwhelmed by his surroundings"
+    },
+    {
+      "label": "G",
+      "text": "would prefer to visit the rain forest with a group of people"
+    },
+    {
+      "label": "H",
+      "text": "has a deep appreciation for his surroundings"
+    },
+    {
+      "label": "J",
+      "text": "wants to view the rain forest from a higher location"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Its greatness makes me feel very small."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

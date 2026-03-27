@@ -1,0 +1,30 @@
+{
+  "stem": "Which message does the poet express in the poem \u201cOut Where the West Begins\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The people in the West break the rules."
+    },
+    {
+      "label": "B",
+      "text": "The weather in the West can change quickly."
+    },
+    {
+      "label": "C",
+      "text": "The West is not only a place but also a way of life."
+    },
+    {
+      "label": "D",
+      "text": "The West is a large place but easy to find."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The question and four labeled answer choices displayed in a list format."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

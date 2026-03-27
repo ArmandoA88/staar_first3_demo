@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 8 and 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He had a favorite book, since it was Judy Blume\u2019s Tales of a Fourth Grade Nothing."
+    },
+    {
+      "label": "G",
+      "text": "He had a favorite book and Judy Blume\u2019s Tales of a Fourth Grade Nothing."
+    },
+    {
+      "label": "H",
+      "text": "His favorite book was Judy Blume\u2019s Tales of a Fourth Grade Nothing."
+    },
+    {
+      "label": "J",
+      "text": "He had a favorite book it was Judy Blume\u2019s Tales of a Fourth Grade Nothing."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which two expressions are equivalent?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4 + (3 \u22c5 y) and (4 + 3) \u22c5 y"
+    },
+    {
+      "label": "B",
+      "text": "(18 \u00f7 y) + 10 and 10 + (y \u00f7 18)"
+    },
+    {
+      "label": "C",
+      "text": "12 - (y \u22c5 2) and 12 - (2 \u22c5 y)"
+    },
+    {
+      "label": "D",
+      "text": "(10 - 6) \u00f7 y and 10 - (6 \u00f7 y)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "expression options"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

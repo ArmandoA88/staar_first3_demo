@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the weights of different types of chickens in pounds.\n\nWeights of Chickens\nChicken  Weight (pounds)\nAncona  6.01\nCornish  8.6\nLeghorn  5.699\nBresse  6.195\n\nCaroline wants to list the weights in order from the least number of pounds to the greatest.\n\nWhich weight should be third on her list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6.01 lb"
+    },
+    {
+      "label": "B",
+      "text": "8.6 lb"
+    },
+    {
+      "label": "C",
+      "text": "5.699 lb"
+    },
+    {
+      "label": "D",
+      "text": "6.195 lb"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing weights of chickens: Ancona 6.01, Cornish 8.6, Leghorn 5.699, Bresse 6.195"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

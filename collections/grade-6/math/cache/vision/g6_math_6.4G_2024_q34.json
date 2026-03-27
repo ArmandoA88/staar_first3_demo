@@ -1,0 +1,40 @@
+{
+  "stem": "In Jada's class, \\( \\frac{3}{8} \\) of the students have blue eyes. Which values are equivalent to \\(\\frac{3}{8}\\)?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "0.375"
+    },
+    {
+      "label": null,
+      "text": "0.38"
+    },
+    {
+      "label": null,
+      "text": "37.5%"
+    },
+    {
+      "label": null,
+      "text": "3.8%"
+    },
+    {
+      "label": null,
+      "text": "38%"
+    }
+  ],
+  "choice_pool": [
+    "0.375",
+    "0.38",
+    "37.5%",
+    "3.8%",
+    "38%"
+  ],
+  "response_template": "The values [blank_1] and [blank_2] are equivalent to \\( \\frac{3}{8} \\).",
+  "visual_elements": [
+    "\\( \\frac{3}{8} \\)"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "Fraction equivalency with decimal and percent equivalents. Drag and drop format."
+}

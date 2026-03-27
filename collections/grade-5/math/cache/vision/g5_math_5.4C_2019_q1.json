@@ -1,0 +1,30 @@
+{
+  "stem": "A pet store owner will order dog beds for his shop. The relationship between x, the number of boxes he will order, and y, the number of dog beds he will receive, can be represented by the equation y = 12x.\n\nWhich table contains only values that represent the equation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number of Boxes, x | Number of Dog Beds, y\n3 | 36\n6 | 72\n9 | 108\n15 | 180"
+    },
+    {
+      "label": "B",
+      "text": "Number of Boxes, x | Number of Dog Beds, y\n2 | 14\n6 | 18\n10 | 22\n14 | 26"
+    },
+    {
+      "label": "C",
+      "text": "Number of Boxes, x | Number of Dog Beds, y\n3 | 36\n6 | 72\n9 | 108\n15 | 144"
+    },
+    {
+      "label": "D",
+      "text": "Number of Boxes, x | Number of Dog Beds, y\n2 | 24\n6 | 36\n10 | 48\n14 | 60"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4 tables labeled A, B, C, and D; each table with columns 'Number of Boxes, x' and 'Number of Dog Beds, y' showing numeric values."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

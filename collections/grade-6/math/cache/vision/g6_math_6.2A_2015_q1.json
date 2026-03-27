@@ -1,0 +1,30 @@
+{
+  "stem": "Three sets of numbers are shown in the Venn diagram.",
+  "instruction": "Which of these numbers can be placed in the shaded area of the diagram?",
+  "options": [
+    {
+      "label": "A",
+      "text": "-5"
+    },
+    {
+      "label": "B",
+      "text": "3.5"
+    },
+    {
+      "label": "C",
+      "text": "1/2"
+    },
+    {
+      "label": "D",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with three circles labeled Whole Numbers, Integers, and Rational Numbers. The intersection of Integers and Rational Numbers is shaded."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

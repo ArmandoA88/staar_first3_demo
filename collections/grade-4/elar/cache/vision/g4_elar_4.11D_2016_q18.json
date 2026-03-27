@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 35?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change saw to seen"
+    },
+    {
+      "label": "G",
+      "text": "Change instead of to instead off"
+    },
+    {
+      "label": "H",
+      "text": "Change address it to address them"
+    },
+    {
+      "label": "J",
+      "text": "Change themselfs to themselves"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

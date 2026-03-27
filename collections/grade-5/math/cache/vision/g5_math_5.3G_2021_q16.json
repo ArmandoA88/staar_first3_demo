@@ -1,0 +1,30 @@
+{
+  "stem": "A cafeteria worker used 8.05 kilograms of meat to make 35 lunches. Each lunch had the same amount of meat.\n\nWhat was the mass in kilograms of the meat in each lunch?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "2.03 kg"
+    },
+    {
+      "label": "G",
+      "text": "0.23 kg"
+    },
+    {
+      "label": "H",
+      "text": "0.023 kg"
+    },
+    {
+      "label": "J",
+      "text": "2.3 kg"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which value is equivalent to 5 - 2(3)^2 + 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "- 27"
+    },
+    {
+      "label": "B",
+      "text": "5"
+    },
+    {
+      "label": "C",
+      "text": "- 9"
+    },
+    {
+      "label": "D",
+      "text": "31"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "5 - 2(3)^2 + 4"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

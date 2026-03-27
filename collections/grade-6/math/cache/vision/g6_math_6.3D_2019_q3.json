@@ -1,0 +1,30 @@
+{
+  "stem": "The expression shown can be used to calculate the amount of money in dollars a grocery store customer should receive in change when paying with $50.\n\n50 - (14 + 12 + 2(5) + 2(2) + 3)\n\nWhat amount of change in dollars should the customer receive?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$4"
+    },
+    {
+      "label": "B",
+      "text": "$26"
+    },
+    {
+      "label": "C",
+      "text": "$29"
+    },
+    {
+      "label": "D",
+      "text": "$7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "50 - (14 + 12 + 2(5) + 2(2) + 3)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

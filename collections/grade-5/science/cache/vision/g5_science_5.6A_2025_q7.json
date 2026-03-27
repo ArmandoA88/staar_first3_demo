@@ -1,0 +1,30 @@
+{
+  "stem": "A student drops five objects into a container of water.\n\nWhich statement BEST classifies some of these objects?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Objects 2 and 5 are more dense than water, while Objects 1 and 4 are less dense than water."
+    },
+    {
+      "label": "B",
+      "text": "Objects 1 and 4 are more dense than water, while Objects 2 and 3 have the same density as water."
+    },
+    {
+      "label": "C",
+      "text": "Objects 2 and 3 are less dense than water, while Object 5 is more dense than water."
+    },
+    {
+      "label": "D",
+      "text": "Objects 1 and 4 are less dense than water, while Object 2 is more dense than water."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Beaker with five objects labeled 1, 2, 3, 4, 5 showing their relative positions in water"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which inequality is true if p = 3.4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3p < 10.2"
+    },
+    {
+      "label": "G",
+      "text": "13.6 \u2264 3.9p"
+    },
+    {
+      "label": "H",
+      "text": "5p > 17.1"
+    },
+    {
+      "label": "J",
+      "text": "8.5 \u2265 2.5p"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

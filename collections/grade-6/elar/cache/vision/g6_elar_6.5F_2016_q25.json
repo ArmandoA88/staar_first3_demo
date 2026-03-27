@@ -1,0 +1,30 @@
+{
+  "stem": "The poet includes stanzas 1 through 3 most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "describe the actions of the butterfly as a beautiful event"
+    },
+    {
+      "label": "B",
+      "text": "highlight the speaker's memories of observing the butterfly"
+    },
+    {
+      "label": "C",
+      "text": "emphasize the effect the butterfly has on its surroundings"
+    },
+    {
+      "label": "D",
+      "text": "show that the speaker is watching more than one butterfly"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

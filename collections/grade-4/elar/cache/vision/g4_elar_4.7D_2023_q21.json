@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the section titled \u201cTexas\u2019s Special Salamander\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Aquifers keep water deep underground. The Austin Blind Salamander swims in an aquifer."
+    },
+    {
+      "label": "B",
+      "text": "The Austin Blind Salamander only lives in the Edwards Aquifer in Texas. It has special features that help it live there."
+    },
+    {
+      "label": "C",
+      "text": "The Austin Blind Salamander has red gills. It is a small creature that can be different colors."
+    },
+    {
+      "label": "D",
+      "text": "There is an important aquifer beneath the spring in Barton Springs, Texas. Different types of salamanders live there."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Liselle has 60 strawberries. She puts an equal number of strawberries into each of 4 baskets.\n\nWhich expression does NOT represent the number of strawberries Liselle puts into each basket?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "60 \\u00F7 4"
+    },
+    {
+      "label": "B",
+      "text": "4/60"
+    },
+    {
+      "label": "C",
+      "text": "4)60"
+    },
+    {
+      "label": "D",
+      "text": "60/4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "60 \\u00F7 4",
+    "4/60",
+    "4)60",
+    "60/4"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

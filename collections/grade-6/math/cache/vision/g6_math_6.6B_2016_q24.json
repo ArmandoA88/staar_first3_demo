@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the relationship between d, the amount of money Alice has at the beginning of each day, and w, the amount of money she has after riding the bus to work.\n\nAlice's Money\n\n| Money at the Beginning of the Day, d | Money After Riding the Bus to Work, w |\n|-------------------------------------|-------------------------------------|\n| $15.75                              | $14.50                              |\n| $9.50                               | $8.25                               |\n| $5.25                               | $4.00                               |\n| $30.00                              | $28.75                              |\n\nWhich equation represents the relationship in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "w = d + 1.25"
+    },
+    {
+      "label": "G",
+      "text": "w = 14.50 d + 1.25"
+    },
+    {
+      "label": "H",
+      "text": "w = 15.75 d - 1.25"
+    },
+    {
+      "label": "J",
+      "text": "w = d - 1.25"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with money amounts: $15.75, $14.50; $9.50, $8.25; $5.25, $4.00; $30.00, $28.75"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

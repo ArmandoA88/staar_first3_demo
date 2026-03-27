@@ -1,0 +1,31 @@
+{
+  "stem": "What is the most likely reason the author includes these photographs in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To show that book-club members have good reading skills"
+    },
+    {
+      "label": "G",
+      "text": "To show that book clubs can meet at different places"
+    },
+    {
+      "label": "H",
+      "text": "To show that book clubs help members choose popular books"
+    },
+    {
+      "label": "J",
+      "text": "To show that book clubs are mainly for adults"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image 1: Book-Club Members Talking about Books",
+    "Image 2: Children\u2019s Book Club in a Park"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

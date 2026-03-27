@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 2.\n\nWhen Conner saw the advertisement, he knew right then that he wanted to participate, and he wanted Cayden to participate with him.\n\nThe sentence shows that Conner is \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "honest"
+    },
+    {
+      "label": "G",
+      "text": "patient"
+    },
+    {
+      "label": "H",
+      "text": "curious"
+    },
+    {
+      "label": "J",
+      "text": "determined"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "When Conner saw the advertisement, he knew right then that he wanted to participate, and he wanted Cayden to participate with him."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What theme does the poet express in the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Dreams make life more interesting."
+    },
+    {
+      "label": "G",
+      "text": "People need to accept advice from others."
+    },
+    {
+      "label": "H",
+      "text": "Some problems come from our imagination."
+    },
+    {
+      "label": "J",
+      "text": "Some new experiences are more pleasant than others."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": "Extracted from 2022 STAAR Q36 Passage #5"
+}

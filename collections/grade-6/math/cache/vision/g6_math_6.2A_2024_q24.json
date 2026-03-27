@@ -1,0 +1,30 @@
+{
+  "stem": "Which graphic organizer best represents the relationship among the numbers in the list?\n\n- \\( -\\frac{3}{8} \\)  25  \\( -10 \\)  0.163",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Rational numbers\nWhole numbers\n-10\nIntegers\n25\n- \\( \\frac{3}{8} \\)\n0.163"
+    },
+    {
+      "label": "B",
+      "text": "Rational numbers\n0.163\nIntegers\n-10\nWhole numbers\n25\n- \\( \\frac{3}{8} \\)"
+    },
+    {
+      "label": "C",
+      "text": "Rational numbers\n0.163\nWhole numbers\n25\nIntegers\n-10\n- \\( \\frac{3}{8} \\)"
+    },
+    {
+      "label": "D",
+      "text": "Rational numbers\n0.163\nIntegers\n-10\n- \\( \\frac{3}{8} \\)\nWhole numbers\n25"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four separate graphic organizer diagrams labeled A, B, C, D with nested circles and the numbers placed within or outside circles labeled Rational numbers, Integers, and Whole numbers."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

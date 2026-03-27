@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the number of minutes each student in a book club read during a week and the number of years the student has participated in the book club.\n\nWhat is the total number of minutes read by the students who have participated in the book club for 4 or 5 years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "450"
+    },
+    {
+      "label": "B",
+      "text": "390"
+    },
+    {
+      "label": "C",
+      "text": "90"
+    },
+    {
+      "label": "D",
+      "text": "80"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot with x-axis labeled 'Number of Years in the Book Club' with values 0 to 5 and y-axis labeled 'Number of Minutes Read' with values 0 to 90. Points at (4,70), (4,80), (4,80), (5,70), and (5,90)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": "Question asks for total minutes read by students participating 4 or 5 years, based on provided scatterplot data points."
+}

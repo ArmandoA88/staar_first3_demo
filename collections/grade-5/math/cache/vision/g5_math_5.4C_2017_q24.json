@@ -1,0 +1,30 @@
+{
+  "stem": "Which table represents the equation y = 3x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\nx | y\n3 | 1\n6 | 2\n15 | 5\n18 | 6\n"
+    },
+    {
+      "label": "H",
+      "text": "\nx | y\n1 | 1\n3 | 3\n5 | 5\n7 | 7\n"
+    },
+    {
+      "label": "G",
+      "text": "\nx | y\n1 | 3\n3 | 9\n4 | 12\n7 | 21\n"
+    },
+    {
+      "label": "J",
+      "text": "\nx | y\n1 | 3\n4 | 9\n6 | 12\n7 | 18\n"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4 tables each with header columns x and y, and 4 rows of number pairs."
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

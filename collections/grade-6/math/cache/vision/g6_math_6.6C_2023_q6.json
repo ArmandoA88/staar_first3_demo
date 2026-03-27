@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph represents the relationship between x and y in the equation y = 3x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with points (3,1) and (6,2)"
+    },
+    {
+      "label": "B",
+      "text": "Graph with points (1,5) and (3,6)"
+    },
+    {
+      "label": "C",
+      "text": "Graph with points (1,3) and (2,6)"
+    },
+    {
+      "label": "D",
+      "text": "Graph with points (3,1), (3,3), and (3,6)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Cartesian plane from 0 to 6 on x and y axes with points at (3,1) and (6,2)",
+    "Graph B: Cartesian plane from 0 to 6 on x and y axes with points at (1,5) and (3,6)",
+    "Graph C: Cartesian plane from 0 to 6 on x and y axes with points at (1,3) and (2,6)",
+    "Graph D: Cartesian plane from 0 to 6 on x and y axes with points at (3,1), (3,3), and (3,6)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

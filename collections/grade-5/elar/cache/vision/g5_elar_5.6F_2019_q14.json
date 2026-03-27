@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea from the selection is illustrated by the photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Bottom-dwelling fish in Shark Bay may be hard for dolphins to find."
+    },
+    {
+      "label": "G",
+      "text": "Researchers think dolphins are more intelligent than many other animals."
+    },
+    {
+      "label": "H",
+      "text": "Dolphins use their rostrums to help them locate food in the ocean."
+    },
+    {
+      "label": "J",
+      "text": "Shark Bay dolphins fit sponges over their rostrums before searching for fish."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

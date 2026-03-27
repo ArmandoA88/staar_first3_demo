@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>STAAR Problem Catalog</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <aside class="sidebar">
+        <div class="sidebar-block">
+          <p class="eyebrow">STAAR Catalog</p>
+          <h1>STAAR Problem Browser</h1>
+          <p class="sidebar-copy">
+            Switch between indexed collections, filter by TEKS and difficulty, and print classroom-ready tests.
+          </p>
+        </div>
+
+        <div class="sidebar-block">
+          <label class="filter-label" for="collection-filter">Collection</label>
+          <select id="collection-filter" class="select-input">
+            <option value="">Loading collections...</option>
+          </select>
+          <div id="collection-status" class="sidebar-note"></div>
+        </div>
+
+        <div class="sidebar-block">
+          <label class="filter-label" for="search-input">Search</label>
+          <input id="search-input" class="text-input" type="search" placeholder="TEKS, stem, cluster, answer" />
+        </div>
+
+        <div class="sidebar-block">
+          <label class="filter-label" for="teks-filter">TEKS</label>
+          <select id="teks-filter" class="select-input">
+            <option value="">All TEKS</option>
+          </select>
+        </div>
+
+        <div class="sidebar-grid">
+          <div class="sidebar-block">
+            <label class="filter-label" for="year-filter">Year</label>
+            <select id="year-filter" class="select-input">
+              <option value="">All years</option>
+            </select>
+          </div>
+
+          <div class="sidebar-block">
+            <label class="filter-label" for="difficulty-filter">Difficulty</label>
+            <select id="difficulty-filter" class="select-input">
+              <option value="">All levels</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="sidebar-grid">
+          <div class="sidebar-block">
+            <label class="filter-label" for="item-type-filter">Item Type</label>
+            <select id="item-type-filter" class="select-input">
+              <option value="">All types</option>
+            </select>
+          </div>
+
+          <div class="sidebar-block">
+            <label class="filter-label" for="content-filter">Content</label>
+            <select id="content-filter" class="select-input">
+              <option value="">All content</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="sidebar-block toggle-row">
+          <label for="review-only">Needs review only</label>
+          <input id="review-only" type="checkbox" />
+        </div>
+
+        <div class="sidebar-block">
+          <button id="reset-filters" class="secondary-button" type="button">Reset filters</button>
+        </div>
+
+        <div id="catalog-stats" class="sidebar-block stats-panel"></div>
+      </aside>
+
+      <main class="main-content">
+        <section class="hero-panel">
+          <div>
+            <p class="eyebrow">Problem Finder</p>
+            <h2>Browse collections and build printable tests</h2>
+          </div>
+          <p id="results-summary" class="hero-summary">Loading catalog...</p>
+        </section>
+
+        <section class="builder-grid">
+          <article class="builder-panel builder-panel-primary">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Test Builder</p>
+                <h3>Assemble a student packet from selected problems</h3>
+              </div>
+              <span id="selected-count" class="count-pill">0 selected</span>
+            </div>
+
+            <div class="builder-form-grid">
+              <label class="builder-field">
+                <span class="filter-label">Test Title</span>
+                <input id="test-title" class="text-input" type="text" placeholder="Place Value Checkpoint" />
+              </label>
+
+              <label class="builder-field">
+                <span class="filter-label">Teacher / Class</span>
+                <input id="teacher-name" class="text-input" type="text" placeholder="Ms. Garcia - Homeroom 3A" />
+              </label>
+            </div>
+
+            <div class="builder-actions">
+              <button id="add-visible" class="secondary-button" type="button">Add Visible Results</button>
+              <button id="remove-visible" class="secondary-button" type="button">Remove Visible Results</button>
+              <button id="clear-selection" class="secondary-button" type="button">Clear Selection</button>
+            </div>
+
+            <section class="preset-builder">
+              <div class="panel-header panel-header-tight">
+                <div>
+                  <p class="eyebrow">Preset Builders</p>
+                  <h3>Generate common test types instantly</h3>
+                </div>
+              </div>
+
+              <div class="preset-toolbar">
+                <label class="builder-field preset-size-field">
+                  <span class="filter-label">Preset Size</span>
+                  <select id="preset-size" class="select-input">
+                    <option value="5">5 questions</option>
+                    <option value="10" selected>10 questions</option>
+                    <option value="15">15 questions</option>
+                    <option value="20">20 questions</option>
+                    <option value="all">All matching</option>
+                  </select>
+                </label>
+              </div>
+
+              <div class="preset-grid">
+                <button class="preset-button" type="button" data-preset="hardest_test">
+                  <strong>Hardest Test</strong>
+                  <span>Lowest state percent-correct questions first.</span>
+                </button>
+                <button class="preset-button" type="button" data-preset="easier_test">
+                  <strong>Easier Test</strong>
+                  <span>Higher success-rate questions for confidence building.</span>
+                </button>
+                <button class="preset-button" type="button" data-preset="beginning_of_year">
+                  <strong>Beginning of Year</strong>
+                  <span>Foundational TEKS with easier early-course skills.</span>
+                </button>
+                <button class="preset-button" type="button" data-preset="easy_only">
+                  <strong>Easy Questions Only</strong>
+                  <span>Only questions in the easy bucket.</span>
+                </button>
+                <button class="preset-button" type="button" data-preset="hard_only">
+                  <strong>Harder Questions Only</strong>
+                  <span>Only hard questions based on percent correct.</span>
+                </button>
+                <button class="preset-button" type="button" data-preset="latest_only">
+                  <strong>Latest Questions Only</strong>
+                  <span>Newest released items first.</span>
+                </button>
+              </div>
+
+              <div class="preset-notes">
+                Presets use the currently visible results. Clear filters to build from the full catalog, or narrow by TEKS first and then apply a preset.
+              </div>
+            </section>
+
+            <div id="selection-summary" class="builder-summary"></div>
+          </article>
+
+          <article class="builder-panel">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Print Tools</p>
+                <h3>Student Test and Answer Key</h3>
+              </div>
+            </div>
+
+            <label class="builder-field print-format-field">
+              <span class="filter-label">Student Packet Format</span>
+              <select id="student-print-format" class="select-input">
+                <option value="png" selected>Original PNG Images</option>
+                <option value="ocr">OCR Text</option>
+              </select>
+            </label>
+
+            <div class="print-actions">
+              <button id="print-test" class="primary-button" type="button">Print Student Test</button>
+              <button id="print-answer-key" class="primary-button" type="button">Print Answer Key</button>
+            </div>
+
+            <div class="print-notes">
+              <p>Use the filters first, add the visible problems, then print.</p>
+              <p>The student packet uses source PNGs by default. Switch to OCR text only when you want a text-rendered version.</p>
+              <p>ELAR passages still print from the original PNGs so the passage stays attached to its questions. The answer key prints TEKS, answers, and state percent correct.</p>
+            </div>
+          </article>
+        </section>
+
+        <section class="summary-grid">
+          <article class="summary-panel">
+            <div class="panel-header">
+              <h3>TEKS</h3>
+              <span id="teks-count" class="count-pill"></span>
+            </div>
+            <div id="teks-groups" class="chip-grid"></div>
+          </article>
+
+          <article class="summary-panel">
+            <div class="panel-header">
+              <h3>Years</h3>
+              <span id="year-count" class="count-pill"></span>
+            </div>
+            <div id="year-groups" class="chip-grid"></div>
+          </article>
+
+          <article class="summary-panel">
+            <div class="panel-header">
+              <h3>Difficulty</h3>
+              <span id="difficulty-count" class="count-pill"></span>
+            </div>
+            <div id="difficulty-groups" class="chip-grid"></div>
+          </article>
+        </section>
+
+        <section id="results" class="results-grid" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <section id="print-workspace" class="print-workspace" aria-hidden="true"></section>
+
+    <template id="item-card-template">
+      <article class="item-card">
+        <div class="item-header">
+          <div class="item-meta"></div>
+          <div class="card-actions">
+            <button class="select-button" type="button"></button>
+          </div>
+        </div>
+        <div class="item-body">
+          <div class="item-text">
+            <h3 class="item-title"></h3>
+            <p class="item-instruction"></p>
+            <ul class="option-list"></ul>
+            <div class="response-template"></div>
+            <div class="visual-list"></div>
+          </div>
+          <img class="item-image" alt="" loading="lazy" />
+        </div>
+        <div class="item-footer">
+          <div class="answer-block"></div>
+          <div class="difficulty-block"></div>
+        </div>
+      </article>
+    </template>
+
+    <template id="selected-item-template">
+      <article class="selected-item-row">
+        <div class="selected-item-copy">
+          <strong class="selected-item-title"></strong>
+          <span class="selected-item-meta"></span>
+        </div>
+        <div class="selected-item-actions">
+          <button class="tiny-button move-up" type="button">Up</button>
+          <button class="tiny-button move-down" type="button">Down</button>
+          <button class="tiny-button remove-item" type="button">Remove</button>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+{
+  "stem": "What is the most likely reason the poet includes this imagery?",
+  "instruction": "Read lines 6 and 7.\n\nShe holds a furry ball with paws\u2014\nA baby squirrel just half her size",
+  "options": [
+    {
+      "label": "A",
+      "text": "To show that the baby squirrel will grow to look like its mother"
+    },
+    {
+      "label": "B",
+      "text": "To suggest that the baby squirrel is sick"
+    },
+    {
+      "label": "C",
+      "text": "To suggest that the baby squirrel is small and helpless"
+    },
+    {
+      "label": "D",
+      "text": "To show that the baby squirrel likes to play games"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "She holds a furry ball with paws\u2014",
+    "A baby squirrel just half her size"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which transition is best to add to the beginning of sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "However"
+    },
+    {
+      "label": "G",
+      "text": "Therefore"
+    },
+    {
+      "label": "H",
+      "text": "After all"
+    },
+    {
+      "label": "J",
+      "text": "Soon"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 \u2013 Q2 Passage #1"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which words rhyme in each stanza of the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The last words in the second and fourth lines"
+    },
+    {
+      "label": "B",
+      "text": "The last words in the first and fourth lines"
+    },
+    {
+      "label": "C",
+      "text": "The last words in the first and third lines"
+    },
+    {
+      "label": "D",
+      "text": "The last words in every line"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

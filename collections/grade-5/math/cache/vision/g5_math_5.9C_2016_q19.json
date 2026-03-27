@@ -1,0 +1,30 @@
+{
+  "stem": "The stem and leaf plot shows the scores of eight people at a dance contest.\n\nDance Contest Scores\nStem | Leaf\n6    | 8 9 9\n7    | 5\n8    | 2 7\n9    | 5 7\n\n\\boxed{6|8 \\text{ means } 6.8.}\n\nWhat is the difference between the highest score and the lowest score?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2.8"
+    },
+    {
+      "label": "B",
+      "text": "2.7"
+    },
+    {
+      "label": "C",
+      "text": "2.9"
+    },
+    {
+      "label": "D",
+      "text": "2.6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Stem and leaf plot showing scores: \n6 | 8 9 9\n7 | 5\n8 | 2 7\n9 | 5 7\nExplanation box: 6|8 means 6.8"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

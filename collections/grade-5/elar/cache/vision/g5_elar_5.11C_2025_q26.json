@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, should be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "On Labor Day weekend, Grandma and Grandpa on a legendary camping trip take all the older cousins."
+    },
+    {
+      "label": "B",
+      "text": "On Labor Day weekend, Grandma and Grandpa take all the older cousins camping and take them on a legendary camping trip."
+    },
+    {
+      "label": "C",
+      "text": "On Labor Day weekend, Grandma and Grandpa and all the older cousins on a legendary camping trip are taken."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

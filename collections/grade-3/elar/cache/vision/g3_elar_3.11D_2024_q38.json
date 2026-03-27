@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change for to four"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after people"
+    },
+    {
+      "label": "C",
+      "text": "Change I to me"
+    },
+    {
+      "label": "D",
+      "text": "Change wasn\u2019t to was\u2019nt"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 3?\n\n\u24b6 Change for to four\n\u24b7 Insert a comma after people\n\u24b8 Change I to me\n\u24b9 Change wasn\u2019t to was\u2019nt"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

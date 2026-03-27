@@ -1,0 +1,33 @@
+{
+  "stem": "A student builds some rectangular prisms using cubes that each have a volume of 1 cubic inch. Which rectangular prism has a volume of 12 cubic inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(image of a rectangular prism 3 by 3 by 3 cubes)"
+    },
+    {
+      "label": "B",
+      "text": "(image of a rectangular prism 3 by 2 by 2 cubes)"
+    },
+    {
+      "label": "C",
+      "text": "(image of a rectangular prism 6 by 2 by 1 cubes)"
+    },
+    {
+      "label": "D",
+      "text": "(image of a rectangular prism 10 by 10 by 7 cubes)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of prism A: 3x3x3 cubes",
+    "image of prism B: 3x2x2 cubes",
+    "image of prism C: 6x2x1 cubes",
+    "image of prism D: 10x10x7 cubes"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": "Images described approximate dimensions from visible cubes; volume computed as length x width x height cubes."
+}

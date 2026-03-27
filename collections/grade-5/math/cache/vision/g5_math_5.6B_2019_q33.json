@@ -1,0 +1,30 @@
+{
+  "stem": "Hollis put a layer of boxes in the bottom of a container. Each box has a volume of 1 cubic foot. The base layer of boxes in the container is shown.\n\nHollis will need 8 of these layers to completely fill the container. What is the volume of the container in cubic feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "36 cubic feet"
+    },
+    {
+      "label": "B",
+      "text": "288 cubic feet"
+    },
+    {
+      "label": "C",
+      "text": "384 cubic feet"
+    },
+    {
+      "label": "D",
+      "text": "1,296 cubic feet"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Base Layer block arrangement image"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

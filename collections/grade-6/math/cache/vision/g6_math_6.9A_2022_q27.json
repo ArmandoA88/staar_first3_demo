@@ -1,0 +1,28 @@
+{
+  "stem": "There are 18 floors in a building. Each floor has the same number of offices. Altogether there are 396 offices in the building.\n\nWhich equation can be used to find f, the number of offices on each floor of this building?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "18 - f = 396"
+    },
+    {
+      "label": "B",
+      "text": "18f = 396"
+    },
+    {
+      "label": "C",
+      "text": "f/18 = 396"
+    },
+    {
+      "label": "D",
+      "text": "18 + f = 396"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

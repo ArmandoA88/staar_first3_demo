@@ -1,0 +1,31 @@
+{
+  "stem": "Which piece of evidence provides the LEAST support for the claim that hammerhead sharks are adapted to live in open water and stingrays are adapted to live on the ocean floor?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A hammerhead shark has sharp teeth to bite and tear into its prey, while a stingray has flat teeth that can be used to crush prey."
+    },
+    {
+      "label": "B",
+      "text": "A hammerhead shark\u2019s eyes are positioned in a way that allows it to see in many directions, while a stingray\u2019s eyes are positioned so that it can look upward."
+    },
+    {
+      "label": "C",
+      "text": "The slender body shape of a hammerhead shark allows it to swiftly swim through the water, while the flat body shape of a stingray allows it to glide along the ocean bottom and settle into the sand."
+    },
+    {
+      "label": "D",
+      "text": "A hammerhead shark has a body part that is less dense than water and prevents the shark from sinking, while the stingray does not have this body part that helps it float, so it will sink when it stops swimming."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of a hammerhead shark and a stingray underwater",
+    "Table comparing hammerhead sharks and stingrays: \nHammerhead Shark | Stingray\nSharp teeth | Flattened teeth\nLong, tapered body with a very large head | Kite-shaped, flattened body\nOne eye on each side of its head | Eyes located on top of its head\nMany large, low-density body parts | Few low-density body parts"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which group of lines from the poem \u201cAn Unexpected Gift\u201d contains a SIMILAR idea?",
+  "instruction": "Read the sentence from the article \u201cSticking to It.\u201d\n\nAlthough Silver missed his initial goal, he knew he designed something revolutionary. (paragraph 4)",
+  "options": [
+    {
+      "label": "A",
+      "text": "Just then, a group of birds came down / upon my boat where it sat resting. (lines 29\u201330)"
+    },
+    {
+      "label": "B",
+      "text": "To our surprise (and my delight), / they seemed to find it interesting! (lines 31\u201332)"
+    },
+    {
+      "label": "C",
+      "text": "My cardboard boat, I recognized, / was never made to race and ride, / but even so it had a role\u2014 / For the birds it could provide! (lines 33\u201336)"
+    },
+    {
+      "label": "D",
+      "text": "My boat became a backyard fixture / not on our pond but in our tree; / there it sits steady, offering / a tasty treasure of bird seed. (lines 37\u201340)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sentence from article in box: \"Although Silver missed his initial goal, he knew he designed something revolutionary. (paragraph 4)\""
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

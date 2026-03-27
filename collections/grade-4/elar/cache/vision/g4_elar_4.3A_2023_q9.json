@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the meaning of medium in paragraph 8 of the article \u201cPictures of a Disappearing Past\u201d?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "medium \\\u02c8m\u0113-d\u0113-\u0259m\\ noun\n1. in between small and large sizes\n2. a format used to express art\n3. a way to communicate\n4. surrounding material or objects"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 0.99,
+  "notes": "Extracted from 2023 Q9 Passage #2A, standard=4.3(A)"
+}

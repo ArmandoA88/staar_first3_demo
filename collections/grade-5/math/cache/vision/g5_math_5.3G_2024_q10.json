@@ -1,0 +1,35 @@
+{
+  "stem": "Roberto spends $29.77 on 13 gallons of gas for his car.\n\nHow much does each gallon of gas cost?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$2.29"
+    },
+    {
+      "label": "B",
+      "text": "$3.77"
+    },
+    {
+      "label": "C",
+      "text": "$2.06"
+    },
+    {
+      "label": "D",
+      "text": "$22.90"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Roberto spends $29.77 on 13 gallons of gas for his car.",
+    "How much does each gallon of gas cost?",
+    "(A) $2.29",
+    "(B) $3.77",
+    "(C) $2.06",
+    "(D) $22.90"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

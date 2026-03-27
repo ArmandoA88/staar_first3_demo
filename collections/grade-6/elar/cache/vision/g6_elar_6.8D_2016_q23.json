@@ -1,0 +1,28 @@
+{
+  "stem": "Which detail from the selection supports the idea that the island benefits from the red crabs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Millions of red crabs live in the rain forest that grows on the island."
+    },
+    {
+      "label": "B",
+      "text": "The red crabs lay their eggs along the shore of the island."
+    },
+    {
+      "label": "C",
+      "text": "The red crab migration attracts many visitors who spend money on the island."
+    },
+    {
+      "label": "D",
+      "text": "The red crabs cover roadways during their migration."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Extracted from a 2016 STAAR test question 23."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "In a park, 40% of the trees change color in the fall. There are 500 trees in the park.\n\nHow many trees in the park change color in the fall?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "125"
+    },
+    {
+      "label": "B",
+      "text": "200"
+    },
+    {
+      "label": "C",
+      "text": "240"
+    },
+    {
+      "label": "D",
+      "text": "460"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

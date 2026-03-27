@@ -1,0 +1,28 @@
+{
+  "stem": "Based on the selection, what is unusual about the hawks' nest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The materials used to make the nest"
+    },
+    {
+      "label": "B",
+      "text": "The place the birds chose to build the nest"
+    },
+    {
+      "label": "C",
+      "text": "The size of the nest the birds created"
+    },
+    {
+      "label": "D",
+      "text": "The number of eggs that hatched in the nest"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

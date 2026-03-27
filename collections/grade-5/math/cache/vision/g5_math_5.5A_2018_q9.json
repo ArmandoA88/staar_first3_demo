@@ -1,0 +1,31 @@
+{
+  "stem": "This graphic organizer is being used to classify triangles based on their angle measures or side lengths.\n\nWhich list shows all of the ways this triangle could be classified?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Acute only"
+    },
+    {
+      "label": "B",
+      "text": "Equilateral only"
+    },
+    {
+      "label": "C",
+      "text": "Acute and isosceles only"
+    },
+    {
+      "label": "D",
+      "text": "Acute, isosceles, and equilateral only"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with header 'Triangles' with two subcolumns: 'Angle Measure Classification' listing Acute, Right, Obtuse and 'Side Length Classification' listing Isosceles, Equilateral, Scalene",
+    "Triangle with all sides labeled 8 cm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

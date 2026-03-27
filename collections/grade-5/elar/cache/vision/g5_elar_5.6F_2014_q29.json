@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these ideas is supported by information in paragraphs 5 and 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Water helps the wood frog thaw its limbs."
+    },
+    {
+      "label": "B",
+      "text": "The temperature of its surroundings determines how long a wood frog stays frozen."
+    },
+    {
+      "label": "C",
+      "text": "The time it takes for a wood frog to thaw is equal to the time it takes for the frog to freeze."
+    },
+    {
+      "label": "D",
+      "text": "The wood frog thaws faster than its surroundings."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

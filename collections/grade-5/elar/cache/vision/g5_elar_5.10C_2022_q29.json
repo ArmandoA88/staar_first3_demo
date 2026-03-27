@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes this photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To highlight that Isabella and Soledad work together to paint rocks for their business"
+    },
+    {
+      "label": "B",
+      "text": "To emphasize that Isabella and Soledad surprised their mother with a garden on Mother's Day"
+    },
+    {
+      "label": "C",
+      "text": "To highlight that Isabella and Soledad have raised money for an organization called Get In Touch"
+    },
+    {
+      "label": "D",
+      "text": "To emphasize that Isabella and Soledad have wanted to start their own business for a long time"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph of two girls smiling and sitting at a table with art supplies. Caption: Isabella and Soledad's workshop includes everything that's needed to create colorful works of art."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

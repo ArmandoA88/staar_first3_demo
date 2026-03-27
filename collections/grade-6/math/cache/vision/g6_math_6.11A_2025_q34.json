@@ -1,0 +1,30 @@
+{
+  "stem": "Which point on the coordinate grid is best represented by the ordered pair \\( (-3, -4) \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Point \\( P \\)"
+    },
+    {
+      "label": "B",
+      "text": "Point \\( Q \\)"
+    },
+    {
+      "label": "C",
+      "text": "Point \\( R \\)"
+    },
+    {
+      "label": "D",
+      "text": "Point \\( T \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with points labeled P, Q, R, and T"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

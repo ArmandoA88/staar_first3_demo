@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the story reveals why Keysha decides to give her signed photograph to the boy?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When I turned around, I noticed a little boy in a Dwight Edwards jersey standing next to his father."
+    },
+    {
+      "label": "B",
+      "text": "Then I thought about how kind Mom\u2019s boss was for giving us the tickets that had allowed me to have this experience."
+    },
+    {
+      "label": "C",
+      "text": "I pushed my way back through the crowd and saw that the boy and his father were still standing where I had seen them."
+    },
+    {
+      "label": "D",
+      "text": "When I reached them, I tapped the boy on the shoulder."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Question 3 with multiple choice options A through D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

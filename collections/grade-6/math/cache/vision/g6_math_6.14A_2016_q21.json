@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the monthly fees for the checking accounts at two banks.\n\nChecking Account Fees at Two Banks\n\n| Bank | Monthly Fee |\n|------|------------|\n| Y    | 1% of checking account balance |\n| Z    | $5         |\n\nWhich statement is best supported by the information in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The fee at Bank Y will always be less than the fee at Bank Z."
+    },
+    {
+      "label": "B",
+      "text": "The fee at Bank Y will always be more than the fee at Bank Z."
+    },
+    {
+      "label": "C",
+      "text": "The fee at Bank Y will be more than the fee at Bank Z only when a customer\u2019s balance is more than $500."
+    },
+    {
+      "label": "D",
+      "text": "The fee at Bank Y will be more than the fee at Bank Z only when the checking account balance is less than $500."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table of banking fees: Bank Y charges 1% of checking account balance, Bank Z charges $5"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

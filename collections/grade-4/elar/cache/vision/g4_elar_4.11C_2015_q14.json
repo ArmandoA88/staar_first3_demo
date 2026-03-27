@@ -1,0 +1,31 @@
+{
+  "stem": "What is the BEST way to revise sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "One day he decided to carve into the tip of a pencil, he would carve a miniature sculpture."
+    },
+    {
+      "label": "G",
+      "text": "One day he decided that he would carve into the tip of a pencil where he carved a miniature sculpture."
+    },
+    {
+      "label": "H",
+      "text": "One day he decided to carve a miniature sculpture into the tip of a pencil."
+    },
+    {
+      "label": "J",
+      "text": "The sentence does not need to be revised."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q14 Passage #3",
+    "14"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

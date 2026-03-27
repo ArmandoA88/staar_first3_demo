@@ -1,0 +1,30 @@
+{
+  "stem": "What revision should be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Fewer in this tiny Texas town live than 2,000 people."
+    },
+    {
+      "label": "B",
+      "text": "Fewer live than 2,000 people in this tiny Texas town."
+    },
+    {
+      "label": "C",
+      "text": "Fewer than 2,000 people live in this tiny Texas town."
+    },
+    {
+      "label": "D",
+      "text": "Fewer than 2,000 in this tiny Texas town of people live."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What revision should be made in sentence 3?  A Fewer in this tiny Texas town live than 2,000 people.  B Fewer live than 2,000 people in this tiny Texas town.  C Fewer than 2,000 people live in this tiny Texas town.  D Fewer than 2,000 in this tiny Texas town of people live."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

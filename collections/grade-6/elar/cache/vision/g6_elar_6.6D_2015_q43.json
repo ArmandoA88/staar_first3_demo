@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Aaron \u201cWheelz\u201d Fotheringham was born with a condition that prevents him from using his legs. By performing stunts in his wheelchair, he has become an extreme-sports celebrity who continually works to perfect new tricks. He has used his fame to help encourage others."
+    },
+    {
+      "label": "B",
+      "text": "Aaron \u201cWheelz\u201d Fotheringham uses a wheelchair to compete in extreme-sports contests. He has won several of the contests and keeps learning new tricks. He is also learning to build wheelchairs that can be used in extreme sports."
+    },
+    {
+      "label": "C",
+      "text": "Aaron \u201cWheelz\u201d Fotheringham was born with spina bifida, a condition that makes him unable to use his legs. As a child he wanted to keep up with his siblings, so he learned to do tricks in his wheelchair. He can now do many stunts, which he demonstrates during extreme-sports contests."
+    },
+    {
+      "label": "D",
+      "text": "Aaron \u201cWheelz\u201d Fotheringham regularly competes in and wins BMX freestyle contests while in a wheelchair. He is an Internet celebrity and has appeared on television. He now develops wheelchairs that can be used for extreme sports."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

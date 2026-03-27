@@ -1,0 +1,34 @@
+{
+  "stem": "The table shows the heights of 10 seedlings.\n\nHeights of Seedlings\n\n| Seedling | A | B | C | D | E | F | G | H | I | J |\n|----------|---|---|---|---|---|---|---|---|---|---|\n| Height (in.) | 1 1/4 | 2 | 1 1/4 | 1 1/2 | 3/4 | 2 1/4 | 1 1/2 | 1 1/2 | 1 | 2 |",
+  "instruction": "Which dot plot represents these data?",
+  "options": [
+    {
+      "label": "F",
+      "text": "Dot plot with highest frequency at 1, other dots at 3/4, 1 1/4, 1 1/2, 2, 2 1/4"
+    },
+    {
+      "label": "H",
+      "text": "Dot plot with clustered dots near 1 and 2, including some spread between 1 and 2"
+    },
+    {
+      "label": "G",
+      "text": "Dot plot with dots spread from 3/4 to 2 1/4, including multiple dots near 1 1/4 and 1 1/2"
+    },
+    {
+      "label": "J",
+      "text": "Dot plot similar to G with spread from 3/4 to 2 1/4 and multiple dots near 1 1/4 and 1 1/2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing seedlings A to J with respective heights: 1 1/4, 2, 1 1/4, 1 1/2, 3/4, 2 1/4, 1 1/2, 1 1/2, 1, 2",
+    "Dot plot F",
+    "Dot plot H",
+    "Dot plot G",
+    "Dot plot J"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

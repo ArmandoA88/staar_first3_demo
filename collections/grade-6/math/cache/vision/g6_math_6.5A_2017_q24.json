@@ -1,0 +1,30 @@
+{
+  "stem": "The list shows the number of viewers of an online music video each day for 5 consecutive days.\n\n5  35  245  1,715  12,005\n\nBy what factor did the number of viewers change each day from the first day to the fifth day?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "7"
+    },
+    {
+      "label": "G",
+      "text": "12,000"
+    },
+    {
+      "label": "H",
+      "text": "2,401"
+    },
+    {
+      "label": "J",
+      "text": "30"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "5  35  245  1,715  12,005"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

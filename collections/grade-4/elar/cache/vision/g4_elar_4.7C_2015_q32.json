@@ -1,0 +1,30 @@
+{
+  "stem": "The author wrote this selection mainly to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "provide the history of sandcastle building"
+    },
+    {
+      "label": "G",
+      "text": "explain how to construct a sandcastle successfully"
+    },
+    {
+      "label": "H",
+      "text": "tell about some famous sandcastle builders"
+    },
+    {
+      "label": "J",
+      "text": "describe different kinds of sandcastles"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The text showing question 32 with four answer choices F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "The article is mainly about \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "why it is important to understand the human body"
+    },
+    {
+      "label": "B",
+      "text": "why it is necessary to eat right and exercise"
+    },
+    {
+      "label": "C",
+      "text": "how the Health Museum\u2019s special effects work"
+    },
+    {
+      "label": "D",
+      "text": "what visitors can see at the Health Museum"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

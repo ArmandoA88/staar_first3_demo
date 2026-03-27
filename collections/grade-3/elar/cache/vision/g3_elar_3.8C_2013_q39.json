@@ -1,0 +1,32 @@
+{
+  "stem": "Look at the diagram below.\n\nMrs. Gibbs asks Kwan to bring some wrapping cloths to school. [blank_1] Kwan shows the class his wrapping cloths.\n\nMrs. Gibbs suggests that Kwan show the class how to fold the wrapping cloths.\n\nWhich sentence best completes the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "David makes a joke in class."
+    },
+    {
+      "label": "B",
+      "text": "Halmoni sees Mrs. Gibbs at the grocery store."
+    },
+    {
+      "label": "C",
+      "text": "Halmoni tells Kwan why wrapping cloths are special."
+    },
+    {
+      "label": "D",
+      "text": "Some students decide how they want to use their cloth."
+    }
+  ],
+  "choice_pool": [
+    "Kwan tells the class why wrapping cloths are special"
+  ],
+  "response_template": "Look at the diagram below.\n\nMrs. Gibbs asks Kwan to bring some wrapping cloths to school. [blank_1] Kwan shows the class his wrapping cloths.\n\nMrs. Gibbs suggests that Kwan show the class how to fold the wrapping cloths.\n\nWhich sentence best completes the diagram?",
+  "visual_elements": [
+    "diagram with four boxes, first box: 'Mrs. Gibbs asks Kwan to bring some wrapping cloths to school.' third box: 'Kwan shows the class his wrapping cloths.' fourth box: 'Mrs. Gibbs suggests that Kwan show the class how to fold the wrapping cloths.' blank box second in sequence between first and third with arrows connecting all boxes"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

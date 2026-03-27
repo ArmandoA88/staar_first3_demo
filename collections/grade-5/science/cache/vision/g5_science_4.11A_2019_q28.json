@@ -1,0 +1,30 @@
+{
+  "stem": "A student read an article about natural resources and listed some resources in the chart shown.\n\nNatural Resources\n\n| Coal       | Air  | Tree        |\n|------------|------|-------------|\n| Petroleum  | Wheat| Natural gas |\n| Sheep      | Lake | Fish        |\n\nWhich answer choice best classifies the natural resources in the chart?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Renewable: coal, air, tree Nonrenewable: petroleum, wheat, natural gas, sheep, lake, fish"
+    },
+    {
+      "label": "G",
+      "text": "Renewable: coal, petroleum, natural gas, lake Nonrenewable: air, tree, wheat, sheep, fish"
+    },
+    {
+      "label": "H",
+      "text": "Renewable: tree, wheat, sheep, fish Nonrenewable: coal, air, petroleum, natural gas, lake"
+    },
+    {
+      "label": "J",
+      "text": "Renewable: air, tree, wheat, sheep, lake, fish Nonrenewable: coal, petroleum, natural gas"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with header Natural Resources and rows: [Coal, Air, Tree], [Petroleum, Wheat, Natural gas], [Sheep, Lake, Fish]"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

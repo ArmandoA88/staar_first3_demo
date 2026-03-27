@@ -1,0 +1,28 @@
+{
+  "stem": "Who is the author most likely addressing in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Someone seeking ways to treat pet allergies"
+    },
+    {
+      "label": "B",
+      "text": "Someone considering whether to have a pet"
+    },
+    {
+      "label": "C",
+      "text": "Someone trying to find a home for a pet"
+    },
+    {
+      "label": "D",
+      "text": "Someone wanting to learn about different types of pets"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

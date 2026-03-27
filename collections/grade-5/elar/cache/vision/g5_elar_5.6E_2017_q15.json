@@ -1,0 +1,28 @@
+{
+  "stem": "Which message is expressed by both the article and the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Some activities can be appreciated simply for the fun of them."
+    },
+    {
+      "label": "B",
+      "text": "Even if you do not succeed right away, you must keep on trying."
+    },
+    {
+      "label": "C",
+      "text": "A great talent is often shared by family members."
+    },
+    {
+      "label": "D",
+      "text": "It is important to be a polite and kindhearted winner."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

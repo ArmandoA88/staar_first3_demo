@@ -15,10 +15,13 @@ from typing import Any
 
 import fitz
 from openai import APIError, OpenAI, RateLimitError
+from PIL import Image
 
 
 YEAR_RE = re.compile(
-    r"(?P<year>20(?:1[5-9]|2[0-5]))\s+[\u2013-]\s+Q(?P<question>\d+)(?:\s+(?P<sample>Sample))?"
+    r"(?P<year>20(?:1[3-9]|2[0-5]))\s*[\u2013-]?\s*Q(?:(?P<question>\d+)(?:\s+(?P<sample>Sample))?|"
+    r"\s*-\s*(?P<non_numbered_label>.+?))(?=\s+Passage\s+#|\s*$)",
+    re.S,
 )
 STANDARD_RE = re.compile(
     r"(?P<standard>\d+\.\d+\([A-Z]\))\s+(?P<description>.+?)\s+Analysis of Assessed Standards",
@@ -27,6 +30,7 @@ STANDARD_RE = re.compile(
 PROCESS_CODE_RE = re.compile(r"\d+\.\d+\([A-Z]\)")
 ORDINAL_POSITION_RE = re.compile(r"(\d+)(?:st|nd|rd|th)\s+option", re.I)
 PERCENT_TOKEN_RE = re.compile(r"^(NA|\d+)$", re.I)
+SLUG_RE = re.compile(r"[^a-z0-9]+")
 
 
 @dataclass
@@ -39,21 +43,24 @@ class Segment:
     segment_text: str
     raw_answer_block_text: str
     metadata: dict[str, Any]
+    render_spans: list[tuple[int, tuple[float, float, float, float]]] | None = None
+    source_page_numbers: list[int] | None = None
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--pdf", default="ALL STAAR QUESTIONS.pdf")
-    parser.add_argument("--output-json", default="data/staar_catalog.json")
-    parser.add_argument("--images-dir", default="images/extracted")
-    parser.add_argument("--vision-cache-dir", default="cache/vision")
+    parser.add_argument("--collection-root", default="collections/grade-3/math")
+    parser.add_argument("--pdf", default=None)
+    parser.add_argument("--output-json", default=None)
+    parser.add_argument("--images-dir", default=None)
+    parser.add_argument("--vision-cache-dir", default=None)
     parser.add_argument("--dpi", type=int, default=300)
     parser.add_argument("--model", default="gpt-4.1-mini")
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--skip-vision", action="store_true")
     parser.add_argument("--force-vision", action="store_true")
     parser.add_argument("--sleep-seconds", type=float, default=0.0)
-    parser.add_argument("--progress-json", default="cache/progress.json")
+    parser.add_argument("--progress-json", default=None)
     return parser.parse_args()
 
 
@@ -61,15 +68,30 @@ def normalize_space(value: str) -> str:
     return re.sub(r"\s+", " ", value.replace("\xa0", " ")).strip()
 
 
+def match_year_block_text(value: str | None) -> re.Match[str] | None:
+    if not value:
+        return None
+    return YEAR_RE.search(normalize_space(value))
+
+
 def slugify_standard(standard: str) -> str:
     return standard.replace("(", "").replace(")", "")
 
 
+def slugify_text(value: str) -> str:
+    normalized = normalize_space(value).lower()
+    return SLUG_RE.sub("-", normalized).strip("-")
+
+
 def infer_subject_and_grade(doc: fitz.Document) -> tuple[str | None, int | None]:
     cover_text = doc.load_page(0).get_text("text")
-    subject_match = re.search(r"\b(Math|Reading|Science|Social Studies)\b", cover_text, re.I)
+    subject_match = re.search(r"\b(Math|Reading|Science|Social Studies|ELAR)\b", cover_text, re.I)
     grade_match = re.search(r"Grade\s+(\d+)", cover_text, re.I)
-    subject = subject_match.group(1).title() if subject_match else None
+    if subject_match:
+        raw_subject = subject_match.group(1).upper()
+        subject = "ELAR" if raw_subject == "ELAR" else subject_match.group(1).title()
+    else:
+        subject = None
     grade = int(grade_match.group(1)) if grade_match else None
     return subject, grade
 
@@ -78,7 +100,7 @@ def iter_large_image_rects(page: fitz.Page) -> list[fitz.Rect]:
     rects: list[fitz.Rect] = []
     for image in page.get_images(full=True):
         for rect in page.get_image_rects(image[0], transform=False):
-            if rect.x0 < 100 and rect.width > 150 and rect.height > 40:
+            if rect.x0 < 100 and rect.width > 150 and rect.height >= 20:
                 rects.append(rect)
     return sorted(rects, key=lambda rect: (round(rect.y0, 3), round(rect.x0, 3)))
 
@@ -120,8 +142,23 @@ def normalize_item_type(value: str | None) -> str | None:
         "hot text": "hot_text",
         "inline choice": "inline_choice",
         "table": "table",
+        "extended constructed response": "constructed_response",
+        "extended constructed response composition": "constructed_response",
     }
     return mapping.get(normalized, normalized.replace(" ", "_"))
+
+
+def extract_stimulus_reference(year_block_text: str | None) -> str | None:
+    if not year_block_text:
+        return None
+    normalized = normalize_space(year_block_text)
+    if not match_year_block_text(normalized):
+        return None
+    passage_match = re.search(r"(Passage\s+#\S+)", normalized, re.I)
+    if not passage_match:
+        return None
+    reference = normalize_space(passage_match.group(1))
+    return None if reference.lower() == "passage #none" else reference
 
 
 def infer_item_type_from_content(
@@ -148,10 +185,10 @@ def infer_item_type_from_content(
     return inferred or "unknown"
 
 
-def parse_metadata(segment_text: str, raw_answer_block_text: str) -> dict[str, Any]:
+def parse_metadata(segment_text: str, raw_answer_block_text: str, year_block_text: str | None = None) -> dict[str, Any]:
     text = normalize_space(segment_text)
     standard_match = STANDARD_RE.search(text)
-    year_match = YEAR_RE.search(text)
+    year_match = match_year_block_text(year_block_text) or match_year_block_text(text)
 
     if not standard_match or not year_match:
         raise ValueError(f"Unable to parse segment metadata from: {text[:300]}")
@@ -159,8 +196,9 @@ def parse_metadata(segment_text: str, raw_answer_block_text: str) -> dict[str, A
     standard = standard_match.group("standard")
     standard_description = normalize_space(standard_match.group("description"))
     year = int(year_match.group("year"))
-    question_number = int(year_match.group("question"))
+    question_number = int(year_match.group("question")) if year_match.group("question") else 0
     is_sample = bool(year_match.group("sample"))
+    non_numbered_label = normalize_space(year_match.group("non_numbered_label")) if year_match.group("non_numbered_label") else None
 
     cluster = extract_between(text, "Cluster", ["Subcluster"])
     subcluster = extract_between(text, "Subcluster", ["Content"])
@@ -180,6 +218,8 @@ def parse_metadata(segment_text: str, raw_answer_block_text: str) -> dict[str, A
     )
     data_analysis_text = extract_between(text, "Item State Local", ["Error Analysis"]) or ""
     item_type_display = extract_between(text, "Item Type", ["Stimulus"])
+    if not item_type_display and cluster and "Extended Constructed Response" in cluster:
+        item_type_display = cluster
     points_match = re.search(r"\((\d+)\s*pts?\)", item_type_display or "", re.I)
     points = int(points_match.group(1)) if points_match else None
 
@@ -192,7 +232,9 @@ def parse_metadata(segment_text: str, raw_answer_block_text: str) -> dict[str, A
         "standard_description": standard_description,
         "year": year,
         "question_number": question_number,
+        "question_label": non_numbered_label,
         "sample_item": is_sample,
+        "stimulus_reference": extract_stimulus_reference(year_block_text),
         "cluster": cluster,
         "subcluster": subcluster,
         "content": content,
@@ -209,10 +251,83 @@ def parse_metadata(segment_text: str, raw_answer_block_text: str) -> dict[str, A
     }
 
 
-def segment_page(page: fitz.Page) -> list[Segment]:
-    year_blocks = iter_matching_blocks(page, lambda text: bool(YEAR_RE.search(text)))
+def trim_leading_answer_blocks(
+    year_blocks: list[tuple[float, float, float, float, str, int, int]],
+    answer_blocks: list[tuple[float, float, float, float, str, int, int]],
+) -> list[tuple[float, float, float, float, str, int, int]]:
+    trimmed = list(answer_blocks)
+    while year_blocks and len(trimmed) > len(year_blocks) and trimmed and trimmed[0][1] < year_blocks[0][1]:
+        trimmed = trimmed[1:]
+    return trimmed
+
+
+def leading_answer_block_before_year(
+    page: fitz.Page,
+) -> tuple[float, float, float, float, str, int, int] | None:
     answer_blocks = iter_matching_blocks(page, lambda text: "Correct Answer" in text)
-    image_rects = iter_large_image_rects(page)
+    if not answer_blocks:
+        return None
+    year_blocks = iter_matching_blocks(page, lambda text: bool(match_year_block_text(text)))
+    if not year_blocks or answer_blocks[0][1] < year_blocks[0][1]:
+        return answer_blocks[0]
+    return None
+
+
+def carryover_answer_block(
+    page: fitz.Page,
+    answer_block: tuple[float, float, float, float, str, int, int],
+) -> tuple[float, float, float, float, str, int, int]:
+    return (
+        answer_block[0],
+        page.rect.height - 2.0,
+        answer_block[2],
+        page.rect.height,
+        answer_block[4],
+        answer_block[5],
+        answer_block[6],
+    )
+
+
+def match_question_image_rects(
+    year_blocks: list[tuple[float, float, float, float, str, int, int]],
+    image_rects: list[fitz.Rect],
+) -> list[fitz.Rect]:
+    if not year_blocks:
+        return []
+
+    matched_rects: list[fitz.Rect] = []
+    search_start = 0
+
+    for index, year_block in enumerate(year_blocks):
+        next_year_top = year_blocks[index + 1][1] if index + 1 < len(year_blocks) else float("inf")
+        chosen_index = None
+        for rect_index in range(search_start, len(image_rects)):
+            rect = image_rects[rect_index]
+            if rect.y1 <= year_block[1]:
+                continue
+            if rect.y0 >= next_year_top + 10.0:
+                break
+            chosen_index = rect_index
+            break
+        if chosen_index is None:
+            return []
+        matched_rects.append(image_rects[chosen_index])
+        search_start = chosen_index + 1
+
+    return matched_rects
+
+
+def segment_page(page: fitz.Page, next_page: fitz.Page | None = None) -> list[Segment]:
+    year_blocks = iter_matching_blocks(page, lambda text: bool(match_year_block_text(text)))
+    answer_blocks = trim_leading_answer_blocks(
+        year_blocks,
+        iter_matching_blocks(page, lambda text: "Correct Answer" in text),
+    )
+    if year_blocks and len(answer_blocks) < len(year_blocks) and next_page is not None:
+        next_page_leading_answer = leading_answer_block_before_year(next_page)
+        if next_page_leading_answer is not None:
+            answer_blocks = answer_blocks + [carryover_answer_block(page, next_page_leading_answer)]
+    image_rects = match_question_image_rects(year_blocks, iter_large_image_rects(page))
 
     if not year_blocks and not answer_blocks:
         return []
@@ -232,7 +347,7 @@ def segment_page(page: fitz.Page) -> list[Segment]:
         clip_top = max(0.0, year_block[1] - 60.0)
         clip_bottom = min(page.rect.height, answer_block[3] + 20.0)
         segment_text = page.get_text("text", clip=fitz.Rect(0.0, clip_top, page.rect.width, clip_bottom))
-        metadata = parse_metadata(segment_text, answer_block[4])
+        metadata = parse_metadata(segment_text, answer_block[4], year_block[4])
         segments.append(
             Segment(
                 index_on_page=index,
@@ -243,6 +358,8 @@ def segment_page(page: fitz.Page) -> list[Segment]:
                 segment_text=segment_text,
                 raw_answer_block_text=answer_block[4],
                 metadata=metadata,
+                render_spans=[(page.number, rect_to_tuple(crop_rect))],
+                source_page_numbers=[page.number + 1],
             )
         )
     return segments
@@ -260,6 +377,305 @@ def render_crop(page: fitz.Page, crop_rect: fitz.Rect, output_path: Path, dpi: i
         "image_width_px": pixmap.width,
         "image_height_px": pixmap.height,
         "sha256": digest,
+    }
+
+
+def expand_rect(rect: fitz.Rect, page_rect: fitz.Rect, padding: float = 8.0) -> fitz.Rect:
+    return fitz.Rect(
+        max(page_rect.x0, rect.x0 - padding),
+        max(page_rect.y0, rect.y0 - padding),
+        min(page_rect.x1, rect.x1 + padding),
+        min(page_rect.y1, rect.y1 + padding),
+    )
+
+
+def rect_to_tuple(rect: fitz.Rect) -> tuple[float, float, float, float]:
+    return (rect.x0, rect.y0, rect.x1, rect.y1)
+
+
+def tuple_to_rect(value: tuple[float, float, float, float]) -> fitz.Rect:
+    return fitz.Rect(value[0], value[1], value[2], value[3])
+
+
+def render_page_crop_to_image(page: fitz.Page, crop_rect: fitz.Rect, dpi: int) -> tuple[Image.Image, dict[str, Any]]:
+    matrix = fitz.Matrix(dpi / 72.0, dpi / 72.0)
+    pixmap = page.get_pixmap(matrix=matrix, clip=crop_rect, alpha=False)
+    image = Image.frombytes("RGB", (pixmap.width, pixmap.height), pixmap.samples)
+    info = {
+        "crop_bbox_pdf_points": [round(crop_rect.x0, 3), round(crop_rect.y0, 3), round(crop_rect.x1, 3), round(crop_rect.y1, 3)],
+        "render_dpi": dpi,
+        "image_width_px": pixmap.width,
+        "image_height_px": pixmap.height,
+    }
+    return image, info
+
+
+def render_segment(
+    doc: fitz.Document,
+    segment: Segment,
+    output_path: Path,
+    dpi: int,
+) -> dict[str, Any]:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    render_spans = segment.render_spans or [(segment.source_page_numbers or [1])[0] - 1, rect_to_tuple(segment.crop_rect)]
+
+    if len(render_spans) == 1:
+        page_index, rect_tuple = render_spans[0]
+        info = render_crop(doc.load_page(page_index), tuple_to_rect(rect_tuple), output_path, dpi)
+        info["page_span"] = segment.source_page_numbers or [page_index + 1]
+        return info
+
+    images: list[Image.Image] = []
+    crop_boxes: list[list[float]] = []
+    widths: list[int] = []
+    heights: list[int] = []
+
+    for page_index, rect_tuple in render_spans:
+        page = doc.load_page(page_index)
+        image, info = render_page_crop_to_image(page, tuple_to_rect(rect_tuple), dpi)
+        images.append(image)
+        crop_boxes.append(info["crop_bbox_pdf_points"])
+        widths.append(info["image_width_px"])
+        heights.append(info["image_height_px"])
+
+    canvas = Image.new("RGB", (max(widths), sum(heights)), "white")
+    offset_y = 0
+    for image in images:
+        canvas.paste(image, (0, offset_y))
+        offset_y += image.height
+
+    canvas.save(output_path)
+    digest = hashlib.sha256(output_path.read_bytes()).hexdigest()
+    return {
+        "crop_bbox_pdf_points": crop_boxes[0],
+        "stitched_crop_bboxes_pdf_points": crop_boxes,
+        "stitched_page_count": len(render_spans),
+        "page_span": segment.source_page_numbers or [page_index + 1 for page_index, _ in render_spans],
+        "render_dpi": dpi,
+        "image_width_px": canvas.width,
+        "image_height_px": canvas.height,
+        "sha256": digest,
+    }
+
+
+def build_cross_page_standard_segment(
+    doc: fitz.Document,
+    page_index: int,
+) -> tuple[Segment, int] | None:
+    if page_index + 2 >= doc.page_count:
+        return None
+
+    page = doc.load_page(page_index)
+    year_blocks = iter_matching_blocks(page, lambda text: bool(match_year_block_text(text)))
+    answer_blocks = iter_matching_blocks(page, lambda text: "Correct Answer" in text)
+    image_rects = iter_large_image_rects(page)
+
+    if len(year_blocks) != 1 or answer_blocks or image_rects:
+        return None
+
+    continuation_page = doc.load_page(page_index + 1)
+    continuation_year_blocks = iter_matching_blocks(continuation_page, lambda text: bool(match_year_block_text(text)))
+    continuation_answer_blocks = iter_matching_blocks(continuation_page, lambda text: "Correct Answer" in text)
+    continuation_image_rects = iter_large_image_rects(continuation_page)
+    if continuation_year_blocks or continuation_answer_blocks or not continuation_image_rects:
+        return None
+
+    answer_page = doc.load_page(page_index + 2)
+    leading_answer = leading_answer_block_before_year(answer_page)
+    if leading_answer is None:
+        return None
+
+    merged_rect = fitz.Rect(continuation_image_rects[0])
+    for rect in continuation_image_rects[1:]:
+        merged_rect.include_rect(rect)
+    continuation_crop_rect = expand_rect(merged_rect, continuation_page.rect, padding=10.0)
+
+    year_block = year_blocks[0]
+    first_crop_rect = fitz.Rect(50.0, max(0.0, year_block[1] - 10.0), 413.0, page.rect.height - 10.0)
+    answer_block = carryover_answer_block(page, leading_answer)
+    segment_text = "\n".join(
+        [
+            page.get_text("text"),
+            continuation_page.get_text("text"),
+            leading_answer[4],
+        ]
+    )
+    metadata = parse_metadata(segment_text, leading_answer[4], year_block[4])
+
+    return (
+        Segment(
+            index_on_page=1,
+            image_rect=merged_rect,
+            year_block=year_block,
+            answer_block=answer_block,
+            crop_rect=first_crop_rect,
+            segment_text=segment_text,
+            raw_answer_block_text=leading_answer[4],
+            metadata=metadata,
+            render_spans=[
+                (page_index, rect_to_tuple(first_crop_rect)),
+                (page_index + 1, rect_to_tuple(continuation_crop_rect)),
+            ],
+            source_page_numbers=[page_index + 1, page_index + 2, page_index + 3],
+        ),
+        page_index + 2,
+    )
+
+
+def collect_standard_segment_entries(doc: fitz.Document) -> list[tuple[int, Segment]]:
+    entries: list[tuple[int, Segment]] = []
+    skip_until = -1
+
+    for page_index in range(doc.page_count):
+        if page_index <= skip_until:
+            continue
+
+        cross_page_segment = build_cross_page_standard_segment(doc, page_index)
+        if cross_page_segment is not None:
+            segment, consumed_until = cross_page_segment
+            entries.append((page_index, segment))
+            skip_until = consumed_until
+            continue
+
+        page = doc.load_page(page_index)
+        next_page = doc.load_page(page_index + 1) if page_index + 1 < doc.page_count else None
+        for segment in segment_page(page, next_page):
+            entries.append((page_index, segment))
+
+    return entries
+
+
+def extract_packet_header(page_text: str) -> str | None:
+    lines = [normalize_space(line) for line in page_text.splitlines() if normalize_space(line)]
+    meaningful = [
+        line
+        for line in lines
+        if "lead4ward" not in line.lower()
+        and "http" not in line.lower()
+        and not re.fullmatch(r"\d+/\d+", line)
+        and not re.fullmatch(r"\d+/\d+/\d+.*", line)
+    ]
+    if not meaningful:
+        return None
+    if len(meaningful) >= 2 and "Investigating the Question" in meaningful[0]:
+        return meaningful[1]
+    return meaningful[0]
+
+
+def build_stimulus_group_id(
+    grade: int | None,
+    subject: str | None,
+    year: int,
+    label: str,
+    first_page_number: int,
+) -> str:
+    subject_slug = slugify_text(subject or "unknown") or "unknown"
+    label_slug = slugify_text(label) or "stimulus"
+    return f"g{grade or 'x'}_{subject_slug}_{year}_{label_slug}_p{first_page_number}"
+
+
+def build_elar_extraction_plan(
+    doc: fitz.Document,
+    subject: str | None,
+    grade: int | None,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    item_plans: list[dict[str, Any]] = []
+    stimulus_group_plans: list[dict[str, Any]] = []
+    pending_stimulus_pages: list[dict[str, Any]] = []
+    active_stimulus_group_id: str | None = None
+
+    for page_index in range(doc.page_count):
+        page = doc.load_page(page_index)
+        page_text = page.get_text("text")
+        next_page = doc.load_page(page_index + 1) if page_index + 1 < doc.page_count else None
+        segments = segment_page(page, next_page)
+        large_image_rects = iter_large_image_rects(page)
+
+        if segments:
+            if pending_stimulus_pages:
+                first_segment = segments[0]
+                label = (
+                    first_segment.metadata.get("stimulus_reference")
+                    or pending_stimulus_pages[0].get("header")
+                    or f"Stimulus packet starting on page {pending_stimulus_pages[0]['page_number']}"
+                )
+                group_id = build_stimulus_group_id(
+                    grade=grade,
+                    subject=subject,
+                    year=first_segment.metadata["year"],
+                    label=label,
+                    first_page_number=pending_stimulus_pages[0]["page_number"],
+                )
+                stimulus_group_plans.append(
+                    {
+                        "id": group_id,
+                        "label": label,
+                        "year": first_segment.metadata["year"],
+                        "pages": pending_stimulus_pages,
+                    }
+                )
+                active_stimulus_group_id = group_id
+                pending_stimulus_pages = []
+
+            for segment in segments:
+                stimulus_group_id = active_stimulus_group_id if segment.metadata.get("stimulus_reference") else None
+                item_plans.append(
+                    {
+                        "page_index": page_index,
+                        "segment": segment,
+                        "stimulus_group_id": stimulus_group_id,
+                    }
+                )
+            continue
+
+        if large_image_rects and "Correct Answer" not in page_text:
+            if "Investigating the Question" not in page_text and not pending_stimulus_pages:
+                continue
+            pending_stimulus_pages.append(
+                {
+                    "page_index": page_index,
+                    "page_number": page_index + 1,
+                    "image_rects": large_image_rects,
+                    "header": extract_packet_header(page_text),
+                }
+            )
+            active_stimulus_group_id = None
+
+    return item_plans, stimulus_group_plans
+
+
+def render_stimulus_group(
+    doc: fitz.Document,
+    root: Path,
+    stimuli_dir: Path,
+    dpi: int,
+    group_plan: dict[str, Any],
+) -> dict[str, Any]:
+    page_images: list[str] = []
+    page_numbers: list[int] = []
+
+    for page_position, page_plan in enumerate(group_plan["pages"], start=1):
+        page = doc.load_page(page_plan["page_index"])
+        rects = page_plan["image_rects"]
+        if not rects:
+            continue
+        merged_rect = fitz.Rect(rects[0])
+        for rect in rects[1:]:
+            merged_rect.include_rect(rect)
+        crop_rect = expand_rect(merged_rect, page.rect, padding=10.0)
+        image_path = stimuli_dir / f"{group_plan['id']}_stimulus_{page_position}.png"
+        render_crop(page, crop_rect, image_path, dpi)
+        page_images.append(image_path.relative_to(root).as_posix())
+        page_numbers.append(page_plan["page_number"])
+
+    return {
+        "id": group_plan["id"],
+        "label": group_plan["label"],
+        "year": group_plan["year"],
+        "page_count": len(page_images),
+        "page_numbers": page_numbers,
+        "page_images": page_images,
+        "question_ids": [],
     }
 
 
@@ -526,6 +942,7 @@ def build_item_record(
     segment: Segment,
     vision_payload: dict[str, Any],
     vision_model_name: str,
+    stimulus_group: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     metadata = dict(segment.metadata)
     question_payload = validate_vision_payload(vision_payload)
@@ -570,6 +987,7 @@ def build_item_record(
         "process": metadata.get("process"),
         "process_codes": metadata.get("process_codes", []),
         "sample_item": metadata.get("sample_item", False),
+        "stimulus_reference": metadata.get("stimulus_reference"),
         "item_type": inferred_item_type,
         "declared_item_type_display": metadata.get("declared_item_type_display"),
         "points": metadata.get("points"),
@@ -585,7 +1003,7 @@ def build_item_record(
         "visual_elements": question_payload["visual_elements"],
     }
 
-    return {
+    record = {
         "id": item_id,
         "source": {
             "pdf_file": source_pdf,
@@ -605,6 +1023,13 @@ def build_item_record(
             "notes": question_payload["notes"],
         },
     }
+    if stimulus_group:
+        record["stimulus"] = {
+            "group_id": stimulus_group["id"],
+            "label": stimulus_group["label"],
+            "page_count": stimulus_group["page_count"],
+        }
+    return record
 
 
 def write_progress(progress_path: Path, payload: dict[str, Any]) -> None:
@@ -612,28 +1037,107 @@ def write_progress(progress_path: Path, payload: dict[str, Any]) -> None:
     progress_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
 
 
-def main() -> int:
-    args = parse_args()
-    root = Path.cwd()
-    pdf_path = root / args.pdf
-    output_json = root / args.output_json
-    images_dir = root / args.images_dir
-    vision_cache_dir = root / args.vision_cache_dir
-    progress_path = root / args.progress_json
+def resolve_path(root: Path, collection_root: Path, value: str | None, default: Path) -> Path:
+    if value is None:
+        return default
+    candidate = Path(value)
+    if candidate.is_absolute():
+        return candidate
+    root_candidate = root / candidate
+    if root_candidate.exists() or root_candidate.parent.exists():
+        return root_candidate
+    return collection_root / candidate
 
-    if not pdf_path.exists():
-        raise FileNotFoundError(pdf_path)
 
-    doc = fitz.open(pdf_path)
-    subject, grade = infer_subject_and_grade(doc)
-    client = OpenAI() if (not args.skip_vision and os.environ.get("OPENAI_API_KEY")) else None
+def resolve_pdf_path(root: Path, collection_root: Path, value: str | None) -> Path:
+    if value:
+        return resolve_path(root, collection_root, value, collection_root / value)
 
-    all_segments: list[tuple[int, Segment]] = []
-    for page_index in range(doc.page_count):
-        page = doc.load_page(page_index)
-        page_segments = segment_page(page)
-        for segment in page_segments:
-            all_segments.append((page_index, segment))
+    source_dir = collection_root / "source"
+    pdfs = sorted(source_dir.glob("*.pdf"))
+    if len(pdfs) == 1:
+        return pdfs[0]
+    if not pdfs:
+        raise FileNotFoundError(f"No PDF found in {source_dir}")
+    raise RuntimeError(f"Multiple PDFs found in {source_dir}; pass --pdf explicitly.")
+
+
+def build_skipped_vision_payload(segment: Segment) -> dict[str, Any]:
+    return {
+        "stem": "",
+        "instruction": None,
+        "options": [],
+        "choice_pool": [],
+        "response_template": None,
+        "visual_elements": [],
+        "item_type_inferred": segment.metadata.get("declared_item_type") or "unknown",
+        "confidence": 0.0,
+        "notes": "Vision extraction skipped.",
+    }
+
+
+def build_catalog_payload(
+    *,
+    root: Path,
+    collection_root: Path,
+    pdf_path: Path,
+    subject: str | None,
+    grade: int | None,
+    items: list[dict[str, Any]],
+    stimulus_groups: list[dict[str, Any]] | None = None,
+) -> dict[str, Any]:
+    catalog = {
+        "source_pdf": pdf_path.name,
+        "generated_at_utc": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+        "schema_version": "staar_catalog_v4",
+        "item_count": len(items),
+        "subject": subject,
+        "grade": grade,
+        "collection_root": collection_root.relative_to(root).as_posix(),
+        "extraction_method": {
+            "question_region": "Rendered page crop transcribed with OpenAI vision",
+            "answer_key": "Parsed from PDF text layer footer",
+            "difficulty": "Derived from state percent-correct data in the PDF text layer",
+        },
+        "items": items,
+    }
+    if stimulus_groups:
+        catalog["stimulus_groups"] = stimulus_groups
+        catalog["stimulus_group_count"] = len(stimulus_groups)
+    return catalog
+
+
+def dedupe_items_by_id(items: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], list[str]]:
+    deduped: list[dict[str, Any]] = []
+    duplicate_ids: list[str] = []
+    seen_ids: set[str] = set()
+
+    for item in items:
+        if item["id"] in seen_ids:
+            duplicate_ids.append(item["id"])
+            continue
+        seen_ids.add(item["id"])
+        deduped.append(item)
+
+    return deduped, duplicate_ids
+
+
+def process_standard_collection(
+    *,
+    args: argparse.Namespace,
+    root: Path,
+    collection_root: Path,
+    pdf_path: Path,
+    output_json: Path,
+    images_dir: Path,
+    vision_cache_dir: Path,
+    progress_path: Path,
+    doc: fitz.Document,
+    subject: str | None,
+    grade: int | None,
+    client: OpenAI | None,
+) -> int:
+    all_segments = collect_standard_segment_entries(doc)
 
     if args.limit is not None:
         all_segments = all_segments[: args.limit]
@@ -642,27 +1146,16 @@ def main() -> int:
     started_at = time.time()
 
     for item_number, (page_index, segment) in enumerate(all_segments, start=1):
-        page = doc.load_page(page_index)
         standard_slug = slugify_standard(segment.metadata["standard"])
         image_name = (
-            f"g{grade or 'x'}_{(subject or 'unknown').lower()}_{standard_slug}_"
+            f"g{grade or 'x'}_{slugify_text(subject or 'unknown') or 'unknown'}_{standard_slug}_"
             f"{segment.metadata['year']}_q{segment.metadata['question_number']}.png"
         )
         image_path = images_dir / image_name
-        render_info = render_crop(page, segment.crop_rect, image_path, args.dpi)
+        render_info = render_segment(doc, segment, image_path, args.dpi)
 
         if args.skip_vision:
-            vision_payload = {
-                "stem": "",
-                "instruction": None,
-                "options": [],
-                "choice_pool": [],
-                "response_template": None,
-                "visual_elements": [],
-                "item_type_inferred": segment.metadata.get("declared_item_type") or "unknown",
-                "confidence": 0.0,
-                "notes": "Vision extraction skipped.",
-            }
+            vision_payload = build_skipped_vision_payload(segment)
         else:
             cache_path = vision_cache_dir / image_name.replace(".png", ".json")
             vision_payload = extract_with_vision(
@@ -688,34 +1181,34 @@ def main() -> int:
         items.append(record)
 
         elapsed = time.time() - started_at
-        progress = {
-            "status": "running",
-            "processed_items": item_number,
-            "total_items": len(all_segments),
-            "elapsed_seconds": round(elapsed, 1),
-            "last_item_id": record["id"],
-            "output_json": output_json.as_posix(),
-        }
-        write_progress(progress_path, progress)
+        write_progress(
+            progress_path,
+            {
+                "status": "running",
+                "processed_items": item_number,
+                "total_items": len(all_segments),
+                "elapsed_seconds": round(elapsed, 1),
+                "last_item_id": record["id"],
+                "output_json": output_json.as_posix(),
+            },
+        )
         print(f"[{item_number}/{len(all_segments)}] {record['id']}")
 
         if args.sleep_seconds:
             time.sleep(args.sleep_seconds)
 
-    catalog = {
-        "source_pdf": pdf_path.name,
-        "generated_at_utc": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
-        "schema_version": "staar_catalog_v2",
-        "item_count": len(items),
-        "subject": subject,
-        "grade": grade,
-        "extraction_method": {
-            "question_region": "Rendered page crop transcribed with OpenAI vision",
-            "answer_key": "Parsed from PDF text layer footer",
-            "difficulty": "Derived from state percent-correct data in the PDF text layer",
-        },
-        "items": items,
-    }
+    items, duplicate_ids = dedupe_items_by_id(items)
+    if duplicate_ids:
+        print(f"Skipped {len(duplicate_ids)} duplicate items after first occurrence dedupe.")
+
+    catalog = build_catalog_payload(
+        root=root,
+        collection_root=collection_root,
+        pdf_path=pdf_path,
+        subject=subject,
+        grade=grade,
+        items=items,
+    )
     output_json.parent.mkdir(parents=True, exist_ok=True)
     output_json.write_text(json.dumps(catalog, indent=2, ensure_ascii=False), encoding="utf-8")
     write_progress(
@@ -730,6 +1223,188 @@ def main() -> int:
     )
     print(f"Wrote {len(items)} items to {output_json}")
     return 0
+
+
+def process_elar_collection(
+    *,
+    args: argparse.Namespace,
+    root: Path,
+    collection_root: Path,
+    pdf_path: Path,
+    output_json: Path,
+    images_dir: Path,
+    vision_cache_dir: Path,
+    progress_path: Path,
+    doc: fitz.Document,
+    subject: str | None,
+    grade: int | None,
+    client: OpenAI | None,
+) -> int:
+    stimuli_dir = collection_root / "images" / "stimuli"
+    item_plans, stimulus_group_plans = build_elar_extraction_plan(doc, subject, grade)
+
+    if args.limit is not None:
+        item_plans = item_plans[: args.limit]
+
+    referenced_group_ids = {plan["stimulus_group_id"] for plan in item_plans if plan["stimulus_group_id"]}
+    stimulus_groups: list[dict[str, Any]] = []
+    stimulus_groups_by_id: dict[str, dict[str, Any]] = {}
+    for group_plan in stimulus_group_plans:
+        if group_plan["id"] not in referenced_group_ids:
+            continue
+        record = render_stimulus_group(doc, root, stimuli_dir, args.dpi, group_plan)
+        stimulus_groups.append(record)
+        stimulus_groups_by_id[record["id"]] = record
+
+    items: list[dict[str, Any]] = []
+    started_at = time.time()
+
+    for item_number, item_plan in enumerate(item_plans, start=1):
+        page_index = item_plan["page_index"]
+        segment = item_plan["segment"]
+        standard_slug = slugify_standard(segment.metadata["standard"])
+        image_name = (
+            f"g{grade or 'x'}_{slugify_text(subject or 'unknown') or 'unknown'}_{standard_slug}_"
+            f"{segment.metadata['year']}_q{segment.metadata['question_number']}.png"
+        )
+        image_path = images_dir / image_name
+        render_info = render_segment(doc, segment, image_path, args.dpi)
+
+        if args.skip_vision:
+            vision_payload = build_skipped_vision_payload(segment)
+        else:
+            cache_path = vision_cache_dir / image_name.replace(".png", ".json")
+            vision_payload = extract_with_vision(
+                client=client,
+                image_path=image_path,
+                model=args.model,
+                item_metadata=segment.metadata,
+                cache_path=cache_path,
+                force=args.force_vision,
+            )
+
+        stimulus_group = stimulus_groups_by_id.get(item_plan["stimulus_group_id"])
+        record = build_item_record(
+            source_pdf=pdf_path.name,
+            subject=subject,
+            grade=grade,
+            page_number=page_index + 1,
+            image_path=image_path.relative_to(root),
+            render_info=render_info,
+            segment=segment,
+            vision_payload=vision_payload,
+            vision_model_name=args.model if not args.skip_vision else "skipped",
+            stimulus_group=stimulus_group,
+        )
+        items.append(record)
+        if stimulus_group:
+            stimulus_group["question_ids"].append(record["id"])
+
+        elapsed = time.time() - started_at
+        write_progress(
+            progress_path,
+            {
+                "status": "running",
+                "processed_items": item_number,
+                "total_items": len(item_plans),
+                "elapsed_seconds": round(elapsed, 1),
+                "last_item_id": record["id"],
+                "output_json": output_json.as_posix(),
+            },
+        )
+        print(f"[{item_number}/{len(item_plans)}] {record['id']}")
+
+        if args.sleep_seconds:
+            time.sleep(args.sleep_seconds)
+
+    items, duplicate_ids = dedupe_items_by_id(items)
+    if duplicate_ids:
+        print(f"Skipped {len(duplicate_ids)} duplicate items after first occurrence dedupe.")
+
+    for stimulus_group in stimulus_groups:
+        stimulus_group["question_ids"] = []
+    referenced_group_ids: set[str] = set()
+    for item in items:
+        stimulus_group_id = item.get("stimulus", {}).get("group_id")
+        if not stimulus_group_id:
+            continue
+        referenced_group_ids.add(stimulus_group_id)
+        if stimulus_group_id in stimulus_groups_by_id:
+            stimulus_groups_by_id[stimulus_group_id]["question_ids"].append(item["id"])
+    stimulus_groups = [group for group in stimulus_groups if group["id"] in referenced_group_ids]
+
+    catalog = build_catalog_payload(
+        root=root,
+        collection_root=collection_root,
+        pdf_path=pdf_path,
+        subject=subject,
+        grade=grade,
+        items=items,
+        stimulus_groups=stimulus_groups,
+    )
+    output_json.parent.mkdir(parents=True, exist_ok=True)
+    output_json.write_text(json.dumps(catalog, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_progress(
+        progress_path,
+        {
+            "status": "completed",
+            "processed_items": len(items),
+            "total_items": len(items),
+            "elapsed_seconds": round(time.time() - started_at, 1),
+            "output_json": output_json.as_posix(),
+        },
+    )
+    print(f"Wrote {len(items)} items to {output_json}")
+    return 0
+
+
+def main() -> int:
+    args = parse_args()
+    root = Path.cwd()
+    collection_root = resolve_path(root, root, args.collection_root, root / "collections/grade-3/math")
+    pdf_path = resolve_pdf_path(root, collection_root, args.pdf)
+    output_json = resolve_path(root, collection_root, args.output_json, collection_root / "data" / "staar_catalog.json")
+    images_dir = resolve_path(root, collection_root, args.images_dir, collection_root / "images" / "extracted")
+    vision_cache_dir = resolve_path(root, collection_root, args.vision_cache_dir, collection_root / "cache" / "vision")
+    progress_path = resolve_path(root, collection_root, args.progress_json, collection_root / "cache" / "progress.json")
+
+    if not pdf_path.exists():
+        raise FileNotFoundError(pdf_path)
+
+    doc = fitz.open(pdf_path)
+    subject, grade = infer_subject_and_grade(doc)
+    client = OpenAI() if (not args.skip_vision and os.environ.get("OPENAI_API_KEY")) else None
+
+    if subject == "ELAR":
+        return process_elar_collection(
+            args=args,
+            root=root,
+            collection_root=collection_root,
+            pdf_path=pdf_path,
+            output_json=output_json,
+            images_dir=images_dir,
+            vision_cache_dir=vision_cache_dir,
+            progress_path=progress_path,
+            doc=doc,
+            subject=subject,
+            grade=grade,
+            client=client,
+        )
+
+    return process_standard_collection(
+        args=args,
+        root=root,
+        collection_root=collection_root,
+        pdf_path=pdf_path,
+        output_json=output_json,
+        images_dir=images_dir,
+        vision_cache_dir=vision_cache_dir,
+        progress_path=progress_path,
+        doc=doc,
+        subject=subject,
+        grade=grade,
+        client=client,
+    )
 
 
 if __name__ == "__main__":

@@ -1,0 +1,28 @@
+{
+  "stem": "Sentence 36 contains repeated information. What is the BEST way to revise this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She studies the local humane society website every night now."
+    },
+    {
+      "label": "B",
+      "text": "She studies the local humane society website to now look at it every night."
+    },
+    {
+      "label": "C",
+      "text": "She looks at it every night now, the local humane society website."
+    },
+    {
+      "label": "D",
+      "text": "She studies the local humane society website and looks at it every night now."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

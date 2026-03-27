@@ -1,0 +1,35 @@
+{
+  "stem": "A right triangle and an isosceles triangle are graphed on the coordinate grid. The shaded section represents all the points located inside both triangles.\n\nWhich coordinates represent the location of a point inside the shaded section?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "( -1.5, 4.5)"
+    },
+    {
+      "label": "B",
+      "text": "(1.5, -4.5)"
+    },
+    {
+      "label": "C",
+      "text": "(4.5, -1.5)"
+    },
+    {
+      "label": "D",
+      "text": "( -4.5, 1.5)"
+    }
+  ],
+  "choice_pool": [
+    "( -1.5, 4.5)",
+    "(1.5, -4.5)",
+    "(4.5, -1.5)",
+    "( -4.5, 1.5)"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate grid with two triangles, one right and one isosceles, overlapping with a shaded intersection area"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

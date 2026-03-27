@@ -1,0 +1,30 @@
+{
+  "stem": "Jamilla recorded the change in her dog's weight in pounds each week for 5 weeks. The table shows her data.\n\nWeight Change\n\n| Week            | 1    | 2     | 3    | 4       | 5    |\n|-----------------|------|-------|------|---------|------|\n| Change (pounds) | 0.3  | -0.86 | 1.02 | -\\frac{1}{4} | 0.18 | \n\nWhich list shows the data in order from least to greatest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-0.86  -\\frac{1}{4}  0.18  0.3  1.02"
+    },
+    {
+      "label": "B",
+      "text": "-\\frac{1}{4}  -0.86  0.18  0.3  1.02"
+    },
+    {
+      "label": "C",
+      "text": "0.18  -\\frac{1}{4}  0.3  -0.86  1.02"
+    },
+    {
+      "label": "D",
+      "text": "0.3  -0.86  -\\frac{1}{4}  0.18  1.02"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Weight Change table showing weeks 1 to 5 and changes in pounds: 0.3, -0.86, 1.02, -1/4, 0.18"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

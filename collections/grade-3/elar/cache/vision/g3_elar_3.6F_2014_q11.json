@@ -1,0 +1,31 @@
+{
+  "stem": "These sentences show that Jenny \u2014",
+  "instruction": "Read these sentences from paragraphs 28 and 29.",
+  "options": [
+    {
+      "label": "A",
+      "text": "believes that Beth will make a good movie director"
+    },
+    {
+      "label": "B",
+      "text": "will do what is needed in order to win"
+    },
+    {
+      "label": "C",
+      "text": "likes to encourage her friends to participate in school activities"
+    },
+    {
+      "label": "D",
+      "text": "knows that Beth will not keep her promise to remain friends"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Jenny shook Beth's hand. \"May the best can collector win,\" she repeated.",
+    "As long as it's me, she told herself."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

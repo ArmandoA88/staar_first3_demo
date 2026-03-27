@@ -1,0 +1,28 @@
+{
+  "stem": "The length of the base of a parallelogram is 14 centimeters, and the corresponding height is \\( h \\) centimeters. Which formula can be used to find \\( A \\), the area of the parallelogram in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( A = 14 + h \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( A = 14h \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( A = \\frac{1}{2} (14h) \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( A = \\frac{1}{2} (14 + h) \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

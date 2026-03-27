@@ -1,0 +1,38 @@
+{
+  "stem": "An equation is shown.\n\n0.3 \u00d7 0.6 = 0.18\n\nWhich hundredths models are shaded to represent the equation?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "[Image of first hundredths grid model with shaded squares]"
+    },
+    {
+      "label": null,
+      "text": "[Image of second hundredths grid model with shaded squares]"
+    },
+    {
+      "label": null,
+      "text": "[Image of third hundredths grid model with shaded squares]"
+    },
+    {
+      "label": null,
+      "text": "[Image of fourth hundredths grid model with shaded squares]"
+    },
+    {
+      "label": null,
+      "text": "[Image of fifth hundredths grid model with shaded squares]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "First hundredths grid model with shaded squares",
+    "Second hundredths grid model with shaded squares",
+    "Third hundredths grid model with shaded squares",
+    "Fourth hundredths grid model with shaded squares",
+    "Fifth hundredths grid model with shaded squares"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

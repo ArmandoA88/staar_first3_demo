@@ -1,0 +1,30 @@
+{
+  "stem": "The length of a piece of yarn is 19.2 units. Jesse cut the piece of yarn into 4 smaller pieces that were all the same length.\n\nWhich expression represents the length of each smaller piece of yarn?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "19.2 \u00d7 4"
+    },
+    {
+      "label": "B",
+      "text": "19.2 \u2212 4"
+    },
+    {
+      "label": "C",
+      "text": "19.2 \u00f7 4"
+    },
+    {
+      "label": "D",
+      "text": "19.2 + 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A diagram of a yarn strand split into 4 equal sections shown by arches over each section."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Which number line represents the solution to 5x < 30?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "number line with closed circle at 6 and shading to the left from 6 to 0"
+    },
+    {
+      "label": "G",
+      "text": "number line with closed circle at 6 and shading to the right from 6 to 10"
+    },
+    {
+      "label": "H",
+      "text": "number line with open circle at 6 and shading to the left from 6 to 0"
+    },
+    {
+      "label": "J",
+      "text": "number line with open circle at 6 and shading to the right from 6 to 10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line with closed circle at 6, shading left (F)",
+    "number line with closed circle at 6, shading right (G)",
+    "number line with open circle at 6, shading left (H)",
+    "number line with open circle at 6, shading right (J)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

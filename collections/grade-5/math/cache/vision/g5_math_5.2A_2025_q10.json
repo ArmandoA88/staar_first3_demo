@@ -1,0 +1,30 @@
+{
+  "stem": "What is the word form of (6 \\times 10) + (2 \\times 1) + (5 \\times 0.1) + (9 \\times 0.001)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "sixty-two and fifty-nine hundredths"
+    },
+    {
+      "label": "B",
+      "text": "sixty-two and five hundred nine thousandths"
+    },
+    {
+      "label": "C",
+      "text": "sixty-two and five hundred nine"
+    },
+    {
+      "label": "D",
+      "text": "sixty-two and fifty-nine thousandths"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(6 \\times 10) + (2 \\times 1) + (5 \\times 0.1) + (9 \\times 0.001)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

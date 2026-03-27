@@ -1,0 +1,30 @@
+{
+  "stem": "There are 127 rows of apple trees on a farm. There are 53 apple trees in each row.\n\nWhat is the total number of apple trees on this farm?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5,411"
+    },
+    {
+      "label": "B",
+      "text": "1,016"
+    },
+    {
+      "label": "C",
+      "text": "6,731"
+    },
+    {
+      "label": "D",
+      "text": "1,961"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There are 127 rows of apple trees on a farm. There are 53 apple trees in each row.\n\nWhat is the total number of apple trees on this farm?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

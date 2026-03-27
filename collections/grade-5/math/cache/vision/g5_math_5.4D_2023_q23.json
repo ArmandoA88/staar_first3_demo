@@ -1,0 +1,45 @@
+{
+  "stem": "The table shows a relationship between x and y.\n\nx | y\n6 | 24\n9 | 27\n15 | 33\n26 | 44\n\nComplete the statement about the pattern represented by the relationship between x and y.\n\nMove the correct answer to each box. Not all answers will be used.\n\nThe relationship shown is [blank_1] pattern because each x-coordinate is [blank_2] in order to create the corresponding y-coordinate.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "an additive"
+    },
+    {
+      "label": null,
+      "text": "a multiplicative"
+    },
+    {
+      "label": null,
+      "text": "increased by 22"
+    },
+    {
+      "label": null,
+      "text": "increased by 18"
+    },
+    {
+      "label": null,
+      "text": "multiplied by 3"
+    },
+    {
+      "label": null,
+      "text": "multiplied by 4"
+    }
+  ],
+  "choice_pool": [
+    "an additive",
+    "a multiplicative",
+    "increased by 22",
+    "increased by 18",
+    "multiplied by 3",
+    "multiplied by 4"
+  ],
+  "response_template": "The relationship shown is [blank_1] pattern because each x-coordinate is [blank_2] in order to create the corresponding y-coordinate.",
+  "visual_elements": [
+    "x y table with values: (6,24), (9,27), (15,33), (26,44)"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

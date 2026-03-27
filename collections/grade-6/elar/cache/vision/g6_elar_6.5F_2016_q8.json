@@ -1,0 +1,34 @@
+{
+  "stem": "What lesson did the author learn while living in India?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Monkeys can cause problems that require creative solutions."
+    },
+    {
+      "label": "G",
+      "text": "Food can be used to help calm aggressive monkeys."
+    },
+    {
+      "label": "H",
+      "text": "It is wise to leave monkeys alone while they are eating."
+    },
+    {
+      "label": "J",
+      "text": "It helps to befriend people who are familiar with the behavior of monkeys."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What lesson did the author learn while living in India?",
+    "F Monkeys can cause problems that require creative solutions.",
+    "G Food can be used to help calm aggressive monkeys.",
+    "H It is wise to leave monkeys alone while they are eating.",
+    "J It helps to befriend people who are familiar with the behavior of monkeys."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

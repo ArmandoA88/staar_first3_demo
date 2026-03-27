@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "In 1796 painter Gilbert Stuart had the opportunity to paint a portrait of George Washington. It had been difficult to arrange time for the two men to get together. While Stuart painted Washington, the two men talked about horses."
+    },
+    {
+      "label": "G",
+      "text": "The most famous portrait of George Washington was painted by Gilbert Stuart, who lived from 1755 to 1828. Stuart painted portraits of other famous people as well. He never finished his portrait of Washington, but Stuart kept the original and sold copies of it anyway."
+    },
+    {
+      "label": "H",
+      "text": "An accomplished painter who completed hundreds of portraits, Gilbert Stuart lived from 1755 to 1828. Stuart wanted the subjects of his portraits to feel relaxed so that he could create a portrait of them that looked natural. One of Stuart's most famous paintings is a portrait of President George Washington."
+    },
+    {
+      "label": "J",
+      "text": "During his career Gilbert Stuart painted portraits of many famous people, including George Washington. Although Stuart was unable to complete a portrait of Washington during the time they had together in 1796, the work became the most popular portrait of Washington ever painted."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

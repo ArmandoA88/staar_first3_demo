@@ -1,0 +1,30 @@
+{
+  "stem": "The stem and leaf plot shows the total number of points that a basketball team scored in each of its games.\n\nPoints Scored\nper Game\n\nStem|Leaf\n2 5 8 9\n3 2 3 4 7\n4 0 1 5 6\n\n3|2 means 32 points.\n\nWhat is the difference between the team\u2019s highest number of points scored and its second-lowest number of points scored?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "18"
+    },
+    {
+      "label": "B",
+      "text": "20"
+    },
+    {
+      "label": "C",
+      "text": "15"
+    },
+    {
+      "label": "D",
+      "text": "21"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Stem and leaf plot showing points scored per game with stems 2,3,4 and leaves 5 8 9, 2 3 4 7, 0 1 5 6 respectively. Note that 3|2 means 32 points."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

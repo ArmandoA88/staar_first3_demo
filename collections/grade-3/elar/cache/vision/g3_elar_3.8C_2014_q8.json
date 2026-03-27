@@ -1,0 +1,33 @@
+{
+  "stem": "Which detail from the story belongs in the empty box?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Jenny remembers watching a filmstrip."
+    },
+    {
+      "label": "G",
+      "text": "Jenny makes a drawing in her notebook."
+    },
+    {
+      "label": "H",
+      "text": "Jenny tells Beth she wants to make a movie."
+    },
+    {
+      "label": "J",
+      "text": "Jenny and Beth shake hands with each other."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Mrs. Pike tells the class about a contest.",
+    "Jenny imagines herself as a movie actress.",
+    "[empty box]",
+    "Jenny and Beth agree not to fight."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

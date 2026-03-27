@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 11 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change poked to pokked"
+    },
+    {
+      "label": "B",
+      "text": "Change an egg to a egg"
+    },
+    {
+      "label": "C",
+      "text": "Change threw to through"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 11 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

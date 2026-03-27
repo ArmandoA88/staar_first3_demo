@@ -1,0 +1,30 @@
+{
+  "stem": "A family spent $93 at a carnival.\n\n\u2022 They spent $18 on tickets to the carnival and $36 on food.\n\u2022 They spent the rest of the money on games.\n\nWhich equation can be used to find g, the amount of money in dollars the family spent on games?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "93 = g + 36 - 18"
+    },
+    {
+      "label": "G",
+      "text": "93 = 18 + 36 - g"
+    },
+    {
+      "label": "H",
+      "text": "93 = 36 - 18 - g"
+    },
+    {
+      "label": "J",
+      "text": "93 = g + 36 + 18"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equations"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

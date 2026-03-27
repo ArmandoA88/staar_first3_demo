@@ -1,0 +1,30 @@
+{
+  "stem": "Which meaning best fits the way straight is used in paragraph 1?",
+  "instruction": "Read the dictionary entry below.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Meaning 1"
+    },
+    {
+      "label": "G",
+      "text": "Meaning 2"
+    },
+    {
+      "label": "H",
+      "text": "Meaning 3"
+    },
+    {
+      "label": "J",
+      "text": "Meaning 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "straight \\\u02c8str\u0101t\\ adjective 1. honest 2. correct 3. without curves or bends 4. following one after another"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

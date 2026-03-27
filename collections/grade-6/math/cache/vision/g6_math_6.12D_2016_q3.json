@@ -1,0 +1,31 @@
+{
+  "stem": "Hector surveyed all the sixth graders at his school about their favorite after-school activity. The table shows the results that were used to make a bar graph.\n\nFavorite Activities\n\n| Activity     | Number of Students |\n|--------------|--------------------|\n| Reading      | 44                 |\n| Sports       | 55                 |\n| Video games  | 55                 |\n| Music        | 66                 |\n\nWhich percentage bar graph best represents the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Reading Sports Video games Music 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%"
+    },
+    {
+      "label": "B",
+      "text": "Reading Sports Video games Music 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%"
+    },
+    {
+      "label": "C",
+      "text": "Reading Sports Video games Music 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%"
+    },
+    {
+      "label": "D",
+      "text": "Reading Sports Video games Music 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Favorite Activities table",
+    "Four percentage bar graph options labeled A, B, C, D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Answer choices show segmented bar graphs with different segment lengths representing different percentages; exact segment lengths not transcribed because they're graphical."
+}

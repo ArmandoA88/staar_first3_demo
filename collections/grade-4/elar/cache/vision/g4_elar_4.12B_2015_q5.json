@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence should Roland add to the end of his paper to bring it to a better close?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "For people who don\u2019t think that they want a hedgehog for a pet, we can talk about another unusual animal next."
+    },
+    {
+      "label": "B",
+      "text": "I\u2019m going to look on the Internet to find a hedgehog breeder right now."
+    },
+    {
+      "label": "C",
+      "text": "If you\u2019re in the market for something unusual, this little animal could be the perfect pet for you!"
+    },
+    {
+      "label": "D",
+      "text": "And it seems like the perfect time for me to close this paper by saying that hedgies are great!"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

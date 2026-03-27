@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *It\u2019s* to *Its*"
+    },
+    {
+      "label": "B",
+      "text": "Change *and has* to *it has*"
+    },
+    {
+      "label": "C",
+      "text": "Change *star* to *stars*"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q36 Passage #6, question and four answer choices"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change from to for"
+    },
+    {
+      "label": "B",
+      "text": "Change school to School"
+    },
+    {
+      "label": "C",
+      "text": "Change here to hear"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

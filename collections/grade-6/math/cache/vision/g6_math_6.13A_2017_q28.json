@@ -1,0 +1,30 @@
+{
+  "stem": "The total number of items sold by each student who participated in a fund-raiser is shown in the stem and leaf plot.\n\nItems Sold\nStem | Leaf\n1    | 2 5 5 5 8\n2    | 2 2 3 6 7 9\n3    | 0 0 1 1 2 6\n4    | 1 2 8 8 9 9\n\n1|2 means 12 items.\n\nWhich statement is best supported by the data in the stem and leaf plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The number of students who sold between 10 and 20 items is greater than the number of students who sold more than 40 items."
+    },
+    {
+      "label": "G",
+      "text": "The number of students who sold more than 30 items is greater than the number of students who sold fewer than 30 items."
+    },
+    {
+      "label": "H",
+      "text": "The most common number of items sold is 30."
+    },
+    {
+      "label": "J",
+      "text": "The most common number of items sold is 15."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Stem and leaf plot with stems 1,2,3,4 and corresponding leaves as shown above"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,20 @@
+{
+  "stem": "There is a numerical pattern between the input and output values in the table shown.\n\nDescribe whether the pattern is additive or multiplicative.\n\nComplete the sentence by selecting the correct answers from the drop-down menus.\n\nThe pattern is [blank_1] because the output value is the [blank_2] of [blank_3] and the input value.",
+  "instruction": "Complete the sentence by selecting the correct answers from the drop-down menus.",
+  "options": [],
+  "choice_pool": [
+    "additive",
+    "multiplicative",
+    "sum",
+    "difference",
+    "product",
+    "quotient"
+  ],
+  "response_template": "The pattern is [blank_1] because the output value is the [blank_2] of [blank_3] and the input value.",
+  "visual_elements": [
+    "table with columns Input and Output showing values 12 \u2192 168, 9 \u2192 126, 6 \u2192 84, 3 \u2192 42"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

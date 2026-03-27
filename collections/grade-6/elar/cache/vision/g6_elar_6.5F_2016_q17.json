@@ -1,0 +1,28 @@
+{
+  "stem": "The author wrote this selection most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "compare the modern Olympics with the ancient Olympics"
+    },
+    {
+      "label": "B",
+      "text": "provide information about the origin of the Olympic symbol"
+    },
+    {
+      "label": "C",
+      "text": "describe the requirements for participating in the Olympics"
+    },
+    {
+      "label": "D",
+      "text": "explain why the Olympics would benefit from having a new symbol"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

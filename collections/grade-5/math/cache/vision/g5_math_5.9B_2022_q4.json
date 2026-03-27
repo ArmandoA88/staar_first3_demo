@@ -1,0 +1,31 @@
+{
+  "stem": "A youth soccer team has eight players. The table shows the height and the weight of each of the eight players.\n\nWhich scatterplot best represents the data in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Scatterplot labeled F with points at (64, 105), (66, 115), (64.5, 112), (68.5, 124), (67, 116), (66, 110), (65, 120), (64.5, 115)"
+    },
+    {
+      "label": "H",
+      "text": "Scatterplot labeled H with incorrect point placements not matching the table data"
+    },
+    {
+      "label": "G",
+      "text": "Scatterplot labeled G with incorrect point placements not matching the table data"
+    },
+    {
+      "label": "J",
+      "text": "Scatterplot labeled J with incorrect point placements not matching the table data"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with heights: 64, 66, 64.5, 68.5, 67, 66, 65, 64.5 and weights: 105, 115, 112, 124, 116, 110, 120, 115",
+    "Four scatterplots labeled F, H, G, J with weights on the y-axis and height on the x-axis"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "The dataset matches exactly to scatterplot F among the four given options."
+}

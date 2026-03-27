@@ -1,0 +1,32 @@
+{
+  "stem": "Characteristics of mosses and apple trees are shown in the table.\n\n| Mosses | Apple Trees |\n|---|---|\n| Grow on the surface of soil or on bare rock | Trunk and branches grow upward from roots in the soil |\n| No roots; water absorbed by plants' outer surfaces | Water absorbed by roots and transported to leaves |\n| No seeds; spores spread by wind and water | Seeds spread by animals |\n| Life span of 2 to 10 years | Life span of 35 to 45 years |\n\nPart A\nWhich statement BEST describes a survival advantage apple trees could have compared to mosses in certain environments?",
+  "instruction": "This question has two parts. First, answer Part A. Then answer Part B.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Apple trees have easier access to surface water."
+    },
+    {
+      "label": "B",
+      "text": "Apples can be transported more easily by wind."
+    },
+    {
+      "label": "C",
+      "text": "Apple trees have shorter life spans."
+    },
+    {
+      "label": "D",
+      "text": "Apple seeds are eaten and moved to faraway locations by animals."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with characteristics of mosses and apple trees",
+    "Photo of moss",
+    "Photo of apple tree"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Only Part A extracted as one STAAR problem."
+}

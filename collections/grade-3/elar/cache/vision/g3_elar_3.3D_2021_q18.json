@@ -1,0 +1,30 @@
+{
+  "stem": "Which word means the opposite of curved in paragraph 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Straight"
+    },
+    {
+      "label": "G",
+      "text": "Thick"
+    },
+    {
+      "label": "H",
+      "text": "Dark"
+    },
+    {
+      "label": "J",
+      "text": "Soft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "curved"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

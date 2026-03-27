@@ -1,0 +1,30 @@
+{
+  "stem": "What message does the author express in paragraphs 10 through 13 of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Things do not always go the way you expect."
+    },
+    {
+      "label": "B",
+      "text": "You are capable of more than you know."
+    },
+    {
+      "label": "C",
+      "text": "Teams are there when you need them the most."
+    },
+    {
+      "label": "D",
+      "text": "It is best to ask for help if you are unsure."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple-choice options labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

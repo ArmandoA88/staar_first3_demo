@@ -1,0 +1,28 @@
+{
+  "stem": "A list of numbers is shown.\n\n42.5     42     42.63     41.172\n\nWhich comparison is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "41.172 > 42.63 > 42.5 > 42"
+    },
+    {
+      "label": "B",
+      "text": "42.5 > 42.63 > 41.172 > 42"
+    },
+    {
+      "label": "C",
+      "text": "41.172 > 42 > 42.5 > 42.63"
+    },
+    {
+      "label": "D",
+      "text": "42.63 > 42.5 > 42 > 41.172"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

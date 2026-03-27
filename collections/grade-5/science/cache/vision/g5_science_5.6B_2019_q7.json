@@ -1,0 +1,30 @@
+{
+  "stem": "The table lists the ingredients of five different mixtures.\n\nMixtures and Their Ingredients\n\n| Mixture | Ingredients                   |\n|---------|-------------------------------|\n| 1       | Salt, hot water, sand         |\n| 2       | Sugar, hot water, salt        |\n| 3       | Iron filings and sand          |\n| 4       | Pebbles, wood chips, soil     |\n| 5       | Powdered soap and hot water   |\n\nIn which mixtures do all the ingredients maintain their physical state?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Mixtures 3 and 4 only"
+    },
+    {
+      "label": "B",
+      "text": "Mixtures 1, 3, and 4"
+    },
+    {
+      "label": "C",
+      "text": "Mixtures 1, 2, and 5"
+    },
+    {
+      "label": "D",
+      "text": "Mixtures 2 and 5 only"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table of mixtures and ingredients with columns: Mixture (1 to 5) and Ingredients (various combinations of salt, hot water, sand, sugar, iron filings, pebbles, wood chips, soil, powdered soap)."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The thicknesses of the boards Dennis used for a construction project are listed below. These measurements are in inches.\n\n\\(\\frac{1}{4}, \\frac{3}{4}, \\frac{1}{2}, \\frac{3}{4}, \\frac{1}{8}, 1, \\frac{5}{8}, \\frac{3}{4}, \\frac{1}{2}\\)\n\nWhich dot plot represents these measurements?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Dot plot with dots at fractions on number line: 0, 1/4, 1/2, 3/4, 1, with specific dot counts matching the given fractions."
+    },
+    {
+      "label": "B",
+      "text": "Dot plot with dots at fractions on number line: 0, 1/4, 1/2, 3/4, 1, with more dots at 3/4 than other fractions."
+    },
+    {
+      "label": "C",
+      "text": "Dot plot with dots at fractions on number line: 0, 1/4, 1/2, 3/4, 1."
+    },
+    {
+      "label": "D",
+      "text": "Dot plot with dots at fractions on number line: 0, 1/4, 1/2, 3/4, 1, with 3 dots at 3/4 and other dots evenly distributed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plots labeled A, B, C, D with dots on number lines at 0, 1/4, 1/2, 3/4, and 1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Fraction 1/8 and 5/8 are not explicitly marked on the number line, posing a slight interpretation challenge for exact dot placement."
+}

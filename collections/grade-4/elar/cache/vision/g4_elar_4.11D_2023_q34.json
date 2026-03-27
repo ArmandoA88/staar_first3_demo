@@ -1,0 +1,34 @@
+{
+  "stem": "What change is needed in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change year's to years"
+    },
+    {
+      "label": "B",
+      "text": "Change later to latter"
+    },
+    {
+      "label": "C",
+      "text": "Change people to People"
+    },
+    {
+      "label": "D",
+      "text": "Change broke to breaked"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change is needed in sentence 3?",
+    "A Change year's to years",
+    "B Change later to latter",
+    "C Change people to People",
+    "D Change broke to breaked"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

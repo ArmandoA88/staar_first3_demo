@@ -1,0 +1,28 @@
+{
+  "stem": "The mother cat takes her kittens outside because \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the dog arrives"
+    },
+    {
+      "label": "G",
+      "text": "the kittens grow up"
+    },
+    {
+      "label": "H",
+      "text": "the sun comes out"
+    },
+    {
+      "label": "J",
+      "text": "winter is over"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

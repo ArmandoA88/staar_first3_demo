@@ -1,0 +1,28 @@
+{
+  "stem": "What is the main message the author conveys in this story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Appearances can often be deceiving."
+    },
+    {
+      "label": "G",
+      "text": "Everyone should understand his or her limitations."
+    },
+    {
+      "label": "H",
+      "text": "Rewards can inspire greatness."
+    },
+    {
+      "label": "J",
+      "text": "It is impossible to always please everyone."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

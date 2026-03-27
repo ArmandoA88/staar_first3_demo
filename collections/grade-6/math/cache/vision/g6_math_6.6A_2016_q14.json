@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shows the amount of money earned by an employee based on the time he spent working.\n\nWhich list shows the dependent quantities in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "10, 20, 30, 40, 50"
+    },
+    {
+      "label": "G",
+      "text": "1, 2, 3, 4, 5"
+    },
+    {
+      "label": "H",
+      "text": "11, 22, 33, 44, 55"
+    },
+    {
+      "label": "J",
+      "text": "101, 202, 303, 404, 505"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatter plot with x-axis labeled 'Time Spent Working (hours)' from 0 to 7 and y-axis labeled 'Amount Earned (dollars)' from 0 to 50, points at (1,10), (2,20), (3,30), (4,40), (5,50)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

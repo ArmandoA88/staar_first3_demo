@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle \\( PQR \\) is shown. Use the ruler provided to measure the dimensions of the triangle to the nearest \\( \\frac{1}{2} \\) inch.\n\nWhich measurement is closest to the area of triangle \\( PQR \\) in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5 in.^2"
+    },
+    {
+      "label": "B",
+      "text": "8 \\frac{3}{4} in.^2"
+    },
+    {
+      "label": "C",
+      "text": "6 \\frac{1}{2} in.^2"
+    },
+    {
+      "label": "D",
+      "text": "11 in.^2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle PQR with a right angle at R and vertices labeled P, Q, and R."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Mia\u2019s financial aid package from a college included funds from the government. After graduation Mia will start to repay these funds along with interest accrued on the money.\n\nWhat type of funds did Mia receive from the government?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Work-study"
+    },
+    {
+      "label": "B",
+      "text": "Student loan"
+    },
+    {
+      "label": "C",
+      "text": "Savings"
+    },
+    {
+      "label": "D",
+      "text": "Grant"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text",
+    "options A-D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

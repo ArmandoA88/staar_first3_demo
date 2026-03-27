@@ -1,0 +1,31 @@
+{
+  "stem": "The graphic organizer shown can be used to classify triangles.\n\nWhich triangle can be classified as scalene?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Triangle with two sides marked equal and one side marked different"
+    },
+    {
+      "label": "H",
+      "text": "Triangle with two sides marked equal and one side marked different"
+    },
+    {
+      "label": "G",
+      "text": "Right triangle with two sides marked equal and one side marked different"
+    },
+    {
+      "label": "J",
+      "text": "Triangle with two sides marked equal and one side marked different"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graphic organizer: Triangles divided into Scalene triangles and Isosceles triangles, with Isosceles further divided into Equilateral triangles",
+    "Four triangles labeled F, H, G, J with side markings indicating equal sides"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "The scalene triangle is characterized by having no equal sides. The options depict triangles with side markers; the correct choice has no two sides equal."
+}

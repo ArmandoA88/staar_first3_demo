@@ -1,0 +1,30 @@
+{
+  "stem": "The author uses figurative language in this sentence in order to \u2014",
+  "instruction": "Read this sentence from the story.\n\nThere are two other reasons my mother has not tied me to my bed and refused to let me go.",
+  "options": [
+    {
+      "label": "F",
+      "text": "emphasize how unfair Sophie\u2019s mother tends to be"
+    },
+    {
+      "label": "G",
+      "text": "show how much Sophie will be missed by her mother"
+    },
+    {
+      "label": "H",
+      "text": "establish how important safety is to Sophie\u2019s mother"
+    },
+    {
+      "label": "J",
+      "text": "exaggerate how protective Sophie\u2019s mother is of her"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There are two other reasons my mother has not tied me to my bed and refused to let me go."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

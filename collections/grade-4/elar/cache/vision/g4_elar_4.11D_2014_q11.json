@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, should be made in sentence 41?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete he"
+    },
+    {
+      "label": "B",
+      "text": "Change glansed to glanced"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after friends"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 41 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from \"A Sweet Part of Nature\" best shows a way that honeybees are similar to bats?",
+  "instruction": "Read this sentence from paragraph 2 of \"Night Flyers.\"\n\nBats also spread pollen among flowering plants.",
+  "options": [
+    {
+      "label": "F",
+      "text": "When people think of bees, they may also think of the sweet taste of the honey that bees make."
+    },
+    {
+      "label": "G",
+      "text": "The wildflowers and plants that bees feed on have been replaced with crops, which limits honeybees\u2019 access to nectar and pollen."
+    },
+    {
+      "label": "H",
+      "text": "Bees pollinate a wide variety of plants in the United States."
+    },
+    {
+      "label": "J",
+      "text": "People can grow flowers and plants that honeybees like, such as cabbage, sunflowers, and strawberries."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bats also spread pollen among flowering plants."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A model representing operations with numbers is shown.\n\nWhich expression is represented by the model?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-2(-4)"
+    },
+    {
+      "label": "B",
+      "text": "-2(4)"
+    },
+    {
+      "label": "C",
+      "text": "(-8) + 2(4)"
+    },
+    {
+      "label": "D",
+      "text": "(-8) \\u00f7 (-2)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line with marks from -10 to 6, jumps of +2 starting at -8 going right four times"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

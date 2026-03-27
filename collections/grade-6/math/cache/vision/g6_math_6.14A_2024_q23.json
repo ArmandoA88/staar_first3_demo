@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the checking account fees at two banks.\n\nChecking Account Fees\n\n| Type of Fee            | Bank Q (dollars) | Bank R (dollars) |\n|-----------------------|------------------|------------------|\n| Monthly maintenance fee | 6                | 5                |\n| Overdraft fee per check | 10               | 15               |\n\nA customer has a checking account for 5 months and writes 3 checks for amounts greater than the checking account balance. Which statement correctly compares the fees that Bank Q and Bank R will charge the customer?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The total fees charged by Bank Q will be $10 less than those charged by Bank R."
+    },
+    {
+      "label": "B",
+      "text": "The total fees charged by Bank Q will be $22 less than those charged by Bank R."
+    },
+    {
+      "label": "C",
+      "text": "The total fees charged by Bank Q will be $4 less than those charged by Bank R."
+    },
+    {
+      "label": "D",
+      "text": "The total fees charged by Bank Q will be the same as those charged by Bank R."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The table titled 'Checking Account Fees' showing two rows of fees for Bank Q and Bank R."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

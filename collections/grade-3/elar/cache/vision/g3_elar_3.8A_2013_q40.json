@@ -1,0 +1,28 @@
+{
+  "stem": "What is the main theme of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "People are often unwilling to try something new."
+    },
+    {
+      "label": "G",
+      "text": "Don't be afraid to show people who you really are."
+    },
+    {
+      "label": "H",
+      "text": "People enjoy learning about other cultures."
+    },
+    {
+      "label": "J",
+      "text": "You can teach people some things more easily than other things."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

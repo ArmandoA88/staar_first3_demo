@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation is true when y = \\frac{6}{5}?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y + \\frac{4}{5} = 2"
+    },
+    {
+      "label": "B",
+      "text": "1 \\frac{1}{6} - y = 0"
+    },
+    {
+      "label": "C",
+      "text": "0.2 + y = \\frac{8}{5}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{5}{6} y = 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = \\frac{6}{5}"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

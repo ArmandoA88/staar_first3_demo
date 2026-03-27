@@ -1,0 +1,33 @@
+{
+  "stem": "A square has a perimeter of 20 centimeters and an area of 25 square centimeters. Use the ruler provided to measure the line segments below to the nearest centimeter. Which line segment could represent a side of this square?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+    },
+    {
+      "label": "B",
+      "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+    },
+    {
+      "label": "C",
+      "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+    },
+    {
+      "label": "D",
+      "text": "\u2014\u2014\u2014\u2014\u2014\u2014"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "line segment A",
+    "line segment B",
+    "line segment C",
+    "line segment D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

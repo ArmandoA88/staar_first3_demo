@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author uses a metaphor in this sentence?",
+  "instruction": "Read this sentence from paragraph 8 of the article from Competitive Cheerleading.\n\nCheering for just a few judges\u2014that takes steel nerves.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To emphasize that cheerleaders prefer performing in front of small groups"
+    },
+    {
+      "label": "B",
+      "text": "To highlight the determination that cheerleaders need during a performance"
+    },
+    {
+      "label": "C",
+      "text": "To describe the features judges look for when cheerleaders perform"
+    },
+    {
+      "label": "D",
+      "text": "To suggest that cheerleaders are eager to receive performance feedback"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cheering for just a few judges\u2014that takes steel nerves."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

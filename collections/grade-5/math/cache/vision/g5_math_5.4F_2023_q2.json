@@ -1,0 +1,33 @@
+{
+  "stem": "Which expression does NOT have a value of 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(36 - 3) \u00d7 4"
+    },
+    {
+      "label": "B",
+      "text": "2 \u00d7 (8 + 4)"
+    },
+    {
+      "label": "C",
+      "text": "96 \u00f7 (12 - 8)"
+    },
+    {
+      "label": "D",
+      "text": "(40 + 8) \u00f7 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(36 - 3) \u00d7 4",
+    "2 \u00d7 (8 + 4)",
+    "96 \u00f7 (12 - 8)",
+    "(40 + 8) \u00f7 2"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

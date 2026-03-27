@@ -1,0 +1,33 @@
+{
+  "stem": "Which mixture is paired with the best tool for separating the materials?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Salt and pepper \tTweezers"
+    },
+    {
+      "label": "B",
+      "text": "Pieces of cork and pebbles \tBeaker of water"
+    },
+    {
+      "label": "C",
+      "text": "Safety pins and iron nails \tMagnet"
+    },
+    {
+      "label": "D",
+      "text": "Sand and iron filings \tColander"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Magnet",
+    "Tweezers",
+    "Colander",
+    "Beaker of water"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

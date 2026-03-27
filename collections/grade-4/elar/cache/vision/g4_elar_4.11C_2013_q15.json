@@ -1,0 +1,30 @@
+{
+  "stem": "What is the BEST way to revise sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The children wait excitedly for Soriano to come."
+    },
+    {
+      "label": "B",
+      "text": "The children wait excitedly. For Soriano to come."
+    },
+    {
+      "label": "C",
+      "text": "The children are excited, they wait excitedly for Soriano to come."
+    },
+    {
+      "label": "D",
+      "text": "The children who are excited wait excitedly for Soriano to come."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

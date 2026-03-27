@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best paraphrase of paragraph 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When Kevin's friends put their instruments away, Kevin falls before he is able to pack up his trumpet."
+    },
+    {
+      "label": "B",
+      "text": "After band practice, while Kevin's friends pack their instruments, Kevin accidentally dents his trumpet when he trips over a music stand."
+    },
+    {
+      "label": "C",
+      "text": "Kevin and his friends put away their instruments after band practice. Jimmy notices that Kevin's trumpet has many dents."
+    },
+    {
+      "label": "D",
+      "text": "Kevin trips while his friends are packing up their instruments after band practice. A music stand falls over and makes a loud sound."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

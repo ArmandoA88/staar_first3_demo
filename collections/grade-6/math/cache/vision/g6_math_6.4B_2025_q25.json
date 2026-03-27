@@ -1,0 +1,30 @@
+{
+  "stem": "Lianna charges an hourly rate for repairing computers. The table shows the amounts Lianna charged for different numbers of hours she worked.\n\nLianna\u2019s Earnings\n\n| Hours Worked | Amount Charged (dollars) |\n|--------------|--------------------------|\n| 3            | 67.50                    |\n| 4.5          | 101.25                   |\n| 5            | 112.50                   |\n| 9            | x                        |\n\nBased on the data in the table, what is the value of x, the amount Lianna would charge for a computer repair that takes 9 hours?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$123.75"
+    },
+    {
+      "label": "B",
+      "text": "$202.50"
+    },
+    {
+      "label": "C",
+      "text": "$146.25"
+    },
+    {
+      "label": "D",
+      "text": "$213.75"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

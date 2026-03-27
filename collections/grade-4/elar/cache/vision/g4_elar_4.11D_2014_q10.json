@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 33?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The shrimp swam after the clown fish. The coral cheering and waving its arms wildly."
+    },
+    {
+      "label": "G",
+      "text": "The shrimp swam after the clown fish, and the coral cheered, it waved its arms wildly."
+    },
+    {
+      "label": "H",
+      "text": "The shrimp swam after the clown fish, and the coral cheered. Waving its arms wildly."
+    },
+    {
+      "label": "J",
+      "text": "The shrimp swam after the clown fish. The coral cheered, waving its arms wildly."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which action is most likely happening in Section Y in the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Wind and rain compacting rock into larger pieces"
+    },
+    {
+      "label": "G",
+      "text": "Water carrying rocky material to a new location"
+    },
+    {
+      "label": "H",
+      "text": "Chemicals in water gluing sediments to each other"
+    },
+    {
+      "label": "J",
+      "text": "Pressure causing layers of sediment to form over time"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A diagram of different sections of land is shown.\n\nSection X\nSection Y\nSection Z\nLand\nSea"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

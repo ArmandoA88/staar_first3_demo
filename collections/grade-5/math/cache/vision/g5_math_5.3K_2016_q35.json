@@ -1,0 +1,30 @@
+{
+  "stem": "Marsha bought a birthday card for $2.86 and a pen for $1.57. She paid with a $20 bill. How much change should Marsha have received?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$15.57"
+    },
+    {
+      "label": "B",
+      "text": "$24.43"
+    },
+    {
+      "label": "C",
+      "text": "$17.77"
+    },
+    {
+      "label": "D",
+      "text": "$16.57"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

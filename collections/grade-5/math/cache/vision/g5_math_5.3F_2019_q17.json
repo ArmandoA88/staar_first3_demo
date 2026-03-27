@@ -1,0 +1,30 @@
+{
+  "stem": "The hundredths model is shaded to represent a division problem.\n\nWhich equation is represented by the model?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.72 \\u00F7 9 = 9"
+    },
+    {
+      "label": "B",
+      "text": "0.72 \\u00F7 9 = 0.09"
+    },
+    {
+      "label": "C",
+      "text": "0.72 \\u00F7 9 = 8"
+    },
+    {
+      "label": "D",
+      "text": "0.72 \\u00F7 9 = 0.08"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Hundredths model with 72 shaded squares out of 100 on the left, and a key showing a full 10x10 grid equals 1 whole on the right"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

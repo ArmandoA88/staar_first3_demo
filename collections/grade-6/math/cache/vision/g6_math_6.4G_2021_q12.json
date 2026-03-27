@@ -1,0 +1,31 @@
+{
+  "stem": "There is a 1 in 8 chance of a player winning a game. Which value is equivalent to the chance of the player winning a game?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\n\\frac{100}{125}\\n"
+    },
+    {
+      "label": "G",
+      "text": "\\n\\frac{125}{10}\\n"
+    },
+    {
+      "label": "H",
+      "text": "1.25"
+    },
+    {
+      "label": "J",
+      "text": "0.125"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Fraction 100 over 125",
+    "Fraction 125 over 10"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

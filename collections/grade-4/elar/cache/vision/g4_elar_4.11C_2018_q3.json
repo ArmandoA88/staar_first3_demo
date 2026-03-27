@@ -1,0 +1,28 @@
+{
+  "stem": "The word bigger is not the right word for sentence 20. Which word should replace bigger in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "larger"
+    },
+    {
+      "label": "B",
+      "text": "taller"
+    },
+    {
+      "label": "C",
+      "text": "stricter"
+    },
+    {
+      "label": "D",
+      "text": "easier"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

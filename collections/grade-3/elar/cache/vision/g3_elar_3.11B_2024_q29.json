@@ -1,0 +1,30 @@
+{
+  "stem": "Chun wants to add this sentence to her paper.\n\n_Others tell about his family._\n\nWhere should this sentence be added?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 4"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 17"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 23"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 27"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "_Others tell about his family._"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A three-step process is shown.\n\n[Deposition] \u2192 [Compaction] \u2192 [Cementation]\n\nWhich of these are most likely formed by the process shown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Glaciers"
+    },
+    {
+      "label": "G",
+      "text": "Mountains"
+    },
+    {
+      "label": "H",
+      "text": "Sand dunes"
+    },
+    {
+      "label": "J",
+      "text": "Sedimentary rocks"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Deposition \u2192 Compaction \u2192 Cementation"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

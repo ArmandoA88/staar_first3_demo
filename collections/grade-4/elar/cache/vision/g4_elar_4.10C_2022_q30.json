@@ -1,0 +1,30 @@
+{
+  "stem": "Look at this photograph from the selection.\n\nWhat is the most likely reason the author includes this photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To show that some people like music with a fast beat"
+    },
+    {
+      "label": "G",
+      "text": "To show how some people respond to music"
+    },
+    {
+      "label": "H",
+      "text": "To show that music can help people learn"
+    },
+    {
+      "label": "J",
+      "text": "To show how music causes changes in the brain"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A photograph of a young girl enjoying music with headphones, captioned 'A young girl enjoys listening to music.'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

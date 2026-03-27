@@ -1,0 +1,33 @@
+{
+  "stem": "What change needs to be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change was to were"
+    },
+    {
+      "label": "B",
+      "text": "Change always to allways"
+    },
+    {
+      "label": "C",
+      "text": "Change most slowest to slowest"
+    },
+    {
+      "label": "D",
+      "text": "Delete the comma after swimmer"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Change was to were",
+    "Change always to allways",
+    "Change most slowest to slowest",
+    "Delete the comma after swimmer"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

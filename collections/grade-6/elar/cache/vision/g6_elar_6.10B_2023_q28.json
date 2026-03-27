@@ -1,0 +1,34 @@
+{
+  "stem": "Simone has included a sentence in the fourth paragraph (sentences 8\u201311) that repeats information. Which sentence should be removed from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 8"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 9"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 10"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 11"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q28 Passage #4",
+    "A Sentence 8",
+    "B Sentence 9",
+    "C Sentence 10",
+    "D Sentence 11"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentences from the selection \u201cPublic Speaking Is Easier When a Cute Dog Is Listening\u201d best express a SIMILAR feeling?",
+  "instruction": "Use \u201cPublic Speaking Is Easier When a Cute Dog Is Listening\u201d and \u201cAssembly\u201d to answer the following question.\n\nRead lines 16\u201319 from the poem \u201cAssembly.\u201d\n\nManny nudges me\nwhen it\u2019s time for my solo.\nLegs like spaghetti,\nI worry that I might faint.",
+  "options": [
+    {
+      "label": "F",
+      "text": "He was nervous to speak in front of a large group of people. He needed help. (paragraph 2)"
+    },
+    {
+      "label": "G",
+      "text": "Dexter seems to like his volunteer job. His excitement might have something to do with the bag of treats. (paragraph 6)"
+    },
+    {
+      "label": "H",
+      "text": "It doesn\u2019t matter if students mess up. The dogs won\u2019t know if they do. (paragraph 8)"
+    },
+    {
+      "label": "J",
+      "text": "She will be speaking in front of about 4,000 people on graduation day. But, today she is only giving a speech to one audience member, and it is a dog named Noche. (paragraph 14)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Manny nudges me\nwhen it\u2019s time for my solo.\nLegs like spaghetti,\nI worry that I might faint."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

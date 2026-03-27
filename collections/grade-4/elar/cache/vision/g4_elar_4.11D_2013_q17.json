@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 3 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Coach to coach"
+    },
+    {
+      "label": "B",
+      "text": "Change bored to borred"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after practice"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 3 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "In which table are the check marks placed in all the correct boxes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\nCircle: none checked for Quadrilateral or Rhombus, checked for Polygon\nTriangle: none checked for Quadrilateral or Rhombus, checked for Polygon\nParallelogram: checked for Quadrilateral, none for Rhombus, checked for Polygon\n"
+    },
+    {
+      "label": "B",
+      "text": "\nSquare: checked for Quadrilateral, Rhombus, Polygon\nTriangle: none checked for Quadrilateral or Rhombus, checked for Polygon\nRectangle: checked for Quadrilateral, none for Rhombus, checked for Polygon\n"
+    },
+    {
+      "label": "C",
+      "text": "\nSquare: checked for Quadrilateral, none for Rhombus or Polygon\nTriangle: none checked for Quadrilateral, Rhombus, or Polygon\nRectangle: checked for Quadrilateral, none for Rhombus or Polygon\n"
+    },
+    {
+      "label": "D",
+      "text": "\nCircle: none checked for Quadrilateral or Rhombus, none for Polygon\nTriangle: none checked for Quadrilateral or Rhombus, checked for Polygon\nParallelogram: none checked for Quadrilateral or Rhombus, checked for Polygon\n"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with quadrilateral, rhombus, and polygon columns, and four rows with shapes circle, triangle, parallelogram or square, triangle, rectangle"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Wording and tables preserved exactly from image. Answer choices labeled A-D as in image."
+}

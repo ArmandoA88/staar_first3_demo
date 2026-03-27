@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Leaves to Leafes"
+    },
+    {
+      "label": "B",
+      "text": "Change brush to brushes"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after windows"
+    },
+    {
+      "label": "D",
+      "text": "Change through to threw"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 \u2013 Q9 Passage #3"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

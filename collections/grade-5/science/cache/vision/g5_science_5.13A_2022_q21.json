@@ -1,0 +1,31 @@
+{
+  "stem": "Which statement best describes why butterflies and hummingbirds both have long tongues?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Butterflies and hummingbirds both migrate."
+    },
+    {
+      "label": "B",
+      "text": "Butterflies and hummingbirds are attracted to brightly colored flowers."
+    },
+    {
+      "label": "C",
+      "text": "Butterflies and hummingbirds eat the same food."
+    },
+    {
+      "label": "D",
+      "text": "Butterflies and hummingbirds have the same predators."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photo of a butterfly with a curled tongue",
+    "Photo of a hummingbird with a long tongue"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

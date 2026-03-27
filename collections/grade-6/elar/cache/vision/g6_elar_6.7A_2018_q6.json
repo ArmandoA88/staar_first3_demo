@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence from the story best expresses its theme?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\"We have to take care of our regulars because they're part of what makes Sam's Deli a special place.\""
+    },
+    {
+      "label": "G",
+      "text": "Personally, I didn't think it would hurt for some of our regulars to try a new restaurant every now and then\u2014or at least consider ordering a different type of sandwich."
+    },
+    {
+      "label": "H",
+      "text": "\"Your dad and I appreciate your help.\""
+    },
+    {
+      "label": "J",
+      "text": "I took orders and made sandwiches while they kept the restaurant clean and visited with customers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

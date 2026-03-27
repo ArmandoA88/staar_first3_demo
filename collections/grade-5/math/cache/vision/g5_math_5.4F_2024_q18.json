@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of the expression shown?\n\n2 \u00d7 [30 \u2212 20 \u00f7 (5 \u00d7 2)]",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8"
+    },
+    {
+      "label": "B",
+      "text": "16"
+    },
+    {
+      "label": "C",
+      "text": "44"
+    },
+    {
+      "label": "D",
+      "text": "56"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2 \u00d7 [30 \u2212 20 \u00f7 (5 \u00d7 2)]"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

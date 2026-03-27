@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the article \u201cSticking To It\u201d contains a SIMILAR idea about an object being used often?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It took them several more years to perfect the design, but finally, with the help of other scientists, they had it . . . (paragraph 7)"
+    },
+    {
+      "label": "B",
+      "text": "The men chose their company as a place to test their invention. (paragraph 8)"
+    },
+    {
+      "label": "C",
+      "text": "Their impact is undeniable\u2014roughly 50 billion sticky notes are manufactured in the United States each year. (paragraph 9)"
+    },
+    {
+      "label": "D",
+      "text": "Indeed, sticky notes may be the most valuable \u201cmistake\u201d in invention history! (paragraph 9)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "My boat became a backyard fixture not on our pond but in our tree; there it sits steady, offering a tasty treasure of bird seed."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

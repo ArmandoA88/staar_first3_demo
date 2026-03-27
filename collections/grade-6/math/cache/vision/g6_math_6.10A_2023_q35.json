@@ -1,0 +1,30 @@
+{
+  "stem": "A circle has 360\u00b0 . What is the value of k, the number of degrees in each section of the clock?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "k = 12"
+    },
+    {
+      "label": "B",
+      "text": "k = 48"
+    },
+    {
+      "label": "C",
+      "text": "k = 30"
+    },
+    {
+      "label": "D",
+      "text": "k = 72"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circle with 12 equal sections each labeled k\u00b0"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

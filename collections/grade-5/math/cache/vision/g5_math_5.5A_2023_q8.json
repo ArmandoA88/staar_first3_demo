@@ -1,0 +1,31 @@
+{
+  "stem": "Which type of triangles always belongs in the shaded section of the organizer?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Scalene triangles"
+    },
+    {
+      "label": "B",
+      "text": "Right triangles"
+    },
+    {
+      "label": "C",
+      "text": "Isosceles triangles"
+    },
+    {
+      "label": "D",
+      "text": "Equilateral triangles"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This graphic organizer shows one way to classify triangles.",
+    "A circle labeled \"Triangles\" with an inner circle labeled \"Acute triangles\" and the innermost section shaded."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

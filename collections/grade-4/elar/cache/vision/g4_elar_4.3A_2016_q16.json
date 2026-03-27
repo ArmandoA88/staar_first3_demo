@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best fits the way the word keeping is used in paragraph 31?",
+  "instruction": "Read the dictionary entry for the word keep.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "keep \\\u02c8k\u0113p\\ verb\n1. to take care of\n2. to save\n3. to hold back\n4. to control"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

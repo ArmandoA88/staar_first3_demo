@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best fits the way the word plain is used in paragraph 13?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "plain \\\u02c8pl\u0101n\\ adjective\n1. without decorations\n2. pure, free of extra matter\n3. not complicated\n4. lacking both beauty and ugliness"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

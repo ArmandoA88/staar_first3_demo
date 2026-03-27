@@ -1,0 +1,30 @@
+{
+  "stem": "The numbers of games that a soccer team wins over the past several years are shown.\n12 7 18 24 13 9 27 17 20 11\nWhich stem and leaf plot represents the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Soccer Wins\nStem Leaf\n1 1 2 3 7 8\n2 0 4 7\n7 0\n9 0\n2|4 represents 24 wins."
+    },
+    {
+      "label": "B",
+      "text": "Soccer Wins\nStem Leaf\n0 7 9\n1 1 2 3 7 8\n2 0 4 7\n2|4 represents 24 wins."
+    },
+    {
+      "label": "C",
+      "text": "Soccer Wins\nStem Leaf\n0 7\n0 9\n1 1\n1 2\n1 3\n1 7\n1 8\n2 0\n2 4\n2 7\n2|4 represents 24 wins."
+    },
+    {
+      "label": "D",
+      "text": "Soccer Wins\nStem Leaf\n0 2\n1 1\n2 1\n3 1\n4 2\n7 0 1 2\n8 1\n9 0\n2|4 represents 24 wins."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "stem and leaf plots labeled A, B, C, and D with data and the note '2|4 represents 24 wins.'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

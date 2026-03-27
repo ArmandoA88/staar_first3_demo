@@ -1,0 +1,30 @@
+{
+  "stem": "A skateboarder recorded the colors of the skateboards in use at a skate park one day. The tally chart shows the frequency of each color.\n\nSkateboard Colors\n\n| Color  | Frequency   |\n|--------|-------------|\n| Blue   | ||||         |\n| Green  | |||| ||      |\n| Red    | |||| |       |\n| Silver | |||| ||      |\n\nWhich colors represent the mode of the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Red and blue"
+    },
+    {
+      "label": "B",
+      "text": "Blue and green"
+    },
+    {
+      "label": "C",
+      "text": "Silver and red"
+    },
+    {
+      "label": "D",
+      "text": "Green and silver"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns 'Color' and 'Frequency' showing tally marks for Blue: 4, Green: 6, Red: 5, Silver: 6"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

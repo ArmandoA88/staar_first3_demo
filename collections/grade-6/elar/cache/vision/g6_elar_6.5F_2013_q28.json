@@ -1,0 +1,30 @@
+{
+  "stem": "The poet organizes the poem by \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "explaining the reasons for each of the speaker\u2019s actions"
+    },
+    {
+      "label": "G",
+      "text": "listing the growing phases of the speaker\u2019s tomato plants"
+    },
+    {
+      "label": "H",
+      "text": "presenting the order of events in the speaker\u2019s experience"
+    },
+    {
+      "label": "J",
+      "text": "noting the frequent changes in the speaker\u2019s emotions"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

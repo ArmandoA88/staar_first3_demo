@@ -1,0 +1,35 @@
+{
+  "stem": "What is the correct way to write sentences 6 and 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "In the maze of charred trees, there was a tiny seedling. Which began to grow."
+    },
+    {
+      "label": "B",
+      "text": "In the maze of charred trees, there was a tiny seedling, it began to grow."
+    },
+    {
+      "label": "C",
+      "text": "In the maze of charred trees, a tiny seedling beginning to grow."
+    },
+    {
+      "label": "D",
+      "text": "In the maze of charred trees, a tiny seedling began to grow."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q23 Passage #5",
+    "23",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

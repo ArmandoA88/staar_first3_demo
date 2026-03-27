@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation can be represented by the equation y = 12x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Victoria went to school for x years. This is 12 times y, the number of years her brother went to school."
+    },
+    {
+      "label": "B",
+      "text": "Victoria spent x dollars to buy a gift for her brother. She gave the cashier y dollars and received $12 in change."
+    },
+    {
+      "label": "C",
+      "text": "Victoria has y dollars. This amount is 12 times x, the amount of money in dollars Victoria\u2019s brother has."
+    },
+    {
+      "label": "D",
+      "text": "Victoria is y years old. Her age is 12 years greater than x, her brother\u2019s age in years."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = 12x"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

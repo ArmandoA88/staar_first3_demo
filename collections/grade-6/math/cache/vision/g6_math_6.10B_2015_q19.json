@@ -1,0 +1,30 @@
+{
+  "stem": "Which inequality is true when  x = 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-25x > 100"
+    },
+    {
+      "label": "B",
+      "text": "-25x \\ge 100"
+    },
+    {
+      "label": "C",
+      "text": "25x < 100"
+    },
+    {
+      "label": "D",
+      "text": "25x \\le 100"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

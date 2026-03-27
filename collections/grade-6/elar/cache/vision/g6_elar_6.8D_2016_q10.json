@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence from the selection supports the idea that the Olympic rings symbolize each participant's home country?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A flag bearing five interlocking colored rings is lifted."
+    },
+    {
+      "label": "G",
+      "text": "The symbol's message of unity, though, remains the same."
+    },
+    {
+      "label": "H",
+      "text": "Each country competing in the games has at least one of the symbol's colors in its national flag."
+    },
+    {
+      "label": "J",
+      "text": "The rings are now shown with three on top and two underneath, whereas originally they were interlocked in a single line."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

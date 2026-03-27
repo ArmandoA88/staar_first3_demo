@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the play?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Leo is trying to sleep, but his younger brother Dexter keeps talking to him about a bus trip the boys will be taking the next day. Leo finally reads Dexter his favorite book, and Dexter falls asleep."
+    },
+    {
+      "label": "B",
+      "text": "Leo and Dexter are about to go on a bus trip without their mom or dad, and Dexter keeps talking about it. Dexter asks Leo whether he is going to miss a girl who came over to work with him on a science project for school."
+    },
+    {
+      "label": "C",
+      "text": "Dexter and Leo have a conversation about missing their mom and about how they will take a bus trip to Dallas the next day. Leo says Dexter is too old for bedtime stories but admits that he used to like the same story."
+    },
+    {
+      "label": "D",
+      "text": "Dexter, Leo\u2019s younger brother, wakes Leo up to ask whether they\u2019ve packed everything and whether they might get lost when they go on a bus trip the next day. Leo tells Dexter that nothing will go wrong."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

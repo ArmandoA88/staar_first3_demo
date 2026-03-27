@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 11 and 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "With their excellent color vision, they are able to find fruit and flowers. In the tropical forest."
+    },
+    {
+      "label": "G",
+      "text": "With their excellent color vision, they are able to find fruit and flowers in the tropical forest."
+    },
+    {
+      "label": "H",
+      "text": "With their excellent color vision, they are able to find fruit and flowers these are in the tropical forest."
+    },
+    {
+      "label": "J",
+      "text": "Sentences 11 and 12 are written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

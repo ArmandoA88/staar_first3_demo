@@ -1,0 +1,30 @@
+{
+  "stem": "What change is needed in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change started to starting"
+    },
+    {
+      "label": "B",
+      "text": "Change someone to some one"
+    },
+    {
+      "label": "C",
+      "text": "Change takken to taken"
+    },
+    {
+      "label": "D",
+      "text": "Change bite to Bite"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Question text and answer choices"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The face of a lamp shade is shaped like a trapezoid. The dimensions of the face are shown in the diagram.\n\nWhich equation can be used to find A, the area of the face of the lamp shade in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A = \\frac{1}{2} (6 + 10) y"
+    },
+    {
+      "label": "G",
+      "text": "A = \\frac{1}{2} (6 + 10) x"
+    },
+    {
+      "label": "H",
+      "text": "A = \\frac{1}{2} (6) + (10) x"
+    },
+    {
+      "label": "J",
+      "text": "A = \\frac{1}{2} (6) + (10) y"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of trapezoid with top base labeled 6 in., bottom base labeled 10 in., left and right legs labeled y in., and a height line inside labeled x in."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

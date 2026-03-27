@@ -1,0 +1,28 @@
+{
+  "stem": "The author organizes this article by \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "describing how frozen treats have changed over time"
+    },
+    {
+      "label": "B",
+      "text": "explaining how the ice-cream maker was invented"
+    },
+    {
+      "label": "C",
+      "text": "listing the steps for making ice-cream bars"
+    },
+    {
+      "label": "D",
+      "text": "comparing the different ideas people have about ice cream"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

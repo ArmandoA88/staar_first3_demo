@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the meaning of jewel as it is used in paragraph 8?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "jewel \\\u02c8j\u00fc-\u0259l\\ n 1. a decorative piece of metal worn as an accessory 2. a valuable gem 3. a person or object that is highly valued 4. a part of a watch that is made of crystal or glass"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

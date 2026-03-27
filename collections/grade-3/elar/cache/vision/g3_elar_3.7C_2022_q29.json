@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best explains why members of a book club are likely to read a whole book?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Reading helps you learn to say new words. (paragraph 2)"
+    },
+    {
+      "label": "B",
+      "text": "The desire to be prepared will encourage you to finish reading what you started. (paragraph 3)"
+    },
+    {
+      "label": "C",
+      "text": "You might already know some members in your book club. (paragraph 6)"
+    },
+    {
+      "label": "D",
+      "text": "All you need are some other members and a place to meet. (paragraph 7)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with question number 29 and multiple choice options A, B, C, D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

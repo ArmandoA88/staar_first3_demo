@@ -1,0 +1,19 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-4-elar",
+  "label": "Grade 4 ELAR",
+  "grade": 4,
+  "subject": "ELAR",
+  "status": "ready",
+  "root": "collections/grade-4/elar",
+  "source_pdf": "collections/grade-4/elar/source/4thelar.pdf",
+  "catalog": "collections/grade-4/elar/data/staar_catalog.json",
+  "reports": {
+    "coverage_csv": "collections/grade-4/elar/reports/pdf_coverage_report.csv",
+    "coverage_md": "collections/grade-4/elar/reports/pdf_coverage_report.md",
+    "coverage_summary_json": "collections/grade-4/elar/reports/pdf_coverage_summary.json"
+  },
+  "images_dir": "collections/grade-4/elar/images/extracted",
+  "stimulus_images_dir": "collections/grade-4/elar/images/stimuli",
+  "vision_cache_dir": "collections/grade-4/elar/cache/vision"
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Yvonne is using a coordinate grid for the first time. She wants to find the location of the ordered pair (3, 7) on the grid.\n\nStarting at the origin, which movement should Yvonne do first?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Move right along the x-axis to 3"
+    },
+    {
+      "label": "G",
+      "text": "Move up along the y-axis to 3"
+    },
+    {
+      "label": "H",
+      "text": "Move right along the y-axis to 7"
+    },
+    {
+      "label": "J",
+      "text": "Move up along the x-axis to 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid example with origin"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

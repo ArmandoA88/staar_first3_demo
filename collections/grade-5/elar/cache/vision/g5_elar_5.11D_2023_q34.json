@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change known to knew"
+    },
+    {
+      "label": "B",
+      "text": "Delete and"
+    },
+    {
+      "label": "C",
+      "text": "Change lies to lying"
+    },
+    {
+      "label": "D",
+      "text": "Change persons to person's"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

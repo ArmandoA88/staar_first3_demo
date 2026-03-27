@@ -1,0 +1,28 @@
+{
+  "stem": "A company spent 32% of its annual budget developing a new machine. What fraction of the company's budget was spent developing the new machine?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{1}{32}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{5}{16}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{8}{25}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{4}{125}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

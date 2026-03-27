@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the average annual salary in dollars based on the minimum level of education required for two occupations.\n\nOccupations\n\n| Occupation    | Average Annual Salary (dollars) | Level of Education Required |\n|--------------|---------------------------------|-----------------------------|\n| Accountant   | 71,040                          | Bachelor's degree           |\n| Tax preparer | 41,700                          | High school diploma         |\n\nBased on the average annual salaries in the table, how much more would an accountant earn than a tax preparer over a 30-year career?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$112,740"
+    },
+    {
+      "label": "B",
+      "text": "$3,382,200"
+    },
+    {
+      "label": "C",
+      "text": "$880,200"
+    },
+    {
+      "label": "D",
+      "text": "$1,251,000"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with Occupation, Average Annual Salary (dollars), Level of Education Required columns showing Accountant with 71,040 and Bachelor's degree, Tax preparer with 41,700 and High school diploma"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": "Table data extracted and presented as text within the stem. Answer choices preserved with labels."
+}

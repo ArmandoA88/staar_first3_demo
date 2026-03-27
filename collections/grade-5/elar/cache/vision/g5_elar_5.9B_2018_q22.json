@@ -1,0 +1,30 @@
+{
+  "stem": "The author included this quotation most likely to highlight Ma's \u2014",
+  "instruction": "Read these sentences from paragraph 2.\n\n\"My last name is Ma,\" he replies with a smile. \"Ma means horse, and Yo means friend. So am I a friendly horse?\"",
+  "options": [
+    {
+      "label": "F",
+      "text": "popularity"
+    },
+    {
+      "label": "G",
+      "text": "sense of humor"
+    },
+    {
+      "label": "H",
+      "text": "accomplishments"
+    },
+    {
+      "label": "J",
+      "text": "great talent"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"My last name is Ma,\" he replies with a smile. \"Ma means horse, and Yo means friend. So am I a friendly horse?\""
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

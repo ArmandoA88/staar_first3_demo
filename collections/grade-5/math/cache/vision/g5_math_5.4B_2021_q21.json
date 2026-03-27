@@ -1,0 +1,30 @@
+{
+  "stem": "Kendra earned a total of $625 selling jewelry.\n\n\u2022 She sold 7 necklaces for $55 each.\n\u2022 She sold 8 rings.\n\u2022 Each ring was sold for the same price.\n\nThe equation shown can be used to find r, the amount of money in dollars she earned for each ring sold.\n\nr = [625 - (7 \u00d7 55)] \u00f7 8\n\nWhat was the amount of money in dollars Kendra earned for each ring sold?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$30"
+    },
+    {
+      "label": "B",
+      "text": "$240"
+    },
+    {
+      "label": "C",
+      "text": "$45"
+    },
+    {
+      "label": "D",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "r = [625 - (7 \u00d7 55)] \u00f7 8"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

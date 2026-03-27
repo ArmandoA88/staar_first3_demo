@@ -1,0 +1,30 @@
+{
+  "stem": "Jake needs a better transition between the fourth paragraph (sentences 14\u201318) and the fifth paragraph (sentences 19\u201322). Which sentence should replace sentence 19 to help with this transition?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Hailey continued to paint and find other ways to raise money for her sister."
+    },
+    {
+      "label": "B",
+      "text": "Hailey didn\u2019t want help selling her paintings."
+    },
+    {
+      "label": "C",
+      "text": "Hailey knew her friends would want to help raise money for Livy, too."
+    },
+    {
+      "label": "D",
+      "text": "Later on, Hailey wanted to try selling lemonade instead."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "The author of the poem \u201cWisdom in Wishes\u201d uses first-person point of view to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "give the speaker an opportunity to explain some favorite hobbies"
+    },
+    {
+      "label": "B",
+      "text": "demonstrate how the speaker thinks differently from others"
+    },
+    {
+      "label": "C",
+      "text": "focus more on the speaker\u2019s problem of too much time indoors"
+    },
+    {
+      "label": "D",
+      "text": "reveal the speaker\u2019s feelings about playing outdoors again"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A \u24b6 give the speaker an opportunity to explain some favorite hobbies",
+    "B \u24b7 demonstrate how the speaker thinks differently from others",
+    "C \u24b8 focus more on the speaker\u2019s problem of too much time indoors",
+    "D \u24b9 reveal the speaker\u2019s feelings about playing outdoors again"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

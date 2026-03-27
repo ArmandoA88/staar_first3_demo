@@ -1,0 +1,30 @@
+{
+  "stem": "Duane packed some books in a box shaped like a rectangular prism. The volume of the box is 168 cubic inches. Which model could represent Duane's box?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10 in. \u00d7 16 in. \u00d7 8 in."
+    },
+    {
+      "label": "B",
+      "text": "4 in. \u00d7 7 in. \u00d7 10 in."
+    },
+    {
+      "label": "C",
+      "text": "6 in. \u00d7 6 in. \u00d7 14 in."
+    },
+    {
+      "label": "D",
+      "text": "3 in. \u00d7 7 in. \u00d7 8 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four rectangular prisms labeled A, B, C, and D with their respective dimensions as shown in the image."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "An elementary school had 90 boxes of glue sticks. Each box had 36 glue sticks. Teachers put all of the glue sticks into bags to give to the students. They put 6 glue sticks into each bag.\n\nWhich equation can be used to find b, the number of bags the teachers can fill with these glue sticks?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "90 \\times 36 \\div 6 = b"
+    },
+    {
+      "label": "B",
+      "text": "90 \\div 6 + 36 = b"
+    },
+    {
+      "label": "C",
+      "text": "36 \\times 90 + 6 = b"
+    },
+    {
+      "label": "D",
+      "text": "36 \\times 6 \\times 90 = b"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q3",
+    "3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

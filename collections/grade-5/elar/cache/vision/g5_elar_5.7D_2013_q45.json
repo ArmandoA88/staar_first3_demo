@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Health Museum is located in Houston, Texas. It has several exhibits that help visitors learn about the human body. The museum\u2019s model of the inside of a human body is large enough for visitors to walk through."
+    },
+    {
+      "label": "B",
+      "text": "The Health Museum has exhibits that help people learn more about the human body. Visitors can learn about diet and exercise and see how the physical traits of other visitors differ from their own."
+    },
+    {
+      "label": "C",
+      "text": "People enjoy the Health Museum in Houston, Texas. The museum has exhibits that let visitors experience how the human body works. Some exhibits teach the importance of diet and exercise, while others teach about inherited traits. The museum\u2019s theater shows movies about a variety of science topics."
+    },
+    {
+      "label": "D",
+      "text": "People are amazed when they visit the Health Museum in Houston, Texas. One exhibit allows visitors to walk through a model of a human body. In this exhibit visitors can touch models of organs and bones that are found in the human body. Visitors can even ride a bicycle with a skeleton."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

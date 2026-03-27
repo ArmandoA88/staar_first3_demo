@@ -1,0 +1,28 @@
+{
+  "stem": "There were 681 books sold at a used book sale. Each book was sold for $0.50.\n\nWhat was the total amount of money collected from the sale of these books?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$300.50"
+    },
+    {
+      "label": "B",
+      "text": "$340.50"
+    },
+    {
+      "label": "C",
+      "text": "$30.05"
+    },
+    {
+      "label": "D",
+      "text": "$34.05"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

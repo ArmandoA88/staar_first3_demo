@@ -1,0 +1,30 @@
+{
+  "stem": "Sentence 8 is written incorrectly. Select the response that corrects this sentence.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Behavior is a person\u2019s behavior around others."
+    },
+    {
+      "label": null,
+      "text": "Behaviors is a person\u2019s behavior around others."
+    },
+    {
+      "label": null,
+      "text": "Behaviors are a person\u2019s behavior around others."
+    },
+    {
+      "label": null,
+      "text": "Behavior are a person\u2019s behavior around others."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dropdown"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

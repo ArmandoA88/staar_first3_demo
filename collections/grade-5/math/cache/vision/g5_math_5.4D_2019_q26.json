@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows x-values and y-values for a number pattern.\n\n| x  | y  |\n|----|----|\n| 12 | 18 |\n| 24 | 30 |\n| 48 | 54 |\n| 60 | 66 |\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The pattern is multiplicative, because the y-values are 1.5 times the corresponding x-values."
+    },
+    {
+      "label": "G",
+      "text": "The pattern is multiplicative, because the y-values are 6 more than the corresponding x-values."
+    },
+    {
+      "label": "H",
+      "text": "The pattern is additive, because the y-values are 1.5 times the corresponding x-values."
+    },
+    {
+      "label": "J",
+      "text": "The pattern is additive, because the y-values are 6 more than the corresponding x-values."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns x and y showing values (12,18), (24,30), (48,54), (60,66)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which shape belongs in Group 1 but NOT in Group 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Square"
+    },
+    {
+      "label": "B",
+      "text": "Isosceles triangle"
+    },
+    {
+      "label": "C",
+      "text": "Trapezoid"
+    },
+    {
+      "label": "D",
+      "text": "Scalene triangle"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with two circles labeled Group 1 and Group 2. Group 1 circle says: Contains at least one pair of congruent sides. Group 2 circle says: Contains at least one pair of parallel sides."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

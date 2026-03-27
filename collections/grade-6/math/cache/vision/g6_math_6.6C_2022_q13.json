@@ -1,0 +1,34 @@
+{
+  "stem": "Which graph best represents the relationship between x and y in the equation y = 3.5x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with a steep line starting at origin and rising to about (1, 3.5)"
+    },
+    {
+      "label": "B",
+      "text": "Horizontal line at y = 3"
+    },
+    {
+      "label": "C",
+      "text": "Line starting at about (0, 3.5) and rising gently"
+    },
+    {
+      "label": "D",
+      "text": "Line starting at origin and rising gently to about (4, 1.5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled A, B, C, and D. Each graph has x and y axes labeled from 0 to 4.",
+    "Graph A shows a steep line from (0,0) to about (1, 3.5).",
+    "Graph B shows a horizontal line at y=3.",
+    "Graph C shows a sloped line starting near (0,3.5) going up.",
+    "Graph D shows a gentle sloping line from (0,0) to about (4,1.5)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

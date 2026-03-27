@@ -1,0 +1,30 @@
+{
+  "stem": "What is the **BEST** way to combine sentences 13 and 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Due to the fact that we are in school most days, we would probably need to volunteer on Saturday mornings."
+    },
+    {
+      "label": "B",
+      "text": "We are in school most days, so Saturday is when we would probably need mornings to volunteer."
+    },
+    {
+      "label": "C",
+      "text": "While we are in school most days, Saturday mornings is when we are not in school and would probably need to volunteer."
+    },
+    {
+      "label": "D",
+      "text": "We are in school most days, which probably need to volunteer on Saturday mornings."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the BEST way to combine sentences 13 and 14?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

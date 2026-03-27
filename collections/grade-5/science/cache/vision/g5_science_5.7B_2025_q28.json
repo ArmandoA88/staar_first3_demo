@@ -1,0 +1,30 @@
+{
+  "stem": "Students design an investigation to test the strength of different magnets. They use three magnets and steel paper clips. Each magnet is placed at a different distance from the steel paper clips. The table they will use to record their data is shown.\n\n| Magnet | Distance from Steel Paper Clips (centimeters) | Number of Steel Paper Clips Attracted |\n|--------|----------------------------------------------|---------------------------------------|\n| 1      | 15                                           |                                       |\n| 2      | 30                                           |                                       |\n| 3      | 45                                           |                                       |\n\nWhat should the students do to improve the investigation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Use different steel objects for each magnet"
+    },
+    {
+      "label": "B",
+      "text": "Place the paper clips farther away from each magnet"
+    },
+    {
+      "label": "C",
+      "text": "Place each magnet at the same distance from the paper clips"
+    },
+    {
+      "label": "D",
+      "text": "Repeat the investigation using plastic paper clips"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with three rows listing Magnet numbers 1, 2, 3; distances 15, 30, and 45 centimeters; and empty cells for Number of Steel Paper Clips Attracted"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

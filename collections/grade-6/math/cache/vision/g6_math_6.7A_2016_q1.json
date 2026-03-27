@@ -1,0 +1,30 @@
+{
+  "stem": "Frank had $65. He spent $2 per day for 7 days. Then he was given $9 to divide equally between himself and his 2 brothers. The following expression can be used to find the amount of money Frank had after that.\n\n65 - 2 \u00b7 7 + 9 \u00f7 3\n\nBased on this expression, what is the amount of money Frank had remaining?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$150"
+    },
+    {
+      "label": "B",
+      "text": "$54"
+    },
+    {
+      "label": "C",
+      "text": "$20"
+    },
+    {
+      "label": "D",
+      "text": "$444"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "65 - 2 \u00b7 7 + 9 \u00f7 3"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

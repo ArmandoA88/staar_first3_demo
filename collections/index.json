@@ -1,0 +1,173 @@
+{
+  "schema_version": "collection_index_v1",
+  "default_collection_id": "grade-3-math",
+  "collections": [
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-3-elar",
+      "label": "Grade 3 ELAR",
+      "grade": 3,
+      "subject": "ELAR",
+      "status": "ready",
+      "root": "collections/grade-3/elar",
+      "source_pdf": "collections/grade-3/elar/source/elar 3rd grade.pdf",
+      "catalog": "collections/grade-3/elar/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-3/elar/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-3/elar/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-3/elar/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-3/elar/images/extracted",
+      "stimulus_images_dir": "collections/grade-3/elar/images/stimuli",
+      "vision_cache_dir": "collections/grade-3/elar/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-3-math",
+      "label": "Grade 3 Math",
+      "grade": 3,
+      "subject": "Math",
+      "status": "ready",
+      "root": "collections/grade-3/math",
+      "source_pdf": "collections/grade-3/math/source/ALL STAAR QUESTIONS.pdf",
+      "catalog": "collections/grade-3/math/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-3/math/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-3/math/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-3/math/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-3/math/images/extracted",
+      "stimulus_images_dir": "collections/grade-3/math/images/stimuli",
+      "vision_cache_dir": "collections/grade-3/math/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-4-elar",
+      "label": "Grade 4 ELAR",
+      "grade": 4,
+      "subject": "ELAR",
+      "status": "ready",
+      "root": "collections/grade-4/elar",
+      "source_pdf": "collections/grade-4/elar/source/4thelar.pdf",
+      "catalog": "collections/grade-4/elar/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-4/elar/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-4/elar/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-4/elar/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-4/elar/images/extracted",
+      "stimulus_images_dir": "collections/grade-4/elar/images/stimuli",
+      "vision_cache_dir": "collections/grade-4/elar/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-4-math",
+      "label": "Grade 4 Math",
+      "grade": 4,
+      "subject": "Math",
+      "status": "source_only",
+      "root": "collections/grade-4/math",
+      "source_pdf": "collections/grade-4/math/source/4thmath.pdf",
+      "catalog": null,
+      "reports": {},
+      "images_dir": "collections/grade-4/math/images/extracted",
+      "stimulus_images_dir": "collections/grade-4/math/images/stimuli",
+      "vision_cache_dir": "collections/grade-4/math/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-5-elar",
+      "label": "Grade 5 ELAR",
+      "grade": 5,
+      "subject": "ELAR",
+      "status": "ready",
+      "root": "collections/grade-5/elar",
+      "source_pdf": "collections/grade-5/elar/source/5thelar.pdf",
+      "catalog": "collections/grade-5/elar/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-5/elar/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-5/elar/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-5/elar/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-5/elar/images/extracted",
+      "stimulus_images_dir": "collections/grade-5/elar/images/stimuli",
+      "vision_cache_dir": "collections/grade-5/elar/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-5-math",
+      "label": "Grade 5 Math",
+      "grade": 5,
+      "subject": "Math",
+      "status": "ready",
+      "root": "collections/grade-5/math",
+      "source_pdf": "collections/grade-5/math/source/5thmath.pdf",
+      "catalog": "collections/grade-5/math/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-5/math/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-5/math/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-5/math/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-5/math/images/extracted",
+      "stimulus_images_dir": "collections/grade-5/math/images/stimuli",
+      "vision_cache_dir": "collections/grade-5/math/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-5-science",
+      "label": "Grade 5 Science",
+      "grade": 5,
+      "subject": "Science",
+      "status": "ready",
+      "root": "collections/grade-5/science",
+      "source_pdf": "collections/grade-5/science/source/5thscience.pdf",
+      "catalog": "collections/grade-5/science/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-5/science/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-5/science/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-5/science/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-5/science/images/extracted",
+      "stimulus_images_dir": "collections/grade-5/science/images/stimuli",
+      "vision_cache_dir": "collections/grade-5/science/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-6-elar",
+      "label": "Grade 6 ELAR",
+      "grade": 6,
+      "subject": "ELAR",
+      "status": "ready",
+      "root": "collections/grade-6/elar",
+      "source_pdf": "collections/grade-6/elar/source/6thelar.pdf",
+      "catalog": "collections/grade-6/elar/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-6/elar/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-6/elar/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-6/elar/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-6/elar/images/extracted",
+      "stimulus_images_dir": "collections/grade-6/elar/images/stimuli",
+      "vision_cache_dir": "collections/grade-6/elar/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-6-math",
+      "label": "Grade 6 Math",
+      "grade": 6,
+      "subject": "Math",
+      "status": "ready",
+      "root": "collections/grade-6/math",
+      "source_pdf": "collections/grade-6/math/source/6thmath.pdf",
+      "catalog": "collections/grade-6/math/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-6/math/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-6/math/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-6/math/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-6/math/images/extracted",
+      "stimulus_images_dir": "collections/grade-6/math/images/stimuli",
+      "vision_cache_dir": "collections/grade-6/math/cache/vision"
+    }
+  ]
+}

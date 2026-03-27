@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence should replace sentence 33 to help Hana bring her story to a more effective closing?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Leilani had once grown a pineapple from a top, so she offered some tips to her mom and me."
+    },
+    {
+      "label": "B",
+      "text": "It took us a little while to decide on the perfect place to plant the pineapple top."
+    },
+    {
+      "label": "C",
+      "text": "I knew I was going to have to be patient, but my mouth was already beginning to water."
+    },
+    {
+      "label": "D",
+      "text": "I was certain that Leilani and I were going to be good friends for a long, long time."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "multiple choice with four options labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

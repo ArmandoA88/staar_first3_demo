@@ -1,0 +1,30 @@
+{
+  "stem": "The author uses figurative language in this sentence to show that \u2014",
+  "instruction": "Read this sentence from paragraph 22.\n\nThe train to Camp Rituhbukkee was leaving the station, and my mom wasn't about to lie across the tracks to stop it.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Charlie Joe does not want to go to a camp so far away from home"
+    },
+    {
+      "label": "G",
+      "text": "Charlie Joe's mom will not save him from having to go to camp"
+    },
+    {
+      "label": "H",
+      "text": "Charlie Joe's mom realizes that the camp may be dangerous"
+    },
+    {
+      "label": "J",
+      "text": "Charlie Joe does not want to act against his mother\u2019s wishes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The train to Camp Rituhbukkee was leaving the station, and my mom wasn't about to lie across the tracks to stop it."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "The item is a multiple choice question focused on figurative language interpretation."
+}

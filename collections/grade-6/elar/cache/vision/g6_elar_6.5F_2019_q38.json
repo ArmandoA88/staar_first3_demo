@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author wrote this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To give the history of pilots who have been honored for their contributions to air travel"
+    },
+    {
+      "label": "G",
+      "text": "To explain how businesses have impacted the production of planes throughout history"
+    },
+    {
+      "label": "H",
+      "text": "To provide information about how the design of planes has changed throughout history"
+    },
+    {
+      "label": "J",
+      "text": "To relate the details of an important event in the history of air travel"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

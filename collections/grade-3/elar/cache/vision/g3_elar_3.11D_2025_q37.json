@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change **We** to **They**"
+    },
+    {
+      "label": "B",
+      "text": "Change *study* to **Study**"
+    },
+    {
+      "label": "C",
+      "text": "Change *eating* to *eatting*"
+    },
+    {
+      "label": "D",
+      "text": "Change *habit* to **habits**"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 10?",
+    "\u24b6 Change **We** to **They**",
+    "\u24b7 Change *study* to **Study**",
+    "\u24b8 Change *eating* to *eatting*",
+    "\u24b9 Change *habit* to **habits**"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

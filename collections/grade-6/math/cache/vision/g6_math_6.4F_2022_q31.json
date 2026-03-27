@@ -1,0 +1,30 @@
+{
+  "stem": "Four points are plotted on the number line.\n\nWhich point best represents 33 \\frac{1}{3} % of the distance between 0 and 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Point W"
+    },
+    {
+      "label": "B",
+      "text": "Point X"
+    },
+    {
+      "label": "C",
+      "text": "Point Y"
+    },
+    {
+      "label": "D",
+      "text": "Point Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line with points labeled W, X, Y, Z between 0 and 1"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

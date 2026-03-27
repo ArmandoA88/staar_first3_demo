@@ -1,0 +1,38 @@
+{
+  "stem": "Which two expressions are equivalent?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "\\left(5 \\cdot \\frac{1}{2} p \\right) - (2 \\cdot 7)"
+    },
+    {
+      "label": null,
+      "text": "\\left( \\frac{1}{2} p \\cdot 5 \\cdot 7 \\right) - 2"
+    },
+    {
+      "label": null,
+      "text": "5 \\left( \\frac{1}{2} p - 2 \\right) \\cdot 7"
+    },
+    {
+      "label": null,
+      "text": "\\left( \\frac{1}{2} p \\cdot 5 \\right) - (7 \\cdot 2)"
+    },
+    {
+      "label": null,
+      "text": "\\left( \\frac{1}{2} p \\cdot 5 - 2 \\right) \\cdot 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\left(5 \\cdot \\frac{1}{2} p \\right) - (2 \\cdot 7)",
+    "\\left( \\frac{1}{2} p \\cdot 5 \\cdot 7 \\right) - 2",
+    "5 \\left( \\frac{1}{2} p - 2 \\right) \\cdot 7",
+    "\\left( \\frac{1}{2} p \\cdot 5 \\right) - (7 \\cdot 2)",
+    "\\left( \\frac{1}{2} p \\cdot 5 - 2 \\right) \\cdot 7"
+  ],
+  "item_type_inferred": "Multiple Choice (Multiple Select)",
+  "confidence": 1,
+  "notes": null
+}

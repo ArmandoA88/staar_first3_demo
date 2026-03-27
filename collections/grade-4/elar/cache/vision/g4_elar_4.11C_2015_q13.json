@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to combine sentences 6 and 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Ghetti learned how to carve his friends' names into pencils, which he would then give to his friends as gifts."
+    },
+    {
+      "label": "B",
+      "text": "Ghetti learned how to carve his friends' names into pencils, he would then give the pencils to his friends as gifts."
+    },
+    {
+      "label": "C",
+      "text": "Ghetti learned how to carve his friends' names into pencils after he would give the pencils to his friends as gifts."
+    },
+    {
+      "label": "D",
+      "text": "Ghetti learned how to carve his friends' names into pencils that would then give the pencils to his friends as gifts."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

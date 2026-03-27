@@ -1,0 +1,30 @@
+{
+  "stem": "What do the details in paragraph 6 explain about Barkitecture events?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The events are intended for small dogs."
+    },
+    {
+      "label": "B",
+      "text": "People can build houses for their dogs at the events."
+    },
+    {
+      "label": "C",
+      "text": "The events offer more than interesting doghouses."
+    },
+    {
+      "label": "D",
+      "text": "Leaders of pet organizations plan the Barkitecture events."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

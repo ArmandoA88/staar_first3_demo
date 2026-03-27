@@ -1,0 +1,28 @@
+{
+  "stem": "The meaning of sentence 12 is unclear. What change can Claire make to improve the clarity of this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change He to Another counselor"
+    },
+    {
+      "label": "G",
+      "text": "Change cliff to spot"
+    },
+    {
+      "label": "H",
+      "text": "Change him to them"
+    },
+    {
+      "label": "J",
+      "text": "Change the rope to it"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

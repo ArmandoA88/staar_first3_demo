@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 4.\n\nInstead of paying Tama with money, the company pays her with cat food.\n\nThis sentence helps the reader know that the train company \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "treats Tama well"
+    },
+    {
+      "label": "B",
+      "text": "has too much food"
+    },
+    {
+      "label": "C",
+      "text": "does not think Tama looks healthy"
+    },
+    {
+      "label": "D",
+      "text": "wants to find a new home for Tama"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Instead of paying Tama with money, the company pays her with cat food."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

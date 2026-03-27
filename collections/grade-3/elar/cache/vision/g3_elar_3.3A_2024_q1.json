@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the way the word favor is used in line 6?",
+  "instruction": "Read the dictionary entry for the word favor.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "favor \\\u02c8f\u0101-v\u0259r\\ noun\n1. popularity or support\n2. special permission\n3. a kind act\n4. a special gift"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

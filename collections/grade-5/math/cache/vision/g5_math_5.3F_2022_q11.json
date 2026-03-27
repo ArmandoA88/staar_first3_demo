@@ -1,0 +1,30 @@
+{
+  "stem": "Which model represents 0.6 \u00f7 2 = 0.30?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Image of a 10x10 grid with 6 squares shaded in a vertical strip) "
+    },
+    {
+      "label": "B",
+      "text": "(Image of a 10x10 grid with 30 squares shaded on the left half) "
+    },
+    {
+      "label": "C",
+      "text": "(Image of a 10x10 grid with 60 squares shaded on the left half) "
+    },
+    {
+      "label": "D",
+      "text": "(Image of two adjacent 10x10 grids, each with 30 squares shaded on the left half) "
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "10x10 grids with varying shaded squares representing fractions"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

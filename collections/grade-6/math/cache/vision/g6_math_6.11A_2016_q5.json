@@ -1,0 +1,30 @@
+{
+  "stem": "Four points are graphed on the coordinate grid.",
+  "instruction": "Which ordered pair does not appear to be represented by one of these points?",
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\left(\\frac{5}{2},-3\\right)\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\((-1,-1\\frac{1}{2})\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\left(\\frac{3}{2},2\\right)\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\left(-4,\\frac{1}{2}\\right)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with points at approximately (-4,1), (-1,-1), (2,2), and (3,-3)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to w - \\frac{1}{4}(4)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "w - 0"
+    },
+    {
+      "label": "G",
+      "text": "w - 1"
+    },
+    {
+      "label": "H",
+      "text": "-\\frac{1}{4}w(4)"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{3}{4}w(4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "w - \\frac{1}{4}(4)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A student pours 14 grams of sugar into a jar filled with 500 milliliters of water. The student thoroughly stirs the sugar and water to make a solution.\n\nWhich change most likely occurs to the sugar when it is added to the water?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The sugar breaks down to form a new substance in the solution."
+    },
+    {
+      "label": "G",
+      "text": "The sugar changes water into a new substance in the solution."
+    },
+    {
+      "label": "H",
+      "text": "The sugar floats on the surface of the water in the solution."
+    },
+    {
+      "label": "J",
+      "text": "The sugar completely dissolves in the solution."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

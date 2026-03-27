@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "However, we put food in my cat\u2019s bowl, and she eats. Whenever she\u2019s hungry."
+    },
+    {
+      "label": "B",
+      "text": "However, when we put food in my cat\u2019s bowl. She eats whenever she\u2019s hungry."
+    },
+    {
+      "label": "C",
+      "text": "However, we put food in my cat\u2019s bowl. And eats whenever she\u2019s hungry."
+    },
+    {
+      "label": "D",
+      "text": "However, we put food in my cat\u2019s bowl, and she eats whenever she\u2019s hungry."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

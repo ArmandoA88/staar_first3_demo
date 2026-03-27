@@ -1,0 +1,28 @@
+{
+  "stem": "At a store, each avocado costs $0.65. Which inequality represents the number of avocados, \\( n \\), a customer can buy with $10.00?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.65n \\geq 10"
+    },
+    {
+      "label": "B",
+      "text": "10n \\leq 0.65"
+    },
+    {
+      "label": "C",
+      "text": "0.65n \\leq 10"
+    },
+    {
+      "label": "D",
+      "text": "10n \\geq 0.65"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

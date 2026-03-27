@@ -1,0 +1,31 @@
+{
+  "stem": "Why does the playwright include a narrator in this play?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To make the main character's conflict seem more suspenseful"
+    },
+    {
+      "label": "B",
+      "text": "To help the audience understand what the characters are thinking"
+    },
+    {
+      "label": "C",
+      "text": "To assist the main characters in figuring out how to solve a problem"
+    },
+    {
+      "label": "D",
+      "text": "To give the audience details about the characters' actions in the scene"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q15 Passage #2",
+    "15"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

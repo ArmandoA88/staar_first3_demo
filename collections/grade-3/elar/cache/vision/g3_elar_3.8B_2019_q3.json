@@ -1,0 +1,30 @@
+{
+  "stem": "This sentence helps the reader know that Frank feels \u2014",
+  "instruction": "Read this sentence from paragraph 32.\n\nHe would no-way no-how be taking home a ribbon.",
+  "options": [
+    {
+      "label": "A",
+      "text": "afraid"
+    },
+    {
+      "label": "B",
+      "text": "confused"
+    },
+    {
+      "label": "C",
+      "text": "tired"
+    },
+    {
+      "label": "D",
+      "text": "hopeless"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He would no-way no-how be taking home a ribbon."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

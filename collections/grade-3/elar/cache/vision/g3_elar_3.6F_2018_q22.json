@@ -1,0 +1,30 @@
+{
+  "stem": "The poet includes this line to emphasize that the mother cat \u2014",
+  "instruction": "Read line 21 from the poem.",
+  "options": [
+    {
+      "label": "F",
+      "text": "knows it will snow again soon"
+    },
+    {
+      "label": "G",
+      "text": "has had a bad experience in the winter"
+    },
+    {
+      "label": "H",
+      "text": "wants her kittens to explore new things"
+    },
+    {
+      "label": "J",
+      "text": "thinks her kittens will like the snow"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "to see what sun is all about"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "The stem is based on the context of the line referenced in the instruction."
+}

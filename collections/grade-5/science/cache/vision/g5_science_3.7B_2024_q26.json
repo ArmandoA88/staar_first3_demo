@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement correctly describes the forces that affect the student\u2019s position and motion?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The force of gravity causes the student to speed up from Position A to Position B."
+    },
+    {
+      "label": "B",
+      "text": "The force of gravity causes the student to speed up from Position B to Position C."
+    },
+    {
+      "label": "C",
+      "text": "The force of the student\u2019s legs moving causes the motion to stop at Position B."
+    },
+    {
+      "label": "D",
+      "text": "The force of the student pulling on the swing causes the motion to stop at Position A."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram of a student on a swing with three positions labeled Position A, Position B, Position C"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "The problem is from 2024, question 26, standard 3.7(B). The diagram labels are preserved as Position A, Position B, Position C."
+}

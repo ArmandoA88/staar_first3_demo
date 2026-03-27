@@ -1,0 +1,35 @@
+{
+  "stem": "What is the correct way to write sentences 3 and 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A democracy is a form of government in which the people have a voice in the way the government runs."
+    },
+    {
+      "label": "B",
+      "text": "A democracy is a form of government, the people have a voice in the way the government runs."
+    },
+    {
+      "label": "C",
+      "text": "A democracy is a form of government. In which the people have a voice in the way the government runs."
+    },
+    {
+      "label": "D",
+      "text": "A democracy being a form of government in which the people have a voice in the way the government runs."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: 2023 - Q37 Passage #6",
+    "What is the correct way to write sentences 3 and 4?",
+    "A. A democracy is a form of government in which the people have a voice in the way the government runs.",
+    "B. A democracy is a form of government, the people have a voice in the way the government runs.",
+    "C. A democracy is a form of government. In which the people have a voice in the way the government runs.",
+    "D. A democracy being a form of government in which the people have a voice in the way the government runs."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

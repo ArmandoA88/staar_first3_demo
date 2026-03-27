@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Luke Pearce was searching for a fish in a stream in New South Wales when he saw an unusual frog. He called Dr. David Hunter, an expert on threatened species. After Pearce took Hunter to the location where he first saw the frog, Hunter confirmed that it was from a colony of yellow-spotted bell frogs."
+    },
+    {
+      "label": "G",
+      "text": "Originally thought to be extinct, a yellow-spotted bell frog was seen by Luke Pearce. A year later Pearce and Dr. David Hunter, an expert on threatened species, discovered a small colony of the frogs. This species\u2019 population was drastically reduced to near extinction by a harmful fungus."
+    },
+    {
+      "label": "H",
+      "text": "Luke Pearce and Dr. David Hunter discovered a colony of yellow-spotted bell frogs. A few of the frogs were taken to the Taronga Zoo for breeding. Once the frog population has been replenished, groups of the yellow-spotted bell frogs will be released in different locations in the wild."
+    },
+    {
+      "label": "J",
+      "text": "While walking along a stream, Luke Pearce noticed a frog that was thought to be extinct. He contacted Dr. David Hunter, an expert on threatened species. The two men returned to the site and discovered a small colony of yellow-spotted bell frogs. Efforts are now being made to save the species from extinction."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

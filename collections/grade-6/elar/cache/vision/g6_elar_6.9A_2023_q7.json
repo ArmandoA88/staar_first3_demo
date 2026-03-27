@@ -1,0 +1,28 @@
+{
+  "stem": "What is the primary message the author conveys in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It is important to spend quality time with family and friends."
+    },
+    {
+      "label": "B",
+      "text": "It is important to relax and give yourself time to think."
+    },
+    {
+      "label": "C",
+      "text": "People should find ways to bring nature into their everyday life."
+    },
+    {
+      "label": "D",
+      "text": "People should try to discover new experiences to enjoy."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

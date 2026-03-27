@@ -1,0 +1,28 @@
+{
+  "stem": "Margaret opened a new case of lightbulbs.\n\n\u2022 The case contained 3 boxes of lightbulbs with 8 lightbulbs in each box.\n\u2022 Margaret threw 2 of these lightbulbs in the trash because they were damaged.\n\u2022 Then she took 7 of the lightbulbs out of the case.\n\nWhich expression can be used to show that there are 15 lightbulbs still in the case?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3 \u00d7 8 \u2212 2 + 7"
+    },
+    {
+      "label": "G",
+      "text": "3(8) \u2212 2(7)"
+    },
+    {
+      "label": "H",
+      "text": "3 \u00d7 8 \u2212 (2 + 7)"
+    },
+    {
+      "label": "J",
+      "text": "3 + 8 \u2212 2 + 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The ordered pairs for the points on the coordinate plane satisfy the equation y = x + 3.\n\nWhich of these tables shows other points that satisfy the equation y = x + 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x 4 7 10 13\ny 6 9 12 15"
+    },
+    {
+      "label": "B",
+      "text": "x 12 15 18 21\ny 9 12 15 18"
+    },
+    {
+      "label": "C",
+      "text": "x 9 12 15 18\ny 12 15 18 21"
+    },
+    {
+      "label": "D",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate plane with points at (1,4), (2,5), and (3,6)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

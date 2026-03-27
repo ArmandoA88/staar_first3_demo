@@ -1,0 +1,28 @@
+{
+  "stem": "A weather station reported 0.05 inch of rain. Which measurement is equivalent to 0.05 inch?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{20} \\) in."
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{2} \\) in."
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{5} \\) in."
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{1}{50} \\) in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

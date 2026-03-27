@@ -1,0 +1,30 @@
+{
+  "stem": "Tommy bought 3 cups of blueberries. He will eat \\( \\frac{1}{2} \\) cup of blueberries each day.\n\nHow many days can Tommy eat the blueberries before they are all gone?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "6"
+    },
+    {
+      "label": "G",
+      "text": "2"
+    },
+    {
+      "label": "H",
+      "text": "5"
+    },
+    {
+      "label": "J",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{1}{2} \\)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

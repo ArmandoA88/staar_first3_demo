@@ -1,0 +1,30 @@
+{
+  "stem": "The first-person point of view helps the reader understand \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "that Charlie Joe's dad is serious about sending him to camp"
+    },
+    {
+      "label": "G",
+      "text": "why Charlie Joe's mom will not help him"
+    },
+    {
+      "label": "H",
+      "text": "the way Ms. Ferrell views Charlie Joe"
+    },
+    {
+      "label": "J",
+      "text": "Charlie Joe's reasons for not wanting to go to the summer camp"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows parts of a process that occurred over time.\n\nProcess Over Time\n\nWhich process does this diagram most likely represent?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The erosion of a coastline"
+    },
+    {
+      "label": "B",
+      "text": "The deposition of sediments"
+    },
+    {
+      "label": "C",
+      "text": "The weathering of a mountain"
+    },
+    {
+      "label": "D",
+      "text": "The formation of a sea"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four-panel diagram showing the changes of land and water over time, with land on the left and water on the right in each panel, illustrating sediment layers forming and accumulating."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Frio River Treetop is closer. To home, it is located near Leakey, Texas."
+    },
+    {
+      "label": "G",
+      "text": "The Frio River Treetop is closer to home. It is located near Leakey, Texas."
+    },
+    {
+      "label": "H",
+      "text": "The Frio River Treetop is closer to home as a result it is located, near Leakey, Texas."
+    },
+    {
+      "label": "J",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

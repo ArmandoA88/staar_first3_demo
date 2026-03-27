@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the meaning of wild in line 30?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "wild \\\u02c8w\u012b(-\u0259)ld\\ adjective\n1. going far off course\n2. having no basis in fact\n3. with strong emotion\n4. out of control"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

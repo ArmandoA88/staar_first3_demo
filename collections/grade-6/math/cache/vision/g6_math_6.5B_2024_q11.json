@@ -1,0 +1,43 @@
+{
+  "stem": "Kara owns 35 books. Of these books, 20% have fewer than 100 pages and 80% have 100 pages or more.\n\nComplete the statement about the books Kara owns.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "7"
+    },
+    {
+      "label": null,
+      "text": "8"
+    },
+    {
+      "label": null,
+      "text": "20"
+    },
+    {
+      "label": null,
+      "text": "27"
+    },
+    {
+      "label": null,
+      "text": "28"
+    },
+    {
+      "label": null,
+      "text": "80"
+    }
+  ],
+  "choice_pool": [
+    "7",
+    "8",
+    "20",
+    "27",
+    "28",
+    "80"
+  ],
+  "response_template": "Kara owns [blank_1] books with fewer than 100 pages and [blank_2] books with 100 pages or more.",
+  "visual_elements": [],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

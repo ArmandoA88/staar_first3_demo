@@ -1,0 +1,33 @@
+{
+  "stem": "Look at the diagram below.\n\nMom comes into Judy's room. \u2192 Judy says she has the mumps. \u2192 [empty box] \u2192 Mom takes Judy's temperature.\n\nWhich event belongs in the empty box?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Judy puts a cough drop in her mouth."
+    },
+    {
+      "label": "B",
+      "text": "Stink knocks on Judy's door."
+    },
+    {
+      "label": "C",
+      "text": "Judy makes a promise to Mom."
+    },
+    {
+      "label": "D",
+      "text": "Mom tells Judy to get dressed for school."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Mom comes into Judy's room.",
+    "Judy says she has the mumps.",
+    "[empty box]",
+    "Mom takes Judy's temperature."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

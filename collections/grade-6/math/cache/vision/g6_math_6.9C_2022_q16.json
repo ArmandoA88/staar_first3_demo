@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation is best represented by the inequality \\( \\frac{x}{12} \\geq 7 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Emily divided x crayons into 12 boxes, and there were at most 7 crayons in each box."
+    },
+    {
+      "label": "G",
+      "text": "Emily separated x books on 12 shelves, and there were more than 7 books on each shelf."
+    },
+    {
+      "label": "H",
+      "text": "Emily poured x ounces of juice into 12 cups, and each cup had no less than 7 ounces of juice."
+    },
+    {
+      "label": "J",
+      "text": "Emily shared x cookies among 12 people, and each person received less than 7 cookies."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "inequality: x/12 \u2265 7"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

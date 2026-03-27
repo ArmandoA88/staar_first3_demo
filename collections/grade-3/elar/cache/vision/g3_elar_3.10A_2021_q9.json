@@ -1,0 +1,28 @@
+{
+  "stem": "What is the main message of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "People do not always learn from their mistakes."
+    },
+    {
+      "label": "B",
+      "text": "Spending time outdoors can be rewarding."
+    },
+    {
+      "label": "C",
+      "text": "Rules are made for the safety of everyone."
+    },
+    {
+      "label": "D",
+      "text": "Making the right choice can be difficult."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

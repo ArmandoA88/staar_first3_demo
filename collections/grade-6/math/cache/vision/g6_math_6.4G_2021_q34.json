@@ -1,0 +1,30 @@
+{
+  "stem": "In a neighborhood \\frac{12}{40} of the lots have three or more trees. Which percentage is equivalent to the portion of lots in the neighborhood with three or more trees?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "12%"
+    },
+    {
+      "label": "G",
+      "text": "35%"
+    },
+    {
+      "label": "H",
+      "text": "24%"
+    },
+    {
+      "label": "J",
+      "text": "30%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction 12/40"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

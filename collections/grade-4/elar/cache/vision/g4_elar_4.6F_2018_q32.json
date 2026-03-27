@@ -1,0 +1,30 @@
+{
+  "stem": "Based on information in the selection, how do Brooks and Bol most likely feel about the results of their plan?",
+  "instruction": "Read this sentence from paragraph 4.\n\n\nWith these ideas in mind, Bol and Brooks came up with a plan to build more than 2,500 Little Free Libraries around the world.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Disappointed"
+    },
+    {
+      "label": "G",
+      "text": "Curious"
+    },
+    {
+      "label": "H",
+      "text": "Delighted"
+    },
+    {
+      "label": "J",
+      "text": "Confused"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "With these ideas in mind, Bol and Brooks came up with a plan to build more than 2,500 Little Free Libraries around the world."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

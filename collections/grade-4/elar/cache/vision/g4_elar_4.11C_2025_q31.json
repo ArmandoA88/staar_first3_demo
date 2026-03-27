@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST revision to make in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It can straight up in the air jump and run at 30 miles an hour."
+    },
+    {
+      "label": "B",
+      "text": "It can jump and run straight up in the air and 30 miles an hour."
+    },
+    {
+      "label": "C",
+      "text": "It can jump straight up in the air, and it is 30 miles an hour at running."
+    },
+    {
+      "label": "D",
+      "text": "It can jump straight up in the air and run 30 miles an hour."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change elect to had elected"
+    },
+    {
+      "label": "B",
+      "text": "Change repersent to represent"
+    },
+    {
+      "label": "C",
+      "text": "Delete the comma after them"
+    },
+    {
+      "label": "D",
+      "text": "Change themselves to themself"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

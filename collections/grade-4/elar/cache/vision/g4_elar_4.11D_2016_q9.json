@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "For the fourth-grade class hike, there were a lot of kids they wore new hiking shoes that were sturdy."
+    },
+    {
+      "label": "B",
+      "text": "For the fourth-grade class hike. A lot of kids wore new hiking shoes, and they were sturdy."
+    },
+    {
+      "label": "C",
+      "text": "For the fourth-grade class hike, a lot of kids wore new hiking shoes. That were sturdy."
+    },
+    {
+      "label": "D",
+      "text": "For the fourth-grade class hike, a lot of kids wore sturdy, new hiking shoes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "mcq",
+  "confidence": 1,
+  "notes": null
+}

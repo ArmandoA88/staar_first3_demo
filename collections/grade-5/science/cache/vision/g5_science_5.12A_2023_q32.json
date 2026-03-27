@@ -1,0 +1,35 @@
+{
+  "stem": "Which student observations show the frog interacting with nonliving elements in its environment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1 and 4"
+    },
+    {
+      "label": "B",
+      "text": "2 and 5"
+    },
+    {
+      "label": "C",
+      "text": "3 and 6"
+    },
+    {
+      "label": "D",
+      "text": "6 and 1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1. Hiding in the leaves of a plant",
+    "2. Eating a mealworm",
+    "3. Swimming through the water",
+    "4. Burrowing in the soil",
+    "5. Catching a small cricket",
+    "6. Hopping over a rock"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

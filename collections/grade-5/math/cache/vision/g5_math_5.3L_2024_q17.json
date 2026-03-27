@@ -1,0 +1,28 @@
+{
+  "stem": "Miri has 3 pies. Each pie is cut into equal slices. Each slice is \\(\\frac{1}{6}\\) of a pie.\n\nHow many slices of pie does Miri have?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "18"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\frac{3}{6}\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\frac{3}{18}\\)"
+    },
+    {
+      "label": "D",
+      "text": "9"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

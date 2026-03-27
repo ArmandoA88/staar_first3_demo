@@ -1,0 +1,30 @@
+{
+  "stem": "Points P, Q, R, and T are plotted on a number line as shown.\n\nWhich point on the number line represents the number with the greatest absolute value?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "P"
+    },
+    {
+      "label": "B",
+      "text": "Q"
+    },
+    {
+      "label": "C",
+      "text": "R"
+    },
+    {
+      "label": "D",
+      "text": "T"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line with points P at -25, Q at -20, R at 0, and T at 20"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

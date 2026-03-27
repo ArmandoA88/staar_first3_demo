@@ -1,0 +1,31 @@
+{
+  "stem": "The lengths of two insects are given below.\n\n\u2022 Ladybug: 10 millimeters\n\u2022 Walking stick: 30 centimeters\n\nWhat is the difference in length of these two insects in millimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "70 mm"
+    },
+    {
+      "label": "B",
+      "text": "20 mm"
+    },
+    {
+      "label": "C",
+      "text": "290 mm"
+    },
+    {
+      "label": "D",
+      "text": "2,990 mm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Ladybug: 10 millimeters",
+    "Walking stick: 30 centimeters"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

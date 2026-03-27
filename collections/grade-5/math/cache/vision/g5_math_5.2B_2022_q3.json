@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the weights in tons of four cars.\n\nWeights of Cars\n\nCar | Weight (tons)\nQ | 1.269\nR | 1.314\nS | 1.281\nT | 1.238\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight of Car S is less than the weight of Car T."
+    },
+    {
+      "label": "B",
+      "text": "The weight of Car Q is greater than the weight of Car R."
+    },
+    {
+      "label": "C",
+      "text": "The weight of Car R is less than the weight of Car T."
+    },
+    {
+      "label": "D",
+      "text": "The weight of Car S is greater than the weight of Car Q."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with weight data for cars Q, R, S, and T"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

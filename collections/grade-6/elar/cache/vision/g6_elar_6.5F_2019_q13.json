@@ -1,0 +1,31 @@
+{
+  "stem": "The photograph and caption above paragraphs 5 and 6 in the selection convey the idea that the nest cavity \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "extends beyond the tree"
+    },
+    {
+      "label": "B",
+      "text": "is fast and easy to construct"
+    },
+    {
+      "label": "C",
+      "text": "can only be used in certain seasons"
+    },
+    {
+      "label": "D",
+      "text": "provides a safe environment"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph",
+    "caption"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

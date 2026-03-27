@@ -1,0 +1,30 @@
+{
+  "stem": "Which two switches can be open and still allow all of the parts to work?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Switches 1 and 3"
+    },
+    {
+      "label": "G",
+      "text": "Switches 1 and 4"
+    },
+    {
+      "label": "H",
+      "text": "Switches 2 and 3"
+    },
+    {
+      "label": "J",
+      "text": "Switches 3 and 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circuit diagram with battery, lightbulbs, buzzers, motors, and switches labeled 1 through 4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

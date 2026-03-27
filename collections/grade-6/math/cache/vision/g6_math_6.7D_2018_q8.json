@@ -1,0 +1,30 @@
+{
+  "stem": "Shea wrote the expression 5(y + 2) + 4 to show the amount of money five friends paid for snacks at a baseball game. Which expression is equivalent to the one Shea wrote?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "5 + y + 5 + 2 + 4"
+    },
+    {
+      "label": "G",
+      "text": "5 \u22c5 y \u22c5 5 \u22c5 2 + 4"
+    },
+    {
+      "label": "H",
+      "text": "5 \u22c5 y \u22c5 4 + 5 \u22c5 2 \u22c5 4"
+    },
+    {
+      "label": "J",
+      "text": "5 \u22c5 y + 5 \u22c5 2 + 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "expression and answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

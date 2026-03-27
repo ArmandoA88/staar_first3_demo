@@ -1,0 +1,28 @@
+{
+  "stem": "Which point of view does the author use in this story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "First-person from Max's perspective"
+    },
+    {
+      "label": "B",
+      "text": "First-person from Dad's perspective"
+    },
+    {
+      "label": "C",
+      "text": "Third-person from the perspective of Max's grandfather"
+    },
+    {
+      "label": "D",
+      "text": "Third-person from the perspective of an unknown observer"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

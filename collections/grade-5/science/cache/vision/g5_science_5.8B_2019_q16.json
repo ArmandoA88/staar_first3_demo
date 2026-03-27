@@ -1,0 +1,33 @@
+{
+  "stem": "A student wants to build a circuit with four lightbulbs and one bell. The student wants to place a switch in the circuit so that only one light will still be on and the bell will still ring when the switch is opened.\n\nWhich of these circuits should the student build?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of circuit F: Four lightbulbs, one bell, one switch, and battery pack arranged as shown.",
+    "Diagram of circuit G: Four lightbulbs, one bell, one switch, and battery pack arranged as shown.",
+    "Diagram of circuit H: Four lightbulbs, one bell, one switch, and battery pack arranged as shown.",
+    "Diagram of circuit J: Four lightbulbs, one bell, one switch, and battery pack arranged as shown."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

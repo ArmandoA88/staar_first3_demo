@@ -1,0 +1,30 @@
+{
+  "stem": "Read these lines from the poem.\n\nMy father shook his head at me.\nMy mother gave her a hug.\n\nThese two lines reveal that the speaker\u2019s parents \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "can be easily tricked by their children"
+    },
+    {
+      "label": "G",
+      "text": "believe they know the truth about what happened"
+    },
+    {
+      "label": "H",
+      "text": "are surprised that a cookie is missing"
+    },
+    {
+      "label": "J",
+      "text": "are glad to see their children"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text box containing:\nMy father shook his head at me.\nMy mother gave her a hug."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Benisha graphed point G on the coordinate grid. She will graph point H at a location 5 units away from point G.",
+  "instruction": "Which ordered pair could represent the location of point H?",
+  "options": [
+    {
+      "label": "A",
+      "text": "(-4, 5)"
+    },
+    {
+      "label": "B",
+      "text": "(-9, 8)"
+    },
+    {
+      "label": "C",
+      "text": "(1, 3)"
+    },
+    {
+      "label": "D",
+      "text": "(-4, -1)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with point G labeled at (-5, 3)",
+    "x and y axis labeled with numbers from -9 to 9"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

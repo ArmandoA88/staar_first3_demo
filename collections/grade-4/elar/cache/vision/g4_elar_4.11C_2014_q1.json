@@ -1,0 +1,30 @@
+{
+  "stem": "What is the BEST way to revise sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The shoes quickly became popular because they were comfortable and easy to clean."
+    },
+    {
+      "label": "B",
+      "text": "The shoes quickly became popular because they were comfortable, they were also easy to clean."
+    },
+    {
+      "label": "C",
+      "text": "Quickly popular because they were comfortable, the shoes were also easy to clean."
+    },
+    {
+      "label": "D",
+      "text": "Because the shoes quickly became popular, they were comfortable and easy to clean."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: What is the BEST way to revise sentence 9? with options A, B, C, D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

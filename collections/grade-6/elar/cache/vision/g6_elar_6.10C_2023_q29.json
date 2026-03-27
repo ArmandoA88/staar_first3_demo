@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, is needed in sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There were left in the season seven weeks, which was only devastating."
+    },
+    {
+      "label": "B",
+      "text": "Being devastated, there were only seven weeks left in the season."
+    },
+    {
+      "label": "C",
+      "text": "With only seven weeks left in the season, I was devastated about the season."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

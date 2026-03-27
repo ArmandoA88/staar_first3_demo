@@ -1,0 +1,32 @@
+{
+  "stem": "Akeem created a list by correctly putting a group of fractions, percentages, and decimals in order from least to greatest value. Which list could be the one Akeem created?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.21 22% \\frac{1}{4} 0.35 38% \\frac{3}{8}"
+    },
+    {
+      "label": "B",
+      "text": "22% 38% 0.21 \\frac{1}{4} 0.35 \\frac{3}{8}"
+    },
+    {
+      "label": "C",
+      "text": "22% 38% \\frac{1}{4} 0.21 0.35 \\frac{3}{8}"
+    },
+    {
+      "label": "D",
+      "text": "0.21 22% \\frac{1}{4} 0.35 \\frac{3}{8} 38%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fractions",
+    "percentages",
+    "decimals"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

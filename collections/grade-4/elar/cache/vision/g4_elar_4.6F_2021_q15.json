@@ -1,0 +1,28 @@
+{
+  "stem": "What can the reader tell about the article \u201cThe Broken-Crayon Solution\u201d based on its title?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The article will most likely describe different ways to use crayons."
+    },
+    {
+      "label": "B",
+      "text": "The article will most likely explain how crayons were invented."
+    },
+    {
+      "label": "C",
+      "text": "The article will most likely explain an answer to a problem."
+    },
+    {
+      "label": "D",
+      "text": "The article will most likely offer many uses for objects that are old."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

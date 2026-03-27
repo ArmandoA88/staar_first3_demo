@@ -1,0 +1,30 @@
+{
+  "stem": "The author wrote this article most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "share the history of the International Space Station"
+    },
+    {
+      "label": "B",
+      "text": "persuade people to learn about the International Space Station"
+    },
+    {
+      "label": "C",
+      "text": "provide information about a new tool used on the International Space Station"
+    },
+    {
+      "label": "D",
+      "text": "describe some of the dangers on the International Space Station"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

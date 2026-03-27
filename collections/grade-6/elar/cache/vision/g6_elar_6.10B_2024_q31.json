@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence can **BEST** follow and support sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There are other ecosystem engineers on the planet that scientists are studying and learning more about."
+    },
+    {
+      "label": "B",
+      "text": "This name, ecosystem engineer, was given to these burrow-digging, egg-laying species based on what they do."
+    },
+    {
+      "label": "C",
+      "text": "An ecosystem engineer makes changes to the environment from which other species can also benefit."
+    },
+    {
+      "label": "D",
+      "text": "When a community of organisms interact with the environment together, it is an ecosystem."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Question with four multiple choice answer boxes labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

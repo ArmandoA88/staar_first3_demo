@@ -1,0 +1,30 @@
+{
+  "stem": "The author's use of a simile in this sentence conveys to the reader that Zach usually \u2014",
+  "instruction": "Read this sentence from paragraph 14.\n\nZach, normally as active as a fly in a doughnut shop, was on his stomach sleeping quietly.",
+  "options": [
+    {
+      "label": "A",
+      "text": "has trouble falling asleep"
+    },
+    {
+      "label": "B",
+      "text": "feels sick from eating sweets"
+    },
+    {
+      "label": "C",
+      "text": "has a great amount of energy"
+    },
+    {
+      "label": "D",
+      "text": "likes to sleep late in the morning"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Zach, normally as active as a fly in a doughnut shop, was on his stomach sleeping quietly."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Mitchell would like to add the following sentence to the second paragraph (sentences 6\u201312).\n\nFeeling startled, she shakes her head and sits up straight.\n\nWhere is the BEST place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "At the beginning of the paragraph"
+    },
+    {
+      "label": "G",
+      "text": "After sentence 6"
+    },
+    {
+      "label": "H",
+      "text": "After sentence 8"
+    },
+    {
+      "label": "J",
+      "text": "After sentence 9"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Feeling startled, she shakes her head and sits up straight."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "An equation is modeled on the number line.\n\nWhich equation does this model represent?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{7}{8} - \\frac{1}{4} = \\frac{6}{8}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{7}{8} + \\frac{1}{4} = \\frac{9}{8}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{7}{8} - \\frac{1}{4} = \\frac{5}{8}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{7}{8} + \\frac{2}{8} = \\frac{9}{16}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line from 0 to 1 showing an interval from 0 to 7/8 and a smaller interval from 6/8 to 7/8"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

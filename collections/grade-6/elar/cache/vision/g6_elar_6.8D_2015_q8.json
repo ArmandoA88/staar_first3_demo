@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence in the student's summary is unnecessary?",
+  "instruction": "Read this summary of paragraph 3 written by a student.",
+  "options": [
+    {
+      "label": "F",
+      "text": "In the late 1800s three developments made building skyscrapers possible."
+    },
+    {
+      "label": "G",
+      "text": "New Yorkers were very pleased with these advances."
+    },
+    {
+      "label": "H",
+      "text": "The use of steel in construction and the adoption of new construction designs made buildings stronger."
+    },
+    {
+      "label": "J",
+      "text": "In addition, the invention of the elevator allowed people to go up and down tall buildings more easily."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In the late 1800s three developments made building skyscrapers possible. New Yorkers were very pleased with these advances. The use of steel in construction and the adoption of new construction designs made buildings stronger. In addition, the invention of the elevator allowed people to go up and down tall buildings more easily."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

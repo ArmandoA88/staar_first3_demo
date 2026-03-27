@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 12 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert a comma after trunk"
+    },
+    {
+      "label": "G",
+      "text": "Change bare to bear"
+    },
+    {
+      "label": "H",
+      "text": "Change filled to fill"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 12 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

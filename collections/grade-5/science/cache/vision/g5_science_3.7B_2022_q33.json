@@ -1,0 +1,30 @@
+{
+  "stem": "Students build a balloon-rocket car using a balloon, a straw, a water bottle, and some tape. When the straw is released by a student, the air from the balloon comes out. A diagram of the car is shown.\n\nWhich statement best describes the motion of the car when the straw is released?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The car will move away from the wall in the same direction as the air that is leaving the balloon."
+    },
+    {
+      "label": "B",
+      "text": "The car will move toward the wall because of the force of the air from the straw."
+    },
+    {
+      "label": "C",
+      "text": "The car will move fast because the straw gets light as the air is released."
+    },
+    {
+      "label": "D",
+      "text": "The car will not move because the air escapes from the balloon."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram of balloon attached to water bottle car with hand holding straw"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

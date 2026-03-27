@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change can't to cant"
+    },
+    {
+      "label": "B",
+      "text": "Change you to yours"
+    },
+    {
+      "label": "C",
+      "text": "Change beginned to began"
+    },
+    {
+      "label": "D",
+      "text": "Change excitedly to exitedley"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2025 \u2013 Q34 Passage #6"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

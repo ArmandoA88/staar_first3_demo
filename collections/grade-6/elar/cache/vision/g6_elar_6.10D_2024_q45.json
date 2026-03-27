@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *Instead* to *Likewise*"
+    },
+    {
+      "label": "B",
+      "text": "Change *boxes* to *boxes\u2019*"
+    },
+    {
+      "label": "C",
+      "text": "Change *several* to *sevaral*"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

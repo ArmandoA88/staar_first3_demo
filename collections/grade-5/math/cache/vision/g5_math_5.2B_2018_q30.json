@@ -1,0 +1,30 @@
+{
+  "stem": "Elias has three containers of cooking oil. The table shows the volume of cooking oil in each container.\n\nElias's Cooking Oil\n\n| Container | Volume (L) |\n|-----------|------------|\n| X         | 0.946      |\n| Y         | 0.502      |\n| Z         | 1.42       |\n\nWhich list shows the containers in order from least to greatest volume in liters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Container X, Container Y, Container Z"
+    },
+    {
+      "label": "G",
+      "text": "Container Y, Container X, Container Z"
+    },
+    {
+      "label": "H",
+      "text": "Container Z, Container Y, Container X"
+    },
+    {
+      "label": "J",
+      "text": "Container Z, Container X, Container Y"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing Container and Volume (L) with X-0.946, Y-0.502, Z-1.42"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

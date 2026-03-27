@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete As"
+    },
+    {
+      "label": "G",
+      "text": "Change dragged to dragged"
+    },
+    {
+      "label": "H",
+      "text": "Change felt to feeled"
+    },
+    {
+      "label": "J",
+      "text": "Insert a comma after dry"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

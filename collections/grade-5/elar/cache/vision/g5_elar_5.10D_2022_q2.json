@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from line 17.\n\nDwayne *walks into his bedroom and* sees Bryson's *things scattered like dropped popcorn in a movie theater.*\n\nWhat is the most likely reason the playwright uses a simile in this line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To identify an activity that Bryson and Dwayne have done together"
+    },
+    {
+      "label": "G",
+      "text": "To suggest that Bryson has been eating snacks in Dwayne's bedroom"
+    },
+    {
+      "label": "H",
+      "text": "To explain that Bryson's belongings have made a mess in Dwayne's bedroom"
+    },
+    {
+      "label": "J",
+      "text": "To show that Dwayne plans to throw away Bryson's belongings"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sentence box containing 'Dwayne walks into his bedroom and sees Bryson's things scattered like dropped popcorn in a movie theater.'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

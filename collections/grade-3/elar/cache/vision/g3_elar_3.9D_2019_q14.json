@@ -1,0 +1,34 @@
+{
+  "stem": "The section titled \u201cStories to Read and Enjoy\u201d is mostly about \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the topics of some Little Golden Books and what some books came with"
+    },
+    {
+      "label": "G",
+      "text": "the most popular Little Golden Books and how to listen to them"
+    },
+    {
+      "label": "H",
+      "text": "the number of Little Golden Books printed and which ones are still available"
+    },
+    {
+      "label": "J",
+      "text": "a Little Golden Book that is still printed today and why it is so popular"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The section titled \u201cStories to Read and Enjoy\u201d is mostly about \u2014",
+    "F the topics of some Little Golden Books and what some books came with",
+    "G the most popular Little Golden Books and how to listen to them",
+    "H the number of Little Golden Books printed and which ones are still available",
+    "J a Little Golden Book that is still printed today and why it is so popular"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

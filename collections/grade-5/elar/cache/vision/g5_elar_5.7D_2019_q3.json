@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of paragraphs 1 through 19 of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The narrator helps clean the table because he wants his own room. He is upset to hear that he will have to be the one to change rooms. He suggests that his brother would like a new room with his own decorations. He reminds his mother that Kirk really enjoys trains."
+    },
+    {
+      "label": "B",
+      "text": "The narrator asks his mother if she and his father talked about moving Kirk into a different room. The mother considers that Kirk might like to decorate a new room. She mentions trains to Kirk. Kirk becomes excited and thinks they are going somewhere with trains."
+    },
+    {
+      "label": "C",
+      "text": "The narrator thinks of a plan that will make his brother happy and allow them both to have their own rooms. His mother says that Kirk should stay in the room he is currently in. She explains that he has always been in that room and would be more comfortable there."
+    },
+    {
+      "label": "D",
+      "text": "The narrator tries to be helpful so he can get his own room. He becomes upset when his mother says that he will have to move into the office. He tells his mother that Kirk would enjoy the new room. She talks to Kirk, but Kirk refuses to move out of their current room."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

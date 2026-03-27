@@ -1,0 +1,30 @@
+{
+  "stem": "Based on information in this sentence, the reader can conclude that early marbles were \u2014",
+  "instruction": "Read this sentence from paragraph 2.\n\nTo make marbles, people used items that could roll such as nuts, fruit pits, or round pebbles.",
+  "options": [
+    {
+      "label": "A",
+      "text": "difficult to find"
+    },
+    {
+      "label": "B",
+      "text": "made by children"
+    },
+    {
+      "label": "C",
+      "text": "much smaller in size than marbles are today"
+    },
+    {
+      "label": "D",
+      "text": "created from a variety of available materials"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "To make marbles, people used items that could roll such as nuts, fruit pits, or round pebbles."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

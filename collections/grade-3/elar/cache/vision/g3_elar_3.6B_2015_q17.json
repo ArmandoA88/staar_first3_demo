@@ -1,0 +1,31 @@
+{
+  "stem": "The speaker is tickled when \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the wind blows leaves against her"
+    },
+    {
+      "label": "B",
+      "text": "twigs get tangled in her hair"
+    },
+    {
+      "label": "C",
+      "text": "she walks through a field"
+    },
+    {
+      "label": "D",
+      "text": "she climbs a hill"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q17 Passage #3",
+    "17"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 0.99,
+  "notes": null
+}

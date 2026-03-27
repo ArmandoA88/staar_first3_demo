@@ -1,0 +1,23 @@
+{
+  "stem": "A summer camp offered campers a choice of sports to play in the afternoon. The campers' choices are shown in the table.\n\nSports Choices\n\n| Sport     | Number of Campers |\n|-----------|-------------------|\n| Basketball| 10                |\n| Soccer    | 15                |\n| Tennis    | 5                 |\n| Volleyball| 10                |\n\nUse the data in the table to complete the statements.\n\nChoose the correct answer from each drop-down menu to complete the sentences.\n\nThe sport or pair of sports that represents the mode of the data is [blank_1].\n\nThe percentage of campers who chose basketball was [blank_2].",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [],
+  "choice_pool": [
+    "Basketball",
+    "Soccer",
+    "Tennis",
+    "Volleyball",
+    "Basketball and Volleyball",
+    "10%",
+    "15%",
+    "25%",
+    "50%"
+  ],
+  "response_template": "The sport or pair of sports that represents the mode of the data is [blank_1].\n\nThe percentage of campers who chose basketball was [blank_2].",
+  "visual_elements": [
+    "table showing Sports Choices with columns Sport and Number of Campers: Basketball 10, Soccer 15, Tennis 5, Volleyball 10"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.99,
+  "notes": "Two blanks correspond to drop-down selections; choice_pool includes all sports and percentage options potentially relevant."
+}

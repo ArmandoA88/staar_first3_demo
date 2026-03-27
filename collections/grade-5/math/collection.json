@@ -1,0 +1,19 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-5-math",
+  "label": "Grade 5 Math",
+  "grade": 5,
+  "subject": "Math",
+  "status": "ready",
+  "root": "collections/grade-5/math",
+  "source_pdf": "collections/grade-5/math/source/5thmath.pdf",
+  "catalog": "collections/grade-5/math/data/staar_catalog.json",
+  "reports": {
+    "coverage_csv": "collections/grade-5/math/reports/pdf_coverage_report.csv",
+    "coverage_md": "collections/grade-5/math/reports/pdf_coverage_report.md",
+    "coverage_summary_json": "collections/grade-5/math/reports/pdf_coverage_summary.json"
+  },
+  "images_dir": "collections/grade-5/math/images/extracted",
+  "stimulus_images_dir": "collections/grade-5/math/images/stimuli",
+  "vision_cache_dir": "collections/grade-5/math/cache/vision"
+}

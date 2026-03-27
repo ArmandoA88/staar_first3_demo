@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the play?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The emperor hears about a nightingale, and when he sees it, he is impressed by its song but not by its looks. Later a craftsman brings the emperor an attractive mechanical nightingale. Since the real nightingale has been replaced, it leaves, returning only when the emperor has learned an important lesson."
+    },
+    {
+      "label": "B",
+      "text": "The emperor hears his servants discussing the beauty of the palace. When they mention the beautiful song of a nightingale, the emperor asks them to bring the bird to him. While the emperor truly enjoys the song of the nightingale, a craftsman makes him a mechanical nightingale that he likes even more."
+    },
+    {
+      "label": "C",
+      "text": "While the emperor owns many beautiful things, he wants to hear the song of a nightingale that lives in the forest. He is excited when a craftsman brings him a beautiful mechanical nightingale that sings just like the real one. He uses the mechanical nightingale so much that it breaks."
+    },
+    {
+      "label": "D",
+      "text": "The emperor asks to hear the singing of a nightingale that his servants have mentioned. Although the nightingale does not look beautiful, its singing is lovely. The emperor keeps the nightingale by his side so that he can hear its song whenever he pleases."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 0.99,
+  "notes": null
+}

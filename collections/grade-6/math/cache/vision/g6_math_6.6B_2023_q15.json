@@ -1,0 +1,30 @@
+{
+  "stem": "Gabriela and her mother were born on the same day of the year. The table shows the relationship between g, Gabriela's age, and m, her mother's age.\n\nAges\n\n| Gabriela\u2019s Age, g | Her Mother\u2019s Age, m |\n|-------------------|--------------------|\n| 3                 | 30                 |\n| 5                 | 32                 |\n| 9                 | 36                 |\n| 10                | 37                 |\n\nWhich equation represents the relationship between g and m?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "m = 10g"
+    },
+    {
+      "label": "B",
+      "text": "m = g + 27"
+    },
+    {
+      "label": "C",
+      "text": "m = 3g"
+    },
+    {
+      "label": "D",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

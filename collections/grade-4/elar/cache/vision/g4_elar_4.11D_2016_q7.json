@@ -1,0 +1,28 @@
+{
+  "stem": "How does sentence 4 need to be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change have become to has become"
+    },
+    {
+      "label": "B",
+      "text": "Change then to than"
+    },
+    {
+      "label": "C",
+      "text": "Change to me to too me"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 4 does not need to be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

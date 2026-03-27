@@ -1,0 +1,30 @@
+{
+  "stem": "In paragraph 6, the word detects means \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "dislikes"
+    },
+    {
+      "label": "B",
+      "text": "expects"
+    },
+    {
+      "label": "C",
+      "text": "discovers"
+    },
+    {
+      "label": "D",
+      "text": "ignores"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "underlined word: detects"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

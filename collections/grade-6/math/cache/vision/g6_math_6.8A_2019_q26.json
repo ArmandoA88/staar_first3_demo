@@ -1,0 +1,32 @@
+{
+  "stem": "The lengths of two line segments are shown.\n\n1 1/2 in.\n\n2 1/2 in.\n\nUse the ruler provided to measure the length of a third line segment to the nearest 1/2 inch.\n\n[Image of a line segment with length to be measured]\n\nWhich statement is true about these three line segments?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "These line segments can form a triangle, because each side of the triangle can be a different length."
+    },
+    {
+      "label": "G",
+      "text": "These line segments can form a triangle, because the longest side of the triangle can be exactly 4 inches long."
+    },
+    {
+      "label": "H",
+      "text": "These line segments cannot form a triangle, because at least two sides of the triangle must be the same length."
+    },
+    {
+      "label": "J",
+      "text": "These line segments cannot form a triangle, because the longest side of the triangle must be shorter than 4 inches."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Line segment labeled 1 1/2 in.",
+    "Line segment labeled 2 1/2 in.",
+    "Line segment to measure with ruler"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

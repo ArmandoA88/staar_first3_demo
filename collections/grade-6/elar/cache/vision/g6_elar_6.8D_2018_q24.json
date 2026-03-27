@@ -1,0 +1,36 @@
+{
+  "stem": "What makes The Silmarillion unique among Tolkien's writings?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The story takes place in an imaginary land."
+    },
+    {
+      "label": "G",
+      "text": "It was the only piece of writing published after his death."
+    },
+    {
+      "label": "H",
+      "text": "The story includes fictional creatures and humans."
+    },
+    {
+      "label": "J",
+      "text": "It was both the first and last book he ever worked on."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2018 \u2013 Q24 Passage #3B",
+    "24",
+    "What makes The Silmarillion unique among Tolkien's writings?",
+    "F   The story takes place in an imaginary land.",
+    "G   It was the only piece of writing published after his death.",
+    "H   The story includes fictional creatures and humans.",
+    "J   It was both the first and last book he ever worked on."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

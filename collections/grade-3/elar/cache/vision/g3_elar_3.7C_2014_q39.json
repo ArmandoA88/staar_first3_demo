@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best explains what is happening in the photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Picking up an animal was unusual behavior for Rex, since he had not been trained to do so."
+    },
+    {
+      "label": "B",
+      "text": "\"The joey was snuggling up to him, jumping up to him, and Rex was sniffing and licking him\u2014it was quite cute,\" Allan told a newspaper reporter."
+    },
+    {
+      "label": "C",
+      "text": "A year and a half later, he was released back into the wild in an area where he could be monitored by workers at the sanctuary."
+    },
+    {
+      "label": "D",
+      "text": "\"His progress and release went well,\" Gordon commented."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

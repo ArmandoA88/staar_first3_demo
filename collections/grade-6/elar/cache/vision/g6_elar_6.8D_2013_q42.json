@@ -1,0 +1,30 @@
+{
+  "stem": "The author structures paragraphs 9 and 10 so that they \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "show that Nomad has been searching for meteorites for a long time"
+    },
+    {
+      "label": "G",
+      "text": "explain the changes that were made to Nomad before it could be used at the South Pole"
+    },
+    {
+      "label": "H",
+      "text": "report early successes Nomad had while meteorite hunting in South America"
+    },
+    {
+      "label": "J",
+      "text": "emphasize the difficulties Nomad might encounter while being used in Antarctica"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

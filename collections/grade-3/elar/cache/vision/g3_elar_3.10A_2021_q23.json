@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author wrote this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To provide the reader with interesting facts about sloths"
+    },
+    {
+      "label": "B",
+      "text": "To encourage the reader to support a place that helps sloths"
+    },
+    {
+      "label": "C",
+      "text": "To explain to the reader the biggest dangers that sloths face"
+    },
+    {
+      "label": "D",
+      "text": "To show the reader what it is like to visit a sloth sanctuary"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

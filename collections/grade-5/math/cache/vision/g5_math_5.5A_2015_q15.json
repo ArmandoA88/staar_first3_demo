@@ -1,0 +1,30 @@
+{
+  "stem": "Alex filled out a graphic organizer about polygons. Here is a section of his graphic organizer.\n\nWhich shapes appear to be classified correctly?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Shapes 1 and 3 only"
+    },
+    {
+      "label": "B",
+      "text": "Shapes 2 and 4"
+    },
+    {
+      "label": "C",
+      "text": "Shapes 1, 2, and 3"
+    },
+    {
+      "label": "D",
+      "text": "Shapes 1, 3, and 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graphic organizer with the following structure:\nQuadrilaterals (top level)\n-- Parallelograms (branch)\n-- Non-parallelograms (branch)\nBelow Parallelograms:\nShape 1: parallelogram with slanted sides\nShape 2: trapezoid\nShape 3: parallelogram with one pair of parallel sides shown\nShape 4: rectangle"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

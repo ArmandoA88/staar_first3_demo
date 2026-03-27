@@ -1,0 +1,35 @@
+{
+  "stem": "Which sentence states the main theme of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It is important to be on time when others are depending on you."
+    },
+    {
+      "label": "B",
+      "text": "Winning does not matter as long as you try hard."
+    },
+    {
+      "label": "C",
+      "text": "Working with others can be better than working on your own."
+    },
+    {
+      "label": "D",
+      "text": "The best ideas come to those who are patient."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2018 \u2013 Q7 Passage #1",
+    "7 Which sentence states the main theme of the story?",
+    "A It is important to be on time when others are depending on you.",
+    "B Winning does not matter as long as you try hard.",
+    "C Working with others can be better than working on your own.",
+    "D The best ideas come to those who are patient."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

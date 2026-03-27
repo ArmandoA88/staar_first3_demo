@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Some people search inside a twisting model of the human brain. Because others walk past rows of wooden towers that stand like soldiers in a field."
+    },
+    {
+      "label": "B",
+      "text": "Some people searching inside a twisting model of the human brain. Others walk past rows of wooden towers that stand like soldiers in a field."
+    },
+    {
+      "label": "C",
+      "text": "Some people search inside a twisting model of the human brain, and others walk past. Rows of wooden towers that stand like soldiers in a field."
+    },
+    {
+      "label": "D",
+      "text": "Some people search inside a twisting model of the human brain. Others walk past rows of wooden towers that stand like soldiers in a field."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

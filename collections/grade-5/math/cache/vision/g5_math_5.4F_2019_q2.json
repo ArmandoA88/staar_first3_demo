@@ -1,0 +1,30 @@
+{
+  "stem": "Rebecca bought air filters at a store.\n\n\u2022 She bought 8 air filters.\n\u2022 Each air filter cost $16.95.\n\u2022 Rebecca used a coupon for $7.50 off her total cost of the air filters.\n\nThe total cost in dollars that Rebecca paid for these 8 air filters can be represented by this expression.\n\n(8 \u00d7 16.95) - 7.50\n\nHow much did Rebecca pay for these 8 air filters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$80.70"
+    },
+    {
+      "label": "G",
+      "text": "$143.10"
+    },
+    {
+      "label": "H",
+      "text": "$128.10"
+    },
+    {
+      "label": "J",
+      "text": "$75.60"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(8 \u00d7 16.95) - 7.50"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

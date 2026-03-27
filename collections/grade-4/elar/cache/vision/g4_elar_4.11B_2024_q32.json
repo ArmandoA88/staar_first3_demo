@@ -1,0 +1,28 @@
+{
+  "stem": "Cameron has included a sentence that does not belong in the third paragraph (sentences 11-16). Which sentence should be removed from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 13"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 14"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 15"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 16"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

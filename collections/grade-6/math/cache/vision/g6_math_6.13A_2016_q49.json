@@ -1,0 +1,32 @@
+{
+  "stem": "A choir director made a histogram showing the ages of the members of the choir.\n\nAges of Choir Members",
+  "instruction": "Which statement about the data in the histogram must be true?",
+  "options": [
+    {
+      "label": "A",
+      "text": "More than half the members are from 46 to 73 years old."
+    },
+    {
+      "label": "B",
+      "text": "There are more men than women in the choir."
+    },
+    {
+      "label": "C",
+      "text": "The choir has a total of 100 members."
+    },
+    {
+      "label": "D",
+      "text": "Exactly 20 members are less than 32 years old."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Histogram with x-axis labeled 'Age (years)' with intervals 18\u201324, 25\u201331, 32\u201338, 39\u201345, 46\u201352, 53\u201359, 60\u201366, 67\u201373",
+    "y-axis labeled 'Number of Members' from 0 to 50 in increments of 5",
+    "Bar heights at 18\u201324: 15, 25\u201331: 20, 32\u201338: 5, 39\u201345: 10, 46\u201352: 30, 53\u201359: 0, 60\u201366: 5, 67\u201373: 15"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

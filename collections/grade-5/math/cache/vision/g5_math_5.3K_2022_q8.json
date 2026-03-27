@@ -1,0 +1,30 @@
+{
+  "stem": "A baker had 48 cups of flour in a container. The baker used 11 1/4 cups of flour on Friday and 14 1/2 cups of flour on Saturday. How many cups of flour were left in the container?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "22 1/4 cups"
+    },
+    {
+      "label": "G",
+      "text": "23 3/4 cups"
+    },
+    {
+      "label": "H",
+      "text": "25 3/4 cups"
+    },
+    {
+      "label": "J",
+      "text": "23 1/4 cups"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Fraction notation in question and answer choices"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

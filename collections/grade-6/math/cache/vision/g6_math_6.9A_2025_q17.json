@@ -1,0 +1,45 @@
+{
+  "stem": "Kevin has a maximum of $28 to spend at a movie theater. He will spend $15 on a movie ticket, and he can spend the rest of the money on popcorn and a drink.\n\nComplete the inequality to represent all possible values of y, the amount in dollars that Kevin can spend on popcorn and a drink.\n\nMove the correct answer to each box. Not all answers will be used.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "-"
+    },
+    {
+      "label": null,
+      "text": "+"
+    },
+    {
+      "label": null,
+      "text": "<"
+    },
+    {
+      "label": null,
+      "text": ">"
+    },
+    {
+      "label": null,
+      "text": "\u2264"
+    },
+    {
+      "label": null,
+      "text": "\u2265"
+    }
+  ],
+  "choice_pool": [
+    "-",
+    "+",
+    "<",
+    ">",
+    "\u2264",
+    "\u2265"
+  ],
+  "response_template": "15 [blank_1] y [blank_2] 28",
+  "visual_elements": [
+    "15 [ ] y [ ] 28"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

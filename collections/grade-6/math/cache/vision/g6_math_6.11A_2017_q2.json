@@ -1,0 +1,30 @@
+{
+  "stem": "A coordinate grid is shown below.\n\nWhich ordered pair describes a point that is located 4 units to the left of the origin and 2 units below the x-axis?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(4, 2)"
+    },
+    {
+      "label": "G",
+      "text": "(-4, -2)"
+    },
+    {
+      "label": "H",
+      "text": "(-4, 2)"
+    },
+    {
+      "label": "J",
+      "text": "(4, -2)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with x and y axes labeled from -4 to 4"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

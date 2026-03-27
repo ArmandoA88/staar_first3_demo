@@ -1,0 +1,30 @@
+{
+  "stem": "Which process most likely caused the crack in the rock?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Water freezing and thawing in the rock"
+    },
+    {
+      "label": "G",
+      "text": "Wind blowing particles against the rock"
+    },
+    {
+      "label": "H",
+      "text": "Water moving and dropping the rock"
+    },
+    {
+      "label": "J",
+      "text": "Glaciers scraping over the surface of the rock"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A picture of a cracked rock"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

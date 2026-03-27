@@ -1,0 +1,38 @@
+{
+  "stem": "The price of a concert ticket depends on the location of the seat. This list shows the ticket prices for different seats in dollars.\n\n16  10  26  14  12  20  42  24  34\n\nWhat is the range of the ticket prices?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$20"
+    },
+    {
+      "label": "B",
+      "text": "$32"
+    },
+    {
+      "label": "C",
+      "text": "$18"
+    },
+    {
+      "label": "D",
+      "text": "$22"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "16",
+    "10",
+    "26",
+    "14",
+    "12",
+    "20",
+    "42",
+    "24",
+    "34"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Paula wants to buy 3 shirts and 2 belts. The shirts cost $16.89 each, and the belts cost $8.97 each. Paula has $45.\n\nWhich of these amounts is the best estimate of how much more money Paula needs in order to buy the shirts and belts?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$16"
+    },
+    {
+      "label": "B",
+      "text": "$10"
+    },
+    {
+      "label": "C",
+      "text": "$24"
+    },
+    {
+      "label": "D",
+      "text": "$5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

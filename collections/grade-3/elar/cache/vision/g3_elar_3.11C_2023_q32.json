@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST revision to make in sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Then to teach and learn, everyone came back to the classroom ready."
+    },
+    {
+      "label": "B",
+      "text": "Then everyone came back to the classroom ready for learning, and it was to teach."
+    },
+    {
+      "label": "C",
+      "text": "Then everyone came back to the classroom ready to teach and learn."
+    },
+    {
+      "label": "D",
+      "text": "Then back to the classroom was everyone who came to teach and for learning."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

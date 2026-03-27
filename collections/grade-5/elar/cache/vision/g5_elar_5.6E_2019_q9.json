@@ -1,0 +1,28 @@
+{
+  "stem": "Which idea is supported by information found throughout the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Koalas can dehydrate while trying to stay cool."
+    },
+    {
+      "label": "B",
+      "text": "Studying koalas requires special equipment."
+    },
+    {
+      "label": "C",
+      "text": "Searching for water is a dangerous activity for koalas."
+    },
+    {
+      "label": "D",
+      "text": "Changes in temperature affect the behavior of koalas."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

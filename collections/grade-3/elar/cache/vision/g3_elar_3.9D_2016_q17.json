@@ -1,0 +1,30 @@
+{
+  "stem": "The section titled \u201cMore Races\u201d is mainly about the \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "brothers becoming famous"
+    },
+    {
+      "label": "B",
+      "text": "brothers\u2019 goals for the future"
+    },
+    {
+      "label": "C",
+      "text": "cost of buying more equipment"
+    },
+    {
+      "label": "D",
+      "text": "amount of time spent with family"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 0.98,
+  "notes": null
+}

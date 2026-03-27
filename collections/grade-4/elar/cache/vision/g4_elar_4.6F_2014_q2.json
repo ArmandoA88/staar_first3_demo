@@ -1,0 +1,30 @@
+{
+  "stem": "What are Marvin's parents most likely thinking at this point in the story?",
+  "instruction": "Read this sentence.\n\n_Marvin's parents looked at Marvin, first on TV, then on the stairs._",
+  "options": [
+    {
+      "label": "F",
+      "text": "They hope that Marvin will become a leader someday."
+    },
+    {
+      "label": "G",
+      "text": "They realize that Marvin had wanted to tell them something important."
+    },
+    {
+      "label": "H",
+      "text": "They wish that Marvin had asked the president a better question."
+    },
+    {
+      "label": "J",
+      "text": "They wonder why Marvin didn't tell them about meeting the president."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Marvin's parents looked at Marvin, first on TV, then on the stairs."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

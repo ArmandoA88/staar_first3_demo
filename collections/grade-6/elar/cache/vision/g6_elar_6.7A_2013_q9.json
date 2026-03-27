@@ -1,0 +1,30 @@
+{
+  "stem": "What is one message the author conveys in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Treat others as you want to be treated."
+    },
+    {
+      "label": "B",
+      "text": "People who prepare are the most successful."
+    },
+    {
+      "label": "C",
+      "text": "You must take risks in order to succeed."
+    },
+    {
+      "label": "D",
+      "text": "It is best not to judge situations too early."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

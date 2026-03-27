@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Still other people follow certain steps to get organized for school or work."
+    },
+    {
+      "label": "B",
+      "text": "Still other people follow certain steps. To get organized for school or work."
+    },
+    {
+      "label": "C",
+      "text": "Still other people following certain steps. They get organized for school or work."
+    },
+    {
+      "label": "D",
+      "text": "Still other people follow certain steps they get organized for school or work."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

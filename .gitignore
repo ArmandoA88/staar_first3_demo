@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# >>> split large files >>>
+# Paths in this block are restored locally from chunked parts and should not be committed.
+/collections/grade-4/elar/source/4thelar.pdf
+/collections/grade-5/elar/source/5thelar.pdf
+/collections/grade-6/elar/source/6thelar.pdf
+# <<< split large files <<<

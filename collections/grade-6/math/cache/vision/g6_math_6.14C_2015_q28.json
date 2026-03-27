@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the information in the check register, what is the balance in Ms. Garcia's check register after the ATM transaction on October 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$5,105"
+    },
+    {
+      "label": "B",
+      "text": "$2,095"
+    },
+    {
+      "label": "C",
+      "text": "$3,600"
+    },
+    {
+      "label": "D",
+      "text": "$1,505"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Ms. Garcia's Check Register table with columns: Date, Description, Deposits (dollars), Withdrawals (dollars), Transfers (dollars), Balance (dollars). Rows: [10/3, Transfer from savings account, , , 1,100.00, ], [10/5, Paycheck, 2,500.00, , , ], [10/5, Check #1 (dentist), , 225.00, , ], [10/7, Check #2 (phone bill), , 70.00, , ], [10/9, Mortgage payment, , 990.00, , ], [10/11, ATM\u2014cash, , 220.00, , ]"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

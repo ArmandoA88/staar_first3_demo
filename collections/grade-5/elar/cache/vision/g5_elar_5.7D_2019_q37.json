@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the play?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sunny has practiced for a spelling bee at school and outside her house, and now she decides to practice at home. She thinks that cheering her words will help her win the spelling bee, but she ends up getting into an argument with Greg."
+    },
+    {
+      "label": "B",
+      "text": "Sunny is cheering her spelling words and disturbing Greg, who is listening to music. She refuses to stop because she needs to practice for the spelling bee, so Mr. Sandstone suggests several solutions to end the argument."
+    },
+    {
+      "label": "C",
+      "text": "Two siblings, Sunny and Greg, are arguing about Sunny's loud cheering. Sunny wants Greg to give her back her pom-poms. Mr. Sandstone tries to discuss the situation, but Sunny begins spelling out the title of a song Greg likes. Greg storms off."
+    },
+    {
+      "label": "D",
+      "text": "After listening to Sunny and Greg argue, Mr. Sandstone proposes that he and Greg go to dinner and a movie while Sunny practices spelling. Mr. Sandstone asks Sunny what she wants for dinner before he leaves and tells her not to work too hard."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

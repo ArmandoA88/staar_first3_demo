@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 31 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change hear to heard"
+    },
+    {
+      "label": "G",
+      "text": "Change reasons to reason's"
+    },
+    {
+      "label": "H",
+      "text": "Change remember to rember"
+    },
+    {
+      "label": "J",
+      "text": "Change it's to its"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

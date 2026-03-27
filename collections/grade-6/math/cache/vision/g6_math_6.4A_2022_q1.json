@@ -1,0 +1,30 @@
+{
+  "stem": "The tables show the relationship between x and y for each of two data sets.\n\nData Set I\n\nx | 0 | 1 | 2 | 3 | 4\n\ny | 0 | 4 | 8 | 12 | 16\n\nData Set II\n\nx | 0 | 1 | 2 | 3 | 4\n\ny | 4 | 5 | 6 | 7 | 8\n\nWhich statements describe the relationship between x and y in each of the data sets?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Both data sets show additive relationships.\n\nIn Data Set I, y is 3 more than x, and in Data Set II, y is 4 more than x."
+    },
+    {
+      "label": "B",
+      "text": "Both data sets show multiplicative relationships.\n\nIn Data Set I, y is 4 times x, and in Data Set II, y is 2 times x."
+    },
+    {
+      "label": "C",
+      "text": "Data Set I shows a multiplicative relationship in which y is 4 times x.\n\nData Set II shows an additive relationship in which y is 4 more than x."
+    },
+    {
+      "label": "D",
+      "text": "Data Set I shows an additive relationship in which y is 12 more than x.\n\nData Set II shows a multiplicative relationship in which y is 2 times x."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Tables for Data Set I and Data Set II with values of x and y as described."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

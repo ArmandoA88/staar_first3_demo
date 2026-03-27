@@ -1,0 +1,30 @@
+{
+  "stem": "The perimeter of a rectangular rug is 2.4 meters. The length of the rug is 0.8 meter.\nWhat is the width in meters of the rug?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.4 m"
+    },
+    {
+      "label": "B",
+      "text": "0.8 m"
+    },
+    {
+      "label": "C",
+      "text": "3 m"
+    },
+    {
+      "label": "D",
+      "text": "1.6 m"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangular rug perimeter = 2.4 meters length = 0.8 meter"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The first photograph in \u201cNight Flyers\u201d and the last photograph in \u201cA Sweet Part of Nature\u201d both show that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "these animals enjoy being near people"
+    },
+    {
+      "label": "G",
+      "text": "there are more of these animals than people may think"
+    },
+    {
+      "label": "H",
+      "text": "people are interested in these animals"
+    },
+    {
+      "label": "J",
+      "text": "it is easy for people to help these animals"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photographs referenced but not shown in this image"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

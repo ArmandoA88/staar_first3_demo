@@ -1,0 +1,33 @@
+{
+  "stem": "The equation y = 1.5x can be used to determine y, the number of cups of water needed to cook x cups of rice. Which table shows the relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number of Cups of Rice, x   9    11    13    15\nNumber of Cups of Water, y  13.5  16.5  19.5  22.5"
+    },
+    {
+      "label": "B",
+      "text": "Number of Cups of Rice, x   10   12    14    16\nNumber of Cups of Water, y  11.5  13.5  15.5  17.5"
+    },
+    {
+      "label": "C",
+      "text": "Number of Cups of Rice, x   13   15    17    19\nNumber of Cups of Water, y  19.5  21    22.5  24"
+    },
+    {
+      "label": "D",
+      "text": "Number of Cups of Rice, x   14   16    18    20\nNumber of Cups of Water, y  14.5  16.5  18.5  20.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table A showing Number of Cups of Rice and Number of Cups of Water with values: x=9,11,13,15 and y=13.5,16.5,19.5,22.5",
+    "Table B showing Number of Cups of Rice and Number of Cups of Water with values: x=10,12,14,16 and y=11.5,13.5,15.5,17.5",
+    "Table C showing Number of Cups of Rice and Number of Cups of Water with values: x=13,15,17,19 and y=19.5,21,22.5,24",
+    "Table D showing Number of Cups of Rice and Number of Cups of Water with values: x=14,16,18,20 and y=14.5,16.5,18.5,20.5"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

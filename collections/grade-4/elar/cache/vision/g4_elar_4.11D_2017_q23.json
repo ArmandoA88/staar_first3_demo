@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 27?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete When"
+    },
+    {
+      "label": "B",
+      "text": "Change Zoeys to Zoey\u2019s"
+    },
+    {
+      "label": "C",
+      "text": "Change laid to lays"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in sentence 27."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

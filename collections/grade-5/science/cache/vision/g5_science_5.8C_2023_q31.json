@@ -1,0 +1,31 @@
+{
+  "stem": "Which drawing best shows how the light ray travels after it reaches the surface of the mirror?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Light ray reflecting off the mirror to the right"
+    },
+    {
+      "label": "B",
+      "text": "Light ray reflecting off the mirror back toward the lighted bulb"
+    },
+    {
+      "label": "C",
+      "text": "Light ray reflecting off the mirror upward to the left"
+    },
+    {
+      "label": "D",
+      "text": "Light ray reflecting off the mirror upward to the right"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of light ray traveling horizontally from lighted bulb toward a mirror tilted upward",
+    "Four option diagrams labeled A, B, C, D each showing a lighted bulb, mirror, and different reflected light ray directions"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

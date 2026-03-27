@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 29?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Zoey taking one last look at the sandy mound. Then the waves carried her away again."
+    },
+    {
+      "label": "G",
+      "text": "Zoey took one last look at the sandy mound. Before the waves carried her away again."
+    },
+    {
+      "label": "H",
+      "text": "Zoey taking one last look at the sandy mound, and then the waves carrying her away again."
+    },
+    {
+      "label": "J",
+      "text": "Zoey took one last look at the sandy mound before the waves carried her away again."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text with answer options"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

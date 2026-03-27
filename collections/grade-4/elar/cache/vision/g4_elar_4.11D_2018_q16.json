@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 1 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change familys to families"
+    },
+    {
+      "label": "G",
+      "text": "Change off to of"
+    },
+    {
+      "label": "H",
+      "text": "Change to travel to they travel"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 1 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

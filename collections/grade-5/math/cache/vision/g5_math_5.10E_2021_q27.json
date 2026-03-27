@@ -1,0 +1,30 @@
+{
+  "stem": "Spencer needs to balance his April budget.\n\nSpencer's April Budget\nIncome\t\t\t\t\tExpenses\nAllowance.......................$40\t| Cell phone .......................$15\nAfter-school job...............$30\tPiano lessons ..................$25\n\t\t\t\t\tEntertainment..................$30\n\t\t\t\t\tSavings........................$10\n\nWhat can he do so that his budget is balanced?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Increase his savings this month by $10"
+    },
+    {
+      "label": "B",
+      "text": "Increase his allowance by $5"
+    },
+    {
+      "label": "C",
+      "text": "Decrease his piano lessons by $5"
+    },
+    {
+      "label": "D",
+      "text": "Decrease his entertainment costs by $10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Spencer's April Budget table with Income and Expenses"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

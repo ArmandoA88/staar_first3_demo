@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 25 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change kept to keeped"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after hand"
+    },
+    {
+      "label": "C",
+      "text": "Change and to I"
+    },
+    {
+      "label": "D",
+      "text": "Change picked to pick"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

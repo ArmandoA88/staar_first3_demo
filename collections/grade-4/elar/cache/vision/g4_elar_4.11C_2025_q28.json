@@ -1,0 +1,34 @@
+{
+  "stem": "How should sentence 24 be revised so that it does not repeat information?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Before long, all the runners were lined up and to start to wait for the signal."
+    },
+    {
+      "label": "B",
+      "text": "Before long, all the runners were lined up and waiting for the signal to start."
+    },
+    {
+      "label": "C",
+      "text": "Before long, all the runners were for the signal lined up and to start to wait."
+    },
+    {
+      "label": "D",
+      "text": "Before long, all the runners were lined up and waiting and for the signal to start."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2025 \u2013 Q28 Passage #4",
+    "\u24b6",
+    "\u24b7",
+    "\u24b8",
+    "\u24b9"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

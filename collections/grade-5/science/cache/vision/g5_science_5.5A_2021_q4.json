@@ -1,0 +1,30 @@
+{
+  "stem": "A table of different properties of four samples of matter is shown.\n\nWhich conclusion can be made about the samples based on the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sample 1 is made of plastic."
+    },
+    {
+      "label": "G",
+      "text": "Sample 2 is made of metal."
+    },
+    {
+      "label": "H",
+      "text": "Sample 3 is attracted to magnets."
+    },
+    {
+      "label": "J",
+      "text": "Sample 4 is less dense than water."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns: Sample, Conducts Electricity, Conducts Heat, Soluble in Water, Physical State at Room Temperature; rows: 1 (No, No, Yes, Solid), 2 (Yes, Yes, No, Solid), 3 (No, Yes, Yes, Liquid), 4 (Yes, Yes, No, Liquid)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to combine sentences 34 and 35?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He turned and his golden eyes toward me almost looked embarrassed."
+    },
+    {
+      "label": "G",
+      "text": "When he turned his golden eyes toward me, he almost looked embarrassed."
+    },
+    {
+      "label": "H",
+      "text": "Turning his golden eyes toward me, which almost looked embarrassed."
+    },
+    {
+      "label": "J",
+      "text": "He turned his golden eyes toward me, he almost looked embarrassed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

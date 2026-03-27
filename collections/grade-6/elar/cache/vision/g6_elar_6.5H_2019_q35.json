@@ -1,0 +1,28 @@
+{
+  "stem": "Which idea is supported throughout the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Lindbergh was younger than most pilots hoping to fly from New York to Paris."
+    },
+    {
+      "label": "B",
+      "text": "Airplanes with multiple engines were safest for crossing the Atlantic Ocean."
+    },
+    {
+      "label": "C",
+      "text": "It took Lindbergh years to get the money he needed to build his plane."
+    },
+    {
+      "label": "D",
+      "text": "Lindbergh believed a new strategy was needed to fly from New York to Paris."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

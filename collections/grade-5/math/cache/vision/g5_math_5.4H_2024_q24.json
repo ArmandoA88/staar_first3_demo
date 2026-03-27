@@ -1,0 +1,34 @@
+{
+  "stem": "The perimeter of a rectangular tablecloth is 320 inches. The width of the tablecloth is 70 inches.\n\nWhat is the length of the tablecloth in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "250 in."
+    },
+    {
+      "label": "B",
+      "text": "180 in."
+    },
+    {
+      "label": "C",
+      "text": "90 in."
+    },
+    {
+      "label": "D",
+      "text": "125 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2024 \u2013 Q24",
+    "A 250 in.",
+    "B 180 in.",
+    "C 90 in.",
+    "D 125 in."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

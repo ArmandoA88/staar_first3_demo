@@ -1,0 +1,35 @@
+{
+  "stem": "Which line from the poem best explains the speaker's problem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "that isn\u2019t there by day \u2014 (line 3)"
+    },
+    {
+      "label": "G",
+      "text": "I\u2019m afraid. (line 13)"
+    },
+    {
+      "label": "H",
+      "text": "I know just what you\u2019ll say \u2014 (line 16)"
+    },
+    {
+      "label": "J",
+      "text": "The reason is, (line 20)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q34 Passage #5",
+    "34 Which line from the poem best explains the speaker's problem?",
+    "F that isn't there by day \u2014 (line 3)",
+    "G I'm afraid. (line 13)",
+    "H I know just what you'll say \u2014 (line 16)",
+    "J The reason is, (line 20)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

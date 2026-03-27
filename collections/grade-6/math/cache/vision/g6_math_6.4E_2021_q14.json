@@ -1,0 +1,30 @@
+{
+  "stem": "The rectangular model is made up of squares. Each square is of equal size.\n\nWhat percentage of the model is shaded?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "36%"
+    },
+    {
+      "label": "G",
+      "text": "50%"
+    },
+    {
+      "label": "H",
+      "text": "45%"
+    },
+    {
+      "label": "J",
+      "text": "40%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangular model composed of a grid of 10 by 6 squares (60 total squares) with 30 squares shaded on the left half."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

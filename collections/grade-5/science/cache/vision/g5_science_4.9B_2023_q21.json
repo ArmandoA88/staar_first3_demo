@@ -1,0 +1,34 @@
+{
+  "stem": "Based on the diagram, which lunar phase will occur directly after X?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Image of a mostly illuminated moon with a small dark edge on the right side)"
+    },
+    {
+      "label": "B",
+      "text": "(Image of a thin crescent moon illuminated on the left side)"
+    },
+    {
+      "label": "C",
+      "text": "(Image of a fully illuminated full moon)"
+    },
+    {
+      "label": "D",
+      "text": "(Image of a thin crescent moon illuminated on the right side)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of moon phases showing progression from crescent to full with X marked on the full moon phase",
+    "Option A moon image",
+    "Option B moon image",
+    "Option C moon image",
+    "Option D moon image"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Images in options are described generally to preserve integrity without exact visible details."
+}

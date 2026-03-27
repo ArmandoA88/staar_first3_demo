@@ -1,0 +1,30 @@
+{
+  "stem": "How is the play's conflict resolved?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jonathan says he is sorry for what he did."
+    },
+    {
+      "label": "B",
+      "text": "Deanna explains that she has too many commitments."
+    },
+    {
+      "label": "C",
+      "text": "Deanna promises to spend more time with Jonathan."
+    },
+    {
+      "label": "D",
+      "text": "Jonathan suggests that Deanna keep her diary in her room."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

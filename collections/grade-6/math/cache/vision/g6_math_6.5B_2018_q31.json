@@ -1,0 +1,28 @@
+{
+  "stem": "A shop owner offered a 20% discount off the regular price of a mirror. The amount of the discount is $3.\n\nWhat is the regular price of the mirror?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$15"
+    },
+    {
+      "label": "B",
+      "text": "$6"
+    },
+    {
+      "label": "C",
+      "text": "$9"
+    },
+    {
+      "label": "D",
+      "text": "$18"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

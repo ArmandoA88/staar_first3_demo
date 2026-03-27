@@ -1,0 +1,56 @@
+{
+  "stem": "A person runs laps around a track. The relationship between the number of laps, x, and the total distance run in miles, y, can be represented by the equation y = 0.25x.\n\nComplete the table to represent this relationship.\n\nMove the correct answer to each box in the table. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "1.25"
+    },
+    {
+      "label": null,
+      "text": "1.75"
+    },
+    {
+      "label": null,
+      "text": "3.5"
+    },
+    {
+      "label": null,
+      "text": "4.25"
+    },
+    {
+      "label": null,
+      "text": "6.75"
+    },
+    {
+      "label": null,
+      "text": "7.25"
+    },
+    {
+      "label": null,
+      "text": "16.75"
+    },
+    {
+      "label": null,
+      "text": "17.25"
+    }
+  ],
+  "choice_pool": [
+    "1.25",
+    "1.75",
+    "3.5",
+    "4.25",
+    "6.75",
+    "7.25",
+    "16.75",
+    "17.25"
+  ],
+  "response_template": "| Number of Laps, x | Total Distance, y (miles) |\n|------------------|---------------------------|\n| 2                | 0.5                       |\n| 7                | [blank_1]                 |\n| 8                | 2                         |\n| 17               | [blank_2]                 |",
+  "visual_elements": [
+    "table",
+    "numbers and boxes for drag and drop"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "The problem is a drag and drop type where students must fill in the blanks in the table by applying y=0.25x to find distances for laps 7 and 17 using given options."
+}

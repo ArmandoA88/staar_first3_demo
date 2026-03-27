@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence should replace sentence 33 to give this paper a more effective closing?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "At sunrise, I would be the first one up to get up and get ready for our morning hike."
+    },
+    {
+      "label": "B",
+      "text": "While resting, I thought about my first shooting star that was full of color."
+    },
+    {
+      "label": "C",
+      "text": "With my goal accomplished, I closed my eyes and smiled from ear to ear."
+    },
+    {
+      "label": "D",
+      "text": "When I drifted off to sleep in my sleeping bag, I dreamed about returning home Monday."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

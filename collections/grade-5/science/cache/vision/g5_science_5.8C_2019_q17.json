@@ -1,0 +1,30 @@
+{
+  "stem": "Which table best describes the behavior of the light ray as it encounters the materials?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Material 1: The light ray is scattered in all directions. Material 2: The light ray is refracted."
+    },
+    {
+      "label": "B",
+      "text": "Material 1: The light ray is absorbed. Material 2: The light ray is reflected."
+    },
+    {
+      "label": "C",
+      "text": "Material 1: The light ray is transmitted. Material 2: The light ray is refracted."
+    },
+    {
+      "label": "D",
+      "text": "Material 1: The light ray is refracted. Material 2: The light ray is reflected."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Drawing of a light ray passing through Material 1 and reflecting off Material 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

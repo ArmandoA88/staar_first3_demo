@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to \\( \\frac{12 + 6}{2} \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(12 + 6) \\div 2"
+    },
+    {
+      "label": "G",
+      "text": "12 + 6 \\div 2"
+    },
+    {
+      "label": "H",
+      "text": "12 \\div 2 + 6"
+    },
+    {
+      "label": "J",
+      "text": "12 \\div (2 + 6)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{12 + 6}{2} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

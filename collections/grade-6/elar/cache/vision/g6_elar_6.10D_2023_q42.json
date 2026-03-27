@@ -1,0 +1,35 @@
+{
+  "stem": "What change is needed in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change However to Meanwhile"
+    },
+    {
+      "label": "B",
+      "text": "Change scientists to Scientists"
+    },
+    {
+      "label": "C",
+      "text": "Change have gathered to had gathered"
+    },
+    {
+      "label": "D",
+      "text": "Delete the comma after new"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q42 Passage #7",
+    "What change is needed in sentence 2?",
+    "A  Change However to Meanwhile",
+    "B  Change scientists to Scientists",
+    "C  Change have gathered to had gathered",
+    "D  Delete the comma after new"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

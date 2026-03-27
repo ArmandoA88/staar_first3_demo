@@ -1,0 +1,30 @@
+{
+  "stem": "The relationship between numbers in List X and List Y follows the rule y = x + 2.05. Which diagram shows this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "List X               List Y\n29.1 \u2794 31.6\n34.1 \u2794 36.6\n39.1 \u2794 41.6\n44.1 \u2794 46.6"
+    },
+    {
+      "label": "B",
+      "text": "List X               List Y\n31.15 \u2794 33.15\n33.2 \u2794 35.2\n35.25 \u2794 37.25\n37.3 \u2794 39.3"
+    },
+    {
+      "label": "C",
+      "text": "List X               List Y\n29.1 \u2794 31.15\n34.1 \u2794 36.15\n39.1 \u2794 41.15\n44.1 \u2794 46.15"
+    },
+    {
+      "label": "D",
+      "text": "List X               List Y\n31.15 \u2794 29.1\n36.15 \u2794 34.1\n41.15 \u2794 39.1\n46.15 \u2794 44.1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four lists each showing two columns labeled List X and List Y with arrows connecting numbers in List X to List Y as answer choices A, B, C, and D."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

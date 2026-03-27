@@ -1,0 +1,35 @@
+{
+  "stem": "What is the main message of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "People who have courage will find that there is nothing to fear."
+    },
+    {
+      "label": "G",
+      "text": "People who want to work for others must always keep their promises."
+    },
+    {
+      "label": "H",
+      "text": "People who do not give up are more likely to get what they want."
+    },
+    {
+      "label": "J",
+      "text": "People who work hard are more successful in life than those who do not."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2018 \u2013 Q10 Passage #2",
+    "10 What is the main message of the story?",
+    "F  People who have courage will find that there is nothing to fear.",
+    "G  People who want to work for others must always keep their promises.",
+    "H  People who do not give up are more likely to get what they want.",
+    "J  People who work hard are more successful in life than those who do not."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

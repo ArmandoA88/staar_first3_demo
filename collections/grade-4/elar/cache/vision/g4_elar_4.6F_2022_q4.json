@@ -1,0 +1,30 @@
+{
+  "stem": "What does this line suggest?",
+  "instruction": "Read line 45.\n\nMR. LUND: Well, tomorrow is a new day.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Nelson can improve the situation with Lucia and Ms. Chen."
+    },
+    {
+      "label": "G",
+      "text": "Lucia will notice that Nelson is being nice to her."
+    },
+    {
+      "label": "H",
+      "text": "Mr. Lund will help Nelson look for a new backpack."
+    },
+    {
+      "label": "J",
+      "text": "Nelson should return to writing camp with Matt."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "MR. LUND: Well, tomorrow is a new day."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph under paragraph 1 suggests that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "artists who make papel picado need many years of training"
+    },
+    {
+      "label": "B",
+      "text": "making papel picado is something that a person must do alone"
+    },
+    {
+      "label": "C",
+      "text": "artists use detailed designs for papel picado"
+    },
+    {
+      "label": "D",
+      "text": "making papel picado requires only a short amount of time to complete"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph under paragraph 1"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

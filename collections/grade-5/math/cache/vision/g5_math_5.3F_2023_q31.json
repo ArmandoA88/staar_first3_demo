@@ -1,0 +1,25 @@
+{
+  "stem": "Luis and his two brothers equally shared some waffles. The model shown represents the number of waffles Luis and his two brothers each received.",
+  "instruction": "Complete the decimal equation to represent this model. Move the correct number to each box. Each number may be used more than once. Not all numbers will be used.",
+  "options": [],
+  "choice_pool": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "response_template": "[blank_1][blank_2] \u00f7 [blank_3] [blank_4] [blank_5]",
+  "visual_elements": [
+    "Model with three groups each containing 1 1/2 waffles.",
+    "Key showing 1 waffle equals the waffle image block."
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "The problem requires completing a decimal division equation with draggable numbers based on the waffle model."
+}

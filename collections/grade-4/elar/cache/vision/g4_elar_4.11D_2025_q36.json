@@ -1,0 +1,33 @@
+{
+  "stem": "Cora has made an error in sentence 8. Select the response that corrects this error.\n\nHer eyebrows crinkled together in concern as she ______ said, \u201cCora, what\u2019s the matter?\u201d",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "been"
+    },
+    {
+      "label": null,
+      "text": "have"
+    },
+    {
+      "label": null,
+      "text": "he"
+    },
+    {
+      "label": null,
+      "text": "she"
+    }
+  ],
+  "choice_pool": [
+    "been",
+    "have",
+    "he",
+    "she"
+  ],
+  "response_template": "Her eyebrows crinkled together in concern as she [blank_1] said, \u201cCora, what\u2019s the matter?\u201d",
+  "visual_elements": [],
+  "item_type_inferred": "inline choice",
+  "confidence": 1,
+  "notes": null
+}

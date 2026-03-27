@@ -1,0 +1,30 @@
+{
+  "stem": "A dance teacher split a 3-hour dance class into lessons that were each \\( \\frac{1}{6} \\) hour. What was the number of lessons in the 3-hour dance class?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "21"
+    },
+    {
+      "label": "B",
+      "text": "18"
+    },
+    {
+      "label": "C",
+      "text": "9"
+    },
+    {
+      "label": "D",
+      "text": "6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction 1/6"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

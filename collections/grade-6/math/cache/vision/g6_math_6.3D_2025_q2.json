@@ -1,0 +1,30 @@
+{
+  "stem": "The manager of a pet store monitors the number of fish added to or removed from a tank each day over a seven-day period. Each number in the list represents the change in the number of fish in the tank for a day during that week.\n\n       + 8     \t  \u22126 \t     + 2 \t     \u22125 \t     \u22121 \t    + 3 \t     \u22126\n\nWhat number represents the total change in the number of fish in the tank?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\u22125"
+    },
+    {
+      "label": "B",
+      "text": "2"
+    },
+    {
+      "label": "C",
+      "text": "5"
+    },
+    {
+      "label": "D",
+      "text": "\u22122"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "+ 8     \t  \u22126 \t     + 2 \t     \u22125 \t     \u22121 \t    + 3 \t     \u22126"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

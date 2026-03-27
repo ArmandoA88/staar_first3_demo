@@ -1,0 +1,28 @@
+{
+  "stem": "Which expression has a value of -22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8 - (-3) + 33 \u00f7 (-3)"
+    },
+    {
+      "label": "B",
+      "text": "-3 + (-2) - (-8) - 1"
+    },
+    {
+      "label": "C",
+      "text": "-6 \u00b7 2 - (-15)"
+    },
+    {
+      "label": "D",
+      "text": "-5 \u00b7 2 - 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

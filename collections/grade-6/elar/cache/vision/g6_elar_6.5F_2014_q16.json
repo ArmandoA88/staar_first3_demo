@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph below paragraph 2 is included with the selection to help the reader understand how \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the Great Pyramid has changed over time"
+    },
+    {
+      "label": "G",
+      "text": "large the Great Pyramid is compared with other pyramids"
+    },
+    {
+      "label": "H",
+      "text": "many visitors the Great Pyramid attracts"
+    },
+    {
+      "label": "J",
+      "text": "the Great Pyramid was constructed"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph below paragraph 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

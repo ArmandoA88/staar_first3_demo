@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "As noise fills the first-grade classroom, Miss Sanchez makes the students stop talking. Chloe is excited about working with the students as part of a mentoring program. Chloe\u2019s friend Maneya is assigned to mentor fourth-grade students, and Maneya is unhappy about her assignment."
+    },
+    {
+      "label": "G",
+      "text": "Chloe is assigned to mentor in a first-grade class, and her friend Maneya is assigned to mentor in a fourth-grade class. At first Chloe thinks teaching first graders will be easy, but she soon finds out that it is not as easy as she had thought. Maneya has success with the fourth-grade class while Chloe struggles."
+    },
+    {
+      "label": "H",
+      "text": "Chloe becomes confused when Fernando puts three fingers in front of her face. She complains to her friend Maneya that mentoring in a first-grade class is not easy at all. Chloe thinks that the students do not understand her. Chloe learns that being a mentor in a first-grade class is not nearly as easy as she had first thought."
+    },
+    {
+      "label": "J",
+      "text": "Chloe and her friend Maneya are both assigned to be mentors in elementary school classrooms. Maneya finds success early with her fourth-grade class, but Chloe has a difficult time managing her first graders. Chloe eventually learns that she has to adapt to the procedures of the first-grade classroom in order to succeed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q16 Passage #2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

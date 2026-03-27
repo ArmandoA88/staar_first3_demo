@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of this expression?\n\\[ \\frac{1}{8} \\div 4 \\]",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{32} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{2} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{12} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{2}{1} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\[ \\frac{1}{8} \\div 4 \\]"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

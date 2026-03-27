@@ -1,0 +1,33 @@
+{
+  "stem": "A student mixed lemon juice and sugar with warm water. Which property of both the lemon juice and the sugar stayed the same when they were mixed with the water?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Density"
+    },
+    {
+      "label": "B",
+      "text": "Color"
+    },
+    {
+      "label": "C",
+      "text": "Shape"
+    },
+    {
+      "label": "D",
+      "text": "Mass"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A Density",
+    "B Color",
+    "C Shape",
+    "D Mass"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

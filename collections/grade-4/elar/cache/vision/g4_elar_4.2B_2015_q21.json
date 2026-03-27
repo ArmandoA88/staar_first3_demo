@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, should be made in sentence 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after dangerous"
+    },
+    {
+      "label": "B",
+      "text": "Delete and that"
+    },
+    {
+      "label": "C",
+      "text": "Change to much to too much"
+    },
+    {
+      "label": "D",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with question and answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

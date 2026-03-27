@@ -1,0 +1,30 @@
+{
+  "stem": "Regina writes the expression y + 9 \\cdot \\frac{3}{4}. Which expression is equivalent to the one Regina writes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(9 \\cdot 3 \\div 4) + y"
+    },
+    {
+      "label": "B",
+      "text": "9 + y \\cdot (3 \\div 4)"
+    },
+    {
+      "label": "C",
+      "text": "(y + 9)(3 \\div 4)"
+    },
+    {
+      "label": "D",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y + 9 \\cdot \\frac{3}{4}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

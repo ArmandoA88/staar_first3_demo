@@ -1,0 +1,30 @@
+{
+  "stem": "Which change occurs when lemon juice is mixed with water?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The mass of the lemon juice decreases."
+    },
+    {
+      "label": "G",
+      "text": "The water becomes a solid."
+    },
+    {
+      "label": "H",
+      "text": "The lemon juice dissolves and spreads out evenly in the water."
+    },
+    {
+      "label": "J",
+      "text": "The volume of the water decreases."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best paraphrase of these sentences?",
+  "instruction": "Read these sentences from paragraph 6.\n\n*It builds strength in communities. It encourages people to care about the place where they live.*",
+  "options": [
+    {
+      "label": "A",
+      "text": "It brings strong people to a community who will take care of their neighbors."
+    },
+    {
+      "label": "B",
+      "text": "It adds strength to the relationships between people who live in a place."
+    },
+    {
+      "label": "C",
+      "text": "It lets people pick up trash around their towns and build strong gardens."
+    },
+    {
+      "label": "D",
+      "text": "It makes communities stronger and helps people care for where they live."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "It builds strength in communities. It encourages people to care about the place where they live."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

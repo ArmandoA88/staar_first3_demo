@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A peasant finds a bag of money behind a fish market and returns it to a merchant for a reward. The merchant refuses to pay the reward. The peasant goes to the prince and tells his story. The merchant also tells his story. The bag is supposed to have 1,000 coins but has only 900. The prince listens to both the peasant and the merchant."
+    },
+    {
+      "label": "B",
+      "text": "After losing a bag of money, a merchant promises a reward of 100 coins for its return. When the bag is returned by a peasant, the merchant tries to avoid paying the reward by saying the peasant took some of the money. They both go before a Romanian prince. The prince uses the merchant's statements against him to reward the peasant."
+    },
+    {
+      "label": "C",
+      "text": "One day a Romanian prince asks a peasant and a merchant to appear in his chambers to talk about a bag of money. The merchant says the peasant took some money out of the bag. The prince can tell that the merchant is greedy. He holds up the money bag. It is made of leather just like other money bags. The prince says the bag does not belong to the merchant."
+    },
+    {
+      "label": "D",
+      "text": "A merchant travels to Romania, where he loses a bag of money. He says that he will give 100 coins to the person who finds it. A peasant finds the bag and returns it to the merchant. The merchant tells the peasant that the bag is missing the reward money. The peasant says that he did not take any money out of the bag. The prince gives the bag of money to the peasant."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

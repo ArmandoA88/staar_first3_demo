@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "G",
+      "text": "Change grabed to grabbed"
+    },
+    {
+      "label": "H",
+      "text": "Change that to it"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

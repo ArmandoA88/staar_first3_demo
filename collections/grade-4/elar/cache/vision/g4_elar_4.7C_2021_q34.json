@@ -1,0 +1,33 @@
+{
+  "stem": "Which sentence from the story suggests that Phineas is embarrassed to ask for help?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Next, I needed a plan. (paragraph 2)"
+    },
+    {
+      "label": "G",
+      "text": "I'm not allowed to use the stove. (paragraph 5)"
+    },
+    {
+      "label": "H",
+      "text": "I felt my face turn red. (paragraph 8)"
+    },
+    {
+      "label": "J",
+      "text": "I couldn't get the lid off the jar. (paragraph 12)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "F Next, I needed a plan. (paragraph 2)",
+    "G I'm not allowed to use the stove. (paragraph 5)",
+    "H I felt my face turn red. (paragraph 8)",
+    "J I couldn't get the lid off the jar. (paragraph 12)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The list shows the numbers of employees in the nine departments at a company.\n\n14, 23, 6, 54, 30, 26, 17, 3, 26\n\nWhat is the range of the numbers of employees in these departments?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "23"
+    },
+    {
+      "label": "B",
+      "text": "51"
+    },
+    {
+      "label": "C",
+      "text": "26"
+    },
+    {
+      "label": "D",
+      "text": "18"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "14, 23, 6, 54, 30, 26, 17, 3, 26"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

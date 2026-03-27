@@ -1,0 +1,35 @@
+{
+  "stem": "How does Ruben contribute to the plot of the play?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He supports Carter\u2019s decision to invite Sam to play with the team."
+    },
+    {
+      "label": "G",
+      "text": "He thinks of a friend who could play with the team."
+    },
+    {
+      "label": "H",
+      "text": "He keeps score when Marcus shoots baskets against Sam."
+    },
+    {
+      "label": "J",
+      "text": "He asks Marcus to think of a way to solve their problem."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q20 Passage #3",
+    "20 How does Ruben contribute to the plot of the play?",
+    "F He supports Carter\u2019s decision to invite Sam to play with the team.",
+    "G He thinks of a friend who could play with the team.",
+    "H He keeps score when Marcus shoots baskets against Sam.",
+    "J He asks Marcus to think of a way to solve their problem."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

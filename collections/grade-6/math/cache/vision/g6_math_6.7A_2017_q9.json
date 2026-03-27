@@ -1,0 +1,30 @@
+{
+  "stem": "Leon wrote an expression that is equivalent to (30 + 6) \u00f7 12. Which expression could be the one Leon wrote?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "36 \u00f7 3 \u2022 4"
+    },
+    {
+      "label": "B",
+      "text": "(3 \u2022 3 \u2022 4) \u00f7 4 \u2022 3"
+    },
+    {
+      "label": "C",
+      "text": "5 \u2022 6 + 2 \u2022 3 \u00f7 3 \u2022 2 \u2022 2"
+    },
+    {
+      "label": "D",
+      "text": "(3 \u2022 3 \u2022 2 \u2022 2) \u00f7 (3 \u2022 2 \u2022 2)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "math expressions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

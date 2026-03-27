@@ -1,0 +1,40 @@
+{
+  "stem": "A diagram of a greenhouse is shown.\n\nComplete the sentences to explain the water in the greenhouse.\n\nMove the correct answer to each box. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "evaporation"
+    },
+    {
+      "label": null,
+      "text": "condensation"
+    },
+    {
+      "label": null,
+      "text": "solid"
+    },
+    {
+      "label": null,
+      "text": "liquid"
+    },
+    {
+      "label": null,
+      "text": "gas"
+    }
+  ],
+  "choice_pool": [
+    "evaporation",
+    "condensation",
+    "solid",
+    "liquid",
+    "gas"
+  ],
+  "response_template": "The process of [blank_1] is occurring on the greenhouse ceiling. This occurs when a [blank_2] changes to a [blank_3].",
+  "visual_elements": [
+    "diagram of greenhouse with sun, water droplets on greenhouse ceiling, puddle of water on greenhouse floor"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "The problem instructs to complete sentences using drag and drop from provided tokens; some tokens will not be used."
+}

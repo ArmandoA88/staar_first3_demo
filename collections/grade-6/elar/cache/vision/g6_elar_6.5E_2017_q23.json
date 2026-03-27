@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from \u201cPrince Patrick\u201d shows that Patrick begins to feel the same way?",
+  "instruction": "Read this sentence from \u201cA Wintry Welcome.\u201d\n\nI almost forgot about Texas as I concentrated on my new friends instead.",
+  "options": [
+    {
+      "label": "A",
+      "text": "\"This is not how I imagined I would be spending Saturday afternoon,\" he thought."
+    },
+    {
+      "label": "B",
+      "text": "Patrick didn\u2019t even know how to braid hair."
+    },
+    {
+      "label": "C",
+      "text": "The girls chatted about Patrick\u2019s work as they positioned shimmering crowns on their heads."
+    },
+    {
+      "label": "D",
+      "text": "\"Might as well make this fun,\" he thought."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I almost forgot about Texas as I concentrated on my new friends instead."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

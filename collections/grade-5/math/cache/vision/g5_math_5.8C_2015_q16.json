@@ -1,0 +1,30 @@
+{
+  "stem": "The ordered pairs below represent three vertices of a trapezoid.\n\n(2, 1), (4, 4), (4, 6)\n\nWhich ordered pair could represent the location of the fourth vertex of this trapezoid?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(4, 5)"
+    },
+    {
+      "label": "B",
+      "text": "(10, 9)"
+    },
+    {
+      "label": "C",
+      "text": "(2, 9)"
+    },
+    {
+      "label": "D",
+      "text": "(4, 1)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with axes x and y from 0 to 10"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

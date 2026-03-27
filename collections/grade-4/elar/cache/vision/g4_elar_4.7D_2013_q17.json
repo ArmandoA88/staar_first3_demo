@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "One Saturday evening two brothers are at their father's office building. The younger brother thinks he sees a stranger. He sits at the table and tells his older brother what the stranger looks like. Later the brothers share the story with their father. The three of them go down the hallway to take a look."
+    },
+    {
+      "label": "B",
+      "text": "Two brothers come to their father's office building and go to the break room to use the vending machine. They become scared when they see a stranger in the hallway. They run to their father and describe to him what the stranger looks like."
+    },
+    {
+      "label": "C",
+      "text": "Two brothers go with their father to his office building. While in the hallway, the younger brother becomes scared when he thinks he sees a stranger. At first the older brother does not believe the story, but when he also becomes afraid, Dad helps them discover who the stranger really is."
+    },
+    {
+      "label": "D",
+      "text": "One Saturday two brothers go to buy some gum in the break room near their father's office. When they see a stranger in the hallway, the older brother drops the gum on the floor. Once they are no longer afraid, the younger brother tells which flavor of gum he would like."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

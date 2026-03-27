@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A girl finds a collar and a leash that she likes in the pet store, but she realizes that they cost too much money. She asks the worker if she can make a plan to pay for them. He tells her that the owner wouldn\u2019t like that idea. A parrot keeps interrupting their conversation, but the girl continues talking to the worker."
+    },
+    {
+      "label": "G",
+      "text": "A girl wants to buy a collar and a leash at a pet store, but she does not have enough money. She asks if she can pay over time, but the worker says no. Next she asks if she can pay by working in the store, but the worker is not sure. He agrees at last after he sees how well her dog and the store parrot get along."
+    },
+    {
+      "label": "H",
+      "text": "A girl takes her dog to a pet store one day. She leaves her dog outside and goes into the store to find a leash and a collar. The girl meets a worker and the store parrot named Gertrude. The parrot does not like dogs, but the girl thinks it will like her dog because her dog is very nice."
+    },
+    {
+      "label": "J",
+      "text": "A girl chooses a leash and a collar that she likes and shows them to her dog. She wants to buy them, but she doesn\u2019t have enough money. The girl notices that the store needs cleaning, so she offers to clean the store to earn money to buy the items for her dog."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

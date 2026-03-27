@@ -1,0 +1,35 @@
+{
+  "stem": "What change, if any, should be made in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change I thought to Thought"
+    },
+    {
+      "label": "G",
+      "text": "Change skipping to skiping"
+    },
+    {
+      "label": "H",
+      "text": "Change Event to event"
+    },
+    {
+      "label": "J",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I thought",
+    "Thought",
+    "skipping",
+    "skiping",
+    "Event",
+    "event"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

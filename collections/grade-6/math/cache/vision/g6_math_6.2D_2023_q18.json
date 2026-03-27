@@ -1,0 +1,19 @@
+{
+  "stem": "The table shows the amounts the water levels increased in feet for five Texas lakes during one week.\n\nOrder the names of the lakes by water level increase from greatest to least.\n\nMove the correct answer to each box.",
+  "instruction": "Order the names of the lakes by water level increase from greatest to least. Move the correct answer to each box.",
+  "options": [],
+  "choice_pool": [
+    "Arlington",
+    "Athens",
+    "Belton",
+    "Bonham",
+    "Cedar Creek"
+  ],
+  "response_template": "[blank_1] [blank_2] [blank_3] [blank_4] [blank_5]",
+  "visual_elements": [
+    "Table titled Texas Lakes with columns: Name of Lake, Increase in Water Level (feet): Arlington 2.2, Athens 1 1/4, Belton 5.2, Bonham 2 1/2, Cedar Creek 3/4"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

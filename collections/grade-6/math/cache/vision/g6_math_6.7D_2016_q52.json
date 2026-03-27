@@ -1,0 +1,30 @@
+{
+  "stem": "Which two expressions are equivalent?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "9(6 + x)\n9 \\cdot 6 + 9 \\cdot x"
+    },
+    {
+      "label": "G",
+      "text": "x + (8 \\cdot 9)\n(x + 8) \\cdot 9"
+    },
+    {
+      "label": "H",
+      "text": "8 \\cdot 6 \\div x\n8 \\cdot x \\div 6"
+    },
+    {
+      "label": "J",
+      "text": "6 \\cdot x + 3\n6 \\cdot (x + 3)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Expressions with multiplication, addition, division symbols"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

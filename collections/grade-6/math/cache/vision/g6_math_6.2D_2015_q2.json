@@ -1,0 +1,30 @@
+{
+  "stem": "A store manager analyzed the change in sales of various products from last month to this month. The percent increases and decreases in sales are shown in the table.\n\nChanges in Sales\n\n| Product | Change in Sales (%) |\n|---------|---------------------|\n| Watches | -0.3                |\n| Ties    | 3                   |\n| Shoes   | 2.91                |\n| Shirts  | -0.9                |\n| Pants   | -1.01               |\n\nThese values will be ordered from greatest to least. Which list of the products matches this order?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Pants, shirts, watches, shoes, ties"
+    },
+    {
+      "label": "B",
+      "text": "Ties, shoes, watches, shirts, pants"
+    },
+    {
+      "label": "C",
+      "text": "Watches, shirts, pants, shoes, ties"
+    },
+    {
+      "label": "D",
+      "text": "Ties, shoes, pants, shirts, watches"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Product and Change in Sales (%), showing Watches -0.3, Ties 3, Shoes 2.91, Shirts -0.9, Pants -1.01"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

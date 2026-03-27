@@ -1,0 +1,28 @@
+{
+  "stem": "What is the main message of the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It is important to practice new skills."
+    },
+    {
+      "label": "G",
+      "text": "It is sometimes difficult to be patient."
+    },
+    {
+      "label": "H",
+      "text": "Trying something new takes courage."
+    },
+    {
+      "label": "J",
+      "text": "Exploring nature can be fun."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

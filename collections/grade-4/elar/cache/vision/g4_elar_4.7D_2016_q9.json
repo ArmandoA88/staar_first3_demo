@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Puppy Bowl gathers animals from across the country and films them for a show that airs on the cable channel Animal Planet. The 2013 show included puppies, kittens, hamsters, and hedgehogs playing a kind of football game."
+    },
+    {
+      "label": "B",
+      "text": "The cable channel Animal Planet created the Puppy Bowl to air on the day of the Super Bowl. The show brings together animals from shelters across the country so they can participate in a football game. Viewers are encouraged to adopt the show participants."
+    },
+    {
+      "label": "C",
+      "text": "When the cable channel Animal Planet realized that viewers were leaving the channel to watch the Super Bowl, a show was created to bring viewers back. The show is called the Puppy Bowl. It features puppies and other animals."
+    },
+    {
+      "label": "D",
+      "text": "The Puppy Bowl is filmed in a studio for the cable channel Animal Planet. Puppies are filmed playing a version of football. Kittens, hamsters, and hedgehogs have also been featured on the show."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A student makes a mixture of gravel, iron filings, and water. Which table correctly identifies the tools that can be used to separate each substance from the mixture?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Tool     Substance Separated from Mixture\nScreen   Gravel\nMagnet   Iron filings\nPaper filter   Water"
+    },
+    {
+      "label": "B",
+      "text": "Tool     Substance Separated from Mixture\nFunnel   Gravel\nPaper filter   Iron filings\nHot plate   Water"
+    },
+    {
+      "label": "C",
+      "text": "Tool     Substance Separated from Mixture\nScreen   Gravel\nHot Plate   Iron filings\nFunnel   Water"
+    },
+    {
+      "label": "D",
+      "text": "Tool     Substance Separated from Mixture\nPaper filter   Gravel\nMagnet   Iron filings\nScreen   Water"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, and D, each showing three tools paired with the substances gravel, iron filings, or water."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,25 @@
+{
+  "stem": "What is the value of each number?",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once.",
+  "options": [],
+  "choice_pool": [
+    "5",
+    "-5",
+    "-25",
+    "25"
+  ],
+  "response_template": "|5| = [blank_1]\n| - 25| = [blank_2]\n|25| = [blank_3]\n| - 5| = [blank_4]",
+  "visual_elements": [
+    "5",
+    "-5",
+    "-25",
+    "25",
+    "|5| =",
+    "| - 25| =",
+    "|25| =",
+    "| - 5| ="
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

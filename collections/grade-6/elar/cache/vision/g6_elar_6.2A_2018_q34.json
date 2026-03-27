@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the way the word credited is used in paragraph 6?",
+  "instruction": "Read the dictionary entry for the word credit.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "credit \\\u02c8kre-dit\\ v 1. to believe something such as a report 2. to assign responsibility to someone or something 3. to add money to an account 4. to award a passing mark or grade in school"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

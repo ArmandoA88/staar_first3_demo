@@ -1,0 +1,35 @@
+{
+  "stem": "Why is paragraph 27 important to the plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The paragraph shows Saihan's joy at the change in Baatar's behavior."
+    },
+    {
+      "label": "G",
+      "text": "The paragraph shows Saihan's curiosity about Baatar's journey."
+    },
+    {
+      "label": "H",
+      "text": "The paragraph suggests that Saihan had worried about Baatar's safety."
+    },
+    {
+      "label": "J",
+      "text": "The paragraph suggests that Saihan is excited to see what Baatar found."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q38 Passage #5",
+    "38 Why is paragraph 27 important to the plot?",
+    "F The paragraph shows Saihan's joy at the change in Baatar's behavior.",
+    "G The paragraph shows Saihan's curiosity about Baatar's journey.",
+    "H The paragraph suggests that Saihan had worried about Baatar's safety.",
+    "J The paragraph suggests that Saihan is excited to see what Baatar found."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

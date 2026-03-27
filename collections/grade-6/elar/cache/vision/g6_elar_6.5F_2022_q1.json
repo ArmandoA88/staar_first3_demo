@@ -1,0 +1,31 @@
+{
+  "stem": "What can the reader infer about Carter based on these sentences?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Carter sees many types of insects in his backyard all year long."
+    },
+    {
+      "label": "B",
+      "text": "Carter has expanded the area that he uses to host butterflies."
+    },
+    {
+      "label": "C",
+      "text": "Carter\u2019s efforts to help butterflies have been successful."
+    },
+    {
+      "label": "D",
+      "text": "Carter\u2019s backyard is a place for citizen scientists to meet."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Next, he planted rows of flowering plants called milkweed\u2014monarchs\u2019 main source of food. (paragraph 2)",
+    "Over the past four years, Carter has raised and tagged more than 700 monarch butterflies. (paragraph 16)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

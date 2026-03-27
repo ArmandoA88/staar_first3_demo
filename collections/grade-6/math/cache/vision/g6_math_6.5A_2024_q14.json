@@ -1,0 +1,33 @@
+{
+  "stem": "A model of a classroom uses the scale 2 inches : 3 feet. The length of the actual classroom is 30 feet. Which proportion could be used to find x, the length of the model in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{x}{30} = \\frac{2}{3} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{2}{30} = \\frac{x}{3} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{3}{x} = \\frac{2}{30} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{2}{x} = \\frac{2}{30} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A) x/30 = 2/3",
+    "B) 2/30 = x/3",
+    "C) 3/x = 2/30",
+    "D) 2/x = 2/30"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "The author wrote the article mainly to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "teach the reader how to make good cupcakes"
+    },
+    {
+      "label": "G",
+      "text": "explain to the reader how to start a new business"
+    },
+    {
+      "label": "H",
+      "text": "show the reader that it is fun to win cooking contests"
+    },
+    {
+      "label": "J",
+      "text": "tell the reader about the work of a young chef"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

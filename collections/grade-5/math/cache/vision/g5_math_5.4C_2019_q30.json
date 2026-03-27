@@ -1,0 +1,30 @@
+{
+  "stem": "Which table of values does NOT represent y = x + 4.5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x       y\n1       5.5\n2       6.5\n3       7.5\n5       9.5"
+    },
+    {
+      "label": "G",
+      "text": "x       y\n4       18.0\n5       22.5\n6       27.0\n9       40.5"
+    },
+    {
+      "label": "H",
+      "text": "x       y\n2       6.5\n4       8.5\n5       9.5\n6       10.5"
+    },
+    {
+      "label": "J",
+      "text": "x       y\n1       5.5\n3       7.5\n7       11.5\n9       13.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "tables"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

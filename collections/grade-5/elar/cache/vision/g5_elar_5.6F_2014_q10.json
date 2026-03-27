@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the photograph, the reader can tell that Dusty \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "likes wearing outfits"
+    },
+    {
+      "label": "G",
+      "text": "is unwilling to return what he took"
+    },
+    {
+      "label": "H",
+      "text": "has taken items repeatedly"
+    },
+    {
+      "label": "J",
+      "text": "has stopped taking items from people"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

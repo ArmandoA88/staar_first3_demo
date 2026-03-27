@@ -1,0 +1,30 @@
+{
+  "stem": "Mauricio saves the same amount from his paycheck each week. The table shows the total amount of money saved based on the number of weeks.\n\nMauricio's Savings\n\n| Number of Weeks | 1 | 2 | 3 | 4 | 5 |\n|-----------------|---|---|---|---|---|\n| Total Saved (dollars) | 25 | 50 | 75 | 100 | 125 |\n\nWhich list shows the dependent quantities from the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "26, 52, 78, 104, 130"
+    },
+    {
+      "label": "B",
+      "text": "25, 50, 75, 100, 125"
+    },
+    {
+      "label": "C",
+      "text": "1, 2, 3, 4, 5"
+    },
+    {
+      "label": "D",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with Number of Weeks: 1, 2, 3, 4, 5 and Total Saved (dollars): 25, 50, 75, 100, 125"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

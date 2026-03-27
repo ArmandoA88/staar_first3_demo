@@ -1,0 +1,34 @@
+{
+  "stem": "What is the correct way to write sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "However, kids can dress for the weather and can avoid staying outdoors for too long."
+    },
+    {
+      "label": "B",
+      "text": "However, kids can dress for the weather. And can avoid staying outdoors for too long."
+    },
+    {
+      "label": "C",
+      "text": "However, kids can dress for the weather, and kids can avoid it. Staying outdoors for too long."
+    },
+    {
+      "label": "D",
+      "text": "However, kids can dress for the weather and can avoid it kids can avoid staying outdoors for too long."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the correct way to write sentence 4?",
+    "A However, kids can dress for the weather and can avoid staying outdoors for too long.",
+    "B However, kids can dress for the weather. And can avoid staying outdoors for too long.",
+    "C However, kids can dress for the weather, and kids can avoid it. Staying outdoors for too long.",
+    "D However, kids can dress for the weather and can avoid it kids can avoid staying outdoors for too long."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

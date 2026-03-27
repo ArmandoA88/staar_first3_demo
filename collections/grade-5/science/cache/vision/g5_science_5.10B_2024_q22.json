@@ -1,0 +1,44 @@
+{
+  "stem": "Sedimentary rock is formed through several different processes. Match each process with its description.",
+  "instruction": "Move the correct answer to each box.",
+  "options": [
+    {
+      "label": null,
+      "text": "Compaction"
+    },
+    {
+      "label": null,
+      "text": "Erosion"
+    },
+    {
+      "label": null,
+      "text": "Deposition"
+    },
+    {
+      "label": null,
+      "text": "Weathering"
+    },
+    {
+      "label": null,
+      "text": "Cementation"
+    }
+  ],
+  "choice_pool": [
+    "Compaction",
+    "Erosion",
+    "Deposition",
+    "Weathering",
+    "Cementation"
+  ],
+  "response_template": "Materials in the Earth\u2019s crust break down into smaller pieces. [blank_1]\n\nParticles of sediment begin to stick to each other and are eventually held together by clay and other minerals. [blank_2]\n\nWater, ice, wind, or gravity moves fragments of rocks and soil from one place to another. [blank_3]\n\nLayers are squeezed together, and any water mixed in with the sediments is forced out. [blank_4]\n\nSediments are laid down in new locations. [blank_5]",
+  "visual_elements": [
+    "Materials in the Earth\u2019s crust break down into smaller pieces with illustration of rock and ice",
+    "Particles of sediment sticking with layers illustration",
+    "Water, ice, wind, or gravity moving fragments with river illustration",
+    "Layers squeezed together with pressure illustration",
+    "Sediments laid down in new locations illustration"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": "Exact wording and layout preserved. Process terms are draggable choices to be matched to descriptions."
+}

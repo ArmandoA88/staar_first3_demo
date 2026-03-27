@@ -1,0 +1,30 @@
+{
+  "stem": "Theo earned $500 selling food at a carnival. He earned $260 selling nachos and the rest selling hot dogs for $2 each. Theo used this equation to find h, the number of hot dogs he sold at the carnival.\n\nh = (500 - 260) \u00f7 2\n\nHow many hot dogs did Theo sell at the carnival?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "380"
+    },
+    {
+      "label": "G",
+      "text": "180"
+    },
+    {
+      "label": "H",
+      "text": "370"
+    },
+    {
+      "label": "J",
+      "text": "120"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "h = (500 - 260) \u00f7 2"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

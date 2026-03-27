@@ -1,0 +1,32 @@
+{
+  "stem": "Mrs. Ali collected notebook paper from her students at the beginning of the school year. The model is shaded to show the fraction of this notebook paper that Mrs. Ali used in each of the three months.\n\nFirst month\n\nSecond month\n\nThird month\n\nWhat fraction of the notebook paper Mrs. Ali collected was used during these three months?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\frac{3}{8}\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\frac{7}{8}\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\frac{3}{14}\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\(\\frac{1}{8}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "First month bar with 1 of 8 parts shaded",
+    "Second month bar with 3 of 8 parts shaded",
+    "Third month bar with 4 of 8 parts shaded"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

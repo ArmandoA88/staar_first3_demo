@@ -1,0 +1,30 @@
+{
+  "stem": "After 4 new students joined a class, the class had 32 students.\n\nWhich equation can be used to find n, the number of students in the class before the 4 new students joined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\n\\frac{n}{4} = 32"
+    },
+    {
+      "label": "B",
+      "text": "n - 4 = 32"
+    },
+    {
+      "label": "C",
+      "text": "4n = 32"
+    },
+    {
+      "label": "D",
+      "text": "n + 4 = 32"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equations"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

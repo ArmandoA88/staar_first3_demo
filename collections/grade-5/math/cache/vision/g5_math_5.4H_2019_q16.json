@@ -1,0 +1,32 @@
+{
+  "stem": "The combined perimeter of the rectangle and triangle is 63 inches. The model shows the dimensions of the rectangle.\n\nWhat is the perimeter in inches of the triangle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "27 in."
+    },
+    {
+      "label": "G",
+      "text": "45 in."
+    },
+    {
+      "label": "H",
+      "text": "9 in."
+    },
+    {
+      "label": "J",
+      "text": "21 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangle with dimensions 7 in. (width) and 11 in. (height)",
+    "Triangle adjacent to rectangle",
+    "Combined perimeter of rectangle and triangle is 63 inches"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

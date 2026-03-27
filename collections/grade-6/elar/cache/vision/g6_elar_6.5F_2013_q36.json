@@ -1,0 +1,30 @@
+{
+  "stem": "Read the following sentence from the selection.\n\nThe stinging memory of Becky\u2019s smirks made me determined to beat her.\n\nFrom this sentence, the reader can conclude that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the narrator wanted to be like Becky"
+    },
+    {
+      "label": "G",
+      "text": "the narrator\u2019s efforts amused Becky"
+    },
+    {
+      "label": "H",
+      "text": "Becky was bothered by the narrator"
+    },
+    {
+      "label": "J",
+      "text": "Becky\u2019s actions angered the narrator"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Box around the sentence:\nThe stinging memory of Becky\u2019s smirks made me determined to beat her."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

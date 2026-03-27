@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best paraphrase of these stage directions?",
+  "instruction": "Read the stage directions from line 3.\n\n[He unrolls the poster board. He takes a marker out of his backpack and begins scribbling. He talks to himself as he writes.]",
+  "options": [
+    {
+      "label": "A",
+      "text": "Ben unrolls the poster board and finds a marker. He begins to write carefully while thinking."
+    },
+    {
+      "label": "B",
+      "text": "After unrolling his poster board, Ben removes a marker from his backpack. He starts writing quickly while speaking to himself."
+    },
+    {
+      "label": "C",
+      "text": "Ben quickly opens the poster board and begins to write information. He then shares his ideas out loud."
+    },
+    {
+      "label": "D",
+      "text": "Once he finds a marker in his backpack, Ben opens his poster board. He then starts to jot down notes about what he is saying out loud."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "[He unrolls the poster board. He takes a marker out of his backpack and begins scribbling. He talks to himself as he writes.]"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

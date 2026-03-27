@@ -1,0 +1,28 @@
+{
+  "stem": "Which list shows the temperatures in order from coldest to warmest in degrees Fahrenheit?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-10\u00b0F 8\u00b0F -5\u00b0F 0\u00b0F"
+    },
+    {
+      "label": "B",
+      "text": "-5\u00b0F -10\u00b0F 0\u00b0F 8\u00b0F"
+    },
+    {
+      "label": "C",
+      "text": "-10\u00b0F -5\u00b0F 0\u00b0F 8\u00b0F"
+    },
+    {
+      "label": "D",
+      "text": "0\u00b0F -5\u00b0F 8\u00b0F -10\u00b0F"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

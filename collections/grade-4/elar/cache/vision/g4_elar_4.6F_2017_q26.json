@@ -1,0 +1,28 @@
+{
+  "stem": "What is the message of this poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Time moves at the same pace no matter what is happening."
+    },
+    {
+      "label": "G",
+      "text": "Time seems to pass more quickly in the morning than in the evening."
+    },
+    {
+      "label": "H",
+      "text": "The passage of time is usually noticed more by older people than by younger people."
+    },
+    {
+      "label": "J",
+      "text": "Time seems to pass at different speeds depending on what we are doing."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

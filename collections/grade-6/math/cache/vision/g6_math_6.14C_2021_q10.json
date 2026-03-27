@@ -1,0 +1,13 @@
+{
+  "stem": "Based on the information in the check register, what was the balance of Taquan's checking account in dollars and cents after the transaction on March 29?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Taquan\u2019s Check Register' with columns: Date, Description, Deposit (dollars), Withdrawal (dollars), Balance (dollars). Rows: blank, blank, blank, 1,094.80; 3/24, Utility Payment, blank, 193.66, blank; blank; 3/26, Gift, 50.00, blank, blank; blank; 3/28, Rent, blank, 650.00, blank; blank; 3/29, Paycheck, 842.75, blank, blank"
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 1,
+  "notes": null
+}

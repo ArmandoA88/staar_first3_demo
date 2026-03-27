@@ -1,0 +1,28 @@
+{
+  "stem": "A bank received a check for two thousand, six hundred nine dollars and seventy-five cents. How is this number written in expanded notation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(2 \\times 1,000) + (6 \\times 100) + (9 \\times 10) + (7 \\times 0.01) + (5 \\times 0.01)"
+    },
+    {
+      "label": "B",
+      "text": "(2 \\times 1,000) + (6 \\times 100) + (9 \\times 1) + (7 \\times 0.1) + (5 \\times 0.01)"
+    },
+    {
+      "label": "C",
+      "text": "(2 \\times 1,000) + (6 \\times 10) + (9 \\times 1) + (7 \\times 1) + (5 \\times 1)"
+    },
+    {
+      "label": "D",
+      "text": "(2 \\times 1,000) + (6 \\times 100) + (9 \\times 1) + (7 \\times 0.01) + (5 \\times 0.001)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Pedro ordered 24 boxes of baseballs. Each box contained 16 baseballs. Pedro used 8 of these baseballs during a game. Which equation can be used to find b, the total number of these baseballs that Pedro did not use during the game?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "b = (24 + 16) - 8"
+    },
+    {
+      "label": "B",
+      "text": "b = (24 \u00d7 16) - 8"
+    },
+    {
+      "label": "C",
+      "text": "b = (24 - 16)\u00f7 8"
+    },
+    {
+      "label": "D",
+      "text": "b = (24 \u00d7 16) + 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

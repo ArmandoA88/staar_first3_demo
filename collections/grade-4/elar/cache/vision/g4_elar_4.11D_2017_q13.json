@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentences 13 and 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She was also a birthday present she was meant to celebrate America\u2019s independence from Great Britain."
+    },
+    {
+      "label": "B",
+      "text": "She was also a birthday present meant to celebrate. America\u2019s independence from Great Britain."
+    },
+    {
+      "label": "C",
+      "text": "She was also a birthday present. Which was meant to celebrate America\u2019s independence from Great Britain."
+    },
+    {
+      "label": "D",
+      "text": "She was also a birthday present meant to celebrate America\u2019s independence from Great Britain."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of question text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

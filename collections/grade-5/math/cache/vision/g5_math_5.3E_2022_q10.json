@@ -1,0 +1,28 @@
+{
+  "stem": "A man bought 6 cans of tuna. Each can of tuna cost $0.93.\n\nWhat is the total amount of money the man spent on the cans of tuna?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$4.98"
+    },
+    {
+      "label": "G",
+      "text": "$5.58"
+    },
+    {
+      "label": "H",
+      "text": "$6.93"
+    },
+    {
+      "label": "J",
+      "text": "$5.48"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

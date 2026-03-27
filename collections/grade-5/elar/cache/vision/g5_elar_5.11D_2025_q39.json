@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change spent to spended"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after days"
+    },
+    {
+      "label": "C",
+      "text": "Change at to to"
+    },
+    {
+      "label": "D",
+      "text": "Change crystal beach to Crystal Beach"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

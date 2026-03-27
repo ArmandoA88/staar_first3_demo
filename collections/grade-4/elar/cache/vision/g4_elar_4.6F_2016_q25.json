@@ -1,0 +1,30 @@
+{
+  "stem": "Which information on the Fruit For All website would be most useful to someone who wants to help but lives far away from Zach's community?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "How to start a group"
+    },
+    {
+      "label": "B",
+      "text": "The different fruits the group accepts"
+    },
+    {
+      "label": "C",
+      "text": "The steps necessary to get volunteers to pick fruit"
+    },
+    {
+      "label": "D",
+      "text": "How to help pick fruit"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

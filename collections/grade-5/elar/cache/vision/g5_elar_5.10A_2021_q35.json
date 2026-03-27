@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author wrote this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To describe how an American soccer team helped a soccer team in Katutura become successful"
+    },
+    {
+      "label": "B",
+      "text": "To explain why playing soccer is not common for girls in Katutura"
+    },
+    {
+      "label": "C",
+      "text": "To inform the reader of the accomplishments of the first girls' soccer team in Katutura"
+    },
+    {
+      "label": "D",
+      "text": "To tell about the different teams that competed in a girls\u2019 soccer tournament in Katutura"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "Which ideas should be included in this paragraph to create a complete summary of the article \u201cAlone in Nature\u201d?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "Thoreau\u2019s book teaches the importance of having time to think alone."
+    },
+    {
+      "label": null,
+      "text": "Many parts of nature changed during Thoreau\u2019s time in the woods."
+    },
+    {
+      "label": null,
+      "text": "Thoreau wrote eighteen essays for his book about different topics."
+    },
+    {
+      "label": null,
+      "text": "Thoreau lived at a time when America was developing its own style of literature."
+    },
+    {
+      "label": null,
+      "text": "American people during Thoreau\u2019s life wished to own more material things."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Henry David Thoreau was an author who wrote a book about living in the woods. It was published in 1854 and was called Walden. Thoreau lived in the woods because he did not want his life to be about money and objects."
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 0.98,
+  "notes": null
+}

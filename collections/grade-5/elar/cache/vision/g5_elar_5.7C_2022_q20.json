@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection \u201cPublic Speaking Is Easier When a Cute Dog Is Listening\u201d best explains why audience dogs are successful at their job?",
+  "instruction": "Use \u201cPublic Speaking Is Easier When a Cute Dog Is Listening\u201d to answer the following question.",
+  "options": [
+    {
+      "label": "F",
+      "text": "The program began thanks to Caron Martinez. (paragraph 9)"
+    },
+    {
+      "label": "G",
+      "text": "Martinez thinks that dogs can have a calming effect on people. (paragraph 10)"
+    },
+    {
+      "label": "H",
+      "text": "She added that the best way to deliver a great speech is to practice. (paragraph 10)"
+    },
+    {
+      "label": "J",
+      "text": "Any student at the school that has a presentation to deliver can book 30 minutes with one of the audience dogs. (paragraph 12)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image contains text of a multiple-choice question numbered 20 with answer options labeled F, G, H, and J. The text refers to a passage about \"Public Speaking Is Easier When a Cute Dog Is Listening.\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

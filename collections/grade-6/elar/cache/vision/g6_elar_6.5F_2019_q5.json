@@ -1,0 +1,30 @@
+{
+  "stem": "In what way does the imagery in the sentence contribute to the story?",
+  "instruction": "Read this sentence from paragraph 10.\n\nSoon the sky glowed orange, gold, and pink as the sun drifted toward the horizon.",
+  "options": [
+    {
+      "label": "A",
+      "text": "It emphasizes how difficult it is to photograph the colors of a sunset."
+    },
+    {
+      "label": "B",
+      "text": "It explains why Michelle thinks a sunset is a good subject for a photo."
+    },
+    {
+      "label": "C",
+      "text": "It shows that nature is the best source of inspiration."
+    },
+    {
+      "label": "D",
+      "text": "It suggests that Michelle is a talented photographer."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Soon the sky glowed orange, gold, and pink as the sun drifted toward the horizon."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

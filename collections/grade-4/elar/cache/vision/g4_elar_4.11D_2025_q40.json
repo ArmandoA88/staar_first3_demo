@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *They* to *You*"
+    },
+    {
+      "label": "B",
+      "text": "Change *conditions* to *condition*"
+    },
+    {
+      "label": "C",
+      "text": "Change *chanse* to *chance*"
+    },
+    {
+      "label": "D",
+      "text": "Change *new* to *newest*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The box plots summarize the attendance for the spring musical and the fall musical. Each musical was performed for six evenings.\n\nSpring musical: (box plot)\n\nFall musical: (box plot)\n\nWhich statement best describes the data represented in the box plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The range in attendance for the fall musical is 85."
+    },
+    {
+      "label": "G",
+      "text": "The interquartile range for the spring musical is 45."
+    },
+    {
+      "label": "H",
+      "text": "For half the evenings at the fall musical, the attendance was less than 160 people."
+    },
+    {
+      "label": "J",
+      "text": "For half the evenings at the spring musical, the attendance was between 155 and 200 people."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Box plots for Spring musical and Fall musical attendance on number line 120 to 230"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

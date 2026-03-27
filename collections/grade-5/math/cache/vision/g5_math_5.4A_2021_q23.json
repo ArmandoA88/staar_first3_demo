@@ -1,0 +1,30 @@
+{
+  "stem": "Jaylen was told to list all prime numbers between 30 and 50. Jaylen\u2019s list is shown.\n\n31, 37, 41, 47\n\nWhich prime number is missing from Jaylen\u2019s list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "49"
+    },
+    {
+      "label": "B",
+      "text": "39"
+    },
+    {
+      "label": "C",
+      "text": "43"
+    },
+    {
+      "label": "D",
+      "text": "33"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "31, 37, 41, 47"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which fact in the selection is best supported by the last photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Acorn weevils are the first insects to live in acorns."
+    },
+    {
+      "label": "G",
+      "text": "Acorn weevil larvae eat the inside of the acorn."
+    },
+    {
+      "label": "H",
+      "text": "Acorn weevils can use their snouts to drill holes in acorns."
+    },
+    {
+      "label": "J",
+      "text": "Acorn weevil larvae are inside an acorn when it falls from the tree."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

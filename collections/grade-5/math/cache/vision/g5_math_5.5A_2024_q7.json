@@ -1,0 +1,31 @@
+{
+  "stem": "George is using the chart shown to classify triangles by type.\n\nTypes of Triangles\nAcute | Equiangular | Obtuse | Right\n\nGeorge is given triangle XYZ to classify.\n\nIn which column should George classify triangle XYZ?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Acute"
+    },
+    {
+      "label": "B",
+      "text": "Equiangular"
+    },
+    {
+      "label": "C",
+      "text": "Obtuse"
+    },
+    {
+      "label": "D",
+      "text": "Right"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Types of Triangles table with columns Acute, Equiangular, Obtuse, Right",
+    "Triangle XYZ with points labeled X, Y, and Z, showing an obtuse angle at X"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

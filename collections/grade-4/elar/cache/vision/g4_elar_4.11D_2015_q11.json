@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 29 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change scraped to scrapped"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after bubbles"
+    },
+    {
+      "label": "C",
+      "text": "Change taught to teached"
+    },
+    {
+      "label": "D",
+      "text": "Change correct to correctly"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

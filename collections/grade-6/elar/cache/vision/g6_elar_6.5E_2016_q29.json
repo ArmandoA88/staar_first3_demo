@@ -1,0 +1,30 @@
+{
+  "stem": "You will meet millions and travel south\nIn an orange blanket that smothers the sky\n\nWhich sentence from \"Red Crab Invasion\" illustrates a similar idea?",
+  "instruction": "Read these lines from \"Monarch Magic.\"",
+  "options": [
+    {
+      "label": "A",
+      "text": "After mating, the males return to higher ground, but the females wait by the shore to lay their eggs."
+    },
+    {
+      "label": "B",
+      "text": "During that journey they risk getting run over by cars, suffering dehydration, or being attacked by other animals."
+    },
+    {
+      "label": "C",
+      "text": "At the beginning of this migration, it appears as though the mountain is erupting with crabs."
+    },
+    {
+      "label": "D",
+      "text": "Among this great diversity are more than 100 kinds of crabs."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "You will meet millions and travel south\nIn an orange blanket that smothers the sky"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A can contains 24 fluid ounces of fruit juice. How many pints of fruit juice does the can contain?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "12 pt"
+    },
+    {
+      "label": "B",
+      "text": "3 pt"
+    },
+    {
+      "label": "C",
+      "text": "1\\frac{1}{2} pt"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{1}{3} pt"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

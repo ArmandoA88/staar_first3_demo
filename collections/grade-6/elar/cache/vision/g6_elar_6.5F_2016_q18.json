@@ -1,0 +1,28 @@
+{
+  "stem": "Which idea is best expressed in the cartoon at the end of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Red crabs shed their shells many times during their life."
+    },
+    {
+      "label": "G",
+      "text": "More than 100 crab species live on Christmas Island."
+    },
+    {
+      "label": "H",
+      "text": "Red crabs rely on their instincts during their migration."
+    },
+    {
+      "label": "J",
+      "text": "Female red crabs can produce as many as 100,000 eggs."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

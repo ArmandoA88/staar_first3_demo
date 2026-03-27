@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change that to this"
+    },
+    {
+      "label": "B",
+      "text": "Change are to is"
+    },
+    {
+      "label": "C",
+      "text": "Change losing to loosing"
+    },
+    {
+      "label": "D",
+      "text": "Change them to it"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

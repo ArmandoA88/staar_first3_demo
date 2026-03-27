@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete but"
+    },
+    {
+      "label": "B",
+      "text": "Change Outside to outside"
+    },
+    {
+      "label": "C",
+      "text": "Change better to more better"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

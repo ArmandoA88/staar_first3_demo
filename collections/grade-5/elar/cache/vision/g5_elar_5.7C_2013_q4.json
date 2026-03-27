@@ -1,0 +1,31 @@
+{
+  "stem": "What can the reader infer about Carl from this excerpt?",
+  "instruction": "Read this excerpt from Scene 2.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Carl thinks that what Mike is saying isn\u2019t important."
+    },
+    {
+      "label": "G",
+      "text": "Carl doesn\u2019t believe that the traffic was bad."
+    },
+    {
+      "label": "H",
+      "text": "Carl envies Mike for being a Ranger Scout."
+    },
+    {
+      "label": "J",
+      "text": "Carl thinks that Mike has been rude to Mrs. Watson."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "MIKE: [Nods eagerly.] My dad was taking me to Ranger Scouts last night, and the traffic was bad.",
+    "[Carl gives him an annoyed look.]"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

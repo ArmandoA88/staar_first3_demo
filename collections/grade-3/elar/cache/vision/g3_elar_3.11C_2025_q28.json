@@ -1,0 +1,30 @@
+{
+  "stem": "The meaning of sentence 26 is unclear. Which phrase should replace it in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "a printing press"
+    },
+    {
+      "label": "B",
+      "text": "their news"
+    },
+    {
+      "label": "C",
+      "text": "our history"
+    },
+    {
+      "label": "D",
+      "text": "some attention"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text with four multiple choice answers"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

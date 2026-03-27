@@ -1,0 +1,28 @@
+{
+  "stem": "Which idea should be included in a summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Squirrel and Robin spend days gathering food."
+    },
+    {
+      "label": "B",
+      "text": "Robin hums a morning song."
+    },
+    {
+      "label": "C",
+      "text": "Squirrel says eating a lot makes her tired."
+    },
+    {
+      "label": "D",
+      "text": "Robin decides to fly south for the winter."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

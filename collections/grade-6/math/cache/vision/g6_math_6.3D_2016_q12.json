@@ -1,0 +1,30 @@
+{
+  "stem": "A team of four players competed in a golf contest. The names and scores of the players on the team are shown in the table. The team's score is the sum of all the scores in the table.\n\nGolf Scores\nPlayer  Score\nBrett  -2\nElliott  +3\nLin  -4\nTyrone  -1\n\nWhat is the team's score?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "10"
+    },
+    {
+      "label": "G",
+      "text": "-10"
+    },
+    {
+      "label": "H",
+      "text": "-4"
+    },
+    {
+      "label": "J",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with Player and Score columns"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Read the diagram.\n\n[Diagram text: Ways That Frogs Are Protected\n- They are small.\n- They hide in their surroundings.\n- (blank)]\n\nWhich of these best completes the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They are most active at night."
+    },
+    {
+      "label": "G",
+      "text": "They sing loud songs along with other animals."
+    },
+    {
+      "label": "H",
+      "text": "They return to the same place each day to sleep."
+    },
+    {
+      "label": "J",
+      "text": "They repeat the noises of other animals."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with the title 'Ways That Frogs Are Protected' and three connected items: 'They are small.', 'They hide in their surroundings.', and one blank to be completed."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

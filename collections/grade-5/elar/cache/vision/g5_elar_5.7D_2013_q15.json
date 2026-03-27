@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Six eight-stud LEGO bricks can be arranged in many ways. Ole Kirk Christiansen of Denmark first made wooden toys, but then he switched to making plastic LEGO bricks. LEGO bricks are made out of melted plastic pressed in a special machine."
+    },
+    {
+      "label": "B",
+      "text": "Ole Kirk Christiansen bought a machine to make plastic toys and began making LEGO bricks. The LEGO company has produced LEGO bricks for children of all ages, but even adults build things from LEGOs."
+    },
+    {
+      "label": "C",
+      "text": "In the 1930s Ole Kirk Christiansen made wooden toys. Then in 1958 he began producing plastic LEGO bricks. Today there are thousands of different-shaped LEGO bricks in many colors and sizes."
+    },
+    {
+      "label": "D",
+      "text": "The first plastic LEGO bricks were made in 1958 by Ole Kirk Christiansen. Today millions of LEGO bricks are made in many shapes, sizes, and colors. People of all ages enjoy building with LEGO bricks, and LEGO products continue to be very popular."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

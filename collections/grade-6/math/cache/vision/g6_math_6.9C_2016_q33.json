@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation cannot be represented by the equation x + 10 = 45?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Marissa spent $45 on a hat and a shirt. The hat cost $10. What is x, the cost of the shirt in dollars?"
+    },
+    {
+      "label": "B",
+      "text": "Nicholas rode his bike 45 miles last week. He rode 10 miles on Tuesday and the rest of the miles on Wednesday. What is x, the number of miles Nicholas rode his bike on Wednesday?"
+    },
+    {
+      "label": "C",
+      "text": "Two players scored a total of 45 points in a game. One player scored 10 points. What is x, the number of points scored by the other player?"
+    },
+    {
+      "label": "D",
+      "text": "There are 45 students in a group. There are also 10 adults in the group. What is x, the total number of students and adults in the group?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "x + 10 = 45"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

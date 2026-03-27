@@ -1,0 +1,28 @@
+{
+  "stem": "A jar contains 75 grams of a spice. What is the amount of the spice in milligrams?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "75,000 mg"
+    },
+    {
+      "label": "B",
+      "text": "0.075 mg"
+    },
+    {
+      "label": "C",
+      "text": "0.75 mg"
+    },
+    {
+      "label": "D",
+      "text": "7,500 mg"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

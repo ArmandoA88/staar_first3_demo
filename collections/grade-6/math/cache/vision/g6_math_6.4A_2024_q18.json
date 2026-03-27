@@ -1,0 +1,31 @@
+{
+  "stem": "Which statement describes the relationship between x and y in these two equations? \n\ny = 3x\ny = x + 3",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "In y = 3x and y = x + 3, the value of y is 3 more than the value of x."
+    },
+    {
+      "label": "B",
+      "text": "In y = 3x and y = x + 3, the value of y is 3 times the value of x."
+    },
+    {
+      "label": "C",
+      "text": "In y = 3x the value of y is 3 times the value of x, and in y = x + 3 the value of y is 3 more than the value of x."
+    },
+    {
+      "label": "D",
+      "text": "In y = 3x the value of y is 3 more than the value of x, and in y = x + 3 the value of y is 3 times the value of x."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = 3x",
+    "y = x + 3"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

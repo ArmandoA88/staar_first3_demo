@@ -1,0 +1,30 @@
+{
+  "stem": "What is the main problem in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "One brother is left an unusually small inheritance."
+    },
+    {
+      "label": "G",
+      "text": "One brother is never satisfied with what he has."
+    },
+    {
+      "label": "H",
+      "text": "One brother does not know how to spend money wisely."
+    },
+    {
+      "label": "J",
+      "text": "One brother shares his wealth with others who are in need."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

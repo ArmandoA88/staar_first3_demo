@@ -1,0 +1,34 @@
+{
+  "stem": "The main purpose of this selection is to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "compare football players with puppies"
+    },
+    {
+      "label": "G",
+      "text": "describe how puppies learned to play a human sport"
+    },
+    {
+      "label": "H",
+      "text": "persuade the reader to adopt a pet from an animal shelter"
+    },
+    {
+      "label": "J",
+      "text": "provide facts about a popular animal show"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The main purpose of this selection is to \u2014",
+    "F compare football players with puppies",
+    "G describe how puppies learned to play a human sport",
+    "H persuade the reader to adopt a pet from an animal shelter",
+    "J provide facts about a popular animal show"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

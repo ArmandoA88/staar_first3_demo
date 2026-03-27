@@ -1,0 +1,28 @@
+{
+  "stem": "George wrote an integer. The opposite of George's integer is -53.\n\nWhich of these statements about George's integer must be true?\n\nI. The integer is 53.\nII. The integer has an absolute value of -53.\nIII. The integer is -53.\nIV. The integer has an absolute value of 53.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II"
+    },
+    {
+      "label": "B",
+      "text": "II and IV"
+    },
+    {
+      "label": "C",
+      "text": "II and III"
+    },
+    {
+      "label": "D",
+      "text": "I and IV"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

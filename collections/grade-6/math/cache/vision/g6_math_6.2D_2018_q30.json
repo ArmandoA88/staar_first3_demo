@@ -1,0 +1,28 @@
+{
+  "stem": "Which list shows the numbers in order from least value to greatest value?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-\\frac{2}{5} \\quad -2.47 \\quad -2\\frac{1}{2} \\quad 5 \\quad \\frac{21}{4}"
+    },
+    {
+      "label": "G",
+      "text": "-\\frac{2}{5} \\quad -2.47 \\quad -2\\frac{1}{2} \\quad \\frac{21}{4} \\quad 5"
+    },
+    {
+      "label": "H",
+      "text": "-2\\frac{1}{2} \\quad -2.47 \\quad -\\frac{2}{5} \\quad 5 \\quad \\frac{21}{4}"
+    },
+    {
+      "label": "J",
+      "text": "-2\\frac{1}{2} \\quad -2.47 \\quad -\\frac{2}{5} \\quad \\frac{21}{4} \\quad 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

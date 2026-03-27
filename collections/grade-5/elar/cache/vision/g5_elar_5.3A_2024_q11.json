@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the meaning of depths in line 19 of the poem \u201cThe World Is at My Fingertips\u201d?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "depths \\\u02c8depths\\ noun  1. a place far from the surface  2. the middle of a time period  3. the worst part  4. a measurement from front to back"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

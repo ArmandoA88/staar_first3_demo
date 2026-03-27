@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Dr. Todd Hickey is a scientist who studies the writings of the ancient Egyptians. He has studied hundreds of papyri from a tin box. It will take years for him to study them all."
+    },
+    {
+      "label": "G",
+      "text": "Scientists must be careful when they try to read a wad of papyrus from ancient Egypt. First the papyrus must be unrolled. Then it can be read, but there may be missing words."
+    },
+    {
+      "label": "H",
+      "text": "The ancient Egyptians wrote on papyrus. Many torn bits of papyrus survive today. Scientists like Dr. Todd Hickey try to put the pieces back together and read them to understand ancient Egyptian society."
+    },
+    {
+      "label": "J",
+      "text": "Pieces of papyrus contain the writing of people from ancient Egypt. Many papyri contain spells, directions, or stories. One example of papyrus described a police report about a missing person."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

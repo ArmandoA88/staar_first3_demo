@@ -1,0 +1,30 @@
+{
+  "stem": "An employee's starting salary is $36,000. The employee will receive a 3% increase in salary after completing several months of training.\n\nWhat is the amount of the employee's salary increase after the training?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$10,800"
+    },
+    {
+      "label": "B",
+      "text": "$12,000"
+    },
+    {
+      "label": "C",
+      "text": "$1,080"
+    },
+    {
+      "label": "D",
+      "text": "$1,200"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

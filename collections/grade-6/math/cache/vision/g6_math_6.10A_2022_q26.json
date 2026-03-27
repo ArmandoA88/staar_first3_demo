@@ -1,0 +1,30 @@
+{
+  "stem": "Kelli walks no more than 25 dogs on Mondays. Ms. Lincoln has 5 dogs that Kelli walks. The inequality shown can be used to find x, the number of dogs Kelli can walk on Monday in addition to Ms. Lincoln's dogs.\n\nx + 5 \\leq 25\n\nWhich inequality represents all possible values of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x \\geq 20"
+    },
+    {
+      "label": "G",
+      "text": "x \\leq 20"
+    },
+    {
+      "label": "H",
+      "text": "x \\geq 30"
+    },
+    {
+      "label": "J",
+      "text": "x \\leq 30"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "x + 5 \\leq 25"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

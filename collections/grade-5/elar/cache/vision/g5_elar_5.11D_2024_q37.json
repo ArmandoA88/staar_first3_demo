@@ -1,0 +1,35 @@
+{
+  "stem": "Amelia has made an error in sentence 9. Select the response that corrects this error.\n\nThey [blank_1] very unhappy with the British government\u2019s approach to taxing the colonies.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "was"
+    },
+    {
+      "label": "B",
+      "text": "were"
+    },
+    {
+      "label": "C",
+      "text": "is"
+    },
+    {
+      "label": "D",
+      "text": "be"
+    }
+  ],
+  "choice_pool": [
+    "was",
+    "were",
+    "is",
+    "be"
+  ],
+  "response_template": "They [blank_1] very unhappy with the British government\u2019s approach to taxing the colonies.",
+  "visual_elements": [
+    "sentence 9 with a blank for verb choice"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

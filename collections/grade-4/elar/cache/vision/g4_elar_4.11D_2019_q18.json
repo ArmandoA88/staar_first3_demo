@@ -1,0 +1,33 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change find to found"
+    },
+    {
+      "label": "G",
+      "text": "Change entertain to entertaining"
+    },
+    {
+      "label": "H",
+      "text": "Change themselfs to themselves"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in sentence 4."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "F  Change find to found",
+    "G  Change entertain to entertaining",
+    "H  Change themselfs to themselves",
+    "J  No change should be made in sentence 4."
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best explains why the sun appears to move across the sky during the day?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Earth is closest to the sun in the winter."
+    },
+    {
+      "label": "G",
+      "text": "The Earth is revolving around the sun."
+    },
+    {
+      "label": "H",
+      "text": "The Earth is tilted at 23.5 degrees."
+    },
+    {
+      "label": "J",
+      "text": "The Earth is rotating on its axis."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 Q2"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

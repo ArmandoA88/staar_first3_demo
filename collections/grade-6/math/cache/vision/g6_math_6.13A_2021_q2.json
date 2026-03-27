@@ -1,0 +1,30 @@
+{
+  "stem": "There are 160 employees who work for a company. The histogram summarizes the amount of time each employee has been in his or her current position at the company.",
+  "instruction": "Based on the histogram, which statement must be true?",
+  "options": [
+    {
+      "label": "F",
+      "text": "There are 5 employees who have been at their current position for 30\u201335 months."
+    },
+    {
+      "label": "G",
+      "text": "There are 6\u201311 employees who have been at their current position for 15 months."
+    },
+    {
+      "label": "H",
+      "text": "Half of the employees have been at their current position 18 or more months."
+    },
+    {
+      "label": "J",
+      "text": "Half of the employees have been at their current position 11 or fewer months."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Histogram with title 'Time at Current Position'; X-axis labeled 'Time (months)' with bins 0\u20135, 6\u201311, 12\u201317, 18\u201323, 24\u201329, 30\u201335; Y-axis labeled 'Number of Employees' with values from 0 to 45; Bars heights approximately: 40 for 0\u20135, 15 for 6\u201311, 35 for 12\u201317, 45 for 18\u201323, 20 for 24\u201329, 5 for 30\u201335."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

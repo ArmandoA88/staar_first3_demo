@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best explains why the observed fish appears to be closer to the surface than the actual fish?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When light travels from water into air, the light changes direction."
+    },
+    {
+      "label": "B",
+      "text": "The light bounces off of the water and creates a reflected image of the fish."
+    },
+    {
+      "label": "C",
+      "text": "When white light passes through the surface of the water, the light separates into colors."
+    },
+    {
+      "label": "D",
+      "text": "The light enters the water and exits the water at the same angle."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A person stands on a lake shore looking at a fish underwater. A line from the person's eyes bends at the water surface and points to the 'Observed fish' above the 'Actual fish' underwater."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

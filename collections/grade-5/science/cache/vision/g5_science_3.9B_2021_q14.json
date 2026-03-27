@@ -1,0 +1,28 @@
+{
+  "stem": "In the early 1600s, the astronomer Galileo used a telescope to make observations of Mercury and Venus. What are the positions of these planets in relation to the sun?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Mercury is the planet closest to the sun, and Venus is the second planet from the sun."
+    },
+    {
+      "label": "G",
+      "text": "Mercury is the second planet from the sun, and Venus is the third planet from the sun."
+    },
+    {
+      "label": "H",
+      "text": "Venus is the planet closest to the sun, and Mercury is the second planet from the sun."
+    },
+    {
+      "label": "J",
+      "text": "Mercury is the third planet from the sun, and Venus is the planet closest to the sun."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

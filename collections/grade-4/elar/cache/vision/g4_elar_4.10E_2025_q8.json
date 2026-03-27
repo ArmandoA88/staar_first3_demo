@@ -1,0 +1,34 @@
+{
+  "stem": "Which point of view does the poet use in the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "First person, as told by the speaker"
+    },
+    {
+      "label": "B",
+      "text": "First person, as told by the dad"
+    },
+    {
+      "label": "C",
+      "text": "Third person, as told by both characters"
+    },
+    {
+      "label": "D",
+      "text": "Third person, as told by an outside observer"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2025 \u2013 Q8 Passage #2",
+    "\u24b6",
+    "\u24b7",
+    "\u24b8",
+    "\u24b9"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

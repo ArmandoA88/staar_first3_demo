@@ -1,0 +1,13 @@
+{
+  "stem": "Tasha creates a budget based on an income of $5,500 each month. She wants to have a balanced budget.\n\nWhat should Tasha's budget be for the entertainment category each month in dollars?",
+  "instruction": "Enter your answer in the space provided.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with header 'Tasha's Budget' showing categories and dollar amounts:\nCategory | Amount (dollars)\nSavings | 2,600\nRent | 1,950\nFood | 550\nTransportation | 100\nEntertainment | [blank]"
+  ],
+  "item_type_inferred": "Equation Editor",
+  "confidence": 1,
+  "notes": null
+}

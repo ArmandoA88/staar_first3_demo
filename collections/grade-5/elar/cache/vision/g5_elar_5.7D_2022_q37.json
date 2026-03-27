@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Baatar likes to tell his friends what to do. Baatar\u2019s friends think poorly of Baatar, but they play with him because of who his father is. Baatar\u2019s father, Saihan, does not approve of Baatar\u2019s behavior, and Saihan sends Baatar on a journey to a distant land. Saihan hopes his son will learn to be a good leader."
+    },
+    {
+      "label": "B",
+      "text": "Baatar mistreats others, so his father, Saihan, sends Baatar to search for a sponge to teach him a lesson. In a faraway land, Baatar finds work scrubbing floors and learns he has had a sponge all along. Baatar returns home, and Saihan knows Baatar will be a good leader."
+    },
+    {
+      "label": "C",
+      "text": "Baatar leaves his home to find something for his father, Saihan. Baatar is unsure about what he is trying to find, and his father does not give him any clues, other than what it is called. Saihan thinks his father should send one of the servants to look in the mountains but agrees to take the journey anyway."
+    },
+    {
+      "label": "D",
+      "text": "Baatar wants to be a leader, and his father, Saihan, encourages Baatar. Saihan sends Baatar on a treasure hunt. While traveling, very few people offer to help Baatar. He needs to find a home and becomes a king\u2019s servant. In the king\u2019s palace, Baatar realizes he has found the treasure for his father."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

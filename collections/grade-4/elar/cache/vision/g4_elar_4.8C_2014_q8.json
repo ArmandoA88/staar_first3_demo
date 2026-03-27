@@ -1,0 +1,31 @@
+{
+  "stem": "The problem in the story is solved when Marvin's parents \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "hear him walking up the stairs to his room"
+    },
+    {
+      "label": "G",
+      "text": "make plans to take him to the store the next day"
+    },
+    {
+      "label": "H",
+      "text": "decide to punish him for a week rather than a month"
+    },
+    {
+      "label": "J",
+      "text": "see him with the president on the news"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q8 Passage #1",
+    "8"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which table could represent the equation y = 0.1x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x | y\n5 | 50\n10 | 100\n15 | 150\n20 | 400\n40 | 400"
+    },
+    {
+      "label": "G",
+      "text": "x | y\n5 | 0.5\n10 | 1.0\n15 | 1.5\n20 | 2.0\n40 | 4.0"
+    },
+    {
+      "label": "H",
+      "text": "x | y\n5 | 5.1\n10 | 10.1\n15 | 15.1\n20 | 20.1\n40 | 40.1"
+    },
+    {
+      "label": "J",
+      "text": "x | y\n5 | 0.5\n10 | 0.6\n15 | 0.7\n20 | 0.8\n40 | 1.2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled F, G, H, and J with columns x and y and numerical values"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

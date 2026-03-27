@@ -1,0 +1,28 @@
+{
+  "stem": "Which part of the article best helps readers visualize what they would experience at the museum?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The heading at the top of the article"
+    },
+    {
+      "label": "G",
+      "text": "The photographs and captions"
+    },
+    {
+      "label": "H",
+      "text": "The last paragraph of the article"
+    },
+    {
+      "label": "J",
+      "text": "The boxed information at the end of the article"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

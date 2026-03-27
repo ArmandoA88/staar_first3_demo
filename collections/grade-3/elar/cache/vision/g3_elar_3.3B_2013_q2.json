@@ -1,0 +1,30 @@
+{
+  "stem": "Which meaning of free is used in paragraph 9?",
+  "instruction": "Read this dictionary entry for the word free.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Meaning 1"
+    },
+    {
+      "label": "G",
+      "text": "Meaning 2"
+    },
+    {
+      "label": "H",
+      "text": "Meaning 3"
+    },
+    {
+      "label": "J",
+      "text": "Meaning 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "free \\\u02c8fr\u0113\\ adjective 1. not costing any money 2. not controlled by others 3. not exact 4. not busy"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

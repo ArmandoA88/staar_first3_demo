@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from line 10.\n\nAMY: Look, if you had a piece of food stuck in your teeth, I would let you know.\n\nThis line is meant to show that Amy \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "does not like to be told that she\u2019s wrong"
+    },
+    {
+      "label": "B",
+      "text": "wishes that Bella wasn\u2019t such a messy eater"
+    },
+    {
+      "label": "C",
+      "text": "thinks she\u2019s being a good friend to Bella"
+    },
+    {
+      "label": "D",
+      "text": "notices things that other people don\u2019t see"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "AMY: Look, if you had a piece of food stuck in your teeth, I would let you know."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

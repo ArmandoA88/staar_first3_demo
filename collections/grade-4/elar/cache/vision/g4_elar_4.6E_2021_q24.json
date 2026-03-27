@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best describes a difference between Cassidy in the article \u201cThe Broken-Crayon Solution\u201d and Nissen in the selection \u201cBouncing Around\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Cassidy found it easy to sell her product, but Nissen found it difficult."
+    },
+    {
+      "label": "G",
+      "text": "Cassidy was not happy with her invention at first, but Nissen was pleased with his at first."
+    },
+    {
+      "label": "H",
+      "text": "Cassidy got the idea for her invention at a public event, but Nissen thought of his idea at home."
+    },
+    {
+      "label": "J",
+      "text": "Cassidy made her product to avoid waste, but Nissen made his for exercise."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "block of text with question and four answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A basketball team was losing by 18 points. Then 3 players each scored an equal number of points, and the team won the game. The opposing team did not score any additional points. The inequality 3p > 18 can be used to determine the number of points each of the 3 players scored to win the game.\n\nWhat is the solution to the inequality?",
+  "instruction": "Select a ray. Move the point on the ray to the correct place on the number line.",
+  "options": [
+    {
+      "label": null,
+      "text": "\u25c0\u25cf"
+    },
+    {
+      "label": null,
+      "text": "\u25c0\u25cb"
+    },
+    {
+      "label": null,
+      "text": "\u25cb\u25b6"
+    },
+    {
+      "label": null,
+      "text": "\u25cf\u25b6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line from 0 to 9 with marked points and arrows on both ends"
+  ],
+  "item_type_inferred": "Number Line",
+  "confidence": 0.98,
+  "notes": "Standard 6.9(B), question 20 from 2024 STAAR; options represent rays with open/closed circles and directions"
+}

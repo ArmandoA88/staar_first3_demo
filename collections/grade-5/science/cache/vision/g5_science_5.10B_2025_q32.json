@@ -1,0 +1,30 @@
+{
+  "stem": "What is occurring at Position 2 in the model?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Layers of sediment are being pressed together."
+    },
+    {
+      "label": "B",
+      "text": "Sediment is being dropped into a new location."
+    },
+    {
+      "label": "C",
+      "text": "Rocks are being carried to new locations."
+    },
+    {
+      "label": "D",
+      "text": "Substances are filling in the spaces between particles."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Model of Sedimentary Rock Formation labeled with positions 1, 2, 3, and 4, showing a river flowing from land into the sea with sediment and particles"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

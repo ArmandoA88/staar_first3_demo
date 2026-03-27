@@ -1,0 +1,31 @@
+{
+  "stem": "Read the following incomplete summary of the story \u201cTasha\u2019s Hat.\u201d\n\n1. Tasha and Sophie are shopping in the fall when Tasha sees a bright orange hat.\n\n2. Even though she likes it, the hat is too expensive, so Tasha does not buy it.\n\n3. After winter, Tasha and Sophie are shopping in the same store again.\n\n4. ________________________________________________\n\nWhich idea should be included to create a complete summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The hat is now cheaper because it is no longer winter, so Tasha decides to buy it."
+    },
+    {
+      "label": "B",
+      "text": "The hat has been moved to a bin against the wall, but Sophie is still able to find it again."
+    },
+    {
+      "label": "C",
+      "text": "Tasha already owns a lime green hat, so she decides not to buy the orange hat."
+    },
+    {
+      "label": "D",
+      "text": "Sophie looks at a new green dress, but does not spend money on it."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box with numbered incomplete summary of story",
+    "four answer choice boxes labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

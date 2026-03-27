@@ -1,0 +1,31 @@
+{
+  "stem": "How does the selection \u201cRiding Out West\u201d explain the effect of trains DIFFERENTLY from the poem \u201cGoing Home (Burlington Route)\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The selection explains how trains changed an entire area, while the poem shows how trains allow one person the freedom to travel."
+    },
+    {
+      "label": "B",
+      "text": "The selection shows how trains were important in the past, while the poem explains the ways trains work today."
+    },
+    {
+      "label": "C",
+      "text": "The selection gives examples of how trains were respected by many people, while the poem shares people\u2019s doubts about the usefulness of trains."
+    },
+    {
+      "label": "D",
+      "text": "The selection provides information about how trains changed over time, while the poem focuses on one train\u2019s design."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "selection \u201cRiding Out West\u201d",
+    "poem \u201cGoing Home (Burlington Route)\u201d"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

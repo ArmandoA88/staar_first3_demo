@@ -1,0 +1,30 @@
+{
+  "stem": "The dot plot shows the wing lengths in millimeters for ten birds.\n\nWing Lengths of Birds\n\n46 \u2022\n47 \u2022\n48 \u2022\u2022\u2022\u2022\n49 \u2022\n50\n51 \u2022\n52\n53 \u2022\u2022\n54 \u2022\n\nWing Length (millimeters)\n\nWhich statement is supported by the data in the dot plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "More than half of the birds have wing lengths of less than 50 millimeters."
+    },
+    {
+      "label": "G",
+      "text": "There are more birds that have a wing length of 54 millimeters than birds that have a wing length of 46 millimeters."
+    },
+    {
+      "label": "H",
+      "text": "Fewer than half of the birds have wing lengths greater than 48 millimeters."
+    },
+    {
+      "label": "J",
+      "text": "There are more birds that have a wing length of 52 millimeters than birds that have a wing length of 51 millimeters."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Dot plot showing wing lengths of birds from 46 to 54 with dots indicating counts"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

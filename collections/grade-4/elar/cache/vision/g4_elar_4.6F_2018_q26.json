@@ -1,0 +1,30 @@
+{
+  "stem": "Why does the poet include descriptive language in these lines?",
+  "instruction": "Read lines 5 through 9 of the poem.",
+  "options": [
+    {
+      "label": "F",
+      "text": "To persuade the reader to spend more time outdoors"
+    },
+    {
+      "label": "G",
+      "text": "To tell the reader that air can smell like many things after it rains"
+    },
+    {
+      "label": "H",
+      "text": "To explain how the smell of roses is different from the smell of skunk"
+    },
+    {
+      "label": "J",
+      "text": "To emphasize that air can be both pleasant and unpleasant"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Air smells like roses sometimes, or fresh-cut grass; gasoline or rain or skunk."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

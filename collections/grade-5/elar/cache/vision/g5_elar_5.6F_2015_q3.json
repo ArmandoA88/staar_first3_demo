@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is a lesson Roddy learns in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Teamwork is important when trying to accomplish a goal."
+    },
+    {
+      "label": "B",
+      "text": "Relying on good friends is helpful in difficult situations."
+    },
+    {
+      "label": "C",
+      "text": "Drawing conclusions without enough information can lead to mistakes."
+    },
+    {
+      "label": "D",
+      "text": "People should not judge others by their appearance."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

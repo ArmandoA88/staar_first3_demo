@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, should be made in sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There's a smooth river rock that I saved before she moved from my grandma's garden."
+    },
+    {
+      "label": "B",
+      "text": "There's a smooth river rock from my grandma's garden that I saved from her garden before she moved."
+    },
+    {
+      "label": "C",
+      "text": "There's a smooth river rock that I saved from my grandma and her garden before she moved."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

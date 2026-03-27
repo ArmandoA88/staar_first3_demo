@@ -1,0 +1,31 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change berrys to berries"
+    },
+    {
+      "label": "G",
+      "text": "Delete and"
+    },
+    {
+      "label": "H",
+      "text": "Change wildflowers to wildflower's"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bold",
+    "italic"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

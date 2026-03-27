@@ -1,0 +1,30 @@
+{
+  "stem": "A student wants to research data about the climate of McAllen, Texas.\n\nWhich data should the student research?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The wind speed at different times of the day"
+    },
+    {
+      "label": "B",
+      "text": "The amount of rainfall over several days"
+    },
+    {
+      "label": "C",
+      "text": "The average wind speed and amount of rainfall over one month"
+    },
+    {
+      "label": "D",
+      "text": "The average temperature and amount of rainfall over 30 years"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

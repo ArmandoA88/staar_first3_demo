@@ -1,0 +1,30 @@
+{
+  "stem": "What does the picture demonstrate about light?",
+  "instruction": "A thin beam of light is shown in this picture.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Light and its reflections travel in straight lines."
+    },
+    {
+      "label": "B",
+      "text": "Light cannot reflect from more than one surface."
+    },
+    {
+      "label": "C",
+      "text": "Light that goes through water cannot travel in straight lines."
+    },
+    {
+      "label": "D",
+      "text": "Light can travel in a circular path."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Light source"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

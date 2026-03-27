@@ -1,0 +1,30 @@
+{
+  "stem": "Students earned extra points on a science test for correctly answering a bonus question. The relationship between the students\u2019 original test score and their final test score, including the extra points, can be represented by the equation y = x + 25. Which table could represent this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Original Test Score, x | Final Test Score, y\n65 | 90\n70 | 95\n78 | 103\n85 | 110"
+    },
+    {
+      "label": "H",
+      "text": "Original Test Score, x | Final Test Score, y\n72 | 97\n80 | 105\n83 | 98\n91 | 106"
+    },
+    {
+      "label": "G",
+      "text": "Original Test Score, x | Final Test Score, y\n70 | 45\n79 | 54\n81 | 56\n85 | 60"
+    },
+    {
+      "label": "J",
+      "text": "Original Test Score, x | Final Test Score, y\n70 | 25\n80 | 50\n90 | 75\n100 | 100"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled F, H, G, and J. Each table has two columns, 'Original Test Score, x' and 'Final Test Score, y', with four rows of numbers representing the scores."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A numeric expression is shown.\n\n5^2 - 6(4^2 - 10) - 3\n\nWhich value is equivalent to the expression shown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "19"
+    },
+    {
+      "label": "B",
+      "text": "-11"
+    },
+    {
+      "label": "C",
+      "text": "7"
+    },
+    {
+      "label": "D",
+      "text": "-14"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "5^2 - 6(4^2 - 10) - 3"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

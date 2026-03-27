@@ -1,0 +1,34 @@
+{
+  "stem": "Which of these environments could form coal if the area is buried for a long time?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four black and white photos of different environments labeled F, H, G, and J.",
+    "F: Dry rocky landscape with cliffs and sparse vegetation.",
+    "H: Marshy area with some trees and water.",
+    "G: Mountainous area with snow and ice patches.",
+    "J: Rocky canyon-like landscape with clouds."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "How should the arrows in the diagram be labeled?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Pressure and heat"
+    },
+    {
+      "label": "B",
+      "text": "Erosion and deposition"
+    },
+    {
+      "label": "C",
+      "text": "Heat and cementation"
+    },
+    {
+      "label": "D",
+      "text": "Weathering and compaction"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing layers labeled Soil, Rocks, and Coal with two arrows pointing downward to the Coal layer, marked with '?'."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": "The problem and options are preserved exactly with labels as visible."
+}

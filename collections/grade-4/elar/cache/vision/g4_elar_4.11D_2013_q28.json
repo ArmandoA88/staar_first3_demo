@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Many people say that a big house is better, there are other people all over the world who disagree."
+    },
+    {
+      "label": "G",
+      "text": "While many people say that a big house is better. There are other people all over the world who disagree."
+    },
+    {
+      "label": "H",
+      "text": "Many people say that a big house is better, but there are other people all over the world. Who disagree."
+    },
+    {
+      "label": "J",
+      "text": "Sentence 22 is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

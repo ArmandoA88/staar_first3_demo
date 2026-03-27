@@ -1,0 +1,28 @@
+{
+  "stem": "Which situation can be represented by 17.35x > 624.60?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A waitress had received a $17.35 tip. This brought her total in tips to more than $624.60. How much money in tips did she have before the $17.35 tip?"
+    },
+    {
+      "label": "G",
+      "text": "Brianda made a deposit of $17.35 into a savings account. This brought the total in her savings account to $624.60. How much money did she have in this savings account before she made the deposit?"
+    },
+    {
+      "label": "H",
+      "text": "A dozen tamales cost $17.35 including tax. How many dozen tamales can a customer buy with $624.60?"
+    },
+    {
+      "label": "J",
+      "text": "Darren earns $17.35 per hour at his job. How many hours does he need to work in order to earn more than $624.60?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

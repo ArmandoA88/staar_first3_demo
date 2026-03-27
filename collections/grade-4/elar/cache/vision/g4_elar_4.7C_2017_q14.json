@@ -1,0 +1,30 @@
+{
+  "stem": "The author wrote this article most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "convince the reader to support the work that dogs do for others"
+    },
+    {
+      "label": "G",
+      "text": "inform the reader about the special work of an unusual dog"
+    },
+    {
+      "label": "H",
+      "text": "explain to the reader how a dog becomes a service animal"
+    },
+    {
+      "label": "J",
+      "text": "teach the reader how to train dogs to surf"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,25 @@
+{
+  "stem": "A number rounded to the nearest hundredth is 384.93. The original number is greater than 384.93.",
+  "instruction": "Enter your number in the space provided.",
+  "options": [],
+  "choice_pool": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "."
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "keyboard with digits 0-9 and decimal point"
+  ],
+  "item_type_inferred": "Equation Editor",
+  "confidence": 1,
+  "notes": "Numeric response item asking for any number greater than 384.93 that rounds to 384.93."
+}

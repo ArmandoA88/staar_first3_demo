@@ -1,0 +1,33 @@
+{
+  "stem": "The table shows the ages of 10 people and the numbers of concerts they attended in the last year.\n\nConcerts Attended\n\nAge of Person (years)  15  12  20  16  14  18  15  16  12  15\nNumber of Concerts Attended  5  2  3  5  2  3  3  4  1  4\n\nWhich scatterplot best represents all the data in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Scatterplot with points plotted at coordinates corresponding to table data"
+    },
+    {
+      "label": "B",
+      "text": "Scatterplot with points plotted at coordinates corresponding to table data"
+    },
+    {
+      "label": "C",
+      "text": "Scatterplot with points plotted at coordinates corresponding to table data"
+    },
+    {
+      "label": "D",
+      "text": "Scatterplot with points plotted at coordinates corresponding to table data"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot A showing points at (15,5), (12,2), (20,3), (16,5), (14,2), (18,3), (15,3), (16,4), (12,1), (15,4)",
+    "Scatterplot B showing points not matching all data points",
+    "Scatterplot C showing points not matching all data points",
+    "Scatterplot D showing points not matching all data points"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Points in the scatterplots correspond to age (x-axis) and number of concerts attended (y-axis). Only one scatterplot matches all given data pairs."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The area of the rectangle shown is 375 square centimeters. What is \\( h \\), the height of the rectangle in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "350 cm"
+    },
+    {
+      "label": "G",
+      "text": "7.5 cm"
+    },
+    {
+      "label": "H",
+      "text": "15 cm"
+    },
+    {
+      "label": "J",
+      "text": "162.5 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle with base labeled 25 cm and height labeled h"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

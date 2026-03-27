@@ -1,0 +1,30 @@
+{
+  "stem": "Jamal wrote the inequality \\( \\frac{x}{16} \\leq 6 \\). Which situation is best represented by this inequality?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jamal divided x pieces of paper among 16 students, and each student received fewer than 6 pieces of paper."
+    },
+    {
+      "label": "B",
+      "text": "Jamal placed x cards in 16 stacks, and there were no more than 6 cards in each stack."
+    },
+    {
+      "label": "C",
+      "text": "Jamal separated x shirts into 6 stacks, and each stack had at least 16 shirts."
+    },
+    {
+      "label": "D",
+      "text": "Jamal shared 16 markers with x classmates, and each classmate had fewer than 6 markers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    " \\( \\frac{x}{16} \\leq 6 \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A basketball team scored points by making baskets worth different numbers of points during a game.\n\n\u2022 The team made 6 baskets worth 3 points each.\n\u2022 The team made 21 baskets worth 2 points each.\n\u2022 The team scored 16 points by making baskets worth 1 point each.\n\nThis equation can be used to find p, the total number of points the basketball team scored during the game.\n\np = 6(3) + 21(2) + 16\n\nWhat is the total number of points the basketball team scored during the game?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "76"
+    },
+    {
+      "label": "G",
+      "text": "48"
+    },
+    {
+      "label": "H",
+      "text": "94"
+    },
+    {
+      "label": "J",
+      "text": "60"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "p = 6(3) + 21(2) + 16"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

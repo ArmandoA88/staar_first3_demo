@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Jen thinks her epidermis is exposed while she is at school, but she laughs when she finds out that the word just means \u201cskin.\u201d Then she waits until dinnertime to share a difficult word that she learned with Joey."
+    },
+    {
+      "label": "G",
+      "text": "Joey tells Jen her epidermis is showing, which worries her because she does not know what the word means. After learning that it means \u201cskin,\u201d she surprises Joey by telling him that his proboscis is showing."
+    },
+    {
+      "label": "H",
+      "text": "Jen feels like people are laughing at her because her epidermis is showing. When she looks up the word in the dictionary, she laughs. Then she tells Megan about a plan she has made."
+    },
+    {
+      "label": "J",
+      "text": "After Joey scares Jen by saying her epidermis is showing, Jen asks her teacher Mrs. Warden about it. Then Jen and Megan spend all morning trying to learn what an epidermis is."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

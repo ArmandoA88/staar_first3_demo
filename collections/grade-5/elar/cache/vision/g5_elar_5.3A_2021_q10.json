@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the way the word spotted is used in paragraph 3?",
+  "instruction": "Read the dictionary entry for the word spot.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "spot \\'sp\u00e4t\\ verb\n1. to locate something correctly\n2. to mark with a stain that discolors clothing\n3. to place something in a certain position\n4. to notice or identify with the eye"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

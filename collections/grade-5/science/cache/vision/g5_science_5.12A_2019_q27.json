@@ -1,0 +1,30 @@
+{
+  "stem": "A student observed and recorded some activities in an aquarium.\n\nObservations\n\n1. A fish eats flakes of fish food dropped into the aquarium.\n2. A snail crawls over colored rocks at the bottom of the aquarium.\n3. A fish eats leaves from a plant in the aquarium.\n4. A snail lays eggs in a corner of the aquarium.\n5. A fish swims through air bubbles being pumped into the aquarium.\n6. A snail moves up a wall of the aquarium.\n\nAn interaction between two living parts of the environment is represented by \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Observations 1 and 2"
+    },
+    {
+      "label": "B",
+      "text": "Observation 3"
+    },
+    {
+      "label": "C",
+      "text": "Observations 4 and 5"
+    },
+    {
+      "label": "D",
+      "text": "Observation 6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Observations box with 6 listed items"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

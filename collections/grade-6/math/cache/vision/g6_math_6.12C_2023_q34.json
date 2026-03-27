@@ -1,0 +1,30 @@
+{
+  "stem": "The list shows the number of heartbeats per minute for each of 12 people during different exercises.\n\n86, 80, 73, 75, 70, 82, 72, 81, 84, 82, 75, 82\n\nWhat is the median number of heartbeats per minute for the data in the list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "80.5"
+    },
+    {
+      "label": "B",
+      "text": "78.5"
+    },
+    {
+      "label": "C",
+      "text": "16"
+    },
+    {
+      "label": "D",
+      "text": "82"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number list: 86, 80, 73, 75, 70, 82, 72, 81, 84, 82, 75, 82"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these best supports the title of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The table next to paragraph 4"
+    },
+    {
+      "label": "B",
+      "text": "The photograph after paragraph 5"
+    },
+    {
+      "label": "C",
+      "text": "The bar graph next to paragraph 8"
+    },
+    {
+      "label": "D",
+      "text": "The recipe after paragraph 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

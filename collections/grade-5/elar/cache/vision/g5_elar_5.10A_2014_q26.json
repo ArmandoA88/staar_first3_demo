@@ -1,0 +1,30 @@
+{
+  "stem": "The author wrote this selection most likely to explain \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the reasons scientists have been unsuccessful at freezing organs"
+    },
+    {
+      "label": "G",
+      "text": "how the wood frog survives in harsh conditions"
+    },
+    {
+      "label": "H",
+      "text": "how wood frogs hibernate or migrate to warmer climates"
+    },
+    {
+      "label": "J",
+      "text": "the scientific studies that involve wood frogs"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-6-math",
+  "label": "Grade 6 Math",
+  "grade": 6,
+  "subject": "Math",
+  "status": "ready",
+  "root": "collections/grade-6/math",
+  "source_pdf": "collections/grade-6/math/source/6thmath.pdf",
+  "catalog": "collections/grade-6/math/data/staar_catalog.json",
+  "reports": {
+    "coverage_csv": "collections/grade-6/math/reports/pdf_coverage_report.csv",
+    "coverage_md": "collections/grade-6/math/reports/pdf_coverage_report.md",
+    "coverage_summary_json": "collections/grade-6/math/reports/pdf_coverage_summary.json"
+  },
+  "images_dir": "collections/grade-6/math/images/extracted",
+  "stimulus_images_dir": "collections/grade-6/math/images/stimuli",
+  "vision_cache_dir": "collections/grade-6/math/cache/vision"
+}

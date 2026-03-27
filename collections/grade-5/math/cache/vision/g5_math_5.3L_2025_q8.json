@@ -1,0 +1,26 @@
+{
+  "stem": "An equation with a missing quotient is shown.\n\nWhat is the missing quotient?",
+  "instruction": "Move the correct answer to the box.",
+  "options": [],
+  "choice_pool": [
+    "\\frac{18}{9}",
+    "27",
+    "\\frac{1}{162}",
+    "\\frac{9}{18}",
+    "162",
+    "\\frac{1}{27}"
+  ],
+  "response_template": "\\frac{1}{9} \\div 18 = [blank_1]",
+  "visual_elements": [
+    "\\frac{18}{9}",
+    "27",
+    "\\frac{1}{162}",
+    "\\frac{9}{18}",
+    "162",
+    "\\frac{1}{27}",
+    "\\frac{1}{9} \\div 18 = [blank_1]"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

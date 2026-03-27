@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 11 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Scientists to scientists"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after filmed"
+    },
+    {
+      "label": "C",
+      "text": "Change playing to play"
+    },
+    {
+      "label": "D",
+      "text": "Change rings to ring"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

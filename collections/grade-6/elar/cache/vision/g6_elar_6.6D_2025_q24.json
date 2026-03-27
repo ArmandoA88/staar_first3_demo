@@ -1,0 +1,30 @@
+{
+  "stem": "Which is the best paraphrase of these sentences?\n\nThe group that leaves Bracken Bat Cave each night is so large that it can be tracked by radar. Radar is commonly used to predict weather by following moving objects, such as raindrops, in the sky.",
+  "instruction": "Read the sentences from paragraph 5 of the selection.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Bats regularly leave Bracken Cave during the evening and can be tracked by radar. Radar often is used for giving important weather updates, such as upcoming rain storms."
+    },
+    {
+      "label": "B",
+      "text": "The bats that leave Bracken Cave at night are often mistaken for raindrops by weather radar. Radar is an important tool that is used to follow storms that move in surrounding areas."
+    },
+    {
+      "label": "C",
+      "text": "So many bats exit Bracken Cave each night that the group can be tracked with the same radar used to track weather. Radar tracks objects, like drops of rain, as they move through the air."
+    },
+    {
+      "label": "D",
+      "text": "A large group of bats journeys from Bracken Cave. Weather radar is used to look out for approaching rainfall, but it can sometimes be used for other research purposes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The group that leaves Bracken Bat Cave each night is so large that it can be tracked by radar. Radar is commonly used to predict weather by following moving objects, such as raindrops, in the sky."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "There are crops growing on 29 acres of a 50-acre farm, as represented by the model.\n\nWhat percentage of the 50-acre farm has crops growing on it?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "58%"
+    },
+    {
+      "label": "B",
+      "text": "29%"
+    },
+    {
+      "label": "C",
+      "text": "54%"
+    },
+    {
+      "label": "D",
+      "text": "42%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A grid with 50 squares; 29 squares are shaded gray representing crops, and 21 squares are white."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "An expression is given.\n\n3 \\times (8 + 2) \\div 2\n\nWhich statement is true about the parentheses in this expression?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The parentheses indicate that 8 + 2 should be solved first."
+    },
+    {
+      "label": "B",
+      "text": "The parentheses indicate that 8 + 2 should be solved last."
+    },
+    {
+      "label": "C",
+      "text": "The parentheses indicate that 2 \\div 2 should be solved last."
+    },
+    {
+      "label": "D",
+      "text": "The parentheses indicate that 3 \\times 8 should be solved first."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3 \\times (8 + 2) \\div 2"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

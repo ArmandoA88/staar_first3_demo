@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these could follow sentence 5 and effectively state the central idea of this paper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinney\u2019s life story is a perfect example of a turn in life leading to great things."
+    },
+    {
+      "label": "B",
+      "text": "Kinney wrote the books in the Diary of a Wimpy Kid series and some movies have been made."
+    },
+    {
+      "label": "C",
+      "text": "Kinney had an interesting childhood and an even more interesting adulthood is what I think."
+    },
+    {
+      "label": "D",
+      "text": "Kinney is a person that you should like a lot, and I am going to tell you why in this paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

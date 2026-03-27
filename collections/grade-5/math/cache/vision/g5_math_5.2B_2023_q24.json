@@ -1,0 +1,30 @@
+{
+  "stem": "A principal will list the classrooms in order from the one that has the least floor area to the one that has the greatest floor area. Which classroom will the principal list second?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Classroom W"
+    },
+    {
+      "label": "B",
+      "text": "Classroom X"
+    },
+    {
+      "label": "C",
+      "text": "Classroom Y"
+    },
+    {
+      "label": "D",
+      "text": "Classroom Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Classroom Floor Areas table with values: W - 95.13, X - 94.18, Y - 95.2, Z - 94.7"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

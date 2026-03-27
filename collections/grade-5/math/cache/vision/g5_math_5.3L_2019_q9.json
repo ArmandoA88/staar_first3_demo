@@ -1,0 +1,31 @@
+{
+  "stem": "The owner of a snow-cone stand used \\(\\frac{1}{4}\\) gallon of syrup to make 16 cherry snow cones. She used the same amount of syrup in each snow cone.\nHow much syrup in gallons was used in each cherry snow cone?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\frac{1}{4}\\) gal"
+    },
+    {
+      "label": "B",
+      "text": "4 gal"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\frac{1}{64}\\) gal"
+    },
+    {
+      "label": "D",
+      "text": "64 gal"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\(\\frac{1}{4}\\) gallon",
+    "16 cherry snow cones"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

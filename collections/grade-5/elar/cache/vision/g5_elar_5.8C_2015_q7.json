@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best foreshadows what happens at the end of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\"We might be doing all this work for nothing.\""
+    },
+    {
+      "label": "B",
+      "text": "\"So Linda needs someone to take care of her own dog, Princess, for a week.\""
+    },
+    {
+      "label": "C",
+      "text": "\"You taking that thing to the dump?\""
+    },
+    {
+      "label": "D",
+      "text": "\"He's getting a dog, and it's going to need a house.\""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

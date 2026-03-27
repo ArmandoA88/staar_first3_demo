@@ -1,0 +1,30 @@
+{
+  "stem": "Aiko is selling books for $12 each. She wants to make more than $180 in book sales. The inequality 12b > 180 can be used to determine the number of books, b, she must sell in order to meet her goal. Which number line best represents the solution to the inequality?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Number line with closed dot at 15 and arrow to the right) 0, 10, 20"
+    },
+    {
+      "label": "B",
+      "text": "(Number line with closed dot at 15 and arrow to the left) 0, 10, 20"
+    },
+    {
+      "label": "C",
+      "text": "(Number line with open circle at 15 and arrow to the right) 0, 10, 20"
+    },
+    {
+      "label": "D",
+      "text": "(Number line with open circle at 15 and arrow to the left) 0, 10, 20"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four number lines labeled A, B, C, D with number points at 0, 10, 15, 20; A and B have closed dots at 15, C and D have open circles at 15; A and C have arrows pointing right; B and D have arrows pointing left."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

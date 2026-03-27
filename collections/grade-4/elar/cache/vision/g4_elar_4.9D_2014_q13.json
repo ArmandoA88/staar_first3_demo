@@ -1,0 +1,30 @@
+{
+  "stem": "Read the diagram below.\n\nCause:\nFrogs feel the footsteps of a larger animal approaching.\n\nEffect:",
+  "instruction": "Which of the following belongs in the empty box?",
+  "options": [
+    {
+      "label": "A",
+      "text": "The frogs alert other frogs by making a loud sound."
+    },
+    {
+      "label": "B",
+      "text": "The frogs croak to distract their enemies."
+    },
+    {
+      "label": "C",
+      "text": "The frogs quickly search for a hiding place."
+    },
+    {
+      "label": "D",
+      "text": "The frogs stop making sounds."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cause: Frogs feel the footsteps of a larger animal approaching. Effect: ________"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

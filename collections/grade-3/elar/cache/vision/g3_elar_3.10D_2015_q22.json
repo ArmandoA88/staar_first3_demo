@@ -1,0 +1,30 @@
+{
+  "stem": "Which line from the poem helps the reader imagine the speaker\u2019s experience while climbing the tree?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "through tunnels of leaves that sway"
+    },
+    {
+      "label": "G",
+      "text": "that\u2019s where I make my way"
+    },
+    {
+      "label": "H",
+      "text": "where the hills are wide"
+    },
+    {
+      "label": "J",
+      "text": "But the trunk of a tree"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Who is the narrator of this story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jen"
+    },
+    {
+      "label": "B",
+      "text": "Joey"
+    },
+    {
+      "label": "C",
+      "text": "Megan"
+    },
+    {
+      "label": "D",
+      "text": "An outside observer"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

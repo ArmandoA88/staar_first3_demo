@@ -1,0 +1,31 @@
+{
+  "stem": "This diagram helps the reader understand \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "how the constellation Leo is formed"
+    },
+    {
+      "label": "B",
+      "text": "the myth about the constellation Leo"
+    },
+    {
+      "label": "C",
+      "text": "where to find the constellation Leo in the sky"
+    },
+    {
+      "label": "D",
+      "text": "the names of all the stars in the constellation Leo"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of the Leo constellation with stars connected by lines and labeled 'Leo'",
+    "Image of a lion with the constellation pattern overlaid on its body"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

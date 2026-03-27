@@ -1,0 +1,30 @@
+{
+  "stem": "The poet organizes the poem as she does in order to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "explain why people travel in planes"
+    },
+    {
+      "label": "G",
+      "text": "detail the changes in travel throughout history"
+    },
+    {
+      "label": "H",
+      "text": "show how travel today differs from travel in the past"
+    },
+    {
+      "label": "J",
+      "text": "highlight the reasons people traveled in covered wagons"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Daniel's mom consulted the Internet she decided that the bites would not need to be treated by a doctor."
+    },
+    {
+      "label": "G",
+      "text": "Daniel's mom consulted the Internet, where the bites she decided would not need to be treated by a doctor."
+    },
+    {
+      "label": "H",
+      "text": "Daniel's mom consulted the Internet and decided that the bites would not need to be treated by a doctor."
+    },
+    {
+      "label": "J",
+      "text": "No revision should be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

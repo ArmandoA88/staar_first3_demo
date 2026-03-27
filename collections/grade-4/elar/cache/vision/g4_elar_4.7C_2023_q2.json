@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best explains why Sherry is surprised that the science experiment failed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Next to me, Josh stood staring at the row of petri dishes. (paragraph 1)"
+    },
+    {
+      "label": "B",
+      "text": "He didn\u2019t say anything, but I knew what he was thinking. (paragraph 1)"
+    },
+    {
+      "label": "C",
+      "text": "Our idea had been great. (paragraph 2)"
+    },
+    {
+      "label": "D",
+      "text": "Finally, I had to admit it. (paragraph 4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q2 Passage #1"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

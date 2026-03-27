@@ -1,0 +1,35 @@
+{
+  "stem": "Which comparison is NOT true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3.375 > 3.275"
+    },
+    {
+      "label": "G",
+      "text": "6.875 < 6.9"
+    },
+    {
+      "label": "H",
+      "text": "2.65 > 2.675"
+    },
+    {
+      "label": "J",
+      "text": "7.675 < 7.75"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2018 \u2013 Q2",
+    "2 Which comparison is NOT true?",
+    "F 3.375 > 3.275",
+    "G 6.875 < 6.9",
+    "H 2.65 > 2.675",
+    "J 7.675 < 7.75"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

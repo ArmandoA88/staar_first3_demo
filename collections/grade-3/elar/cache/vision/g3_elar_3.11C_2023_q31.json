@@ -1,0 +1,34 @@
+{
+  "stem": "What is the BEST way to revise sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Some of the kids in paying attention in the past had been having trouble."
+    },
+    {
+      "label": "B",
+      "text": "In the past some of the kids had been having trouble paying attention."
+    },
+    {
+      "label": "C",
+      "text": "They had been having trouble in the past in paying attention for some of the kids."
+    },
+    {
+      "label": "D",
+      "text": "Paying attention for some of the kids in the past had been having trouble."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the BEST way to revise sentence 21?",
+    "(A) Some of the kids in paying attention in the past had been having trouble.",
+    "(B) In the past some of the kids had been having trouble paying attention.",
+    "(C) They had been having trouble in the past in paying attention for some of the kids.",
+    "(D) Paying attention for some of the kids in the past had been having trouble."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The points plotted on the coordinate grid represent the rule y = x + 5.\n\nWhich table also represents this rule?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x  y\n9  4\n11  6\n14  9\n20  15"
+    },
+    {
+      "label": "B",
+      "text": "x  y\n4  9\n5  10\n6  11\n7  12"
+    },
+    {
+      "label": "C",
+      "text": "x  y\n5  10\n6  15\n7  20\n8  25"
+    },
+    {
+      "label": "D",
+      "text": "x  y\n4  20\n5  25\n6  30\n7  35"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with points (0,5), (1,6), (2,7), (3,8), (4,9) plotted"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

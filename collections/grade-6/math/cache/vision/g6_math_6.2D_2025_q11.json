@@ -1,0 +1,18 @@
+{
+  "stem": "Which number makes each inequality true?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "\\frac{1}{8}",
+    "-\\frac{9}{2}",
+    "0.025",
+    "1.9"
+  ],
+  "response_template": "-2.6 < [blank_1] < \\frac{1}{10} < [blank_2] < \\frac{12}{7}",
+  "visual_elements": [
+    "-2.6 < [blank_1] < 1/10 < [blank_2] < 12/7"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

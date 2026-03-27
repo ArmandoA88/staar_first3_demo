@@ -1,0 +1,35 @@
+{
+  "stem": "What is the central message the author presents in this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It is satisfying to watch others succeed."
+    },
+    {
+      "label": "B",
+      "text": "Receiving negative comments leads to a lack of confidence."
+    },
+    {
+      "label": "C",
+      "text": "Being dedicated can help one obtain a seemingly impossible goal."
+    },
+    {
+      "label": "D",
+      "text": "It is tempting to quit when situations become difficult."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q35 Passage #4B",
+    "35 What is the central message the author presents in this selection?",
+    "A It is satisfying to watch others succeed.",
+    "B Receiving negative comments leads to a lack of confidence.",
+    "C Being dedicated can help one obtain a seemingly impossible goal.",
+    "D It is tempting to quit when situations become difficult."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Read these sentences from the story.\n\nAs I ran down the lane toward the road, it occurred to me that climbing over the fence and crossing the field would save some time, so I did just that. (paragraph 2)\n\nThis time I took the long way around by the road. (paragraph 9)\n\nBased on these two sentences, the reader can conclude that the narrator \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "could not return home using the same path she had taken to the store"
+    },
+    {
+      "label": "B",
+      "text": "realizes her grandmother is in a hurry to get the yeast"
+    },
+    {
+      "label": "C",
+      "text": "feels satisfied with completing the errand for her grandmother"
+    },
+    {
+      "label": "D",
+      "text": "is less eager to return home than she was to get to the store"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text box with two italicized sentences from paragraphs 2 and 9"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

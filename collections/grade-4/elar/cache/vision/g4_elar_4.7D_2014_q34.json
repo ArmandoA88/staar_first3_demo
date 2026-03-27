@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "After talking to her parents, Annie Wignall started a project called Care Bags. People who work with children contact Wignall's group about children who need help. Volunteers for the project then fill bags with toys and other items."
+    },
+    {
+      "label": "G",
+      "text": "Annie Wignall wanted to find a way to help other children. After talking to her parents, she decided to gather items that children needed and put them in bags for delivery. Many people volunteered to help Annie with her project, which became known as Care Bags."
+    },
+    {
+      "label": "H",
+      "text": "After hearing about a family that had to leave their home suddenly and left some things behind, Annie Wignall decided to create the Care Bags project. The project provides bags containing toys and other items to children who need them. Project volunteers have helped thousands of children all over the world."
+    },
+    {
+      "label": "J",
+      "text": "Annie Wignall gathered some items in a bag for children in need and decided to start the Care Bags project. The project has now helped children all over the world by putting together many more similar bags. Wignall still directs the project's activities."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q34 Passage #4B"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

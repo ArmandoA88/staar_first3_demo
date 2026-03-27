@@ -1,0 +1,16 @@
+{
+  "stem": "Two expressions are shown. The second expression is not complete.\n\nExpression I: 200r - (-110)\nExpression II: [blank_1] + 200r\n\nWhat number belongs in the box so that Expression I is equivalent to Expression II?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [
+    "110"
+  ],
+  "response_template": "[blank_1] + 200r",
+  "visual_elements": [
+    "Expression I: 200r - (-110)",
+    "Expression II: [blank] + 200r"
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 1,
+  "notes": null
+}

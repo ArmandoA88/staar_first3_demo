@@ -1,0 +1,60 @@
+{
+  "stem": "Sarah has 1/5 of a cake. She shares her fraction of the cake equally with her friend.\n\nThe model shown is shaded to represent the situation.\n\nWhat equation represents the situation?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "2"
+    },
+    {
+      "label": null,
+      "text": "1/5"
+    },
+    {
+      "label": null,
+      "text": "1/2"
+    },
+    {
+      "label": null,
+      "text": "5"
+    },
+    {
+      "label": null,
+      "text": "10"
+    },
+    {
+      "label": null,
+      "text": "2/5"
+    },
+    {
+      "label": null,
+      "text": "1/10"
+    },
+    {
+      "label": null,
+      "text": "1"
+    },
+    {
+      "label": null,
+      "text": "5/2"
+    }
+  ],
+  "choice_pool": [
+    "2",
+    "1/5",
+    "1/2",
+    "5",
+    "10",
+    "2/5",
+    "1/10",
+    "1",
+    "5/2"
+  ],
+  "response_template": "[blank_1] \u00f7 [blank_2] = [blank_3]",
+  "visual_elements": [
+    "model showing 1/5 of cake shaded and split equally"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "The problem is a fraction division modeled by shaded parts of a rectangle, asking for the equation representing sharing 1/5 equally with a friend."
+}

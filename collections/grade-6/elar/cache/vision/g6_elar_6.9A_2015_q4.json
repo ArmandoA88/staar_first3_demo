@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea from the article does the photograph of the Burj Khalifa emphasize?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Building a skyscraper is a simple task for engineers."
+    },
+    {
+      "label": "G",
+      "text": "Skyscrapers have created city skylines with distinctive looks."
+    },
+    {
+      "label": "H",
+      "text": "Laws designate the areas where skyscrapers are allowed to be built."
+    },
+    {
+      "label": "J",
+      "text": "Modern construction techniques have allowed for more usable space in the bottom floors of skyscrapers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

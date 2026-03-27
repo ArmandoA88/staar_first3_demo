@@ -1,0 +1,31 @@
+{
+  "stem": "Based on the locations of the oil fields, which statement MOST LIKELY describes the environmental conditions in Texas millions of years ago?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Texas was once covered by a dry desert."
+    },
+    {
+      "label": "B",
+      "text": "Texas was once covered by a shallow sea."
+    },
+    {
+      "label": "C",
+      "text": "Texas was once covered by a flat grassland."
+    },
+    {
+      "label": "D",
+      "text": "Texas was once covered by a tropical rain forest."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A map of Texas shaded gray with symbols indicating oil fields scattered throughout the state.",
+    "A key with the symbol used for oil fields."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

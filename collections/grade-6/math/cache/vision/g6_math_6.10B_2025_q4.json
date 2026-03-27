@@ -1,0 +1,30 @@
+{
+  "stem": "Which inequality is true for all values of \\( n \\) where \\( n < -3 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( n + 5 < -6 \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( n + 5 > 3 \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( n + 5 < -1 \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( n + 5 < 3 \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2025 \u2013 Q4, question stem, answer options A-D with inequalities"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the way drew is used in paragraph 13?",
+  "instruction": "Read the dictionary entry for the word draw.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "draw \\'dr\u00f4\\ v\n1. to go steadily or gradually 2. to sketch with lines 3. to pull from a holding place 4. to choose by chance"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

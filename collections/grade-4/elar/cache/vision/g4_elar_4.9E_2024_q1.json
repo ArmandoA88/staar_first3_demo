@@ -1,0 +1,28 @@
+{
+  "stem": "What claim does the author make in the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Parks are good places for people to learn about their neighborhoods."
+    },
+    {
+      "label": "B",
+      "text": "People should build more parks in order to experience nature."
+    },
+    {
+      "label": "C",
+      "text": "The kinds of parks that people enjoy have changed a lot over the years."
+    },
+    {
+      "label": "D",
+      "text": "Money for parks should be spent on the nature that is already there."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

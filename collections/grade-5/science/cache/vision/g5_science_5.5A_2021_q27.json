@@ -1,0 +1,30 @@
+{
+  "stem": "A group of students is given four small cubes of the same size and instructed to place them in a beaker of water. One cube floats to the surface of the water. Two of the cubes float in the middle of the beaker under the surface of the water. The last cube sinks to the bottom of the beaker.\n\nWhich conclusion is best supported by what the students observed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Two of the four cubes are soluble in water."
+    },
+    {
+      "label": "B",
+      "text": "All four cubes have different masses."
+    },
+    {
+      "label": "C",
+      "text": "Each cube is made of a different type of solid material."
+    },
+    {
+      "label": "D",
+      "text": "One of the cubes is more dense than the other three."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

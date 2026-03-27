@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason Nelson asks Lucia this question?",
+  "instruction": "Read line 25.\n\nNELSON: Hi, Lucia. Where'd you get that book?",
+  "options": [
+    {
+      "label": "A",
+      "text": "To learn where he can buy the same book"
+    },
+    {
+      "label": "B",
+      "text": "To find out if she picked up his book in the library"
+    },
+    {
+      "label": "C",
+      "text": "To get suggestions from her about where to look for his book"
+    },
+    {
+      "label": "D",
+      "text": "To see if there is another copy of the book in the library"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "NELSON: Hi, Lucia. Where'd you get that book?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

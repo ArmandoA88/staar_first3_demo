@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 13.\n\nShe smiled when the sunlight bounced off the crystals, sending the rays in a thousand directions at once.\n\nThe author uses this description to suggest that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the geode looks beautiful as it shines"
+    },
+    {
+      "label": "G",
+      "text": "Layla really wants to keep the geode"
+    },
+    {
+      "label": "H",
+      "text": "the forest has many other hidden geodes"
+    },
+    {
+      "label": "J",
+      "text": "Layla is wondering how the geode formed"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "She smiled when the sunlight bounced off the crystals, sending the rays in a thousand directions at once."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

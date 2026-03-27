@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the average annual salary for four jobs.\n\nAverage Annual Salaries\n\n| Job                | Average Annual Salary (dollars) |\n|--------------------|--------------------------------|\n| Copywriter         | 55,869                         |\n| Librarian          | 54,407                         |\n| Elevator technician | 71,900                         |\n| Aircraft mechanic  | 52,975                         |\n\nBased on this information, how much more will an elevator technician make than a librarian over 10 years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$174,930"
+    },
+    {
+      "label": "B",
+      "text": "$126,307"
+    },
+    {
+      "label": "C",
+      "text": "$17,493"
+    },
+    {
+      "label": "D",
+      "text": "$1,263,070"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with jobs and their average annual salaries"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

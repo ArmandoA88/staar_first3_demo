@@ -1,0 +1,28 @@
+{
+  "stem": "Riley received financial assistance to pay for his college education. After he graduates, he will have to pay back the amount of money he received plus any interest that accrues after graduation.\n\nWhich kind of financial assistance did Riley receive?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Student loan"
+    },
+    {
+      "label": "G",
+      "text": "Scholarship"
+    },
+    {
+      "label": "H",
+      "text": "Work-study"
+    },
+    {
+      "label": "J",
+      "text": "Savings plan"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

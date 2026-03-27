@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is represented on the number line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "0 - (-8)"
+    },
+    {
+      "label": "G",
+      "text": "-2 \\cdot 4"
+    },
+    {
+      "label": "H",
+      "text": "-2 + (-8)"
+    },
+    {
+      "label": "J",
+      "text": "-2 \\div 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line from -10 to 5 with four -2 jumps from 0 to -8"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

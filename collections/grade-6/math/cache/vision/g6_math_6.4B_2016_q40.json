@@ -1,0 +1,30 @@
+{
+  "stem": "Aiden asked a group of students to choose their favorite type of music from the choices of rock, hip-hop, and country. The results of the survey are shown in the graph.\n\nBased on the graph, how many students in a class of 360 students would be expected to choose hip-hop or rock as their favorite type of music?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "240"
+    },
+    {
+      "label": "G",
+      "text": "80"
+    },
+    {
+      "label": "H",
+      "text": "60"
+    },
+    {
+      "label": "J",
+      "text": "180"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled Favorite Type of Music with y-axis labeled Number of Students from 0 to 50 in increments of 10, x-axis labeled Type of Music with categories Rock, Hip-Hop, Country. The bar heights are approximately 20 for Rock, 40 for Hip-Hop, and 30 for Country."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

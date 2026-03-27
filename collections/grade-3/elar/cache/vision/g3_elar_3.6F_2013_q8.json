@@ -1,0 +1,31 @@
+{
+  "stem": "Which sentence best explains why Joubert was able to provide the care Jessica needed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He had nursed many orphaned animals back to health."
+    },
+    {
+      "label": "G",
+      "text": "He knew the baby hippo was very young and weak."
+    },
+    {
+      "label": "H",
+      "text": "He carried the 26-pound animal into his house and named her Jessica."
+    },
+    {
+      "label": "J",
+      "text": "He mixed egg yolks and cream and fed it to Jessica from a bottle."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q8 Passage #1",
+    "8"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

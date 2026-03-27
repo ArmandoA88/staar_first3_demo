@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph next to paragraph 3 shows that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "PlayPumps pump a lot of water"
+    },
+    {
+      "label": "B",
+      "text": "children enjoy playing on a PlayPump"
+    },
+    {
+      "label": "C",
+      "text": "PlayPumps work only during the day"
+    },
+    {
+      "label": "D",
+      "text": "it is difficult to move a PlayPump"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph next to paragraph 3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

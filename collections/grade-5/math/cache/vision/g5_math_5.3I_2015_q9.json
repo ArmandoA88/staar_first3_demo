@@ -1,0 +1,30 @@
+{
+  "stem": "Weather delayed 4/6 of the 24 flights departing from an airport. All the departing flights are listed in the chart.\n\nDeparting Flights\nFlight #48  Flight #111  Flight #90  Flight #38\nFlight #112  Flight #222  Flight #134  Flight #46\nFlight #23  Flight #564  Flight #56  Flight #116\nFlight #12  Flight #72  Flight #765  Flight #677\nFlight #17  Flight #86  Flight #89  Flight #422\nFlight #65  Flight #329  Flight #88  Flight #499\n\nHow many flights departing from the airport were delayed by weather?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "18"
+    },
+    {
+      "label": "B",
+      "text": "4"
+    },
+    {
+      "label": "C",
+      "text": "16"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Departing Flights chart listing flight numbers in a 6 row by 4 column grid"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

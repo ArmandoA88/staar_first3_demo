@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the time in seconds it took four swimmers to complete a race.\n\nRace Times\n\n| Swimmer          | One  | Two  | Three | Four  |\n|------------------|-------|-------|-------|-------|\n| Time (seconds)   | 26.15 | 26.5  | 26.1  | 26.05 |\n\nWhich inequality correctly compares two of these race times?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "26.5 > 26.05"
+    },
+    {
+      "label": "G",
+      "text": "26.15 > 26.5"
+    },
+    {
+      "label": "H",
+      "text": "26.1 < 26.05"
+    },
+    {
+      "label": "J",
+      "text": "26.15 < 26.1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Race Times table showing times for four swimmers: One - 26.15, Two - 26.5, Three - 26.1, Four - 26.05"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

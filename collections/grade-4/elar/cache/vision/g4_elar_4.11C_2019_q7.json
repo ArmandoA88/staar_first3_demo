@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective revision to make in sentence 26?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Visitors were able to build a LEGO brick model and add it to any state on the map."
+    },
+    {
+      "label": "B",
+      "text": "Visitors were able to build a LEGO brick model to any state on the map they could add what they built."
+    },
+    {
+      "label": "C",
+      "text": "Visitors were able to build a LEGO brick model, then they were able to add that LEGO model to any state on the map."
+    },
+    {
+      "label": "D",
+      "text": "Visitors were able to build a LEGO brick model, then visitors could add the LEGO brick model to any state on the map."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 \u2013 Q7 Passage #2"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

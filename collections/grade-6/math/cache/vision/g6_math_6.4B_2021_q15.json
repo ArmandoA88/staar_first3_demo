@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the ratio of people who ate a certain type of lunch to the total number of people who ate lunch.\n\nA total of 840 people ate lunch. Which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Half as many people ate a turkey sandwich as ate a vegetarian sandwich."
+    },
+    {
+      "label": "B",
+      "text": "One-fourth as many people ate a vegetarian sandwich as ate a salad."
+    },
+    {
+      "label": "C",
+      "text": "There were 56 more people who ate a turkey sandwich than ate a chicken sandwich."
+    },
+    {
+      "label": "D",
+      "text": "There were 28 more people who ate a salad than ate a chicken sandwich."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with header 'Lunch' and two columns labeled 'Type of Lunch' and 'Ratio to the Total'. Rows: 'Turkey sandwich' with ratio 1/3, 'Vegetarian sandwich' with ratio 1/6, 'Chicken sandwich' with ratio 4/15, and 'Salad' with ratio 7/30."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

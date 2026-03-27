@@ -1,0 +1,31 @@
+{
+  "stem": "The circles in the model represent positive and negative units.\n\n[image of 3 black circles above 5 white circles]\n\nKEY\n\u25cb = 1\n\u25cf = -1\n\nWhich equation is true based on the model?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(-3) + 5 = -2"
+    },
+    {
+      "label": "B",
+      "text": "(-3) + 5 = 2"
+    },
+    {
+      "label": "C",
+      "text": "-3 + (-5) = -2"
+    },
+    {
+      "label": "D",
+      "text": "3 + (-5) = 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of 3 black circles above 5 white circles",
+    "KEY \u25cb = 1 \u25cf = -1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

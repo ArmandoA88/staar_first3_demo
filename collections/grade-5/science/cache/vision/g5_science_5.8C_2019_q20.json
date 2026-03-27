@@ -1,0 +1,34 @@
+{
+  "stem": "The diagram shows the shadow of a tree in a field at noon on a summer day.\nThe sun rises at 7:00 A.M. on this day. Which diagram best shows the shadow of the tree at 10:00 A.M. on the same day?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "West          East\n[Illustration of shadow to the right of tree with sun on the left]"
+    },
+    {
+      "label": "G",
+      "text": "West          East\n[Illustration of shadow to the left of tree with sun on the right]"
+    },
+    {
+      "label": "H",
+      "text": "West          East\n[Illustration of tree with sun far to the right and no visible shadow]"
+    },
+    {
+      "label": "J",
+      "text": "West          East\n[Illustration of shadow to the right of tree with sun on the left but longer shadow than F]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of tree with shadow at noon labeled west and east",
+    "Diagram F with sun on left and shadow to right",
+    "Diagram G with sun on right and shadow to left",
+    "Diagram H with sun on right and no shadow",
+    "Diagram J with sun on left and longer shadow to right"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

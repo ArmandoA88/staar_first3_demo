@@ -1,0 +1,35 @@
+{
+  "stem": "Which text feature provides information about R2's abilities?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The subheadings"
+    },
+    {
+      "label": "G",
+      "text": "The title of the article"
+    },
+    {
+      "label": "H",
+      "text": "The caption of the first photograph"
+    },
+    {
+      "label": "J",
+      "text": "The caption of the second photograph"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q4 Passage #1",
+    "4 Which text feature provides information about R2's abilities?",
+    "F The subheadings",
+    "G The title of the article",
+    "H The caption of the first photograph",
+    "J The caption of the second photograph"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A student observes the position of the sun in the sky while outside at noon and again later in the afternoon.\n\nPart A\nWhich table correctly identifies the MOST LIKELY positions at which the student observes the sun?",
+  "instruction": "This question has two parts. First, answer Part A. Then answer Part B.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Noon Position 3  Afternoon Position 2"
+    },
+    {
+      "label": "B",
+      "text": "Noon Position 2  Afternoon Position 4"
+    },
+    {
+      "label": "C",
+      "text": "Noon Position 1  Afternoon Position 5"
+    },
+    {
+      "label": "D",
+      "text": "Noon Position 5  Afternoon Position 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram shows five positions of the sun in the sky labeled 1 to 5 from west (1) to east (5) with mountains and trees below."
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": "This JSON contains only Part A of the multipart question as requested."
+}

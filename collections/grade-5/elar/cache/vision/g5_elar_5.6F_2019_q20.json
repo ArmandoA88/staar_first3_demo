@@ -1,0 +1,34 @@
+{
+  "stem": "Lines 1 through 4 reveal that the speaker \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "has planned for a variety of activities"
+    },
+    {
+      "label": "G",
+      "text": "prefers to participate in indoor activities"
+    },
+    {
+      "label": "H",
+      "text": "thinks that rain will ruin the trip"
+    },
+    {
+      "label": "J",
+      "text": "is unable to bring along all that is needed for the trip"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Lines 1 through 4 reveal that the speaker \u2014",
+    "F has planned for a variety of activities",
+    "G prefers to participate in indoor activities",
+    "H thinks that rain will ruin the trip",
+    "J is unable to bring along all that is needed for the trip"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

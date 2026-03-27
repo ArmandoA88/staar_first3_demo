@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea is supported by information throughout the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Olympic Games provide an opportunity for people to set aside their differences in order to celebrate a common interest in sports."
+    },
+    {
+      "label": "B",
+      "text": "Pierre de Coubertin understood the importance of colorful symbols as a part of athletic competitions."
+    },
+    {
+      "label": "C",
+      "text": "Selecting Greece as the location of the first modern Olympic Games was a difficult decision for the International Olympic Committee."
+    },
+    {
+      "label": "D",
+      "text": "The International Olympic Committee has full authority to set and uphold rules for the modern Olympics."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

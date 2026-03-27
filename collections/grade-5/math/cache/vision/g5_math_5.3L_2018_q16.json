@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of this expression? \\n\\n \\frac{1}{12} \\div 36",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{1}{432}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{1}{3}"
+    },
+    {
+      "label": "J",
+      "text": "432"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\frac{1}{12} \\div 36"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

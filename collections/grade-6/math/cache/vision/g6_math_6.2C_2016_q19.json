@@ -1,0 +1,30 @@
+{
+  "stem": "Alyssa will correctly label the numbers 48.4, 48\\frac{1}{2}, 48.09, and 48\\frac{3}{5} on the number line below.\n\nWhich number will be located closest to 49?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "48.4"
+    },
+    {
+      "label": "B",
+      "text": "48\\frac{1}{2}"
+    },
+    {
+      "label": "C",
+      "text": "48.09"
+    },
+    {
+      "label": "D",
+      "text": "48\\frac{3}{5}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A number line labeled from 48 to 49 with increments between."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

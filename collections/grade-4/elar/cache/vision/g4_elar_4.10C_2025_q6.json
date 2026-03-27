@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes the illustration?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show that Robin is trying to sleep in the hollow"
+    },
+    {
+      "label": "B",
+      "text": "To show how Robin builds her nest"
+    },
+    {
+      "label": "C",
+      "text": "To show that Robin is moving away from her friend"
+    },
+    {
+      "label": "D",
+      "text": "To show why Robin dislikes the winter"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Illustration of a Robin in a hollow"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

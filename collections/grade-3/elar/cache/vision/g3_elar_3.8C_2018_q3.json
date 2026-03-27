@@ -1,0 +1,32 @@
+{
+  "stem": "Read the story chart below.\n\nEvents from the Story\n\n1. Carter wakes up and gets ready.\n2. Carter meets his friend Max at the beach.\n3. [blank_1]\n4. Max tells the girls that he and Carter started building their sculpture first.\n\nWhich of the following events completes the chart?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Carter tells Kate how to make the tires look round."
+    },
+    {
+      "label": "B",
+      "text": "Carter reminds Max that the judging begins at two o'clock."
+    },
+    {
+      "label": "C",
+      "text": "Carter, Max, Sophie, and Kate hurry to build a racetrack around their cars."
+    },
+    {
+      "label": "D",
+      "text": "Carter and Max begin making their sand sculpture by digging up sand and putting it in a pile."
+    }
+  ],
+  "choice_pool": [
+    "Carter and Max begin making their sand sculpture by digging up sand and putting it in a pile."
+  ],
+  "response_template": "[blank_1]",
+  "visual_elements": [
+    "story chart with 4 events"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

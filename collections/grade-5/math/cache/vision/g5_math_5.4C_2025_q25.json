@@ -1,0 +1,21 @@
+{
+  "stem": "The graph shows two points that follow the rule y = x + 7.\n\nThe table shows ordered pairs that follow the same rule, y = x + 7.\n\nWhat are the missing values?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "11",
+    "8",
+    "13",
+    "27",
+    "12",
+    "7"
+  ],
+  "response_template": "\\nx | 1 | 4 | 5 | [blank_1]\\n y | 8 | [blank_2] | 12 | 20",
+  "visual_elements": [
+    "graph with two points: (1,8) and (5,12)",
+    "table with missing values"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

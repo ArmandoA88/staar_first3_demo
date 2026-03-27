@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Living in family groups called troops that can have as many as 20 members."
+    },
+    {
+      "label": "B",
+      "text": "They live in family groups called troops. And can have as many as 20 members."
+    },
+    {
+      "label": "C",
+      "text": "The family groups they live in are called troops and can have. As many as 20 members."
+    },
+    {
+      "label": "D",
+      "text": "They live in family groups called troops that can have as many as 20 members."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

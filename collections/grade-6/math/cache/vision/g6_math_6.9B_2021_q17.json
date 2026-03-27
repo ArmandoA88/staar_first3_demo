@@ -1,0 +1,33 @@
+{
+  "stem": "Alma reads 2 books each week. Which number line best represents the number of weeks it will take her to read at least 28 books?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number line with closed dot at 14, shaded left from 14 to 0"
+    },
+    {
+      "label": "B",
+      "text": "Number line with open dot at 14, shaded right from 14 to 20"
+    },
+    {
+      "label": "C",
+      "text": "Number line with closed dot at 14, shaded right from 14 to 20"
+    },
+    {
+      "label": "D",
+      "text": "Number line with open dot at 14, shaded left from 14 to 0"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line A: 0 to 20, closed dot at 14, shaded left",
+    "Number line B: 0 to 20, open dot at 14, shaded right",
+    "Number line C: 0 to 20, closed dot at 14, shaded right",
+    "Number line D: 0 to 20, open dot at 14, shaded left"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

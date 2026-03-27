@@ -1,0 +1,30 @@
+{
+  "stem": "The points on the graph represent a numerical pattern.\n\nWhich statement about the pattern represented on the graph is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It is a multiplicative pattern because each y-coordinate has a higher value than the corresponding x-coordinate."
+    },
+    {
+      "label": "G",
+      "text": "It is a multiplicative pattern because each x-coordinate is multiplied by 5 to create the corresponding y-coordinate."
+    },
+    {
+      "label": "H",
+      "text": "It is an additive pattern because each y-coordinate has a higher value than the corresponding x-coordinate."
+    },
+    {
+      "label": "J",
+      "text": "It is an additive pattern because each x-coordinate is increased by 4 to create the corresponding y-coordinate."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane with points at (1,5), (2,6), (3,7), (4,8), (5,9), (6,10)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

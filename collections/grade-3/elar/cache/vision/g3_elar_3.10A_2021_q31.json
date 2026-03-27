@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author included paragraph 1 in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show how bark art is different from other art"
+    },
+    {
+      "label": "B",
+      "text": "To interest the reader in learning about bark art"
+    },
+    {
+      "label": "C",
+      "text": "To describe how bark art has changed over time"
+    },
+    {
+      "label": "D",
+      "text": "To tell the reader why villagers made bark art"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

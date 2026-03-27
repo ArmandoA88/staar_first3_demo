@@ -1,0 +1,31 @@
+{
+  "stem": "As part of a survey, a group of people were asked to name their preferred method of viewing television shows. Their responses are shown in the table.\n\n| Viewing Method   | Number of People | Key for Bar Graph |\n|-----------------|------------------|-------------------|\n| Live            | 8                | [white box]       |\n| Recorded        | 9                | [light gray box]  |\n| On demand       | 3                | [dark gray box]   |\n| Online streaming| 5                | [black box]       |\n\nWhich percentage bar graph best represents the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[white box] 30%  [light gray box] 40%  [dark gray box] 10%  [black box] 20%"
+    },
+    {
+      "label": "B",
+      "text": "[white box] 30%  [light gray box] 40%  [dark gray box] 10%  [black box] 20%"
+    },
+    {
+      "label": "C",
+      "text": "[white box] 25%  [light gray box] 25%  [dark gray box] 40%  [black box] 10%"
+    },
+    {
+      "label": "D",
+      "text": "[white box] 35%  [light gray box] 10%  [dark gray box] 40%  [black box] 15%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: Viewing Method, Number of People, Key for Bar Graph with color boxes",
+    "Bar Graphs labeled A, B, C, D with different color segment percentages"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": "Stem preserves table content and question wording. Answer choices paraphrased to describe the bar segments as exact percentages are approximated visually from the graph."
+}

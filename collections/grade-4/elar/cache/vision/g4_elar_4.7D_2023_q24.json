@@ -1,0 +1,31 @@
+{
+  "stem": "Read these sentences from paragraph 11.\n\nAs a keystone species, Austin Blind Salamanders are important because they are predators that hunt other animals. If the salamanders left the aquifer, there would be a lot more of their prey animals in the environment and the quality of the water would change. This could make the water unsafe to drink.\n\nWhat is the best paraphrase of these sentences?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Austin Blind Salamanders are necessary because they hunt prey. Without them in the aquifer, there would be too many other animals and the water would be undrinkable."
+    },
+    {
+      "label": "B",
+      "text": "Austin Blind Salamanders are the only animals that live in the aquifer. They keep the water safe for humans to drink."
+    },
+    {
+      "label": "C",
+      "text": "Without the Austin Blind Salamanders in the aquifer, more animals would hunt there. They would crowd the aquifer and make the water undrinkable."
+    },
+    {
+      "label": "D",
+      "text": "Austin Blind Salamanders are hunted in the aquifer. They need to be protected from predators because they help clean the water."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text excerpt from paragraph 11",
+    "four multiple choice options labeled A to D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

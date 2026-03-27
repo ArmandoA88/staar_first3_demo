@@ -1,0 +1,34 @@
+{
+  "stem": "An expression is shown.\n\n28 + 7 \u00d7 (12 \u2212 4)\n\nWhich expressions are equivalent to the given expression?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "35 \u00d7 8"
+    },
+    {
+      "label": null,
+      "text": "28 + 7 \u00d7 8"
+    },
+    {
+      "label": null,
+      "text": "35 \u00d7 12 \u2212 4"
+    },
+    {
+      "label": null,
+      "text": "28 + 56"
+    },
+    {
+      "label": null,
+      "text": "28 + 84 \u2212 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "28 + 7 \u00d7 (12 \u2212 4)"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

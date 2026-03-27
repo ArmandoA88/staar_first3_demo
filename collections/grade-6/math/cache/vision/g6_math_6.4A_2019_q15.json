@@ -1,0 +1,30 @@
+{
+  "stem": "The tables show the relationships between x and y for two data sets.\n\nData Set I\n\n| x | y   |\n|---|-----|\n| 1 | 5.5 |\n| 2 | 11.0|\n| 3 | 16.5|\n| 4 | 22.0|\n| 5 | 27.5|\n\nData Set II\n\n| x | y  |\n|---|----|\n| 1 | 5  |\n| 2 | 10 |\n| 3 | 15 |\n| 4 | 20 |\n| 5 | 25 |\n\nWhich statements describe the relationships between x and y in Data Set I and Data Set II?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Both data sets show additive relationships.\nIn Data Set I, y is 5.5 more than x, and in Data Set II, y is 5 more than x."
+    },
+    {
+      "label": "B",
+      "text": "Data Set I shows a multiplicative relationship in which y is 5.5 times x.\nData Set II shows an additive relationship in which y is 20 more than x."
+    },
+    {
+      "label": "C",
+      "text": "Both data sets show multiplicative relationships.\nIn Data Set I, y is 5.5 times x, and in Data Set II, y is 5 times x."
+    },
+    {
+      "label": "D",
+      "text": "Data Set I shows an additive relationship in which y is 4.5 more than x.\nData Set II shows a multiplicative relationship in which y is 5 times x."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two tables labeled Data Set I and Data Set II showing values of x and y"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

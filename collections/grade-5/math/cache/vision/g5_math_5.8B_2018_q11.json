@@ -1,0 +1,28 @@
+{
+  "stem": "A student will graph the point (5, 3) on a coordinate grid. Which steps can the student take in order to graph the point correctly?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Start at the origin. Move 5 units up. Move 3 units right. Graph the point."
+    },
+    {
+      "label": "B",
+      "text": "Start at the origin. Move 5 units right. Move 3 units right. Graph the point."
+    },
+    {
+      "label": "C",
+      "text": "Start at the origin. Move 5 units up. Move 3 units up. Graph the point."
+    },
+    {
+      "label": "D",
+      "text": "Start at the origin. Move 5 units right. Move 3 units up. Graph the point."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

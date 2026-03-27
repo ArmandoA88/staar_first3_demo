@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from \u201cBuilding a Better Sandcastle\u201d suggests that experts have a similar concern when building sandcastles?",
+  "instruction": "Read line 10 from the poem.\n\nAdd more water now and then; don\u2019t let that sand get dry!",
+  "options": [
+    {
+      "label": "A",
+      "text": "Once the sand is firm enough, they remove the wooden beams, leaving a block of sand."
+    },
+    {
+      "label": "B",
+      "text": "It\u2019s important to get the main part of the castle just right."
+    },
+    {
+      "label": "C",
+      "text": "After the sandcastle is shaped, it is time to carve the details."
+    },
+    {
+      "label": "D",
+      "text": "Some experts keep a spray bottle full of water nearby to keep the sand damp so it won\u2019t crumble."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Add more water now and then; don\u2019t let that sand get dry!"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

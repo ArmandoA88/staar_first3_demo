@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the approximate median annual salaries associated with two levels of education.\n\nMedian Annual Salaries\n\n| Level of Education | Bachelor's degree | Master's degree |\n|--------------------|-------------------|-----------------|\n| Median Annual Salary (dollars) | 57,600 | 69,100 |\n\nBased on the data in the table, how much more money would a person with a master's degree earn than a person with a bachelor's degree over a 35-year career?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$402,500"
+    },
+    {
+      "label": "B",
+      "text": "$126,770"
+    },
+    {
+      "label": "C",
+      "text": "$11,500"
+    },
+    {
+      "label": "D",
+      "text": "$4,434,500"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Median Annual Salaries table"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Kassidy walks and bathes dogs. She charges $8.50 if a customer wants a dog bathed and walked. She charges $5.75 if a customer only wants a dog walked. The list shows the jobs Kassidy did last weekend.\n\n\u2022 On Saturday she took 6 dogs for walks only.\n\u2022 On Sunday she took 5 dogs for walks only.\n\u2022 On Saturday she walked and bathed 4 dogs.\n\u2022 On Sunday she walked and bathed 4 dogs.\n\nKassidy used the following expression to determine the amount of money she earned walking and bathing dogs last weekend.\n\n5.75(6 + 5) + 8.50(2 \u00d7 4)\n\nHow much money did Kassidy earn walking and bathing dogs last weekend?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$97.25"
+    },
+    {
+      "label": "B",
+      "text": "$1,411.00"
+    },
+    {
+      "label": "C",
+      "text": "$194.50"
+    },
+    {
+      "label": "D",
+      "text": "$131.25"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "5.75(6 + 5) + 8.50(2 \u00d7 4)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the theme of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Hard work often leads to success."
+    },
+    {
+      "label": "B",
+      "text": "Some people work more than others."
+    },
+    {
+      "label": "C",
+      "text": "Popular items often change through the years."
+    },
+    {
+      "label": "D",
+      "text": "No one knows what to expect in the future."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

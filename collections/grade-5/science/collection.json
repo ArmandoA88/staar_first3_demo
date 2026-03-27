@@ -1,0 +1,19 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-5-science",
+  "label": "Grade 5 Science",
+  "grade": 5,
+  "subject": "Science",
+  "status": "ready",
+  "root": "collections/grade-5/science",
+  "source_pdf": "collections/grade-5/science/source/5thscience.pdf",
+  "catalog": "collections/grade-5/science/data/staar_catalog.json",
+  "reports": {
+    "coverage_csv": "collections/grade-5/science/reports/pdf_coverage_report.csv",
+    "coverage_md": "collections/grade-5/science/reports/pdf_coverage_report.md",
+    "coverage_summary_json": "collections/grade-5/science/reports/pdf_coverage_summary.json"
+  },
+  "images_dir": "collections/grade-5/science/images/extracted",
+  "stimulus_images_dir": "collections/grade-5/science/images/stimuli",
+  "vision_cache_dir": "collections/grade-5/science/cache/vision"
+}

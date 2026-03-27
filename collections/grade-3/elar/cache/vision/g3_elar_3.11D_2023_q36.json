@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *Teachers* to teachers"
+    },
+    {
+      "label": "B",
+      "text": "Change *think* to **thought**"
+    },
+    {
+      "label": "C",
+      "text": "Change *easy* to **easier**"
+    },
+    {
+      "label": "D",
+      "text": "Change the period to a question mark"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

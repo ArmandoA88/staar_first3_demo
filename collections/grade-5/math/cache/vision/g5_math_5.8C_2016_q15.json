@@ -1,0 +1,32 @@
+{
+  "stem": "The ordered pairs below represent the location of four people.\n\nPaula is located at (7, 7). Based on this information, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Paula is located 1 unit south and 2 units east from Nathan."
+    },
+    {
+      "label": "B",
+      "text": "Paula is located 7 units east from Wade."
+    },
+    {
+      "label": "C",
+      "text": "Paula is located 3 units south and 2 units west from Denise."
+    },
+    {
+      "label": "D",
+      "text": "Paula is located 6 units west from Urvasi."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with x and y axes from 0 to 10.",
+    "Coordinates: Nathan (6, 5), Denise (9, 10), Wade (7, 0), Urvasi (1, 1).",
+    "Compass rose showing N, E, S, W directions."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

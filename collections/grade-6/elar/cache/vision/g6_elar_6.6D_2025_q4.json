@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following ideas should be included in this paragraph to create a complete summary of Scene 1 of the play?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Caitlin remembers when baking soda lava spilled all over the carpet."
+    },
+    {
+      "label": "B",
+      "text": "Caitlin makes a disgusted face when she first sees the dough."
+    },
+    {
+      "label": "C",
+      "text": "Horatio asks Caitlin if she would like to feed the sourdough starter."
+    },
+    {
+      "label": "D",
+      "text": "Horatio declares that he will keep the sourdough starter alive for a long time."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Caitlin and Horatio arrive at Horatio\u2019s home after school. Caitlin is guessing what Horatio\u2019s newest project is going to be. Horatio excitedly retrieves a jar filled with dough from the kitchen. Horatio explains that it is a sourdough starter from his grandmother. Caitlin is unsure that it is as exciting as Horatio claims."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

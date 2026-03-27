@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 24 and 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "My father was very clear about this. How long to wait before trying to flip the pancakes over."
+    },
+    {
+      "label": "G",
+      "text": "My father was very clear. About how long to wait before trying to flip the pancakes over."
+    },
+    {
+      "label": "H",
+      "text": "My father was very clear about this he told me how long to wait before trying to flip the pancakes over."
+    },
+    {
+      "label": "J",
+      "text": "My father was very clear about how long to wait before trying to flip the pancakes over."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

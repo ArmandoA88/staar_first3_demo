@@ -1,0 +1,28 @@
+{
+  "stem": "A business that rents cars is open for 8 hours on Monday. On Monday morning the business had 45 cars.\n\n\u2022 The business rented 3 cars to customers during each of the first 5 hours.\n\u2022 The business rented 2 cars to customers during each of the next 3 hours.\n\u2022 The total number of cars that were brought back to the business by customers on Monday was 17.\n\nIn which equation does c represent the number of cars the business had at the end of the day on Monday?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "c = 45 - (5 + 3) - (3 + 2) + 17"
+    },
+    {
+      "label": "B",
+      "text": "c = 45 - (5 \u00d7 3) - (3 \u00d7 2) - 17"
+    },
+    {
+      "label": "C",
+      "text": "c = 45 - (5 + 3) - (3 + 2) - 17"
+    },
+    {
+      "label": "D",
+      "text": "c = 45 - (5 \u00d7 3) - (3 \u00d7 2) + 17"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

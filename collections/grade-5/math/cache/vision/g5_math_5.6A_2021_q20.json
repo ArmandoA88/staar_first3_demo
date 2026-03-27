@@ -1,0 +1,30 @@
+{
+  "stem": "The four figures shown are rectangular prisms made of unit cubes.\n\nWhich figures have a volume of 12 cubic units?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Figures II and IV only"
+    },
+    {
+      "label": "G",
+      "text": "Figures I and III only"
+    },
+    {
+      "label": "H",
+      "text": "Figures I, II, and IV only"
+    },
+    {
+      "label": "J",
+      "text": "Figures I, II, III, and IV"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four rectangular prisms labeled Figure I, Figure II, Figure III, and Figure IV made of unit cubes."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Match each term to its description.\n\nMove the correct term to each box. Not all terms will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "The vertical number line on a coordinate grid"
+    },
+    {
+      "label": null,
+      "text": "The first number in an ordered pair of numbers"
+    },
+    {
+      "label": null,
+      "text": "The point where the horizontal axis intersects the vertical axis"
+    }
+  ],
+  "choice_pool": [
+    "x-coordinate",
+    "y-coordinate",
+    "x-axis",
+    "y-axis",
+    "origin",
+    "quadrant"
+  ],
+  "response_template": "The vertical number line on a coordinate grid [blank_1]\nThe first number in an ordered pair of numbers [blank_2]\nThe point where the horizontal axis intersects the vertical axis [blank_3]",
+  "visual_elements": [
+    "table with three rows and two columns; column headers: Description, Term; rows contain descriptions and blank boxes for answers"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

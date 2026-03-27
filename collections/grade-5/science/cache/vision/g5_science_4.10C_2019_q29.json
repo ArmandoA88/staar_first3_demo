@@ -1,0 +1,33 @@
+{
+  "stem": "Which table correctly classifies statements about weather and climate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Hail can form in thunderstorms that have strong winds. / The high temperature for Tuesday was 28 \u00b0C."
+    },
+    {
+      "label": "B",
+      "text": "There will be thunderstorms tomorrow in the afternoon. / The month of February has had the coldest temperatures on record for thirty years."
+    },
+    {
+      "label": "C",
+      "text": "August has the hottest temperatures each year. / A cold front is expected next week."
+    },
+    {
+      "label": "D",
+      "text": "The high temperature for March is usually around 20 \u00b0C. / There are clear skies with no chance of rain for the next four days."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table A: Weather - Hail can form in thunderstorms that have strong winds. Climate - The high temperature for Tuesday was 28 \u00b0C.",
+    "Table B: Weather - There will be thunderstorms tomorrow in the afternoon. Climate - The month of February has had the coldest temperatures on record for thirty years.",
+    "Table C: Weather - August has the hottest temperatures each year. Climate - A cold front is expected next week.",
+    "Table D: Weather - The high temperature for March is usually around 20 \u00b0C. Climate - There are clear skies with no chance of rain for the next four days."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

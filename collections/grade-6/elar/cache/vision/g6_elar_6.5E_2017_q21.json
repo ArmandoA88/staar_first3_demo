@@ -1,0 +1,31 @@
+{
+  "stem": "What do these sentences show about the main character of each story?",
+  "instruction": "Read these sentences from both stories.",
+  "options": [
+    {
+      "label": "A",
+      "text": "They both rely on friends for support."
+    },
+    {
+      "label": "B",
+      "text": "They both are used to taking care of others."
+    },
+    {
+      "label": "C",
+      "text": "They both have accepted a big responsibility."
+    },
+    {
+      "label": "D",
+      "text": "They both realize their situation is not going as planned."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"Prince Patrick\" sentence: \"What was I thinking?\" Patrick muttered as the girls dumped out a bag filled with brushes, barrettes, and ribbons. (paragraph 8)",
+    "\"A Wintry Welcome\" sentence: Planting Charlie outside clearly wasn't going to happen anytime soon. (paragraph 3)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

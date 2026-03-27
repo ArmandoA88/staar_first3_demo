@@ -1,0 +1,37 @@
+{
+  "stem": "At a store, the ratio of the number of limes sold to the number of lemons sold is 2:3.\n\nComplete the table to show the relationship between the number of limes sold and the number of lemons sold.\n\nMove the correct answer to each box in the table. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "24"
+    },
+    {
+      "label": null,
+      "text": "42"
+    },
+    {
+      "label": null,
+      "text": "63"
+    },
+    {
+      "label": null,
+      "text": "108"
+    }
+  ],
+  "choice_pool": [
+    "16",
+    "36",
+    "45",
+    "72",
+    "87",
+    "162"
+  ],
+  "response_template": "Sales at the Store\n\n| Number of Limes Sold | Number of Lemons Sold |\n|----------------------|-----------------------|\n| 24                   | [blank_1]             |\n| 42                   | 63                    |\n| [blank_2]            | 108                   |",
+  "visual_elements": [
+    "Table with two incomplete cells and a choice pool of numbers: 16, 36, 45, 72, 87, 162"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

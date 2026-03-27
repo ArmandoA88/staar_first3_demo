@@ -1,0 +1,30 @@
+{
+  "stem": "Which graphic organizer correctly groups the following numbers? 3.4  -2  3  -1.2",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Rational Numbers\n3.4  -1.2\nIntegers\n-2\nWhole Numbers\n3"
+    },
+    {
+      "label": "H",
+      "text": "Rational Numbers\n3.4\nIntegers\n-1.2\nWhole Numbers\n-2  3"
+    },
+    {
+      "label": "G",
+      "text": "Rational Numbers\n3.4\nIntegers\n-2  -1.2\nWhole Numbers\n3"
+    },
+    {
+      "label": "J",
+      "text": "Rational Numbers\nIntegers\n-2  3.4  -1.2\nWhole Numbers\n3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four nested box diagrams labeled F, H, G, and J showing groupings of numbers 3.4, -2, 3, and -1.2 into categories Rational Numbers, Integers, Whole Numbers."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

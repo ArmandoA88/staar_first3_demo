@@ -1,0 +1,30 @@
+{
+  "stem": "What is the poet most likely suggesting in these lines?",
+  "instruction": "Read these lines from the poem.\n\nHe sprouted with branches and leaves, and he bloomed! Bartholomew Blue is a tree to this day . . . But at least now he gives off a fragrant bouquet.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Bartholomew enjoys the scent of trees."
+    },
+    {
+      "label": "G",
+      "text": "Bartholomew likes to spend time with nature."
+    },
+    {
+      "label": "H",
+      "text": "Bartholomew has decided to wear a tree costume."
+    },
+    {
+      "label": "J",
+      "text": "Bartholomew has finally become useful as a tree."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He sprouted with branches and leaves, and he bloomed! Bartholomew Blue is a tree to this day . . . But at least now he gives off a fragrant bouquet."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

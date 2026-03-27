@@ -1,0 +1,30 @@
+{
+  "stem": "A pharmacist put 4.536 ounces of vitamin pills into bottles. She put 0.042 ounce of vitamin pills into each bottle.\n\nHow many bottles did the pharmacist use for these vitamin pills?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "11"
+    },
+    {
+      "label": "G",
+      "text": "5"
+    },
+    {
+      "label": "H",
+      "text": "18"
+    },
+    {
+      "label": "J",
+      "text": "108"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A pharmacist put 4.536 ounces of vitamin pills into bottles. She put 0.042 ounce of vitamin pills into each bottle.\n\nHow many bottles did the pharmacist use for these vitamin pills?\n\nF 11\n\nG 5\n\nH 18\n\nJ 108"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

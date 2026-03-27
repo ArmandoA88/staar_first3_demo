@@ -1,0 +1,31 @@
+{
+  "stem": "George bought 3 peppers for a cost of $0.40 each. The model represents this situation.\n\nWhich equation shows how to find the total cost in dollars and cents of the peppers George bought?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3 \u00d7 4 = 12.00"
+    },
+    {
+      "label": "G",
+      "text": "3 \u00d7 40 = 120.00"
+    },
+    {
+      "label": "H",
+      "text": "3 \u00d7 0.40 = 1.20"
+    },
+    {
+      "label": "J",
+      "text": "3 \u00d7 0.40 = 0.12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Three rectangular models with 40 small squares each",
+    "Key showing 100 small squares = 1 dollar"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

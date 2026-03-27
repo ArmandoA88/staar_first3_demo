@@ -1,0 +1,30 @@
+{
+  "stem": "Andy wants to add this sentence to the second paragraph (sentences 8\u201313).\n\n\"Well done!\" Alex cheered.\n\nWhere should this sentence be added?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 9"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 10"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 11"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"Well done!\" Alex cheered."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, should be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change are to were"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after mammals"
+    },
+    {
+      "label": "C",
+      "text": "Change that to they"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made in sentence 6."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

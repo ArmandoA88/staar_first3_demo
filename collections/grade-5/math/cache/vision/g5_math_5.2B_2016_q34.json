@@ -1,0 +1,30 @@
+{
+  "stem": "Books in a library are arranged by their Dewey decimal number. The Dewey decimal numbers for five books are shown in the picture.\n\nLana will put these five books in order from the least number to the greatest number. Which book will be in the fourth position?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "419.018"
+    },
+    {
+      "label": "G",
+      "text": "417.97"
+    },
+    {
+      "label": "H",
+      "text": "418.537"
+    },
+    {
+      "label": "J",
+      "text": "418.63"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Five books stacked with Dewey decimal numbers: 419.018, 417.97, 417.309, 418.63, 418.537"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

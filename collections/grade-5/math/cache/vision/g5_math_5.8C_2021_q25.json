@@ -1,0 +1,30 @@
+{
+  "stem": "There are two shapes drawn on the coordinate grid, as shown.\n\nWhich ordered pair represents a point that is inside both shapes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(3.5, 5.5)"
+    },
+    {
+      "label": "B",
+      "text": "(5.5, 3.5)"
+    },
+    {
+      "label": "C",
+      "text": "(4.5, 2.5)"
+    },
+    {
+      "label": "D",
+      "text": "(2.5, 4.5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid showing two polygons, one hexagon to the left and one square to the right with some overlap"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

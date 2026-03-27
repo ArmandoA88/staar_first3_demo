@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best expresses the main idea of paragraph 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Brown adapted her technique as her vision worsened."
+    },
+    {
+      "label": "G",
+      "text": "Brown believed that being a junior in high school was easy."
+    },
+    {
+      "label": "H",
+      "text": "Brown succeeded at pole vaulting despite her disability."
+    },
+    {
+      "label": "J",
+      "text": "Brown competed in the Texas state championships twice."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text of question and answer choices"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these describes information that can appear in a consumer's credit report?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The name of a store where the consumer pays cash for all purchases"
+    },
+    {
+      "label": "B",
+      "text": "The name of a company that gave the consumer a car loan two years ago"
+    },
+    {
+      "label": "C",
+      "text": "The amount of money the consumer will need to borrow in the next five years"
+    },
+    {
+      "label": "D",
+      "text": "The amount of money that the consumer loaned to a family member"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

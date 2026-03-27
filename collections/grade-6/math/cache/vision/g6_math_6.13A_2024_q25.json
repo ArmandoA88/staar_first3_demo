@@ -1,0 +1,31 @@
+{
+  "stem": "The stem and leaf plot represents the ages of the people volunteering at a food drive.\n\nAges of Volunteers\nStem | Leaf\n2 | 0 2 2 6 8\n3 | 1 1 3 7 8 8\n4 | 2 6 7 8 9\n5 | 0 4 8 9\n6 | 1 5 5 5 9\n\n3|8 means 38 years.\n\nBased on the stem and leaf plot, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The maximum age of the volunteers is 61 years."
+    },
+    {
+      "label": "B",
+      "text": "The range of the volunteers' ages is 47 years."
+    },
+    {
+      "label": "C",
+      "text": "The mode of the data is 65 years."
+    },
+    {
+      "label": "D",
+      "text": "There are a total of 20 people volunteering."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Stem and leaf plot with stems 2, 3, 4, 5, 6 and leaves as shown",
+    "Example: 3|8 means 38 years"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

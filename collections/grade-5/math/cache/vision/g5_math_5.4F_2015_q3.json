@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of this expression?  \n\\[36 + (3 \\times 2)\\] \\div 6",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "7"
+    },
+    {
+      "label": "B",
+      "text": "37"
+    },
+    {
+      "label": "C",
+      "text": "13"
+    },
+    {
+      "label": "D",
+      "text": "42"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "[36 + (3 \u00d7 2)] \u00f7 6"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

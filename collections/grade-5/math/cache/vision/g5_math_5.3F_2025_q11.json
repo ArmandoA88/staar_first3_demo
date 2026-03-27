@@ -1,0 +1,24 @@
+{
+  "stem": "The model shown is shaded to represent a division equation.",
+  "instruction": "Complete the division equation to represent this model.\n\nMove the correct number to each box. Not all numbers will be used.",
+  "options": [],
+  "choice_pool": [
+    "0",
+    "4",
+    "1.6",
+    "0.8",
+    "2",
+    "3",
+    "1",
+    "3.2",
+    "6.4"
+  ],
+  "response_template": "[blank_1] \u00f7 [blank_2] = [blank_3]",
+  "visual_elements": [
+    "Shaded blocks in a model with 3 full shaded parts and a quarter shaded part.",
+    "KEY showing one shaded square represents 1 whole."
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

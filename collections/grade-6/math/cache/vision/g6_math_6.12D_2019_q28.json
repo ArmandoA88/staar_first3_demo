@@ -1,0 +1,30 @@
+{
+  "stem": "Each child in a group was asked to choose a single favorite type of cereal. The table shows the number of children who chose each type of cereal as a favorite.\n\nCereal\n\n| Type of Cereal | Number of Children |\n|---------------|--------------------|\n| Oatmeal       | 15                 |\n| Grits         | 10                 |\n| Wheat porridge| 2                  |\n| Cold cereal   | 20                 |\n| Other         | 3                  |\n\nWhich statement is NOT supported by the data in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "More than 5% of the children chose \u201cother\u201d as the favorite type of cereal."
+    },
+    {
+      "label": "G",
+      "text": "Oatmeal is the favorite type of cereal for 15% of the children."
+    },
+    {
+      "label": "H",
+      "text": "Cold cereal is associated with the mode for the favorite type of cereal."
+    },
+    {
+      "label": "J",
+      "text": "Grits is the favorite type of cereal for 20% of the children."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with types of cereal and number of children who chose them"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Xavier has included an extraneous sentence in the second paragraph (sentences 3-8). Which sentence should be deleted from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sentence 4"
+    },
+    {
+      "label": "G",
+      "text": "Sentence 5"
+    },
+    {
+      "label": "H",
+      "text": "Sentence 6"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

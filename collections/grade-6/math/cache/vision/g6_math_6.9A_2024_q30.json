@@ -1,0 +1,30 @@
+{
+  "stem": "There were 31 people on a bus after 4 people got off the bus. Which equation can be used to find x, the total number of people on the bus before 4 people got off?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{x}{4} = 31"
+    },
+    {
+      "label": "B",
+      "text": "4x = 31"
+    },
+    {
+      "label": "C",
+      "text": "x - 4 = 31"
+    },
+    {
+      "label": "D",
+      "text": "x + 4 = 31"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

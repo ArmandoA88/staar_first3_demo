@@ -1,0 +1,31 @@
+{
+  "stem": "Which statement about the results from Henderson High School and Johnson High School must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The number of students who selected \u201carmed forces\u201d or \u201cother\u201d is greater for Henderson High School than for Johnson High School."
+    },
+    {
+      "label": "G",
+      "text": "College is associated with the mode for each high school."
+    },
+    {
+      "label": "H",
+      "text": "The number of students who selected \u201cwork\u201d is greater for Johnson High School than for Henderson High School."
+    },
+    {
+      "label": "J",
+      "text": "There is no mode associated with either high school."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Henderson High School' with columns: Plan, Number of Students, Relative Frequency. Rows: Work 96 0.32, College 114 0.38, Armed forces 48 0.16, Other 42 0.14.",
+    "Bar graph titled 'Johnson High School' with plans on the x-axis: Work, College, Armed forces, Other and percentage on y-axis with values approximately: Work 30%, College 40%, Armed forces 15%, Other 15%."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

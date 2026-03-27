@@ -1,0 +1,28 @@
+{
+  "stem": "A computer rounded the number 129.257 to the nearest hundredth. What is this number rounded to the nearest hundredth?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "100"
+    },
+    {
+      "label": "B",
+      "text": "129.30"
+    },
+    {
+      "label": "C",
+      "text": "130"
+    },
+    {
+      "label": "D",
+      "text": "129.26"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

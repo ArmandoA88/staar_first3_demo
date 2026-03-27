@@ -1,0 +1,30 @@
+{
+  "stem": "What does the graph \u201cWho Jumps the Farthest?\u201d help the reader understand?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The lengths different animals can jump"
+    },
+    {
+      "label": "B",
+      "text": "The ways jumping helps certain animals"
+    },
+    {
+      "label": "C",
+      "text": "How often different animals jump"
+    },
+    {
+      "label": "D",
+      "text": "Why some animals enjoy jumping far"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph \"Who Jumps the Farthest?\""
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

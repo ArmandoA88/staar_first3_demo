@@ -1,0 +1,32 @@
+{
+  "stem": "Which statement explains why one organism is better adapted to the removal of the tall trees?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The fungi are better adapted because they have spores that grow better in the dark."
+    },
+    {
+      "label": "B",
+      "text": "The ferns are better adapted because they have strong root systems."
+    },
+    {
+      "label": "C",
+      "text": "The fungi are better adapted because they can get energy from decaying trees."
+    },
+    {
+      "label": "D",
+      "text": "The ferns are better adapted because they get energy from the sun."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table comparing Wood-Decay Fungi and Fiddle Leaf Ferns",
+    "Image of Wood-Decay Fungi on a piece of wood",
+    "Image of Fiddle Leaf Fern"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

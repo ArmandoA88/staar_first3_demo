@@ -1,0 +1,28 @@
+{
+  "stem": "Which statement is true for a credit card but NOT true for a debit card?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A cardholder must use a personal identification number (PIN) when making purchases."
+    },
+    {
+      "label": "G",
+      "text": "A cardholder will have money withdrawn from an associated checking account when making purchases."
+    },
+    {
+      "label": "H",
+      "text": "A cardholder will be charged interest on a purchase unless the balance on the card is paid in full at the end of the billing period."
+    },
+    {
+      "label": "J",
+      "text": "A cardholder can use an automated teller machine (ATM) to withdraw money."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

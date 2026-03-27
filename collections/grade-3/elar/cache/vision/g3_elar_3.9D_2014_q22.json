@@ -1,0 +1,28 @@
+{
+  "stem": "Which text feature in the article helps the reader understand how water flows from underground to people?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The photograph next to paragraph 3"
+    },
+    {
+      "label": "G",
+      "text": "The title of the article"
+    },
+    {
+      "label": "H",
+      "text": "The arrows in the diagram after paragraph 6"
+    },
+    {
+      "label": "J",
+      "text": "The photograph next to the title"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

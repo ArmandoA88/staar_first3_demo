@@ -1,0 +1,30 @@
+{
+  "stem": "Which table contains only x-values and y-values that make the equation y = 4.8x true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x | y\n2 | 9.6\n4 | 19.2\n6 | 28.8\n8 | 38.4"
+    },
+    {
+      "label": "G",
+      "text": "x | y\n3 | 7.8\n5 | 9.8\n7 | 11.8\n9 | 13.8"
+    },
+    {
+      "label": "H",
+      "text": "x | y\n2 | 4.8\n4 | 9.6\n6 | 14.4\n8 | 19.2"
+    },
+    {
+      "label": "J",
+      "text": "x | y\n3 | 14.4\n5 | 19.2\n7 | 24.0\n9 | 28.8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4 tables labeled F, G, H, J each with columns x and y"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

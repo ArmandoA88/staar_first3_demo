@@ -1,0 +1,31 @@
+{
+  "stem": "A park bench is located 16\\frac{3}{4} feet due north of an elm tree. A fountain is located 9\\frac{1}{2} feet due south of the same elm tree.\n\nWhat is the distance in feet between the park bench and the fountain?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "26\\frac{1}{4} ft"
+    },
+    {
+      "label": "B",
+      "text": "25\\frac{1}{4} ft"
+    },
+    {
+      "label": "C",
+      "text": "25\\frac{2}{3} ft"
+    },
+    {
+      "label": "D",
+      "text": "26 ft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fractions in numbers 16\\frac{3}{4} feet and 9\\frac{1}{2} feet",
+    "answer choices with fractions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

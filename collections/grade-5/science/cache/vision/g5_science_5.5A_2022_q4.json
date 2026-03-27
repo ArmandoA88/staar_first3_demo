@@ -1,0 +1,30 @@
+{
+  "stem": "A student places objects in a bucket of water to determine if they will float.\n\nWhich set of items is less dense than water?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Plastic paper clip, penny, and cork"
+    },
+    {
+      "label": "G",
+      "text": "Toothpick, metal spoon, and plastic paper clip"
+    },
+    {
+      "label": "H",
+      "text": "Metal spoon, vegetable oil, and penny"
+    },
+    {
+      "label": "J",
+      "text": "Toothpick, cork, and vegetable oil"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with header 'Object' and rows: Toothpick, Plastic paper clip, Penny, Cork, Metal spoon, Vegetable oil"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

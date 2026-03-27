@@ -1,0 +1,35 @@
+{
+  "stem": "What change needs to be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change felt to feeling"
+    },
+    {
+      "label": "B",
+      "text": "Change big to bigger"
+    },
+    {
+      "label": "C",
+      "text": "Change stretching to streching"
+    },
+    {
+      "label": "D",
+      "text": "Change in to across"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q40 Passage #7",
+    "What change needs to be made in sentence 8?",
+    "A Change felt to feeling",
+    "B Change big to bigger",
+    "C Change stretching to streching",
+    "D Change in to across"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

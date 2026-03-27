@@ -1,0 +1,30 @@
+{
+  "stem": "The dimensions of a parallelogram are given in centimeters.\n\nWhat is the area of the parallelogram in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "33 cm\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "23 cm\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "27 cm\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "16 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "parallelogram with base 6 cm, height 4.5 cm, side 5.5 cm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

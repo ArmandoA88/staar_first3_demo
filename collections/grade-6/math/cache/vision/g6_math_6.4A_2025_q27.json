@@ -1,0 +1,32 @@
+{
+  "stem": "Which statements describe the relationships between x and y in these two equations?\n\ny = 7x\ny = x + 7",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "When x is a negative number, both values of y will be negative."
+    },
+    {
+      "label": null,
+      "text": "The value of y in y = 7x is 7 times the value of x, and the value of y in y = x + 7 is 7 more than the value of x."
+    },
+    {
+      "label": null,
+      "text": "The value of y in both y = 7x and y = x + 7 is 7 times the value of x."
+    },
+    {
+      "label": null,
+      "text": "The value of y in y = 7x is 7 more than the value of x, and the value of y in y = x + 7 is 7 times x."
+    },
+    {
+      "label": null,
+      "text": "When x is a positive number, both values of y will be positive."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

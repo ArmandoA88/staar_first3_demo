@@ -1,0 +1,30 @@
+{
+  "stem": "Read lines 1 through 3 from the poem \u201cMaple Street.\u201d",
+  "instruction": "These lines suggest that the speaker thinks \u2014",
+  "options": [
+    {
+      "label": "A",
+      "text": "the maple tree is the most noticeable object on the street"
+    },
+    {
+      "label": "B",
+      "text": "streets should be named after features found near them"
+    },
+    {
+      "label": "C",
+      "text": "the street originally had a different name"
+    },
+    {
+      "label": "D",
+      "text": "people disagree about the meaning of the street\u2019s name"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There\u2019s no doubt where our street found its name:"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

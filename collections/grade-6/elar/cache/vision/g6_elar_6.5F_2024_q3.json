@@ -1,0 +1,30 @@
+{
+  "stem": "Based on paragraph 3, what inference can be made about sports leagues?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sports leagues require that athletes perform at physically demanding levels."
+    },
+    {
+      "label": "B",
+      "text": "Sports league managers are responsible for finding players and coaches."
+    },
+    {
+      "label": "C",
+      "text": "Sports leagues ensure that games are consistent and fair."
+    },
+    {
+      "label": "D",
+      "text": "Sports league managers often create new rules to add to a sport."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "multiple choice question with four answer options labeled A to D"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "Which section provides information about the rules of the contest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Great Paper Airplane Fly-Off"
+    },
+    {
+      "label": "G",
+      "text": "Arturo's Desert Eagle"
+    },
+    {
+      "label": "H",
+      "text": "The Museum Display"
+    },
+    {
+      "label": "J",
+      "text": "Ken Blackburn's Simple Paper Airplane"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "32 Which section provides information about the rules of the contest?",
+    "F The Great Paper Airplane Fly-Off",
+    "G Arturo's Desert Eagle",
+    "H The Museum Display",
+    "J Ken Blackburn's Simple Paper Airplane"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

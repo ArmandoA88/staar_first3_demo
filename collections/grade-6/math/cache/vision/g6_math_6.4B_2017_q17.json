@@ -1,0 +1,30 @@
+{
+  "stem": "Megan and Desmond each added the same amount of water to their aquariums. Megan mixed 5 mL of a chemical solution with every gallon of water for her aquarium. Desmond mixed 8 mL of the chemical solution with every 2 gallons of water for his aquarium.\n\nWhich of these statements is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Megan used more solution per gallon of water than Desmond, because 5 : 1 is greater than 8 : 2."
+    },
+    {
+      "label": "B",
+      "text": "Megan used more solution per gallon of water than Desmond, because 5 mL is greater than 2 mL."
+    },
+    {
+      "label": "C",
+      "text": "Desmond used more solution per gallon of water than Megan, because 8 mL is greater than 5 mL."
+    },
+    {
+      "label": "D",
+      "text": "Desmond used more solution per gallon of water than Megan, because 8 : 2 is greater than 5 : 1."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

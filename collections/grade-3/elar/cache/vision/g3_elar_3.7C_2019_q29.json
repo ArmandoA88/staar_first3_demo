@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea from the selection is supported by the photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Big Tex has a special area where he stands at the fair."
+    },
+    {
+      "label": "B",
+      "text": "Big Tex can wink at visitors as he welcomes them."
+    },
+    {
+      "label": "C",
+      "text": "Big Tex can move more now than in the past."
+    },
+    {
+      "label": "D",
+      "text": "Big Tex has been around for more than 50 years."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

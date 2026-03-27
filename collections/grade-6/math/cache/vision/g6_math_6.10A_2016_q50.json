@@ -1,0 +1,30 @@
+{
+  "stem": "A student needs to collect at least 10 flowers for a science project. The student has already collected 3 flowers. The inequality shown can be used to find n, the number of flowers the student still needs.\n\nn + 3 \\u2265 10\n\nWhich inequality represents the solution set for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "n \\u2264 13"
+    },
+    {
+      "label": "G",
+      "text": "n \\u2265 13"
+    },
+    {
+      "label": "H",
+      "text": "n \\u2264 7"
+    },
+    {
+      "label": "J",
+      "text": "n \\u2265 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "n + 3 \\u2265 10"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

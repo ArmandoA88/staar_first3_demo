@@ -1,0 +1,28 @@
+{
+  "stem": "A water park offers a 5% discount on student tickets. Which value is equivalent to 5%?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.5"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\frac{1}{5}\\)"
+    },
+    {
+      "label": "C",
+      "text": "0.2"
+    },
+    {
+      "label": "D",
+      "text": "\\(\\frac{1}{20}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

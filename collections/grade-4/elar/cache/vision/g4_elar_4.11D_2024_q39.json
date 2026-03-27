@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change was to is"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after determined"
+    },
+    {
+      "label": "C",
+      "text": "Change and she impressed to she impressed"
+    },
+    {
+      "label": "D",
+      "text": "Change her to their"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 5?",
+    "A Change was to is",
+    "B Insert a comma after determined",
+    "C Change and she impressed to she impressed",
+    "D Change her to their"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

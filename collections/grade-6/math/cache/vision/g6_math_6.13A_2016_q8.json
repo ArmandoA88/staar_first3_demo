@@ -1,0 +1,30 @@
+{
+  "stem": "Students recorded the amount of liquid in fluid ounces each of them drank in one day. The box plot shows the summary of the results.\n\nWhich statement best describes the data represented in the box plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Half the students drank from 78 to 114 fluid ounces."
+    },
+    {
+      "label": "G",
+      "text": "The greatest number of students drank from 30 to 78 fluid ounces."
+    },
+    {
+      "label": "H",
+      "text": "The data represent 78 student responses."
+    },
+    {
+      "label": "J",
+      "text": "The mean number of fluid ounces that the students drank is 78."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plot with range approximately from 30 to 114, median at 78, quartiles at about 60 and 84, scale labeled 'Amount of Liquid (fluid ounces)' from 12 to 120"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

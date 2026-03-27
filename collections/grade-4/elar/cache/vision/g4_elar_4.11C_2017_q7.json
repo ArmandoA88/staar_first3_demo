@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "In 2003 the customers set a record in Connecticut, and it was at a drive-through coffee shop, which was there."
+    },
+    {
+      "label": "B",
+      "text": "In 2003 the customers at a drive-through coffee shop in Connecticut set a record."
+    },
+    {
+      "label": "C",
+      "text": "In 2003, at a drive-through coffee shop, the customers set a record it was in Connecticut."
+    },
+    {
+      "label": "D",
+      "text": "In 2003 there were customers at a drive-through coffee shop in Connecticut that set a record at the shop."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

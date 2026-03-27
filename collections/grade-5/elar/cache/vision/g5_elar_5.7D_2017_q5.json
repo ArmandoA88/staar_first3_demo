@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of paragraphs 4 through 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "R2 is a new humanoid robot that will help astronauts on the space station. Its arms can hold 20 pounds, and its fingers apply 5 pounds of force to pick things up."
+    },
+    {
+      "label": "B",
+      "text": "Scientists have built a special humanoid robot called R2 that looks and moves like a human. GM and NASA worked together to create a robot that could complete simple jobs."
+    },
+    {
+      "label": "C",
+      "text": "Scientists at NASA and GM have developed a humanoid robot called R2 for space missions. R2\u2019s body has features that help it move like a human and complete tasks independently."
+    },
+    {
+      "label": "D",
+      "text": "R2 is a humanoid robot built to help astronauts on the space station. It weighs 330 pounds and cost $2.5 million to build, but astronauts like the fact that it will give them more time to rest."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

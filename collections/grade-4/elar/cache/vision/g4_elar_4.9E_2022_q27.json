@@ -1,0 +1,28 @@
+{
+  "stem": "What claim does the author make in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Teachers want their students to listen to music in class."
+    },
+    {
+      "label": "B",
+      "text": "People should listen to music more regularly."
+    },
+    {
+      "label": "C",
+      "text": "Students should avoid listening to music once they fall asleep."
+    },
+    {
+      "label": "D",
+      "text": "Listening to music makes people want to exercise."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

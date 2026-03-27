@@ -1,0 +1,34 @@
+{
+  "stem": "What is the most likely reason the author uses a simile in this sentence?",
+  "instruction": "Read this sentence from paragraph 5 of the excerpt from The Last Wild Place.\n\nThis part of South Florida was about as flat as land could get.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To give the surroundings a mysterious feeling"
+    },
+    {
+      "label": "B",
+      "text": "To offer a unique opinion that sets the area apart"
+    },
+    {
+      "label": "C",
+      "text": "To compare the environment to something popular"
+    },
+    {
+      "label": "D",
+      "text": "To suggest the challenges of the strange place"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This part of South Florida was about as flat as land could get.",
+    "A To give the surroundings a mysterious feeling",
+    "B To offer a unique opinion that sets the area apart",
+    "C To compare the environment to something popular",
+    "D To suggest the challenges of the strange place"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

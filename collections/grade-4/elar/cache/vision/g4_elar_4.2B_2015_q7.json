@@ -1,0 +1,31 @@
+{
+  "stem": "What change should be made in sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change the comma after \\textit{lumps} to a period"
+    },
+    {
+      "label": "B",
+      "text": "Change \\textit{instructed} to \\textbf{instructing}"
+    },
+    {
+      "label": "C",
+      "text": "Change \\textit{stired} to \\textbf{stirred}"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made in sentence 13."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q7 Passage #2",
+    "7"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "How should sentence 21 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change to see to there was"
+    },
+    {
+      "label": "G",
+      "text": "Change biggest to bigest"
+    },
+    {
+      "label": "H",
+      "text": "Change meanest-looking to most meanest-looking"
+    },
+    {
+      "label": "J",
+      "text": "Change saw to seen"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "26  How should sentence 21 be changed?",
+    "F  Change to see to there was",
+    "G  Change biggest to bigest",
+    "H  Change meanest-looking to most meanest-looking",
+    "J  Change saw to seen"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

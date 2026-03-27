@@ -1,0 +1,31 @@
+{
+  "stem": "This shaded model represents 100%. Which model represents 33 \\( \\frac{1}{3} \\) %?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "six small squares, 2 shaded"
+    },
+    {
+      "label": "B",
+      "text": "four groups of three squares, 10 shaded total"
+    },
+    {
+      "label": "C",
+      "text": "four squares, 1 shaded"
+    },
+    {
+      "label": "D",
+      "text": "four groups of ten squares, 13 shaded total"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "shaded bar representing 100%",
+    "four sets of shaded and unshaded squares for options A-D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

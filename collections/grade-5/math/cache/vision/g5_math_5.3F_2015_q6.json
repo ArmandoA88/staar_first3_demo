@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation is represented by this model?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2.50 \\times 5 = 12.5"
+    },
+    {
+      "label": "B",
+      "text": "2.60 \\div 5 = 0.52"
+    },
+    {
+      "label": "C",
+      "text": "52 \\times 5 = 260"
+    },
+    {
+      "label": "D",
+      "text": "2.06 \\div 5 = 0.412"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The model with five rows of blocks each divided into 100 units, showing shaded blocks consistent with the problem context about two and sixty-hundredths."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

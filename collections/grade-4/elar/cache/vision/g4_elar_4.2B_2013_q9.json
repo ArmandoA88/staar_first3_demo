@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 28 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change your to you're"
+    },
+    {
+      "label": "B",
+      "text": "Change attention to atention"
+    },
+    {
+      "label": "C",
+      "text": "Change ingredients to ingredient's"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 28 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sentence 28"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

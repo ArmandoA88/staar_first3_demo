@@ -1,0 +1,30 @@
+{
+  "stem": "Alejandra has $600 in her checking account. She wants to spend part of this money on a computer. She wants to have at least $250 left in her checking account after buying the computer. The inequality shown can be used to find t, the amount of money in dollars that Alejandra can spend on the computer.\n\nt + 250 \\u2264 600\n\nWhich inequality represents all possible values of t?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "t \\u2265 350"
+    },
+    {
+      "label": "B",
+      "text": "t \\u2264 850"
+    },
+    {
+      "label": "C",
+      "text": "t \\u2264 350"
+    },
+    {
+      "label": "D",
+      "text": "t \\u2265 850"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "t + 250 \\u2264 600"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

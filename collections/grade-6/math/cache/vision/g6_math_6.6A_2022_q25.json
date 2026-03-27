@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the total numbers of calories a person used while exercising.\n\nCalories Used\n\n| Time (hours)          | 0   | 1   | 2   | 3   | 4     |\n| Number of Calories Used | 0   | 267 | 534 | 801 | 1,068 |\n\nWhich list shows only the dependent quantities from the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0, 1, 2, 3, 4"
+    },
+    {
+      "label": "B",
+      "text": "0, 1, 267, 2, 534"
+    },
+    {
+      "label": "C",
+      "text": "0, 267, 534, 801, 1,068"
+    },
+    {
+      "label": "D",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with Time (hours) and Number of Calories Used"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

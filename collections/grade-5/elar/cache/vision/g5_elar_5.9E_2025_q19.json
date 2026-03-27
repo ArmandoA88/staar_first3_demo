@@ -1,0 +1,28 @@
+{
+  "stem": "Who is most likely the intended audience of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "People who want to learn how to use new animation technology"
+    },
+    {
+      "label": "B",
+      "text": "People who like to buy expensive animation art"
+    },
+    {
+      "label": "C",
+      "text": "People who study animation technology in different countries"
+    },
+    {
+      "label": "D",
+      "text": "People who have an interest in animation"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

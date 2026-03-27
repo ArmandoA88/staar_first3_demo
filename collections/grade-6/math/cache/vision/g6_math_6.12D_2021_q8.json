@@ -1,0 +1,30 @@
+{
+  "stem": "The bar graph shows the flavors of gum bought yesterday by the customers at a store. Each customer bought only 1 flavor of gum.\n\nWhich statement is NOT supported by the data displayed in the bar graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The same number of customers bought peppermint as the number of customers who bought cinnamon."
+    },
+    {
+      "label": "G",
+      "text": "The mode flavor was watermelon."
+    },
+    {
+      "label": "H",
+      "text": "There were 120 customers who bought gum yesterday."
+    },
+    {
+      "label": "J",
+      "text": "There were 2.5 times as many customers who bought spearmint as customers who bought peppermint."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Gum Flavors Bought' with y-axis labeled 'Number of Customers' showing bars at Spearmint=50, Peppermint=20, Watermelon=30, Cinnamon=20"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

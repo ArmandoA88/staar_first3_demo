@@ -1,0 +1,33 @@
+{
+  "stem": "At a workplace 153 of the 225 employees attended a meeting. Which statement shows values that are all equivalent to the fraction of employees who attended the meeting?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\(\\frac{153}{225} = \\frac{17}{25} = 0.68 = 68\\%\\)"
+    },
+    {
+      "label": "G",
+      "text": "\\(\\frac{225}{153} = \\frac{25}{17} = 1.47 = 147\\%\\)"
+    },
+    {
+      "label": "H",
+      "text": "\\(\\frac{153}{225} = \\frac{51}{75} = 0.51 = 51\\%\\)"
+    },
+    {
+      "label": "J",
+      "text": "\\(\\frac{225}{153} = \\frac{75}{51} = 0.75 = 75\\%\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\(\\frac{153}{225} = \\frac{17}{25} = 0.68 = 68\\%\\)",
+    "\\(\\frac{225}{153} = \\frac{25}{17} = 1.47 = 147\\%\\)",
+    "\\(\\frac{153}{225} = \\frac{51}{75} = 0.51 = 51\\%\\)",
+    "\\(\\frac{225}{153} = \\frac{75}{51} = 0.75 = 75\\%\\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Claire forgot to include an important detail in the last paragraph (sentences 16\u201329).\n\nWith trembling legs he took his first step.\n\nReread the paragraph carefully. Where is the BEST place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 19"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 20"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 21"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 26"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "With trembling legs he took his first step."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

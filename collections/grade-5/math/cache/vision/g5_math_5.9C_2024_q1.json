@@ -1,0 +1,30 @@
+{
+  "stem": "The number of visitors at a park is recorded for 5 days. The data are shown in the bar graph with one value missing.\n\nThe number of visitors on Wednesday was half of the number of visitors on Friday.\n\nHow many visitors were at the park on Wednesday?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "200"
+    },
+    {
+      "label": "B",
+      "text": "175"
+    },
+    {
+      "label": "C",
+      "text": "800"
+    },
+    {
+      "label": "D",
+      "text": "400"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Park Visitors' with the x-axis labeled 'Day' and the y-axis labeled 'Number of Visitors'. Days shown are Tuesday, Wednesday, Thursday, Friday, and Saturday. Values are approximately 130 for Tuesday, missing value for Wednesday, about 230 for Thursday, about 400 for Friday, and about 450 for Saturday."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

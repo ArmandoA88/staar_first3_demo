@@ -1,0 +1,30 @@
+{
+  "stem": "Students investigate force. The masses they use begin at rest on the ramp. The setup the students use is shown.\n\nWhich change will reduce the amount of force needed to move the masses?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Decrease the height of the ramp"
+    },
+    {
+      "label": "B",
+      "text": "Increase the height of the ramp"
+    },
+    {
+      "label": "C",
+      "text": "Add an additional mass"
+    },
+    {
+      "label": "D",
+      "text": "Pull the spring scale with two hands"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Ramp setup with spring scale, masses on a ramp, and a hand pulling the spring scale"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

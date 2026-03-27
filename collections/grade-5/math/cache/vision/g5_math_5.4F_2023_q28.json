@@ -1,0 +1,28 @@
+{
+  "stem": "A teacher has some pencils in a bag and some in boxes.\n\n\u2022 She has a bag with 36 unbroken pencils.\n\n\u2022 She has 4 boxes with 120 pencils in each box.\n\n\u2022 There are 6 broken pencils in each box.\n\n\u2022 She puts half of all the unbroken pencils in a storage cabinet.\n\nWhich expression can be used to show that the teacher puts 246 pencils in the storage cabinet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "36 + 4(120) \u2212 6 \u00f7 2"
+    },
+    {
+      "label": "B",
+      "text": "36 + 4(120 \u2212 6) \u00f7 2"
+    },
+    {
+      "label": "C",
+      "text": "[36 + 4(120) \u2212 6] \u00f7 2"
+    },
+    {
+      "label": "D",
+      "text": "[36 + 4(120 \u2212 6)] \u00f7 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

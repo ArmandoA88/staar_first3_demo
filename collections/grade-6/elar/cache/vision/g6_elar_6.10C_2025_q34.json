@@ -1,0 +1,34 @@
+{
+  "stem": "The meaning of sentence 8 is unclear. Which word or phrase should replace it in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "help"
+    },
+    {
+      "label": "B",
+      "text": "the site"
+    },
+    {
+      "label": "C",
+      "text": "them"
+    },
+    {
+      "label": "D",
+      "text": "a group"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The meaning of sentence 8 is unclear. Which word or phrase should replace it in this sentence?",
+    "(A) help",
+    "(B) the site",
+    "(C) them",
+    "(D) a group"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

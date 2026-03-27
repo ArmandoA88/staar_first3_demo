@@ -1,0 +1,30 @@
+{
+  "stem": "What do these sentences show about Layla?\n\nTake only pictures. Leave only footprints.\nThe tour guide's words played over and over in Layla's mind.",
+  "instruction": "Read paragraph 11.",
+  "options": [
+    {
+      "label": "F",
+      "text": "She wants to take pictures of the geode."
+    },
+    {
+      "label": "G",
+      "text": "She is good at recalling important ideas."
+    },
+    {
+      "label": "H",
+      "text": "She is not sure what the tour guide meant."
+    },
+    {
+      "label": "J",
+      "text": "She is considering what she should do with the geode."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Take only pictures. Leave only footprints.\nThe tour guide's words played over and over in Layla's mind."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

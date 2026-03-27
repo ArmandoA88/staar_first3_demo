@@ -1,0 +1,28 @@
+{
+  "stem": "According to information in \u201cBuilding a Better Sandcastle,\u201d a tall sandcastle tower might fall if \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "its base is too small to support it"
+    },
+    {
+      "label": "G",
+      "text": "it is not built by an expert sculptor"
+    },
+    {
+      "label": "H",
+      "text": "too many details are carved into the sandcastle"
+    },
+    {
+      "label": "J",
+      "text": "tools are not used when building the sandcastle"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

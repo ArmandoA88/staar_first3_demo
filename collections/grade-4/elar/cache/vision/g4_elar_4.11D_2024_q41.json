@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sometimes called \u201cQueen Bess,\u201d she stood strong for her beliefs and inspired people to reach for their dreams."
+    },
+    {
+      "label": "B",
+      "text": "Sometimes called \u201cQueen Bess,\u201d she stood strong for her beliefs. And inspired people to reach for their dreams."
+    },
+    {
+      "label": "C",
+      "text": "Sometimes called \u201cQueen Bess,\u201d she stood strong for her beliefs, and she inspired people. To reach for their dreams."
+    },
+    {
+      "label": "D",
+      "text": "Sometimes called \u201cQueen Bess,\u201d she stood strong for her beliefs, and she inspired people to reach. For their dreams."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

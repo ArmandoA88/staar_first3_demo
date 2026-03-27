@@ -1,0 +1,31 @@
+{
+  "stem": "A teacher places a lamp on a small table. After the lamp is turned on, an office chair is moved near the table. The diagram shows the setup.\n\nHow could a student help the teacher demonstrate the day\u2013night cycle of Earth?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The student could sit in the chair and make the chair move around the table."
+    },
+    {
+      "label": "B",
+      "text": "The student could sit in the chair and cause the chair to make one complete spin."
+    },
+    {
+      "label": "C",
+      "text": "The student could sit in the chair and then the teacher could move the lamp around the chair."
+    },
+    {
+      "label": "D",
+      "text": "The student could sit in the chair and then the teacher could walk between the student and the table."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "lamp on a small round table",
+    "office chair near the table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

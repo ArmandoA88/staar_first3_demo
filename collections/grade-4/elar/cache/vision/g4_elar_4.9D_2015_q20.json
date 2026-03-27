@@ -1,0 +1,30 @@
+{
+  "stem": "Look at the diagram below.\n\nCause\n\nPeople who lived in the apartment building complained about the hawks' nest.\n\nEffect\n\nWhich sentence best completes the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The building's owners removed the nest."
+    },
+    {
+      "label": "G",
+      "text": "Bird-watchers took pictures of the nest."
+    },
+    {
+      "label": "H",
+      "text": "People living in the apartment building moved to another location."
+    },
+    {
+      "label": "J",
+      "text": "Bird-watchers met with building owners to discuss a plan."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with two boxes: Cause and Effect. Cause box text: 'People who lived in the apartment building complained about the hawks' nest.' The Effect box is empty with an arrow from Cause. This diagram is above the question and answer choices."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

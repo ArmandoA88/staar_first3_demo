@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to combine sentences 2 and 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She can\u2019t wait to play Zoo Madness, so she skips through the introduction and gets right to the action."
+    },
+    {
+      "label": "B",
+      "text": "She can\u2019t wait to play Zoo Madness because she skips through the introduction and gets right to the action."
+    },
+    {
+      "label": "C",
+      "text": "She can\u2019t wait to play Zoo Madness, she skips through the introduction and gets right to the action."
+    },
+    {
+      "label": "D",
+      "text": "She can\u2019t wait to play Zoo Madness, and she skips through the introduction, and she gets right to the action."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

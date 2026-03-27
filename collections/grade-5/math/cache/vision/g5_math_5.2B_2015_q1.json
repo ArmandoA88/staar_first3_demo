@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the masses of four rocks.\n\nRocks\n\n| Rock | Mass (kg) |\n|------|-----------|\n| S    | 0.429     |\n| T    | 0.438     |\n| U    | 0.43      |\n| V    | 0.483     |\n\nWhich number sentence correctly compares the masses of two of the rocks?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.429 > 0.438"
+    },
+    {
+      "label": "B",
+      "text": "0.438 < 0.483"
+    },
+    {
+      "label": "C",
+      "text": "0.429 > 0.43"
+    },
+    {
+      "label": "D",
+      "text": "0.438 = 0.43"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing rock names S, T, U, V and their masses in kilograms: 0.429, 0.438, 0.43, 0.483"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Amos wants to add this sentence to the fifth paragraph (sentences 24\u201328).\n\n_Hundreds of people confirmed that the tooth was from a Megalodon._\n\nWhere is the BEST place to add this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 24"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 26"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 27"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 28"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "_Hundreds of people confirmed that the tooth was from a Megalodon._"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

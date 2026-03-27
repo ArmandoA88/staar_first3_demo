@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement about debit cards and credit cards is NOT true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Interest is charged on debit card purchases."
+    },
+    {
+      "label": "B",
+      "text": "When a debit card is used for purchases, money is withdrawn directly from a bank account."
+    },
+    {
+      "label": "C",
+      "text": "The total amount of money that can be spent on credit card purchases depends on a customer's credit limit."
+    },
+    {
+      "label": "D",
+      "text": "When a credit card is used, money is borrowed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

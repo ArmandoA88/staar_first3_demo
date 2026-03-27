@@ -1,0 +1,30 @@
+{
+  "stem": "Ethan has made an error in sentence 4. Select the response that corrects this error.\n\nAfter the final introduction, Mrs. Ryan explained the purpose behind the different words she _______ on our name tags.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "put"
+    },
+    {
+      "label": null,
+      "text": "puts"
+    },
+    {
+      "label": null,
+      "text": "placing"
+    },
+    {
+      "label": null,
+      "text": "place"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dropdown box for verb choice"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

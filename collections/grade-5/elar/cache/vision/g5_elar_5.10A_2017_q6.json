@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author included the information in paragraph 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To explain what robots of the future will be required to do"
+    },
+    {
+      "label": "G",
+      "text": "To highlight the effectiveness of using humanoid robots in space"
+    },
+    {
+      "label": "H",
+      "text": "To support the idea that businesses should work together on inventions"
+    },
+    {
+      "label": "J",
+      "text": "To describe the next stage for the humanoid robot"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

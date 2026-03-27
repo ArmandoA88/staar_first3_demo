@@ -1,0 +1,30 @@
+{
+  "stem": "The dimensions of the rectangular prism are given in feet.\n\n[Image shows a rectangular prism with dimensions labeled: height 8 1/2 feet, width 3 feet, length 5 1/4 feet]\n\nWhat is the volume of the rectangular prism in cubic feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "120 1/8 ft\u00b3"
+    },
+    {
+      "label": "G",
+      "text": "133 7/8 ft\u00b3"
+    },
+    {
+      "label": "H",
+      "text": "16 3/4 ft\u00b3"
+    },
+    {
+      "label": "J",
+      "text": "24 1/4 ft\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangular prism with dimensions 8 1/2 feet (height), 3 feet (width), and 5 1/4 feet (length)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

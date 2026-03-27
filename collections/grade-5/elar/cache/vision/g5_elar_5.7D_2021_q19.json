@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the story \u201cPeace and Quiet\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Desha is a member of a large family. There is nowhere for her to be alone in the house, so she goes to her hiding place in the woods. While there she plays her guitar and her brother tells her that he used to play the guitar before he began learning to play the drums."
+    },
+    {
+      "label": "B",
+      "text": "Desha is upset because her family decides to watch a basketball game instead of the movie she wants to watch. She leaves the house and goes to an area in the woods. Her brother explains that he used to visit the same spot."
+    },
+    {
+      "label": "C",
+      "text": "Desha goes to a secret spot in the woods. Her brother finds her there and helps her learn to play chords on her guitar. They discuss some of the memories and experiences they share with their brothers and sisters."
+    },
+    {
+      "label": "D",
+      "text": "Desha, a member of a large family, leaves the house when she cannot find anywhere to have time to herself. She goes to a quiet place in the woods to play her guitar. While there she has a conversation with her brother that changes her attitude toward her family."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text of question 19 with 4 labeled answer choices A, B, C, D."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

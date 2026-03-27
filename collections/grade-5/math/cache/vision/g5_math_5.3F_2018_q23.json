@@ -1,0 +1,30 @@
+{
+  "stem": "Mark has $5.25 in quarters. He spent all this money on 3 sports drinks. He spent the same amount for each sports drink.\n\nWhich equation can be used to find the amount of money Mark spent for each sports drink?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5.25 \\times 3 = 15.75"
+    },
+    {
+      "label": "B",
+      "text": "5.25 \\div 7 = 0.75"
+    },
+    {
+      "label": "C",
+      "text": "5.25 \\div 3 = 1.75"
+    },
+    {
+      "label": "D",
+      "text": "5.25 \\times 7 = 36.75"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of 21 quarters arranged in 3 rows"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

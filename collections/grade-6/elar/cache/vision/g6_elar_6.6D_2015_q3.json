@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Though people have always shown an interest in constructing tall buildings, the height of such structures was relatively limited for many years. The use of steel and elevators helped make taller buildings possible."
+    },
+    {
+      "label": "B",
+      "text": "Throughout history people have always tried to construct tall buildings. People were eventually able to build skyscrapers as a result of several inventions. There is some debate about which building is the first example of a skyscraper."
+    },
+    {
+      "label": "C",
+      "text": "Tall buildings have always interested people but have not always been easy to construct. Throughout the years new developments have allowed people to build skyscrapers. Today tall buildings are common in cities around the world."
+    },
+    {
+      "label": "D",
+      "text": "People have always tried to construct the tallest buildings possible. Modern skyscrapers are usually constructed with steel and glass and have elevators. Today the tallest building in the world is many times higher than the first skyscraper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "plain text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

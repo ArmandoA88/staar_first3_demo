@@ -1,0 +1,28 @@
+{
+  "stem": "What is paragraph 1 mainly about?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "People watching birds in flight"
+    },
+    {
+      "label": "G",
+      "text": "The ancient Greeks telling about people who try to fly like birds"
+    },
+    {
+      "label": "H",
+      "text": "Leonardo da Vinci inventing a pair of mechanical wings in the 1400s"
+    },
+    {
+      "label": "J",
+      "text": "People being interested in flying like birds"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

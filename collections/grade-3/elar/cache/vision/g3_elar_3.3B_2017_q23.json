@@ -1,0 +1,30 @@
+{
+  "stem": "Which meaning of the word sign is used in paragraph 8?",
+  "instruction": "Read this dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Meaning 1"
+    },
+    {
+      "label": "B",
+      "text": "Meaning 2"
+    },
+    {
+      "label": "C",
+      "text": "Meaning 3"
+    },
+    {
+      "label": "D",
+      "text": "Meaning 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sign \\\u02c8sin\\ noun 1. a movement that shows a thought or command 2. in math, language, or music, a mark that stands for a certain idea 3. evidence that a fact or idea is true 4. a display that advertises or gives the name of a business"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "The dictionary entry is included as a visual element. The question asks to identify which meaning of 'sign' is used in paragraph 8, corresponding to the definitions given."
+}

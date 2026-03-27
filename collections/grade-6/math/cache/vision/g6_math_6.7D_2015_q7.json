@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to 3(x + 6)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3 + x + 3 + 6"
+    },
+    {
+      "label": "B",
+      "text": "3x + 6"
+    },
+    {
+      "label": "C",
+      "text": "3 + x + 6"
+    },
+    {
+      "label": "D",
+      "text": "3x + 18"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3(x + 6)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

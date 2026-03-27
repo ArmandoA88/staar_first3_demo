@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of paragraphs 1 through 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Dylan Siegel\u2019s friend Jonah has a liver disease. Dylan wrote a book called Chocolate Bar to sell at school. A grocery store provided chocolate bars for Dylan to sell."
+    },
+    {
+      "label": "B",
+      "text": "Dylan Siegel wanted to write a book titled Chocolate Bar about going to the beach and other things he enjoys. After he wrote the book, he sold copies of it at school. He also sold chocolate bars from a grocery store."
+    },
+    {
+      "label": "C",
+      "text": "Dylan Siegel wanted to raise money for his friend Jonah. Dylan\u2019s parents had ideas about some ways that he could raise money. He worked with people to sell a book he wrote."
+    },
+    {
+      "label": "D",
+      "text": "Dylan Siegel wanted to help his friend Jonah, who has a liver disease. Dylan wrote a book titled Chocolate Bar. Copies of the book and chocolate bars donated by a grocery store were sold to raise money for Jonah."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

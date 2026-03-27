@@ -1,0 +1,31 @@
+{
+  "stem": "A student wants to make a change to the circuit shown below so that when Switch 1 is open and Switch 2 is closed, only one light will be on in the circuit.",
+  "instruction": "Which diagram shows how the student should change the circuit?",
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Original circuit with Switch 1, Switch 2, three light bulbs, and a battery.",
+    "Four circuit diagrams labeled F, H, G, and J showing different wiring and switch configurations."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Answer choices are diagrams labeled F, H, G, J with no additional text."
+}

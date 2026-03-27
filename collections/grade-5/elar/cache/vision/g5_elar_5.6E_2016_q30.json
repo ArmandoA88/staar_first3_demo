@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence from the article best expresses the cactus wren\u2019s experience in the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The cholla cactus also provides tasty meals for many other desert animals."
+    },
+    {
+      "label": "G",
+      "text": "Many animals also seek shelter from the scorching sun."
+    },
+    {
+      "label": "H",
+      "text": "While the desert may seem virtually uninhabitable, it is home to many animals and plants."
+    },
+    {
+      "label": "J",
+      "text": "The cholla cactus not only survives in the desert but also helps animals live comfortably in this extreme environment."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

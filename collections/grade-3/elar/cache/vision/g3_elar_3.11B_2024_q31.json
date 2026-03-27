@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence BEST follows and supports sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I noticed some juice that had expired two days ago."
+    },
+    {
+      "label": "B",
+      "text": "Our refrigerator is pretty old, but it works just fine."
+    },
+    {
+      "label": "C",
+      "text": "I grabbed the cheese, salsa, lettuce, and tomatoes."
+    },
+    {
+      "label": "D",
+      "text": "A pie looked like a good choice for our dessert."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

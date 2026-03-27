@@ -1,0 +1,31 @@
+{
+  "stem": "The students in a class were each asked to name their favorite meal of the day. The results are shown in this percentage bar graph.\n\nWhich table could be represented by the percentage bar graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\nMeal        Number of Students\nBreakfast   3\nLunch       4\nSupper      10\n"
+    },
+    {
+      "label": "G",
+      "text": "\nMeal        Number of Students\nBreakfast   4\nLunch       4\nSupper      12\n"
+    },
+    {
+      "label": "H",
+      "text": "\nMeal        Number of Students\nBreakfast   9\nLunch       3\nSupper      18\n"
+    },
+    {
+      "label": "J",
+      "text": "\nMeal        Number of Students\nBreakfast   0\nLunch       3\nSupper      4\n"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "percentage bar graph with about 30% Breakfast, 10% Lunch, and 60% Supper",
+    "KEY table showing Breakfast as dark shade, Lunch as light gray, Supper as white"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

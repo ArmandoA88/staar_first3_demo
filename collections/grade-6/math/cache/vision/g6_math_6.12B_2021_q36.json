@@ -1,0 +1,30 @@
+{
+  "stem": "The dot plot shows the number of packages mailed by the last 20 customers at a post office.\n\nWhich statement best describes the data shown in the dot plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The data distribution has gaps."
+    },
+    {
+      "label": "G",
+      "text": "The data distribution is symmetrical."
+    },
+    {
+      "label": "H",
+      "text": "The data are clustered at 5."
+    },
+    {
+      "label": "J",
+      "text": "The peak of the data is at 10."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot with 0 through 10 labeled on number line and dots stacked: 0 has 6 dots, 1 has 3 dots, 2 has 6 dots, 5 has 1 dot, 8 has 1 dot, 10 has 2 dots"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "Which sentence from the article tells something that could be a problem with PlayPumps?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It\u2019s a PlayPump, and it\u2019s unlike the merry-go-round you may see at a park."
+    },
+    {
+      "label": "G",
+      "text": "Getting clean water in some areas of Africa is difficult."
+    },
+    {
+      "label": "H",
+      "text": "Making sure the pumps work correctly can be expensive."
+    },
+    {
+      "label": "J",
+      "text": "The pumps are usually located near schools or community centers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "20 Which sentence from the article tells something that could be a problem with PlayPumps?",
+    "F It\u2019s a PlayPump, and it\u2019s unlike the merry-go-round you may see at a park.",
+    "G Getting clean water in some areas of Africa is difficult.",
+    "H Making sure the pumps work correctly can be expensive.",
+    "J The pumps are usually located near schools or community centers."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

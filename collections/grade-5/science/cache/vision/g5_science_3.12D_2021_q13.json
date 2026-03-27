@@ -1,0 +1,30 @@
+{
+  "stem": "Which question can scientists most likely answer from studying the fossil of the dinosaur?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "What was the pattern on the skin of the dinosaur?"
+    },
+    {
+      "label": "B",
+      "text": "What was the type of food the dinosaur ate?"
+    },
+    {
+      "label": "C",
+      "text": "How fast was the heart of the dinosaur beating?"
+    },
+    {
+      "label": "D",
+      "text": "How many eggs were in the nest of the dinosaur?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photo of a dinosaur fossil"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

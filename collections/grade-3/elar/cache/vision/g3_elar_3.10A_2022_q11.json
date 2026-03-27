@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author wrote this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To inform the reader about the work of Mission Blue members"
+    },
+    {
+      "label": "B",
+      "text": "To persuade the reader to visit oceans"
+    },
+    {
+      "label": "C",
+      "text": "To teach the reader about plant life in oceans"
+    },
+    {
+      "label": "D",
+      "text": "To tell the reader where Mission Blue members meet"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

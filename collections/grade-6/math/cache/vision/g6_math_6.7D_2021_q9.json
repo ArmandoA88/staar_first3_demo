@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to \\(53p+(16p+7p)\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\((16p \\cdot 7p)+53p\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\((53p \\cdot 16p) \\cdot 7p\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\((16p+7p) \\cdot 53p\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\((53p+16p)+7p\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\(53p+(16p+7p)\\)",
+    "\\((16p \\cdot 7p)+53p\\)",
+    "\\((53p \\cdot 16p) \\cdot 7p\\)",
+    "\\((16p+7p) \\cdot 53p\\)",
+    "\\((53p+16p)+7p\\)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

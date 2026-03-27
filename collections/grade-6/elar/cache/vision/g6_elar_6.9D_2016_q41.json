@@ -1,0 +1,30 @@
+{
+  "stem": "The author uses a simile in this sentence to reveal that Charlie Joe's father \u2014",
+  "instruction": "Read this sentence from paragraph 20.\n\nHe held out the brochure to me and grinned like an evil wizard.",
+  "options": [
+    {
+      "label": "A",
+      "text": "is excited to have found a solution even if his son does not like it"
+    },
+    {
+      "label": "B",
+      "text": "has an unusual ability to make his son agree to things he dislikes doing"
+    },
+    {
+      "label": "C",
+      "text": "is pretending that he likes the camp so that his son will also like it"
+    },
+    {
+      "label": "D",
+      "text": "knows that his son will try to find an alternative to going to the camp"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He held out the brochure to me and grinned like an evil wizard."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

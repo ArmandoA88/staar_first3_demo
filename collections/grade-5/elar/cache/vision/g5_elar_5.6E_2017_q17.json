@@ -1,0 +1,35 @@
+{
+  "stem": "Which of the following describes a difference between the article and the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The article provides details of an event related to spitting cherry pits, while the poem describes the process of spitting cherry pits."
+    },
+    {
+      "label": "B",
+      "text": "The article provides information about activities that occur before a contest, while the poem describes the results of a contest."
+    },
+    {
+      "label": "C",
+      "text": "The article focuses mainly on the people who spit cherry pits, while the poem features those who observe the activity."
+    },
+    {
+      "label": "D",
+      "text": "The article explains how to organize a local competition, while the poem highlights how to get involved in one."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q17 Passage #2A Expository and Passage #2B Poetry",
+    "17",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

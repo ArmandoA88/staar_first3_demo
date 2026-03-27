@@ -1,0 +1,30 @@
+{
+  "stem": "A baby weighed 7.25 lb at birth. At the end of 8 months, the baby weighed 2\\frac{1}{2} times its birth weight. How many pounds did the baby weigh at the end of 8 months?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "14.5 lb"
+    },
+    {
+      "label": "G",
+      "text": "9.75 lb"
+    },
+    {
+      "label": "H",
+      "text": "18.125 lb"
+    },
+    {
+      "label": "J",
+      "text": "14.125 lb"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2\\frac{1}{2}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

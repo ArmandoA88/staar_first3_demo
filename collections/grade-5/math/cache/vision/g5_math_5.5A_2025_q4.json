@@ -1,0 +1,39 @@
+{
+  "stem": "The Venn diagram shows a way to classify shapes.\n\nPolygons\n\nAt least one right angle  At least one pair of parallel sides\n\nSelect TWO shapes that belong in the shaded region of the Venn diagram.",
+  "instruction": "Select TWO shapes that belong in the shaded region of the Venn diagram.",
+  "options": [
+    {
+      "label": null,
+      "text": "Right triangle with one right angle"
+    },
+    {
+      "label": null,
+      "text": "Rectangle with four right angles and two pairs of parallel sides"
+    },
+    {
+      "label": null,
+      "text": "Equilateral triangle with no right angles or parallel sides"
+    },
+    {
+      "label": null,
+      "text": "Rhombus with no right angles and two pairs of parallel sides"
+    },
+    {
+      "label": null,
+      "text": "Pentagon with no right angles and no parallel sides"
+    },
+    {
+      "label": null,
+      "text": "Trapezoid with two right angles and one pair of parallel sides"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with two intersecting circles labeled 'At least one right angle' and 'At least one pair of parallel sides' with the overlapping region shaded",
+    "Images of six shapes: right triangle with one right angle, rectangle, equilateral triangle, rhombus, pentagon, trapezoid"
+  ],
+  "item_type_inferred": "Hot Spot",
+  "confidence": 1,
+  "notes": null
+}

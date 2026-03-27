@@ -1,0 +1,30 @@
+{
+  "stem": "Which lines from the poem rhyme?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "weeks ago\nwhen everything outside was snow."
+    },
+    {
+      "label": "B",
+      "text": "and carried it\noutside to see"
+    },
+    {
+      "label": "C",
+      "text": "and then our dog\ndecided he"
+    },
+    {
+      "label": "D",
+      "text": "and one by one\nthey took them out"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "stem": "Fabio drinks 2 quarts of water each day. How many cups of water does Fabio drink each day?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4 cups"
+    },
+    {
+      "label": "B",
+      "text": "16 cups"
+    },
+    {
+      "label": "C",
+      "text": "64 cups"
+    },
+    {
+      "label": "D",
+      "text": "8 cups"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q13",
+    "13 Fabio drinks 2 quarts of water each day. How many cups of water does Fabio drink each day?",
+    "A 4 cups",
+    "B 16 cups",
+    "C 64 cups",
+    "D 8 cups"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

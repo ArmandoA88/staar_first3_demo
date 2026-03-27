@@ -1,0 +1,32 @@
+{
+  "stem": "Students observe some objects on a lab tray. The students will classify the objects based on physical properties common to all of the objects.\n\nBased on their common properties, how should these objects be classified?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insulate thermal energy\nBendable\nAttract to magnets"
+    },
+    {
+      "label": "G",
+      "text": "Soluble in water\nAttract to magnets\nConduct thermal energy"
+    },
+    {
+      "label": "H",
+      "text": "Conduct electrical energy\nBendable\nSoluble in water"
+    },
+    {
+      "label": "J",
+      "text": "Conduct thermal energy\nConduct electrical energy\nNot soluble in water"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Copper penny",
+    "Iron filings",
+    "Tin can lid"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

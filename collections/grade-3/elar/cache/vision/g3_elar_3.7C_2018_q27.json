@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph next to paragraph 1 helps the reader understand \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "why Taylor works many hours"
+    },
+    {
+      "label": "B",
+      "text": "how Taylor changes her recipes"
+    },
+    {
+      "label": "C",
+      "text": "where Taylor stores her cupcakes"
+    },
+    {
+      "label": "D",
+      "text": "what tools Taylor uses in the kitchen"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph next to paragraph 1"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

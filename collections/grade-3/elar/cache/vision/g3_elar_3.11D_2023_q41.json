@@ -1,0 +1,34 @@
+{
+  "stem": "What change is needed in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change was to is"
+    },
+    {
+      "label": "B",
+      "text": "Change finally to finly"
+    },
+    {
+      "label": "C",
+      "text": "Change herself to yourself"
+    },
+    {
+      "label": "D",
+      "text": "Change the question mark to an exclamation point"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change is needed in sentence 9?",
+    "A Change was to is",
+    "B Change finally to finly",
+    "C Change herself to yourself",
+    "D Change the question mark to an exclamation point"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

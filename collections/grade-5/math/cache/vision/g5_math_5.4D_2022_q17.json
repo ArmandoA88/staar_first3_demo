@@ -1,0 +1,30 @@
+{
+  "stem": "Elsa and a group of her friends always sit together at lunch. Every day students join them at the table where they sit. The table below shows the relationship between the number of students joining Elsa and her friends and the total number of students sitting at the table.\n\nStudents at the Lunch Table\n\n| Day       | Number of Students Joining | Total Number of Students at the Table |\n|-----------|----------------------------|---------------------------------------|\n| Monday    | 3                          | 8                                     |\n| Tuesday   | 2                          | 7                                     |\n| Wednesday | 8                          | 13                                    |\n| Thursday  | 5                          | 10                                    |\n\nThe type of relationship that exists between the number of students joining and the total number of students at the table is \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "an additive relationship, because the pattern is to add 5 to the number of students joining in order to get the total number of students at the table"
+    },
+    {
+      "label": "B",
+      "text": "a multiplicative relationship, because the total number of students at the table is greater than the number of students joining"
+    },
+    {
+      "label": "C",
+      "text": "an additive relationship, because the number of students joining is less than the total number of students at the table"
+    },
+    {
+      "label": "D",
+      "text": "a multiplicative relationship, because the pattern is to multiply the number of students joining by 5 in order to get the total number of students at the table"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

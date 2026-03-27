@@ -1,0 +1,30 @@
+{
+  "stem": "Dana placed the following points on a number line.\n\n\u2022 Point P at -\\dfrac{24}{3}\n\n\u2022 Point Q at -\\dfrac{9}{2}\n\n\u2022 Point R at \\dfrac{7}{2}\n\n\u2022 Point S at \\dfrac{15}{3}\n\nWhich point is NOT correctly placed on this number line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Point P"
+    },
+    {
+      "label": "G",
+      "text": "Point Q"
+    },
+    {
+      "label": "H",
+      "text": "Point R"
+    },
+    {
+      "label": "J",
+      "text": "Point S"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line from -8 to 8 with points labeled: P near -8, Q near -3, R near 3.5, S near 5"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "The stem and answer choices are preserved as in the source image. The number line visual is summarized as a visual element."
+}

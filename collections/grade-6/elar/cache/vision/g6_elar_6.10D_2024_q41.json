@@ -1,0 +1,31 @@
+{
+  "stem": "What change needs to be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change has to have"
+    },
+    {
+      "label": "B",
+      "text": "Change the comma after benefits to a period"
+    },
+    {
+      "label": "C",
+      "text": "Change Experts to experts"
+    },
+    {
+      "label": "D",
+      "text": "Change it to them"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text",
+    "four answer choices"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

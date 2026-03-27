@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the relationship between b, the number of slices of bread, and c, the total number of calories in the bread.\n\nCalories in Bread\n\n| Number of Slices, b | Total Calories, c |\n|---------------------|------------------|\n|          2          |        140       |\n|          4          |        280       |\n|          6          |        420       |\n|          8          |        560       |\n\nWhich equation represents the relationship between b and c?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "c = 70b"
+    },
+    {
+      "label": "G",
+      "text": "c = b + 70"
+    },
+    {
+      "label": "H",
+      "text": "c = 140b"
+    },
+    {
+      "label": "J",
+      "text": "c = b + 140"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing number of slices and total calories"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

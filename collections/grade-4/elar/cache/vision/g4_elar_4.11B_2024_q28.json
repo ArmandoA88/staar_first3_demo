@@ -1,0 +1,30 @@
+{
+  "stem": "Regan wants to add this sentence to the fifth paragraph (sentences 23\u201327).\n\nHe immediately claimed my room as his own.\n\nWhere is the BEST place to add this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 23"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 24"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 25"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 26"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He immediately claimed my room as his own."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

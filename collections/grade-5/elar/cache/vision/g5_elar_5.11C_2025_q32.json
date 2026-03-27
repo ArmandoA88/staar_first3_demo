@@ -1,0 +1,28 @@
+{
+  "stem": "What is the MOST effective way to combine sentences 14 and 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "While it was a low tide for Xander and his dad, they went to the beach to search for shark teeth."
+    },
+    {
+      "label": "B",
+      "text": "Searching for shark teeth, it was a low tide when Xander and his dad went to the beach."
+    },
+    {
+      "label": "C",
+      "text": "At a low tide to search for shark teeth, Xander and his dad went to the beach."
+    },
+    {
+      "label": "D",
+      "text": "During a low tide, Xander and his dad went to the beach to search for shark teeth."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

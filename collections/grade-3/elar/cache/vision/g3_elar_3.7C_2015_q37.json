@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence from the selection is best supported by the photograph next to paragraph 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The goal of the contest is to help children learn more about how airplanes fly and to encourage them to explore science and inventing."
+    },
+    {
+      "label": "B",
+      "text": "At 800 pounds this plane was too heavy to throw like a typical paper airplane."
+    },
+    {
+      "label": "C",
+      "text": "During its short flight the plane reached a speed of 98 miles per hour."
+    },
+    {
+      "label": "D",
+      "text": "The museum plans to continue offering its paper airplane contest to young scientists."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Both animals have structures that help them survive. Which sentence best describes the function of the structures that these animals have in common?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Both animals have small eyes that help them see clearly at night."
+    },
+    {
+      "label": "G",
+      "text": "Both animals have tough skin to keep them warm in cold weather."
+    },
+    {
+      "label": "H",
+      "text": "Both animals have sharp claws that help them to dig in sand."
+    },
+    {
+      "label": "J",
+      "text": "Both animals have pointed tails to attract predators."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Texas Nine-banded Armadillo",
+    "Texas Horned Lizard"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "The question asks to identify the function of common structures from the images and text."
+}

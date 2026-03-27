@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition most closely fits the way the word secured is used in paragraph 4?",
+  "instruction": "Read the dictionary entry for the word secure.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "secure \\si-'kyu\u0307r\\ verb 1. to place something where it will not move 2. to get something as a result of trying 3. to make certain or sure of 4. to promise payment of"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

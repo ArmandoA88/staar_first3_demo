@@ -1,0 +1,30 @@
+{
+  "stem": "A scientist used 786 milliliters of a liquid for an experiment. How many liters of the liquid did the scientist use for this experiment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "786,000 L"
+    },
+    {
+      "label": "B",
+      "text": "7.86 L"
+    },
+    {
+      "label": "C",
+      "text": "0.786 L"
+    },
+    {
+      "label": "D",
+      "text": "0.0786 L"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

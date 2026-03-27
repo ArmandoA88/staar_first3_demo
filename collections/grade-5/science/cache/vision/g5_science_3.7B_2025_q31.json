@@ -1,0 +1,28 @@
+{
+  "stem": "A student is helping a teacher move a bookcase. The student pushes on the bookcase, but the bookcase does not move.\n\nWhich action should the student take in order to move the bookcase?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Apply more force to one side of the bookcase"
+    },
+    {
+      "label": "B",
+      "text": "Apply more downward force to the bookcase"
+    },
+    {
+      "label": "C",
+      "text": "Apply less force to the bookcase"
+    },
+    {
+      "label": "D",
+      "text": "Apply equal force to all sides of the bookcase"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

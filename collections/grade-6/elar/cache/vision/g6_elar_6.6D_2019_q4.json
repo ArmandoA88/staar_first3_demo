@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Michelle has been interested in photography since she was seven years old. She decides to enter a photography contest hosted by a local photo shop and must take a picture to express the theme of the contest, which is tranquillity. She takes pictures of a sunset, a cat, a still pond, and her sleeping brother."
+    },
+    {
+      "label": "G",
+      "text": "Michelle tries to take a photograph of a sunset for a contest. Her little brother is very interested in what she is doing, and he wants her to take a photograph of him. After she is satisfied with her sunset picture, Michelle photographs her brother while he is sleeping."
+    },
+    {
+      "label": "H",
+      "text": "Michelle has difficulty photographing a sunset for a photography contest she wants to enter. She finally gets a good sunset picture, and she also takes a picture of her sleeping brother. At the last minute she selects the photo she thinks best illustrates the contest theme of tranquillity."
+    },
+    {
+      "label": "J",
+      "text": "Michelle enters a photography contest that requires the use of a traditional camera. The theme of the contest is tranquillity. After getting the pictures developed at the photo shop, Michelle reviews her photos and selects the one she thinks will help her win the contest."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

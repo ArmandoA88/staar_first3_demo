@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 9.\n\nMany people believe that pets cause allergies in children.\n\nHow does the author show that this argument is untrue?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "By quoting an expert scientist"
+    },
+    {
+      "label": "G",
+      "text": "By describing a research study"
+    },
+    {
+      "label": "H",
+      "text": "By interviewing a pet owner"
+    },
+    {
+      "label": "J",
+      "text": "By observing a pet owner"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Many people believe that pets cause allergies in children."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A definition of a financial term is shown in the box.\n\nA tax on retail products based on a set percentage of retail cost\n\nWhich term best fits this definition?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Income tax"
+    },
+    {
+      "label": "B",
+      "text": "Payroll tax"
+    },
+    {
+      "label": "C",
+      "text": "Property tax"
+    },
+    {
+      "label": "D",
+      "text": "Sales tax"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A tax on retail products based on a set percentage of retail cost"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of the expression shown?\n\n4(-2) + (-10) + 3(-8)",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-22"
+    },
+    {
+      "label": "B",
+      "text": "-13"
+    },
+    {
+      "label": "C",
+      "text": "7"
+    },
+    {
+      "label": "D",
+      "text": "-42"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4(-2) + (-10) + 3(-8)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the relationship between p, the number of pears, and f, the number of figs, in different-sized baskets.\n\nPears and Figs in Baskets\n\n| Number of Pears, p | Number of Figs, f |\n|-------------------|------------------|\n| 1                 | 2                |\n| 3                 | 6                |\n| 4                 | 8                |\n\nWhich equation represents the relationship in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "f = p + 1"
+    },
+    {
+      "label": "B",
+      "text": "p = f - 4"
+    },
+    {
+      "label": "C",
+      "text": "f = 2p"
+    },
+    {
+      "label": "D",
+      "text": "p = 2f"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table labeled \"Pears and Figs in Baskets\" with columns Number of Pears, p and Number of Figs, f and rows 1 and 2, 3 and 6, 4 and 8"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

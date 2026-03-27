@@ -1,0 +1,31 @@
+{
+  "stem": "What can the reader conclude about Jason Taylor based on these sentences?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Taylor bases his marine art designs on the nearby reefs."
+    },
+    {
+      "label": "B",
+      "text": "Taylor questions the ability of his creations to last underwater."
+    },
+    {
+      "label": "C",
+      "text": "Taylor wants his art to affect and be affected by its environment."
+    },
+    {
+      "label": "D",
+      "text": "Taylor thinks marine life creates better art than he can."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"If people instead swim around the beautiful sculpture parks,\" Jason explains, \"it will give the reefs a rest.\" (paragraph 5)",
+    "\"Marine growth is taking on the role of the artist as it changes the sculpture.\" (paragraph 10)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

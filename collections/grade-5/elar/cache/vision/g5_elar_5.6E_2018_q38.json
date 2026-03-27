@@ -1,0 +1,31 @@
+{
+  "stem": "These sentences help the reader understand that Big Bird's caretakers \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "lack the resources to give Big Bird what he needs"
+    },
+    {
+      "label": "G",
+      "text": "know that Big Bird belongs in the wild"
+    },
+    {
+      "label": "H",
+      "text": "believe that Big Bird will get lost if he flies away"
+    },
+    {
+      "label": "J",
+      "text": "are trying to find out where Big Bird came from"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Everyone at the resort anticipated that Big Bird would fly away and rejoin his flock once he regained his health. (paragraph 4)",
+    "He may one day take flight, find a flock of pelicans to join, and never return to the place where he learned to fly. (paragraph 7)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

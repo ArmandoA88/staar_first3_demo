@@ -1,0 +1,28 @@
+{
+  "stem": "The bases of a trapezoid are 8 centimeters and 12 centimeters, and the height is h centimeters. Which equation can be used to represent A, the area of the trapezoid in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A = \\frac{1}{2} (8 + 12) h"
+    },
+    {
+      "label": "G",
+      "text": "A = \\frac{1}{2} (8 \\cdot 12) h"
+    },
+    {
+      "label": "H",
+      "text": "A = (8 + 12) h"
+    },
+    {
+      "label": "J",
+      "text": "A = (8 \\cdot 12) h"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

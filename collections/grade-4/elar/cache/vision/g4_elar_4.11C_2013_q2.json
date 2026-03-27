@@ -1,0 +1,31 @@
+{
+  "stem": "What is the BEST way to revise sentence 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "My mother shrieked about approaching strange animals that warned me."
+    },
+    {
+      "label": "G",
+      "text": "My mother shrieked. As she warned me about approaching strange animals."
+    },
+    {
+      "label": "H",
+      "text": "My mother shrieked about approaching strange animals, she warned me."
+    },
+    {
+      "label": "J",
+      "text": "My mother shrieked and warned me about approaching strange animals."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q2 Passage #1",
+    "2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

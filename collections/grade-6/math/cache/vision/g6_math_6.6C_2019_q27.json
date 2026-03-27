@@ -1,0 +1,30 @@
+{
+  "stem": "The owner of a food cart sells an average of 120 frozen treats per day during the summer.\nWhich graph best shows this relationship between the number of days and the number of frozen treats sold?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph A: y-axis labeled Number of Days, x-axis labeled Number of Frozen Treats Sold, points plotted increasing vertically."
+    },
+    {
+      "label": "B",
+      "text": "Graph B: y-axis labeled Number of Frozen Treats Sold, x-axis labeled Number of Days, points plotted increasing diagonally."
+    },
+    {
+      "label": "C",
+      "text": "Graph C: y-axis labeled Number of Days, x-axis labeled Number of Frozen Treats Sold, points plotted increasing horizontally."
+    },
+    {
+      "label": "D",
+      "text": "Graph D: y-axis labeled Number of Frozen Treats Sold, x-axis labeled Number of Days, points plotted increasing diagonally starting at bottom left."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled A, B, C, D with points plotted"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

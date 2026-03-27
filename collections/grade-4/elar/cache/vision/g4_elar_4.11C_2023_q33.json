@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to revise sentence 19 to avoid repeating an idea?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He started describing, and I tried to act interested about his new house."
+    },
+    {
+      "label": "B",
+      "text": "He started describing his new house, and I tried to act interested."
+    },
+    {
+      "label": "C",
+      "text": "He started describing his new house, and I tried to act interested to the telling about it."
+    },
+    {
+      "label": "D",
+      "text": "He started describing his new house and acting interested to tell about it."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "How does the playwright indicate that Owner is surprised by Dog's ability to speak?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "By describing the noises Dog makes in the stage directions in line 10"
+    },
+    {
+      "label": "G",
+      "text": "By having Owner ask questions in line 11"
+    },
+    {
+      "label": "H",
+      "text": "By including Dog's and Owner's actions in the stage directions in line 11"
+    },
+    {
+      "label": "J",
+      "text": "By indicating pauses in Owner's dialogue in line 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

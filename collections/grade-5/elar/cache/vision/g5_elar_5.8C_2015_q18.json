@@ -1,0 +1,28 @@
+{
+  "stem": "Why does the peasant want to meet with the prince?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To help the merchant find his bag of money"
+    },
+    {
+      "label": "G",
+      "text": "Because the merchant implies that the peasant is a thief"
+    },
+    {
+      "label": "H",
+      "text": "To convince the prince to let him keep all the merchant's money"
+    },
+    {
+      "label": "J",
+      "text": "Because the prince calls for the peasant to appear before him"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

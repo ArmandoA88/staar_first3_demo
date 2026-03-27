@@ -1,0 +1,34 @@
+{
+  "stem": "The diagram shows the dimensions of five shapes in inches. Which shapes have equal areas?",
+  "instruction": "Select THREE correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "Triangle with dimensions 6 in. and 3.4 in."
+    },
+    {
+      "label": null,
+      "text": "Rectangle with dimensions 5.1 in. and 4 in."
+    },
+    {
+      "label": null,
+      "text": "Rectangle with dimensions 5.1 in. and 2 in."
+    },
+    {
+      "label": null,
+      "text": "Rectangle with dimensions 7.4 in. and 2 in."
+    },
+    {
+      "label": null,
+      "text": "Triangle with base 12 in. and height 1.7 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagrams of five shapes with dimensions as described"
+  ],
+  "item_type_inferred": "Hot Spot",
+  "confidence": 0.99,
+  "notes": null
+}

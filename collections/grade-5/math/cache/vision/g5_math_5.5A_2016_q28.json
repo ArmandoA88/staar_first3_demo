@@ -1,0 +1,30 @@
+{
+  "stem": "Rachel classified shapes based on the types of angles they had. The table shows her classifications.\n\nAngle Types\n\n| Right Angles Only | Acute Angles Only | Obtuse Angles Only | Both Acute and Obtuse Angles |\n|-------------------|-------------------|--------------------|-----------------------------|\n| Shape 1           | Shape 3           | Shape 5            | Shape 7                     |\n| Shape 2           | Shape 4           | Shape 6            | Shape 8                     |\n\nWhich shape was not classified correctly?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Shape 4"
+    },
+    {
+      "label": "G",
+      "text": "Shape 5"
+    },
+    {
+      "label": "H",
+      "text": "Shape 7"
+    },
+    {
+      "label": "J",
+      "text": "Shape 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns Right Angles Only, Acute Angles Only, Obtuse Angles Only, Both Acute and Obtuse Angles with shapes 1-8"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

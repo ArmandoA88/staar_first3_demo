@@ -1,0 +1,28 @@
+{
+  "stem": "Which idea from the article is supported by the photographs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Triathlons are held in hot places."
+    },
+    {
+      "label": "G",
+      "text": "A triathlon has three different parts."
+    },
+    {
+      "label": "H",
+      "text": "A triathlon for children is a short race."
+    },
+    {
+      "label": "J",
+      "text": "Adults can help children during a triathlon."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

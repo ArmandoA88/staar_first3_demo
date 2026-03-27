@@ -1,0 +1,30 @@
+{
+  "stem": "Which question is the student most likely trying to answer with this investigation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "How many spaghetti noodles will it take to hold up the mass of a penny?"
+    },
+    {
+      "label": "B",
+      "text": "How much force will it take to break the spaghetti noodle?"
+    },
+    {
+      "label": "C",
+      "text": "How long should the string that holds the paper cup be in order to support the greatest mass of pennies?"
+    },
+    {
+      "label": "D",
+      "text": "How does the distance between the two chairs affect the amount of force it takes for the spaghetti noodle to break?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of two chairs with an uncooked spaghetti noodle tied between them, a string hanging from the noodle, and a paper cup hanging from the string"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,26 @@
+{
+  "stem": "Which line from the play best shows that Jude is beginning to appreciate objects from the past?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[GRANDPA SAM gently hands JUDE the camera. JUDE examines it while GRANDPA SAM watches with a smile.]"
+    },
+    {
+      "label": "B",
+      "text": "GRANDPA SAM: I bet I have some old film from when I was younger back at home. I can show you sometime."
+    },
+    {
+      "label": "C",
+      "text": "JUDE: Yes, please, Grandpa! I wish we could go look for it right now! [JUDE jumps up and down impatiently.]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Play excerpt with lines by GRANDPA SAM and JUDE, including stage directions in brackets."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

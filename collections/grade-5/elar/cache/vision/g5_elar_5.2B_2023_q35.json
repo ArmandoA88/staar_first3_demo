@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change use to used"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after decisions"
+    },
+    {
+      "label": "C",
+      "text": "Change problems to problem's"
+    },
+    {
+      "label": "D",
+      "text": "Change acheive to achieve"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with question and multiple choice options"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

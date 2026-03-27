@@ -1,0 +1,34 @@
+{
+  "stem": "Which sentence can BEST follow and support sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Everyone in our group gets along well, and I think you will enjoy our company at the farm."
+    },
+    {
+      "label": "B",
+      "text": "I am very pleased that I came across your website when I was searching the internet for a place to volunteer."
+    },
+    {
+      "label": "C",
+      "text": "We will work alongside you to plant crops, pull weeds, harvest vegetables, or anything else you need us to do."
+    },
+    {
+      "label": "D",
+      "text": "Next year, it is possible that we will look for a different opportunity to serve in our community."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Which sentence can BEST follow and support sentence 25?",
+    "A Everyone in our group gets along well, and I think you will enjoy our company at the farm.",
+    "B I am very pleased that I came across your website when I was searching the internet for a place to volunteer.",
+    "C We will work alongside you to plant crops, pull weeds, harvest vegetables, or anything else you need us to do.",
+    "D Next year, it is possible that we will look for a different opportunity to serve in our community."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Which sentence best states a message in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Spending time outdoors is a good way to make new friends."
+    },
+    {
+      "label": "G",
+      "text": "The most difficult activities are usually the most interesting ones."
+    },
+    {
+      "label": "H",
+      "text": "It is important for children to make their own goals."
+    },
+    {
+      "label": "J",
+      "text": "Learning about nature can be challenging and rewarding."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q10 Passage #2",
+    "10"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

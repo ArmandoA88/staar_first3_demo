@@ -1,0 +1,30 @@
+{
+  "stem": "A student builds the circuit shown. The student closes Switch 1 and Switch 3. Which lightbulb will glow?",
+  "instruction": "Select ONE correct answer.",
+  "options": [
+    {
+      "label": "A",
+      "text": "L1"
+    },
+    {
+      "label": "B",
+      "text": "L2"
+    },
+    {
+      "label": "C",
+      "text": "L3"
+    },
+    {
+      "label": "D",
+      "text": "L4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circuit diagram with a battery, three switches labeled Switch 1, Switch 2, and Switch 3 and four lightbulbs labeled L1, L2, L3, and L4 connected in series."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

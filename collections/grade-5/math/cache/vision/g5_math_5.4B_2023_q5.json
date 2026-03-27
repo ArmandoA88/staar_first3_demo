@@ -1,0 +1,30 @@
+{
+  "stem": "An equation is shown.\n\nn = 1,368 \\u00F7 18 + 1\n\nWhat is the value of n?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "72"
+    },
+    {
+      "label": "B",
+      "text": "77"
+    },
+    {
+      "label": "C",
+      "text": "76"
+    },
+    {
+      "label": "D",
+      "text": "1,351"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "n = 1,368 \\u00F7 18 + 1"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

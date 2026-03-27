@@ -1,0 +1,30 @@
+{
+  "stem": "Which meaning of judge is used in paragraph 9?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Meaning 1"
+    },
+    {
+      "label": "B",
+      "text": "Meaning 2"
+    },
+    {
+      "label": "C",
+      "text": "Meaning 3"
+    },
+    {
+      "label": "D",
+      "text": "Meaning 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "judge \\\u02c8j\u0259j\\ verb\n1. to listen to and decide a court case\n2. to choose the winner of a contest\n3. to form an opinion about someone\n4. to make a careful guess"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

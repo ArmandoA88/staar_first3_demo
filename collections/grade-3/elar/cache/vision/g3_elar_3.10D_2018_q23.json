@@ -1,0 +1,30 @@
+{
+  "stem": "How are the stanzas in the poem alike?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They tell the speaker's feelings about the mother cat."
+    },
+    {
+      "label": "B",
+      "text": "They have the same number of lines."
+    },
+    {
+      "label": "C",
+      "text": "They focus on a problem the mother cat tries to solve."
+    },
+    {
+      "label": "D",
+      "text": "They repeat important words."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text of question and four multiple-choice answers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

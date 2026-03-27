@@ -1,0 +1,30 @@
+{
+  "stem": "Anthony has a goal of saving $96.20. He will save the same amount each week for 13 weeks. How much will Anthony need to save each week in order to meet his goal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$7.40"
+    },
+    {
+      "label": "B",
+      "text": "$7.52"
+    },
+    {
+      "label": "C",
+      "text": "$7.04"
+    },
+    {
+      "label": "D",
+      "text": "$7.31"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author describes new biodegradable fibers this way?",
+  "instruction": "Read this sentence from paragraph 5.\n\nThis has the added benefit of opening up new frontiers for fashion designers.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To show that people will have to find these fibers in new places"
+    },
+    {
+      "label": "B",
+      "text": "To explain how people can learn about the planet by using these fibers"
+    },
+    {
+      "label": "C",
+      "text": "To demonstrate that using these fibers is an idea that will take time"
+    },
+    {
+      "label": "D",
+      "text": "To express how these fibers come with many possibilities"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This has the added benefit of opening up new frontiers for fashion designers."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

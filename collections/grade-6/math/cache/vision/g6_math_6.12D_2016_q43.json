@@ -1,0 +1,31 @@
+{
+  "stem": "Shemar bought a bag of marbles. He took the marbles out of the bag one at a time. He recorded the color of each marble in this tally chart.\n\nMarbles\nColor | Number of Marbles\nBlack | ||||| ||||| |||\nYellow | ||||| ||||\nGreen | ||||| || ||\nRed | |||||\nWhite | ||||| |||\n\nIn which table do the percentages represent the relative frequency of these marble colors?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Black 15%, Yellow 10%, Green 12%, Red 5%, White 8%"
+    },
+    {
+      "label": "B",
+      "text": "Black 15%, Yellow 25%, Green 37%, Red 42%, White 50%"
+    },
+    {
+      "label": "C",
+      "text": "Black 10%, Yellow 16%, Green 20%, Red 24%, White 30%"
+    },
+    {
+      "label": "D",
+      "text": "Black 30%, Yellow 20%, Green 24%, Red 10%, White 16%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "tally chart of colors and counts",
+    "4 tables of colors with percentages labeled A,B,C,D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

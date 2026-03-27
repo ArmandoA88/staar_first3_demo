@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence in the selection is best supported by the photographs between paragraphs 9 and 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "No one really knows where and exactly when they were invented. (paragraph 2)"
+    },
+    {
+      "label": "B",
+      "text": "Now, more people could buy them. (paragraph 5)"
+    },
+    {
+      "label": "C",
+      "text": "Marbles are placed inside a circle that is drawn on the ground. (paragraph 9)"
+    },
+    {
+      "label": "D",
+      "text": "Players may lose some of their favorite marbles. (paragraph 10)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

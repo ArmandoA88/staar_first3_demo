@@ -1,0 +1,30 @@
+{
+  "stem": "Read the diagram.\n\n[Diagram with three labeled ovals connected to a central blank oval: \"Water ready to use at all times,\" \"Fresh water closer to home,\" and \"A place for children to play\"]\n\nWhich of the following correctly completes the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "How to Get Drinking Water"
+    },
+    {
+      "label": "B",
+      "text": "How PlayPumps Work"
+    },
+    {
+      "label": "C",
+      "text": "How Children Stay Active"
+    },
+    {
+      "label": "D",
+      "text": "How PlayPumps Help People"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with four ovals connected in a web. Three labeled: 'Water ready to use at all times,' 'Fresh water closer to home,' 'A place for children to play,' and one central oval blank."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

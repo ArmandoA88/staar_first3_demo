@@ -1,0 +1,59 @@
+{
+  "stem": "Elida will use six different wires for a science project. The fractions represent the diameters of these wires in inches.\n\n\\[ \\frac{7}{16}, \\frac{1}{2}, \\frac{3}{8}, \\frac{9}{32}, \\frac{5}{16}, \\frac{15}{32} \\]\n\nWhich list shows the diameters of the wires in order from least to greatest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{1}{2}, \\frac{3}{8}, \\frac{7}{16}, \\frac{5}{16}, \\frac{15}{32}, \\frac{9}{32}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{9}{32}, \\frac{15}{32}, \\frac{5}{16}, \\frac{7}{16}, \\frac{3}{8}, \\frac{1}{2}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{1}{2}, \\frac{3}{8}, \\frac{5}{16}, \\frac{7}{16}, \\frac{9}{32}, \\frac{15}{32}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{9}{32}, \\frac{5}{16}, \\frac{3}{8}, \\frac{7}{16}, \\frac{15}{32}, \\frac{1}{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\frac{7}{16}",
+    "\\frac{1}{2}",
+    "\\frac{3}{8}",
+    "\\frac{9}{32}",
+    "\\frac{5}{16}",
+    "\\frac{15}{32}",
+    "\\frac{1}{2}",
+    "\\frac{3}{8}",
+    "\\frac{7}{16}",
+    "\\frac{5}{16}",
+    "\\frac{15}{32}",
+    "\\frac{9}{32}",
+    "\\frac{9}{32}",
+    "\\frac{15}{32}",
+    "\\frac{5}{16}",
+    "\\frac{7}{16}",
+    "\\frac{3}{8}",
+    "\\frac{1}{2}",
+    "\\frac{1}{2}",
+    "\\frac{3}{8}",
+    "\\frac{5}{16}",
+    "\\frac{7}{16}",
+    "\\frac{9}{32}",
+    "\\frac{15}{32}",
+    "\\frac{9}{32}",
+    "\\frac{5}{16}",
+    "\\frac{3}{8}",
+    "\\frac{7}{16}",
+    "\\frac{15}{32}",
+    "\\frac{1}{2}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

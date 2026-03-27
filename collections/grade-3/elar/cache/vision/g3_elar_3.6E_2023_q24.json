@@ -1,0 +1,32 @@
+{
+  "stem": "Which messages do BOTH the selection \u201cRewards for Recycling\u201d and the selection \u201cLaws for Less Trash\u201d share?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "Keeping recyclables out of landfills is important."
+    },
+    {
+      "label": null,
+      "text": "Stores should sell more objects that last for a long time."
+    },
+    {
+      "label": null,
+      "text": "Not enough people care about helping the planet."
+    },
+    {
+      "label": null,
+      "text": "Lawmakers need to do more to help their cities recycle."
+    },
+    {
+      "label": null,
+      "text": "Turning in recyclables should let people get free food."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiselect",
+  "confidence": 0.99,
+  "notes": null
+}

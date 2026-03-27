@@ -1,0 +1,30 @@
+{
+  "stem": "The figure represents a water trough in the shape of a rectangular prism. The dimensions of the water trough are given in feet. What is the volume of water in the trough in cubic feet when the trough is full?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "21\\frac{1}{2} ft^3"
+    },
+    {
+      "label": "G",
+      "text": "13\\frac{1}{2} ft^3"
+    },
+    {
+      "label": "H",
+      "text": "70 ft^3"
+    },
+    {
+      "label": "J",
+      "text": "76 ft^3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangular prism labeled Water Trough with dimensions 4 ft (height), 7 ft (length), and 2 1/2 ft (width)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

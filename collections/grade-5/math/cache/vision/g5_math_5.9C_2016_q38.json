@@ -1,0 +1,32 @@
+{
+  "stem": "The bar graph shows the numbers of bags of two brands of dog food that were sold at a store. One bar for Day 5 is missing from the graph.\n\nThe number of bags of Brand Y dog food sold on these five days was 175. Which bar represents the data for Day 5 for Brand Y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "45"
+    },
+    {
+      "label": "H",
+      "text": "40"
+    },
+    {
+      "label": "G",
+      "text": "35"
+    },
+    {
+      "label": "J",
+      "text": "25"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bar graph titled Dog Food with x-axis labeled Day (1, 2, 3, 4, 5) and y-axis labeled Number of Bags Sold from 0 to 50 by 10s, bars for Brand X and Brand Y for Days 1 to 4, but Brand Y bar missing for Day 5",
+    "key showing Brand X with light gray bars and Brand Y with black bars",
+    "four smaller bar graphs labeled F, G, H, J each representing possible Brand Y values for Day 5: F=45, H=40, G=35, J=25"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

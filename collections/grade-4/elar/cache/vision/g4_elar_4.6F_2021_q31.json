@@ -1,0 +1,30 @@
+{
+  "stem": "What do these lines suggest about the speaker\u2019s experience at the river?",
+  "instruction": "Read lines 13 and 14 from the poem.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The river creates problems that the speaker wants to avoid."
+    },
+    {
+      "label": "B",
+      "text": "The river gives the speaker a chance to travel to new places."
+    },
+    {
+      "label": "C",
+      "text": "The river provides a way for the speaker to be creative."
+    },
+    {
+      "label": "D",
+      "text": "The river can be a confusing place for the speaker."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "leaving chunks of trees that we made into pirate ships."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

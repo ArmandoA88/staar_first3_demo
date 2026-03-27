@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, should be made in sentence 28?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I was determined until I had seen a shooting star to not doze off, but my eyes were growing weary."
+    },
+    {
+      "label": "B",
+      "text": "I was determined to not doze off until I had seen a shooting star, but my eyes were growing weary."
+    },
+    {
+      "label": "C",
+      "text": "I was determined to not doze off and determined to see a shooting star, but my eyes were growing weary."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 0.98,
+  "notes": null
+}

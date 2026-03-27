@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the meaning of construction in paragraph 6?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "construction \\k\u0259n-\u02c8str\u0259k-sh\u0259n\\ noun\n1. a thoughtful explanation\n2. a piece of fine art\n3. the act of making something\n4. the arrangement of words in a phrase"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

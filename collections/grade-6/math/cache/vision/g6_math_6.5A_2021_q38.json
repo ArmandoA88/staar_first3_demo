@@ -1,0 +1,30 @@
+{
+  "stem": "In a recipe 3 eggs are used to make 45 cookies. Which table shows the relationship between the number of eggs used and the number of cookies made?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Number of Eggs 6 9 12 15\nNumber of Cookies 270 405 540 675"
+    },
+    {
+      "label": "H",
+      "text": "Number of Eggs 6 9 12 15\nNumber of Cookies 15 15 15 15"
+    },
+    {
+      "label": "G",
+      "text": "Number of Eggs 6 9 12 15\nNumber of Cookies 90 135 180 225"
+    },
+    {
+      "label": "J",
+      "text": "Number of Eggs 90 135 180 225\nNumber of Cookies 6 9 12 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled F, H, G, J with columns 'Number of Eggs' and 'Number of Cookies' showing different numerical relationships."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

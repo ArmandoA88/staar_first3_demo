@@ -1,0 +1,19 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-3-math",
+  "label": "Grade 3 Math",
+  "grade": 3,
+  "subject": "Math",
+  "status": "ready",
+  "root": "collections/grade-3/math",
+  "source_pdf": "collections/grade-3/math/source/ALL STAAR QUESTIONS.pdf",
+  "catalog": "collections/grade-3/math/data/staar_catalog.json",
+  "reports": {
+    "coverage_csv": "collections/grade-3/math/reports/pdf_coverage_report.csv",
+    "coverage_md": "collections/grade-3/math/reports/pdf_coverage_report.md",
+    "coverage_summary_json": "collections/grade-3/math/reports/pdf_coverage_summary.json"
+  },
+  "images_dir": "collections/grade-3/math/images/extracted",
+  "stimulus_images_dir": "collections/grade-3/math/images/stimuli",
+  "vision_cache_dir": "collections/grade-3/math/cache/vision"
+}

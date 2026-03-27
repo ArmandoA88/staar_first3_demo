@@ -1,0 +1,30 @@
+{
+  "stem": "A student uses a flashlight to shine a beam of light on three different objects.\n\nWhich table describes what happens to the light beam as it interacts with each object?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Object 1 Scattered\nObject 2 Absorbed\nObject 3 Reflected"
+    },
+    {
+      "label": "G",
+      "text": "Object 1 Refracted\nObject 2 Absorbed\nObject 3 Reflected"
+    },
+    {
+      "label": "H",
+      "text": "Object 1 Reflected\nObject 2 Absorbed\nObject 3 Refracted"
+    },
+    {
+      "label": "J",
+      "text": "Object 1 Absorbed\nObject 2 Refracted\nObject 3 Scattered"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Illustration of three flashlights each shining a beam of light on one of three boxes labeled Object 1, Object 2, and Object 3; The beams have different paths indicating scattering, absorption, reflection, and refraction."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

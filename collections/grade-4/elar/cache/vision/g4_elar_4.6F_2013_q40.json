@@ -1,0 +1,33 @@
+{
+  "stem": "Which line from the play supports the idea that Cara is proud of the work she has done with Grandpa?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "CARA: Is this good enough, Grandpa?"
+    },
+    {
+      "label": "G",
+      "text": "CARA: Grandma\u2019s coming!"
+    },
+    {
+      "label": "H",
+      "text": "CARA: We\u2019re out here, Grandma!"
+    },
+    {
+      "label": "J",
+      "text": "CARA: We did it with our own four hands."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "F  CARA: Is this good enough, Grandpa?",
+    "G  CARA: Grandma\u2019s coming!",
+    "H  CARA: We\u2019re out here, Grandma!",
+    "J  CARA: We did it with our own four hands."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

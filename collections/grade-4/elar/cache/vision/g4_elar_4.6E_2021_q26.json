@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from paragraph 1 of the article \u201cThe Broken-Crayon Solution\u201d describes in a similar way what led to building an invention?",
+  "instruction": "Read this sentence from paragraph 3 of the selection \u201cBouncing Around.\u201d  \n\nSo, in his garage, Nissen tied heavy canvas to a steel frame.",
+  "options": [
+    {
+      "label": "F",
+      "text": "One day 11-year-old Cassidy Goldstein was trying to work on an art project."
+    },
+    {
+      "label": "G",
+      "text": "She noticed that all of her crayons were broken."
+    },
+    {
+      "label": "H",
+      "text": "Then Cassidy found some plastic tubes used to hold single-cut flowers."
+    },
+    {
+      "label": "J",
+      "text": "She would make her own crayon holders."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "So, in his garage, Nissen tied heavy canvas to a steel frame."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

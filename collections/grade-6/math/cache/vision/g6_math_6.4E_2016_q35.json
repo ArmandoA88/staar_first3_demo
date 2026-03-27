@@ -1,0 +1,30 @@
+{
+  "stem": "The shaded area on the grid represents the part of a rectangular wall that was painted. Each small square on the wall has the same dimensions.",
+  "instruction": "What percentage of the wall was painted?",
+  "options": [
+    {
+      "label": "A",
+      "text": "64%"
+    },
+    {
+      "label": "B",
+      "text": "24%"
+    },
+    {
+      "label": "C",
+      "text": "60%"
+    },
+    {
+      "label": "D",
+      "text": "16%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A rectangular grid with 5 rows and 9 columns is shown. The first 5 columns are shaded. The last 4 columns are not shaded."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

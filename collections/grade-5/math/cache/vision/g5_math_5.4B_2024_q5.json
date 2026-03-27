@@ -1,0 +1,28 @@
+{
+  "stem": "Jeremy has a string that is 84 inches long. He cuts 4 pieces from the string that are each 18 inches long.\n\nWhich equation can be used to find z, the length of the leftover string in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "84 = (18 \u00d7 4) - z"
+    },
+    {
+      "label": "B",
+      "text": "84 = (18 + 4) \u00d7 z"
+    },
+    {
+      "label": "C",
+      "text": "84 = (18 \u00d7 4) + z"
+    },
+    {
+      "label": "D",
+      "text": "84 = (18 \u00d7 4) \u00f7 z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

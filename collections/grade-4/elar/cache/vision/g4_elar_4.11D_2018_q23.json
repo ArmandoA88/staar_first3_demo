@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change then to than"
+    },
+    {
+      "label": "B",
+      "text": "Change will come to have come"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after bridge"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

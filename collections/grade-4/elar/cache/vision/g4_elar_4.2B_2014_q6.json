@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change took to take"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after pen"
+    },
+    {
+      "label": "H",
+      "text": "Change there to their"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

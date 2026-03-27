@@ -1,0 +1,30 @@
+{
+  "stem": "Amy does not want to sit near Trent mainly because he \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "bothers and teases her"
+    },
+    {
+      "label": "B",
+      "text": "tries to talk to her during class"
+    },
+    {
+      "label": "C",
+      "text": "wants to look at her list of scary things"
+    },
+    {
+      "label": "D",
+      "text": "wants to help her take care of the class pet"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

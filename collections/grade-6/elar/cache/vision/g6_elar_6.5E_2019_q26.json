@@ -1,0 +1,30 @@
+{
+  "stem": "Which phrase from \"See It Through\" illustrates that the mother also accomplishes tasks in a creative way?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "mention that my mom is in a wheelchair"
+    },
+    {
+      "label": "G",
+      "text": "a cheerleader on the sideline of my soccer games"
+    },
+    {
+      "label": "H",
+      "text": "strapping herself to some stranger's lap in order to zip-line"
+    },
+    {
+      "label": "J",
+      "text": "mother showed me how to live outside of limits"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Her coach now uses a whistle to keep her centered, and Brown uses a beeper that alerts her when to plant her pole."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

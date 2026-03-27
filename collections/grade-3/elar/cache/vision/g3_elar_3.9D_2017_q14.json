@@ -1,0 +1,33 @@
+{
+  "stem": "Look at the diagram below.\n\nWhich of these completes the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Why It Was Difficult for George\u2019s Owners to Find Him"
+    },
+    {
+      "label": "G",
+      "text": "How George\u2019s Owners Were Able to Locate Him"
+    },
+    {
+      "label": "H",
+      "text": "What George\u2019s Owners Did to Try to Find Him"
+    },
+    {
+      "label": "J",
+      "text": "Where George\u2019s Owners Eventually Found Him"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Searched animal shelters",
+    "Created posters",
+    "Passed out flyers",
+    "Offered money"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

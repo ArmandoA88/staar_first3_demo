@@ -1,0 +1,30 @@
+{
+  "stem": "Which type of figure will always belong in the shaded section of this Venn diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Rectangle"
+    },
+    {
+      "label": "G",
+      "text": "Rhombus"
+    },
+    {
+      "label": "H",
+      "text": "Square"
+    },
+    {
+      "label": "J",
+      "text": "Trapezoid"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with two overlapping sets: left set contains rectangles, right set contains rhombuses, and the shaded overlap area represents figures that share properties of both sets."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

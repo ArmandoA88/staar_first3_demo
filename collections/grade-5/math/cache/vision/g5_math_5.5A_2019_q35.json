@@ -1,0 +1,30 @@
+{
+  "stem": "What is the name of the subset of quadrilaterals missing from Akshar\u2019s mobile?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Hexagon"
+    },
+    {
+      "label": "B",
+      "text": "Polygon"
+    },
+    {
+      "label": "C",
+      "text": "Parallelogram"
+    },
+    {
+      "label": "D",
+      "text": "Triangle"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a mobile with 'Quadrilaterals' at the top branching into two nodes: '?' and 'Trapezoid'. Under '?' are 'Rectangle' and 'Rhombus', and under both of those is 'Square'."
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": "The problem asks to identify the missing subset name for the '?' node in the quadrilateral hierarchy."
+}

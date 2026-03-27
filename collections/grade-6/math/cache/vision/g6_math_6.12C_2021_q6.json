@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the low temperature in degrees Fahrenheit for a city each day for 12 days.\n\nLow Temperatures\n\nTemperature (\u00b0F)\n29\u00b0\n30\u00b0\n35\u00b0\n40\u00b0\n42\u00b0\n59\u00b0\n60\u00b0\n59\u00b0\n49\u00b0\n43\u00b0\n38\u00b0\n32\u00b0\n\nWhat is the range of the temperatures in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "41\u00b0"
+    },
+    {
+      "label": "G",
+      "text": "43\u00b0"
+    },
+    {
+      "label": "H",
+      "text": "31\u00b0"
+    },
+    {
+      "label": "J",
+      "text": "59\u00b0"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table of temperatures: 29\u00b0, 30\u00b0, 35\u00b0, 40\u00b0, 42\u00b0, 59\u00b0, 60\u00b0, 59\u00b0, 49\u00b0, 43\u00b0, 38\u00b0, 32\u00b0"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "stem": "Based on the table, in which environment is each animal MOST LIKELY found?",
+  "instruction": "Move the correct answer to each box in the table.",
+  "options": [],
+  "choice_pool": [
+    "Arctic",
+    "Desert",
+    "Prairie",
+    "Ocean",
+    "Wetlands"
+  ],
+  "response_template": "Fennec fox [blank_1]\nBadger [blank_2]\nHare [blank_3]",
+  "visual_elements": [
+    "Table with three columns: Fennec Fox, Badger, Hare",
+    "Row 1 Image: Fennec Fox image, Badger image, Hare image",
+    "Row 2 Adaptations: Fennec Fox - Large ears for cooling, Light color fur for camouflage; Badger - Sharp claws to dig burrows, Flattens body to get through soil; Hare - Thick fur, Small body to save heat",
+    "Drag and drop words: Arctic, Desert, Prairie, Ocean, Wetlands",
+    "Table for answer placement with Animal column and Environment column with blank boxed spaces"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

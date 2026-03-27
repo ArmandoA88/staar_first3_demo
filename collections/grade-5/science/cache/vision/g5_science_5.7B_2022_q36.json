@@ -1,0 +1,28 @@
+{
+  "stem": "Students conduct experiments to investigate friction. Which experiment will best test the effect of friction on objects?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Drop two balls from the same height at the same time"
+    },
+    {
+      "label": "G",
+      "text": "Roll two marbles on the carpet from the same starting point at the same time and with the same amount of force"
+    },
+    {
+      "label": "H",
+      "text": "Roll three marbles across three different surfaces from the same starting point at the same time and with the same amount of force"
+    },
+    {
+      "label": "J",
+      "text": "Release two balls from the top of a ramp at the same time"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "What is the most likely reason the playwright includes line 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show that Jude is bored at the antique shop"
+    },
+    {
+      "label": "B",
+      "text": "To show that Jude needs help from Grandpa Sam"
+    },
+    {
+      "label": "C",
+      "text": "To show that Jude tries to enjoy his time with Grandpa Sam"
+    },
+    {
+      "label": "D",
+      "text": "To show that Jude is lost inside the antique shop"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the most likely reason the playwright includes line 15?",
+    "A To show that Jude is bored at the antique shop",
+    "B To show that Jude needs help from Grandpa Sam",
+    "C To show that Jude tries to enjoy his time with Grandpa Sam",
+    "D To show that Jude is lost inside the antique shop"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "The sections in the article \u201cPictures of a Disappearing Past\u201d are included to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "describe the process of herding cattle"
+    },
+    {
+      "label": "B",
+      "text": "tell where the two artists worked"
+    },
+    {
+      "label": "C",
+      "text": "show when the photographs were taken"
+    },
+    {
+      "label": "D",
+      "text": "give key information about the two artists"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The sections in the article \u201cPictures of a Disappearing Past\u201d are included to \u2014",
+    "A describe the process of herding cattle",
+    "B tell where the two artists worked",
+    "C show when the photographs were taken",
+    "D give key information about the two artists"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

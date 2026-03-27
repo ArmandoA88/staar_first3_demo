@@ -1,0 +1,34 @@
+{
+  "stem": "An inequality is shown.\n\n9w < 108\n\nWhat is the solution to this inequality?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "w > \\frac{1}{12}"
+    },
+    {
+      "label": "B",
+      "text": "w < 12"
+    },
+    {
+      "label": "C",
+      "text": "w < \\frac{1}{12}"
+    },
+    {
+      "label": "D",
+      "text": "w > 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "9w < 108",
+    "w > 1/12",
+    "w < 12",
+    "w < 1/12",
+    "w > 12"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

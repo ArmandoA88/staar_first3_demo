@@ -1,0 +1,28 @@
+{
+  "stem": "What is the value of the expression shown?\n\n35 - (-110) \u00f7 5 \u22c5 2",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-9"
+    },
+    {
+      "label": "B",
+      "text": "46"
+    },
+    {
+      "label": "C",
+      "text": "79"
+    },
+    {
+      "label": "D",
+      "text": "-30"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

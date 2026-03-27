@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 10 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change its to it\u2019s"
+    },
+    {
+      "label": "G",
+      "text": "Change leans to leaned"
+    },
+    {
+      "label": "H",
+      "text": "Change a to an"
+    },
+    {
+      "label": "J",
+      "text": "Insert a comma after tree"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

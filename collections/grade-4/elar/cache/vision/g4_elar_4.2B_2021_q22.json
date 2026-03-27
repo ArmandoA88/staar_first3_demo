@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 32 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change It's to Its"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after cliffs"
+    },
+    {
+      "label": "H",
+      "text": "Change colorfull to colorful"
+    },
+    {
+      "label": "J",
+      "text": "Change the period to a question mark"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,17 @@
+{
+  "stem": "Sentence 7 contains an error. Select the response that corrects the error.\n\nIn 1845 Texas [blank_1] the 28th state of the United States.",
+  "instruction": null,
+  "options": [],
+  "choice_pool": [
+    "was",
+    "is",
+    "were"
+  ],
+  "response_template": "In 1845 Texas [blank_1] the 28th state of the United States.",
+  "visual_elements": [
+    "dropdown"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

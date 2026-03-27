@@ -1,0 +1,31 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A hawk named Pale Male and his mate built a nest near Central Park. Before long, they were raising baby hawks in their nest. Some people had a problem with the hawks and wanted the family of birds to find a new home."
+    },
+    {
+      "label": "G",
+      "text": "People were happy when a hawk chose to make his home in a city where hawks are not commonly seen. Some residents living near Central Park were upset when the hawk and his mate built a nest on their building. Finally New Yorkers found a solution that worked for humans and hawks."
+    },
+    {
+      "label": "H",
+      "text": "Some people in New York City were upset about a hawk family that lived near them. After they complained, building owners tried to make the hawks move away from Central Park. But the hawks rebuilt a nest in the same place."
+    },
+    {
+      "label": "J",
+      "text": "A hawk named Pale Male found a mate and built a nest near Central Park. Soon the hawks had a family. The bird-watchers in the area were thrilled to have a hawk family to observe. They cheered while viewing the hawks and wanted to help them stay."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q24 Passage #3",
+    "24"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

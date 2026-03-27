@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change It\u2019s to Its"
+    },
+    {
+      "label": "B",
+      "text": "Insert it after outside"
+    },
+    {
+      "label": "C",
+      "text": "Change hardest to hard"
+    },
+    {
+      "label": "D",
+      "text": "Change times to time"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Lettered answer choices"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, should be made in sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change quite to quiet"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma after inside"
+    },
+    {
+      "label": "H",
+      "text": "Change and using to she uses"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 11 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q18 Passage #4"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

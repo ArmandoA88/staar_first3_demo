@@ -1,0 +1,30 @@
+{
+  "stem": "A barrel contained 60 gallons of water. Water leaked out of the barrel at a rate of 5 gallons every 3 days.\n\nAt this rate, how many days did it take for all 60 gallons of water to leak out of the barrel?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "20 days"
+    },
+    {
+      "label": "G",
+      "text": "12 days"
+    },
+    {
+      "label": "H",
+      "text": "100 days"
+    },
+    {
+      "label": "J",
+      "text": "36 days"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "barrel with water leaking"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, should be made in sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It was night after night, and he just kept coming back again."
+    },
+    {
+      "label": "B",
+      "text": "Night after night, coming back is what he just kept doing."
+    },
+    {
+      "label": "C",
+      "text": "It was night after night of coming back, and he just kept coming."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

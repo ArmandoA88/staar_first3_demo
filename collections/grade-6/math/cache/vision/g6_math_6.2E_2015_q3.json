@@ -1,0 +1,31 @@
+{
+  "stem": "Which two expressions each represent \\( \\frac{3}{12} \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3\\overline{)12} and 3 \\div 12"
+    },
+    {
+      "label": "B",
+      "text": "12\\overline{)3} and 12 \\div 3"
+    },
+    {
+      "label": "C",
+      "text": "12\\overline{)3} and 3 \\div 12"
+    },
+    {
+      "label": "D",
+      "text": "3\\overline{)12} and 12 \\div 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3\\overline{)12}",
+    "12\\overline{)3}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

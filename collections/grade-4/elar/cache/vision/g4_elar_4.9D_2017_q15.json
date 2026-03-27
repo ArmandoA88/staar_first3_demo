@@ -1,0 +1,30 @@
+{
+  "stem": "What information is included in the section titled \u201cA Talented Fund-Raiser\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Some of the causes that Ricochet has helped"
+    },
+    {
+      "label": "B",
+      "text": "A description of how Ricochet learned to surf"
+    },
+    {
+      "label": "C",
+      "text": "An explanation of why Ricochet could not be a service dog"
+    },
+    {
+      "label": "D",
+      "text": "A story about the first time Ricochet surfed to raise money"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

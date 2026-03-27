@@ -1,0 +1,31 @@
+{
+  "stem": "The stem and leaf plot shows the ages of riders on a roller coaster.\n\n          Ages of Roller\n          Coaster Riders\n    Stem | Leaf\n    1    | 0 3 4 4 8 9\n    2    | 1 1 1 4 7\n    3    | 4 5 8\n    4    | 2 6 9\n    5    | 0 2 3 7\n    6    | 2\n    7    | 0 4\n\n3|5 means 35 years.\n\nBased on the stem and leaf plot, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There were more riders between 10 and 38 years of age than there were between 42 and 74 years of age."
+    },
+    {
+      "label": "B",
+      "text": "There were more riders 14 years of age than riders of any other single age."
+    },
+    {
+      "label": "C",
+      "text": "There were 31 riders on the roller coaster."
+    },
+    {
+      "label": "D",
+      "text": "There were exactly 3 riders over the age of 50 years."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Stem and leaf plot with stems 1 to 7 and corresponding leaves showing riders' ages",
+    "Text box explaining 3|5 means 35 years"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

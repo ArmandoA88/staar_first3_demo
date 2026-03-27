@@ -1,0 +1,28 @@
+{
+  "stem": "Which equation is true when x = 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2x = 10"
+    },
+    {
+      "label": "B",
+      "text": "3x = 35"
+    },
+    {
+      "label": "C",
+      "text": "x - 3 = 8"
+    },
+    {
+      "label": "D",
+      "text": "x - 5 = -10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

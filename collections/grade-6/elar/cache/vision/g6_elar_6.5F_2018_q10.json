@@ -1,0 +1,30 @@
+{
+  "stem": "These lines are included to suggest that the speaker \u2014",
+  "instruction": "Read lines 23 and 24 of the poem.",
+  "options": [
+    {
+      "label": "F",
+      "text": "wishes he could be taller than he is"
+    },
+    {
+      "label": "G",
+      "text": "is embarrassed by the name Abuelita calls him"
+    },
+    {
+      "label": "H",
+      "text": "thinks Abuelita is very amusing"
+    },
+    {
+      "label": "J",
+      "text": "enjoys making Abuelita feel proud of him"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\u201cYou are so big! My big boy!\u201d And I laugh and stand on my toes to be even bigger."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

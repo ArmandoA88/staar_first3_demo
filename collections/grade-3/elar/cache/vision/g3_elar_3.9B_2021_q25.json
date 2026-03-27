@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best describes the stanzas of the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Each stanza contains lines that rhyme."
+    },
+    {
+      "label": "B",
+      "text": "Each stanza creates an image for the reader."
+    },
+    {
+      "label": "C",
+      "text": "Each stanza describes a new event for the reader."
+    },
+    {
+      "label": "D",
+      "text": "Each stanza repeats important lines."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

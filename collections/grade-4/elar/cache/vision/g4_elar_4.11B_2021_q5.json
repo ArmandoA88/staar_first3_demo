@@ -1,0 +1,28 @@
+{
+  "stem": "Jake has included an unnecessary sentence in the second paragraph (sentences 5\u20139). Which sentence should be deleted from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 5"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 7"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 8"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 9"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

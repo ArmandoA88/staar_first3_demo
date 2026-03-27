@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph of people around the ice-cream maker suggests that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "it takes several hours to make ice cream with such a machine"
+    },
+    {
+      "label": "B",
+      "text": "making ice cream can be a family activity"
+    },
+    {
+      "label": "C",
+      "text": "the process of making ice cream has not changed for hundreds of years"
+    },
+    {
+      "label": "D",
+      "text": "using such a machine is difficult"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph of people around an ice-cream maker"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

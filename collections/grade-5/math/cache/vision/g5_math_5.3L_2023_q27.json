@@ -1,0 +1,31 @@
+{
+  "stem": "A recipe for a batch of cookies calls for \\( \\frac{1}{4} \\) teaspoon of salt. A container of salt has a total of 12 teaspoons of salt.\n\nHow many batches of cookies can be made using all the salt in this container?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3"
+    },
+    {
+      "label": "B",
+      "text": "48"
+    },
+    {
+      "label": "C",
+      "text": "16"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{1}{4} \\)",
+    "12"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

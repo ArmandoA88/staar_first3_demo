@@ -1,0 +1,32 @@
+{
+  "stem": "A student is looking directly at a lit nightlight through two different cardboard tubes as shown.\n\nThrough which tube, if any, will the light be seen and why?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The bent tube only because the light bounces off the sides of the tube and travels through the tube to the student's eye"
+    },
+    {
+      "label": "B",
+      "text": "The straight tube only because the light travels in a straight line directly to the student's eye"
+    },
+    {
+      "label": "C",
+      "text": "Both tubes because light travels equally well along straight and curved paths"
+    },
+    {
+      "label": "D",
+      "text": "Neither tube because both tubes absorb all of the light"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bent tube labeled tube held by student looking at light",
+    "Straight tube labeled tube held by student looking at light",
+    "Lit nightlight on table"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these best summarizes the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A cat named Dusty has become famous for taking items from neighbors. He has appeared on the Late Show with David Letterman, Must Love Cats, and YouTube. He also appears in parades and fashion shows."
+    },
+    {
+      "label": "G",
+      "text": "A cat named Dusty is popular with his neighbors because he takes their items. He sneaks out at night and brings the objects back to his owner's house. He has been caught on video by a television crew."
+    },
+    {
+      "label": "H",
+      "text": "Dusty, a recently adopted cat, began to roam around his neighborhood in California every night. Before long he began to steal things from the neighbors. He stole hundreds of items before being caught."
+    },
+    {
+      "label": "J",
+      "text": "Dusty, a cat in California, has a habit of bringing home items he finds around his neighborhood. One night a crew working for a television show filmed him bringing home an item of clothing. He has since become famous and appeared elsewhere on television."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q8 Passage #1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

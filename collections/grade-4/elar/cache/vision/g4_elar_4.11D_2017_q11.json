@@ -1,0 +1,35 @@
+{
+  "stem": "What is the correct way to write sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Lady Liberty was designed in France. Because she was made out of copper and steel."
+    },
+    {
+      "label": "B",
+      "text": "Lady Liberty was designed in France and made out of copper and steel."
+    },
+    {
+      "label": "C",
+      "text": "Lady Liberty was designed in France. And made out of copper and steel."
+    },
+    {
+      "label": "D",
+      "text": "Sentence 8 is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q11 Passage #3",
+    "11 What is the correct way to write sentence 8?",
+    "A Lady Liberty was designed in France. Because she was made out of copper and steel.",
+    "B Lady Liberty was designed in France and made out of copper and steel.",
+    "C Lady Liberty was designed in France. And made out of copper and steel.",
+    "D Sentence 8 is written correctly in the paper."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

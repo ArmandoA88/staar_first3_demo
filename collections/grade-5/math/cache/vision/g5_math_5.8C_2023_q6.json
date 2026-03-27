@@ -1,0 +1,31 @@
+{
+  "stem": "An airline charges passengers a fee for each bag taken on the plane. The graph shows the relationship between the amount of money in dollars and the number of bags taken on the plane.\n\n[Graph titled \"Airline Baggage Fees\" with x-axis labeled \"Number of Bags\" showing values from 0 to 7, and y-axis labeled \"Charge (dollars)\" showing values from 0 to 140. Points plotted approximately at (2, 50), (3, 100), and (5, 145).]\n\nWhich table is best represented by the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Airline Baggage Fees\n\nNumber of Bags  45  100  145\nCharge (dollars)  2  4  6"
+    },
+    {
+      "label": "B",
+      "text": "Airline Baggage Fees\n\nNumber of Bags  2  4  6\nCharge (dollars)  45  100  145"
+    },
+    {
+      "label": "C",
+      "text": "Airline Baggage Fees\n\nNumber of Bags  50  100  150\nCharge (dollars)  2  4  6"
+    },
+    {
+      "label": "D",
+      "text": "Airline Baggage Fees\n\nNumber of Bags  2  4  6\nCharge (dollars)  50  100  150"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled \"Airline Baggage Fees\" with x-axis labeled \"Number of Bags\" showing values 0 to 7 and y-axis labeled \"Charge (dollars)\" showing values 0 to 140. Points at (2, 50), (3, 100), (5, 145).",
+    "Four tables labeled A, B, C, D each with Number of Bags and Charge (dollars) rows as described in options text."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

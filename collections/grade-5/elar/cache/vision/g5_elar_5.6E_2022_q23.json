@@ -1,0 +1,30 @@
+{
+  "stem": "In what way does the audience in the poem \u201cAssembly\u201d DIFFER from the audience dog in the selection \u201cPublic Speaking Is Easier When a Cute Dog Is Listening\u201d?",
+  "instruction": "Use \u201cPublic Speaking Is Easier When a Cute Dog Is Listening\u201d and \u201cAssembly\u201d to answer the following question.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Only the audience in the poem encourages students to prepare for the performance."
+    },
+    {
+      "label": "B",
+      "text": "Only the audience in the poem listens during the performance."
+    },
+    {
+      "label": "C",
+      "text": "Only the audience in the poem is given a reward for listening to the performance."
+    },
+    {
+      "label": "D",
+      "text": "Only the audience in the poem shows disruptive behavior before the performance begins."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

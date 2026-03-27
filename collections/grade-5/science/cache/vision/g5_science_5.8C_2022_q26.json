@@ -1,0 +1,30 @@
+{
+  "stem": "A student makes the model shown with objects representing the sun, Earth, and the moon to use in a class demonstration.\n\nWhich action should the student do with the objects to demonstrate a complete day-night cycle of Earth?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Move the moon around Earth once"
+    },
+    {
+      "label": "G",
+      "text": "Spin the sun in a circle once"
+    },
+    {
+      "label": "H",
+      "text": "Move Earth around the sun once"
+    },
+    {
+      "label": "J",
+      "text": "Spin Earth in a circle once"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Light arrows from sun to Earth"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

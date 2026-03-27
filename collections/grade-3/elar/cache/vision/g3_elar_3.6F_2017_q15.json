@@ -1,0 +1,30 @@
+{
+  "stem": "Once the chip is in place, the pet does not feel it anymore.\n\nThis sentence helps the reader infer \u2014",
+  "instruction": "Read this sentence from paragraph 2.",
+  "options": [
+    {
+      "label": "A",
+      "text": "where microchips are located"
+    },
+    {
+      "label": "B",
+      "text": "that microchips do not bother pets"
+    },
+    {
+      "label": "C",
+      "text": "how microchips are inserted"
+    },
+    {
+      "label": "D",
+      "text": "that microchips are helpful for pets"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Once the chip is in place, the pet does not feel it anymore."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

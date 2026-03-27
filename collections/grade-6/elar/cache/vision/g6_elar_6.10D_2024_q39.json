@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change By to From"
+    },
+    {
+      "label": "B",
+      "text": "Change reach to reached"
+    },
+    {
+      "label": "C",
+      "text": "Change their to there"
+    },
+    {
+      "label": "D",
+      "text": "Delete the comma after day"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change uncle to Uncle"
+    },
+    {
+      "label": "B",
+      "text": "Change worked to working"
+    },
+    {
+      "label": "C",
+      "text": "Change on to at"
+    },
+    {
+      "label": "D",
+      "text": "Change as to he was"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text box with multiple choice answers labeled A-D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

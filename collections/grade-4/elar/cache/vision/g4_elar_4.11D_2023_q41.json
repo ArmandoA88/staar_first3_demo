@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after gooey"
+    },
+    {
+      "label": "B",
+      "text": "Change stretchy to strechy"
+    },
+    {
+      "label": "C",
+      "text": "Change and to but"
+    },
+    {
+      "label": "D",
+      "text": "Change with to by"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change should be made in sentence 7?\n\nA Insert a comma after gooey\n\nB Change stretchy to strechy\n\nC Change and to but\n\nD Change with to by"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

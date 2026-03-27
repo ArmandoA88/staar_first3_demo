@@ -1,0 +1,30 @@
+{
+  "stem": "This information helps the reader understand that devastated in paragraph 1 means \u2014",
+  "instruction": "Read the origin of the word devastate.",
+  "options": [
+    {
+      "label": "A",
+      "text": "ruined"
+    },
+    {
+      "label": "B",
+      "text": "empty"
+    },
+    {
+      "label": "C",
+      "text": "harsh"
+    },
+    {
+      "label": "D",
+      "text": "remote"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "from Latin de- + vastare, meaning \u201cto lay waste\u201d"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "stem": "The P\u00e9rez family has a net income of $3,620 each month. The table shows the P\u00e9rez family\u2019s expenses for a month. The amount of money put into savings is missing.\n\nP\u00e9rez Family Expenses\n\n| Expense       | Amount (dollars) |\n|---------------|------------------|\n| House payment | 1,150            |\n| Utilities     | 425              |\n| Food          | 600              |\n| Entertainment | 450              |\n| Car payment   | 285              |\n| Savings       |                  |\n\nWhat is the greatest amount of money that the P\u00e9rez family can put into savings each month and still have a balanced budget?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$720"
+    },
+    {
+      "label": "B",
+      "text": "$600"
+    },
+    {
+      "label": "C",
+      "text": "$710"
+    },
+    {
+      "label": "D",
+      "text": "$1,310"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing expenses and amounts for P\u00e9rez Family:",
+    "House payment 1,150",
+    "Utilities 425",
+    "Food 600",
+    "Entertainment 450",
+    "Car payment 285",
+    "Savings (blank)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "collection_root": "collections/grade-3/elar",
+  "pdf_pages": 328,
+  "pages_with_items": 237,
+  "pages_without_items": 91,
+  "two_item_pages": 194,
+  "total_detected_segments": 431,
+  "catalog_item_count": 420,
+  "catalog_json_items": 420,
+  "all_detected_items_present_in_catalog": true,
+  "all_catalog_items_present_in_pdf_detection": true,
+  "all_catalog_images_exist": true,
+  "duplicate_detected_ids": [
+    "g3_elar_3.12B_2024_q25",
+    "g3_elar_3.12C_2023_q25",
+    "g3_elar_3.6E_2024_q14",
+    "g3_elar_3.6E_2024_q15",
+    "g3_elar_3.6E_2024_q16",
+    "g3_elar_3.6E_2024_q17",
+    "g3_elar_3.6E_2025_q22",
+    "g3_elar_3.6E_2025_q23",
+    "g3_elar_3.6E_2025_q24",
+    "g3_elar_3.7B_2025_q25"
+  ],
+  "missing_from_catalog": [],
+  "missing_from_pdf_detection": [],
+  "missing_images": [],
+  "first_item_page": 5,
+  "last_item_page": 327
+}

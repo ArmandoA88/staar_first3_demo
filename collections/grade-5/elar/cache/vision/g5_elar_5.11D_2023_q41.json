@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change attached to attaches"
+    },
+    {
+      "label": "B",
+      "text": "Change packit to packet"
+    },
+    {
+      "label": "C",
+      "text": "Change of to in"
+    },
+    {
+      "label": "D",
+      "text": "Change would give to would have given"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

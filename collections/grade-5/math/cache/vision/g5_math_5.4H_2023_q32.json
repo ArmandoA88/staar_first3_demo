@@ -1,0 +1,33 @@
+{
+  "stem": "A student built a rectangular prism using cubes that each had a volume of 1 cubic inch.\n\n\u2022 The volume of the rectangular prism was 96 cubic inches.\n\n\u2022 The height of the rectangular prism was 6 inches.\n\nWhich model could represent the base of this rectangular prism?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image_A showing a base model made of 24 cubes arranged in 4 by 6 grid",
+    "image_B showing a base model made of 48 cubes arranged in 8 by 6 grid",
+    "image_C showing a base model made of 12 cubes arranged in 3 by 4 grid",
+    "image_D showing a base model made of 16 cubes arranged in 4 by 4 grid"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Answer choices are images rather than text; labels preserved as A, B, C, D."
+}

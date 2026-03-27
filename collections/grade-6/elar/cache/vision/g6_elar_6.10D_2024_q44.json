@@ -1,0 +1,33 @@
+{
+  "stem": "His sister [blank_1] the band, and Nana made tuba cookies.",
+  "instruction": "Select the response that corrects the error in sentence 4.",
+  "options": [
+    {
+      "label": "A",
+      "text": "play"
+    },
+    {
+      "label": "B",
+      "text": "plays"
+    },
+    {
+      "label": "C",
+      "text": "playing"
+    },
+    {
+      "label": "D",
+      "text": "played"
+    }
+  ],
+  "choice_pool": [
+    "play",
+    "plays",
+    "playing",
+    "played"
+  ],
+  "response_template": "His sister [blank_1] the band, and Nana made tuba cookies.",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

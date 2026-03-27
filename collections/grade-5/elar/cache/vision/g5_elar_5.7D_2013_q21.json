@@ -1,0 +1,31 @@
+{
+  "stem": "The poem is mostly about a speaker who \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "is chosen for a role in a play that he doesn\u2019t understand"
+    },
+    {
+      "label": "B",
+      "text": "has trouble with his lines after seeing his classmates in the audience"
+    },
+    {
+      "label": "C",
+      "text": "experiences problems onstage but is able to finish his performance"
+    },
+    {
+      "label": "D",
+      "text": "can hardly wait to be onstage because he has practiced so much"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q21 Passage #3A",
+    "21"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

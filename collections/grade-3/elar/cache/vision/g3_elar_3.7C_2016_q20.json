@@ -1,0 +1,30 @@
+{
+  "stem": "The author wrote this article most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "encourage the reader to participate in triathlons"
+    },
+    {
+      "label": "G",
+      "text": "tell the reader about the events included in a triathlon"
+    },
+    {
+      "label": "H",
+      "text": "share information about two brothers who participate in triathlons together"
+    },
+    {
+      "label": "J",
+      "text": "explain how two brothers found a coach to help them prepare for a triathlon"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q20 Passage #3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

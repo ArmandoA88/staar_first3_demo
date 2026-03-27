@@ -1,0 +1,45 @@
+{
+  "stem": "The shaded part of the model represents a fraction. The X in the model represents another fraction that was subtracted from the first fraction.\n\nWhat subtraction expression does the model represent?",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "\\frac{1}{2}"
+    },
+    {
+      "label": null,
+      "text": "\\frac{1}{3}"
+    },
+    {
+      "label": null,
+      "text": "\\frac{1}{4}"
+    },
+    {
+      "label": null,
+      "text": "\\frac{1}{6}"
+    },
+    {
+      "label": null,
+      "text": "\\frac{2}{3}"
+    },
+    {
+      "label": null,
+      "text": "\\frac{3}{4}"
+    }
+  ],
+  "choice_pool": [
+    "\\frac{1}{2}",
+    "\\frac{1}{3}",
+    "\\frac{1}{4}",
+    "\\frac{1}{6}",
+    "\\frac{2}{3}",
+    "\\frac{3}{4}"
+  ],
+  "response_template": "[blank_1] - [blank_2]",
+  "visual_elements": [
+    "circle divided into three parts, two shaded and one labeled 'X' in shaded part"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.98,
+  "notes": "The problem is a drag and drop requiring two fractions to fill the subtraction expression based on visual fraction model."
+}

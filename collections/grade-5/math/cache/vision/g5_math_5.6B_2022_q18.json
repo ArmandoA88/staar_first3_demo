@@ -1,0 +1,30 @@
+{
+  "stem": "The figure shows the base layer of a rectangular prism that Sophie built using blocks.\n\n\u2022 The prism was made by stacking 10 layers of the blocks.\n\u2022 Each layer was identical to the base layer.\n\u2022 Each block has a volume of 1 cubic unit.\n\nWhat is the volume of the rectangular prism that Sophie built?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "150 cubic units"
+    },
+    {
+      "label": "G",
+      "text": "40 cubic units"
+    },
+    {
+      "label": "H",
+      "text": "180 cubic units"
+    },
+    {
+      "label": "J",
+      "text": "300 cubic units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "base layer rectangular prism diagram with 15 blocks"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement describes a difference between the story \u201cPeace and Quiet\u201d and the poem \u201cMaple Street\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "In the story, Desha shares thoughts about people who live in her house.\nIn the poem, the speaker expresses thoughts about people who live in the neighborhood."
+    },
+    {
+      "label": "B",
+      "text": "In the story, Desha has found a secret location that her brother told her about.\nIn the poem, the speaker is worried about not having a place to spend time alone."
+    },
+    {
+      "label": "C",
+      "text": "In the story, Desha visits a place for the first time.\nIn the poem, the speaker goes to a place that is very familiar."
+    },
+    {
+      "label": "D",
+      "text": "In the story, Desha is concerned about an event that is planned for the future.\nIn the poem, the speaker is concerned about an event that happened in the past."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Pacy and her family are flying on an airplane. They will be away from home for 28 days. Pacy feels like her trip will take all summer."
+    },
+    {
+      "label": "G",
+      "text": "Pacy and her two sisters are wearing matching pink dresses. They are going on a long trip to Taiwan. Their father says Taiwan is an island of treasure."
+    },
+    {
+      "label": "H",
+      "text": "Pacy and her family are flying to Taiwan for a vacation. Pacy's parents are from Taiwan. The parents are excited about showing their family where they are from, but Pacy would rather be somewhere else."
+    },
+    {
+      "label": "J",
+      "text": "Pacy and her family are taking a long family vacation. Pacy's father talks about their trip. Pacy worries about being away from home for such a long time and wishes they were going to see her friend instead."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The table represents a relationship between x and y.\n\n|  x  |  y  |\n|-----|-----|\n|  5  | 22  |\n| 10  | 27  |\n| 15  | 32  |\n| 20  | 37  |\n\nThe relationship between the x-values and y-values creates a pattern that is \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "additive, because each x-value increases by 5"
+    },
+    {
+      "label": "B",
+      "text": "additive, because each y-value is determined by adding 17 to the corresponding x-value"
+    },
+    {
+      "label": "C",
+      "text": "multiplicative, because each y-value is determined by multiplying the corresponding x-value by 17"
+    },
+    {
+      "label": "D",
+      "text": "multiplicative, because each x-value is a multiple of 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with headers 'x' and 'y'\nvalues under x: 5, 10, 15, 20\nvalues under y: 22, 27, 32, 37"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

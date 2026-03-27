@@ -1,0 +1,30 @@
+{
+  "stem": "In the diagram shown each circle represents a group of polygons. If a polygon belongs in a circle, it also belongs in any larger circle.\n\n[Diagram: Three concentric circles, labeled from largest to smallest as Quadrilaterals, Parallelograms, Rectangles. The smallest circle (Rectangles) is shaded.]\n\nWhich kind of polygon belongs in the shaded circle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Trapezoids"
+    },
+    {
+      "label": "B",
+      "text": "Squares"
+    },
+    {
+      "label": "C",
+      "text": "Pentagons"
+    },
+    {
+      "label": "D",
+      "text": "Rhombuses"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with three concentric circles labeled Quadrilaterals, Parallelograms, Rectangles; the smallest circle (Rectangles) is shaded"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

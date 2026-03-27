@@ -1,0 +1,31 @@
+{
+  "stem": "What is the most likely reason the author includes the map in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To show that the monarch population that flies south is not the same generation that flies north"
+    },
+    {
+      "label": "G",
+      "text": "To illustrate how monarch migration routes are affected by the availability of milkweed"
+    },
+    {
+      "label": "H",
+      "text": "To show why the monarch population has been decreasing over the years"
+    },
+    {
+      "label": "J",
+      "text": "To highlight that monarchs tend to use the same routes year after year"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map titled 'Monarch Butterfly Migration Chart' showing United States, Mexico, and Canada with arrows representing fall and spring paths of monarch butterflies.",
+    "Key explaining arrow styles for fall and spring paths of monarch butterflies."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,26 @@
+{
+  "stem": "Twelve friends went bowling. Their scores are listed in the table.\n\n                    Bowling Scores\n              \u250c\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2510\n              \u2502 202 \u2502 196 \u2502 280 \u2502 176 \u2502\n              \u251c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2524\n              \u2502 255 \u2502 190 \u2502 200 \u2502 300 \u2502\n              \u251c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2524\n              \u2502 207 \u2502 230 \u2502 240 \u2502 247 \u2502\n              \u2514\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2518\n\nComplete the histogram to represent the bowling scores.\n\nSelect the correct height for each bar in the graph.",
+  "instruction": "Select the correct height for each bar in the graph.",
+  "options": [
+    {
+      "label": "151\u2013200",
+      "text": "5"
+    },
+    {
+      "label": "201\u2013250",
+      "text": "6"
+    },
+    {
+      "label": "251\u2013300",
+      "text": "3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Histogram with x-axis labels: 151\u2013200, 201\u2013250, 251\u2013300; y-axis labeled Number of Bowlers from 0 to 10; title Bowling Scores"
+  ],
+  "item_type_inferred": "Graphing",
+  "confidence": 0.99,
+  "notes": null
+}

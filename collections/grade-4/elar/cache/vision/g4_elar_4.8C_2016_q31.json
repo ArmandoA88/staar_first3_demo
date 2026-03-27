@@ -1,0 +1,30 @@
+{
+  "stem": "What can the reader tell about Pacy based on these details?",
+  "instruction": "Read paragraph 7.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Pacy does not want to go anywhere without Melody."
+    },
+    {
+      "label": "B",
+      "text": "Pacy thinks the whole family wants to visit her friend Melody."
+    },
+    {
+      "label": "C",
+      "text": "Pacy thinks she should be able to decide where the family goes."
+    },
+    {
+      "label": "D",
+      "text": "Pacy does not understand why her parents are taking the family to Taiwan."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"Yeah, but why does it have to be a trip to Taiwan?\" I asked. \"Why couldn't it be a trip to Hawaii? Or California? At least then we could've seen Melody!\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,1489 @@
+const STORAGE_KEY = "staar-teacher-builder-v1";
+const PRESET_TITLES = {
+  hardest_test: "Hardest Test",
+  easier_test: "Easier Test",
+  beginning_of_year: "Beginning of Year Review",
+  easy_only: "Easy Questions Only",
+  hard_only: "Harder Questions Only",
+  latest_only: "Latest Questions Only",
+};
+const DEFAULT_THEME = {
+  bgStart: "#f8f2e8",
+  bgEnd: "#eef3f5",
+  burstA: "#d6e2e9",
+  burstB: "#efdcc2",
+  panelStrong: "#fffaf0",
+  accent: "#0f6c7d",
+  ink: "#163042",
+  muted: "#576977",
+};
+const SUBJECT_THEME_DEFAULTS = {
+  Math: {
+    bgStart: "#f5f1dc",
+    bgEnd: "#e5f1f6",
+    burstA: "#b8dbe6",
+    burstB: "#f0d4a7",
+    panelStrong: "#fffbf1",
+    accent: "#11758b",
+    ink: "#153241",
+    muted: "#566e7b",
+  },
+  ELAR: {
+    bgStart: "#f7eee5",
+    bgEnd: "#ece2d7",
+    burstA: "#dcc4b0",
+    burstB: "#ead6c0",
+    panelStrong: "#fff8f1",
+    accent: "#985731",
+    ink: "#382c29",
+    muted: "#685954",
+  },
+  Science: {
+    bgStart: "#eef4e0",
+    bgEnd: "#e0efe6",
+    burstA: "#bfdab4",
+    burstB: "#d9e8c1",
+    panelStrong: "#f9fdf4",
+    accent: "#3a7d4b",
+    ink: "#1f3728",
+    muted: "#597060",
+  },
+  "Social Studies": {
+    bgStart: "#f4eadb",
+    bgEnd: "#e6e2d6",
+    burstA: "#d9c2a4",
+    burstB: "#d5d4ba",
+    panelStrong: "#fff9f3",
+    accent: "#8b5d33",
+    ink: "#3a3027",
+    muted: "#6d6155",
+  },
+};
+const COLLECTION_THEME_PRESETS = {
+  "Math-3": {
+    bgStart: "#f8f1dd",
+    bgEnd: "#e7f3f6",
+    burstA: "#bbdbe8",
+    burstB: "#f2d2a0",
+    panelStrong: "#fffbf1",
+    accent: "#0f6c7d",
+    ink: "#163042",
+    muted: "#576977",
+  },
+  "Math-4": {
+    bgStart: "#edf5df",
+    bgEnd: "#e1edf8",
+    burstA: "#b5d7e7",
+    burstB: "#cfe2b0",
+    panelStrong: "#f8fcf4",
+    accent: "#1d6f99",
+    ink: "#17354a",
+    muted: "#58707f",
+  },
+  "Math-5": {
+    bgStart: "#eef1de",
+    bgEnd: "#e5ebf8",
+    burstA: "#c3d7f0",
+    burstB: "#d8e2b1",
+    panelStrong: "#fbfcf4",
+    accent: "#355fa8",
+    ink: "#1f3556",
+    muted: "#5d6f86",
+  },
+  "Math-6": {
+    bgStart: "#edf1e2",
+    bgEnd: "#dde8f6",
+    burstA: "#b8d2ec",
+    burstB: "#d5e1b7",
+    panelStrong: "#fafcf4",
+    accent: "#3d5fa1",
+    ink: "#213655",
+    muted: "#607287",
+  },
+  "ELAR-3": {
+    bgStart: "#f9efe2",
+    bgEnd: "#efe2d5",
+    burstA: "#dcc3ad",
+    burstB: "#edd6bf",
+    panelStrong: "#fff8f1",
+    accent: "#9d5a2f",
+    ink: "#3d2f2a",
+    muted: "#6c5b54",
+  },
+  "ELAR-4": {
+    bgStart: "#f7ece8",
+    bgEnd: "#ece4d8",
+    burstA: "#d9c1c7",
+    burstB: "#e7d4bb",
+    panelStrong: "#fff8f4",
+    accent: "#8d4157",
+    ink: "#372a31",
+    muted: "#675761",
+  },
+  "ELAR-5": {
+    bgStart: "#f4ece7",
+    bgEnd: "#efe6da",
+    burstA: "#d8c7ba",
+    burstB: "#e7d6c4",
+    panelStrong: "#fff9f4",
+    accent: "#7d4f3f",
+    ink: "#392d29",
+    muted: "#6a5c55",
+  },
+  "ELAR-6": {
+    bgStart: "#f3ede8",
+    bgEnd: "#e9e1d8",
+    burstA: "#d5c0c7",
+    burstB: "#e4d1bf",
+    panelStrong: "#fff9f5",
+    accent: "#8b4c62",
+    ink: "#372a32",
+    muted: "#665862",
+  },
+  "Science-5": {
+    bgStart: "#edf4e2",
+    bgEnd: "#e0efe8",
+    burstA: "#b8d8bf",
+    burstB: "#d8e8bf",
+    panelStrong: "#f9fcf4",
+    accent: "#2f7c58",
+    ink: "#21382c",
+    muted: "#5c7263",
+  },
+};
+
+const state = {
+  collectionIndex: null,
+  collections: [],
+  activeCollectionId: "",
+  builderStore: {},
+  catalog: null,
+  items: [],
+  itemsById: new Map(),
+  stimulusGroupsById: new Map(),
+  selectedIds: [],
+  filters: {
+    search: "",
+    teks: "",
+    year: "",
+    difficulty: "",
+    itemType: "",
+    content: "",
+    reviewOnly: false,
+  },
+  packet: {
+    title: "",
+    teacher: "",
+    studentPrintFormat: "png",
+  },
+  printMode: "",
+};
+
+const elements = {
+  collectionFilter: document.querySelector("#collection-filter"),
+  collectionStatus: document.querySelector("#collection-status"),
+  searchInput: document.querySelector("#search-input"),
+  teksFilter: document.querySelector("#teks-filter"),
+  yearFilter: document.querySelector("#year-filter"),
+  difficultyFilter: document.querySelector("#difficulty-filter"),
+  itemTypeFilter: document.querySelector("#item-type-filter"),
+  contentFilter: document.querySelector("#content-filter"),
+  reviewOnly: document.querySelector("#review-only"),
+  resetFilters: document.querySelector("#reset-filters"),
+  resultsSummary: document.querySelector("#results-summary"),
+  results: document.querySelector("#results"),
+  stats: document.querySelector("#catalog-stats"),
+  teksGroups: document.querySelector("#teks-groups"),
+  yearGroups: document.querySelector("#year-groups"),
+  difficultyGroups: document.querySelector("#difficulty-groups"),
+  teksCount: document.querySelector("#teks-count"),
+  yearCount: document.querySelector("#year-count"),
+  difficultyCount: document.querySelector("#difficulty-count"),
+  cardTemplate: document.querySelector("#item-card-template"),
+  selectedItemTemplate: document.querySelector("#selected-item-template"),
+  selectedCount: document.querySelector("#selected-count"),
+  selectionSummary: document.querySelector("#selection-summary"),
+  testTitle: document.querySelector("#test-title"),
+  teacherName: document.querySelector("#teacher-name"),
+  studentPrintFormat: document.querySelector("#student-print-format"),
+  addVisible: document.querySelector("#add-visible"),
+  removeVisible: document.querySelector("#remove-visible"),
+  clearSelection: document.querySelector("#clear-selection"),
+  presetSize: document.querySelector("#preset-size"),
+  presetButtons: [...document.querySelectorAll("[data-preset]")],
+  printTest: document.querySelector("#print-test"),
+  printAnswerKey: document.querySelector("#print-answer-key"),
+  printWorkspace: document.querySelector("#print-workspace"),
+};
+
+function normalizeText(value) {
+  return (value || "").toLowerCase().trim();
+}
+
+function escapeHtml(value) {
+  return String(value || "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
+}
+
+function rgbaFromHex(hex, alpha) {
+  const normalized = String(hex || "").replace("#", "").trim();
+  const safeHex = normalized.length === 3 ? normalized.split("").map((value) => `${value}${value}`).join("") : normalized;
+  if (!/^[0-9a-fA-F]{6}$/.test(safeHex)) {
+    return `rgba(0, 0, 0, ${alpha})`;
+  }
+  const red = Number.parseInt(safeHex.slice(0, 2), 16);
+  const green = Number.parseInt(safeHex.slice(2, 4), 16);
+  const blue = Number.parseInt(safeHex.slice(4, 6), 16);
+  return `rgba(${red}, ${green}, ${blue}, ${alpha})`;
+}
+
+function getCollectionTheme(collection = getActiveCollection()) {
+  const subject = collection?.subject || state.catalog?.subject || "";
+  const grade = String(collection?.grade || state.catalog?.grade || "");
+  const presetKey = `${subject}-${grade}`;
+  return {
+    ...DEFAULT_THEME,
+    ...(SUBJECT_THEME_DEFAULTS[subject] || {}),
+    ...(COLLECTION_THEME_PRESETS[presetKey] || {}),
+  };
+}
+
+function applyCollectionTheme(collection = getActiveCollection()) {
+  const theme = getCollectionTheme(collection);
+  const root = document.documentElement;
+  const themeVars = {
+    "--bg-start": theme.bgStart,
+    "--bg-end": theme.bgEnd,
+    "--bg-orb-a": rgbaFromHex(theme.burstA, 0.82),
+    "--bg-orb-b": rgbaFromHex(theme.burstB, 0.5),
+    "--panel-strong": theme.panelStrong,
+    "--panel": rgbaFromHex(theme.panelStrong, 0.88),
+    "--panel-soft": rgbaFromHex(theme.panelStrong, 0.92),
+    "--line": rgbaFromHex(theme.ink, 0.12),
+    "--ink": theme.ink,
+    "--muted": theme.muted,
+    "--accent": theme.accent,
+    "--accent-soft": rgbaFromHex(theme.accent, 0.12),
+    "--accent-soft-strong": rgbaFromHex(theme.accent, 0.1),
+    "--accent-soft-surface": rgbaFromHex(theme.accent, 0.06),
+    "--ink-soft-surface": rgbaFromHex(theme.ink, 0.05),
+    "--ink-strong-surface": rgbaFromHex(theme.ink, 0.06),
+    "--surface-selected": rgbaFromHex(theme.ink, 0.12),
+    "--selection-outline": rgbaFromHex(theme.accent, 0.16),
+    "--builder-gradient-a": rgbaFromHex(theme.panelStrong, 0.94),
+    "--builder-gradient-b": rgbaFromHex(theme.burstA, 0.24),
+    "--shadow": `0 24px 60px ${rgbaFromHex(theme.ink, 0.08)}`,
+  };
+  Object.entries(themeVars).forEach(([name, value]) => {
+    root.style.setProperty(name, value);
+  });
+  document.body.dataset.subject = normalizeText(collection?.subject || "");
+  document.body.dataset.grade = String(collection?.grade || "");
+}
+
+function uniqueValues(items, accessor, sorter) {
+  const values = [...new Set(items.map(accessor).filter(Boolean))];
+  return sorter ? values.sort(sorter) : values.sort();
+}
+
+function optionMarkup(option) {
+  return option.label ? `<strong>${escapeHtml(option.label)}.</strong> ${escapeHtml(option.text)}` : escapeHtml(option.text);
+}
+
+function getStudentPrintFormat() {
+  return state.packet.studentPrintFormat === "ocr" ? "ocr" : "png";
+}
+
+function getStudentPrintFormatLabel() {
+  return getStudentPrintFormat() === "ocr" ? "OCR text" : "Original PNG images";
+}
+
+function difficultyClass(label) {
+  return ["easy", "medium", "hard"].includes(label) ? label : "";
+}
+
+function getActiveCollection() {
+  return state.collections.find((collection) => collection.id === state.activeCollectionId) || null;
+}
+
+function getStimulusGroupForItem(item) {
+  if (!item?.stimulus?.group_id) {
+    return null;
+  }
+  return state.stimulusGroupsById.get(item.stimulus.group_id) || null;
+}
+
+function getStimulusGroupKey(item) {
+  return item?.stimulus?.group_id || `item:${item.id}`;
+}
+
+function isExternalPath(value) {
+  return /^https?:\/\//i.test(value) || String(value || "").startsWith("data:");
+}
+
+function normalizeRepoPath(value) {
+  return String(value || "")
+    .replaceAll("\\", "/")
+    .replace(/^\.\//, "")
+    .replace(/^\/+/, "");
+}
+
+function resolveCollectionAssetPath(pathValue, collection = getActiveCollection()) {
+  if (!pathValue) {
+    return "";
+  }
+  if (isExternalPath(pathValue)) {
+    return pathValue;
+  }
+
+  const normalized = normalizeRepoPath(pathValue);
+  const repoBase = new URL("../", window.location.href);
+
+  if (normalized.startsWith("collections/") || normalized.startsWith("app/") || normalized.startsWith("docs/")) {
+    return new URL(normalized, repoBase).href;
+  }
+
+  if (collection?.root) {
+    const collectionRoot = normalizeRepoPath(collection.root).replace(/\/+$/, "");
+    return new URL(`${collectionRoot}/${normalized}`, repoBase).href;
+  }
+
+  return new URL(normalized, repoBase).href;
+}
+
+function compareStandard(left, right) {
+  return (left.metadata.standard || "").localeCompare(right.metadata.standard || "", undefined, {
+    numeric: true,
+    sensitivity: "base",
+  });
+}
+
+function compareNewest(left, right) {
+  if (right.metadata.year !== left.metadata.year) {
+    return right.metadata.year - left.metadata.year;
+  }
+  if (compareStandard(left, right) !== 0) {
+    return compareStandard(left, right);
+  }
+  return left.metadata.question_number - right.metadata.question_number;
+}
+
+function getPercentCorrect(item) {
+  return item.metadata.difficulty?.percent_correct;
+}
+
+function getDifficultyScore(item) {
+  return item.metadata.difficulty?.score;
+}
+
+function hasKnownDifficulty(item) {
+  return Number.isFinite(getPercentCorrect(item));
+}
+
+function getPresetLimit() {
+  return elements.presetSize.value === "all" ? Infinity : Number(elements.presetSize.value || 10);
+}
+
+function takePresetItems(items) {
+  const limit = getPresetLimit();
+  return Number.isFinite(limit) ? items.slice(0, limit) : items;
+}
+
+function rankHardest(items) {
+  return [...items].sort((left, right) => {
+    const leftScore = getDifficultyScore(left) ?? -1;
+    const rightScore = getDifficultyScore(right) ?? -1;
+    if (rightScore !== leftScore) {
+      return rightScore - leftScore;
+    }
+    const leftPercent = getPercentCorrect(left) ?? 101;
+    const rightPercent = getPercentCorrect(right) ?? 101;
+    if (leftPercent !== rightPercent) {
+      return leftPercent - rightPercent;
+    }
+    return compareNewest(left, right);
+  });
+}
+
+function rankEasiest(items) {
+  return [...items].sort((left, right) => {
+    const leftScore = getDifficultyScore(left) ?? 99;
+    const rightScore = getDifficultyScore(right) ?? 99;
+    if (leftScore !== rightScore) {
+      return leftScore - rightScore;
+    }
+    const leftPercent = getPercentCorrect(left) ?? -1;
+    const rightPercent = getPercentCorrect(right) ?? -1;
+    if (rightPercent !== leftPercent) {
+      return rightPercent - leftPercent;
+    }
+    return compareNewest(left, right);
+  });
+}
+
+function rankBeginningOfYear(items) {
+  return [...items].sort((left, right) => {
+    const leftScore = getDifficultyScore(left) ?? 99;
+    const rightScore = getDifficultyScore(right) ?? 99;
+    if (leftScore !== rightScore) {
+      return leftScore - rightScore;
+    }
+    if (compareStandard(left, right) !== 0) {
+      return compareStandard(left, right);
+    }
+    if (right.metadata.year !== left.metadata.year) {
+      return right.metadata.year - left.metadata.year;
+    }
+    return left.metadata.question_number - right.metadata.question_number;
+  });
+}
+
+function buildCounts(items, accessor) {
+  const counts = new Map();
+  items.forEach((item) => {
+    const key = accessor(item);
+    if (!key) {
+      return;
+    }
+    counts.set(key, (counts.get(key) || 0) + 1);
+  });
+  return [...counts.entries()].sort((left, right) => {
+    if (right[1] !== left[1]) {
+      return right[1] - left[1];
+    }
+    return String(left[0]).localeCompare(String(right[0]));
+  });
+}
+
+function populateSelect(select, values, formatter = (value) => value) {
+  values.forEach((value) => {
+    const option = document.createElement("option");
+    option.value = value;
+    option.textContent = formatter(value);
+    select.append(option);
+  });
+}
+
+function resetSelectOptions(select, defaultLabel) {
+  select.innerHTML = "";
+  const option = document.createElement("option");
+  option.value = "";
+  option.textContent = defaultLabel;
+  select.append(option);
+}
+
+function installStaticFilters() {
+  resetSelectOptions(elements.teksFilter, "All TEKS");
+  resetSelectOptions(elements.yearFilter, "All years");
+  resetSelectOptions(elements.difficultyFilter, "All levels");
+  resetSelectOptions(elements.itemTypeFilter, "All types");
+  resetSelectOptions(elements.contentFilter, "All content");
+  populateSelect(elements.teksFilter, uniqueValues(state.items, (item) => item.metadata.standard));
+  populateSelect(
+    elements.yearFilter,
+    uniqueValues(state.items, (item) => String(item.metadata.year), (left, right) => Number(right) - Number(left))
+  );
+  populateSelect(
+    elements.difficultyFilter,
+    uniqueValues(state.items, (item) => item.metadata.difficulty?.label),
+    (value) => value.charAt(0).toUpperCase() + value.slice(1)
+  );
+  populateSelect(elements.itemTypeFilter, uniqueValues(state.items, (item) => item.metadata.item_type));
+  populateSelect(elements.contentFilter, uniqueValues(state.items, (item) => item.metadata.content));
+}
+
+function installCollectionOptions() {
+  elements.collectionFilter.innerHTML = "";
+  state.collections.forEach((collection) => {
+    const option = document.createElement("option");
+    option.value = collection.id;
+    option.textContent = `${collection.label}${collection.status !== "ready" ? ` (${collection.status.replaceAll("_", " ")})` : ""}`;
+    elements.collectionFilter.append(option);
+  });
+  elements.collectionFilter.value = state.activeCollectionId;
+}
+
+function readStoredBuilder() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) {
+      return;
+    }
+    const parsed = JSON.parse(raw);
+    state.activeCollectionId = parsed.activeCollectionId || "";
+    state.builderStore = parsed.builderStore || {};
+  } catch (error) {
+    state.activeCollectionId = "";
+    state.builderStore = {};
+  }
+}
+
+function persistBuilder() {
+  const collectionId = state.activeCollectionId || "default";
+  const nextStore = {
+    ...(state.builderStore || {}),
+    [collectionId]: {
+      selectedIds: state.selectedIds,
+      packet: state.packet,
+    },
+  };
+  state.builderStore = nextStore;
+  localStorage.setItem(
+    STORAGE_KEY,
+    JSON.stringify({
+      activeCollectionId: state.activeCollectionId,
+      builderStore: nextStore,
+    })
+  );
+}
+
+function hydrateBuilderForCollection(collectionId) {
+  const stored = state.builderStore?.[collectionId] || {};
+  state.selectedIds = Array.isArray(stored.selectedIds) ? stored.selectedIds : [];
+  state.packet.title = stored.packet?.title || "";
+  state.packet.teacher = stored.packet?.teacher || "";
+  state.packet.studentPrintFormat = stored.packet?.studentPrintFormat === "ocr" ? "ocr" : "png";
+}
+
+function attachEvents() {
+  elements.collectionFilter.addEventListener("change", async (event) => {
+    await switchCollection(event.target.value);
+  });
+
+  elements.searchInput.addEventListener("input", (event) => {
+    state.filters.search = event.target.value;
+    render();
+  });
+
+  elements.teksFilter.addEventListener("change", (event) => {
+    state.filters.teks = event.target.value;
+    render();
+  });
+
+  elements.yearFilter.addEventListener("change", (event) => {
+    state.filters.year = event.target.value;
+    render();
+  });
+
+  elements.difficultyFilter.addEventListener("change", (event) => {
+    state.filters.difficulty = event.target.value;
+    render();
+  });
+
+  elements.itemTypeFilter.addEventListener("change", (event) => {
+    state.filters.itemType = event.target.value;
+    render();
+  });
+
+  elements.contentFilter.addEventListener("change", (event) => {
+    state.filters.content = event.target.value;
+    render();
+  });
+
+  elements.reviewOnly.addEventListener("change", (event) => {
+    state.filters.reviewOnly = event.target.checked;
+    render();
+  });
+
+  elements.resetFilters.addEventListener("click", () => {
+    resetFiltersState();
+    render();
+  });
+
+  elements.testTitle.addEventListener("input", (event) => {
+    state.packet.title = event.target.value;
+    persistBuilder();
+    renderBuilder();
+  });
+
+  elements.teacherName.addEventListener("input", (event) => {
+    state.packet.teacher = event.target.value;
+    persistBuilder();
+    renderBuilder();
+  });
+
+  elements.studentPrintFormat.addEventListener("change", (event) => {
+    state.packet.studentPrintFormat = event.target.value === "ocr" ? "ocr" : "png";
+    persistBuilder();
+    renderBuilder();
+  });
+
+  elements.addVisible.addEventListener("click", () => {
+    const addedCount = addItemsToSelection(getSortedItems(getFilteredItems()));
+    if (!addedCount) {
+      window.alert("No visible problems were added. They may already be selected.");
+    }
+  });
+
+  elements.removeVisible.addEventListener("click", () => {
+    const removedCount = removeItemsFromSelection(getFilteredItems().map((item) => item.id));
+    if (!removedCount) {
+      window.alert("No visible problems were removed.");
+    }
+  });
+
+  elements.clearSelection.addEventListener("click", () => {
+    if (!state.selectedIds.length) {
+      return;
+    }
+    state.selectedIds = [];
+    persistBuilder();
+    render();
+  });
+
+  elements.presetButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      applyPreset(button.dataset.preset);
+    });
+  });
+
+  elements.printTest.addEventListener("click", () => {
+    preparePrint("student");
+  });
+
+  elements.printAnswerKey.addEventListener("click", () => {
+    preparePrint("answer-key");
+  });
+
+  window.addEventListener("afterprint", cleanupPrintWorkspace);
+}
+
+function resetFiltersState() {
+  state.filters = {
+    search: "",
+    teks: "",
+    year: "",
+    difficulty: "",
+    itemType: "",
+    content: "",
+    reviewOnly: false,
+  };
+  elements.searchInput.value = "";
+  elements.teksFilter.value = "";
+  elements.yearFilter.value = "";
+  elements.difficultyFilter.value = "";
+  elements.itemTypeFilter.value = "";
+  elements.contentFilter.value = "";
+  elements.reviewOnly.checked = false;
+}
+
+async function loadCollectionCatalog(collection) {
+  state.catalog = null;
+  state.items = [];
+  state.itemsById = new Map();
+  state.stimulusGroupsById = new Map();
+
+  if (!collection || !collection.catalog) {
+    return false;
+  }
+
+  const response = await fetch(`../${collection.catalog}`, { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
+  state.catalog = await response.json();
+  state.items = state.catalog.items || [];
+  state.itemsById = new Map(state.items.map((item) => [item.id, item]));
+  state.stimulusGroupsById = new Map((state.catalog.stimulus_groups || []).map((group) => [group.id, group]));
+  state.selectedIds = state.selectedIds.filter((id) => state.itemsById.has(id));
+  return true;
+}
+
+async function switchCollection(collectionId) {
+  state.activeCollectionId = collectionId;
+  const collection = getActiveCollection();
+  hydrateBuilderForCollection(collectionId);
+  resetFiltersState();
+  await loadCollectionCatalog(collection);
+  installCollectionOptions();
+  installStaticFilters();
+  persistBuilder();
+  render();
+}
+
+function getFilteredItems() {
+  const search = normalizeText(state.filters.search);
+  return state.items.filter((item) => {
+    const haystack = normalizeText(
+      [
+        item.id,
+        item.metadata.standard,
+        item.metadata.standard_description,
+        item.metadata.cluster,
+        item.metadata.subcluster,
+        item.metadata.content,
+        item.metadata.stimulus_reference,
+        item.stimulus?.label,
+        item.question.stem,
+        item.question.instruction,
+        item.answer_key.correct_text,
+        ...(item.answer_key.correct_texts || []),
+      ]
+        .filter(Boolean)
+        .join(" ")
+    );
+
+    if (state.filters.teks && item.metadata.standard !== state.filters.teks) {
+      return false;
+    }
+    if (state.filters.year && String(item.metadata.year) !== state.filters.year) {
+      return false;
+    }
+    if (state.filters.difficulty && item.metadata.difficulty?.label !== state.filters.difficulty) {
+      return false;
+    }
+    if (state.filters.itemType && item.metadata.item_type !== state.filters.itemType) {
+      return false;
+    }
+    if (state.filters.content && item.metadata.content !== state.filters.content) {
+      return false;
+    }
+    if (state.filters.reviewOnly && !item.extraction_quality.needs_review) {
+      return false;
+    }
+    if (search && !haystack.includes(search)) {
+      return false;
+    }
+    return true;
+  });
+}
+
+function getSortedItems(items) {
+  return [...items].sort((left, right) => {
+    if (right.metadata.year !== left.metadata.year) {
+      return right.metadata.year - left.metadata.year;
+    }
+    if ((left.source?.page_number || 0) !== (right.source?.page_number || 0)) {
+      return (left.source?.page_number || 0) - (right.source?.page_number || 0);
+    }
+    if (left.metadata.standard !== right.metadata.standard) {
+      return left.metadata.standard.localeCompare(right.metadata.standard);
+    }
+    return left.metadata.question_number - right.metadata.question_number;
+  });
+}
+
+function getSelectedItems() {
+  return state.selectedIds.map((id) => state.itemsById.get(id)).filter(Boolean);
+}
+
+function replaceSelection(items) {
+  state.selectedIds = items.map((item) => item.id);
+  persistBuilder();
+  render();
+}
+
+function addItemsToSelection(items) {
+  let addedCount = 0;
+  items.forEach((item) => {
+    if (!state.selectedIds.includes(item.id)) {
+      state.selectedIds.push(item.id);
+      addedCount += 1;
+    }
+  });
+  if (addedCount) {
+    persistBuilder();
+    render();
+  }
+  return addedCount;
+}
+
+function removeItemsFromSelection(ids) {
+  const currentSize = state.selectedIds.length;
+  const removedSet = new Set(ids);
+  state.selectedIds = state.selectedIds.filter((id) => !removedSet.has(id));
+  const removedCount = currentSize - state.selectedIds.length;
+  if (removedCount) {
+    persistBuilder();
+    render();
+  }
+  return removedCount;
+}
+
+function toggleSelection(itemId) {
+  if (state.selectedIds.includes(itemId)) {
+    removeItemsFromSelection([itemId]);
+    return;
+  }
+  addItemsToSelection([state.itemsById.get(itemId)].filter(Boolean));
+}
+
+function moveSelection(itemId, direction) {
+  const index = state.selectedIds.indexOf(itemId);
+  const targetIndex = index + direction;
+  if (index === -1 || targetIndex < 0 || targetIndex >= state.selectedIds.length) {
+    return;
+  }
+  const nextIds = [...state.selectedIds];
+  [nextIds[index], nextIds[targetIndex]] = [nextIds[targetIndex], nextIds[index]];
+  state.selectedIds = nextIds;
+  persistBuilder();
+  renderBuilder();
+  renderResults(getSortedItems(getFilteredItems()));
+}
+
+function buildPresetSelection(presetName, pool) {
+  const visiblePool = getSortedItems(pool);
+  switch (presetName) {
+    case "hardest_test":
+      return takePresetItems(rankHardest(visiblePool.filter(hasKnownDifficulty)));
+    case "easier_test":
+      return takePresetItems(rankEasiest(visiblePool.filter(hasKnownDifficulty)));
+    case "beginning_of_year": {
+      const preferred = visiblePool.filter((item) => ["easy", "medium"].includes(item.metadata.difficulty?.label));
+      const remainder = visiblePool.filter((item) => !preferred.includes(item));
+      return takePresetItems([...rankBeginningOfYear(preferred), ...rankBeginningOfYear(remainder)]);
+    }
+    case "easy_only":
+      return takePresetItems(rankEasiest(visiblePool.filter((item) => item.metadata.difficulty?.label === "easy")));
+    case "hard_only":
+      return takePresetItems(rankHardest(visiblePool.filter((item) => item.metadata.difficulty?.label === "hard")));
+    case "latest_only":
+      return takePresetItems([...visiblePool].sort(compareNewest));
+    default:
+      return [];
+  }
+}
+
+function applyPreset(presetName) {
+  const visiblePool = getFilteredItems();
+  const presetItems = buildPresetSelection(presetName, visiblePool);
+  if (!presetItems.length) {
+    window.alert("That preset did not find any matching questions in the current filtered results.");
+    return;
+  }
+  replaceSelection(presetItems);
+  if (!state.packet.title.trim()) {
+    state.packet.title = PRESET_TITLES[presetName] || "Generated Test";
+    persistBuilder();
+    renderBuilder();
+  }
+}
+
+function setChipGroup(container, counts, totalLabel, activeValue, onClick) {
+  container.innerHTML = "";
+  if (!counts.length) {
+    const empty = document.createElement("span");
+    empty.className = "chip-static";
+    empty.textContent = "No data";
+    container.append(empty);
+    return;
+  }
+
+  counts.slice(0, 18).forEach(([label, count]) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = `chip-button${activeValue === label ? " is-active" : ""}`;
+    button.textContent = `${label} (${count})`;
+    button.addEventListener("click", () => onClick(label));
+    container.append(button);
+  });
+
+  if (counts.length > 18) {
+    const tail = document.createElement("span");
+    tail.className = "chip-static";
+    tail.textContent = `+${counts.length - 18} more ${totalLabel}`;
+    container.append(tail);
+  }
+}
+
+function renderSummary(filteredItems) {
+  const collection = getActiveCollection();
+  const catalogSubject = state.catalog?.subject || collection?.subject || "Unknown subject";
+  const catalogGrade = state.catalog?.grade || collection?.grade || "?";
+  const itemCount = state.catalog?.item_count || 0;
+  const visibleStimulusGroupCount = new Set(
+    filteredItems.map((item) => item.stimulus?.group_id).filter(Boolean)
+  ).size;
+
+  elements.resultsSummary.textContent = `${filteredItems.length} of ${state.items.length} problems shown`;
+  elements.stats.innerHTML = `
+    <strong>${escapeHtml(catalogSubject)} Grade ${escapeHtml(catalogGrade)}</strong><br />
+    ${itemCount} extracted items<br />
+    ${visibleStimulusGroupCount} visible stimulus bundles<br />
+    ${filteredItems.filter((item) => item.extraction_quality.needs_review).length} visible items marked for review<br />
+    ${state.selectedIds.length} problems in the current test
+  `;
+
+  const teksCounts = buildCounts(filteredItems, (item) => item.metadata.standard);
+  const yearCounts = buildCounts(filteredItems, (item) => String(item.metadata.year));
+  const difficultyCounts = buildCounts(filteredItems, (item) => item.metadata.difficulty?.label);
+
+  elements.teksCount.textContent = `${teksCounts.length} groups`;
+  elements.yearCount.textContent = `${yearCounts.length} years`;
+  elements.difficultyCount.textContent = `${difficultyCounts.length} levels`;
+
+  setChipGroup(elements.teksGroups, teksCounts, "TEKS groups", state.filters.teks, (label) => {
+    state.filters.teks = state.filters.teks === label ? "" : label;
+    elements.teksFilter.value = state.filters.teks;
+    render();
+  });
+  setChipGroup(elements.yearGroups, yearCounts, "years", state.filters.year, (label) => {
+    state.filters.year = state.filters.year === label ? "" : label;
+    elements.yearFilter.value = state.filters.year;
+    render();
+  });
+  setChipGroup(elements.difficultyGroups, difficultyCounts, "difficulty groups", state.filters.difficulty, (label) => {
+    state.filters.difficulty = state.filters.difficulty === label ? "" : label;
+    elements.difficultyFilter.value = state.filters.difficulty;
+    render();
+  });
+}
+
+function renderAnswer(item) {
+  const answer = item.answer_key;
+  if (answer.answer_format === "single_choice_label") {
+    return `${answer.correct_label}${answer.correct_text ? ` - ${answer.correct_text}` : ""}`;
+  }
+  if (answer.answer_format === "multi_select_positions") {
+    const joined = (answer.correct_texts || []).join("; ");
+    return `positions ${(answer.correct_positions || []).join(", ")}${joined ? ` - ${joined}` : ""}`;
+  }
+  if (answer.answer_format === "ordered_blanks") {
+    return (answer.blank_values || []).join("; ");
+  }
+  if (answer.correct_text) {
+    return answer.correct_text;
+  }
+  return answer.raw_pdf_answer_text || "Unavailable";
+}
+
+function renderCard(item) {
+  const collection = getActiveCollection();
+  const stimulusGroup = getStimulusGroupForItem(item);
+  const fragment = elements.cardTemplate.content.cloneNode(true);
+  const card = fragment.querySelector(".item-card");
+  const meta = fragment.querySelector(".item-meta");
+  const selectButton = fragment.querySelector(".select-button");
+  const title = fragment.querySelector(".item-title");
+  const instruction = fragment.querySelector(".item-instruction");
+  const optionList = fragment.querySelector(".option-list");
+  const responseTemplate = fragment.querySelector(".response-template");
+  const visualList = fragment.querySelector(".visual-list");
+  const image = fragment.querySelector(".item-image");
+  const answerBlock = fragment.querySelector(".answer-block");
+  const difficultyBlock = fragment.querySelector(".difficulty-block");
+
+  const pills = [
+    item.metadata.standard,
+    String(item.metadata.year),
+    item.metadata.item_type,
+    item.metadata.content,
+  ].filter(Boolean);
+
+  pills.forEach((value) => {
+    const pill = document.createElement("span");
+    pill.className = "meta-pill";
+    pill.textContent = value;
+    meta.append(pill);
+  });
+
+  if (stimulusGroup?.label) {
+    const stimulusPill = document.createElement("span");
+    stimulusPill.className = "meta-pill stimulus";
+    stimulusPill.textContent = stimulusGroup.label;
+    meta.append(stimulusPill);
+  }
+
+  const difficultyLabel = item.metadata.difficulty?.label || "unknown";
+  const difficultyPill = document.createElement("span");
+  difficultyPill.className = `meta-pill ${difficultyClass(difficultyLabel)}`;
+  difficultyPill.textContent = `${difficultyLabel} difficulty`;
+  meta.append(difficultyPill);
+
+  if (state.selectedIds.includes(item.id)) {
+    const selectedPill = document.createElement("span");
+    selectedPill.className = "meta-pill selected";
+    selectedPill.textContent = "selected";
+    meta.append(selectedPill);
+    card.classList.add("is-selected");
+  }
+
+  if (item.extraction_quality.needs_review) {
+    const reviewPill = document.createElement("span");
+    reviewPill.className = "meta-pill review";
+    reviewPill.textContent = "needs review";
+    meta.append(reviewPill);
+  }
+
+  selectButton.textContent = state.selectedIds.includes(item.id) ? "Remove from Test" : "Add to Test";
+  selectButton.classList.toggle("is-selected", state.selectedIds.includes(item.id));
+  selectButton.addEventListener("click", () => {
+    toggleSelection(item.id);
+  });
+
+  title.textContent = item.question.stem || item.id;
+  instruction.textContent = item.question.instruction || "";
+  instruction.hidden = !item.question.instruction;
+
+  if (item.question.options?.length) {
+    optionList.innerHTML = item.question.options
+      .map((option) => `<li>${optionMarkup(option)}</li>`)
+      .join("");
+  } else {
+    optionList.remove();
+  }
+
+  if (item.question.response_template) {
+    responseTemplate.innerHTML = `<strong>Response template:</strong> ${escapeHtml(item.question.response_template)}`;
+    if (item.question.choice_pool?.length) {
+      responseTemplate.innerHTML += `<br /><strong>Choice pool:</strong> ${escapeHtml(item.question.choice_pool.join(", "))}`;
+    }
+  } else {
+    responseTemplate.remove();
+  }
+
+  if (item.question.visual_elements?.length) {
+    visualList.innerHTML = `<strong>Visual elements:</strong> ${escapeHtml(item.question.visual_elements.join(", "))}`;
+  } else {
+    visualList.remove();
+  }
+
+  image.src = resolveCollectionAssetPath(item.source.question_image, collection);
+  image.alt = `${item.metadata.standard} ${item.metadata.year} question ${item.metadata.question_number}`;
+
+  answerBlock.innerHTML = `
+    <strong>Answer:</strong> ${escapeHtml(renderAnswer(item))}<br />
+    <strong>Cluster:</strong> ${escapeHtml(item.metadata.cluster || "Unknown")}<br />
+    <strong>Subcluster:</strong> ${escapeHtml(item.metadata.subcluster || "Unknown")}${
+      stimulusGroup?.label ? `<br /><strong>Stimulus:</strong> ${escapeHtml(stimulusGroup.label)}` : ""
+    }
+  `;
+
+  difficultyBlock.innerHTML = `
+    <strong>State % correct:</strong> ${item.metadata.difficulty?.percent_correct ?? "n/a"}<br />
+    <strong>Difficulty score:</strong> ${item.metadata.difficulty?.score ?? "n/a"}${item.metadata.difficulty?.score ? "/5" : ""}<br />
+    <strong>Why:</strong> ${escapeHtml(item.metadata.difficulty?.rationale || "No rationale")}<br />
+    <strong>Vision confidence:</strong> ${item.extraction_quality.vision_confidence ?? "n/a"}
+  `;
+
+  card.dataset.id = item.id;
+  return fragment;
+}
+
+function renderResults(filteredItems) {
+  elements.results.innerHTML = "";
+  const collection = getActiveCollection();
+  if (collection && collection.status !== "ready") {
+    const empty = document.createElement("div");
+    empty.className = "empty-state";
+    empty.textContent = `${collection.label} is indexed but does not have an extracted catalog yet. Add source files and run the extraction pipeline for this collection.`;
+    elements.results.append(empty);
+    return;
+  }
+  if (!filteredItems.length) {
+    const empty = document.createElement("div");
+    empty.className = "empty-state";
+    empty.textContent = "No problems match the current filters.";
+    elements.results.append(empty);
+    return;
+  }
+
+  filteredItems.forEach((item) => {
+    elements.results.append(renderCard(item));
+  });
+}
+
+function renderBuilder() {
+  const collection = getActiveCollection();
+  const selectedItems = getSelectedItems();
+  const teksCounts = buildCounts(selectedItems, (item) => item.metadata.standard);
+  const typeCounts = buildCounts(selectedItems, (item) => item.metadata.item_type);
+  const stimulusGroupCount = new Set(selectedItems.map((item) => item.stimulus?.group_id).filter(Boolean)).size;
+
+  elements.selectedCount.textContent = `${selectedItems.length} selected`;
+  elements.testTitle.value = state.packet.title;
+  elements.teacherName.value = state.packet.teacher;
+  elements.studentPrintFormat.value = getStudentPrintFormat();
+  const collectionReady = collection?.status === "ready";
+  elements.printTest.disabled = selectedItems.length === 0 || !collectionReady;
+  elements.printAnswerKey.disabled = selectedItems.length === 0 || !collectionReady;
+  elements.clearSelection.disabled = selectedItems.length === 0;
+  elements.addVisible.disabled = !collectionReady;
+  elements.removeVisible.disabled = !collectionReady;
+  elements.presetButtons.forEach((button) => {
+    button.disabled = !collectionReady;
+  });
+
+  if (!collectionReady) {
+    elements.selectionSummary.innerHTML = `
+      <div class="empty-selection">
+        This collection is scaffolded but does not have an extracted catalog yet.
+      </div>
+    `;
+    return;
+  }
+
+  if (!selectedItems.length) {
+    elements.selectionSummary.innerHTML = `
+      <div class="empty-selection">
+        Filter the catalog, add the problems you want, and print a ready-to-use student packet and answer key.
+      </div>
+    `;
+    return;
+  }
+
+  const summaryHtml = `
+    <div class="selection-metrics">
+      <span class="chip-static">${selectedItems.length} questions</span>
+      <span class="chip-static">${teksCounts.length} TEKS groups</span>
+      <span class="chip-static">${typeCounts.length} item types</span>
+      <span class="chip-static">${stimulusGroupCount} stimulus bundles</span>
+      <span class="chip-static">${escapeHtml(getStudentPrintFormatLabel())}</span>
+    </div>
+    <div class="selection-bands">
+      <div><strong>TEKS:</strong> ${escapeHtml(teksCounts.map(([label, count]) => `${label} (${count})`).join("; "))}</div>
+      <div><strong>Item types:</strong> ${escapeHtml(typeCounts.map(([label, count]) => `${label} (${count})`).join("; "))}</div>
+      <div><strong>Student packet format:</strong> ${escapeHtml(getStudentPrintFormatLabel())}</div>
+      ${
+        stimulusGroupCount
+          ? "<div><strong>Print note:</strong> ELAR stimulus pages will print with the linked questions.</div>"
+          : ""
+      }
+    </div>
+  `;
+
+  elements.selectionSummary.innerHTML = summaryHtml;
+  const list = document.createElement("div");
+  list.className = "selected-item-list";
+
+  selectedItems.forEach((item, index) => {
+    const stimulusGroup = getStimulusGroupForItem(item);
+    const fragment = elements.selectedItemTemplate.content.cloneNode(true);
+    const title = fragment.querySelector(".selected-item-title");
+    const meta = fragment.querySelector(".selected-item-meta");
+    const moveUp = fragment.querySelector(".move-up");
+    const moveDown = fragment.querySelector(".move-down");
+    const removeButton = fragment.querySelector(".remove-item");
+
+    title.textContent = `${index + 1}. ${item.question.stem || item.id}`;
+    meta.textContent = `${item.metadata.standard} | ${item.metadata.year} | ${item.metadata.item_type}${
+      stimulusGroup?.label ? ` | ${stimulusGroup.label}` : ""
+    }`;
+    moveUp.disabled = index === 0;
+    moveDown.disabled = index === selectedItems.length - 1;
+
+    moveUp.addEventListener("click", () => moveSelection(item.id, -1));
+    moveDown.addEventListener("click", () => moveSelection(item.id, 1));
+    removeButton.addEventListener("click", () => removeItemsFromSelection([item.id]));
+
+    list.append(fragment);
+  });
+
+  elements.selectionSummary.append(list);
+}
+
+function render() {
+  const collection = getActiveCollection();
+  applyCollectionTheme(collection);
+  elements.collectionFilter.value = state.activeCollectionId;
+  elements.collectionStatus.textContent = collection
+    ? collection.status === "ready"
+      ? `${collection.label} is ready for browsing and printing.`
+      : `${collection.label} is indexed as ${collection.status.replaceAll("_", " ")}.`
+    : "No collection selected.";
+  const filteredItems = getSortedItems(getFilteredItems());
+  renderSummary(filteredItems);
+  renderBuilder();
+  renderResults(filteredItems);
+}
+
+function buildPrintChunks(selectedItems) {
+  const chunks = [];
+  selectedItems.forEach((item) => {
+    const groupKey = getStimulusGroupKey(item);
+    const previousChunk = chunks[chunks.length - 1];
+    if (!previousChunk || previousChunk.groupKey !== groupKey) {
+      chunks.push({
+        groupKey,
+        stimulusGroup: getStimulusGroupForItem(item),
+        items: [item],
+      });
+      return;
+    }
+    previousChunk.items.push(item);
+  });
+  return chunks;
+}
+
+function buildPacketTitle() {
+  const collection = getActiveCollection();
+  return (
+    state.packet.title.trim() ||
+    `${state.catalog?.subject || collection?.subject || "STAAR"} Grade ${state.catalog?.grade || collection?.grade || ""} Test`
+  );
+}
+
+function buildPrintOptionMarkup(option, index) {
+  const label = option.label || String(option.position || index + 1);
+  return `
+    <li class="print-option-item">
+      <span class="print-option-tag">${escapeHtml(label)}</span>
+      <span>${escapeHtml(option.text || "")}</span>
+    </li>
+  `;
+}
+
+function buildPrintResponseTemplateMarkup(template) {
+  return escapeHtml(template || "").replace(/\[[^\]]+\]/g, '<span class="print-blank">________</span>');
+}
+
+function buildStudentQuestionImageMarkup(item, questionNumber, collection) {
+  return `
+    <section class="print-question">
+      <div class="print-question-header">
+        <span>Question ${questionNumber}</span>
+      </div>
+      <img class="print-question-image" src="${escapeHtml(
+        resolveCollectionAssetPath(item.source.question_image, collection)
+      )}" alt="Question ${questionNumber}" />
+    </section>
+  `;
+}
+
+function buildStudentQuestionOcrMarkup(item, questionNumber) {
+  const hasOptions = Boolean(item.question.options?.length);
+  const hasResponseTemplate = Boolean(item.question.response_template);
+  const hasChoicePool = Boolean(item.question.choice_pool?.length);
+  const hasVisualElements = Boolean(item.question.visual_elements?.length);
+  const needsResponseLines = !hasOptions;
+
+  return `
+    <section class="print-question print-question-ocr">
+      <div class="print-question-header">
+        <span>Question ${questionNumber}</span>
+        <span class="print-question-type">${escapeHtml(item.metadata.declared_item_type_display || item.metadata.item_type || "")}</span>
+      </div>
+      <div class="print-question-stem">${escapeHtml(item.question.stem || item.id)}</div>
+      ${
+        item.question.instruction
+          ? `<div class="print-question-instruction">${escapeHtml(item.question.instruction)}</div>`
+          : ""
+      }
+      ${
+        hasOptions
+          ? `
+            <ol class="print-option-list">
+              ${item.question.options.map((option, index) => buildPrintOptionMarkup(option, index)).join("")}
+            </ol>
+          `
+          : ""
+      }
+      ${
+        hasResponseTemplate
+          ? `
+            <div class="print-response-block">
+              <div class="print-response-label">Response template</div>
+              <div class="print-response-template">${buildPrintResponseTemplateMarkup(item.question.response_template)}</div>
+            </div>
+          `
+          : ""
+      }
+      ${
+        hasChoicePool
+          ? `
+            <div class="print-choice-pool">
+              <strong>Choice pool:</strong> ${escapeHtml(item.question.choice_pool.join(", "))}
+            </div>
+          `
+          : ""
+      }
+      ${
+        hasVisualElements
+          ? `
+            <div class="print-visual-elements">
+              <strong>Included visual/text elements:</strong> ${escapeHtml(item.question.visual_elements.join("; "))}
+            </div>
+          `
+          : ""
+      }
+      ${
+        needsResponseLines
+          ? `
+            <div class="print-response-lines">
+              <div class="print-response-label">Student response</div>
+              <div class="print-line"></div>
+              <div class="print-line"></div>
+            </div>
+          `
+          : ""
+      }
+    </section>
+  `;
+}
+
+function buildStudentQuestionMarkup(item, questionNumber, collection) {
+  if (getStudentPrintFormat() === "ocr") {
+    return buildStudentQuestionOcrMarkup(item, questionNumber);
+  }
+  return buildStudentQuestionImageMarkup(item, questionNumber, collection);
+}
+
+function buildStudentPrintMarkup(selectedItems) {
+  const collection = getActiveCollection();
+  const testTitle = buildPacketTitle();
+  const chunks = buildPrintChunks(selectedItems);
+  const studentPrintFormat = getStudentPrintFormat();
+  let questionNumber = 0;
+  return `
+    <div class="print-document print-document-student">
+      <section class="print-cover">
+        <p class="print-eyebrow">Student Test</p>
+        <h1>${escapeHtml(testTitle)}</h1>
+        <div class="print-cover-lines">
+          <div><strong>Teacher / Class:</strong> ${escapeHtml(state.packet.teacher || "____________________________")}</div>
+          <div><strong>Name:</strong> ____________________________</div>
+          <div><strong>Date:</strong> ____________________________</div>
+          <div><strong>Question format:</strong> ${escapeHtml(getStudentPrintFormatLabel())}</div>
+        </div>
+        <p class="print-instructions">Answer each question. Show work where needed.</p>
+        ${
+          studentPrintFormat === "ocr"
+            ? '<p class="print-instructions">Passage bundles still print from the original PNG pages so reading selections stay intact.</p>'
+            : ""
+        }
+      </section>
+      ${chunks
+        .map((chunk) => {
+          const startNumber = questionNumber + 1;
+          questionNumber += chunk.items.length;
+          const endNumber = questionNumber;
+          const stimulusMarkup = chunk.stimulusGroup
+            ? `
+              <section class="print-stimulus">
+                <div class="print-stimulus-header">
+                  <div class="print-stimulus-title">${escapeHtml(chunk.stimulusGroup.label)}</div>
+                  <div class="print-stimulus-note">Questions ${startNumber}-${endNumber} use this passage set.</div>
+                </div>
+                <div class="print-stimulus-gallery">
+                  ${(chunk.stimulusGroup.page_images || [])
+                    .map(
+                      (imagePath, imageIndex) => `
+                        <img
+                          class="print-stimulus-image"
+                          src="${escapeHtml(resolveCollectionAssetPath(imagePath, collection))}"
+                          alt="${escapeHtml(chunk.stimulusGroup.label)} page ${imageIndex + 1}"
+                        />
+                      `
+                    )
+                    .join("")}
+                </div>
+              </section>
+            `
+            : "";
+
+          let localQuestionNumber = startNumber;
+          const questionMarkup = chunk.items
+            .map((item) => {
+              const currentNumber = localQuestionNumber;
+              localQuestionNumber += 1;
+              return buildStudentQuestionMarkup(item, currentNumber, collection);
+            })
+            .join("");
+
+          return `${stimulusMarkup}${questionMarkup}`;
+        })
+        .join("")}
+    </div>
+  `;
+}
+
+function buildAnswerKeyMarkup(selectedItems) {
+  const testTitle = buildPacketTitle();
+  return `
+    <div class="print-document print-document-key">
+      <section class="print-cover print-cover-key">
+        <p class="print-eyebrow">Teacher Answer Key</p>
+        <h1>${escapeHtml(testTitle)}</h1>
+        <div class="print-cover-lines">
+          <div><strong>Teacher / Class:</strong> ${escapeHtml(state.packet.teacher || "Not provided")}</div>
+          <div><strong>Questions:</strong> ${selectedItems.length}</div>
+        </div>
+      </section>
+      <section class="answer-key-list">
+        ${selectedItems
+          .map(
+            (item, index) => `
+              <article class="answer-key-row">
+                <div class="answer-key-row-main">
+                  <div class="answer-key-number">Q${index + 1}</div>
+                  <div>
+                    <div class="answer-key-stem">${escapeHtml(item.question.stem || item.id)}</div>
+                    <div class="answer-key-meta">
+                      TEKS ${escapeHtml(item.metadata.standard)} | ${item.metadata.year} | ${escapeHtml(item.metadata.item_type)}${
+                        item.stimulus?.label ? ` | ${escapeHtml(item.stimulus.label)}` : ""
+                      }
+                    </div>
+                  </div>
+                </div>
+                <div class="answer-key-answer">
+                  <strong>Answer:</strong> ${escapeHtml(renderAnswer(item))}<br />
+                  <strong>State % correct:</strong> ${item.metadata.difficulty?.percent_correct ?? "n/a"}<br />
+                  <strong>Difficulty:</strong> ${escapeHtml(item.metadata.difficulty?.label || "unknown")}
+                </div>
+              </article>
+            `
+          )
+          .join("")}
+      </section>
+    </div>
+  `;
+}
+
+function cleanupPrintWorkspace() {
+  elements.printWorkspace.innerHTML = "";
+  elements.printWorkspace.setAttribute("aria-hidden", "true");
+  document.body.classList.remove("is-printing-student", "is-printing-answer-key");
+  state.printMode = "";
+}
+
+function preparePrint(mode) {
+  const selectedItems = getSelectedItems();
+  if (!selectedItems.length) {
+    window.alert("Select at least one problem before printing.");
+    return;
+  }
+
+  state.printMode = mode;
+  elements.printWorkspace.innerHTML =
+    mode === "student" ? buildStudentPrintMarkup(selectedItems) : buildAnswerKeyMarkup(selectedItems);
+  elements.printWorkspace.setAttribute("aria-hidden", "false");
+  document.body.classList.toggle("is-printing-student", mode === "student");
+  document.body.classList.toggle("is-printing-answer-key", mode === "answer-key");
+
+  window.requestAnimationFrame(() => {
+    window.print();
+  });
+}
+
+async function init() {
+  try {
+    readStoredBuilder();
+    const response = await fetch("../collections/index.json", { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+    state.collectionIndex = await response.json();
+    state.collections = state.collectionIndex.collections || [];
+    state.activeCollectionId =
+      state.collections.find((collection) => collection.id === state.activeCollectionId)?.id ||
+      state.collectionIndex.default_collection_id ||
+      state.collections[0]?.id ||
+      "";
+    if (!state.activeCollectionId) {
+      throw new Error("No collections found in collections/index.json.");
+    }
+    attachEvents();
+    installCollectionOptions();
+    await switchCollection(state.activeCollectionId);
+  } catch (error) {
+    elements.resultsSummary.textContent = "Catalog failed to load.";
+    elements.results.innerHTML = `<div class="empty-state">Unable to load collections/index.json. ${escapeHtml(error.message)}</div>`;
+  }
+}
+
+init();

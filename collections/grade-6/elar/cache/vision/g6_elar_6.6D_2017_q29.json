@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Floyd Bennett Field was an airfield from which notable pilots and military aircraft flew important missions. The airfield was closed in the early 1970s, but in 1996, Arnie Migliaccio proposed an idea to the National Park Service to make the neglected airfield a place to display restored aircraft. The project became known as HARP, and volunteers known as \u201cangels\u201d work to help meet the project\u2019s goals. Today visitors to Hangar B learn about the history of the airfield and planes."
+    },
+    {
+      "label": "B",
+      "text": "HARP was founded in order to restore aircraft and an old airfield where the rebuilt aircraft could be displayed. The aircraft were restored by volunteers, many of whom were retired military pilots or aircraft engineers. They spent thousands of hours making planes such as the PBY Catalina like new. Students go each week to view the aircraft and learn about the history of aviation from the volunteers of HARP."
+    },
+    {
+      "label": "C",
+      "text": "In 1996 a veteran named Arnie Migliaccio proposed an idea to the National Park Service to make Floyd Bennett Field a place to view restored airplanes. The HARP volunteers began working to repurpose the site and several aircraft from the World War II era. Today the restored planes no longer fly, but the HARP volunteers work to ensure that the planes will remain in good condition for many years."
+    },
+    {
+      "label": "D",
+      "text": "Floyd Bennett Field was opened in 1931 and became a busy airport over the years. Famous pilots used the airfield, and military planes used it during times of war to fly important missions. After it was closed in the early 1970s, the airfield became run-down. But in 1996, veteran Arnie Migliaccio proposed to the National Park Service that the airfield be used as a place to restore and display planes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four paragraphs labeled A, B, C, and D with text describing the history and restoration efforts of Floyd Bennett Field and HARP."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

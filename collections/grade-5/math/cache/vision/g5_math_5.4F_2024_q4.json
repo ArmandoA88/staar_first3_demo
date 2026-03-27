@@ -1,0 +1,30 @@
+{
+  "stem": "An expression is shown.\n\n6[2 + (1.7 \\times 2.3)] + 39\n\nWhich expression is equivalent?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6[ 2 + 3.91 ] + 39"
+    },
+    {
+      "label": "B",
+      "text": "12 + (1.7 \\times 2.3) + 39"
+    },
+    {
+      "label": "C",
+      "text": "6[ 2 + 1.7 ] \\times 41.3"
+    },
+    {
+      "label": "D",
+      "text": "6[ 3.7 \\times 2.3 ] + 39"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "6[ 2 + (1.7 \\times 2.3) ] + 39"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

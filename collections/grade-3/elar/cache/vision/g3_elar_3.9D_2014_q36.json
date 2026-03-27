@@ -1,0 +1,34 @@
+{
+  "stem": "What is paragraph 8 mostly about?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The reaction of wildlife experts to the joey"
+    },
+    {
+      "label": "G",
+      "text": "What happened to the joey after his rescue"
+    },
+    {
+      "label": "H",
+      "text": "How the joey acts with other kangaroos"
+    },
+    {
+      "label": "J",
+      "text": "The dog that found the joey"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "36 What is paragraph 8 mostly about?",
+    "F The reaction of wildlife experts to the joey",
+    "G What happened to the joey after his rescue",
+    "H How the joey acts with other kangaroos",
+    "J The dog that found the joey"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

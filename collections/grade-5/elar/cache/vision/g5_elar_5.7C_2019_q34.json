@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these best explains why there is only one scene?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "There is very little action."
+    },
+    {
+      "label": "G",
+      "text": "There are only three characters."
+    },
+    {
+      "label": "H",
+      "text": "Only a few props are needed."
+    },
+    {
+      "label": "J",
+      "text": "The setting does not change."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

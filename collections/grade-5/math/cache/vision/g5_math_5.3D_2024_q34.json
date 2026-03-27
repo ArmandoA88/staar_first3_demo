@@ -1,0 +1,34 @@
+{
+  "stem": "Which hundredths model is shaded to represent the equation 0.7 \\times 0.7 = 0.49 ?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "One hundredths model fully shaded representing one whole",
+    "Option A: hundredths model with top 7 columns shaded and bottom 5 rows shaded with some overlap",
+    "Option B: hundredths model with top 7 columns shaded and bottom 7 rows shaded fully overlapping",
+    "Option C: hundredths model with top 7 columns shaded and a darker 7x7 overlap near top-left",
+    "Option D: hundredths model with left 3 columns shaded fully and inside 7 columns shaded lighter"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence should replace sentence 7 to more clearly state the central idea of this paper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "This person walked the streets and shouted out information the people needed to know."
+    },
+    {
+      "label": "B",
+      "text": "This person lived in the town, and everyone recognized him right away."
+    },
+    {
+      "label": "C",
+      "text": "This person sometimes spent the day visiting people in different parts of the village."
+    },
+    {
+      "label": "D",
+      "text": "This person was kind and respected, and most people in the town liked him."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

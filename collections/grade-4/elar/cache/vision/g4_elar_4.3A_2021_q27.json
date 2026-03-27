@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition most closely fits the way the word scale is used in line 20?",
+  "instruction": "Read this dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scale \\\u02c8sk\u0101l\\ noun 1. one of the small, hard parts that covers a fish 2. a tool for measuring heaviness 3. a series of musical notes 4. a set of marks in a row used to measure distance"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

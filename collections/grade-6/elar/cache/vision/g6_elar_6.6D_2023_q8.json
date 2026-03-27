@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Brody has to stay with his Uncle Stephen, and he misses his friends. Brody talks to Marisa and Jeffrey and discovers that they are doing activities that he typically enjoys. Later Brody goes hiking with Uncle Stephen, and then he works on a poem for his homework assignment. When he finishes, Brody and Uncle Stephen go fishing."
+    },
+    {
+      "label": "B",
+      "text": "When his parents travel for business, Brody stays with his Uncle Stephen at his uncle\u2019s cabin for a weekend. He talks to his friends on the phone and learns that he missed a robotics team meeting and a chance to play basketball. He goes hiking and fishing with Uncle Stephen and, while fishing, realizes what kind of robot his robotics team can build."
+    },
+    {
+      "label": "C",
+      "text": "During a weekend visit with his Uncle Stephen, Brody experiences different types of outdoor activities. Brody tries to avoid hiking when his uncle mentions the idea, but Uncle Stephen insists that Brody goes. Brody sees an eagle and decides to write about it for a poetry assignment. Later Brody gets an idea for a robotics competition while fishing."
+    },
+    {
+      "label": "D",
+      "text": "Brody spends a weekend with his Uncle Stephen and misses his friends and activities. Brody spends time outdoors hiking and fishing with his uncle, which Brody finds boring at first. Eventually Brody discovers the quiet activities give his mind a chance to rest and be creative, and, while fishing, he comes up with an idea to help his robotics team."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice question with four labeled answer options A, B, C, and D."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

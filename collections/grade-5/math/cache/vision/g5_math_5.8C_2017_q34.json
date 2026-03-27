@@ -1,0 +1,30 @@
+{
+  "stem": "Three points are plotted on the coordinate grid.\n\nWhich table represents the data plotted in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x \\t 6/2 \\t 12/2 \\t 18/2\ny \\t 3/2 \\t 9/2 \\t 15/2"
+    },
+    {
+      "label": "G",
+      "text": "x \\t 3/2 \\t 9/2 \\t 15/2\ny \\t 6/2 \\t 12/2 \\t 15/2"
+    },
+    {
+      "label": "H",
+      "text": "x \\t 3/2 \\t 6/2 \\t 9/2\ny \\t 6/2 \\t 12/2 \\t 18/2"
+    },
+    {
+      "label": "J",
+      "text": "x \\t 3/2 \\t 9/2 \\t 15/2\ny \\t 6/2 \\t 12/2 \\t 18/2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with points at (3/2,6/2), (9/2,12/2), and (15/2,18/2)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

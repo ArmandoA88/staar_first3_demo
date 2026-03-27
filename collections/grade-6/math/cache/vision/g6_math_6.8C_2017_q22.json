@@ -1,0 +1,30 @@
+{
+  "stem": "A rectangular computer screen has an area of A square inches. The width of the computer screen is 7 inches. Which equation represents x, the length of the computer screen in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x = \\frac{7}{A}"
+    },
+    {
+      "label": "G",
+      "text": "x = A + 27"
+    },
+    {
+      "label": "H",
+      "text": "x = A - 2(7)"
+    },
+    {
+      "label": "J",
+      "text": "x = \\frac{A}{7}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

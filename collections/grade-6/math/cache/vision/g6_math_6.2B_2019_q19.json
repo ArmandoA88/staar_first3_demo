@@ -1,0 +1,30 @@
+{
+  "stem": "Four points are labeled on the number line.\n\nWhich point represents the value of \\left|-\\frac{1}{2}\\right|?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Point P"
+    },
+    {
+      "label": "B",
+      "text": "Point Q"
+    },
+    {
+      "label": "C",
+      "text": "Point R"
+    },
+    {
+      "label": "D",
+      "text": "Point S"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line with points P at -2, Q at -1, R at 0, S at 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

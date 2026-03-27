@@ -1,0 +1,30 @@
+{
+  "stem": "Charlie bakes 10.5 batches of muffins for his school. Each batch of muffins uses 1.5 cups of flour.\n\nHow many total cups of flour does Charlie use?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10.25 c"
+    },
+    {
+      "label": "B",
+      "text": "7 c"
+    },
+    {
+      "label": "C",
+      "text": "15.75 c"
+    },
+    {
+      "label": "D",
+      "text": "12 c"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice options labeled A to D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

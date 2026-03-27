@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from the story.\n\nHe is a sweet man with a honey tongue and he is a teller of tales.\n\nWhy does the author include this description of Bompie?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show that Sophie knows only what she has been told about her grandfather"
+    },
+    {
+      "label": "B",
+      "text": "To explain why Sophie's grandfather decided to move away"
+    },
+    {
+      "label": "C",
+      "text": "To convey why Sophie is eager to see her grandfather"
+    },
+    {
+      "label": "D",
+      "text": "To explain that Sophie does not trust what her grandfather says"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He is a sweet man with a honey tongue and he is a teller of tales."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

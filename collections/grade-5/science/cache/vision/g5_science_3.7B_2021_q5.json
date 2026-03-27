@@ -1,0 +1,30 @@
+{
+  "stem": "A wagon is pushed and begins to move. As the wagon moves, it slows and comes to a stop. The wagon and the direction it is pushed are shown.\n\nWhat force causes the wagon to stop?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The force of gravity which is acting in the same direction as the arrow"
+    },
+    {
+      "label": "B",
+      "text": "The force of friction which is acting in the same direction as the arrow"
+    },
+    {
+      "label": "C",
+      "text": "The force of gravity which is acting in the opposite direction of the arrow"
+    },
+    {
+      "label": "D",
+      "text": "The force of friction which is acting in the opposite direction of the arrow"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of a wagon with an arrow pointing right labeled Direction wagon is pushed"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1.0,
+  "notes": null
+}

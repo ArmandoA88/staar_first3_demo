@@ -1,0 +1,31 @@
+{
+  "stem": "Which statement describes the relationship between x and y in these two equations?\n\n\\[y = 2x\\]\n\\[y = x + 2\\]",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "In \\( y = 2x \\) the value of y is 2 more than the value of x, and in \\( y = x + 2 \\) the value of y is twice the value of x."
+    },
+    {
+      "label": "G",
+      "text": "In \\( y = 2x \\) and in \\( y = x + 2 \\), the value of y is 2 more than the value of x."
+    },
+    {
+      "label": "H",
+      "text": "In \\( y = 2x \\) and in \\( y = x + 2 \\), the value of y is twice the value of x."
+    },
+    {
+      "label": "J",
+      "text": "In \\( y = 2x \\) the value of y is twice the value of x, and in \\( y = x + 2 \\) the value of y is 2 more than the value of x."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = 2x",
+    "y = x + 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "An expression is shown.\n\n9.45 \u00f7 15\n\nWhat is the quotient?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6.3"
+    },
+    {
+      "label": "B",
+      "text": "0.03"
+    },
+    {
+      "label": "C",
+      "text": "0.63"
+    },
+    {
+      "label": "D",
+      "text": "0.6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "9.45 \u00f7 15"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

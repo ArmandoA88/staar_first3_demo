@@ -1,0 +1,30 @@
+{
+  "stem": "A scientist finds the plant fossil shown.\n\nWhich question can the scientist most likely answer by examining this fossil?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "What was the average monthly rainfall in the area?"
+    },
+    {
+      "label": "B",
+      "text": "How much water was absorbed by the roots of the plant?"
+    },
+    {
+      "label": "C",
+      "text": "How much oxygen was in the atmosphere surrounding the plant?"
+    },
+    {
+      "label": "D",
+      "text": "What was the environment like in the area when the plant was alive?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "plant fossil image"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

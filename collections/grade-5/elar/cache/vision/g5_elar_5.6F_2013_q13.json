@@ -1,0 +1,30 @@
+{
+  "stem": "What can the reader conclude about LEGO products from this sentence?",
+  "instruction": "Read this sentence from the selection.\n\nIn fact, a standard-size LEGO brick made today can be attached to any other LEGO brick made since 1958.",
+  "options": [
+    {
+      "label": "A",
+      "text": "People have shared LEGO sets with friends and family for a long time."
+    },
+    {
+      "label": "B",
+      "text": "The basic design of the LEGO has stayed the same."
+    },
+    {
+      "label": "C",
+      "text": "LEGO toys made of plastic last longer than those made of wood."
+    },
+    {
+      "label": "D",
+      "text": "Ole Kirk Christiansen believed in making LEGO toys that were fun and entertaining."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In fact, a standard-size LEGO brick made today can be attached to any other LEGO brick made since 1958."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

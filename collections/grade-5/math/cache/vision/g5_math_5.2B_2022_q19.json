@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the times that it took five students to complete a set of math problems.\n\nCompletion Times\n\n| Student | Time (min) |\n|---------|------------|\n| Mario   | 12.068     |\n| Rosa    | 11.450     |\n| Chris   | 12.495     |\n| Jessica | 11.50      |\n| Nellie  | 12.085     |\n\nIf the times are ordered from least to greatest number of minutes, in what position would Nellie's time be?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Second"
+    },
+    {
+      "label": "B",
+      "text": "Third"
+    },
+    {
+      "label": "C",
+      "text": "Fourth"
+    },
+    {
+      "label": "D",
+      "text": "Fifth"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing students and times"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

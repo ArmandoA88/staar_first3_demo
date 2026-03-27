@@ -1,0 +1,33 @@
+{
+  "stem": "A school bus was used for a field trip. Which situation about the school bus most likely yields data without variability?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of seats on the school bus"
+    },
+    {
+      "label": "B",
+      "text": "The speed of the school bus"
+    },
+    {
+      "label": "C",
+      "text": "The temperature inside the school bus"
+    },
+    {
+      "label": "D",
+      "text": "The amount of fuel in the fuel tank of the school bus"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A The number of seats on the school bus",
+    "B The speed of the school bus",
+    "C The temperature inside the school bus",
+    "D The amount of fuel in the fuel tank of the school bus"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

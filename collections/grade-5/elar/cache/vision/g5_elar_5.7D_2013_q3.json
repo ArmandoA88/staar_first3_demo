@@ -1,0 +1,31 @@
+{
+  "stem": "Which of these is the best summary of Scene 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "While Mike is visiting Carl during a rainstorm, they hear someone scream. Mike is frightened by it, but Carl is not."
+    },
+    {
+      "label": "B",
+      "text": "Carl and Mike watch television during a thunderstorm. They hear a scream, and at first they think it has come from the TV."
+    },
+    {
+      "label": "C",
+      "text": "As Carl and Mike begin to watch a mystery movie, they hear a scream. Carl goes outside to investigate, and Mike follows."
+    },
+    {
+      "label": "D",
+      "text": "Mike is peeking through Carl\u2019s curtains when he hears a scream. Someone is yelling for help."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q3 Passage #1",
+    "3"
+  ],
+  "item_type_inferred": "mcq",
+  "confidence": 1,
+  "notes": null
+}

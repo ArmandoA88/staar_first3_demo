@@ -1,0 +1,30 @@
+{
+  "stem": "Tyler would like to add the following detail to the second paragraph (sentences 9\u201312).\n\nIt\u2019s cold outside, but the subway is warm.\n\nWhere should Tyler insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 10"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 11"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 12"
+    },
+    {
+      "label": "D",
+      "text": "This sentence should not be added to this paragraph."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "It\u2019s cold outside, but the subway is warm."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the way the word shot is used in paragraph 8?",
+  "instruction": "Look at the dictionary entry.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "shot \\\u02c8sh\u00e4t\\ noun\n1. a throw in an effort to score points in a game 2. a small amount applied at once 3. a try or attempt 4. an effective remark"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

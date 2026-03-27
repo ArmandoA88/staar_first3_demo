@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition of the word dissolve is used in line 8?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dissolve \\d\u0259'z|\u00e4lv\\ verb\n1. to melt into a liquid\n2. to undo or break apart\n3. to fade away\n4. to be overcome with emotion"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

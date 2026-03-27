@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Meteorites are important to NASA because they hold clues about planets and the origin of the solar system. Seven scientists journeyed to the Antarctic Plateau to find meteorites for NASA. They experienced freezing temperatures and set up tents immediately."
+    },
+    {
+      "label": "B",
+      "text": "A group of scientists went to Antarctica as part of a project for NASA. The scientists worked to reassemble Nomad, an advanced robot, after it had been flown in by helicopter from the coast. With the robot's help, the scientists searched for and identified several meteorites on the ice fields."
+    },
+    {
+      "label": "C",
+      "text": "A robot named Nomad traveled long distances over rough and slippery ground in Antarctica. Nomad had already been used to explore a South American desert. Heaters were added to keep the robot's equipment warm, and studs were added to its tires so that it could move on ice without slipping."
+    },
+    {
+      "label": "D",
+      "text": "Several scientists in Antarctica used a robot named Nomad. The scientists got the robot to start searching for meteorites in the ice fields. Antarctica was different from Pennsylvania, where Nomad was first tested, and changes needed to be made to the robot's software and sensors."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

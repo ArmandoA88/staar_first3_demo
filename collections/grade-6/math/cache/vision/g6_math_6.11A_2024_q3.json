@@ -1,0 +1,30 @@
+{
+  "stem": "John is drawing right triangle PQR on a coordinate grid. The base of the triangle is shown.\n\nThe height of the triangle is 5 units. Which ordered pair could represent point R?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(4, \u2212 2)"
+    },
+    {
+      "label": "B",
+      "text": "(1, 4)"
+    },
+    {
+      "label": "C",
+      "text": "(6, \u2212 1)"
+    },
+    {
+      "label": "D",
+      "text": "(\u2212 2, 5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid showing points P at (-1, -1) and Q at (2, -1) on the x-axis"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

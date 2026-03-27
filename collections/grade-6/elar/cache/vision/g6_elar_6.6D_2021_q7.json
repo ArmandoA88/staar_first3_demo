@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Elena answers the phone and her brother Marcos tells her he is planning a surprise visit home. He is coming for their parents\u2019 anniversary party. Elena tells Gemma who then tells Aunt Laura who then tells Mom. Marcos is upset that Mom knows his surprise."
+    },
+    {
+      "label": "B",
+      "text": "Marcos plans a surprise visit home and asks his sister Elena to keep his secret. However, Elena tells her cousin, and Mom eventually hears about the plan. Marcos arrives and realizes his visit is not a surprise. Elena feels sorry and apologizes, and she is forgiven."
+    },
+    {
+      "label": "C",
+      "text": "Elena tries to keep her brother Marcos\u2019s surprise visit to herself. When her cousin Gemma visits, Elena tells her the secret. When Mom finds out, she starts to get the house ready for Marcos. She bakes his favorite cookies, and Marcos eats them when he arrives."
+    },
+    {
+      "label": "D",
+      "text": "Marcos wants to travel home from California and surprise his parents for their anniversary party. He asks Elena to keep his secret, but she tells her cousin Gemma. Marcos is at first upset that Elena told his secret but then shares some cookies with her that Mom baked."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

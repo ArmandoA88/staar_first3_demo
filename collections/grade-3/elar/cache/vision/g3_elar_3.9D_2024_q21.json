@@ -1,0 +1,28 @@
+{
+  "stem": "How is the information in the article organized?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It starts with a problem, then tells how it is solved."
+    },
+    {
+      "label": "B",
+      "text": "It starts with a cause, then tells the effect."
+    },
+    {
+      "label": "C",
+      "text": "It starts with early events, then adds later events."
+    },
+    {
+      "label": "D",
+      "text": "It starts with basic facts, then adds specific explanations."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

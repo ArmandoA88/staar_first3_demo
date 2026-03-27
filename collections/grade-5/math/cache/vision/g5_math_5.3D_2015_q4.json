@@ -1,0 +1,30 @@
+{
+  "stem": "The hundredths model in the figure is shaded to represent the multiplying of two numbers.\n\nWhich equation can be represented by the shaded parts of the model?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "80 \\times 40 = 3,200"
+    },
+    {
+      "label": "B",
+      "text": "0.08 \\times 0.04 = 0.32"
+    },
+    {
+      "label": "C",
+      "text": "0.80 \\times 0.40 = 0.32"
+    },
+    {
+      "label": "D",
+      "text": "0.08 \\times 0.04 = 0.032"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A 10x10 grid model with 8 columns in the left shaded dark gray, 4 rows in the top shaded light gray, and the overlap shaded medium gray."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": "The model represents 0.80 times 0.40 based on the shading."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph best supports which idea from the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jessica was on a special diet when she was a baby."
+    },
+    {
+      "label": "B",
+      "text": "Jessica sometimes seeks the company of other hippos."
+    },
+    {
+      "label": "C",
+      "text": "Jessica\u2019s story has made her famous around the world."
+    },
+    {
+      "label": "D",
+      "text": "Jessica\u2019s size makes keeping her as a pet difficult."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photo"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

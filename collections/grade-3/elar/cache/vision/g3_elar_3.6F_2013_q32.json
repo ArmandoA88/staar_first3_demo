@@ -1,0 +1,30 @@
+{
+  "stem": "These lines best support the idea that the speaker \u2014",
+  "instruction": "Read lines 17 and 18 from the poem.\n\nOh, please, I thought, don't tell my mom what I did yesterday!",
+  "options": [
+    {
+      "label": "F",
+      "text": "is hoping to talk about something other than school"
+    },
+    {
+      "label": "G",
+      "text": "wants to be the one who tells his mother what happened at school"
+    },
+    {
+      "label": "H",
+      "text": "wants to get home as quickly as possible"
+    },
+    {
+      "label": "J",
+      "text": "knows he did something wrong at school"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Oh, please, I thought, don't tell my mom what I did yesterday!"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 0.99,
+  "notes": null
+}

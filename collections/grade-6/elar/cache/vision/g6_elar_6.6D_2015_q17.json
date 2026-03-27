@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A girl is asked to go to the store to buy yeast for her grandmother. She takes the quickest path possible to get to the store. After buying the yeast, she uses some of the change to buy two pieces of candy. At first she does not tell her grandmother about what she has done. While the girl is sitting on the porch, her uncle suggests she tell her grandmother what is bothering her."
+    },
+    {
+      "label": "B",
+      "text": "A grandmother is baking rolls at home and notices that she does not have enough yeast. She asks her granddaughter to take a quarter to the store to buy some yeast. When the girl is at the store, she buys the yeast and also some candy. The girl arrives back at the house and tells her grandmother that she put the change in her grandmother's purse."
+    },
+    {
+      "label": "C",
+      "text": "While a girl is at a store buying yeast for her grandmother, she decides to use some of the change to buy candy and returns only a nickel to her grandmother. Later, she becomes upset about what she has done, and her uncle suggests that she tell her grandmother what she did. When the girl finally confesses, her grandmother forgives her and tells her a story about when she was young."
+    },
+    {
+      "label": "D",
+      "text": "A grandmother sends her granddaughter to the store with a quarter to buy yeast for rolls. The girl hurries to the store, where she buys the yeast. She then decides to purchase two pieces of candy instead of getting all the change back. When she returns from the store, she takes the long way home. She eventually tells her grandmother what she did at the store."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

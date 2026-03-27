@@ -1,0 +1,31 @@
+{
+  "stem": "What is most likely the main reason this fence was built?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To stop sand from sliding or blowing onto the road and covering it up"
+    },
+    {
+      "label": "G",
+      "text": "To prevent a delta from forming at the bottom of the dune"
+    },
+    {
+      "label": "H",
+      "text": "To keep water off the road"
+    },
+    {
+      "label": "J",
+      "text": "To prevent marine animals from nesting on the dune"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This photograph shows a fence between a sand dune and a road.",
+    "Photograph of a sand dune with a fence between the dune and a road."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What does the simile in these lines suggest about the teacher?",
+  "instruction": "Read lines 17 through 19.",
+  "options": [
+    {
+      "label": "A",
+      "text": "He feels saddened by Gabby's response."
+    },
+    {
+      "label": "B",
+      "text": "He thinks that he might offend Gabby."
+    },
+    {
+      "label": "C",
+      "text": "He wants to be sure to communicate his thoughts well."
+    },
+    {
+      "label": "D",
+      "text": "He has begun to change his opinion about the subject."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Teacher taps his top lip like a door the right words are hiding behind."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

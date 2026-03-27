@@ -1,0 +1,31 @@
+{
+  "stem": "What is the BEST transition to add to the beginning of sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "In the beginning"
+    },
+    {
+      "label": "G",
+      "text": "In addition"
+    },
+    {
+      "label": "H",
+      "text": "As a result"
+    },
+    {
+      "label": "J",
+      "text": "However"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2018 \u2013 Q2 Passage #1",
+    "2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

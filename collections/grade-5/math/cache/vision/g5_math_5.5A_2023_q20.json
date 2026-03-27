@@ -1,0 +1,30 @@
+{
+  "stem": "In the Venn diagram shown, Set A contains shapes with one given characteristic and Set B contains shapes with another characteristic.\n\nWhich shape most likely belongs in the intersection of Set A and Set B?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[image of rectangle]"
+    },
+    {
+      "label": "B",
+      "text": "[image of right triangle]"
+    },
+    {
+      "label": "C",
+      "text": "[image of polygon with one slanting side]"
+    },
+    {
+      "label": "D",
+      "text": "[image of polygon with arrow shape]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with Set A labeled \"Polygons with at least one right angle,\" Set B with three shapes, including parallelograms without right angles"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

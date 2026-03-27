@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "More people are visiting parks each year. If this keeps happening without any changes, parks will suffer. People like to enjoy spending their time outside. But many visitors fail to see the nature around them when they are in a park."
+    },
+    {
+      "label": "B",
+      "text": "Parks are becoming more popular. However, this is causing them harm. More money should be spent on caring for the nature in parks. This would be good for everyone. We should stop building for people, and start acting for the health of parks."
+    },
+    {
+      "label": "C",
+      "text": "People think that playgrounds are needed in parks, but the nature in parks is enough for people to enjoy. If governments add more playgrounds, the main problems of parks will continue."
+    },
+    {
+      "label": "D",
+      "text": "Trees are important for the health of people. Many trees can be found in parks. Animals such as squirrels are helpful to trees. But these trees need the help of people and governments. More attention should be given to this problem."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

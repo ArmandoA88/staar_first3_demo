@@ -1,0 +1,30 @@
+{
+  "stem": "There are 6 glasses of iced tea. Each glass has 0.3 liter of iced tea.\n\nHow many milliliters of iced tea are in all 6 glasses combined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "18,000 mL"
+    },
+    {
+      "label": "B",
+      "text": "1.8 mL"
+    },
+    {
+      "label": "C",
+      "text": "180 mL"
+    },
+    {
+      "label": "D",
+      "text": "1,800 mL"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "An icon of a gray circle containing an exclamation mark, followed by text \"2025 \u2013 Q26\"."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

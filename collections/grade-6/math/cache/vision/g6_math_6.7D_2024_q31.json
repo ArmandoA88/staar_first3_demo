@@ -1,0 +1,28 @@
+{
+  "stem": "Which pair of expressions are equivalent?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3 + 5a + (-5)\n3 + a"
+    },
+    {
+      "label": "B",
+      "text": "2a + \\frac{1}{5}(5a)\n2a + 1"
+    },
+    {
+      "label": "C",
+      "text": "- \\frac{1}{8}(-8a)\n- a"
+    },
+    {
+      "label": "D",
+      "text": "3a + 8a + (-8a)\n3a"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

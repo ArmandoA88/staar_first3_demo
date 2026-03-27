@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best describes a difference between Ricochet and Confetti?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Ricochet required training, but Confetti did not."
+    },
+    {
+      "label": "B",
+      "text": "Ricochet helps many people, but Confetti helps one person."
+    },
+    {
+      "label": "C",
+      "text": "Ricochet spends time outdoors, but Confetti works indoors."
+    },
+    {
+      "label": "D",
+      "text": "Ricochet does not notice other animals, but Confetti does."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

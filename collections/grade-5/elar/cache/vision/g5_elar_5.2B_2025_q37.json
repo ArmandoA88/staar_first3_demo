@@ -1,0 +1,35 @@
+{
+  "stem": "Select the response that corrects the spelling error in sentence 10.\n\nExperts say that bedtime routines can be just as [blank_1].",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "effective"
+    },
+    {
+      "label": null,
+      "text": "effecttive"
+    },
+    {
+      "label": null,
+      "text": "effictive"
+    },
+    {
+      "label": null,
+      "text": "efective"
+    }
+  ],
+  "choice_pool": [
+    "effective",
+    "effecttive",
+    "effictive",
+    "efective"
+  ],
+  "response_template": "Experts say that bedtime routines can be just as [blank_1].",
+  "visual_elements": [
+    "dropdown"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

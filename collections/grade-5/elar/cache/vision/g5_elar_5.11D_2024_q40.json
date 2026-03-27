@@ -1,0 +1,34 @@
+{
+  "stem": "What change is needed in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *you're* to *your*"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after *excited*"
+    },
+    {
+      "label": "C",
+      "text": "Change *but* to *But*"
+    },
+    {
+      "label": "D",
+      "text": "Change *rember* to *remember*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change is needed in sentence 6?",
+    "A Change *you're* to *your*",
+    "B Delete the comma after *excited*",
+    "C Change *but* to *But*",
+    "D Change *rember* to *remember*"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

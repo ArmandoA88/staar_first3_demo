@@ -1,0 +1,30 @@
+{
+  "stem": "The poet uses the simile in these lines to describe \u2014",
+  "instruction": "Read lines 6 and 7 from the poem.\n\nLike sails catching a sudden gust\nThose frail folded flaps unfurl;",
+  "options": [
+    {
+      "label": "F",
+      "text": "the damage the wind has done to the butterfly's wings"
+    },
+    {
+      "label": "G",
+      "text": "the quickness and fullness of the butterfly's spreading wings"
+    },
+    {
+      "label": "H",
+      "text": "the colors of the butterfly's new wings"
+    },
+    {
+      "label": "J",
+      "text": "the size of the butterfly's wings compared to a ship's sails"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Like sails catching a sudden gust\nThose frail folded flaps unfurl;"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

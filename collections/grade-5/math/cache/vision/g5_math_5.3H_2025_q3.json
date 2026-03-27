@@ -1,0 +1,30 @@
+{
+  "stem": "The models shown represent the fraction of all cookies sold at a bake sale that were vanilla and the fraction that were chocolate.\n\nWhat is the difference between the fraction of chocolate cookies sold and the fraction of vanilla cookies sold?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{12} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{7}{12} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{5}{12} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{11}{12} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two fraction models: \n1) An 8-part square with 3 parts shaded representing vanilla.\n2) A 4-part square with 3 parts shaded representing chocolate."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

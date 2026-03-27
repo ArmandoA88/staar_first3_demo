@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is NOT equivalent to \\( \\tfrac{1}{2} \\cdot (x - 6) \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\tfrac{1}{2} x - 6 \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\tfrac{1}{2} x - \\tfrac{6}{2} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\tfrac{x}{2} - 3 \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\tfrac{x - 6}{2} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\tfrac{1}{2} \\cdot (x - 6) \\)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

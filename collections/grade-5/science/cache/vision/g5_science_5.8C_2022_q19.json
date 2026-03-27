@@ -1,0 +1,35 @@
+{
+  "stem": "Which statement describes a behavior of light in the microscope?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Light travels through the microscope lens without changing direction."
+    },
+    {
+      "label": "B",
+      "text": "Moving in straight lines causes light to increase in brightness."
+    },
+    {
+      "label": "C",
+      "text": "Light refracts through the lens of the microscope."
+    },
+    {
+      "label": "D",
+      "text": "Moving in straight lines keeps light from reflecting."
+    }
+  ],
+  "choice_pool": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "photo of a girl observing a microscope"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

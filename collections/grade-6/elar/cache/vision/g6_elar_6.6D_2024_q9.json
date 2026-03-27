@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence should be included in this paragraph to create a complete summary of the selection?",
+  "instruction": "Read the following paragraph.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Studies show that young people learn languages more easily than adults."
+    },
+    {
+      "label": "B",
+      "text": "Some people believe young children are not prepared to learn languages in the classroom."
+    },
+    {
+      "label": "C",
+      "text": "Toddlers can understand words from new languages before they can speak them."
+    },
+    {
+      "label": "D",
+      "text": "Pen pal projects allow young students to communicate with other students around the world."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Many people in the United States speak at least two languages. Learning a foreign language gives students new ways to communicate, but mastering an accent can be difficult. There are many ways to learn a new language, but the immersion method is especially effective. Classrooms using this method require students to use only the language they are learning. Besides the ability to communicate, children who learn a new language also improve their memory and thinking skills."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Which idea in the selection \u201cRiding Out West\u201d is SIMILAR in the poem \u201cGoing Home (Burlington Route)\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "People value the freedom to move easily from one place to another."
+    },
+    {
+      "label": "B",
+      "text": "People prefer to travel to places that are the farthest away from their homes."
+    },
+    {
+      "label": "C",
+      "text": "People believe traveling to new places will help them find better opportunities."
+    },
+    {
+      "label": "D",
+      "text": "People should work together to find new ways to appreciate the world around them."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text",
+    "answer choices in rounded rectangles"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

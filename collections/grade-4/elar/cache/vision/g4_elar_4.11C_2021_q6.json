@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best way to revise sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "First, she drew a bright painting, drawing bright pink flowers, ladybugs, and a butterfly."
+    },
+    {
+      "label": "G",
+      "text": "First, she drew a bright painting with pink flowers, ladybugs, and a butterfly."
+    },
+    {
+      "label": "H",
+      "text": "First, she drew a bright painting, the painting had bright pink flowers, ladybugs, and also a butterfly."
+    },
+    {
+      "label": "J",
+      "text": "Sentence 15 does not need to be revised."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q6 Passage #2"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to 38(251m - 45)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "38 \\cdot 251m - 38 \\cdot 45"
+    },
+    {
+      "label": "G",
+      "text": "38(206m)"
+    },
+    {
+      "label": "H",
+      "text": "-7(251m)"
+    },
+    {
+      "label": "J",
+      "text": "38 \\cdot 251m - 45"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "38(251m - 45)",
+    "38 \\cdot 251m - 38 \\cdot 45",
+    "38(206m)",
+    "-7(251m)",
+    "38 \\cdot 251m - 45"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

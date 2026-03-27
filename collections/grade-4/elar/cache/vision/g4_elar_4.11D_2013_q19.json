@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I wanted to take it off my dad. Who kept telling me that I would get used to it."
+    },
+    {
+      "label": "B",
+      "text": "I wanted to take it off, and my dad kept telling me. That I would get used to it."
+    },
+    {
+      "label": "C",
+      "text": "I wanted to take it off, but my dad kept telling me that I would get used to it."
+    },
+    {
+      "label": "D",
+      "text": "The sentence is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

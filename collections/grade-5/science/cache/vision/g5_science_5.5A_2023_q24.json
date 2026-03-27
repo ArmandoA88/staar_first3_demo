@@ -1,0 +1,32 @@
+{
+  "stem": "Students use a circuit to investigate the properties of six objects. The buzzer makes a sound if an object completes the circuit. The circuit and observations are shown.\n\nWhich objects are electrical insulators?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Eraser, toothpick, cotton ball"
+    },
+    {
+      "label": "B",
+      "text": "Eraser, paper clip, safety pin"
+    },
+    {
+      "label": "C",
+      "text": "Toothpick, paper clip, safety pin"
+    },
+    {
+      "label": "D",
+      "text": "Paper clip, safety pin, aluminum foil"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of electric circuit with battery, buzzer, and a question mark in series.",
+    "Table with two columns: Object and Buzzer sounds?",
+    "Objects listed: 1. Eraser - No, 2. Toothpick - No, 3. Paper clip - Yes, 4. Cotton ball - No, 5. Safety pin - Yes, 6. Aluminum foil - Yes"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "The term 'electrical insulators' corresponds to the objects for which the buzzer does not sound (No)."
+}

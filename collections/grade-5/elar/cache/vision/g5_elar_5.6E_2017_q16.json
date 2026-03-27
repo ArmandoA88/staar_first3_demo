@@ -1,0 +1,30 @@
+{
+  "stem": "What is one main difference between the event the author describes in the article and the event the speaker describes in the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The type of cherry pit that is used"
+    },
+    {
+      "label": "G",
+      "text": "The setting"
+    },
+    {
+      "label": "H",
+      "text": "The excitement people feel"
+    },
+    {
+      "label": "J",
+      "text": "The rules that are followed"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

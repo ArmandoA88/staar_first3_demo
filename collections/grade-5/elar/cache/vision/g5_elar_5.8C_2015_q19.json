@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the story hints that the merchant plans to trick the peasant?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Each time the merchant came to a crossroads, he told everyone that he would give one hundred lei to anyone who found the money."
+    },
+    {
+      "label": "B",
+      "text": "The merchant trusted no one, so he went aside to count the money."
+    },
+    {
+      "label": "C",
+      "text": "To his surprise, all one thousand coins were still in the bag."
+    },
+    {
+      "label": "D",
+      "text": "He wondered how he could get out of his promise and still appear to be fair."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

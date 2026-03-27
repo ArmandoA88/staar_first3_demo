@@ -1,0 +1,43 @@
+{
+  "stem": "What is the MOST effective way to combine sentences 10 and 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "As I stood up straight, my backpack knocked Ms. Kessler\u2019s coffee mug onto the floor."
+    },
+    {
+      "label": "B",
+      "text": "While I stood up straight with my backpack, it knocked Ms. Kessler\u2019s coffee mug and onto the floor."
+    },
+    {
+      "label": "C",
+      "text": "I stood up straight and knocked my backpack and Ms. Kessler\u2019s coffee mug onto the floor."
+    },
+    {
+      "label": "D",
+      "text": "I stood up straight, and my backpack knocked and bumped Ms. Kessler\u2019s coffee mug onto the floor."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q27 Passage #4",
+    "What is the MOST effective way to combine sentences 10 and 11?",
+    {
+      "A": "As I stood up straight, my backpack knocked Ms. Kessler\u2019s coffee mug onto the floor."
+    },
+    {
+      "B": "While I stood up straight with my backpack, it knocked Ms. Kessler\u2019s coffee mug and onto the floor."
+    },
+    {
+      "C": "I stood up straight and knocked my backpack and Ms. Kessler\u2019s coffee mug onto the floor."
+    },
+    {
+      "D": "I stood up straight, and my backpack knocked and bumped Ms. Kessler\u2019s coffee mug onto the floor."
+    }
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

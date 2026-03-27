@@ -1,0 +1,30 @@
+{
+  "stem": "A carpenter wants to cut a board that is \\( \\frac{5}{6} \\) ft long into pieces that are \\( \\frac{5}{16} \\) ft long. The carpenter will use the expression shown to calculate the number of pieces that can be cut from the board.\n\n\\(\n\\frac{5}{6} \\div \\frac{5}{16}\n\\)\n\nWhich expression can also be used to calculate the number of pieces that can be cut from the board?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( \\frac{5}{6} \\cdot \\frac{16}{5} \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( \\frac{5}{6} \\cdot \\frac{5}{16} \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( \\frac{6}{5} \\div \\frac{5}{16} \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( \\frac{6}{5} \\div \\frac{16}{5} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{5}{6} \\div \\frac{5}{16} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

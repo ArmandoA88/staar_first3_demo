@@ -1,0 +1,30 @@
+{
+  "stem": "The stem and leaf plot shows the numbers of minutes the members of a team jumped rope during practice.\n\nPractice Times\n\nStem | Leaf\n1 | 9 9\n2 | 0 1 3\n3 | 3 4 6 7\n4 | 1 1 3 5 9 9\n5 | 0 4 2\n6 | 3 5 6\n\n3|6 means 36 minutes.\n\nWhat is the difference between the least number of minutes jumped and the greatest number of minutes jumped?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "47"
+    },
+    {
+      "label": "B",
+      "text": "9"
+    },
+    {
+      "label": "C",
+      "text": "5"
+    },
+    {
+      "label": "D",
+      "text": "49"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "stem and leaf plot"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

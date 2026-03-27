@@ -1,0 +1,31 @@
+{
+  "stem": "Which of these lines from the poem rhyme?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Lines 2 and 4"
+    },
+    {
+      "label": "B",
+      "text": "Lines 8 and 9"
+    },
+    {
+      "label": "C",
+      "text": "Lines 11 and 13"
+    },
+    {
+      "label": "D",
+      "text": "Lines 15 and 16"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q23 Passage #3",
+    "23"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

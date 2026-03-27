@@ -1,0 +1,31 @@
+{
+  "stem": "A student wants to classify four different objects based on physical properties. The student uses the questions shown in the table to test each object.\n\nWhich statement correctly identifies two of the materials based on the classification of properties in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Material 1 is a rubber ball.\nMaterial 2 is a piece of cardboard."
+    },
+    {
+      "label": "G",
+      "text": "Material 2 is an aluminum washer.\nMaterial 3 is a copper wire."
+    },
+    {
+      "label": "H",
+      "text": "Material 3 is a piece of cardboard.\nMaterial 4 is an aluminum washer."
+    },
+    {
+      "label": "J",
+      "text": "Material 1 is a copper wire.\nMaterial 4 is a rubber ball."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns: Materials / Insulate Thermal Energy? / Float in Water? / Conduct Electrical Energy? \nRows:\n1 / Yes / No / No\n2 / No / No / Yes\n3 / Yes / Yes / No\n4 / No / No / Yes",
+    "Images labeled as Materials:\n- Aluminum washer\n- Copper wire\n- Rubber ball\n- Piece of cardboard"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which table contains only values that follow the same rule, y = x + 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x  y\n7  3\n8  4\n12 8"
+    },
+    {
+      "label": "B",
+      "text": "x  y\n5  9\n6  10\n19 11"
+    },
+    {
+      "label": "C",
+      "text": "x  y\n0  4\n6  10\n19 23"
+    },
+    {
+      "label": "D",
+      "text": "x  y\n1  4\n6  24\n19 76"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The graph shows three points that follow the rule y = x + 4.\n\nGraph with points at (3,7), (4,8), (8,12)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

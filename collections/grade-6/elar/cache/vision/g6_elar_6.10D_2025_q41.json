@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change possibly to hardly"
+    },
+    {
+      "label": "B",
+      "text": "Change semmester to semester"
+    },
+    {
+      "label": "C",
+      "text": "Change of to for"
+    },
+    {
+      "label": "D",
+      "text": "Change world's to worlds'"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 9?",
+    "\u24b6 Change possibly to hardly",
+    "\u24b7 Change semmester to semester",
+    "\u24b8 Change of to for",
+    "\u24b9 Change world's to worlds'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

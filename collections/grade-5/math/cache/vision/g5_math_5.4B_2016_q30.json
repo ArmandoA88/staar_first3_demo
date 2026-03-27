@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the number of hats made at a factory during three weeks in February. The number of hats made in Week 4 is represented by n.\n\nThe total number of hats made at the factory in February was 2,148,431. Which equation represents this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "2,148,431 = (562,937 + 607,822 + 492,375) + n"
+    },
+    {
+      "label": "G",
+      "text": "2,148,431 = (562,937 + 607,822 + 492,375) - n"
+    },
+    {
+      "label": "H",
+      "text": "2,148,431 = (562,937 + 607,822 + 492,375) \\times n"
+    },
+    {
+      "label": "J",
+      "text": "2,148,431 = (562,937 + 607,822 + 492,375) \\div n"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Week and Number of Hats: Week 1=562,937; Week 2=607,822; Week 3=492,375; Week 4=n"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

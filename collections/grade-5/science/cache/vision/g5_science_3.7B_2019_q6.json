@@ -1,0 +1,30 @@
+{
+  "stem": "Students fill a cart with books. The cart has a handle on each end.\n\nWhich actions will make moving the cart in one direction easiest for the students?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Student 1 pulls the cart to the left while Student 2 pulls the cart to the right."
+    },
+    {
+      "label": "G",
+      "text": "Student 1 pulls the cart to the left while Student 2 pushes the cart to the left."
+    },
+    {
+      "label": "H",
+      "text": "Student 1 pushes the cart to the right while Student 2 pushes the cart downward."
+    },
+    {
+      "label": "J",
+      "text": "Student 1 pushes the cart to the right while Student 2 pulls the cart upward."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of two students pulling a cart with books labeled Student 1 and Student 2, with Left and Right directional arrows"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

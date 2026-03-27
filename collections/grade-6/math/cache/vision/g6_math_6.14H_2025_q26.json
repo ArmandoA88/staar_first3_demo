@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the information in the table, how much more money will a sound engineering technician earn over a period of 5 years than a journalist will?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$4,690"
+    },
+    {
+      "label": "B",
+      "text": "$129,490"
+    },
+    {
+      "label": "C",
+      "text": "$48,850"
+    },
+    {
+      "label": "D",
+      "text": "$23,450"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Media and Communications Annual Salaries' with columns 'Occupation' and 'Salary (dollars)': Journalist - 62,400; Film and video editor - 87,300; Technical writer - 76,860; Sound engineering technician - 67,090."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Nathan threw each of 4 beanbags at a target and scored points based on where the beanbags landed. The results of Nathan\u2019s beanbag throws are shown in the table.\n\nNathan\u2019s Results\n\n| Beanbag Throw | Points Scored |\n|---------------|---------------|\n| 1             | 2             |\n| 2             | -4            |\n| 3             | -1            |\n| 4             | 1             |\n\nWhat was the total number of points scored by Nathan in his 4 throws?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-6"
+    },
+    {
+      "label": "B",
+      "text": "-4"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns 'Beanbag Throw' and 'Points Scored' showing four rows: (1,2), (2,-4), (3,-1), (4,1)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

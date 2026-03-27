@@ -1,0 +1,36 @@
+{
+  "stem": "Which switches must be closed for Bulb 1 to remain dark but Bulb 2 to produce light?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Switch 1 only must be closed."
+    },
+    {
+      "label": "B",
+      "text": "Switches 2 and 3 must be closed."
+    },
+    {
+      "label": "C",
+      "text": "Switches 1 and 3 must be closed."
+    },
+    {
+      "label": "D",
+      "text": "Switches 1, 2, and 3 must be closed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Battery",
+    "Switch 1",
+    "Switch 2",
+    "Switch 3",
+    "Bulb 1",
+    "Bulb 2",
+    "Circuit diagram showing battery connected through Switch 1 leading to two parallel branches: one with Switch 2 and Bulb 1, and another with Switch 3 and Bulb 2."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

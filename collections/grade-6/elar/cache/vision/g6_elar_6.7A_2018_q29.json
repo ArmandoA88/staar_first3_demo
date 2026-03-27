@@ -1,0 +1,28 @@
+{
+  "stem": "What is the primary theme of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sharing with others helps develop strong relationships."
+    },
+    {
+      "label": "B",
+      "text": "Focusing on work can produce great rewards."
+    },
+    {
+      "label": "C",
+      "text": "Role models often have faults."
+    },
+    {
+      "label": "D",
+      "text": "Greed can have harmful consequences."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

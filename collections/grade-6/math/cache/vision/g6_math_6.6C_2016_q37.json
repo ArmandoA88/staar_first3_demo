@@ -1,0 +1,28 @@
+{
+  "stem": "Which table shows only values that represent the following relationship between q and r?\n\nr = q + 10.1",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "q  r\n5  50.5\n7  70.7\n9  90.9\n11 111.1"
+    },
+    {
+      "label": "B",
+      "text": "q  r\n5  15.1\n7  17.1\n9  19.1\n11 21.1"
+    },
+    {
+      "label": "C",
+      "text": "q  r\n5  10.6\n7  10.8\n9  11.0\n11 11.2"
+    },
+    {
+      "label": "D",
+      "text": "q  r\n5  15.1\n7  15.3\n9  15.5\n11 15.7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Which graphic organizer correctly classifies the shapes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Parallelogram\n  - Trapezoid\n  - Rectangle"
+    },
+    {
+      "label": "B",
+      "text": "Parallelogram\n  - Rhombus\n  - Pentagon"
+    },
+    {
+      "label": "C",
+      "text": "Polygon\n  - Circle\n  - Hexagon"
+    },
+    {
+      "label": "D",
+      "text": "Polygon\n  - Triangle\n  - Quadrilateral"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graphic organizer A showing Parallelogram branching to Trapezoid and Rectangle",
+    "Graphic organizer B showing Parallelogram branching to Rhombus and Pentagon",
+    "Graphic organizer C showing Polygon branching to Circle and Hexagon",
+    "Graphic organizer D showing Polygon branching to Triangle and Quadrilateral"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

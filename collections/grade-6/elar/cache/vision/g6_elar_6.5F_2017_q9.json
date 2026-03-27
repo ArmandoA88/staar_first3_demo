@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement expresses a main theme of the play?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Writing can be a helpful way to deal with stress."
+    },
+    {
+      "label": "B",
+      "text": "Keeping secrets can lead to problems in a relationship."
+    },
+    {
+      "label": "C",
+      "text": "It is best to apologize when something wrong has been done."
+    },
+    {
+      "label": "D",
+      "text": "People must make time for one another in order for relationships to thrive."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

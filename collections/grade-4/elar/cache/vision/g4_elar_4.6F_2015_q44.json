@@ -1,0 +1,30 @@
+{
+  "stem": "What does this sentence suggest about Becky's father?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He was familiar with the methods used by successful scientists."
+    },
+    {
+      "label": "G",
+      "text": "He wanted to share the credit for his daughter's invention."
+    },
+    {
+      "label": "H",
+      "text": "He was willing to support his daughter's idea."
+    },
+    {
+      "label": "J",
+      "text": "He was the person responsible for his daughter's success."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Becky's father took her to a hardware store, where they bought a special paint that glows after it has been exposed to light for a short time."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

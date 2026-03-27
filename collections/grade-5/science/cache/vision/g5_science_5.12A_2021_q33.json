@@ -1,0 +1,30 @@
+{
+  "stem": "A student\u2019s model of a closed ecosystem is shown. The student plans to add land snails to the model in order to show how the snails interact with different parts of the ecosystem.\n\nWhat should the student add to the model so that the snails will survive?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Fish to provide food"
+    },
+    {
+      "label": "B",
+      "text": "Sticks to provide a place to hide"
+    },
+    {
+      "label": "C",
+      "text": "Deep water to provide carbon dioxide"
+    },
+    {
+      "label": "D",
+      "text": "Living plants to provide oxygen"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "tank model with labeled parts: Shredded newspaper for food, Rock, Sand, Water, Gravel, and a light above"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

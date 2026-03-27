@@ -1,0 +1,31 @@
+{
+  "stem": "The length of a rectangle is 7 inches, and the area of the rectangle is 199.5 square inches. What is the width of the rectangle in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "28.5 in."
+    },
+    {
+      "label": "G",
+      "text": "192.5 in."
+    },
+    {
+      "label": "H",
+      "text": "1,396.5 in."
+    },
+    {
+      "label": "J",
+      "text": "206.5 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "199.5 square inches",
+    "7 inches"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

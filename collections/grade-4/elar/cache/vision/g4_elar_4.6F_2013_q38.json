@@ -1,0 +1,30 @@
+{
+  "stem": "These lines suggest that Cara believes the chair \u2014",
+  "instruction": "Read these lines from the play.",
+  "options": [
+    {
+      "label": "F",
+      "text": "has no value"
+    },
+    {
+      "label": "G",
+      "text": "is not used often enough"
+    },
+    {
+      "label": "H",
+      "text": "will take too long to repair"
+    },
+    {
+      "label": "J",
+      "text": "is uncomfortable"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "CARA: Seriously? No offense, Grandpa, but that thing belongs in the garbage."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change play to plays"
+    },
+    {
+      "label": "G",
+      "text": "Change soccer or football to Soccer or Football"
+    },
+    {
+      "label": "H",
+      "text": "Change\u00a0chassing to chasing"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in sentence 7."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

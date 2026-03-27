@@ -1,0 +1,30 @@
+{
+  "stem": "The Venn diagram shows the relationships among different sets of numbers.\n\nWhich number would be located in the shaded part of the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-1.7"
+    },
+    {
+      "label": "G",
+      "text": "-8"
+    },
+    {
+      "label": "H",
+      "text": "\\( \\frac{2}{3} \\)"
+    },
+    {
+      "label": "J",
+      "text": "10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A Venn diagram with two concentric circles. The inner circle is labeled 'Whole numbers' and the outer ring around it is labeled 'Integers'. The shaded area is the outer ring labeled 'Integers' but outside the inner circle of whole numbers."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

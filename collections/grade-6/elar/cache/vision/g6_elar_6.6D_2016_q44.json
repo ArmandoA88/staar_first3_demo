@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Charlie Joe attends a conference with his parents and his teacher. His father says that Charlie Joe\u2019s grades have worsened and must be improved. The teacher hands Charlie Joe\u2019s father a brochure about a camp, and Charlie Joe realizes it is an educational camp. Because of this, he does not want to go."
+    },
+    {
+      "label": "G",
+      "text": "One day at school, Charlie Joe and his parents attend a conference with Charlie Joe\u2019s teacher. At first Ms. Ferrell describes Charlie Joe\u2019s good qualities, but Charlie Joe\u2019s father is concerned about his academic performance. Ms. Ferrell suggests that Charlie Joe attend a summer camp that is educational but also fun."
+    },
+    {
+      "label": "H",
+      "text": "Charlie Joe meets with his parents and teacher for a conference at school. Charlie Joe does not want to go to summer camp. Instead, he says he will get good grades. His parents are not sure whether to accept his offer, so they try to determine whether Charlie Joe is serious."
+    },
+    {
+      "label": "J",
+      "text": "During a parent and teacher conference, Charlie Joe\u2019s teacher suggests that Charlie Joe attend an educational summer camp. Charlie Joe\u2019s father thinks the camp is a good idea, but Charlie Joe does not want to go. He bargains to make excellent grades rather than attend the camp. His parents agree to this offer."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

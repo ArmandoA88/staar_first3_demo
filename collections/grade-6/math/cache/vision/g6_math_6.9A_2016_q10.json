@@ -1,0 +1,28 @@
+{
+  "stem": "Mr. Smith has a maximum of $50 to spend at a museum. A ticket to the museum costs $7. He can spend p dollars to buy other things at the museum. Which inequality can be used to find the possible values for p?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "p - 7 > 50"
+    },
+    {
+      "label": "G",
+      "text": "p - 7 < 50"
+    },
+    {
+      "label": "H",
+      "text": "p + 7 \u2265 50"
+    },
+    {
+      "label": "J",
+      "text": "p + 7 \u2264 50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

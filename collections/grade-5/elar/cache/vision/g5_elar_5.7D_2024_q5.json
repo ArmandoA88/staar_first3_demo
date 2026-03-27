@@ -1,0 +1,30 @@
+{
+  "stem": "Read these sentences from paragraph 5.\n\n_It is often hard for designers to come up with shapes and styles that have not been made already. But a new kind of fabric can bring something fresh to their work._\n\nWhat is the best paraphrase of these sentences?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Having new fabrics to choose from can help designers solve the difficult task of thinking of original ideas for clothing."
+    },
+    {
+      "label": "B",
+      "text": "Designers can have a difficult time figuring out how to make interesting styles with new fabrics."
+    },
+    {
+      "label": "C",
+      "text": "It can be challenging for designers to make new fabrics work with their current styles."
+    },
+    {
+      "label": "D",
+      "text": "Using different fabrics can help designers with the challenging task of making their old clothing look new again."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "boxed text with italic font"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

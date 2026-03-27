@@ -1,0 +1,28 @@
+{
+  "stem": "Mr. Anderson had 185 pieces of wood. He sold 25 pieces of wood to his neighbor and stacked the rest of the wood into piles around his house. Each pile of wood contained 40 pieces of wood. Which equation can be used to find p, the number of piles of wood Mr. Anderson made?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "p = (185 + 25) + 40"
+    },
+    {
+      "label": "G",
+      "text": "p = (185 \u2212 25) \u2212 40"
+    },
+    {
+      "label": "H",
+      "text": "p = (185 + 25) \u00d7 40"
+    },
+    {
+      "label": "J",
+      "text": "p = (185 \u2212 25) \u00f7 40"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

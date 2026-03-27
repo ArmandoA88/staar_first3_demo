@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph below the title represents which part of the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Lines 1\u20137"
+    },
+    {
+      "label": "B",
+      "text": "Lines 8\u201313"
+    },
+    {
+      "label": "C",
+      "text": "Lines 14\u201322"
+    },
+    {
+      "label": "D",
+      "text": "Lines 25\u201330"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph below title"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

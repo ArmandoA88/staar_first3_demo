@@ -1,0 +1,30 @@
+{
+  "stem": "A team of workers took 167.3 hours to complete a task. A smaller team of workers will complete the same task, but it will take them 1.25 times as long as it took the first team.\n\nBased on this information, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The task will take the smaller team of workers 168.55 hours to complete, because 167.3 + 1.25 = 168.55."
+    },
+    {
+      "label": "G",
+      "text": "The task will take the smaller team of workers 179.8 hours to complete, because 167.3 + 1.25 = 179.8."
+    },
+    {
+      "label": "H",
+      "text": "The task will take the smaller team of workers 198.825 hours to complete, because 167.3 \u00d7 1.25 = 198.825."
+    },
+    {
+      "label": "J",
+      "text": "The task will take the smaller team of workers 209.125 hours to complete, because 167.3 \u00d7 1.25 = 209.125."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A math problem about workers and time with four answer choices labeled F, G, H, and J."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

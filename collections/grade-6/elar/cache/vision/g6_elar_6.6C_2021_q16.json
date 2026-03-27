@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement from the selection best supports the idea in this sentence?\n\nAs one observer said, the move was a \"once-in-forever moment in history.\"",
+  "instruction": "Read this sentence from paragraph 1 of the selection \"A Massive Mission.\"",
+  "options": [
+    {
+      "label": "F",
+      "text": "Strapped to the back of a specially adapted Boeing 747 airplane, it was flown across the country to Edwards Air Force Base in California. (paragraph 2)"
+    },
+    {
+      "label": "G",
+      "text": "After soaring past the famous Hollywood sign, Endeavour landed at the Los Angeles International Airport. (paragraph 2)"
+    },
+    {
+      "label": "H",
+      "text": "Huge steel plates were placed atop streets along the route. (paragraph 3)"
+    },
+    {
+      "label": "J",
+      "text": "Dozens of photographers and filmmakers were on hand to capture every minute. (paragraph 3)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "As one observer said, the move was a \"once-in-forever moment in history.\""
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

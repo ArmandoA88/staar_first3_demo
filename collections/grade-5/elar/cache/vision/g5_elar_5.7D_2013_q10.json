@@ -1,0 +1,30 @@
+{
+  "stem": "What is paragraph 2 mainly about?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Christiansen worked as a carpenter."
+    },
+    {
+      "label": "G",
+      "text": "The word \u201cLEGO\u201d is a Danish word that means \u201cplay well.\u201d"
+    },
+    {
+      "label": "H",
+      "text": "Christiansen changed LEGO toys from wood to plastic."
+    },
+    {
+      "label": "J",
+      "text": "The first plastic LEGO brick was produced in 1958."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,50 @@
+{
+  "stem": "In the electric circuit shown, which lightbulbs will shine when Switch 1 is open and Switches 2 and 3 are closed?",
+  "instruction": "Select THREE correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "Top left lightbulb"
+    },
+    {
+      "label": null,
+      "text": "Top middle lightbulb"
+    },
+    {
+      "label": null,
+      "text": "Top right lightbulb"
+    },
+    {
+      "label": null,
+      "text": "Middle left lightbulb"
+    },
+    {
+      "label": null,
+      "text": "Middle middle lightbulb"
+    },
+    {
+      "label": null,
+      "text": "Middle right lightbulb"
+    },
+    {
+      "label": null,
+      "text": "Bottom left lightbulb"
+    },
+    {
+      "label": null,
+      "text": "Bottom middle lightbulb"
+    },
+    {
+      "label": null,
+      "text": "Bottom right lightbulb"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "electric circuit diagram with battery, three switches, and nine lightbulbs arranged in three rows"
+  ],
+  "item_type_inferred": "Multiple Selection",
+  "confidence": 1,
+  "notes": null
+}

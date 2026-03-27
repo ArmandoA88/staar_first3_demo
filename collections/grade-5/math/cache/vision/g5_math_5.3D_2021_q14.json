@@ -1,0 +1,31 @@
+{
+  "stem": "This model is shaded to represent 1 whole.\n\nWhich model represents 0.9 \\times 0.4 = 0.36?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(grid with leftmost column and top row shaded)"
+    },
+    {
+      "label": "G",
+      "text": "(grid fully shaded except bottom right corner)"
+    },
+    {
+      "label": "H",
+      "text": "(grid with top 4 rows shaded fully and left 6 columns shaded in the bottom 6 rows)"
+    },
+    {
+      "label": "J",
+      "text": "(grid with leftmost 4 columns shaded fully)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1 whole grid shaded",
+    "4 smaller grids labeled F, G, H, J with various shading patterns"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

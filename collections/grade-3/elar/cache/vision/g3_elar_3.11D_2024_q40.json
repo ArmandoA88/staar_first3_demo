@@ -1,0 +1,35 @@
+{
+  "stem": "Sentence 8 contains an error. Select the response that corrects the error in this sentence.\n\nFirst a fuzzy shadow appeared on the side [blank_1] the moon.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "on the side of the moon."
+    },
+    {
+      "label": "B",
+      "text": "on the side in the moon."
+    },
+    {
+      "label": "C",
+      "text": "beside the moon."
+    },
+    {
+      "label": "D",
+      "text": "at the side the moon."
+    }
+  ],
+  "choice_pool": [
+    "of",
+    "in",
+    "beside",
+    "at"
+  ],
+  "response_template": "First a fuzzy shadow appeared on the side [blank_1] the moon.",
+  "visual_elements": [
+    "dropdown box"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

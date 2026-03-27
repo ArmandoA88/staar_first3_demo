@@ -1,0 +1,30 @@
+{
+  "stem": "Students perform an investigation to determine which of four materials will keep a hot drink warm for the longest period of time.\n\nThe students gather four different cups, each made of a different material. The cups are the same size. The teacher pours equal amounts of heated water into the cups.\n\nThe students record the temperature of the water in each cup every minute for 4 minutes. The results are shown in the table.\n\n| Material | Temperature (\u00b0C)                |\n|----------|--------------------------------|\n|          | 0 Minutes | 1 Minute | 2 Minutes | 3 Minutes | 4 Minutes |\n| 1        | 100       | 92       | 84        | 75        | 67        |\n| 2        | 100       | 90       | 82        | 73        | 64        |\n| 3        | 100       | 85       | 70        | 65        | 50        |\n| 4        | 100       | 96       | 92        | 88        | 84        |\n\nPart A\nWhich material will keep a hot drink warm for the longest period of time?",
+  "instruction": "This question has two parts. First, answer Part A. Then answer Part B.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Material 1"
+    },
+    {
+      "label": "B",
+      "text": "Material 2"
+    },
+    {
+      "label": "C",
+      "text": "Material 3"
+    },
+    {
+      "label": "D",
+      "text": "Material 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with temperatures of water in cups made of materials 1 to 4 recorded every minute for 4 minutes"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Includes Part A multiple choice only; Part B not included as per instruction to extract one problem."
+}

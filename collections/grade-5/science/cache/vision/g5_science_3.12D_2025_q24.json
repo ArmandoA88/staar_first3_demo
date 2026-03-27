@@ -1,0 +1,34 @@
+{
+  "stem": "Scientists examine the diagram shown, which has information about the fossils found in different layers of rock.\n\nThe scientists believe that a sudden change in the environment at one point led to the disappearance of all the animals in the area.\n\nWhich statements are supported by the information in the diagram?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "Large trees most likely grew in Layers 4 and 5."
+    },
+    {
+      "label": null,
+      "text": "At one time the entire area was covered by an ocean."
+    },
+    {
+      "label": null,
+      "text": "The formation of Layer 4 occurred before the formation of Layer 5."
+    },
+    {
+      "label": null,
+      "text": "Layer 1 supported only large populations of aquatic plants."
+    },
+    {
+      "label": null,
+      "text": "The disappearance of the animals occurred before the formation of Layer 1."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram with 5 layers labeled Layer 1 through Layer 5, showing fossils types:\nLayer 1: Fossils of plants and land animals\nLayer 2: Fossils of plants only\nLayer 3: Fossils of many types of aquatic animals and plants\nLayer 4: Fossils of many types of aquatic animals and plants\nLayer 5: Fossils of many types of aquatic animals and plants"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

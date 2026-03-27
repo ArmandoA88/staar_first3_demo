@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the poet uses this imagery in the poem?",
+  "instruction": "Read lines 12 and 13 from the poem \u201cOut Where the West Begins.\u201d",
+  "options": [
+    {
+      "label": "A",
+      "text": "To show that the rivers of the West are wide"
+    },
+    {
+      "label": "B",
+      "text": "To suggest that the people of the West work hard"
+    },
+    {
+      "label": "C",
+      "text": "To suggest that the West makes people happy"
+    },
+    {
+      "label": "D",
+      "text": "To show that the West offers different activities"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Where there\u2019s laughter in every streamlet flowing, Where there\u2019s more of reaping and less of sowing,"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

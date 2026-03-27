@@ -1,0 +1,34 @@
+{
+  "stem": "Why does Judy call her brother a name at the end of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "She wants Stink to be afraid of her."
+    },
+    {
+      "label": "G",
+      "text": "Stink tells Mom that Judy took the cat\u2019s temperature."
+    },
+    {
+      "label": "H",
+      "text": "She is angry that Stink ruined her plans."
+    },
+    {
+      "label": "J",
+      "text": "Stink wants to stay home with Judy."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "16 Why does Judy call her brother a name at the end of the story?",
+    "F She wants Stink to be afraid of her.",
+    "G Stink tells Mom that Judy took the cat\u2019s temperature.",
+    "H She is angry that Stink ruined her plans.",
+    "J Stink wants to stay home with Judy."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

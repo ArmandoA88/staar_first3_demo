@@ -1,0 +1,33 @@
+{
+  "stem": "What change, if any, should be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change the comma to a question mark"
+    },
+    {
+      "label": "G",
+      "text": "Delete the quotation marks after the comma"
+    },
+    {
+      "label": "H",
+      "text": "Change eagerly to eager"
+    },
+    {
+      "label": "J",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

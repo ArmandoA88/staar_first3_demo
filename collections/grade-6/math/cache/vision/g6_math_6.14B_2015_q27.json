@@ -1,0 +1,28 @@
+{
+  "stem": "Which statement best describes purchases made with a debit card?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Purchases made with this card are subject to interest."
+    },
+    {
+      "label": "B",
+      "text": "Purchases made with this card can be paid over time."
+    },
+    {
+      "label": "C",
+      "text": "Purchases made with this card are withdrawn directly from a bank account."
+    },
+    {
+      "label": "D",
+      "text": "Purchases made with this card are subject to a credit limit."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

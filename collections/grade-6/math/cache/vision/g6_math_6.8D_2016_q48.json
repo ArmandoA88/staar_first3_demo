@@ -1,0 +1,30 @@
+{
+  "stem": "Ms. Chen will paint a triangular tile. A drawing of the tile is shown. Use the ruler provided to measure the dimensions of the tile to the nearest centimeter.\n\nWhich measurement is closest to the area of the tile in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "12 cm\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "24 cm\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "15 cm\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "30 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangle with a dashed altitude and right angle symbol at the base"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

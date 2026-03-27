@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence from the selection is best supported by the photographs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Shapes of bears, wolves, whales, eagles, and other wild creatures were carved into soft tree trunks."
+    },
+    {
+      "label": "B",
+      "text": "Once a stone adze (an ax-like tool) brought down an 80-foot giant."
+    },
+    {
+      "label": "C",
+      "text": "Thick bark is stripped away; then knots, once burned with hot rocks, are sanded smooth."
+    },
+    {
+      "label": "D",
+      "text": "Drums and voices swelled like thunder when the pole rose."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

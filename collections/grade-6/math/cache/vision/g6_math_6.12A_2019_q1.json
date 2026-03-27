@@ -1,0 +1,34 @@
+{
+  "stem": "The table shows the number of photocopies made during one day at each of the 25 schools in a school district.\n\nPhotocopies\n\n805 805 872 910 919\n923 950 989 1,004 1,010\n1,020 1,051 1,056 1,085 1,094\n1,098 1,108 1,128 1,133 1,150\n1,150 1,187 1,209 1,220 1,298\n\nWhich histogram displays all the data in the table correctly?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Photocopies\nNumber of Schools\n5 across all intervals\n800-899, 900-999, 1,000-1,099, 1,100-1,199, 1,200-1,299"
+    },
+    {
+      "label": "B",
+      "text": "Photocopies\nNumber of Schools\n3 in 800-899\n5 in 900-999\n7 in 1,000-1,099\n7 in 1,100-1,199\n3 in 1,200-1,299"
+    },
+    {
+      "label": "C",
+      "text": "Photocopies\nNumber of Schools\n3 in 800-899\n5 in 900-999\n8 in 1,000-1,099\n6 in 1,100-1,199\n3 in 1,200-1,299"
+    },
+    {
+      "label": "D",
+      "text": "Photocopies\nNumber of Schools\n2 in 800-899\n5 in 900-999\n8 in 1,000-1,099\n5 in 1,100-1,199\n3 in 1,200-1,299"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table of photocopies for 25 schools",
+    "Histogram A showing equal height bars of 5 for all ranges",
+    "Histogram B showing bars with heights 3, 5, 7, 7, 3 for intervals in ascending order",
+    "Histogram C showing bars with heights 3, 5, 8, 6, 3 for intervals in ascending order",
+    "Histogram D showing bars with heights 2, 5, 8, 5, 3 for intervals in ascending order"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

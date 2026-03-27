@@ -1,0 +1,31 @@
+{
+  "stem": "Students plan to investigate the different states of matter. They will measure the volume of water in three containers after five days. They make this table to organize the data.\n\n| Container | Volume of Water (beginning) | Temperature of Water (beginning) | Location of Container                                 | Volume of Water (after five days) |\n|-----------|-----------------------------|---------------------------------|-------------------------------------------------------|-----------------------------------|\n| 1         | 200 mL                      | 24\u00b0C                            | Inside a refrigerator                                  | ?                                 |\n| 2         | 200 mL                      | 24\u00b0C                            | On a desk in front of low-speed fan                    | ?                                 |\n| 3         | 200 mL                      | 24\u00b0C                            | On a sunny windowsill in front of an opened window    | ?                                 |\n\nWhich graph represents the volume of water most likely left in the containers after five days?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph showing Container 1 = 200 mL, Container 2 = 100 mL, Container 3 = 150 mL"
+    },
+    {
+      "label": "B",
+      "text": "Graph showing Container 1 = 190 mL, Container 2 = 150 mL, Container 3 = 120 mL"
+    },
+    {
+      "label": "C",
+      "text": "Graph showing Container 1 = 200 mL, Container 2 = 210 mL, Container 3 = 220 mL"
+    },
+    {
+      "label": "D",
+      "text": "Graph showing Container 1 = 150 mL, Container 2 = 200 mL, Container 3 = 50 mL"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with container information and volumes",
+    "Four bar graphs labeled A, B, C, D depicting volume of water for containers 1, 2, 3"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "The problem is a typical volume measurement and evaporation experiment; options correspond exactly to images provided."
+}

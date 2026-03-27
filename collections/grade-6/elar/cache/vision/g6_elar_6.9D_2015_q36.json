@@ -1,0 +1,30 @@
+{
+  "stem": "Which lines from the poem suggest that the tree deserves respect?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "And she changes her clothes each season:\nA dress of pink blossoms in the spring,"
+    },
+    {
+      "label": "G",
+      "text": "She has scarred wood,\nWith intricate designs carved into her face."
+    },
+    {
+      "label": "H",
+      "text": "Her face looks out to the world,\nA grandmother to us all."
+    },
+    {
+      "label": "J",
+      "text": "Smelled the dew on summer dawns,\nAnd felt the moist soil at her feet."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text of question and multiple choice answer lines from a poem."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of paragraphs 3 and 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The International Olympic Committee was created by Pierre de Coubertin in 1894. The committee was responsible for selecting the location of the modern Olympic Games."
+    },
+    {
+      "label": "B",
+      "text": "Pierre de Coubertin would be pleased to know that his Olympic symbol is used in the opening ceremony of every Olympics. He served on a committee that supported the modern Olympic Games and approved the Olympic symbol."
+    },
+    {
+      "label": "C",
+      "text": "The International Olympic Committee selected Athens as the site of the first modern Olympic Games. The ancient games were banned in Greece more than 1,500 years ago."
+    },
+    {
+      "label": "D",
+      "text": "Pierre de Coubertin is credited with the creation of the modern Olympic Games. He formed the International Olympic Committee, which selected Athens for the first modern Games in honor of its role as the location of the ancient Olympics."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

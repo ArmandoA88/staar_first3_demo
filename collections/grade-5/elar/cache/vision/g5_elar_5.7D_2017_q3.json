@@ -1,0 +1,30 @@
+{
+  "stem": "Read this quotation from paragraph 9 of the article.\n\nJohn Olson, a director at NASA headquarters in Washington, D.C., says that the project \"will allow us to go farther and achieve more than we can probably even imagine today.\"\n\nWhich detail from the article supports this idea?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Since its hands are shaped like human hands, R2 can use human tools to complete tasks traditionally performed by astronauts."
+    },
+    {
+      "label": "B",
+      "text": "Astronauts will also appreciate the fact that the robot can perform its duties without constant supervision."
+    },
+    {
+      "label": "C",
+      "text": "In the future humanoid robots will be astronauts' eyes in space, going places considered too difficult or unsafe for astronauts to explore."
+    },
+    {
+      "label": "D",
+      "text": "They will grasp and hold onto handrails as the robot moves through the space station."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "John Olson, a director at NASA headquarters in Washington, D.C., says that the project \u201cwill allow us to go farther and achieve more than we can probably even imagine today.\u201d"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

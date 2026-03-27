@@ -1,0 +1,35 @@
+{
+  "stem": "Which sentence from the article \u201cThe Broken-Crayon Solution\u201d supports the idea that the author likes Cassidy\u2019s crayon holder?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "And she had an idea. (paragraph 1)"
+    },
+    {
+      "label": "G",
+      "text": "The ends of the tubes fit tightly around the crayons. (paragraph 2)"
+    },
+    {
+      "label": "H",
+      "text": "It could also hold a small broken one. (paragraph 2)"
+    },
+    {
+      "label": "J",
+      "text": "Cassidy\u2019s invention is a brilliant idea. (paragraph 4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q18 Passage #3A",
+    "18 Which sentence from the article \u201cThe Broken-Crayon Solution\u201d supports the idea that the author likes Cassidy\u2019s crayon holder?",
+    "F And she had an idea. (paragraph 1)",
+    "G The ends of the tubes fit tightly around the crayons. (paragraph 2)",
+    "H It could also hold a small broken one. (paragraph 2)",
+    "J Cassidy\u2019s invention is a brilliant idea. (paragraph 4)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentences 29 and 30?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Over and over, cats have come to the aid of their owners and proved that they are heroic, loyal companions."
+    },
+    {
+      "label": "B",
+      "text": "Over and over, cats have come to the aid of their owners and proved. That they are heroic, loyal companions."
+    },
+    {
+      "label": "C",
+      "text": "Over and over, cats have come to the aid of their owners, they have proved that they are heroic, loyal companions."
+    },
+    {
+      "label": "D",
+      "text": "Sentences 29 and 30 are written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

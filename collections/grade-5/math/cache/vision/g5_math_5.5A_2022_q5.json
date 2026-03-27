@@ -1,0 +1,37 @@
+{
+  "stem": "Which shape is NOT sorted correctly in the graphic organizer?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Circle"
+    },
+    {
+      "label": "B",
+      "text": "Pentagon"
+    },
+    {
+      "label": "C",
+      "text": "Quadrilateral"
+    },
+    {
+      "label": "D",
+      "text": "Triangle"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two-Dimensional Figures",
+    "Semicircle",
+    "Crescent",
+    "Polygons",
+    "Triangles",
+    "Pentagons",
+    "Quadrilaterals",
+    "Circles"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

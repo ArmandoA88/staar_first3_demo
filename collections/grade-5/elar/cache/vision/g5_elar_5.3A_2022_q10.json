@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition of the word condition is used in paragraph 7?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "condition \\k\u0259n-\u02c8di-sh\u0259n\\ noun 1. quality of whether something is ready to use 2. something needed before something can happen 3. quality of whether someone is healthy or fit 4. the state of matter at a given time"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

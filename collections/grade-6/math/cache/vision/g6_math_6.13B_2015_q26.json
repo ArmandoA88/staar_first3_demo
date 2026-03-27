@@ -1,0 +1,28 @@
+{
+  "stem": "Which data most likely have variability for one school during a single school year?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of students absent each day"
+    },
+    {
+      "label": "B",
+      "text": "The amount of time for a lunch period each day"
+    },
+    {
+      "label": "C",
+      "text": "The library fee for the first day a book is overdue"
+    },
+    {
+      "label": "D",
+      "text": "The cost of a slice of cheese pizza each day"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

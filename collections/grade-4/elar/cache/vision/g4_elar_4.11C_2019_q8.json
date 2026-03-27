@@ -1,0 +1,28 @@
+{
+  "stem": "Xavier would like to add a sentence to bring his paper to a more effective conclusion. Which sentence should he add after sentence 37 to help achieve this goal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The best part of the day was seeing the LEGO models."
+    },
+    {
+      "label": "G",
+      "text": "Next Saturday, my family and I are going to the San Antonio River Walk."
+    },
+    {
+      "label": "H",
+      "text": "There are many fun things to do in Texas."
+    },
+    {
+      "label": "J",
+      "text": "Until then, I plan to keep practicing my new master builder skills."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

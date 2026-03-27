@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to revise sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He has even won some books and awards."
+    },
+    {
+      "label": "B",
+      "text": "He has even won for some of his books some awards."
+    },
+    {
+      "label": "C",
+      "text": "He has even won awards for some of his books."
+    },
+    {
+      "label": "D",
+      "text": "He has for some of his books even won awards for books."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

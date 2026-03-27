@@ -1,0 +1,30 @@
+{
+  "stem": "A student mixes a sample of stones with a sample of table salt. The mass and volume of the samples were determined before mixing the samples. The mass and volume of each sample is shown.",
+  "instruction": "Which statement is true about the mixture?",
+  "options": [
+    {
+      "label": "F",
+      "text": "The mass of the mixture is 85 grams."
+    },
+    {
+      "label": "G",
+      "text": "The mass of the mixture is 60 milliliters."
+    },
+    {
+      "label": "H",
+      "text": "The volume of the mixture is 60 grams."
+    },
+    {
+      "label": "J",
+      "text": "The volume of the mixture is 85 milliliters."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with Material, Grams (g), Milliliters (mL) columns; rows: Stones 45 25, Salt 40 35"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

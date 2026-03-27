@@ -1,0 +1,28 @@
+{
+  "stem": "Hana has repeated an idea in sentence 13. What is the BEST way to revise this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Leilani\u2019s mom always cubed and put on a platter the juicy, yellow pineapple and pieces."
+    },
+    {
+      "label": "B",
+      "text": "Leilani\u2019s mom always cubed the pieces on a large platter of the juicy, yellow pineapple."
+    },
+    {
+      "label": "C",
+      "text": "Leilani\u2019s mom always cubed the juicy, yellow pineapple, and a large platter she put the pieces on."
+    },
+    {
+      "label": "D",
+      "text": "Leilani\u2019s mom always cubed the juicy, yellow pineapple and put the pieces on a large platter."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

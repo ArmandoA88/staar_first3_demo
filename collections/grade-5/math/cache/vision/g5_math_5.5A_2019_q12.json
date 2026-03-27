@@ -1,0 +1,31 @@
+{
+  "stem": "A student used this graphic organizer to classify different figures.\n\nWhich figures belong in the part of the organizer labeled \"Isosceles triangles\"?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Figures II and V only"
+    },
+    {
+      "label": "G",
+      "text": "Figures I, III, and V only"
+    },
+    {
+      "label": "H",
+      "text": "Figures I and III only"
+    },
+    {
+      "label": "J",
+      "text": "Figures II, IV, and V only"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two concentric circles labeled \"Triangles\" (outer) and \"Isosceles triangles\" (inner).",
+    "Rectangle with five figures labeled I to V, each a triangle with side congruence or right angle marks."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The author includes this description of Claire to show that she is \u2014",
+  "instruction": "Read this sentence from paragraph 10.\n\nHer face lit up, and she explained that she made them herself.",
+  "options": [
+    {
+      "label": "A",
+      "text": "embarrassed that Chelsea notices her bracelets"
+    },
+    {
+      "label": "B",
+      "text": "unsure why Chelsea asks about her bracelets"
+    },
+    {
+      "label": "C",
+      "text": "worried that Chelsea might make better bracelets"
+    },
+    {
+      "label": "D",
+      "text": "pleased that Chelsea is interested in her bracelets"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Her face lit up, and she explained that she made them herself."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of paragraphs 20 through 28 of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Trent wants a chance to feed Ripley, so Mrs. Reno says that he and Amy can do it together. Trent picks Ripley up while Amy gets Ripley\u2019s food ready, but then Trent quickly puts Ripley down and runs out to recess."
+    },
+    {
+      "label": "B",
+      "text": "Trent wants to know why Amy has had so many chances to take care of Ripley. Amy thinks that maybe she will not have to take care of Ripley anymore, but Mrs. Reno decides that Amy and Trent can both feed Ripley."
+    },
+    {
+      "label": "C",
+      "text": "Trent is carrying Ripley but then wants to go outside for recess, so Amy asks Trent to set Ripley down. She thinks that Trent will put Ripley back into the terrarium, but Trent puts Ripley on the floor of the classroom instead."
+    },
+    {
+      "label": "D",
+      "text": "Trent takes Ripley out of the terrarium. Amy is afraid that Trent is going to harm Ripley, but Trent takes good care of him while Amy gets Ripley\u2019s food ready."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

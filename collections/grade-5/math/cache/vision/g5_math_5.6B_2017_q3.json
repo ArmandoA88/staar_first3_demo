@@ -1,0 +1,30 @@
+{
+  "stem": "Emily has a box shaped like a rectangular prism that is full of sugar cubes.\n\n\u2022 Each sugar cube has a volume of 1 cubic centimeter.\n\u2022 The top layer has a width of 6 cm and a length of 11 cm.\n\u2022 There are 3 layers of sugar cubes.\n\nHow many sugar cubes are in the box?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "198"
+    },
+    {
+      "label": "B",
+      "text": "66"
+    },
+    {
+      "label": "C",
+      "text": "594"
+    },
+    {
+      "label": "D",
+      "text": "99"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangular prism image labeled 'Sugar Cubes' with grid showing top layer of 6 by 11 cubes"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

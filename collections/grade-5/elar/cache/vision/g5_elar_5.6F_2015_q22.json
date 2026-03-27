@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the poem, what can the reader conclude about the speaker's past behavior?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The speaker usually acts in a way that pleases the parents."
+    },
+    {
+      "label": "G",
+      "text": "The speaker has tried a similar approach to get out of trouble before."
+    },
+    {
+      "label": "H",
+      "text": "The speaker defends the little sister even when she is wrong."
+    },
+    {
+      "label": "J",
+      "text": "The speaker has difficulty remembering the family rules."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

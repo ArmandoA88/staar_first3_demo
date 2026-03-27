@@ -1,0 +1,33 @@
+{
+  "stem": "Students make a table of renewable and nonrenewable resources. Which table correctly identifies resources as renewable or nonrenewable?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Renewable | Nonrenewable\nWater    | Coal\nWood     | Solar"
+    },
+    {
+      "label": "B",
+      "text": "Renewable | Nonrenewable\nWind     | Minerals\nWater    | Oil"
+    },
+    {
+      "label": "C",
+      "text": "Renewable | Nonrenewable\nCoal     | Water\nNatural Gas | Minerals"
+    },
+    {
+      "label": "D",
+      "text": "Renewable | Nonrenewable\nWood     | Wind\nWater    | Oil"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table A: Renewable - Water, Wood; Nonrenewable - Coal, Solar",
+    "Table B: Renewable - Wind, Water; Nonrenewable - Minerals, Oil",
+    "Table C: Renewable - Coal, Natural Gas; Nonrenewable - Water, Minerals",
+    "Table D: Renewable - Wood, Water; Nonrenewable - Wind, Oil"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

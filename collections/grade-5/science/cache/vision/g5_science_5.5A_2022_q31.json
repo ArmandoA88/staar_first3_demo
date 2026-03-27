@@ -1,0 +1,31 @@
+{
+  "stem": "A student poured equal amounts of water and cooking oil into a jar. The student placed a lid on the jar and shook the mixture for five seconds and then let the jar sit for ten minutes. The results of this investigation are shown.\n\nWhich conclusion best compares a property of cooking oil and water shown in this investigation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Cooking oil is less dense than water."
+    },
+    {
+      "label": "B",
+      "text": "Water is less dense than cooking oil."
+    },
+    {
+      "label": "C",
+      "text": "Water dissolves in cooking oil."
+    },
+    {
+      "label": "D",
+      "text": "Cooking oil dissolves in water."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a jar immediately after shaking showing water and cooking oil mixed with bubbles labeled as 'Water' and 'Cooking oil'",
+    "Diagram of a jar ten minutes after shaking showing cooking oil floating on top of water with labels 'Cooking oil' and 'Water'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

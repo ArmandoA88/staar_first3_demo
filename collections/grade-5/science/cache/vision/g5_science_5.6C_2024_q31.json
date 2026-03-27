@@ -1,0 +1,36 @@
+{
+  "stem": "A person heats 500 milliliters of water in a beaker. Then the person stirs 10 grams of table sugar into the water.\n\nWhich property will the sugar keep after it has dissolved in the water?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Its grainy texture"
+    },
+    {
+      "label": "B",
+      "text": "Its whitish color"
+    },
+    {
+      "label": "C",
+      "text": "Its temperature"
+    },
+    {
+      "label": "D",
+      "text": "Its sweetness"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: 2024 - Q31",
+    "Text: A person heats 500 milliliters of water in a beaker. Then the person stirs 10 grams of table sugar into the water.",
+    "Text: Which property will the sugar keep after it has dissolved in the water?",
+    "Option A: Its grainy texture",
+    "Option B: Its whitish color",
+    "Option C: Its temperature",
+    "Option D: Its sweetness"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

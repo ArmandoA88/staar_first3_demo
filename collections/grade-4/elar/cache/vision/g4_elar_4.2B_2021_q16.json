@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change looked to look"
+    },
+    {
+      "label": "G",
+      "text": "Change tiny to tiney"
+    },
+    {
+      "label": "H",
+      "text": "Change threw to through"
+    },
+    {
+      "label": "J",
+      "text": "Change the period to a question mark"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

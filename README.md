@@ -1,14 +1,38 @@
-# STAAR Problem Catalog
+# STAAR Collections Catalog
 
-Local pipeline and browser app for extracting STAAR problems from `ALL STAAR QUESTIONS.pdf` and browsing them by TEKS, year, and difficulty derived from state percent correct.
+Local extraction pipeline and browser app for organizing released STAAR items by collection, where each collection represents one grade and subject.
 
-## Files
+## Folder Layout
 
-- `scripts/extract_staar_items.py`: PDF segmentation, image rendering, metadata parsing, and vision transcription
-- `data/staar_catalog.json`: generated output catalog
-- `images/extracted/`: rendered problem crops
-- `index.html`, `styles.css`, `app.js`: static browser app
-- `IMPLEMENTATION_PLAN.md`: implementation summary
+```text
+app/                          Static browser app
+collections/
+  grade-3/
+    math/
+      source/                 Source PDF(s)
+      data/                   Generated catalog JSON
+      reports/                Coverage reports
+      images/extracted/       Rendered item crops
+      images/stimuli/         Linked passage or stimulus page crops
+      images/demo/            Small demo images
+      cache/vision/           Per-item vision cache
+      docs/                   Collection-specific notes
+      collection.json         Collection manifest
+docs/                         Project-level documentation
+scripts/                      Extraction and indexing scripts
+```
+
+## Current Collections
+
+- `collections/grade-3/math`: ready
+- `collections/grade-3/elar`: ready
+- `collections/grade-4/math`: source only
+- `collections/grade-4/elar`: ready
+- `collections/grade-5/math`: ready
+- `collections/grade-5/elar`: ready
+- `collections/grade-5/science`: ready
+- `collections/grade-6/math`: ready
+- `collections/grade-6/elar`: ready
 
 ## Setup
 
@@ -16,29 +40,26 @@ Local pipeline and browser app for extracting STAAR problems from `ALL STAAR QUE
 py -m pip install -r requirements.txt
 ```
 
-Set your key only for the current shell session:
+Set the OpenAI key only when you need to create or refresh vision cache:
 
 ```powershell
 $env:OPENAI_API_KEY='your-key-here'
 ```
 
-## Run Extraction
+## GitHub Upload
+
+Large source PDFs can exceed GitHub's per-file limit. To keep the repo pushable without Git LFS, split oversized files into tracked chunk directories and restore them only when you need to rerun extraction.
 
 ```powershell
-py scripts/extract_staar_items.py
+py scripts/split_large_files.py split
+py scripts/split_large_files.py restore
 ```
 
-Useful options:
-
-```powershell
-py scripts/extract_staar_items.py --limit 10
-py scripts/extract_staar_items.py --force-vision
-py scripts/extract_staar_items.py --skip-vision
-```
+Details are in `docs/GITHUB_UPLOAD.md`.
 
 ## Run the App
 
-Serve the folder locally:
+Serve the repo root:
 
 ```powershell
 py -m http.server 8000
@@ -50,8 +71,58 @@ Then open:
 http://localhost:8000
 ```
 
+The root page redirects to `app/`, and the app loads `collections/index.json`.
+
+## Extract a Collection
+
+Grade 3 Math:
+
+```powershell
+py scripts/extract_staar_items.py --collection-root collections/grade-3/math
+```
+
+Useful options:
+
+```powershell
+py scripts/extract_staar_items.py --collection-root collections/grade-3/math --limit 10
+py scripts/extract_staar_items.py --collection-root collections/grade-3/math --force-vision
+py scripts/extract_staar_items.py --collection-root collections/grade-3/math --skip-vision
+```
+
+## Build Coverage Report
+
+```powershell
+py scripts/generate_pdf_coverage_report.py --collection-root collections/grade-3/math
+```
+
+## Rebuild Collection Index
+
+After adding or updating collection manifests:
+
+```powershell
+py scripts/rebuild_collection_index.py
+```
+
+This normalizes each `collection.json` and rewrites `collections/index.json`.
+
+## Teacher Workflow
+
+1. Open the app and choose a collection.
+2. Filter by TEKS, year, difficulty, item type, or review status.
+3. Add individual problems or use `Add Visible Results`.
+4. Or use presets such as `Hardest Test`, `Easier Test`, `Beginning of Year`, `Easy Questions Only`, `Harder Questions Only`, or `Latest Questions Only`.
+5. Enter a test title and teacher/class label.
+6. Reorder or remove selected questions.
+7. Print the student packet or the teacher answer key.
+
+ELAR note:
+- Passage bundles print automatically with their linked questions, including multi-page paired-passage sets.
+
 ## Notes
 
-- Vision results are cached in `cache/vision/` to make reruns resumable.
-- The answer key comes from the PDF text layer, not from the vision model.
-- Difficulty is derived from the PDF's State percent-correct value, with `easy` = `>= 70%`, `medium` = `50-69%`, and `hard` = `< 50%`.
+- Vision cache lives inside each collection under `cache/vision/`.
+- The answer key comes from the PDF text layer, not from vision.
+- Difficulty is derived from the State percent-correct row:
+  - `easy`: `>= 70%`
+  - `medium`: `50-69%`
+  - `hard`: `< 50%`

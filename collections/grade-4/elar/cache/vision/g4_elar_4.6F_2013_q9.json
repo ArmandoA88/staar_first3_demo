@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the article supports the idea that early frozen desserts required great effort to make?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Roman emperor Nero sent his fastest runners into the mountains to gather snow."
+    },
+    {
+      "label": "B",
+      "text": "The Chinese and Roman treats were unlike today\u2019s ice cream."
+    },
+    {
+      "label": "C",
+      "text": "These desserts were made with small pieces of frozen ice and were similar to snow cones."
+    },
+    {
+      "label": "D",
+      "text": "When people came from Europe to America in the 1700s, they brought their recipes for ice cream with them."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

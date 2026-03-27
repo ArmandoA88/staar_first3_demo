@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the way the word brilliant is used in line 4?",
+  "instruction": "Read this dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "brilliant \\\u02c8bril-y\u0259nt\\ adj\n1. showing great intelligence\n2. vivid in appearance\n3. full of light\n4. excellent or superior in performance"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

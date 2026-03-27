@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 33?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after *planned*"
+    },
+    {
+      "label": "B",
+      "text": "Delete *but*"
+    },
+    {
+      "label": "C",
+      "text": "Change *she knew* to *they knew*"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made in sentence 33."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which model shows two equal expressions when the value of x is 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x x x x = 1 1 1 1"
+    },
+    {
+      "label": "B",
+      "text": "x x x x = 1"
+    },
+    {
+      "label": "C",
+      "text": "x 1 1 = 1 1 1 1 1"
+    },
+    {
+      "label": "D",
+      "text": "x x = 1 1 1 1 1 1 1 1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "boxes with variable x and number 1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

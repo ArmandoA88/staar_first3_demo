@@ -1,0 +1,30 @@
+{
+  "stem": "Which model represents 1.2 \u00f7 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(First model with three groups, first group with slightly more than 1 whole shaded)"
+    },
+    {
+      "label": "G",
+      "text": "(Second model with two groups, one large and one small)"
+    },
+    {
+      "label": "H",
+      "text": "(Third model with three groups and a small partial group on the right)"
+    },
+    {
+      "label": "J",
+      "text": "(Fourth model with three separate rectangles each with groups of smaller shaded parts)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four different rectangular models labeled F, G, H, J showing groupings of shaded segments representing division of 1.2 by 3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Options represent different visual fraction division models; labels preserved exactly as visible."
+}

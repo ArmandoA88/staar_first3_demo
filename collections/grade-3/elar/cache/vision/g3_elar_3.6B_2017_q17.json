@@ -1,0 +1,35 @@
+{
+  "stem": "How did Mrs. Baird begin selling baked goods?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She went to work for a bakery."
+    },
+    {
+      "label": "B",
+      "text": "She agreed to bake rolls for a hotel."
+    },
+    {
+      "label": "C",
+      "text": "Her neighbors paid her for her bread."
+    },
+    {
+      "label": "D",
+      "text": "Her husband sold them in his restaurant."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q17 Passage #3",
+    "17 How did Mrs. Baird begin selling baked goods?",
+    "A She went to work for a bakery.",
+    "B She agreed to bake rolls for a hotel.",
+    "C Her neighbors paid her for her bread.",
+    "D Her husband sold them in his restaurant."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

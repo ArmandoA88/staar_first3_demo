@@ -1,0 +1,28 @@
+{
+  "stem": "During a 90-minute school play, the main character was on stage 80% of the time.\n\nWhat amount of time in minutes was the main character on stage?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "88.9 minutes"
+    },
+    {
+      "label": "B",
+      "text": "112.5 minutes"
+    },
+    {
+      "label": "C",
+      "text": "80 minutes"
+    },
+    {
+      "label": "D",
+      "text": "72 minutes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

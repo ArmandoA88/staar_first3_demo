@@ -1,0 +1,30 @@
+{
+  "stem": "What change is needed in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Fall to fall"
+    },
+    {
+      "label": "B",
+      "text": "Change filled to filed"
+    },
+    {
+      "label": "C",
+      "text": "Change snuggled to snuggeled"
+    },
+    {
+      "label": "D",
+      "text": "Change my to their"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

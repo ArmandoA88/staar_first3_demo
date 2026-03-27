@@ -1,0 +1,34 @@
+{
+  "stem": "What is the correct way to write sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "As a family, we like to play, we watch outdoor sports and are also interested in Texas history."
+    },
+    {
+      "label": "B",
+      "text": "As a family, we like to play and watch outdoor sports, and we\u2019re also interested in Texas history."
+    },
+    {
+      "label": "C",
+      "text": "As a family, we like to play and watch outdoor sports. And are also interested in Texas history."
+    },
+    {
+      "label": "D",
+      "text": "As a family. We like to play and watch outdoor sports, and we\u2019re also interested in Texas history."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the correct way to write sentence 8?",
+    "A As a family, we like to play, we watch outdoor sports and are also interested in Texas history.",
+    "B As a family, we like to play and watch outdoor sports, and we\u2019re also interested in Texas history.",
+    "C As a family, we like to play and watch outdoor sports. And are also interested in Texas history.",
+    "D As a family. We like to play and watch outdoor sports, and we\u2019re also interested in Texas history."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the information throughout the selection, how do the native people of Zulia feel about the Catatumbo Lightning?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They are indifferent to it."
+    },
+    {
+      "label": "B",
+      "text": "They fear it as a powerful force of nature."
+    },
+    {
+      "label": "C",
+      "text": "They believe it is problematic for their community."
+    },
+    {
+      "label": "D",
+      "text": "They appreciate it as a special feature of their area."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

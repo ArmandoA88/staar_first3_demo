@@ -1,0 +1,35 @@
+{
+  "stem": "Which of these best expresses the main idea of paragraph 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Eating certain foods can help prevent stage fright."
+    },
+    {
+      "label": "B",
+      "text": "Stage fright affects people who do not practice their performance."
+    },
+    {
+      "label": "C",
+      "text": "Wearing the proper clothing can help relieve stage fright."
+    },
+    {
+      "label": "D",
+      "text": "Stage fright can be overcome by using several strategies."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q23 Passage #3B",
+    "23",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

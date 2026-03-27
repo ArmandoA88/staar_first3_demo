@@ -1,0 +1,30 @@
+{
+  "stem": "The cost of downloading one song from a website is $0.99. Which equation can be used to find t, the cost in dollars of downloading n songs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "t = 0.99 + n"
+    },
+    {
+      "label": "G",
+      "text": "n = 0.99 + t"
+    },
+    {
+      "label": "H",
+      "text": "t = 0.99n"
+    },
+    {
+      "label": "J",
+      "text": "n = 0.99t"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equations"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

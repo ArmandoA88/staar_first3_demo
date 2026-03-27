@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change special to speshial"
+    },
+    {
+      "label": "B",
+      "text": "Change her to their"
+    },
+    {
+      "label": "C",
+      "text": "Change great-grandmothers to great-grandmother's"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

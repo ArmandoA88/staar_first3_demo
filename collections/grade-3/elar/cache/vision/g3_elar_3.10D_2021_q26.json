@@ -1,0 +1,30 @@
+{
+  "stem": "These lines help the reader picture the way the leaves \u2014",
+  "instruction": "Read lines 15 through 17 of the poem.",
+  "options": [
+    {
+      "label": "F",
+      "text": "are colored"
+    },
+    {
+      "label": "G",
+      "text": "look along the street"
+    },
+    {
+      "label": "H",
+      "text": "sound as they fall"
+    },
+    {
+      "label": "J",
+      "text": "feel in the darkness"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Where they tumble And gather In piles and drifts"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

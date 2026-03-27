@@ -1,0 +1,29 @@
+{
+  "stem": "Paul counts the number of cups, mugs, and bottles in a cupboard. His data are shown in this frequency table.\n\nKitchen Items\n\n| Type    | Tally        |\n|---------|--------------|\n| Cups    | \\\\\\|\\| \\\\\\|\\| \\\\|\\| |\n| Mugs    | \\\\|\\\\|\\\\|\\\\|   |\n| Bottles | \\\\|\\\\|\\\\|       |\n\nHow does the number of cups compare to the number of mugs or the number of bottles?",
+  "instruction": "Select an answer from each drop-down menu to create a true statement.",
+  "options": [
+    {
+      "label": null,
+      "text": "greater than"
+    },
+    {
+      "label": null,
+      "text": "less than"
+    },
+    {
+      "label": null,
+      "text": "equal to"
+    }
+  ],
+  "choice_pool": [
+    "mugs",
+    "bottles"
+  ],
+  "response_template": "The number of cups in the cupboard is [blank_1] the number of [blank_2].",
+  "visual_elements": [
+    "frequency table with tally marks for Cups, Mugs, and Bottles"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

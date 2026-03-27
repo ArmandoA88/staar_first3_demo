@@ -1,0 +1,34 @@
+{
+  "stem": "What change should be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change rain forests to rain forest\u2019s"
+    },
+    {
+      "label": "B",
+      "text": "Change thickly to thick"
+    },
+    {
+      "label": "C",
+      "text": "Delete the comma after areas"
+    },
+    {
+      "label": "D",
+      "text": "Insert a comma after shore"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change should be made in sentence 8?",
+    "A Change rain forests to rain forest\u2019s",
+    "B Change thickly to thick",
+    "C Delete the comma after areas",
+    "D Insert a comma after shore"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

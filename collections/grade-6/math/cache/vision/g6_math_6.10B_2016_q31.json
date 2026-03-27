@@ -1,0 +1,34 @@
+{
+  "stem": "Which equation has a solution of \\( \\frac{2}{3} \\) for \\( n \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( n - 1 = \\frac{1}{3} \\)"
+    },
+    {
+      "label": "B",
+      "text": "16n = 24"
+    },
+    {
+      "label": "C",
+      "text": "15n = 10"
+    },
+    {
+      "label": "D",
+      "text": "1 \\frac{1}{2} + n = 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Equation A: n - 1 = 1/3",
+    "Equation B: 16n = 24",
+    "Equation C: 15n = 10",
+    "Equation D: 1 1/2 + n = 3",
+    "Fraction 2/3"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

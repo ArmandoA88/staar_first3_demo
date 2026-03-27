@@ -1,0 +1,34 @@
+{
+  "stem": "Which sentence best describes Judy and Stink's relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They tease each other."
+    },
+    {
+      "label": "G",
+      "text": "They are jealous of each other."
+    },
+    {
+      "label": "H",
+      "text": "They tell each other everything."
+    },
+    {
+      "label": "J",
+      "text": "They like to spend time together."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "10 Which sentence best describes Judy and Stink\u2019s relationship?",
+    "F They tease each other.",
+    "G They are jealous of each other.",
+    "H They tell each other everything.",
+    "J They like to spend time together."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

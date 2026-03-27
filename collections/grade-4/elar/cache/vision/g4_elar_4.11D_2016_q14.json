@@ -1,0 +1,34 @@
+{
+  "stem": "What change, if any, should be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert quotation marks at the beginning of the sentence"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "H",
+      "text": "Change says to say's"
+    },
+    {
+      "label": "J",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "14",
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

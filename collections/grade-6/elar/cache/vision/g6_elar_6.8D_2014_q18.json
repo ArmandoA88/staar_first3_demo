@@ -1,0 +1,30 @@
+{
+  "stem": "Look at the diagram.\n\n[Diagram with three connected boxes labeled \"Removal of limestone rock,\" \"Wearing down by wind, sun, and rain,\" and \"Action of mold\"]\n\nWhich of the following is the best title for the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Effects of Nature on the Appearance of Pyramids"
+    },
+    {
+      "label": "G",
+      "text": "Changes That Need to Be Made to the Great Pyramid"
+    },
+    {
+      "label": "H",
+      "text": "Reasons Tourists Should Stop Visiting Pyramids"
+    },
+    {
+      "label": "J",
+      "text": "Why the Great Pyramid Is Shrinking"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram with three boxes labeled 'Removal of limestone rock', 'Wearing down by wind, sun, and rain', and 'Action of mold' connected to an unlabeled oval"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

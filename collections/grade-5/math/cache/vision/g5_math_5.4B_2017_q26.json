@@ -1,0 +1,28 @@
+{
+  "stem": "Mr. Gonzales is putting in a fence around the perimeter of a playground.\n\n\u2022 The perimeter of the playground is 144 ft.\n\u2022 Each section of the fence is 4 ft long and costs $12.\n\nWhich equation can Mr. Gonzales use to find b, the cost of the sections of fence he needs for the playground?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "144 \u00f7 (12 \u00f7 4) = b"
+    },
+    {
+      "label": "G",
+      "text": "(12 \u00d7 4) \u00d7 144 = b"
+    },
+    {
+      "label": "H",
+      "text": "144 \u00f7 (12 \u00d7 4) = b"
+    },
+    {
+      "label": "J",
+      "text": "(144 \u00f7 4) \u00d7 12 = b"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

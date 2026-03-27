@@ -1,0 +1,23 @@
+{
+  "stem": "Complete the sentence to make it true.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "7(x - 1)",
+    "7 \\div x + 1",
+    "x(7 + 1)",
+    "\\frac{x}{7} + 1",
+    "\\frac{7}{x} + 1"
+  ],
+  "response_template": "The expressions [blank_1] and [blank_2] are equivalent.",
+  "visual_elements": [
+    "7(x - 1)",
+    "7 \\div x + 1",
+    "x(7 + 1)",
+    "\\frac{x}{7} + 1",
+    "\\frac{7}{x} + 1"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

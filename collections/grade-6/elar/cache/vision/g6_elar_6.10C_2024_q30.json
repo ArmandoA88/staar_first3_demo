@@ -1,0 +1,30 @@
+{
+  "stem": "What revision, if any, should be made in sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The burrows are more than just pathways to safe nests for laying eggs that the goannas dig."
+    },
+    {
+      "label": "B",
+      "text": "The burrows that the goannas dig are more than just pathways to safe nests for laying eggs."
+    },
+    {
+      "label": "C",
+      "text": "The burrows are more that the goannas dig and more than just pathways to safe nests for laying eggs."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "multiple choice options"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

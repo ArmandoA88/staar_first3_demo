@@ -1,0 +1,30 @@
+{
+  "stem": "A student is classifying objects. Answering which question will provide the best evidence that an object is a metal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "What is its mass?"
+    },
+    {
+      "label": "G",
+      "text": "What is its physical state?"
+    },
+    {
+      "label": "H",
+      "text": "Does it conduct thermal energy?"
+    },
+    {
+      "label": "J",
+      "text": "How quickly does it dissolve in water?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 - Q16"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

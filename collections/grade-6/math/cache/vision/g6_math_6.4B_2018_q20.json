@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the time Monique worked and the amount of money she earned during four different weeks.\n\nMonique\u2019s Earnings\n\n| Time Worked (hours) | Amount Earned (dollars) |\n|---------------------|-------------------------|\n| 15                  | 123.75                  |\n| 20                  | 165                     |\n| 24                  | 198                     |\n| 30                  | 247.50                  |\n\nBased on the information in the table, how much will Monique earn if she works 40 hours in a week?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$330"
+    },
+    {
+      "label": "G",
+      "text": "$255.75"
+    },
+    {
+      "label": "H",
+      "text": "$297"
+    },
+    {
+      "label": "J",
+      "text": "$82.50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns Time Worked (hours) and Amount Earned (dollars) and four rows of data: (15, 123.75), (20, 165), (24, 198), (30, 247.50)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

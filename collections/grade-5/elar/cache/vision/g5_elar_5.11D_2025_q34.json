@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert **they** after *these*"
+    },
+    {
+      "label": "B",
+      "text": "Change *for* to **in**"
+    },
+    {
+      "label": "C",
+      "text": "Change *ways* to **way's**"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

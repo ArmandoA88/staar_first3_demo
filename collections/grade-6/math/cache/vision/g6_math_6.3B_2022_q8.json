@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement about 96 multiplied by \\frac{11}{8} is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The product is less than \\frac{11}{8}."
+    },
+    {
+      "label": "G",
+      "text": "The product is greater than 96."
+    },
+    {
+      "label": "H",
+      "text": "The product is between \\frac{11}{8} and 96."
+    },
+    {
+      "label": "J",
+      "text": "The product is equal to 96."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\frac{11}{8}"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

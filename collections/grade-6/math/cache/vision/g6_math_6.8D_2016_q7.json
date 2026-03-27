@@ -1,0 +1,31 @@
+{
+  "stem": "The rectangle below represents the base of a rectangular prism. Use the ruler provided to measure the dimensions of the rectangle to the nearest centimeter.\n\nThe height of the rectangular prism is 12 centimeters. What is the volume of the rectangular prism?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "32 cm^3"
+    },
+    {
+      "label": "B",
+      "text": "20 cm^3"
+    },
+    {
+      "label": "C",
+      "text": "360 cm^3"
+    },
+    {
+      "label": "D",
+      "text": "240 cm^3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle",
+    "ruler"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": "The rectangle's side lengths should be measured from the image for calculations, but this JSON preserves the question text and options only."
+}

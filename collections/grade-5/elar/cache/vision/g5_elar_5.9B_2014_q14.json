@@ -1,0 +1,30 @@
+{
+  "stem": "Which trousers? What shirt? And which socks, and what shoes?",
+  "instruction": "Read this line from the first stanza.",
+  "options": [
+    {
+      "label": "F",
+      "text": "follows a routine for selecting different outfits in the morning"
+    },
+    {
+      "label": "G",
+      "text": "has difficulty finding outfits that match"
+    },
+    {
+      "label": "H",
+      "text": "believes that he has too many choices to make"
+    },
+    {
+      "label": "J",
+      "text": "thinks that getting ready in the morning requires too much time"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Which trousers? What shirt? And which socks, and what shoes?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

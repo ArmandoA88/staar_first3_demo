@@ -1,0 +1,30 @@
+{
+  "stem": "Penelope earns $450 each month. Penelope made a list of her expenses for the month of May.\n\nMay Expenses\n\nExpense | Amount\nCell phone | $50\nClothing | $100\nEntertainment | $150\nFood | $120\nSavings | $50\n\nWhich change can Penelope make to balance her budget for the month of May?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Increase her budgeted amount for savings by $20"
+    },
+    {
+      "label": "G",
+      "text": "Decrease her budgeted amount for entertainment by $20"
+    },
+    {
+      "label": "H",
+      "text": "Increase her budgeted amount for food by $10"
+    },
+    {
+      "label": "J",
+      "text": "Decrease her budgeted amount for clothing by $10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing May Expenses: Expense and Amount columns with values Cell phone $50, Clothing $100, Entertainment $150, Food $120, Savings $50"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

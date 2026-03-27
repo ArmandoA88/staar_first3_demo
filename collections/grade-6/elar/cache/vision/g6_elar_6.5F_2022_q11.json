@@ -1,0 +1,28 @@
+{
+  "stem": "What can the reader infer based on this line?\n\nHORMIGUITA: Wheeee! Chasing leaves is so much fun. A lot more fun than working . . . Oh my, I forgot I was supposed to bring that food into the anthill. [She turns and starts to go back, but she stops and looks around because she is lost.] I've never been in this part of the forest before.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Hormiguita needs to find food in the forest to bring back to the anthill."
+    },
+    {
+      "label": "B",
+      "text": "Chasing the leaf causes Hormiguita to become hungry and think about food."
+    },
+    {
+      "label": "C",
+      "text": "Hormiguita travels to the forest so that she can avoid doing any work."
+    },
+    {
+      "label": "D",
+      "text": "Chasing leaves causes Hormiguita to accidentally wander far from the anthill."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

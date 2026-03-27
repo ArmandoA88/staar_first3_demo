@@ -1,0 +1,30 @@
+{
+  "stem": "Which model is shaded to represent the quotient of \\( \\frac{1}{3} \\div 4 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A model divided into three rows; the bottom row is divided into 4 equal parts with the last part shaded gray."
+    },
+    {
+      "label": "B",
+      "text": "A 3 by 4 grid with 3 boxes shaded gray in the bottom row."
+    },
+    {
+      "label": "C",
+      "text": "A model divided into 4 rows; the bottom row is divided into 4 equal parts with the last part shaded gray."
+    },
+    {
+      "label": "D",
+      "text": "A 4 by 4 grid with 4 boxes shaded gray in the bottom row."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four rectangle models labeled A, B, C, and D with partial shading."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

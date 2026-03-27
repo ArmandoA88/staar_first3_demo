@@ -1,0 +1,28 @@
+{
+  "stem": "Determine whether each statement describes a characteristic of a debit card or a credit card.",
+  "instruction": "Select the correct answer in each row.",
+  "options": [
+    {
+      "label": "Debit Card",
+      "text": "Debit Card"
+    },
+    {
+      "label": "Credit Card",
+      "text": "Credit Card"
+    }
+  ],
+  "choice_pool": [
+    "It builds credit history, which can positively affect a person's credit score.",
+    "The money used to purchase an item is automatically withdrawn from a bank account.",
+    "Each purchase is a loan and will need to be paid back in the future.",
+    "Consumers may be charged interest on their purchases."
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns: Statement, Debit Card, Credit Card",
+    "Rows with statements and checkboxes under Debit Card and Credit Card columns"
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 1,
+  "notes": "The item is a match table grid type where students select the correct column for each statement."
+}

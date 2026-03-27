@@ -1,0 +1,30 @@
+{
+  "stem": "Which detail from the story belongs in the blank?",
+  "instruction": "Read the following list.",
+  "options": [
+    {
+      "label": "F",
+      "text": "She can make new friends in class."
+    },
+    {
+      "label": "G",
+      "text": "She can draw pictures to use in the movie."
+    },
+    {
+      "label": "H",
+      "text": "She can earn an award for her movie."
+    },
+    {
+      "label": "J",
+      "text": "She can choose who she wants to be the actors."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Why Jenny Wants to Be a Director 1. She can create a good story. 2. __________________ 3. She can tell everybody what to do."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

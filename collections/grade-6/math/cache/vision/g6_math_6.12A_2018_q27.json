@@ -1,0 +1,33 @@
+{
+  "stem": "The list shows the growth in centimeters of 12 plants during one week.\n\n6, 7, 7, 8, 8, 8, 9, 9, 10, 11, 11, 14\n\nWhich box plot best displays a summary of these data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(box plot with min=6, Q1=8, median=9.5, Q3=10.5, max=14)"
+    },
+    {
+      "label": "B",
+      "text": "(box plot with min=6, Q1=7.5, median=9, Q3=11, max=14)"
+    },
+    {
+      "label": "C",
+      "text": "(box plot with min=6, Q1=8, median=9, Q3=10, max=14)"
+    },
+    {
+      "label": "D",
+      "text": "(box plot with min=6, Q1=8, median=9, Q3=11, max=14)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plot A",
+    "box plot B",
+    "box plot C",
+    "box plot D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

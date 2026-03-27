@@ -1,0 +1,30 @@
+{
+  "stem": "What is paragraph 18 mainly about?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Why Alex must lean so far into the hallway"
+    },
+    {
+      "label": "G",
+      "text": "How Alex's reflection reminds him of his brother"
+    },
+    {
+      "label": "H",
+      "text": "What Alex discovers in the hallway"
+    },
+    {
+      "label": "J",
+      "text": "How Alex feels about his brother\u2019s teasing"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

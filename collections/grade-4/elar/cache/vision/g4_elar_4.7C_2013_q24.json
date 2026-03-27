@@ -1,0 +1,30 @@
+{
+  "stem": "The author wrote this selection most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "inform readers of the differences between squirrels and snakes"
+    },
+    {
+      "label": "G",
+      "text": "explain efforts to understand an unusual squirrel behavior"
+    },
+    {
+      "label": "H",
+      "text": "encourage readers to investigate the activities of squirrels"
+    },
+    {
+      "label": "J",
+      "text": "tell readers about a special squirrel and its diet"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with choices F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

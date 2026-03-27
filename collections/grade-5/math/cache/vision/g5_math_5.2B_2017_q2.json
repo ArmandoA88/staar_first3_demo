@@ -1,0 +1,30 @@
+{
+  "stem": "A scientist compared these two measurements.\n\n13.068 kg [ ] 13.608 kg\n\nWhich symbol makes this comparison true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ">"
+    },
+    {
+      "label": "G",
+      "text": "<"
+    },
+    {
+      "label": "H",
+      "text": "="
+    },
+    {
+      "label": "J",
+      "text": "+"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "13.068 kg [ ] 13.608 kg"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

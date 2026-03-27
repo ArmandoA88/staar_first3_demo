@@ -1,0 +1,30 @@
+{
+  "stem": "The end of the poem expresses the idea that the speaker \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "would like Grandma to stay longer"
+    },
+    {
+      "label": "G",
+      "text": "shares many secrets with Grandma"
+    },
+    {
+      "label": "H",
+      "text": "is curious why Grandma has to leave"
+    },
+    {
+      "label": "J",
+      "text": "knows when Grandma will visit again"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The question and answer choices listed"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "This equation can be used to find b, the number of dollars Mrs. Colton earned as a sales bonus last week.\n\nb = 429 - (39 \u00d7 9)\n\nWhat was the amount of Mrs. Colton's bonus?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$20"
+    },
+    {
+      "label": "B",
+      "text": "$78"
+    },
+    {
+      "label": "C",
+      "text": "$158"
+    },
+    {
+      "label": "D",
+      "text": "$138"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "b = 429 - (39 \u00d7 9)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "How is Carl different from Mike?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Carl is more honest."
+    },
+    {
+      "label": "B",
+      "text": "Carl is more fearful."
+    },
+    {
+      "label": "C",
+      "text": "Carl is more curious."
+    },
+    {
+      "label": "D",
+      "text": "Carl is more careless."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

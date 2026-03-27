@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "This museum tells the story of Texas. Through three floors of exhibits."
+    },
+    {
+      "label": "G",
+      "text": "A museum that tells the story of Texas. Through three floors of exhibits."
+    },
+    {
+      "label": "H",
+      "text": "This museum tells the story of Texas through three floors of exhibits."
+    },
+    {
+      "label": "J",
+      "text": "The sentence is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

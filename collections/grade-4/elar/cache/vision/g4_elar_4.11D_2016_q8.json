@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change were to was"
+    },
+    {
+      "label": "G",
+      "text": "Change climmed to climbed"
+    },
+    {
+      "label": "H",
+      "text": "Change fell to falled"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

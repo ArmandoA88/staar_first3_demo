@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason that the recipe was included with the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To indicate that most people make ice cream at home"
+    },
+    {
+      "label": "G",
+      "text": "To explain the process for using an ice-cream machine"
+    },
+    {
+      "label": "H",
+      "text": "To provide instructions for making ice cream"
+    },
+    {
+      "label": "J",
+      "text": "To show how people first made ice cream"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

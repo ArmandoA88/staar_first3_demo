@@ -1,0 +1,31 @@
+{
+  "stem": "What is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Ricochet can surf very well. She helps many people and animals who are in need. She has helped buy pet oxygen masks for fire departments. She has also helped raise money for teddy bears for children in hospitals and people in nursing homes."
+    },
+    {
+      "label": "G",
+      "text": "Many people have watched Ricochet surf. The first time the dog surfed for a cause, she hopped on the back of a boy's surfboard. People were amazed. Because of this, they gave money for the boy to get his own service dog."
+    },
+    {
+      "label": "H",
+      "text": "Ricochet helps people and animals by participating in fund-raising events. She helps out by surfing, even though she is a dog. The first person she helped was a boy named Patrick who had always dreamed of surfing even though he could not walk."
+    },
+    {
+      "label": "J",
+      "text": "Ricochet was training to be a service dog but did not qualify. Instead, she learned to surf, and her trainer realized that she could help others with this unusual skill. Today, Ricochet surfs for an organization that raises money for different causes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q16 Passage #3A",
+    "16"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

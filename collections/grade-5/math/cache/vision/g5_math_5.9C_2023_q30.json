@@ -1,0 +1,30 @@
+{
+  "stem": "What fraction of the 5th-grade students earned a score higher than 80 on both the reading test and the science test?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{4}{18}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{11}{18}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{7}{18}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{10}{18}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled '5th-Grade Test Scores' with x-axis labeled 'Science Test Score' from 0 to 100, y-axis labeled 'Reading Test Score' from 60 to 100, displaying 18 data points."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A worker is building toys at a factory. The relationship between the number of hours the employee works, x, and the number of toys the employee builds, y, is represented by the equation y = 9x.\nWhich graph represents this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with points (1, 10), (2, 11), (3, 12) with axes labeled Number of Hours Worked (x) and Number of Toys Built (y) going up to 18."
+    },
+    {
+      "label": "H",
+      "text": "Graph with points (1, 9), (2, 18), (3, 27) with axes labeled Number of Hours Worked (x) and Number of Toys Built (y) going up to 27."
+    },
+    {
+      "label": "G",
+      "text": "Graph with points (6, 1), (18, 2), (24, 3) with axes labeled Number of Hours Worked (x) up to 30 and Number of Toys Built (y) up to 9."
+    },
+    {
+      "label": "J",
+      "text": "Graph with points (10, 1), (11, 2), (12, 3) with axes labeled Number of Hours Worked (x) up to 16 and Number of Toys Built (y) up to 9."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, and J with points plotted as described above."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

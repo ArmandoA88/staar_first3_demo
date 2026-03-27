@@ -1,0 +1,28 @@
+{
+  "stem": "The perimeter of a triangle is 104 units. The combined length of two of the sides of the triangle is 64 units.\n\nWhat is the length of the third side of the triangle in units?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "168 units"
+    },
+    {
+      "label": "B",
+      "text": "6,656 units"
+    },
+    {
+      "label": "C",
+      "text": "40 units"
+    },
+    {
+      "label": "D",
+      "text": "1.625 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

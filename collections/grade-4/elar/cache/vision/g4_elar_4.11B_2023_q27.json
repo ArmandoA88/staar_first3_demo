@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence should replace sentence 4 to better state the central idea of this paper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Tabichi knew this was a great deal of money, and he was thankful for it."
+    },
+    {
+      "label": "B",
+      "text": "More teachers who serve their students should be recognized like Tabichi was."
+    },
+    {
+      "label": "C",
+      "text": "The Global Teacher Prize was awarded to a man named Peter Tabichi."
+    },
+    {
+      "label": "D",
+      "text": "Tabichi was recognized because of the difference he is making in children\u2019s lives."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

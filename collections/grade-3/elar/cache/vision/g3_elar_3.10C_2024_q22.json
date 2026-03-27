@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes the chart in the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show how each soil is different"
+    },
+    {
+      "label": "B",
+      "text": "To show how soil is made"
+    },
+    {
+      "label": "C",
+      "text": "To show which animals like soil"
+    },
+    {
+      "label": "D",
+      "text": "To show how much soil there is"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "chart"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

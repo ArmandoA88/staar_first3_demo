@@ -1,0 +1,28 @@
+{
+  "stem": "A robot\u2019s height is 1 meter 20 centimeters. How tall is the robot in millimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1,200 millimeters"
+    },
+    {
+      "label": "B",
+      "text": "1,020 millimeters"
+    },
+    {
+      "label": "C",
+      "text": "120 millimeters"
+    },
+    {
+      "label": "D",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

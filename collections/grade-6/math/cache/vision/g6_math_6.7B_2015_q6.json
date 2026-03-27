@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these can be written as an equation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Two times 0.75 plus \\(m\\)"
+    },
+    {
+      "label": "B",
+      "text": "Three is less than twice \\(a\\)"
+    },
+    {
+      "label": "C",
+      "text": "Half the product of five and \\(j\\)"
+    },
+    {
+      "label": "D",
+      "text": "Four times \\(n\\) is 24"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

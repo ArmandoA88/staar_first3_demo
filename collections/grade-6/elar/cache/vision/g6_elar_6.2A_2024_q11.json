@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the meaning of acquire in paragraph 9?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "acquire \\\u0259-\u02c8kw\u012b(-\u0259)r\\ verb\n1. to buy for oneself 2. to gain a reputation for 3. to locate and hold a desired object 4. to achieve through one\u2019s own efforts"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

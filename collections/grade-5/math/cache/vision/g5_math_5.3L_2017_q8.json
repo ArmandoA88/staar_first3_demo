@@ -1,0 +1,30 @@
+{
+  "stem": "The math team does practice drills that each last \\(\\frac{1}{6}\\) hour. In February the team did practice drills for a total of 24 hours.\n\nHow many practice drills did the math team do in February?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "4"
+    },
+    {
+      "label": "G",
+      "text": "144"
+    },
+    {
+      "label": "H",
+      "text": "30"
+    },
+    {
+      "label": "J",
+      "text": "240"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\(\\frac{1}{6}\\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

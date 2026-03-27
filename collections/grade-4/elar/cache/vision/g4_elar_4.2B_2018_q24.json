@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change it's to its"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma after lakes"
+    },
+    {
+      "label": "H",
+      "text": "Change swimming to swiming"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in sentence 25."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

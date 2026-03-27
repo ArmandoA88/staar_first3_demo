@@ -1,0 +1,30 @@
+{
+  "stem": "This information helps the reader know that verified in paragraph 5 means \u2014",
+  "instruction": "Read this information about the origin of the word verify.",
+  "options": [
+    {
+      "label": "A",
+      "text": "proved"
+    },
+    {
+      "label": "B",
+      "text": "compared"
+    },
+    {
+      "label": "C",
+      "text": "observed"
+    },
+    {
+      "label": "D",
+      "text": "suspected"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "from Latin verus, meaning \u201ctrue\u201d"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

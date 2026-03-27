@@ -1,0 +1,30 @@
+{
+  "stem": "What is an important difference between Jonny's invention and Ann's invention?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jonny's invention needs energy to function, while Ann's offers a way to conserve energy."
+    },
+    {
+      "label": "B",
+      "text": "Jonny's invention can be used by anyone, while Ann's requires supervision before it can be used."
+    },
+    {
+      "label": "C",
+      "text": "Jonny's invention is used to improve another machine, while Ann's is used on its own."
+    },
+    {
+      "label": "D",
+      "text": "Jonny's invention was immediately successful, while Ann's had to be redesigned."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Students investigate the physical properties of some substances. They draw a table to show how the substances can be grouped. The students need to complete the table with column headings.\n\nPhysical Properties of Substances\n\n? | ? | ?\n\u2022 Aluminum foil\n\u2022 Brass key\n\u2022 Gold ring\n\n\u2022 Cooking oil\n\u2022 Soap bubble\n\u2022 Wood chip\n\u2022 Feather\n\n\u2022 Baking soda\n\u2022 Drink mix\n\u2022 White sugar\n\nWhich column headings should the students use for their table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Good Insulators of Thermal Energy | Is Attracted by Magnets | Same Physical State"
+    },
+    {
+      "label": "B",
+      "text": "Good Conductors of Electrical Energy | Less Dense than Water | Soluble in Water"
+    },
+    {
+      "label": "C",
+      "text": "Soluble in Water | Same Physical State | Less Dense than Water"
+    },
+    {
+      "label": "D",
+      "text": "Is Attracted by Magnets | Good Conductors of Electrical Energy | Good Insulators of Thermal Energy"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with three columns labeled '?' containing substances grouped by physical properties: Column 1: Aluminum foil, Brass key, Gold ring; Column 2: Cooking oil, Soap bubble, Wood chip, Feather; Column 3: Baking soda, Drink mix, White sugar"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

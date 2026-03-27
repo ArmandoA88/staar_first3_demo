@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the amount of time four students practiced the trumpet one day.",
+  "instruction": "Which list shows the names of the students in order from the least amount of practice time to the greatest amount of practice time?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Ryan, Jacob, Cole, Gus"
+    },
+    {
+      "label": "B",
+      "text": "Cole, Jacob, Gus, Ryan"
+    },
+    {
+      "label": "C",
+      "text": "Ryan, Gus, Jacob, Cole"
+    },
+    {
+      "label": "D",
+      "text": "Gus, Ryan, Cole, Jacob"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with header 'Trumpet Practice Times' with columns 'Name' and 'Time (hours)'. Rows: Cole: 1 2/3, Gus: 1 1/2, Ryan: 1 1/4, Jacob: 1 7/12"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}
