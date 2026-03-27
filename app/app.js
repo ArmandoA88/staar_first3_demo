@@ -1883,6 +1883,10 @@ function releasePrintWorkspaceForPrint() {
   elements.printWorkspace.removeAttribute("style");
 }
 
+function getPdfExportSource() {
+  return elements.printWorkspace.firstElementChild || elements.printWorkspace;
+}
+
 async function preparePrint(mode) {
   const selectedItems = getSelectedItems();
   if (!selectedItems.length) {
@@ -1934,6 +1938,7 @@ async function downloadPdf(mode) {
   try {
     mountPrintWorkspace(mode, selectedItems, { exportingPdf: true });
     await waitForPrintableContent(elements.printWorkspace);
+    const exportSource = getPdfExportSource();
 
     const exportScale = Math.max(1.5, Math.min(window.devicePixelRatio || 1, 2));
     await window
@@ -1958,7 +1963,7 @@ async function downloadPdf(mode) {
           mode: ["css", "legacy"],
         },
       })
-      .from(elements.printWorkspace)
+      .from(exportSource)
       .save();
   } catch (error) {
     window.alert(`Unable to download PDF. ${error.message || "Please try again."}`);
