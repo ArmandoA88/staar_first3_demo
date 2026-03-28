@@ -4,6 +4,8 @@ __pycache__/
 build/
 dist/
 *.spec
+node_modules/
+src-tauri/target/
 
 # >>> split large files >>>
 # Paths in this block are restored locally from chunked parts and should not be committed.

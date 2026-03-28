@@ -94,6 +94,49 @@ Notes:
 - The EXE intentionally excludes extraction-only folders such as `source/`, `cache/`, and `reports/` to keep the bundle smaller.
 - Because the packaged image assets are large, the EXE will still be a large file and may take a moment to unpack on first launch.
 
+## Tauri Desktop Packaging
+
+The repo now includes a Tauri desktop scaffold for cross-platform packaging.
+
+Install the Tauri CLI dependency:
+
+```powershell
+npm install
+```
+
+Stage the packaged frontend:
+
+```powershell
+npm run tauri:stage
+```
+
+Run the desktop shell locally after installing Rust:
+
+```powershell
+npm run tauri:dev
+```
+
+Build desktop bundles for the current OS:
+
+```powershell
+npm run tauri:build
+```
+
+Important notes:
+
+- Tauri requires the Rust toolchain.
+- Local Windows builds also need Visual Studio Build Tools with MSVC and the Windows SDK.
+- Windows packages should be built on Windows.
+- Mac packages should be built on macOS.
+- The packaged frontend is staged into `build/tauri/frontend/`.
+- The GitHub Actions workflow in `.github/workflows/tauri-desktop-build.yml` can build Windows and macOS bundles once project dependencies are installed on the runner.
+
+TPT planning docs:
+
+- `docs/TAURI_DESKTOP_RELEASE.md`
+- `docs/TPT_RELEASE_CHECKLIST.md`
+- `docs/TPT_START_HERE_TEMPLATE.md`
+
 ## Extract a Collection
 
 Grade 3 Math:

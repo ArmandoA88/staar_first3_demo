@@ -1,0 +1,15 @@
+{
+  "name": "staar-problem-browser-desktop",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Tauri desktop packaging for the STAAR Problem Browser.",
+  "scripts": {
+    "tauri": "tauri",
+    "tauri:stage": "node scripts/run_python.js scripts/stage_tauri_frontend.py",
+    "tauri:dev": "tauri dev",
+    "tauri:build": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0"
+  }
+}

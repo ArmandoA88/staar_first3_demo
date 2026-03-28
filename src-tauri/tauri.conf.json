@@ -1,0 +1,40 @@
+{
+  "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
+  "productName": "STAAR Problem Browser",
+  "version": "0.1.0",
+  "identifier": "com.staarproblembrowser.desktop",
+  "build": {
+    "beforeDevCommand": "npm run tauri:stage",
+    "beforeBuildCommand": "npm run tauri:stage",
+    "frontendDist": "../build/tauri/frontend"
+  },
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "STAAR Problem Browser",
+        "width": 1440,
+        "height": 960,
+        "minWidth": 1100,
+        "minHeight": 760,
+        "resizable": true,
+        "fullscreen": false
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.ico",
+      "icons/icon.icns"
+    ],
+    "shortDescription": "Filter released STAAR items and print classroom-ready packets.",
+    "longDescription": "Desktop packaging for the STAAR Problem Browser, including bundled collections, question images, and printable packet workflows."
+  }
+}

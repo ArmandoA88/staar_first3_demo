@@ -120,3 +120,31 @@ Build a local collection-based catalog of STAAR problems that:
 - Add a second-pass review model for low-confidence items.
 - Add export views for CSV or per-TEKS subsets.
 - Add manual correction support for flagged items.
+
+## Teachers Pay Teachers Packaging Plan
+
+### Recommended distribution model
+
+- Migrate the desktop shell to Tauri.
+- Build a signed Windows installer as `.msi` or `setup.exe`.
+- Build a signed and notarized Mac installer as `.dmg`.
+- Host installers on stable file hosting rather than a separate storefront:
+  - S3 / CloudFront
+  - Dropbox
+  - Google Drive download links
+- Upload a small TPT product file that includes:
+  - `Start Here.pdf`
+  - quick install guide
+  - Windows download link
+  - Mac download link
+  - system requirements
+  - support email
+- Make the purchase one-time and no-login if possible.
+
+### Avoid on TPT
+
+- Requiring buyers to create an account on a separate site just to use the app.
+- Selling it as a subscription or service first.
+- Sending buyers to another place to purchase the real product.
+- Sharing a raw `.exe` without an installer.
+- Distributing unsigned Windows or Mac builds that trigger trust warnings for less-tech-savvy users.

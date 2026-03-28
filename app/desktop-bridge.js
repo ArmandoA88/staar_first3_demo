@@ -1,4 +1,8 @@
 (function () {
+  if (window.location.protocol === "tauri:") {
+    return;
+  }
+
   const heartbeatPath = "/__heartbeat__";
   const shutdownPath = "/__shutdown__";
   const heartbeatIntervalMs = 30000;
