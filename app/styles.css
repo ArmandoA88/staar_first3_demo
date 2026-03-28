@@ -344,6 +344,11 @@ img {
   background: var(--ink-soft-surface);
 }
 
+.selection-summary-panel {
+  grid-column: 1;
+  margin-top: 0;
+}
+
 .selection-metrics {
   display: flex;
   flex-wrap: wrap;
