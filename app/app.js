@@ -2,7 +2,6 @@ const STORAGE_KEY = "staar-teacher-builder-v1";
 const PRESET_TITLES = {
   hardest_test: "Hardest Test",
   easier_test: "Easier Test",
-  beginning_of_year: "Beginning of Year Review",
   easy_only: "Easy Questions Only",
   hard_only: "Harder Questions Only",
   latest_only: "Latest Questions Only",
@@ -16,8 +15,6 @@ const PRESET_TITLES = {
   warm_up: "Warm-Up",
   benchmark_lite: "Benchmark Lite",
   latest_released_mix: "Latest Released Mix",
-  foundations_first: "Foundations First",
-  vocabulary_focus: "Vocabulary Focus",
   multi_select_only: "Multi-Select Only",
   constructed_response_only: "Constructed Response Only",
   passage_set: "Passage Set",
@@ -46,24 +43,6 @@ const CONSTRUCTED_RESPONSE_TYPES = new Set([
   "graphing",
   "number_line",
 ]);
-const VOCABULARY_KEYWORDS = [
-  "meaning",
-  "means",
-  "word",
-  "words",
-  "phrase",
-  "prefix",
-  "suffix",
-  "affix",
-  "synonym",
-  "antonym",
-  "vocabulary",
-  "definition",
-  "context",
-  "language",
-  "figurative",
-  "dictionary",
-];
 const DEFAULT_THEME = {
   bgStart: "#f8f2e8",
   bgEnd: "#eef3f5",
@@ -578,53 +557,11 @@ function rankEasiest(items) {
   });
 }
 
-function rankBeginningOfYear(items) {
-  return [...items].sort((left, right) => {
-    const leftScore = getDifficultyScore(left) ?? 99;
-    const rightScore = getDifficultyScore(right) ?? 99;
-    if (leftScore !== rightScore) {
-      return leftScore - rightScore;
-    }
-    if (compareStandard(left, right) !== 0) {
-      return compareStandard(left, right);
-    }
-    if (right.metadata.year !== left.metadata.year) {
-      return right.metadata.year - left.metadata.year;
-    }
-    return left.metadata.question_number - right.metadata.question_number;
-  });
-}
-
-function compareOldest(left, right) {
-  if (left.metadata.year !== right.metadata.year) {
-    return left.metadata.year - right.metadata.year;
-  }
-  if ((left.source?.page_number || 0) !== (right.source?.page_number || 0)) {
-    return (left.source?.page_number || 0) - (right.source?.page_number || 0);
-  }
-  if (compareStandard(left, right) !== 0) {
-    return compareStandard(left, right);
-  }
-  return left.metadata.question_number - right.metadata.question_number;
-}
-
 function compareGroupKey(left, right) {
   return String(left).localeCompare(String(right), undefined, {
     numeric: true,
     sensitivity: "base",
   });
-}
-
-function getQuestionTextLength(item) {
-  return [
-    item?.question?.stem,
-    item?.question?.instruction,
-    ...(item?.question?.options || []).map((option) => option.text),
-    item?.metadata?.standard_description,
-  ]
-    .filter(Boolean)
-    .join(" ")
-    .length;
 }
 
 function hasStimulusLink(item) {
@@ -645,21 +582,6 @@ function isMultiSelectItem(item) {
 
 function isConstructedResponseItem(item) {
   return CONSTRUCTED_RESPONSE_TYPES.has(item?.metadata?.item_type || "");
-}
-
-function matchesVocabularyFocus(item) {
-  const haystack = normalizeText(
-    [
-      item?.question?.stem,
-      item?.question?.instruction,
-      item?.metadata?.standard_description,
-      item?.metadata?.cluster,
-      item?.metadata?.subcluster,
-    ]
-      .filter(Boolean)
-      .join(" ")
-  );
-  return VOCABULARY_KEYWORDS.some((keyword) => haystack.includes(keyword));
 }
 
 function groupItemsBy(items, keyFn) {
@@ -1257,11 +1179,6 @@ function buildPresetSelection(presetName, pool) {
       return takePresetItems(rankHardest(knownDifficultyItems));
     case "easier_test":
       return takePresetItems(rankEasiest(knownDifficultyItems));
-    case "beginning_of_year": {
-      const preferred = visiblePool.filter((item) => ["easy", "medium"].includes(item.metadata.difficulty?.label));
-      const remainder = visiblePool.filter((item) => !preferred.includes(item));
-      return takePresetItems([...rankBeginningOfYear(preferred), ...rankBeginningOfYear(remainder)]);
-    }
     case "easy_only":
       return takePresetItems(rankEasiest(easyItems));
     case "hard_only":
@@ -1330,27 +1247,6 @@ function buildPresetSelection(presetName, pool) {
       const focusYears = new Set(latestYears.slice(0, 2));
       const latestPool = visiblePool.filter((item) => focusYears.has(item.metadata.year));
       return roundRobinByGroup(latestPool, standardKey, (items) => [...items].sort(compareNewest), compareGroupKey);
-    }
-    case "foundations_first": {
-      const foundationPool = [...supportingItems, ...readinessItems];
-      return takeUniqueFromLists([
-        rankBeginningOfYear(foundationPool.filter((item) => ["easy", "medium"].includes(item.metadata.difficulty?.label))),
-        rankBeginningOfYear(foundationPool),
-      ]);
-    }
-    case "vocabulary_focus": {
-      const matches = visiblePool.filter(matchesVocabularyFocus);
-      if (matches.length) {
-        return takeUniqueFromLists([
-          ...buildGroupQueues(matches, standardKey, rankEasiest, compareGroupKey),
-          [...matches].sort((left, right) => getQuestionTextLength(right) - getQuestionTextLength(left) || compareNewest(left, right)),
-        ]);
-      }
-      return takePresetItems(
-        [...visiblePool].sort(
-          (left, right) => getQuestionTextLength(right) - getQuestionTextLength(left) || compareNewest(left, right)
-        )
-      );
     }
     case "multi_select_only":
       return takePresetItems(getSortedItems(visiblePool.filter(isMultiSelectItem)));
