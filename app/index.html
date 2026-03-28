@@ -118,44 +118,6 @@
               <button id="clear-selection" class="secondary-button" type="button">Clear Selection</button>
             </div>
 
-            <section class="preset-builder">
-              <div class="panel-header panel-header-tight">
-                <div class="panel-heading-inline">
-                  <p class="eyebrow">Preset Builders</p>
-                  <h3>Generate common test types instantly</h3>
-                </div>
-              </div>
-
-              <div class="preset-toolbar">
-                <label class="builder-field preset-size-field">
-                  <span class="filter-label">Preset Size</span>
-                  <select id="preset-size" class="select-input">
-                    <option value="5">5 questions</option>
-                    <option value="10" selected>10 questions</option>
-                    <option value="15">15 questions</option>
-                    <option value="20">20 questions</option>
-                    <option value="all">All matching</option>
-                  </select>
-                </label>
-                <label class="builder-field preset-type-field">
-                  <span class="filter-label">Preset Type</span>
-                  <select id="preset-type" class="select-input">
-                    <option value="hardest_test" selected>Hardest Test</option>
-                    <option value="easier_test">Easier Test</option>
-                    <option value="beginning_of_year">Beginning of Year</option>
-                    <option value="easy_only">Easy Questions Only</option>
-                    <option value="hard_only">Harder Questions Only</option>
-                    <option value="latest_only">Latest Questions Only</option>
-                  </select>
-                </label>
-                <button id="build-preset" class="secondary-button preset-build-button" type="button">Build Preset</button>
-              </div>
-
-              <div class="preset-notes">
-                Presets use the current filtered questions. Pick a type, choose the size, and build from the current filters.
-              </div>
-            </section>
-
             <section class="summary-grid builder-summary-grid">
               <article class="summary-panel">
                 <div class="panel-header">
@@ -183,43 +145,119 @@
             </section>
           </article>
 
-          <article class="builder-panel print-tools-panel">
-            <div class="panel-header">
-              <div class="panel-heading-inline">
-                <p class="eyebrow">Print Tools</p>
-                <h3>Student Test and Answer Key</h3>
+          <aside class="right-rail">
+            <article class="builder-panel print-tools-panel">
+              <div class="panel-header">
+                <div class="panel-heading-inline">
+                  <p class="eyebrow">Print Tools</p>
+                  <h3>Student Test and Answer Key</h3>
+                </div>
               </div>
-            </div>
 
-            <label class="builder-field print-format-field">
-              <span class="filter-label">Student Packet Format</span>
-              <select id="student-print-format" class="select-input">
-                <option value="png" selected>Original PNG Images</option>
-                <option value="ocr">OCR Text</option>
-              </select>
-            </label>
+              <label class="builder-field print-format-field">
+                <span class="filter-label">Student Packet Format</span>
+                <select id="student-print-format" class="select-input">
+                  <option value="png" selected>Original PNG Images</option>
+                  <option value="ocr">OCR Text</option>
+                </select>
+              </label>
 
-            <div class="print-actions">
-              <button id="print-test" class="primary-button" type="button">Print Student Test</button>
-              <button id="print-answer-key" class="primary-button" type="button">Print Answer Key</button>
-              <button id="download-test-pdf" class="primary-button download-button" type="button">
-                Download Student PDF
-              </button>
-              <button id="download-answer-key-pdf" class="primary-button download-button" type="button">
-                Download Answer Key PDF
-              </button>
-            </div>
-
-            <details class="print-notes-panel">
-              <summary>Printing notes</summary>
-              <div class="print-notes">
-                <p>Use the filters first, add the filtered questions, then print.</p>
-                <p>The student packet uses source PNGs by default. Switch to OCR text only when you want a text-rendered version.</p>
-                <p>ELAR passages still print from the original PNGs so the passage stays attached to its questions. The answer key prints TEKS, answers, and state percent correct.</p>
-                <p>Download PDF exports the current student packet or answer key directly to a PDF file.</p>
+              <div class="print-actions">
+                <button id="print-test" class="primary-button" type="button">Print Student Test</button>
+                <button id="print-answer-key" class="primary-button" type="button">Print Answer Key</button>
+                <button id="download-test-pdf" class="primary-button download-button" type="button">
+                  Download Student PDF
+                </button>
+                <button id="download-answer-key-pdf" class="primary-button download-button" type="button">
+                  Download Answer Key PDF
+                </button>
               </div>
-            </details>
-          </article>
+
+              <details class="print-notes-panel">
+                <summary>Printing notes</summary>
+                <div class="print-notes">
+                  <p>Use the filters first, add the filtered questions, then print.</p>
+                  <p>The student packet uses source PNGs by default. Switch to OCR text only when you want a text-rendered version.</p>
+                  <p>ELAR passages still print from the original PNGs so the passage stays attached to its questions. The answer key prints TEKS, answers, and state percent correct.</p>
+                  <p>Download PDF exports the current student packet or answer key directly to a PDF file.</p>
+                </div>
+              </details>
+            </article>
+
+            <article class="builder-panel preset-side-panel">
+              <section class="preset-builder preset-builder-standalone">
+                <div class="panel-header panel-header-tight">
+                  <div class="panel-heading-inline">
+                    <p class="eyebrow">Preset Builders</p>
+                    <h3>Generate common test types instantly</h3>
+                  </div>
+                </div>
+
+                <div class="preset-toolbar">
+                  <label class="builder-field preset-size-field">
+                    <span class="filter-label">Preset Size</span>
+                    <select id="preset-size" class="select-input">
+                      <option value="5">5 questions</option>
+                      <option value="10" selected>10 questions</option>
+                      <option value="15">15 questions</option>
+                      <option value="20">20 questions</option>
+                      <option value="all">All matching</option>
+                    </select>
+                  </label>
+                  <label class="builder-field preset-type-field">
+                    <span class="filter-label">Preset Type</span>
+                    <select id="preset-type" class="select-input">
+                      <optgroup label="Core Presets">
+                        <option value="hardest_test" selected>Hardest Test</option>
+                        <option value="easier_test">Easier Test</option>
+                        <option value="beginning_of_year">Beginning of Year</option>
+                        <option value="easy_only">Easy Questions Only</option>
+                        <option value="hard_only">Harder Questions Only</option>
+                        <option value="latest_only">Latest Questions Only</option>
+                      </optgroup>
+                      <optgroup label="Review and Skill Focus">
+                        <option value="spiral_review">Spiral Review</option>
+                        <option value="single_teks_mastery">Single-TEKS Mastery</option>
+                        <option value="intervention_set">Intervention Set</option>
+                        <option value="reteach_set">Reteach Set</option>
+                        <option value="challenge_set">Challenge Set</option>
+                        <option value="mixed_difficulty_checkpoint">Mixed Difficulty Checkpoint</option>
+                        <option value="exit_ticket">Exit Ticket</option>
+                        <option value="warm_up">Warm-Up</option>
+                        <option value="benchmark_lite">Benchmark Lite</option>
+                        <option value="latest_released_mix">Latest Released Mix</option>
+                        <option value="foundations_first">Foundations First</option>
+                        <option value="vocabulary_focus">Vocabulary Focus</option>
+                      </optgroup>
+                      <optgroup label="Format and Coverage">
+                        <option value="multi_select_only">Multi-Select Only</option>
+                        <option value="constructed_response_only">Constructed Response Only</option>
+                        <option value="readiness_only">Readiness Only</option>
+                        <option value="supporting_only">Supporting Only</option>
+                        <option value="low_review_risk">Low Review Risk</option>
+                        <option value="needs_review_audit">Needs Review Audit</option>
+                        <option value="year_over_year">Year-over-Year</option>
+                        <option value="newest_per_teks">Newest Per TEKS</option>
+                        <option value="one_per_teks">One Per TEKS</option>
+                        <option value="mini_quiz">Mini Quiz</option>
+                        <option value="unit_test">Unit Test</option>
+                      </optgroup>
+                      <optgroup label="ELAR Passage and Genre">
+                        <option value="passage_set">Passage Set</option>
+                        <option value="one_passage_per_test">One Passage Per Test</option>
+                        <option value="genre_mix">Genre Mix</option>
+                      </optgroup>
+                    </select>
+                  </label>
+                  <button id="build-preset" class="secondary-button preset-build-button" type="button">Build Preset</button>
+                </div>
+
+                <div class="preset-notes">
+                  Presets use the current filtered questions. Pick a type, choose the size, and build from the current filters.
+                </div>
+              </section>
+            </article>
+          </aside>
         </section>
 
         <section class="selection-action-bar" aria-live="polite">

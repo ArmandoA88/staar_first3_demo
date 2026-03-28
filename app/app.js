@@ -6,7 +6,64 @@ const PRESET_TITLES = {
   easy_only: "Easy Questions Only",
   hard_only: "Harder Questions Only",
   latest_only: "Latest Questions Only",
+  spiral_review: "Spiral Review",
+  single_teks_mastery: "Single-TEKS Mastery",
+  intervention_set: "Intervention Set",
+  reteach_set: "Reteach Set",
+  challenge_set: "Challenge Set",
+  mixed_difficulty_checkpoint: "Mixed Difficulty Checkpoint",
+  exit_ticket: "Exit Ticket",
+  warm_up: "Warm-Up",
+  benchmark_lite: "Benchmark Lite",
+  latest_released_mix: "Latest Released Mix",
+  foundations_first: "Foundations First",
+  vocabulary_focus: "Vocabulary Focus",
+  multi_select_only: "Multi-Select Only",
+  constructed_response_only: "Constructed Response Only",
+  passage_set: "Passage Set",
+  one_passage_per_test: "One Passage Per Test",
+  genre_mix: "Genre Mix",
+  readiness_only: "Readiness Only",
+  supporting_only: "Supporting Only",
+  low_review_risk: "Low Review Risk",
+  needs_review_audit: "Needs Review Audit",
+  year_over_year: "Year-over-Year",
+  newest_per_teks: "Newest Per TEKS",
+  one_per_teks: "One Per TEKS",
+  mini_quiz: "Mini Quiz",
+  unit_test: "Unit Test",
 };
+const ELAR_ONLY_PRESETS = new Set(["passage_set", "one_passage_per_test", "genre_mix"]);
+const CONSTRUCTED_RESPONSE_TYPES = new Set([
+  "constructed_response",
+  "short_constructed_response",
+  "short_constructed_response_(2)",
+  "extended_constructed_response",
+  "extended_constructed_response_(composition)",
+  "numeric_response",
+  "text_entry",
+  "equation_editor",
+  "graphing",
+  "number_line",
+]);
+const VOCABULARY_KEYWORDS = [
+  "meaning",
+  "means",
+  "word",
+  "words",
+  "phrase",
+  "prefix",
+  "suffix",
+  "affix",
+  "synonym",
+  "antonym",
+  "vocabulary",
+  "definition",
+  "context",
+  "language",
+  "figurative",
+  "dictionary",
+];
 const DEFAULT_THEME = {
   bgStart: "#f8f2e8",
   bgEnd: "#eef3f5",
@@ -486,8 +543,7 @@ function getPresetLimit() {
 }
 
 function takePresetItems(items) {
-  const limit = getPresetLimit();
-  return Number.isFinite(limit) ? items.slice(0, limit) : items;
+  return takeUniqueItems(items);
 }
 
 function rankHardest(items) {
@@ -536,6 +592,227 @@ function rankBeginningOfYear(items) {
       return right.metadata.year - left.metadata.year;
     }
     return left.metadata.question_number - right.metadata.question_number;
+  });
+}
+
+function compareOldest(left, right) {
+  if (left.metadata.year !== right.metadata.year) {
+    return left.metadata.year - right.metadata.year;
+  }
+  if ((left.source?.page_number || 0) !== (right.source?.page_number || 0)) {
+    return (left.source?.page_number || 0) - (right.source?.page_number || 0);
+  }
+  if (compareStandard(left, right) !== 0) {
+    return compareStandard(left, right);
+  }
+  return left.metadata.question_number - right.metadata.question_number;
+}
+
+function compareGroupKey(left, right) {
+  return String(left).localeCompare(String(right), undefined, {
+    numeric: true,
+    sensitivity: "base",
+  });
+}
+
+function getQuestionTextLength(item) {
+  return [
+    item?.question?.stem,
+    item?.question?.instruction,
+    ...(item?.question?.options || []).map((option) => option.text),
+    item?.metadata?.standard_description,
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .length;
+}
+
+function hasStimulusLink(item) {
+  return Boolean(item?.stimulus?.group_id || item?.metadata?.stimulus_reference);
+}
+
+function isReadinessItem(item) {
+  return item?.metadata?.content === "Readiness";
+}
+
+function isSupportingItem(item) {
+  return item?.metadata?.content === "Supporting";
+}
+
+function isMultiSelectItem(item) {
+  return item?.metadata?.item_type === "multiselect" || item?.answer_key?.answer_format === "multi_select_positions";
+}
+
+function isConstructedResponseItem(item) {
+  return CONSTRUCTED_RESPONSE_TYPES.has(item?.metadata?.item_type || "");
+}
+
+function matchesVocabularyFocus(item) {
+  const haystack = normalizeText(
+    [
+      item?.question?.stem,
+      item?.question?.instruction,
+      item?.metadata?.standard_description,
+      item?.metadata?.cluster,
+      item?.metadata?.subcluster,
+    ]
+      .filter(Boolean)
+      .join(" ")
+  );
+  return VOCABULARY_KEYWORDS.some((keyword) => haystack.includes(keyword));
+}
+
+function groupItemsBy(items, keyFn) {
+  const groups = new Map();
+  items.forEach((item) => {
+    const key = keyFn(item);
+    if (!key) {
+      return;
+    }
+    if (!groups.has(key)) {
+      groups.set(key, []);
+    }
+    groups.get(key).push(item);
+  });
+  return groups;
+}
+
+function buildGroupQueues(items, keyFn, sortItems = getSortedItems, keySort = compareGroupKey) {
+  const groups = groupItemsBy(items, keyFn);
+  return [...groups.entries()]
+    .sort(([leftKey], [rightKey]) => keySort(leftKey, rightKey))
+    .map(([, groupItems]) => sortItems(groupItems));
+}
+
+function takeUniqueItems(items, limit = getPresetLimit()) {
+  const selected = [];
+  const seen = new Set();
+  for (const item of items) {
+    if (!item || seen.has(item.id)) {
+      continue;
+    }
+    selected.push(item);
+    seen.add(item.id);
+    if (Number.isFinite(limit) && selected.length >= limit) {
+      break;
+    }
+  }
+  return selected;
+}
+
+function takeUniqueFromLists(lists, limit = getPresetLimit()) {
+  const queues = lists.map((list) => [...list]);
+  const selected = [];
+  const seen = new Set();
+
+  while ((!Number.isFinite(limit) || selected.length < limit) && queues.some((queue) => queue.length)) {
+    let addedThisPass = false;
+
+    for (const queue of queues) {
+      while (queue.length && seen.has(queue[0].id)) {
+        queue.shift();
+      }
+      if (!queue.length) {
+        continue;
+      }
+
+      const item = queue.shift();
+      selected.push(item);
+      seen.add(item.id);
+      addedThisPass = true;
+
+      if (Number.isFinite(limit) && selected.length >= limit) {
+        break;
+      }
+    }
+
+    if (!addedThisPass) {
+      break;
+    }
+  }
+
+  return selected;
+}
+
+function roundRobinByGroup(items, keyFn, sortItems = getSortedItems, keySort = compareGroupKey) {
+  return takeUniqueFromLists(buildGroupQueues(items, keyFn, sortItems, keySort));
+}
+
+function firstPerGroup(items, keyFn, sortItems = getSortedItems, keySort = compareGroupKey) {
+  const groups = groupItemsBy(items, keyFn);
+  const firstItems = [...groups.entries()]
+    .sort(([leftKey], [rightKey]) => keySort(leftKey, rightKey))
+    .map(([, groupItems]) => sortItems(groupItems)[0])
+    .filter(Boolean);
+  return takeUniqueItems(firstItems);
+}
+
+function getPassageBundles(items) {
+  return buildStimulusBundles(items).filter((bundle) => bundle.items.some(hasStimulusLink));
+}
+
+function compareBundleNewest(left, right) {
+  const leftTop = getSortedItems(left.items)[0];
+  const rightTop = getSortedItems(right.items)[0];
+  if (!leftTop || !rightTop) {
+    return 0;
+  }
+  return compareNewest(leftTop, rightTop);
+}
+
+function takePassageBundles(items, { singleBundle = false } = {}) {
+  const bundles = getPassageBundles(items);
+  if (!bundles.length) {
+    return [];
+  }
+
+  const limit = getPresetLimit();
+  const sortedBundles = [...bundles].sort((left, right) => {
+    if (singleBundle && Number.isFinite(limit)) {
+      const sizeDelta = Math.abs(left.items.length - limit) - Math.abs(right.items.length - limit);
+      if (sizeDelta !== 0) {
+        return sizeDelta;
+      }
+    }
+    return compareBundleNewest(left, right);
+  });
+
+  if (singleBundle) {
+    return getSortedItems(sortedBundles[0].items);
+  }
+
+  const selected = [];
+  let selectedCount = 0;
+  for (const bundle of sortedBundles) {
+    if (Number.isFinite(limit) && selected.length && selectedCount >= limit) {
+      break;
+    }
+    const bundleItems = getSortedItems(bundle.items);
+    selected.push(...bundleItems);
+    selectedCount += bundleItems.length;
+  }
+
+  return takeUniqueItems(selected, Infinity);
+}
+
+function rankLowRisk(items) {
+  return [...items].sort((left, right) => {
+    const leftConfidence = left?.extraction_quality?.vision_confidence ?? 0;
+    const rightConfidence = right?.extraction_quality?.vision_confidence ?? 0;
+    if (rightConfidence !== leftConfidence) {
+      return rightConfidence - leftConfidence;
+    }
+    const leftReview = Number(Boolean(left?.extraction_quality?.needs_review));
+    const rightReview = Number(Boolean(right?.extraction_quality?.needs_review));
+    if (leftReview !== rightReview) {
+      return leftReview - rightReview;
+    }
+    const leftPercent = getPercentCorrect(left) ?? -1;
+    const rightPercent = getPercentCorrect(right) ?? -1;
+    if (rightPercent !== leftPercent) {
+      return rightPercent - leftPercent;
+    }
+    return compareNewest(left, right);
   });
 }
 
@@ -965,28 +1242,179 @@ function moveSelection(itemId, direction) {
 
 function buildPresetSelection(presetName, pool) {
   const visiblePool = getSortedItems(pool);
+  const standardKey = (item) => item.metadata.standard;
+  const clusterKey = (item) => item.metadata.cluster;
+  const easyItems = visiblePool.filter((item) => item.metadata.difficulty?.label === "easy");
+  const mediumItems = visiblePool.filter((item) => item.metadata.difficulty?.label === "medium");
+  const hardItems = visiblePool.filter((item) => item.metadata.difficulty?.label === "hard");
+  const knownDifficultyItems = visiblePool.filter(hasKnownDifficulty);
+  const readinessItems = visiblePool.filter(isReadinessItem);
+  const supportingItems = visiblePool.filter(isSupportingItem);
+  const lowRiskItems = visiblePool.filter((item) => !item.extraction_quality?.needs_review);
+
   switch (presetName) {
     case "hardest_test":
-      return takePresetItems(rankHardest(visiblePool.filter(hasKnownDifficulty)));
+      return takePresetItems(rankHardest(knownDifficultyItems));
     case "easier_test":
-      return takePresetItems(rankEasiest(visiblePool.filter(hasKnownDifficulty)));
+      return takePresetItems(rankEasiest(knownDifficultyItems));
     case "beginning_of_year": {
       const preferred = visiblePool.filter((item) => ["easy", "medium"].includes(item.metadata.difficulty?.label));
       const remainder = visiblePool.filter((item) => !preferred.includes(item));
       return takePresetItems([...rankBeginningOfYear(preferred), ...rankBeginningOfYear(remainder)]);
     }
     case "easy_only":
-      return takePresetItems(rankEasiest(visiblePool.filter((item) => item.metadata.difficulty?.label === "easy")));
+      return takePresetItems(rankEasiest(easyItems));
     case "hard_only":
-      return takePresetItems(rankHardest(visiblePool.filter((item) => item.metadata.difficulty?.label === "hard")));
+      return takePresetItems(rankHardest(hardItems));
     case "latest_only":
       return takePresetItems([...visiblePool].sort(compareNewest));
+    case "spiral_review":
+      return roundRobinByGroup(visiblePool, standardKey, (items) => [...items].sort(compareNewest), compareGroupKey);
+    case "single_teks_mastery": {
+      const targetStandard =
+        (state.filters.teks && visiblePool.find((item) => item.metadata.standard === state.filters.teks)?.metadata.standard) ||
+        buildCounts(visiblePool, standardKey)[0]?.[0];
+      if (!targetStandard) {
+        return [];
+      }
+      const targetItems = visiblePool.filter((item) => item.metadata.standard === targetStandard);
+      return takeUniqueFromLists([rankEasiest(targetItems), rankHardest(targetItems), getSortedItems(targetItems)]);
+    }
+    case "intervention_set": {
+      const interventionPool = lowRiskItems.filter((item) => ["easy", "medium"].includes(item.metadata.difficulty?.label));
+      return takeUniqueFromLists([
+        ...buildGroupQueues(interventionPool.filter((item) => item.metadata.difficulty?.label === "easy"), standardKey, rankEasiest, compareGroupKey),
+        ...buildGroupQueues(
+          interventionPool.filter((item) => item.metadata.difficulty?.label === "medium"),
+          standardKey,
+          rankEasiest,
+          compareGroupKey
+        ),
+        rankLowRisk(interventionPool),
+      ]);
+    }
+    case "reteach_set": {
+      const reteachPool = lowRiskItems.filter(hasKnownDifficulty);
+      return takeUniqueFromLists([
+        ...buildGroupQueues(reteachPool.filter((item) => item.metadata.difficulty?.label === "medium"), standardKey, rankHardest, compareGroupKey),
+        ...buildGroupQueues(reteachPool.filter((item) => item.metadata.difficulty?.label === "hard"), standardKey, rankHardest, compareGroupKey),
+        rankHardest(reteachPool),
+      ]);
+    }
+    case "challenge_set":
+      return takePresetItems(rankHardest(hardItems.length ? hardItems : knownDifficultyItems));
+    case "mixed_difficulty_checkpoint":
+      return takeUniqueFromLists([
+        ...buildGroupQueues(easyItems, standardKey, rankEasiest, compareGroupKey),
+        ...buildGroupQueues(mediumItems, standardKey, getSortedItems, compareGroupKey),
+        ...buildGroupQueues(hardItems, standardKey, rankHardest, compareGroupKey),
+      ]);
+    case "exit_ticket":
+      return takeUniqueFromLists([
+        firstPerGroup(easyItems.length ? easyItems : visiblePool, standardKey, rankEasiest, compareGroupKey),
+        firstPerGroup(mediumItems.length ? mediumItems : visiblePool, standardKey, getSortedItems, compareGroupKey),
+        rankLowRisk(lowRiskItems),
+      ]);
+    case "warm_up":
+      return takeUniqueFromLists([
+        ...buildGroupQueues(easyItems, standardKey, rankEasiest, compareGroupKey),
+        ...buildGroupQueues(mediumItems, standardKey, rankEasiest, compareGroupKey),
+      ]);
+    case "benchmark_lite":
+      return takeUniqueFromLists([
+        ...buildGroupQueues(readinessItems, standardKey, getSortedItems, compareGroupKey),
+        ...buildGroupQueues(supportingItems, standardKey, getSortedItems, compareGroupKey),
+      ]);
+    case "latest_released_mix": {
+      const latestYears = [...new Set(visiblePool.map((item) => item.metadata.year))].sort((left, right) => right - left);
+      const focusYears = new Set(latestYears.slice(0, 2));
+      const latestPool = visiblePool.filter((item) => focusYears.has(item.metadata.year));
+      return roundRobinByGroup(latestPool, standardKey, (items) => [...items].sort(compareNewest), compareGroupKey);
+    }
+    case "foundations_first": {
+      const foundationPool = [...supportingItems, ...readinessItems];
+      return takeUniqueFromLists([
+        rankBeginningOfYear(foundationPool.filter((item) => ["easy", "medium"].includes(item.metadata.difficulty?.label))),
+        rankBeginningOfYear(foundationPool),
+      ]);
+    }
+    case "vocabulary_focus": {
+      const matches = visiblePool.filter(matchesVocabularyFocus);
+      if (matches.length) {
+        return takeUniqueFromLists([
+          ...buildGroupQueues(matches, standardKey, rankEasiest, compareGroupKey),
+          [...matches].sort((left, right) => getQuestionTextLength(right) - getQuestionTextLength(left) || compareNewest(left, right)),
+        ]);
+      }
+      return takePresetItems(
+        [...visiblePool].sort(
+          (left, right) => getQuestionTextLength(right) - getQuestionTextLength(left) || compareNewest(left, right)
+        )
+      );
+    }
+    case "multi_select_only":
+      return takePresetItems(getSortedItems(visiblePool.filter(isMultiSelectItem)));
+    case "constructed_response_only":
+      return takePresetItems(getSortedItems(visiblePool.filter(isConstructedResponseItem)));
+    case "passage_set":
+      return takePassageBundles(visiblePool);
+    case "one_passage_per_test":
+      return takePassageBundles(visiblePool, { singleBundle: true });
+    case "genre_mix":
+      return roundRobinByGroup(visiblePool.filter((item) => item.metadata.cluster), clusterKey, getSortedItems, compareGroupKey);
+    case "readiness_only":
+      return takeUniqueFromLists([
+        ...buildGroupQueues(readinessItems, standardKey, getSortedItems, compareGroupKey),
+        rankHardest(readinessItems.filter(hasKnownDifficulty)),
+      ]);
+    case "supporting_only":
+      return takeUniqueFromLists([
+        ...buildGroupQueues(supportingItems, standardKey, getSortedItems, compareGroupKey),
+        rankEasiest(supportingItems.filter(hasKnownDifficulty)),
+      ]);
+    case "low_review_risk":
+      return takePresetItems(rankLowRisk(lowRiskItems));
+    case "needs_review_audit":
+      return takePresetItems(getSortedItems(visiblePool.filter((item) => item.extraction_quality?.needs_review)));
+    case "year_over_year": {
+      const standardYearGroups = [...groupItemsBy(visiblePool, standardKey).entries()]
+        .filter(([, items]) => new Set(items.map((item) => item.metadata.year)).size > 1)
+        .sort(([leftKey], [rightKey]) => compareGroupKey(leftKey, rightKey))
+        .map(([, items]) =>
+          [...groupItemsBy(items, (item) => item.metadata.year).entries()]
+            .sort(([leftYear], [rightYear]) => Number(rightYear) - Number(leftYear))
+            .map(([, yearItems]) => getSortedItems(yearItems)[0])
+            .filter(Boolean)
+        );
+      return takeUniqueFromLists(standardYearGroups);
+    }
+    case "newest_per_teks":
+      return roundRobinByGroup(visiblePool, standardKey, (items) => [...items].sort(compareNewest), compareGroupKey);
+    case "one_per_teks":
+      return firstPerGroup(visiblePool, standardKey, (items) => [...items].sort(compareNewest), compareGroupKey);
+    case "mini_quiz":
+      return takeUniqueFromLists([
+        firstPerGroup(visiblePool, standardKey, (items) => [...items].sort(compareNewest), compareGroupKey),
+        rankEasiest(easyItems),
+        rankHardest(hardItems),
+      ]);
+    case "unit_test":
+      return takeUniqueFromLists([
+        ...buildGroupQueues(readinessItems, standardKey, getSortedItems, compareGroupKey),
+        ...buildGroupQueues(supportingItems, standardKey, getSortedItems, compareGroupKey),
+        rankHardest(hardItems),
+        rankEasiest(easyItems),
+      ]);
     default:
       return [];
   }
 }
 
 function applyPreset(presetName) {
+  if (ELAR_ONLY_PRESETS.has(presetName) && getActiveCollection()?.subject !== "ELAR") {
+    window.alert(`"${PRESET_TITLES[presetName] || "That preset"}" is only available for ELAR collections.`);
+    return;
+  }
   const visiblePool = getFilteredItems();
   const presetItems = buildPresetSelection(presetName, visiblePool);
   if (!presetItems.length) {

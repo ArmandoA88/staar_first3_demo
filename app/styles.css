@@ -212,15 +212,22 @@ img {
     linear-gradient(135deg, var(--builder-gradient-a), var(--builder-gradient-b));
 }
 
-.print-tools-panel {
+.right-rail {
   grid-column: 2;
   grid-row: 1 / span 4;
   position: sticky;
   top: 24px;
   align-self: start;
+  display: grid;
+  gap: 12px;
   max-height: calc(100vh - 48px);
   overflow: auto;
   z-index: 3;
+}
+
+.print-tools-panel,
+.preset-side-panel {
+  min-width: 0;
 }
 
 .builder-form-grid {
@@ -261,6 +268,12 @@ img {
   margin-top: 14px;
   padding-top: 14px;
   border-top: 1px solid var(--line);
+}
+
+.preset-builder-standalone {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: 0;
 }
 
 .panel-header-tight {
@@ -1113,7 +1126,7 @@ img {
     grid-template-columns: 1fr;
   }
 
-  .print-tools-panel {
+  .right-rail {
     position: static;
     top: auto;
     max-height: none;
