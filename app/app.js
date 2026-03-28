@@ -1901,7 +1901,7 @@ function buildPrintResponseTemplateMarkup(template) {
 
 function buildStudentQuestionImageMarkup(item, questionNumber, collection) {
   return `
-    <section class="print-question">
+    <section class="print-question" data-item-id="${escapeHtml(item.id)}" data-question-number="${questionNumber}">
       <div class="print-question-header">
         <span>Question ${questionNumber}</span>
       </div>
@@ -1912,19 +1912,25 @@ function buildStudentQuestionImageMarkup(item, questionNumber, collection) {
   `;
 }
 
-function buildStudentQuestionOcrMarkup(item, questionNumber) {
+function buildStudentQuestionOcrMarkup(item, questionNumber, options = {}) {
   const hasOptions = Boolean(item.question.options?.length);
   const hasResponseTemplate = Boolean(item.question.response_template);
   const hasChoicePool = Boolean(item.question.choice_pool?.length);
   const hasVisualElements = Boolean(item.question.visual_elements?.length);
   const needsResponseLines = !hasOptions;
+  const fallbackNotice = options.fallbackNotice || "";
 
   return `
-    <section class="print-question print-question-ocr">
+    <section class="print-question print-question-ocr" data-item-id="${escapeHtml(item.id)}" data-question-number="${questionNumber}">
       <div class="print-question-header">
         <span>Question ${questionNumber}</span>
         <span class="print-question-type">${escapeHtml(item.metadata.declared_item_type_display || item.metadata.item_type || "")}</span>
       </div>
+      ${
+        fallbackNotice
+          ? `<div class="print-image-fallback-note">${escapeHtml(fallbackNotice)}</div>`
+          : ""
+      }
       <div class="print-question-stem">${escapeHtml(getQuestionDisplayTitle(item))}</div>
       ${
         item.question.instruction
@@ -2118,6 +2124,54 @@ function buildPrintableMarkup(mode, selectedItems) {
   return mode === "student" ? buildStudentPrintMarkup(selectedItems) : buildAnswerKeyMarkup(selectedItems);
 }
 
+function isRenderableImage(image) {
+  return Boolean(image?.complete && image.naturalWidth > 0 && image.naturalHeight > 0);
+}
+
+function repairPrintableImageFailures(mode) {
+  if (mode !== "student") {
+    return;
+  }
+
+  const exportSource = getPdfExportSource();
+
+  exportSource.querySelectorAll(".print-question[data-item-id]").forEach((section) => {
+    const image = section.querySelector(".print-question-image");
+    if (!image || isRenderableImage(image)) {
+      return;
+    }
+
+    const item = state.itemsById.get(section.dataset.itemId || "");
+    const questionNumber = Number(section.dataset.questionNumber || 0);
+    if (!item || !questionNumber) {
+      image.replaceWith(document.createTextNode("Question image unavailable for export."));
+      return;
+    }
+
+    section.outerHTML = buildStudentQuestionOcrMarkup(item, questionNumber, {
+      fallbackNotice: "Source image unavailable for PDF export. Showing OCR text instead.",
+    });
+  });
+
+  exportSource.querySelectorAll(".print-stimulus").forEach((section) => {
+    const images = [...section.querySelectorAll(".print-stimulus-image")];
+    if (!images.length || images.every(isRenderableImage)) {
+      return;
+    }
+
+    const gallery = section.querySelector(".print-stimulus-gallery");
+    if (!gallery) {
+      return;
+    }
+
+    gallery.outerHTML = `
+      <div class="print-stimulus-missing">
+        Passage image could not be loaded for PDF export. Questions will still print, but restore the source passage before using this packet.
+      </div>
+    `;
+  });
+}
+
 function mountPrintWorkspace(mode, selectedItems, options = {}) {
   state.printMode = mode;
   elements.printWorkspace.innerHTML = buildPrintableMarkup(mode, selectedItems);
@@ -2235,6 +2289,7 @@ async function preparePrint(mode) {
   try {
     mountPrintWorkspace(mode, selectedItems, { preparingPrint: true });
     await waitForPrintableContent(elements.printWorkspace);
+    repairPrintableImageFailures(mode);
     releasePrintWorkspaceForPrint();
     await new Promise((resolve) => {
       window.requestAnimationFrame(() => {
@@ -2270,6 +2325,7 @@ async function downloadPdf(mode) {
   try {
     mountPrintWorkspace(mode, selectedItems, { exportingPdf: true });
     await waitForPrintableContent(elements.printWorkspace);
+    repairPrintableImageFailures(mode);
     const exportSource = getPdfExportSource();
 
     const exportScale = Math.max(1.5, Math.min(window.devicePixelRatio || 1, 2));

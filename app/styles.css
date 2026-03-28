@@ -1008,6 +1008,17 @@ img {
   font-weight: 700;
 }
 
+.print-image-fallback-note {
+  margin-bottom: 10px;
+  padding: 10px 12px;
+  border: 1px solid #d7c2a1;
+  border-radius: 12px;
+  background: #fff6ea;
+  color: #7a4b1f;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
 .print-question-instruction,
 .print-choice-pool,
 .print-visual-elements,
