@@ -176,6 +176,7 @@ const state = {
     teacher: "",
     studentPrintFormat: "png",
   },
+  showResultsOcr: false,
   printMode: "",
   printPreparingMode: "",
   pdfExportMode: "",
@@ -211,11 +212,13 @@ const elements = {
   studentPrintFormat: document.querySelector("#student-print-format"),
   addSelection: document.querySelector("#add-selection"),
   removeSelection: document.querySelector("#remove-selection"),
+  toggleResultsOcr: document.querySelector("#toggle-results-ocr"),
   addVisible: document.querySelector("#add-visible"),
   removeVisible: document.querySelector("#remove-visible"),
   clearSelection: document.querySelector("#clear-selection"),
   presetSize: document.querySelector("#preset-size"),
-  presetButtons: [...document.querySelectorAll("[data-preset]")],
+  presetType: document.querySelector("#preset-type"),
+  buildPreset: document.querySelector("#build-preset"),
   printTest: document.querySelector("#print-test"),
   printAnswerKey: document.querySelector("#print-answer-key"),
   downloadTestPdf: document.querySelector("#download-test-pdf"),
@@ -720,6 +723,11 @@ function attachEvents() {
     }
   });
 
+  elements.toggleResultsOcr.addEventListener("click", () => {
+    state.showResultsOcr = !state.showResultsOcr;
+    render();
+  });
+
   elements.addVisible.addEventListener("click", () => {
     const addedCount = addItemsToSelection(getSortedItems(getFilteredItems()));
     if (!addedCount) {
@@ -743,10 +751,8 @@ function attachEvents() {
     render();
   });
 
-  elements.presetButtons.forEach((button) => {
-    button.addEventListener("click", () => {
-      applyPreset(button.dataset.preset);
-    });
+  elements.buildPreset.addEventListener("click", () => {
+    applyPreset(elements.presetType.value);
   });
 
   elements.printTest.addEventListener("click", () => {
@@ -1100,6 +1106,9 @@ function renderSummary(filteredItems) {
     elements.removeSelection.disabled = false;
   }
 
+  elements.toggleResultsOcr.textContent = state.showResultsOcr ? "Hide OCR For All" : "Show OCR For All";
+  elements.toggleResultsOcr.disabled = !collectionReady || !filteredItems.length;
+
   setChipGroup(
     elements.teksGroups,
     teksCounts,
@@ -1260,6 +1269,7 @@ function renderCard(item, options = {}) {
   `;
 
   card.dataset.id = item.id;
+  card.classList.toggle("is-ocr-collapsed", !state.showResultsOcr);
   return card;
 }
 
@@ -1440,9 +1450,7 @@ function renderBuilder() {
   elements.clearSelection.disabled = selectedItems.length === 0;
   elements.addVisible.disabled = !collectionReady;
   elements.removeVisible.disabled = !collectionReady;
-  elements.presetButtons.forEach((button) => {
-    button.disabled = !collectionReady;
-  });
+  elements.buildPreset.disabled = !collectionReady;
 
   if (!collectionReady) {
     elements.selectionSummary.innerHTML = `

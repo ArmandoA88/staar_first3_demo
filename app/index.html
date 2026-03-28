@@ -83,7 +83,7 @@
 
       <main class="main-content">
         <section class="hero-panel">
-          <div>
+          <div class="hero-copy">
             <p class="eyebrow">Problem Finder</p>
             <h2>Browse collections and build printable tests</h2>
           </div>
@@ -93,7 +93,7 @@
         <section class="builder-grid">
           <article class="builder-panel builder-panel-primary">
             <div class="panel-header">
-              <div>
+              <div class="panel-heading-inline">
                 <p class="eyebrow">Test Builder</p>
                 <h3>Assemble a student packet from selected problems</h3>
               </div>
@@ -120,7 +120,7 @@
 
             <section class="preset-builder">
               <div class="panel-header panel-header-tight">
-                <div>
+                <div class="panel-heading-inline">
                   <p class="eyebrow">Preset Builders</p>
                   <h3>Generate common test types instantly</h3>
                 </div>
@@ -137,46 +137,57 @@
                     <option value="all">All matching</option>
                   </select>
                 </label>
-              </div>
-
-              <div class="preset-grid">
-                <button class="preset-button" type="button" data-preset="hardest_test">
-                  <strong>Hardest Test</strong>
-                  <span>Lowest state percent-correct questions first.</span>
-                </button>
-                <button class="preset-button" type="button" data-preset="easier_test">
-                  <strong>Easier Test</strong>
-                  <span>Higher success-rate questions for confidence building.</span>
-                </button>
-                <button class="preset-button" type="button" data-preset="beginning_of_year">
-                  <strong>Beginning of Year</strong>
-                  <span>Foundational TEKS with easier early-course skills.</span>
-                </button>
-                <button class="preset-button" type="button" data-preset="easy_only">
-                  <strong>Easy Questions Only</strong>
-                  <span>Only questions in the easy bucket.</span>
-                </button>
-                <button class="preset-button" type="button" data-preset="hard_only">
-                  <strong>Harder Questions Only</strong>
-                  <span>Only hard questions based on percent correct.</span>
-                </button>
-                <button class="preset-button" type="button" data-preset="latest_only">
-                  <strong>Latest Questions Only</strong>
-                  <span>Newest released items first.</span>
-                </button>
+                <label class="builder-field preset-type-field">
+                  <span class="filter-label">Preset Type</span>
+                  <select id="preset-type" class="select-input">
+                    <option value="hardest_test" selected>Hardest Test</option>
+                    <option value="easier_test">Easier Test</option>
+                    <option value="beginning_of_year">Beginning of Year</option>
+                    <option value="easy_only">Easy Questions Only</option>
+                    <option value="hard_only">Harder Questions Only</option>
+                    <option value="latest_only">Latest Questions Only</option>
+                  </select>
+                </label>
+                <button id="build-preset" class="secondary-button preset-build-button" type="button">Build Preset</button>
               </div>
 
               <div class="preset-notes">
-                Presets use the current filtered questions. Clear filters to build from the full catalog, or narrow by TEKS first and then apply a preset.
+                Presets use the current filtered questions. Pick a type, choose the size, and build from the current filters.
               </div>
+            </section>
+
+            <section class="summary-grid builder-summary-grid">
+              <article class="summary-panel">
+                <div class="panel-header">
+                  <h3>TEKS</h3>
+                  <span id="teks-count" class="count-pill"></span>
+                </div>
+                <div id="teks-groups" class="chip-grid"></div>
+              </article>
+
+              <article class="summary-panel">
+                <div class="panel-header">
+                  <h3>Years</h3>
+                  <span id="year-count" class="count-pill"></span>
+                </div>
+                <div id="year-groups" class="chip-grid"></div>
+              </article>
+
+              <article class="summary-panel">
+                <div class="panel-header">
+                  <h3>Difficulty</h3>
+                  <span id="difficulty-count" class="count-pill"></span>
+                </div>
+                <div id="difficulty-groups" class="chip-grid"></div>
+              </article>
             </section>
 
             <div id="selection-summary" class="builder-summary"></div>
           </article>
 
-          <article class="builder-panel">
+          <article class="builder-panel print-tools-panel">
             <div class="panel-header">
-              <div>
+              <div class="panel-heading-inline">
                 <p class="eyebrow">Print Tools</p>
                 <h3>Student Test and Answer Key</h3>
               </div>
@@ -201,38 +212,15 @@
               </button>
             </div>
 
-            <div class="print-notes">
-              <p>Use the filters first, add the filtered questions, then print.</p>
-              <p>The student packet uses source PNGs by default. Switch to OCR text only when you want a text-rendered version.</p>
-              <p>ELAR passages still print from the original PNGs so the passage stays attached to its questions. The answer key prints TEKS, answers, and state percent correct.</p>
-              <p>Download PDF exports the current student packet or answer key directly to a PDF file.</p>
-            </div>
-          </article>
-        </section>
-
-        <section class="summary-grid">
-          <article class="summary-panel">
-            <div class="panel-header">
-              <h3>TEKS</h3>
-              <span id="teks-count" class="count-pill"></span>
-            </div>
-            <div id="teks-groups" class="chip-grid"></div>
-          </article>
-
-          <article class="summary-panel">
-            <div class="panel-header">
-              <h3>Years</h3>
-              <span id="year-count" class="count-pill"></span>
-            </div>
-            <div id="year-groups" class="chip-grid"></div>
-          </article>
-
-          <article class="summary-panel">
-            <div class="panel-header">
-              <h3>Difficulty</h3>
-              <span id="difficulty-count" class="count-pill"></span>
-            </div>
-            <div id="difficulty-groups" class="chip-grid"></div>
+            <details class="print-notes-panel">
+              <summary>Printing notes</summary>
+              <div class="print-notes">
+                <p>Use the filters first, add the filtered questions, then print.</p>
+                <p>The student packet uses source PNGs by default. Switch to OCR text only when you want a text-rendered version.</p>
+                <p>ELAR passages still print from the original PNGs so the passage stays attached to its questions. The answer key prints TEKS, answers, and state percent correct.</p>
+                <p>Download PDF exports the current student packet or answer key directly to a PDF file.</p>
+              </div>
+            </details>
           </article>
         </section>
 
@@ -244,6 +232,9 @@
             </button>
             <button id="remove-selection" class="primary-button selection-action-button selection-action-button-secondary" type="button">
               Remove Matching Questions
+            </button>
+            <button id="toggle-results-ocr" class="primary-button selection-action-button selection-action-button-secondary" type="button">
+              Show OCR For All
             </button>
           </div>
         </section>
