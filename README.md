@@ -130,7 +130,7 @@ This normalizes each `collection.json` and rewrites `collections/index.json`.
 
 1. Open the app and choose a collection.
 2. Filter by TEKS, year, difficulty, item type, or review status.
-3. Add individual problems or use `Add Visible Results`.
+3. Add individual problems or use `Add Filtered Questions`.
 4. Or use presets such as `Hardest Test`, `Easier Test`, `Beginning of Year`, `Easy Questions Only`, `Harder Questions Only`, or `Latest Questions Only`.
 5. Enter a test title and teacher/class label.
 6. Reorder or remove selected questions.

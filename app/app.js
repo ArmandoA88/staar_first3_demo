@@ -723,14 +723,14 @@ function attachEvents() {
   elements.addVisible.addEventListener("click", () => {
     const addedCount = addItemsToSelection(getSortedItems(getFilteredItems()));
     if (!addedCount) {
-      window.alert("No visible problems were added. They may already be selected.");
+      window.alert("No filtered questions were added. They may already be selected.");
     }
   });
 
   elements.removeVisible.addEventListener("click", () => {
     const removedCount = removeItemsFromSelection(getFilteredItems().map((item) => item.id));
     if (!removedCount) {
-      window.alert("No visible problems were removed.");
+      window.alert("No filtered questions were removed.");
     }
   });
 
