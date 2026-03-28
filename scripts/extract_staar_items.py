@@ -380,6 +380,100 @@ def render_crop(page: fitz.Page, crop_rect: fitz.Rect, output_path: Path, dpi: i
     }
 
 
+def load_question_image_postprocess_config(collection_root: Path) -> dict[str, Any] | None:
+    manifest_path = collection_root / "collection.json"
+    if not manifest_path.exists():
+        return None
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    config = manifest.get("question_image_postprocess")
+    return config if isinstance(config, dict) and config else None
+
+
+def trim_right_artifact_strip(image: Image.Image, config: dict[str, Any]) -> Image.Image:
+    trim_config = config.get("trim_right_artifact_strip")
+    if not isinstance(trim_config, dict):
+        return image
+
+    dark_threshold = int(trim_config.get("dark_threshold", 245))
+    search_window = max(1, int(trim_config.get("search_window_px", 320)))
+    min_gap_width = max(1, int(trim_config.get("min_gap_width_px", 20)))
+    min_tail_width = max(1, int(trim_config.get("min_tail_width_px", 24)))
+    max_tail_width = max(min_tail_width, int(trim_config.get("max_tail_width_px", 80)))
+    preserve_right_margin = max(0, int(trim_config.get("preserve_right_margin_px", 0)))
+
+    mask = image.convert("L").point(lambda value: 255 if value < dark_threshold else 0)
+    projection, _ = mask.getprojection()
+    width = len(projection)
+    search_start = max(0, width - search_window)
+
+    gap_start: int | None = None
+    candidate_gap_start: int | None = None
+    candidate_gap_end: int | None = None
+
+    for x in range(search_start, width):
+        if projection[x]:
+            if gap_start is not None:
+                gap_width = x - gap_start
+                if gap_width >= min_gap_width and x < width - min_tail_width:
+                    candidate_gap_start = gap_start
+                    candidate_gap_end = x - 1
+                gap_start = None
+            continue
+        if gap_start is None:
+            gap_start = x
+
+    if gap_start is not None:
+        trailing_gap_width = width - gap_start
+        if trailing_gap_width >= min_gap_width and gap_start > 0:
+            trim_x = min(width, gap_start + preserve_right_margin)
+            return image.crop((0, 0, trim_x, image.height))
+
+    if candidate_gap_start is None or candidate_gap_end is None:
+        return image
+
+    tail_projection = projection[candidate_gap_end + 1 :]
+    tail_active_columns = [index for index, value in enumerate(tail_projection) if value]
+    if not tail_active_columns:
+        trim_x = min(width, candidate_gap_start + preserve_right_margin)
+        return image.crop((0, 0, trim_x, image.height))
+
+    tail_width = tail_active_columns[-1] - tail_active_columns[0] + 1
+    if min_tail_width <= tail_width <= max_tail_width and candidate_gap_start > 0:
+        trim_x = min(candidate_gap_start + preserve_right_margin, candidate_gap_end + 1)
+        return image.crop((0, 0, trim_x, image.height))
+    return image
+
+
+def apply_question_image_postprocess(
+    image: Image.Image,
+    question_image_postprocess: dict[str, Any] | None,
+) -> Image.Image:
+    if not question_image_postprocess:
+        return image
+    processed = trim_right_artifact_strip(image, question_image_postprocess)
+    return processed if processed.size[0] > 0 and processed.size[1] > 0 else image
+
+
+def save_rendered_question_image(
+    image: Image.Image,
+    output_path: Path,
+    crop_bbox_pdf_points: list[float],
+    dpi: int,
+    question_image_postprocess: dict[str, Any] | None = None,
+) -> dict[str, Any]:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    final_image = apply_question_image_postprocess(image, question_image_postprocess)
+    final_image.save(output_path)
+    digest = hashlib.sha256(output_path.read_bytes()).hexdigest()
+    return {
+        "crop_bbox_pdf_points": crop_bbox_pdf_points,
+        "render_dpi": dpi,
+        "image_width_px": final_image.width,
+        "image_height_px": final_image.height,
+        "sha256": digest,
+    }
+
+
 def expand_rect(rect: fitz.Rect, page_rect: fitz.Rect, padding: float = 8.0) -> fitz.Rect:
     return fitz.Rect(
         max(page_rect.x0, rect.x0 - padding),
@@ -415,13 +509,22 @@ def render_segment(
     segment: Segment,
     output_path: Path,
     dpi: int,
+    question_image_postprocess: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     render_spans = segment.render_spans or [(segment.source_page_numbers or [1])[0] - 1, rect_to_tuple(segment.crop_rect)]
 
     if len(render_spans) == 1:
         page_index, rect_tuple = render_spans[0]
-        info = render_crop(doc.load_page(page_index), tuple_to_rect(rect_tuple), output_path, dpi)
+        page = doc.load_page(page_index)
+        image, info = render_page_crop_to_image(page, tuple_to_rect(rect_tuple), dpi)
+        info = save_rendered_question_image(
+            image,
+            output_path,
+            info["crop_bbox_pdf_points"],
+            dpi,
+            question_image_postprocess=question_image_postprocess,
+        )
         info["page_span"] = segment.source_page_numbers or [page_index + 1]
         return info
 
@@ -444,17 +547,22 @@ def render_segment(
         canvas.paste(image, (0, offset_y))
         offset_y += image.height
 
-    canvas.save(output_path)
-    digest = hashlib.sha256(output_path.read_bytes()).hexdigest()
+    saved_info = save_rendered_question_image(
+        canvas,
+        output_path,
+        crop_boxes[0],
+        dpi,
+        question_image_postprocess=question_image_postprocess,
+    )
     return {
-        "crop_bbox_pdf_points": crop_boxes[0],
+        "crop_bbox_pdf_points": saved_info["crop_bbox_pdf_points"],
         "stitched_crop_bboxes_pdf_points": crop_boxes,
         "stitched_page_count": len(render_spans),
         "page_span": segment.source_page_numbers or [page_index + 1 for page_index, _ in render_spans],
-        "render_dpi": dpi,
-        "image_width_px": canvas.width,
-        "image_height_px": canvas.height,
-        "sha256": digest,
+        "render_dpi": saved_info["render_dpi"],
+        "image_width_px": saved_info["image_width_px"],
+        "image_height_px": saved_info["image_height_px"],
+        "sha256": saved_info["sha256"],
     }
 
 
@@ -1136,6 +1244,7 @@ def process_standard_collection(
     subject: str | None,
     grade: int | None,
     client: OpenAI | None,
+    question_image_postprocess: dict[str, Any] | None,
 ) -> int:
     all_segments = collect_standard_segment_entries(doc)
 
@@ -1152,7 +1261,13 @@ def process_standard_collection(
             f"{segment.metadata['year']}_q{segment.metadata['question_number']}.png"
         )
         image_path = images_dir / image_name
-        render_info = render_segment(doc, segment, image_path, args.dpi)
+        render_info = render_segment(
+            doc,
+            segment,
+            image_path,
+            args.dpi,
+            question_image_postprocess=question_image_postprocess,
+        )
 
         if args.skip_vision:
             vision_payload = build_skipped_vision_payload(segment)
@@ -1239,6 +1354,7 @@ def process_elar_collection(
     subject: str | None,
     grade: int | None,
     client: OpenAI | None,
+    question_image_postprocess: dict[str, Any] | None,
 ) -> int:
     stimuli_dir = collection_root / "images" / "stimuli"
     item_plans, stimulus_group_plans = build_elar_extraction_plan(doc, subject, grade)
@@ -1268,7 +1384,13 @@ def process_elar_collection(
             f"{segment.metadata['year']}_q{segment.metadata['question_number']}.png"
         )
         image_path = images_dir / image_name
-        render_info = render_segment(doc, segment, image_path, args.dpi)
+        render_info = render_segment(
+            doc,
+            segment,
+            image_path,
+            args.dpi,
+            question_image_postprocess=question_image_postprocess,
+        )
 
         if args.skip_vision:
             vision_payload = build_skipped_vision_payload(segment)
@@ -1367,6 +1489,7 @@ def main() -> int:
     images_dir = resolve_path(root, collection_root, args.images_dir, collection_root / "images" / "extracted")
     vision_cache_dir = resolve_path(root, collection_root, args.vision_cache_dir, collection_root / "cache" / "vision")
     progress_path = resolve_path(root, collection_root, args.progress_json, collection_root / "cache" / "progress.json")
+    question_image_postprocess = load_question_image_postprocess_config(collection_root)
 
     if not pdf_path.exists():
         raise FileNotFoundError(pdf_path)
@@ -1389,6 +1512,7 @@ def main() -> int:
             subject=subject,
             grade=grade,
             client=client,
+            question_image_postprocess=question_image_postprocess,
         )
 
     return process_standard_collection(
@@ -1404,6 +1528,7 @@ def main() -> int:
         subject=subject,
         grade=grade,
         client=client,
+        question_image_postprocess=question_image_postprocess,
     )
 
 
