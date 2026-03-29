@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">STAAR Problem Browser Texas star logo</title>
+  <desc id="desc">A rounded square badge with Texas flag colors and a centered white star.</desc>
+  <defs>
+    <clipPath id="badge-clip">
+      <rect x="14" y="14" width="192" height="192" rx="42" ry="42" />
+    </clipPath>
+    <filter id="star-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="4" dy="6" stdDeviation="6" flood-color="#163042" flood-opacity="0.28" />
+    </filter>
+  </defs>
+
+  <g clip-path="url(#badge-clip)">
+    <rect x="14" y="14" width="192" height="192" fill="#ffffff" />
+    <rect x="14" y="14" width="70" height="192" fill="#002868" />
+    <rect x="84" y="110" width="122" height="96" fill="#bf0a30" />
+    <path d="M14 14h140l-48 84H14z" fill="#ffffff" opacity="0.22" />
+  </g>
+
+  <rect x="14" y="14" width="192" height="192" rx="42" ry="42" fill="none" stroke="#163042" stroke-opacity="0.14" stroke-width="5" />
+  <polygon
+    points="110,50 125,87 165,91 135,117 144,158 110,136 76,158 85,117 55,91 95,87"
+    fill="#ffffff"
+    stroke="#163042"
+    stroke-linejoin="round"
+    stroke-width="10"
+    filter="url(#star-shadow)"
+  />
+</svg>

@@ -5,6 +5,7 @@ import subprocess
 import sys
 from pathlib import Path
 
+from generate_tauri_icons import main as generate_tauri_icons
 from packaged_runtime import ROOT, directory_size, format_size, stage_runtime_tree
 
 APP_NAME = "STAARProblemBrowser"
@@ -16,6 +17,7 @@ DIST_PATH = ROOT
 
 
 def stage_runtime() -> None:
+    generate_tauri_icons()
     stage_runtime_tree(STAGED_RUNTIME_ROOT)
 
 
@@ -35,6 +37,8 @@ def build_executable() -> None:
         "--windowed",
         "--name",
         APP_NAME,
+        "--icon",
+        str(ROOT / "src-tauri" / "icons" / "icon.ico"),
         "--distpath",
         str(DIST_PATH),
         "--workpath",

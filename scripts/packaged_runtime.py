@@ -1,15 +1,35 @@
 from __future__ import annotations
 
 import json
+import os
+import stat
 import shutil
+import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
 
+def handle_remove_error(function, target_path: str, _exc_info) -> None:
+    os.chmod(target_path, stat.S_IWRITE)
+    function(target_path)
+
+
 def remove_tree(path: Path) -> None:
-    if path.exists():
-        shutil.rmtree(path)
+    if not path.exists():
+        return
+
+    last_error: OSError | None = None
+    for attempt in range(6):
+        try:
+            shutil.rmtree(path, onexc=handle_remove_error)
+            return
+        except OSError as exc:
+            last_error = exc
+            time.sleep(0.4 * (attempt + 1))
+
+    if last_error is not None and path.exists():
+        raise last_error
 
 
 def copy_file(source: Path, destination: Path) -> None:
