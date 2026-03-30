@@ -200,9 +200,9 @@ const state = {
   selectedIds: [],
   filters: {
     search: "",
-    teks: "",
-    year: "",
-    difficulty: "",
+    teks: [],
+    year: [],
+    difficulty: [],
     itemType: "",
     content: "",
     reviewOnly: false,
@@ -212,6 +212,7 @@ const state = {
     teacher: "",
     studentPrintFormat: "png",
   },
+  teksSort: "importance",
   showResultsOcr: false,
   printMode: "",
   printPreparingMode: "",
@@ -223,8 +224,11 @@ const elements = {
   collectionStatus: document.querySelector("#collection-status"),
   searchInput: document.querySelector("#search-input"),
   teksFilter: document.querySelector("#teks-filter"),
+  teksFilterStatus: document.querySelector("#teks-filter-status"),
   yearFilter: document.querySelector("#year-filter"),
+  yearFilterStatus: document.querySelector("#year-filter-status"),
   difficultyFilter: document.querySelector("#difficulty-filter"),
+  difficultyFilterStatus: document.querySelector("#difficulty-filter-status"),
   itemTypeFilter: document.querySelector("#item-type-filter"),
   contentFilter: document.querySelector("#content-filter"),
   reviewOnly: document.querySelector("#review-only"),
@@ -233,6 +237,7 @@ const elements = {
   results: document.querySelector("#results"),
   stats: document.querySelector("#catalog-stats"),
   teksGroups: document.querySelector("#teks-groups"),
+  teksSort: document.querySelector("#teks-sort"),
   yearGroups: document.querySelector("#year-groups"),
   difficultyGroups: document.querySelector("#difficulty-groups"),
   teksCount: document.querySelector("#teks-count"),
@@ -362,6 +367,65 @@ function applyCollectionTheme(collection = getActiveCollection()) {
 function uniqueValues(items, accessor, sorter) {
   const values = [...new Set(items.map(accessor).filter(Boolean))];
   return sorter ? values.sort(sorter) : values.sort();
+}
+
+function sortCountEntries(entries, sortMode = "importance") {
+  const sortedEntries = [...entries];
+  if (sortMode === "alphabetical") {
+    return sortedEntries.sort(([leftLabel], [rightLabel]) => compareGroupKey(leftLabel, rightLabel));
+  }
+  return sortedEntries.sort((left, right) => {
+    if (right[1] !== left[1]) {
+      return right[1] - left[1];
+    }
+    return compareGroupKey(left[0], right[0]);
+  });
+}
+
+function normalizeFilterValues(value) {
+  if (Array.isArray(value)) {
+    return [...new Set(value.map((entry) => String(entry || "").trim()).filter(Boolean))];
+  }
+  if (!value) {
+    return [];
+  }
+  return [String(value).trim()].filter(Boolean);
+}
+
+function toggleFilterValue(filterKey, value) {
+  const normalizedValue = String(value || "").trim();
+  if (!normalizedValue) {
+    return;
+  }
+  const activeValues = normalizeFilterValues(state.filters[filterKey]);
+  state.filters[filterKey] = activeValues.includes(normalizedValue)
+    ? activeValues.filter((entry) => entry !== normalizedValue)
+    : [...activeValues, normalizedValue];
+}
+
+function formatMultiFilterStatus(values, emptyLabel) {
+  const activeValues = normalizeFilterValues(values);
+  if (!activeValues.length) {
+    return emptyLabel;
+  }
+  const preview = activeValues.slice(0, 2).join(", ");
+  const remaining = activeValues.length - Math.min(activeValues.length, 2);
+  if (remaining > 0) {
+    return `${activeValues.length} selected: ${preview}, +${remaining} more`;
+  }
+  return `Selected: ${preview}`;
+}
+
+function renderMultiFilterStatus() {
+  elements.teksFilter.value = "";
+  elements.yearFilter.value = "";
+  elements.difficultyFilter.value = "";
+  elements.teksFilterStatus.textContent = formatMultiFilterStatus(state.filters.teks, "No TEKS selected");
+  elements.yearFilterStatus.textContent = formatMultiFilterStatus(state.filters.year, "No years selected");
+  elements.difficultyFilterStatus.textContent = formatMultiFilterStatus(
+    state.filters.difficulty,
+    "No difficulty levels selected"
+  );
 }
 
 function optionMarkup(option) {
@@ -747,12 +811,7 @@ function buildCounts(items, accessor) {
     }
     counts.set(key, (counts.get(key) || 0) + 1);
   });
-  return [...counts.entries()].sort((left, right) => {
-    if (right[1] !== left[1]) {
-      return right[1] - left[1];
-    }
-    return String(left[0]).localeCompare(String(right[0]));
-  });
+  return sortCountEntries([...counts.entries()]);
 }
 
 function populateSelect(select, values, formatter = (value) => value) {
@@ -778,7 +837,7 @@ function installStaticFilters() {
   resetSelectOptions(elements.difficultyFilter, "All levels");
   resetSelectOptions(elements.itemTypeFilter, "All types");
   resetSelectOptions(elements.contentFilter, "All content");
-  populateSelect(elements.teksFilter, uniqueValues(state.items, (item) => item.metadata.standard));
+  populateSelect(elements.teksFilter, uniqueValues(state.items, (item) => item.metadata.standard, compareGroupKey));
   populateSelect(
     elements.yearFilter,
     uniqueValues(state.items, (item) => String(item.metadata.year), (left, right) => Number(right) - Number(left))
@@ -812,9 +871,11 @@ function readStoredBuilder() {
     const parsed = JSON.parse(raw);
     state.activeCollectionId = parsed.activeCollectionId || "";
     state.builderStore = parsed.builderStore || {};
+    state.teksSort = parsed.teksSort === "alphabetical" ? "alphabetical" : "importance";
   } catch (error) {
     state.activeCollectionId = "";
     state.builderStore = {};
+    state.teksSort = "importance";
   }
 }
 
@@ -833,6 +894,7 @@ function persistBuilder() {
     JSON.stringify({
       activeCollectionId: state.activeCollectionId,
       builderStore: nextStore,
+      teksSort: state.teksSort,
     })
   );
 }
@@ -856,17 +918,26 @@ function attachEvents() {
   });
 
   elements.teksFilter.addEventListener("change", (event) => {
-    state.filters.teks = event.target.value;
+    toggleFilterValue("teks", event.target.value);
+    event.target.value = "";
+    render();
+  });
+
+  elements.teksSort.addEventListener("change", (event) => {
+    state.teksSort = event.target.value === "alphabetical" ? "alphabetical" : "importance";
+    persistBuilder();
     render();
   });
 
   elements.yearFilter.addEventListener("change", (event) => {
-    state.filters.year = event.target.value;
+    toggleFilterValue("year", event.target.value);
+    event.target.value = "";
     render();
   });
 
   elements.difficultyFilter.addEventListener("change", (event) => {
-    state.filters.difficulty = event.target.value;
+    toggleFilterValue("difficulty", event.target.value);
+    event.target.value = "";
     render();
   });
 
@@ -982,9 +1053,9 @@ function attachEvents() {
 function resetFiltersState() {
   state.filters = {
     search: "",
-    teks: "",
-    year: "",
-    difficulty: "",
+    teks: [],
+    year: [],
+    difficulty: [],
     itemType: "",
     content: "",
     reviewOnly: false,
@@ -1039,6 +1110,9 @@ function getFilteredItems(options = {}) {
   };
   const ignoredFilters = new Set(options.ignore || []);
   const search = normalizeText(filters.search);
+  const teksFilters = normalizeFilterValues(filters.teks);
+  const yearFilters = normalizeFilterValues(filters.year);
+  const difficultyFilters = normalizeFilterValues(filters.difficulty);
   return state.items.filter((item) => {
     const haystack = normalizeText(
       [
@@ -1059,18 +1133,17 @@ function getFilteredItems(options = {}) {
         .join(" ")
     );
 
-    if (!ignoredFilters.has("teks") && filters.teks && item.metadata.standard !== filters.teks) {
+    if (!ignoredFilters.has("teks") && teksFilters.length && !teksFilters.includes(item.metadata.standard)) {
       return false;
     }
-    if (!ignoredFilters.has("year") && filters.year && String(item.metadata.year) !== filters.year) {
+    if (!ignoredFilters.has("year") && yearFilters.length && !yearFilters.includes(String(item.metadata.year))) {
       return false;
     }
-    if (
-      !ignoredFilters.has("difficulty") &&
-      filters.difficulty &&
-      item.metadata.difficulty?.label !== filters.difficulty
-    ) {
-      return false;
+    if (!ignoredFilters.has("difficulty") && difficultyFilters.length) {
+      const difficultyLabel = item.metadata.difficulty?.label || "";
+      if (!difficultyFilters.includes(difficultyLabel)) {
+        return false;
+      }
     }
     if (!ignoredFilters.has("itemType") && filters.itemType && item.metadata.item_type !== filters.itemType) {
       return false;
@@ -1188,8 +1261,9 @@ function buildPresetSelection(presetName, pool) {
     case "spiral_review":
       return roundRobinByGroup(visiblePool, standardKey, (items) => [...items].sort(compareNewest), compareGroupKey);
     case "single_teks_mastery": {
+      const selectedStandards = normalizeFilterValues(state.filters.teks);
       const targetStandard =
-        (state.filters.teks && visiblePool.find((item) => item.metadata.standard === state.filters.teks)?.metadata.standard) ||
+        selectedStandards.find((standard) => visiblePool.some((item) => item.metadata.standard === standard)) ||
         buildCounts(visiblePool, standardKey)[0]?.[0];
       if (!targetStandard) {
         return [];
@@ -1327,7 +1401,19 @@ function applyPreset(presetName) {
 
 function setChipGroup(container, counts, totalLabel, activeValue, onClick, options = {}) {
   container.innerHTML = "";
+  const activeValues = normalizeFilterValues(activeValue);
   if (!counts.length) {
+    if (activeValues.length) {
+      activeValues.forEach((label) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "chip-button is-active";
+        button.textContent = `${label} (0)`;
+        button.addEventListener("click", () => onClick(label));
+        container.append(button);
+      });
+      return;
+    }
     const empty = document.createElement("span");
     empty.className = "chip-static";
     empty.textContent = "No data";
@@ -1337,22 +1423,26 @@ function setChipGroup(container, counts, totalLabel, activeValue, onClick, optio
 
   const limit = options.limit ?? 18;
   const showAll = limit === "all";
+  const activeSet = new Set(activeValues);
   let visibleCounts = showAll ? [...counts] : counts.slice(0, Math.max(0, limit));
 
-  if (activeValue && !visibleCounts.some(([label]) => label === activeValue)) {
-    const activeEntry = counts.find(([label]) => label === activeValue);
+  activeValues.forEach((activeLabel) => {
+    if (visibleCounts.some(([label]) => label === activeLabel)) {
+      return;
+    }
+    const activeEntry = counts.find(([label]) => label === activeLabel) || [activeLabel, 0];
     if (activeEntry) {
       if (!showAll && visibleCounts.length >= limit && limit > 0) {
         visibleCounts = visibleCounts.slice(0, -1);
       }
       visibleCounts.push(activeEntry);
     }
-  }
+  });
 
   visibleCounts.forEach(([label, count]) => {
     const button = document.createElement("button");
     button.type = "button";
-    button.className = `chip-button${activeValue === label ? " is-active" : ""}`;
+    button.className = `chip-button${activeSet.has(label) ? " is-active" : ""}`;
     button.textContent = `${label} (${count})`;
     button.addEventListener("click", () => onClick(label));
     container.append(button);
@@ -1391,12 +1481,15 @@ function renderSummary(filteredItems) {
   `;
 
   const teksCounts = buildCounts(getFilteredItems({ ignore: ["teks"] }), (item) => item.metadata.standard);
-  const yearCounts = buildCounts(filteredItems, (item) => String(item.metadata.year));
-  const difficultyCounts = buildCounts(filteredItems, (item) => item.metadata.difficulty?.label);
+  const sortedTeksCounts = sortCountEntries(teksCounts, state.teksSort);
+  const yearCounts = buildCounts(getFilteredItems({ ignore: ["year"] }), (item) => String(item.metadata.year));
+  const difficultyCounts = buildCounts(getFilteredItems({ ignore: ["difficulty"] }), (item) => item.metadata.difficulty?.label);
 
   elements.teksCount.textContent = `${teksCounts.length} groups`;
   elements.yearCount.textContent = `${yearCounts.length} years`;
   elements.difficultyCount.textContent = `${difficultyCounts.length} levels`;
+  elements.teksSort.value = state.teksSort;
+  renderMultiFilterStatus();
 
   if (!collectionReady) {
     elements.selectionActionCopy.textContent = "This collection is indexed but does not have extracted questions yet.";
@@ -1435,24 +1528,21 @@ function renderSummary(filteredItems) {
 
   setChipGroup(
     elements.teksGroups,
-    teksCounts,
+    sortedTeksCounts,
     "TEKS groups",
     state.filters.teks,
     (label) => {
-      state.filters.teks = state.filters.teks === label ? "" : label;
-      elements.teksFilter.value = state.filters.teks;
+      toggleFilterValue("teks", label);
       render();
     },
     { limit: "all" }
   );
   setChipGroup(elements.yearGroups, yearCounts, "years", state.filters.year, (label) => {
-    state.filters.year = state.filters.year === label ? "" : label;
-    elements.yearFilter.value = state.filters.year;
+    toggleFilterValue("year", label);
     render();
   });
   setChipGroup(elements.difficultyGroups, difficultyCounts, "difficulty groups", state.filters.difficulty, (label) => {
-    state.filters.difficulty = state.filters.difficulty === label ? "" : label;
-    elements.difficultyFilter.value = state.filters.difficulty;
+    toggleFilterValue("difficulty", label);
     render();
   });
 }

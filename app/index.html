@@ -41,6 +41,7 @@
           <select id="teks-filter" class="select-input">
             <option value="">All TEKS</option>
           </select>
+          <div id="teks-filter-status" class="sidebar-note"></div>
         </div>
 
         <div class="sidebar-grid">
@@ -49,6 +50,7 @@
             <select id="year-filter" class="select-input">
               <option value="">All years</option>
             </select>
+            <div id="year-filter-status" class="sidebar-note"></div>
           </div>
 
           <div class="sidebar-block">
@@ -56,6 +58,7 @@
             <select id="difficulty-filter" class="select-input">
               <option value="">All levels</option>
             </select>
+            <div id="difficulty-filter-status" class="sidebar-note"></div>
           </div>
         </div>
 
@@ -128,7 +131,16 @@
               <article class="summary-panel">
                 <div class="panel-header">
                   <h3>TEKS</h3>
-                  <span id="teks-count" class="count-pill"></span>
+                  <div class="summary-panel-tools">
+                    <label class="summary-sort-control" for="teks-sort">
+                      <span class="summary-sort-label">Sort</span>
+                      <select id="teks-sort" class="select-input select-input-compact">
+                        <option value="importance" selected>Most Tested</option>
+                        <option value="alphabetical">A-Z</option>
+                      </select>
+                    </label>
+                    <span id="teks-count" class="count-pill"></span>
+                  </div>
                 </div>
                 <div id="teks-groups" class="chip-grid"></div>
               </article>
