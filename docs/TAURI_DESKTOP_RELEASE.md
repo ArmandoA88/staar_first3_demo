@@ -64,12 +64,20 @@ The GitHub Actions workflow builds desktop artifacts for:
 - Windows
 - macOS
 
+For a Mac-only installer build from GitHub Actions, run:
+
+- `Build macOS Installer`
+
+That workflow runs on `macos-latest`, builds a universal macOS binary with `--target universal-apple-darwin`, packages a `.dmg`, and uploads it as the workflow artifact:
+
+- `staar-problem-browser-macos-universal`
+
 Artifacts are uploaded as workflow artifacts so they can be downloaded, signed, notarized if needed, and then hosted for TPT delivery.
 
-The current workflow builds one macOS bundle for the runner architecture. Before public release, decide whether you want:
+The shared desktop workflow now builds a universal macOS DMG. If you ever want to change that release strategy later, the decision point is:
 
-- a universal Mac build
-- separate Intel and Apple Silicon Mac downloads
+- keep a universal Mac build
+- switch to separate Intel and Apple Silicon Mac downloads
 
 ## Signing Notes
 

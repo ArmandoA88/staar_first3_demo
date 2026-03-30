@@ -1,25 +1,15 @@
-name: Build Tauri Desktop Bundles
+name: Build macOS Installer
 
 on:
   workflow_dispatch:
-  push:
-    tags:
-      - "desktop-v*"
+
+permissions:
+  contents: read
 
 jobs:
-  build:
-    strategy:
-      fail-fast: false
-      matrix:
-        include:
-          - runner: windows-latest
-            label: windows
-            args: ""
-          - runner: macos-latest
-            label: macos
-            args: "--target universal-apple-darwin --bundles dmg"
-
-    runs-on: ${{ matrix.runner }}
+  build-macos-installer:
+    name: Build macOS universal DMG
+    runs-on: macos-latest
 
     steps:
       - name: Checkout
@@ -32,11 +22,6 @@ jobs:
           cache: npm
 
       - name: Install Rust stable
-        if: matrix.label == 'windows'
-        uses: dtolnay/rust-toolchain@stable
-
-      - name: Install Rust stable with macOS universal targets
-        if: matrix.label == 'macos'
         uses: dtolnay/rust-toolchain@stable
         with:
           targets: aarch64-apple-darwin,x86_64-apple-darwin
@@ -52,13 +37,20 @@ jobs:
       - name: Stage desktop frontend
         run: npm run tauri:stage
 
-      - name: Build Tauri bundle
+      - name: Build macOS DMG
+        id: tauri_build
         uses: tauri-apps/tauri-action@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           projectPath: .
           tauriScript: npm run tauri
-          args: ${{ matrix.args }}
-          uploadWorkflowArtifacts: true
-          workflowArtifactNamePattern: staar-problem-browser-[platform]-[arch]-[bundle]
+          args: --target universal-apple-darwin --bundles dmg
+
+      - name: Upload macOS installer artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: staar-problem-browser-macos-universal
+          path: ${{ steps.tauri_build.outputs.artifactPaths }}
+          if-no-files-found: error
+          retention-days: 14
