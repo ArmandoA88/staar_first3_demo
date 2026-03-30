@@ -35,6 +35,13 @@ jobs:
           cache: npm
           cache-dependency-path: package-lock.json
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
       - name: Install Rust stable
         if: matrix.label == 'windows'
         uses: dtolnay/rust-toolchain@stable
@@ -52,6 +59,9 @@ jobs:
 
       - name: Install npm dependencies
         run: npm ci
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
 
       - name: Build Tauri bundle
         uses: tauri-apps/tauri-action@v0.6.2
