@@ -20,6 +20,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: package-lock.json
 
       - name: Install Rust stable
         uses: dtolnay/rust-toolchain@stable
@@ -34,11 +35,7 @@ jobs:
       - name: Install npm dependencies
         run: npm ci
 
-      - name: Stage desktop frontend
-        run: npm run tauri:stage
-
       - name: Build macOS DMG
-        id: tauri_build
         uses: tauri-apps/tauri-action@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -50,7 +47,7 @@ jobs:
       - name: Upload macOS installer artifact
         uses: actions/upload-artifact@v4
         with:
-          name: staar-problem-browser-macos-universal
-          path: ${{ steps.tauri_build.outputs.artifactPaths }}
+          name: staar-problem-browser-macos-dmg
+          path: src-tauri/target/universal-apple-darwin/release/bundle/dmg/*.dmg
           if-no-files-found: error
           retention-days: 14

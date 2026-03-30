@@ -129,7 +129,8 @@ Important notes:
 - Windows packages should be built on Windows.
 - Mac packages should be built on macOS.
 - The packaged frontend is staged into `build/tauri/frontend/`.
-- The GitHub Actions workflow in `.github/workflows/tauri-desktop-build.yml` can build Windows and macOS bundles once project dependencies are installed on the runner.
+- `.github/workflows/tauri-desktop-build.yml` builds Windows and macOS bundles in one workflow and relies on Tauri's platform-specific config files on each runner.
+- `.github/workflows/macos-installer-build.yml` is the dedicated GitHub Actions workflow for a universal macOS `.dmg` installer artifact.
 
 TPT planning docs:
 

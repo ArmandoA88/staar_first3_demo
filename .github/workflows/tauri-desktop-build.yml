@@ -6,6 +6,9 @@ on:
     tags:
       - "desktop-v*"
 
+permissions:
+  contents: read
+
 jobs:
   build:
     strategy:
@@ -30,6 +33,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: package-lock.json
 
       - name: Install Rust stable
         if: matrix.label == 'windows'
@@ -48,9 +52,6 @@ jobs:
 
       - name: Install npm dependencies
         run: npm ci
-
-      - name: Stage desktop frontend
-        run: npm run tauri:stage
 
       - name: Build Tauri bundle
         uses: tauri-apps/tauri-action@v1

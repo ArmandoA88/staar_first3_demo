@@ -5,6 +5,7 @@
 - `package.json`: Tauri CLI scripts
 - `src-tauri/`: desktop shell scaffold
 - `scripts/stage_tauri_frontend.py`: stages `app/` and packaged `collections/` data into `build/tauri/frontend/`
+- `.github/workflows/macos-installer-build.yml`: dedicated GitHub Actions workflow for a macOS installer artifact
 - `.github/workflows/tauri-desktop-build.yml`: GitHub Actions workflow for Windows and macOS desktop bundles
 
 ## Local Prerequisites
@@ -68,13 +69,18 @@ For a Mac-only installer build from GitHub Actions, run:
 
 - `Build macOS Installer`
 
-That workflow runs on `macos-latest`, builds a universal macOS binary with `--target universal-apple-darwin`, packages a `.dmg`, and uploads it as the workflow artifact:
+That workflow runs on `macos-latest`, lets Tauri auto-merge `src-tauri/tauri.macos.conf.json`, explicitly builds a universal macOS `.dmg` with `--target universal-apple-darwin --bundles dmg`, and uploads the generated installer as the workflow artifact:
 
-- `staar-problem-browser-macos-universal`
+- `staar-problem-browser-macos-dmg`
 
-Artifacts are uploaded as workflow artifacts so they can be downloaded, signed, notarized if needed, and then hosted for TPT delivery.
+The workflow relies on Tauri's `beforeBuildCommand`, so the packaged frontend is staged automatically during the build. The uploaded artifact is the installer DMG only, which keeps the GitHub Actions download focused on the file you would sign, notarize, and host for teachers.
 
-The shared desktop workflow now builds a universal macOS DMG. If you ever want to change that release strategy later, the decision point is:
+The shared desktop workflow relies on Tauri's default platform-specific config discovery on each runner:
+
+- Windows uses `src-tauri/tauri.windows.conf.json`
+- macOS uses `src-tauri/tauri.macos.conf.json`
+
+The macOS side of that shared workflow still builds a universal DMG. If you ever want to change that release strategy later, the decision point is:
 
 - keep a universal Mac build
 - switch to separate Intel and Apple Silicon Mac downloads
