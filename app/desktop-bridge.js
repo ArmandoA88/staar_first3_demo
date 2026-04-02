@@ -1,4 +1,50 @@
 (function () {
+  function getTauriInvoke() {
+    return window.__TAURI__?.core?.invoke;
+  }
+
+  function isTauriDesktop() {
+    return typeof getTauriInvoke() === "function";
+  }
+
+  async function savePdfWithDialog(defaultFileName, bytes) {
+    const invoke = getTauriInvoke();
+    if (typeof invoke !== "function") {
+      return undefined;
+    }
+
+    const selectedPath = await invoke("plugin:dialog|save", {
+      options: {
+        defaultPath: defaultFileName,
+        filters: [
+          {
+            name: "PDF",
+            extensions: ["pdf"],
+          },
+        ],
+      },
+    });
+
+    if (!selectedPath) {
+      return null;
+    }
+
+    await invoke("plugin:fs|write_file", bytes, {
+      headers: {
+        path: encodeURIComponent(selectedPath),
+        options: JSON.stringify({}),
+      },
+    });
+
+    return selectedPath;
+  }
+
+  window.staarDesktopBridge = {
+    ...(window.staarDesktopBridge || {}),
+    isTauriDesktop,
+    savePdfWithDialog,
+  };
+
   if (window.location.protocol === "tauri:") {
     return;
   }

@@ -124,7 +124,7 @@
             <div class="builder-actions">
               <button id="add-visible" class="secondary-button" type="button">Add Filtered Questions</button>
               <button id="remove-visible" class="secondary-button" type="button">Remove Filtered Questions</button>
-              <button id="clear-selection" class="secondary-button" type="button">Clear Selection</button>
+              <button id="clear-selection" class="secondary-button danger-button" type="button">Clear Selection</button>
             </div>
 
             <section class="summary-grid builder-summary-grid">
@@ -225,8 +225,9 @@
                   <label class="builder-field preset-type-field">
                     <span class="filter-label">Preset Type</span>
                     <select id="preset-type" class="select-input">
+                      <option value="" selected>Choose a preset...</option>
                       <optgroup label="Core Presets">
-                        <option value="hardest_test" selected>Hardest Test</option>
+                        <option value="hardest_test">Hardest Test</option>
                         <option value="easier_test">Easier Test</option>
                         <option value="easy_only">Easy Questions Only</option>
                         <option value="hard_only">Harder Questions Only</option>

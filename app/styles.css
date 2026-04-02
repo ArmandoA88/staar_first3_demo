@@ -194,9 +194,20 @@ img {
   cursor: pointer;
 }
 
+.secondary-button.danger-button {
+  border-color: rgba(146, 36, 28, 0.24);
+  background: linear-gradient(180deg, #d65542 0%, #bc3f2d 100%);
+  color: #fff7f4;
+  box-shadow: 0 10px 24px rgba(188, 63, 45, 0.18);
+}
+
 .secondary-button:hover,
 .chip-button:hover {
   background: var(--accent-soft);
+}
+
+.secondary-button.danger-button:hover {
+  background: linear-gradient(180deg, #c94a38 0%, #ab3525 100%);
 }
 
 .toggle-row {

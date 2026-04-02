@@ -403,6 +403,15 @@ function toggleFilterValue(filterKey, value) {
     : [...activeValues, normalizedValue];
 }
 
+function setSingleFilterValue(filterKey, value) {
+  state.filters[filterKey] = normalizeFilterValues(value);
+}
+
+function getSingleFilterValue(value) {
+  const activeValues = normalizeFilterValues(value);
+  return activeValues.length === 1 ? activeValues[0] : "";
+}
+
 function formatMultiFilterStatus(values, emptyLabel) {
   const activeValues = normalizeFilterValues(values);
   if (!activeValues.length) {
@@ -417,7 +426,7 @@ function formatMultiFilterStatus(values, emptyLabel) {
 }
 
 function renderMultiFilterStatus() {
-  elements.teksFilter.value = "";
+  elements.teksFilter.value = getSingleFilterValue(state.filters.teks);
   elements.yearFilter.value = "";
   elements.difficultyFilter.value = "";
   elements.teksFilterStatus.textContent = formatMultiFilterStatus(state.filters.teks, "No TEKS selected");
@@ -918,8 +927,7 @@ function attachEvents() {
   });
 
   elements.teksFilter.addEventListener("change", (event) => {
-    toggleFilterValue("teks", event.target.value);
-    event.target.value = "";
+    setSingleFilterValue("teks", event.target.value);
     render();
   });
 
@@ -979,6 +987,10 @@ function attachEvents() {
     renderBuilder();
   });
 
+  elements.presetType.addEventListener("change", () => {
+    renderBuilder();
+  });
+
   elements.addSelection.addEventListener("click", () => {
     const addedCount = addItemsToSelection(getSortedItems(getFilteredItems()));
     if (!addedCount) {
@@ -1017,11 +1029,16 @@ function attachEvents() {
       return;
     }
     state.selectedIds = [];
+    elements.presetType.value = "";
     persistBuilder();
     render();
   });
 
   elements.buildPreset.addEventListener("click", () => {
+    if (!elements.presetType.value) {
+      window.alert("Choose a preset type first.");
+      return;
+    }
     applyPreset(elements.presetType.value);
   });
 
@@ -1468,6 +1485,12 @@ function renderSummary(filteredItems) {
     : new Set(filteredItems.map((item) => getStimulusGroupKey(item)).filter(Boolean)).size;
   const selectedVisibleCount = filteredItems.filter((item) => state.selectedIds.includes(item.id)).length;
   const addableVisibleCount = filteredItems.length - selectedVisibleCount;
+  const selectedQuestionNote =
+    collectionReady && state.selectedIds.length && normalizeFilterValues(state.filters.teks).length
+      ? ` Current test keeps ${state.selectedIds.length} saved question${
+          state.selectedIds.length === 1 ? "" : "s"
+        } while you browse other TEKS.`
+      : "";
 
   elements.resultsSummary.textContent = bundleMode
     ? `${visibleBundleCount} passage bundles containing ${filteredItems.length} of ${state.items.length} problems shown`
@@ -1521,6 +1544,10 @@ function renderSummary(filteredItems) {
     elements.addSelection.disabled = false;
     elements.removeSelection.textContent = `Remove ${selectedVisibleCount} Question${selectedVisibleCount === 1 ? "" : "s"} From Selection`;
     elements.removeSelection.disabled = false;
+  }
+
+  if (selectedQuestionNote) {
+    elements.selectionActionCopy.textContent += selectedQuestionNote;
   }
 
   elements.toggleResultsOcr.textContent = state.showResultsOcr ? "Hide OCR For All" : "Show OCR For All";
@@ -1864,7 +1891,7 @@ function renderBuilder() {
   elements.clearSelection.disabled = selectedItems.length === 0;
   elements.addVisible.disabled = !collectionReady;
   elements.removeVisible.disabled = !collectionReady;
-  elements.buildPreset.disabled = !collectionReady;
+  elements.buildPreset.disabled = !collectionReady || !elements.presetType.value;
 
   if (!collectionReady) {
     elements.selectionSummary.innerHTML = `
@@ -2302,6 +2329,48 @@ function buildPdfFilename(mode) {
   return `${sanitizeFilename(buildPacketTitle())} - ${suffix}.pdf`;
 }
 
+function buildPdfExportOptions(mode) {
+  const exportScale = Math.max(1.5, Math.min(window.devicePixelRatio || 1, 2));
+  return {
+    filename: buildPdfFilename(mode),
+    margin: 0,
+    image: { type: "jpeg", quality: 0.98 },
+    html2canvas: {
+      scale: exportScale,
+      useCORS: true,
+      backgroundColor: "#ffffff",
+      scrollX: 0,
+      scrollY: 0,
+    },
+    jsPDF: {
+      unit: "in",
+      format: "letter",
+      orientation: "portrait",
+    },
+    pagebreak: {
+      mode: ["css", "legacy"],
+    },
+  };
+}
+
+async function buildPdfBytes(mode, exportSource) {
+  const worker = window.html2pdf().set(buildPdfExportOptions(mode)).from(exportSource);
+  await worker.toPdf();
+  const pdf = await worker.get("pdf");
+  return new Uint8Array(pdf.output("arraybuffer"));
+}
+
+async function trySavePdfWithDesktopDialog(mode, exportSource) {
+  const isTauriDesktop = window.staarDesktopBridge?.isTauriDesktop;
+  const savePdfWithDialog = window.staarDesktopBridge?.savePdfWithDialog;
+  if (typeof isTauriDesktop !== "function" || !isTauriDesktop() || typeof savePdfWithDialog !== "function") {
+    return false;
+  }
+  const pdfBytes = await buildPdfBytes(mode, exportSource);
+  const savedPath = await savePdfWithDialog(buildPdfFilename(mode), pdfBytes);
+  return savedPath !== undefined;
+}
+
 function waitForImageLoad(image) {
   const waitForEvent = new Promise((resolve) => {
     if (image.complete) {
@@ -2417,32 +2486,11 @@ async function downloadPdf(mode) {
     await waitForPrintableContent(elements.printWorkspace);
     repairPrintableImageFailures(mode);
     const exportSource = getPdfExportSource();
+    if (await trySavePdfWithDesktopDialog(mode, exportSource)) {
+      return;
+    }
 
-    const exportScale = Math.max(1.5, Math.min(window.devicePixelRatio || 1, 2));
-    await window
-      .html2pdf()
-      .set({
-        filename: buildPdfFilename(mode),
-        margin: 0,
-        image: { type: "jpeg", quality: 0.98 },
-        html2canvas: {
-          scale: exportScale,
-          useCORS: true,
-          backgroundColor: "#ffffff",
-          scrollX: 0,
-          scrollY: 0,
-        },
-        jsPDF: {
-          unit: "in",
-          format: "letter",
-          orientation: "portrait",
-        },
-        pagebreak: {
-          mode: ["css", "legacy"],
-        },
-      })
-      .from(exportSource)
-      .save();
+    await window.html2pdf().set(buildPdfExportOptions(mode)).from(exportSource).save();
   } catch (error) {
     window.alert(`Unable to download PDF. ${error.message || "Please try again."}`);
   } finally {

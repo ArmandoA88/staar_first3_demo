@@ -2,6 +2,9 @@ name: Build macOS Installer
 
 on:
   workflow_dispatch:
+  push:
+    tags:
+      - "desktop-v*"
 
 permissions:
   contents: read
@@ -21,6 +24,12 @@ jobs:
           node-version: 22
           cache: npm
           cache-dependency-path: package-lock.json
+
+      - name: Read app version
+        id: app_version
+        shell: bash
+        run: |
+          echo "version=$(node -p 'require(\"./src-tauri/tauri.conf.json\").version')" >> "$GITHUB_OUTPUT"
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -57,7 +66,7 @@ jobs:
       - name: Upload macOS installer artifact
         uses: actions/upload-artifact@v4
         with:
-          name: staar-problem-browser-macos-dmg
+          name: staar-problem-browser-macos-dmg-v${{ steps.app_version.outputs.version }}
           path: src-tauri/target/universal-apple-darwin/release/bundle/dmg/*.dmg
           if-no-files-found: error
           retention-days: 14
