@@ -212,6 +212,7 @@ const state = {
     teacher: "",
     studentPrintFormat: "png",
   },
+  selectionSummaryExpanded: false,
   teksSort: "importance",
   showResultsOcr: false,
   printMode: "",
@@ -251,6 +252,7 @@ const elements = {
   testTitle: document.querySelector("#test-title"),
   teacherName: document.querySelector("#teacher-name"),
   studentPrintFormat: document.querySelector("#student-print-format"),
+  studentPrintFormatNote: document.querySelector("#student-print-format-note"),
   addSelection: document.querySelector("#add-selection"),
   removeSelection: document.querySelector("#remove-selection"),
   toggleResultsOcr: document.querySelector("#toggle-results-ocr"),
@@ -914,6 +916,7 @@ function hydrateBuilderForCollection(collectionId) {
   state.packet.title = stored.packet?.title || "";
   state.packet.teacher = stored.packet?.teacher || "";
   state.packet.studentPrintFormat = stored.packet?.studentPrintFormat === "ocr" ? "ocr" : "png";
+  state.selectionSummaryExpanded = false;
 }
 
 function attachEvents() {
@@ -1872,6 +1875,9 @@ function renderBuilder() {
   elements.testTitle.value = state.packet.title;
   elements.teacherName.value = state.packet.teacher;
   elements.studentPrintFormat.value = getStudentPrintFormat();
+  elements.studentPrintFormatNote.hidden = getStudentPrintFormat() !== "ocr";
+  elements.studentPrintFormatNote.textContent =
+    "OCR text may not preserve the original layout exactly. Review each problem before printing or sharing.";
   const collectionReady = collection?.status === "ready";
   const exportLocked = Boolean(state.pdfExportMode);
   const printLocked = Boolean(state.printPreparingMode);
@@ -1931,7 +1937,36 @@ function renderBuilder() {
     </div>
   `;
 
-  elements.selectionSummary.innerHTML = summaryHtml;
+  elements.selectionSummary.innerHTML = `
+    <details class="selection-disclosure"${state.selectionSummaryExpanded ? " open" : ""}>
+      <summary class="selection-disclosure-summary">
+        <div class="selection-disclosure-heading">
+          <div class="selection-disclosure-copy">
+            <div class="selection-disclosure-title">Selected packet details</div>
+            <p class="selection-disclosure-note">
+              Review question order, TEKS coverage, item types, and packet format.
+            </p>
+          </div>
+          <div class="selection-disclosure-pills">
+            <span class="count-pill">${selectedItems.length} questions</span>
+            <span class="selection-disclosure-toggle" aria-hidden="true"></span>
+          </div>
+        </div>
+      </summary>
+      <div class="selection-disclosure-body">
+        ${summaryHtml}
+      </div>
+    </details>
+  `;
+
+  const disclosure = elements.selectionSummary.querySelector(".selection-disclosure");
+  const disclosureBody = disclosure.querySelector(".selection-disclosure-body");
+  disclosure.addEventListener("toggle", () => {
+    if (state.selectionSummaryExpanded === disclosure.open) {
+      return;
+    }
+    state.selectionSummaryExpanded = disclosure.open;
+  });
   const list = document.createElement("div");
   list.className = "selected-item-list";
 
@@ -1958,7 +1993,7 @@ function renderBuilder() {
     list.append(fragment);
   });
 
-  elements.selectionSummary.append(list);
+  disclosureBody.append(list);
 }
 
 function render() {
