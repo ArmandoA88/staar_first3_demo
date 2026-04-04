@@ -1,3 +1,12 @@
+# Python dependencies for extraction, staging, and local data tooling.
+# Install with:
+#   py -m pip install -r requirements.txt
+#
+# Desktop packaging prerequisites are managed outside pip:
+# - Node.js 22+ for npm/Tauri scripts
+# - Rust stable (`cargo`, `rustc`)
+# - Windows desktop builds: Visual Studio Build Tools with MSVC + Windows SDK
+
 PyMuPDF>=1.27.2.2
 openai>=2.30.0
 Pillow>=11.0.0

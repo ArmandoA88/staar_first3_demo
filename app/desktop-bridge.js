@@ -7,6 +7,16 @@
     return typeof getTauriInvoke() === "function";
   }
 
+  async function notifyAppReady() {
+    const invoke = getTauriInvoke();
+    if (typeof invoke !== "function") {
+      return false;
+    }
+
+    await invoke("app_ready");
+    return true;
+  }
+
   async function savePdfWithDialog(defaultFileName, bytes) {
     const invoke = getTauriInvoke();
     if (typeof invoke !== "function") {
@@ -29,11 +39,9 @@
       return null;
     }
 
-    await invoke("plugin:fs|write_file", bytes, {
-      headers: {
-        path: encodeURIComponent(selectedPath),
-        options: JSON.stringify({}),
-      },
+    await invoke("save_pdf_file", {
+      path: selectedPath,
+      bytes: Array.from(bytes),
     });
 
     return selectedPath;
@@ -42,6 +50,7 @@
   window.staarDesktopBridge = {
     ...(window.staarDesktopBridge || {}),
     isTauriDesktop,
+    notifyAppReady,
     savePdfWithDialog,
   };
 

@@ -8,6 +8,22 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    <div id="app-loading" class="app-loading-overlay" role="status" aria-live="polite">
+      <div class="app-loading-card">
+        <img class="app-loading-mark" src="assets/texas-star-logo.svg" alt="" />
+        <p class="eyebrow">Launching Desktop Catalog</p>
+        <h1 class="app-loading-title">STAAR Problem Browser</h1>
+        <p id="app-loading-status" class="app-loading-copy">
+          Loading collections, images, and print tools. The app has not crashed.
+        </p>
+        <div class="app-loading-progress" aria-hidden="true">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </div>
+
     <div class="page-shell">
       <aside class="sidebar">
         <div class="sidebar-block brand-panel">
@@ -75,6 +91,16 @@
             <select id="content-filter" class="select-input">
               <option value="">All content</option>
             </select>
+          </div>
+        </div>
+
+        <div class="sidebar-block inline-choice-toggle-block">
+          <div class="toggle-row">
+            <label for="include-inline-choice">Include inline choice questions</label>
+            <input id="include-inline-choice" type="checkbox" />
+          </div>
+          <div class="sidebar-note">
+            Off by default. Turn this on to show inline choice items in the catalog, presets, and printed test.
           </div>
         </div>
 

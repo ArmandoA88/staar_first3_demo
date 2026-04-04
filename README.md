@@ -129,6 +129,7 @@ Important notes:
 - Windows packages should be built on Windows.
 - Mac packages should be built on macOS.
 - The packaged frontend is staged into `build/tauri/frontend/`.
+- Desktop startup now shows a native splash window first, then releases into the main app after the first collection finishes loading.
 - `.github/workflows/tauri-desktop-build.yml` builds Windows and macOS bundles in one workflow and relies on Tauri's platform-specific config files on each runner.
 - `.github/workflows/macos-installer-build.yml` is the dedicated GitHub Actions workflow for a universal macOS `.dmg` installer artifact.
 
@@ -137,6 +138,14 @@ TPT planning docs:
 - `docs/TAURI_DESKTOP_RELEASE.md`
 - `docs/TPT_RELEASE_CHECKLIST.md`
 - `docs/TPT_START_HERE_TEMPLATE.md`
+
+### Tauri Maintenance Notes
+
+- `src-tauri/src/main.rs` owns the desktop startup handshake. It opens the splash window, keeps the main window hidden at launch, and shows the main app after the frontend reports ready.
+- `app/tauri-splash.html` is the native splash content shown during startup. Update this file if you want to change the loading copy or branding.
+- `app/index.html`, `app/styles.css`, and `app/app.js` also include the in-app loading overlay that covers browser and desktop startup while the catalog is being prepared.
+- `app/desktop-bridge.js` is the desktop-only bridge used to release the Tauri splash window after the frontend has loaded.
+- After changing anything in `app/`, `collections/`, or the desktop shell, run `npm run tauri:stage` before `npm run tauri:dev` or `npm run tauri:build`.
 
 ## Extract a Collection
 

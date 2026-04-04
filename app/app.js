@@ -212,6 +212,7 @@ const state = {
     teacher: "",
     studentPrintFormat: "png",
   },
+  includeInlineChoiceQuestions: false,
   selectionSummaryExpanded: false,
   teksSort: "importance",
   showResultsOcr: false,
@@ -221,6 +222,8 @@ const state = {
 };
 
 const elements = {
+  appLoading: document.querySelector("#app-loading"),
+  appLoadingStatus: document.querySelector("#app-loading-status"),
   collectionFilter: document.querySelector("#collection-filter"),
   collectionStatus: document.querySelector("#collection-status"),
   searchInput: document.querySelector("#search-input"),
@@ -232,6 +235,7 @@ const elements = {
   difficultyFilterStatus: document.querySelector("#difficulty-filter-status"),
   itemTypeFilter: document.querySelector("#item-type-filter"),
   contentFilter: document.querySelector("#content-filter"),
+  includeInlineChoice: document.querySelector("#include-inline-choice"),
   reviewOnly: document.querySelector("#review-only"),
   resetFilters: document.querySelector("#reset-filters"),
   resultsSummary: document.querySelector("#results-summary"),
@@ -449,6 +453,50 @@ function getStudentPrintFormat() {
 
 function getStudentPrintFormatLabel() {
   return getStudentPrintFormat() === "ocr" ? "OCR text" : "Original PNG images";
+}
+
+function isInlineChoiceItem(item) {
+  return item?.metadata?.item_type === "inline_choice";
+}
+
+function shouldIncludeInTeacherWorkspace(item) {
+  return state.includeInlineChoiceQuestions || !isInlineChoiceItem(item);
+}
+
+function getTeacherWorkspaceItems(items = []) {
+  return items.filter(shouldIncludeInTeacherWorkspace);
+}
+
+function getHiddenInlineChoiceSelectedItems() {
+  return state.selectedIds
+    .map((id) => state.itemsById.get(id))
+    .filter((item) => item && !shouldIncludeInTeacherWorkspace(item));
+}
+
+function setStartupStatus(message) {
+  if (elements.appLoadingStatus) {
+    elements.appLoadingStatus.textContent = message;
+  }
+}
+
+function hideStartupOverlay() {
+  document.body.classList.add("app-ready");
+  if (elements.appLoading) {
+    elements.appLoading.setAttribute("aria-hidden", "true");
+  }
+}
+
+async function releaseDesktopStartupGate() {
+  hideStartupOverlay();
+  await new Promise((resolve) => {
+    window.setTimeout(resolve, 40);
+  });
+
+  try {
+    await window.staarDesktopBridge?.notifyAppReady?.();
+  } catch (error) {
+    // Desktop splash release should not block the app if the bridge is unavailable.
+  }
 }
 
 function difficultyClass(label) {
@@ -842,24 +890,48 @@ function resetSelectOptions(select, defaultLabel) {
   select.append(option);
 }
 
+function syncFiltersToAvailableItems(items) {
+  const teksValues = new Set(items.map((item) => item.metadata.standard).filter(Boolean));
+  const yearValues = new Set(items.map((item) => String(item.metadata.year)).filter(Boolean));
+  const difficultyValues = new Set(items.map((item) => item.metadata.difficulty?.label).filter(Boolean));
+  const itemTypeValues = new Set(items.map((item) => item.metadata.item_type).filter(Boolean));
+  const contentValues = new Set(items.map((item) => item.metadata.content).filter(Boolean));
+
+  state.filters.teks = state.filters.teks.filter((value) => teksValues.has(value));
+  state.filters.year = state.filters.year.filter((value) => yearValues.has(String(value)));
+  state.filters.difficulty = state.filters.difficulty.filter((value) => difficultyValues.has(value));
+
+  if (state.filters.itemType && !itemTypeValues.has(state.filters.itemType)) {
+    state.filters.itemType = "";
+  }
+
+  if (state.filters.content && !contentValues.has(state.filters.content)) {
+    state.filters.content = "";
+  }
+}
+
 function installStaticFilters() {
+  const availableItems = getTeacherWorkspaceItems(state.items);
+  syncFiltersToAvailableItems(availableItems);
   resetSelectOptions(elements.teksFilter, "All TEKS");
   resetSelectOptions(elements.yearFilter, "All years");
   resetSelectOptions(elements.difficultyFilter, "All levels");
   resetSelectOptions(elements.itemTypeFilter, "All types");
   resetSelectOptions(elements.contentFilter, "All content");
-  populateSelect(elements.teksFilter, uniqueValues(state.items, (item) => item.metadata.standard, compareGroupKey));
+  populateSelect(elements.teksFilter, uniqueValues(availableItems, (item) => item.metadata.standard, compareGroupKey));
   populateSelect(
     elements.yearFilter,
-    uniqueValues(state.items, (item) => String(item.metadata.year), (left, right) => Number(right) - Number(left))
+    uniqueValues(availableItems, (item) => String(item.metadata.year), (left, right) => Number(right) - Number(left))
   );
   populateSelect(
     elements.difficultyFilter,
-    uniqueValues(state.items, (item) => item.metadata.difficulty?.label),
+    uniqueValues(availableItems, (item) => item.metadata.difficulty?.label),
     (value) => value.charAt(0).toUpperCase() + value.slice(1)
   );
-  populateSelect(elements.itemTypeFilter, uniqueValues(state.items, (item) => item.metadata.item_type));
-  populateSelect(elements.contentFilter, uniqueValues(state.items, (item) => item.metadata.content));
+  populateSelect(elements.itemTypeFilter, uniqueValues(availableItems, (item) => item.metadata.item_type));
+  populateSelect(elements.contentFilter, uniqueValues(availableItems, (item) => item.metadata.content));
+  elements.itemTypeFilter.value = state.filters.itemType;
+  elements.contentFilter.value = state.filters.content;
 }
 
 function installCollectionOptions() {
@@ -882,10 +954,12 @@ function readStoredBuilder() {
     const parsed = JSON.parse(raw);
     state.activeCollectionId = parsed.activeCollectionId || "";
     state.builderStore = parsed.builderStore || {};
+    state.includeInlineChoiceQuestions = Boolean(parsed.includeInlineChoiceQuestions);
     state.teksSort = parsed.teksSort === "alphabetical" ? "alphabetical" : "importance";
   } catch (error) {
     state.activeCollectionId = "";
     state.builderStore = {};
+    state.includeInlineChoiceQuestions = false;
     state.teksSort = "importance";
   }
 }
@@ -905,6 +979,7 @@ function persistBuilder() {
     JSON.stringify({
       activeCollectionId: state.activeCollectionId,
       builderStore: nextStore,
+      includeInlineChoiceQuestions: state.includeInlineChoiceQuestions,
       teksSort: state.teksSort,
     })
   );
@@ -959,6 +1034,13 @@ function attachEvents() {
 
   elements.contentFilter.addEventListener("change", (event) => {
     state.filters.content = event.target.value;
+    render();
+  });
+
+  elements.includeInlineChoice.addEventListener("change", (event) => {
+    state.includeInlineChoiceQuestions = event.target.checked;
+    persistBuilder();
+    installStaticFilters();
     render();
   });
 
@@ -1133,7 +1215,7 @@ function getFilteredItems(options = {}) {
   const teksFilters = normalizeFilterValues(filters.teks);
   const yearFilters = normalizeFilterValues(filters.year);
   const difficultyFilters = normalizeFilterValues(filters.difficulty);
-  return state.items.filter((item) => {
+  return getTeacherWorkspaceItems(state.items).filter((item) => {
     const haystack = normalizeText(
       [
         item.id,
@@ -1197,7 +1279,7 @@ function getSortedItems(items) {
 }
 
 function getSelectedItems() {
-  return state.selectedIds.map((id) => state.itemsById.get(id)).filter(Boolean);
+  return state.selectedIds.map((id) => state.itemsById.get(id)).filter((item) => item && shouldIncludeInTeacherWorkspace(item));
 }
 
 function replaceSelection(items) {
@@ -1483,27 +1565,43 @@ function renderSummary(filteredItems) {
   const catalogSubject = state.catalog?.subject || collection?.subject || "Unknown subject";
   const catalogGrade = state.catalog?.grade || collection?.grade || "?";
   const itemCount = state.catalog?.item_count || 0;
+  const availableItems = getTeacherWorkspaceItems(state.items);
+  const selectedItems = getSelectedItems();
+  const hiddenInlineChoiceCount = state.includeInlineChoiceQuestions ? 0 : state.items.filter(isInlineChoiceItem).length;
+  const hiddenSelectedInlineChoiceCount = getHiddenInlineChoiceSelectedItems().length;
+  const selectedItemIds = new Set(selectedItems.map((item) => item.id));
   const visibleBundleCount = bundleMode
     ? buildStimulusBundles(filteredItems).length
     : new Set(filteredItems.map((item) => getStimulusGroupKey(item)).filter(Boolean)).size;
-  const selectedVisibleCount = filteredItems.filter((item) => state.selectedIds.includes(item.id)).length;
+  const selectedVisibleCount = filteredItems.filter((item) => selectedItemIds.has(item.id)).length;
   const addableVisibleCount = filteredItems.length - selectedVisibleCount;
   const selectedQuestionNote =
-    collectionReady && state.selectedIds.length && normalizeFilterValues(state.filters.teks).length
-      ? ` Current test keeps ${state.selectedIds.length} saved question${
-          state.selectedIds.length === 1 ? "" : "s"
+    collectionReady && selectedItems.length && normalizeFilterValues(state.filters.teks).length
+      ? ` Current test keeps ${selectedItems.length} saved question${
+          selectedItems.length === 1 ? "" : "s"
         } while you browse other TEKS.`
       : "";
 
   elements.resultsSummary.textContent = bundleMode
-    ? `${visibleBundleCount} passage bundles containing ${filteredItems.length} of ${state.items.length} problems shown`
-    : `${filteredItems.length} of ${state.items.length} problems shown`;
+    ? `${visibleBundleCount} passage bundles containing ${filteredItems.length} of ${availableItems.length} problems shown`
+    : `${filteredItems.length} of ${availableItems.length} problems shown`;
   elements.stats.innerHTML = `
     <strong>${escapeHtml(catalogSubject)} Grade ${escapeHtml(catalogGrade)}</strong><br />
     ${itemCount} extracted items<br />
+    ${
+      hiddenInlineChoiceCount
+        ? `${hiddenInlineChoiceCount} inline choice item${hiddenInlineChoiceCount === 1 ? "" : "s"} hidden by default<br />`
+        : ""
+    }
     ${visibleBundleCount} visible stimulus bundles<br />
     ${filteredItems.filter((item) => item.extraction_quality.needs_review).length} visible items marked for review<br />
-    ${state.selectedIds.length} problems in the current test
+    ${selectedItems.length} problems in the current test${
+      hiddenSelectedInlineChoiceCount
+        ? `<br />${hiddenSelectedInlineChoiceCount} saved inline choice problem${
+            hiddenSelectedInlineChoiceCount === 1 ? "" : "s"
+          } hidden until enabled`
+        : ""
+    }
   `;
 
   const teksCounts = buildCounts(getFilteredItems({ ignore: ["teks"] }), (item) => item.metadata.standard);
@@ -1867,11 +1965,14 @@ function renderResults(filteredItems) {
 function renderBuilder() {
   const collection = getActiveCollection();
   const selectedItems = getSelectedItems();
+  const hiddenInlineChoiceSelectedItems = getHiddenInlineChoiceSelectedItems();
   const teksCounts = buildCounts(selectedItems, (item) => item.metadata.standard);
   const typeCounts = buildCounts(selectedItems, (item) => item.metadata.item_type);
   const stimulusGroupCount = new Set(selectedItems.map((item) => item.stimulus?.group_id).filter(Boolean)).size;
 
-  elements.selectedCount.textContent = `${selectedItems.length} selected`;
+  elements.selectedCount.textContent = hiddenInlineChoiceSelectedItems.length
+    ? `${selectedItems.length} selected, ${hiddenInlineChoiceSelectedItems.length} inline hidden`
+    : `${selectedItems.length} selected`;
   elements.testTitle.value = state.packet.title;
   elements.teacherName.value = state.packet.teacher;
   elements.studentPrintFormat.value = getStudentPrintFormat();
@@ -1894,7 +1995,7 @@ function renderBuilder() {
     state.pdfExportMode === "student" ? "Preparing Student PDF..." : "Download Student PDF";
   elements.downloadAnswerKeyPdf.textContent =
     state.pdfExportMode === "answer-key" ? "Preparing Answer Key PDF..." : "Download Answer Key PDF";
-  elements.clearSelection.disabled = selectedItems.length === 0;
+  elements.clearSelection.disabled = state.selectedIds.length === 0;
   elements.addVisible.disabled = !collectionReady;
   elements.removeVisible.disabled = !collectionReady;
   elements.buildPreset.disabled = !collectionReady || !elements.presetType.value;
@@ -1911,7 +2012,13 @@ function renderBuilder() {
   if (!selectedItems.length) {
     elements.selectionSummary.innerHTML = `
       <div class="empty-selection">
-        Filter the catalog, add the problems you want, and print a ready-to-use student packet and answer key.
+        ${
+          hiddenInlineChoiceSelectedItems.length
+            ? `${hiddenInlineChoiceSelectedItems.length} inline choice question${
+                hiddenInlineChoiceSelectedItems.length === 1 ? " is" : "s are"
+              } currently hidden. Turn on Include inline choice questions to use them in this test.`
+            : "Filter the catalog, add the problems you want, and print a ready-to-use student packet and answer key."
+        }
       </div>
     `;
     return;
@@ -2000,6 +2107,7 @@ function render() {
   const collection = getActiveCollection();
   applyCollectionTheme(collection);
   elements.collectionFilter.value = state.activeCollectionId;
+  elements.includeInlineChoice.checked = state.includeInlineChoiceQuestions;
   elements.collectionStatus.textContent = collection
     ? collection.status === "ready"
       ? `${collection.label} is ready for browsing and printing.`
@@ -2537,7 +2645,9 @@ async function downloadPdf(mode) {
 
 async function init() {
   try {
+    setStartupStatus("Loading saved teacher settings and recent selections.");
     readStoredBuilder();
+    setStartupStatus("Loading the bundled collections index.");
     const response = await fetch("../collections/index.json", { cache: "no-store" });
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}`);
@@ -2554,10 +2664,14 @@ async function init() {
     }
     attachEvents();
     installCollectionOptions();
+    const initialCollection = state.collections.find((collection) => collection.id === state.activeCollectionId);
+    setStartupStatus(`Opening ${initialCollection?.label || "the selected collection"} and preparing print tools.`);
     await switchCollection(state.activeCollectionId);
   } catch (error) {
     elements.resultsSummary.textContent = "Catalog failed to load.";
     elements.results.innerHTML = `<div class="empty-state">Unable to load collections/index.json. ${escapeHtml(error.message)}</div>`;
+  } finally {
+    await releaseDesktopStartupGate();
   }
 }
 

@@ -4,6 +4,9 @@
 
 - `package.json`: Tauri CLI scripts
 - `src-tauri/`: desktop shell scaffold
+- `src-tauri/src/main.rs`: startup handshake that opens a splash window first and reveals the main app after the frontend is ready
+- `app/tauri-splash.html`: native startup splash content for the Tauri shell
+- `app/desktop-bridge.js`: frontend bridge that releases the native splash after the catalog loads
 - `scripts/stage_tauri_frontend.py`: stages `app/` and packaged `collections/` data into `build/tauri/frontend/`
 - `.github/workflows/macos-installer-build.yml`: dedicated GitHub Actions workflow for a macOS installer artifact
 - `.github/workflows/tauri-desktop-build.yml`: GitHub Actions workflow for Windows and macOS desktop bundles
@@ -40,6 +43,13 @@ Build desktop bundles for the current OS:
 ```powershell
 npm run tauri:build
 ```
+
+## Startup Experience
+
+- The Tauri desktop shell now opens a small splash window immediately so teachers can see that the executable is launching.
+- The main window starts hidden and only appears after the first collection has loaded and the frontend has rendered its initial state.
+- There is also an in-app loading overlay in the main web UI as a second layer of feedback during startup.
+- A fallback timer in `src-tauri/src/main.rs` shows the main window even if the readiness handshake takes too long, which helps avoid a permanent splash screen if startup regressions are introduced later.
 
 ## Bundled Content
 
@@ -93,3 +103,10 @@ Before public release to teachers, finish the platform trust layer:
 - macOS: sign the app and notarize the DMG
 
 Unsigned builds will trigger more warnings for non-technical users.
+
+## Maintenance Checklist
+
+- If you change the launch copy or startup visuals, update `app/tauri-splash.html`.
+- If you change when the app should be considered ready, update both `src-tauri/src/main.rs` and the startup release path in `app/app.js`.
+- If you change frontend assets or collection packaging, rerun `npm run tauri:stage` before `npm run tauri:dev` or `npm run tauri:build`.
+- After desktop-shell edits, run at least `cargo check --manifest-path src-tauri/Cargo.toml` and a staged frontend build before cutting a release.
