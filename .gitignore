@@ -3,8 +3,10 @@ __pycache__/
 /STAARProblemBrowser.exe
 /STAARProblemBrowserSetup.exe
 /STAAR Problem Browser_*_x64-setup.exe
+/STAAR Problem Browser_*.dmg
 /STAARProblemBrowser-Tauri.exe
 /STAARProblemBrowser-Tauri-Installer.msi
+/STAARProblemBrowser-windows Installer.msi
 build/
 dist/
 *.spec
