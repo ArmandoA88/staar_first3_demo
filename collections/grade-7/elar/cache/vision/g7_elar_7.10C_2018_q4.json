@@ -1,0 +1,28 @@
+{
+  "stem": "Sentence 20 does not say what Nora intended it to say. How should she rewrite this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "With each blast from the air in the burner growing hotter, the balloon was allowed to fly higher and higher."
+    },
+    {
+      "label": "G",
+      "text": "With each blast from the burner, the air in the balloon grew hotter, allowing the balloon to fly higher and higher."
+    },
+    {
+      "label": "H",
+      "text": "With each blast from the burner, the balloon\u2019s air grew hotter, this allowed the balloon to fly higher and higher."
+    },
+    {
+      "label": "J",
+      "text": "With each blast from the burner, the balloon grew hotter, allowing the balloon to fly higher and higher in the air."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

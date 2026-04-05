@@ -1,0 +1,30 @@
+{
+  "stem": "This meant that they were in a previously undiscovered cave, part of what would soon become known as the",
+  "instruction": "Select the response that corrects the error in sentence 8.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Lechuguilla Cave"
+    },
+    {
+      "label": "B",
+      "text": "Lechuguilla Cavity"
+    },
+    {
+      "label": "C",
+      "text": "Lechuguilla Caverns"
+    },
+    {
+      "label": "D",
+      "text": "Lechuguilla Cavern"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dropdown menu"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

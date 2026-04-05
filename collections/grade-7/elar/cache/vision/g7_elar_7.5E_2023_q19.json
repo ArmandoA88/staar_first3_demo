@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection \u201cSay Yes to Exploring Mars\u201d expresses a **SIMILAR** idea?",
+  "instruction": "Use \u201cLife on Mars\u201d and \u201cSay Yes to Exploring Mars\u201d to answer the following question.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Humans have explored much of Earth, the moon, and other parts of outer space. (paragraph 1)"
+    },
+    {
+      "label": "B",
+      "text": "Sending humans to explore Mars could help provide even more evidence of life that cannot be detected by machines. (paragraph 2)"
+    },
+    {
+      "label": "C",
+      "text": "For example, the equipment that firefighters use is based on gear developed for astronauts. (paragraph 3)"
+    },
+    {
+      "label": "D",
+      "text": "Mars already has some elements needed to support life, such as frozen water, carbon, and nitrogen. (paragraph 4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In addition, human space exploration could help confirm many of the findings scientists have gathered about our neighbor in space."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 0.99,
+  "notes": null
+}

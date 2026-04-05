@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, should be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It all felt ugly to me\u2014the carpet color but rolling clouds in a new place where I had never wanted to live especially."
+    },
+    {
+      "label": "B",
+      "text": "It all felt ugly to me\u2014the color of the carpet especially and the clouds that rolled in this place that was new where I had never wanted to live."
+    },
+    {
+      "label": "C",
+      "text": "It all felt ugly to me\u2014the color of the carpet, the rolling clouds, and especially this new place where I had never wanted to live."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

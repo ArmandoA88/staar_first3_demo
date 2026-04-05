@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection best matches the feeling expressed by the speaker in line 14 of the poem?",
+  "instruction": "Read line 14 from the poem.\n\nSoon I'd be a rich young man.",
+  "options": [
+    {
+      "label": "F",
+      "text": "The Tlingit, people native to the area, offered their services as guides."
+    },
+    {
+      "label": "G",
+      "text": "One city that was drastically changed by the discovery of gold in the Yukon was Seattle, Washington."
+    },
+    {
+      "label": "H",
+      "text": "News of the gold find gave people hope."
+    },
+    {
+      "label": "J",
+      "text": "Before the gold rush was over, Mulroney had opened several restaurants and hotels in Dawson."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Soon I'd be a rich young man."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

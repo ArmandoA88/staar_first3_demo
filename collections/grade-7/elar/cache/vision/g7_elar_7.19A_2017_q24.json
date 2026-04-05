@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change variety to vareity"
+    },
+    {
+      "label": "G",
+      "text": "Change that to they"
+    },
+    {
+      "label": "H",
+      "text": "Change involved to involve"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made in sentence 4."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "24  What change needs to be made in sentence 4?",
+    "F  Change variety to vareity",
+    "G  Change that to they",
+    "H  Change involved to involve",
+    "J  No change needs to be made in sentence 4."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "In sentence 5, Nick has not offered a strong controlling idea, or thesis statement. Which revision of sentence 5 creates the most effective thesis for this paper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "More interesting, however, is why everything about the scraggly little dog was stubby."
+    },
+    {
+      "label": "B",
+      "text": "More interesting, however, is that Stubby was both unusual and popular during World War I."
+    },
+    {
+      "label": "C",
+      "text": "More interesting, however, is how this little dog earned the rank of U.S. Army sergeant and became a war hero."
+    },
+    {
+      "label": "D",
+      "text": "More interesting, however, is how Stubby was able to keep the name for so very long."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

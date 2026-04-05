@@ -1,0 +1,28 @@
+{
+  "stem": "What idea does the author communicate with these sentences?",
+  "instruction": "Read these sentences from the selection.\n\nThe outside of the plane is decorated with an American flag and the presidential seal. The words \"United States of America\" are painted along its sides. (paragraph 2)\n\nAir Force One is sometimes referred to as the \"flying Oval Office.\" (paragraph 10)",
+  "options": [
+    {
+      "label": "F",
+      "text": "Many people know that Air Force One is used to transport the president."
+    },
+    {
+      "label": "G",
+      "text": "The exterior design of Air Force One includes several complex features."
+    },
+    {
+      "label": "H",
+      "text": "Parts of Air Force One are modeled after rooms at the White House."
+    },
+    {
+      "label": "J",
+      "text": "Air Force One has become a symbol of the U.S. presidency."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 6 and 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Background noises and sound effects cannot be adequately recorded during filming these, including such things as roaring cars, galloping horses, or the gentle tapping of pencils on desks."
+    },
+    {
+      "label": "G",
+      "text": "Background noises and sound effects cannot be adequately recorded during filming when they include such things as roaring cars, galloping horses, or the gentle tapping of pencils on desks."
+    },
+    {
+      "label": "H",
+      "text": "Background noises and sound effects, such as roaring cars, galloping horses, or the gentle tapping of pencils on desks, cannot be adequately recorded during filming."
+    },
+    {
+      "label": "J",
+      "text": "Background noises and sound effects cannot be adequately recorded because such things as these roaring cars, galloping horses, or the gentle tapping of pencils on desks are included during filming."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

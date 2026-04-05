@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 26?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Today its beacon continues to shine. Warning ships of danger as it has done for more than a century."
+    },
+    {
+      "label": "B",
+      "text": "Today its beacon continues to shine and warn ships of danger. As it has done for more than a century."
+    },
+    {
+      "label": "C",
+      "text": "Today its beacon continues to shine and warn ships of danger, it has done this for more than a century."
+    },
+    {
+      "label": "D",
+      "text": "Today its beacon continues to shine, warning ships of danger as it has done for more than a century."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

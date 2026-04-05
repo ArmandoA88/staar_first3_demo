@@ -1,0 +1,34 @@
+{
+  "stem": "What is the most effective transition to add to the beginning of sentence 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "For example"
+    },
+    {
+      "label": "B",
+      "text": "To repeat"
+    },
+    {
+      "label": "C",
+      "text": "On the other hand"
+    },
+    {
+      "label": "D",
+      "text": "In fact"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the most effective transition to add to the beginning of sentence 19?",
+    "A For example",
+    "B To repeat",
+    "C On the other hand",
+    "D In fact"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

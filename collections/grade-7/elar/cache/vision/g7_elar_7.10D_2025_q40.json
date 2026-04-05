@@ -1,0 +1,33 @@
+{
+  "stem": "What change needs to be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a semicolon after open"
+    },
+    {
+      "label": "B",
+      "text": "Change although to as"
+    },
+    {
+      "label": "C",
+      "text": "Change drove to driving"
+    },
+    {
+      "label": "D",
+      "text": "Change around to over"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A Insert a semicolon after open",
+    "B Change although to as",
+    "C Change drove to driving",
+    "D Change around to over"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

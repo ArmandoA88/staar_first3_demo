@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea should follow and support sentence 23?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The orange spots warn other animals and insects that the butterfly is poisonous."
+    },
+    {
+      "label": "B",
+      "text": "Monarch butterflies have a black body, and the outer edge of their wings is lined in black."
+    },
+    {
+      "label": "C",
+      "text": "This butterfly migrates each year, leaving its home during the winter months for warmer climates."
+    },
+    {
+      "label": "D",
+      "text": "Monarch butterflies, which are one of the most well-known butterflies in North America, are quite stunning."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

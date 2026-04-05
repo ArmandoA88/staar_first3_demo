@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective revision to make in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "One half of the animal\u2019s brain enters a sleep state, the other half of the brain stays alert."
+    },
+    {
+      "label": "B",
+      "text": "As one half of the animal\u2019s brain enters a sleep state, the other half stays alert."
+    },
+    {
+      "label": "C",
+      "text": "One half of the animal\u2019s brain enters a sleep state, or the other half of the animal\u2019s brain stays alert."
+    },
+    {
+      "label": "D",
+      "text": "As one half of the animal\u2019s brain enters a sleep state, there is the other alert half of the animal\u2019s brain."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

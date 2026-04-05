@@ -1,0 +1,34 @@
+{
+  "stem": "What change, if any, should be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *appreciated* to **apreciated**"
+    },
+    {
+      "label": "B",
+      "text": "Change *it\u2019s* to **its**"
+    },
+    {
+      "label": "C",
+      "text": "Change *importance* to **importence**"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change, if any, should be made in sentence 9?",
+    "\u24b6 Change *appreciated* to **apreciated**",
+    "\u24b7 Change *it\u2019s* to **its**",
+    "\u24b8 Change *importance* to **importence**",
+    "\u24b9 No change is needed."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

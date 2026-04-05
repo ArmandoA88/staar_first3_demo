@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *Suddenly* to *Suddenley*"
+    },
+    {
+      "label": "B",
+      "text": "Change *feels* to *felt*"
+    },
+    {
+      "label": "C",
+      "text": "Change *cool* to *cooler*"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

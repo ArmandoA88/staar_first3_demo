@@ -1,0 +1,34 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change severity to severe"
+    },
+    {
+      "label": "B",
+      "text": "Change puts to putting"
+    },
+    {
+      "label": "C",
+      "text": "Change his to their"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change, if any, needs to be made in sentence 25?",
+    "A Change severity to severe",
+    "B Change puts to putting",
+    "C Change his to their",
+    "D No change needs to be made in this sentence."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

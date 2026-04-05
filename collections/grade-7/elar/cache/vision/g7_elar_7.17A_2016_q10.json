@@ -1,0 +1,31 @@
+{
+  "stem": "Derek has included an extraneous sentence in the third paragraph (sentences 8\u201311). Which sentence should be deleted from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sentence 8"
+    },
+    {
+      "label": "G",
+      "text": "Sentence 9"
+    },
+    {
+      "label": "H",
+      "text": "Sentence 10"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 11"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q10 Passage #2",
+    "10"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

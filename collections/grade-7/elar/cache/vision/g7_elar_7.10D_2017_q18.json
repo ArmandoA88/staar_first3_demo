@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change consumer to consumer"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after websites"
+    },
+    {
+      "label": "H",
+      "text": "Change as many to hardly as many"
+    },
+    {
+      "label": "J",
+      "text": "Change shopping to shoping"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

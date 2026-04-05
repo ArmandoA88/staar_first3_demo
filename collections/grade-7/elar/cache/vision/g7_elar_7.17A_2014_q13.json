@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective revision to make in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Her name, which means \"little girl\" in a native Australian language, was first given to her father\u2019s favorite crocodile."
+    },
+    {
+      "label": "B",
+      "text": "Since her name was first given to her father\u2019s favorite crocodile, it means \"little girl\" in a native Australian language."
+    },
+    {
+      "label": "C",
+      "text": "Her name was first given to her father\u2019s favorite crocodile, it means \"little girl\" in a native Australian language."
+    },
+    {
+      "label": "D",
+      "text": "First given to her father\u2019s favorite crocodile, in a native Australian language, her name means \"little girl.\""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

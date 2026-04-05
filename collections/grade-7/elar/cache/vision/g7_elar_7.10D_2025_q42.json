@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change with to on"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after tasks"
+    },
+    {
+      "label": "C",
+      "text": "Change them to you"
+    },
+    {
+      "label": "D",
+      "text": "Change effort to effert"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

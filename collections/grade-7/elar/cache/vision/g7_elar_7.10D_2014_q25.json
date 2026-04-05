@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change has been warning to have been warning"
+    },
+    {
+      "label": "B",
+      "text": "Change Captains to captains"
+    },
+    {
+      "label": "C",
+      "text": "Change off the coast to of the coast"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

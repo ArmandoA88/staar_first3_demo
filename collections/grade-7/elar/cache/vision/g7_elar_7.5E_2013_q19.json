@@ -1,0 +1,30 @@
+{
+  "stem": "Which excerpt from \u201cCar Talk\u201d best matches the feeling expressed by the speaker in line 7 of the poem?",
+  "instruction": "Read line 7 of the poem.\n\nI'm only twelve, but I get to drive!",
+  "options": [
+    {
+      "label": "A",
+      "text": "we got into the car that first time"
+    },
+    {
+      "label": "B",
+      "text": "Dad and I drove around, saying almost nothing"
+    },
+    {
+      "label": "C",
+      "text": "that now-aging permit first found its way into my eager hands"
+    },
+    {
+      "label": "D",
+      "text": "a small plastic card verifying my right to drive"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I'm only twelve, but I get to drive!"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

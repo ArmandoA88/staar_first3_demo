@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Although the idea to The idea"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after intriguing"
+    },
+    {
+      "label": "C",
+      "text": "Change something to nothing"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in sentence 6."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

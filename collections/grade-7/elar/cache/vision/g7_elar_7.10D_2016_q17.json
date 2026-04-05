@@ -1,0 +1,35 @@
+{
+  "stem": "How does sentence 15 need to be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Band Director to band director"
+    },
+    {
+      "label": "B",
+      "text": "Delete the second comma"
+    },
+    {
+      "label": "C",
+      "text": "Change insists to insisting"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 15 does not need to be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q17 Passage #3",
+    "17 How does sentence 15 need to be changed?",
+    "A Change Band Director to band director",
+    "B Delete the second comma",
+    "C Change insists to insisting",
+    "D Sentence 15 does not need to be changed."
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

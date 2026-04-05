@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 32 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change parlour to Parlour"
+    },
+    {
+      "label": "B",
+      "text": "Change advance to advanced"
+    },
+    {
+      "label": "C",
+      "text": "Change large to larger"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 32 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only, no diagrams or images"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

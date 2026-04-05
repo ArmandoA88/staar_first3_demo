@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to revise sentence 26?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I believe that a day without technology is a day that will be helping make you a healthier and better person and friend."
+    },
+    {
+      "label": "B",
+      "text": "I believe that a day without technology will help make you a healthier person and a better friend."
+    },
+    {
+      "label": "C",
+      "text": "I believe that a day without technology, it will help make you a healthier person, and it will help make you a better friend."
+    },
+    {
+      "label": "D",
+      "text": "I believe that a day without technology is good, it will help make you a healthier person, who will be a better friend."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

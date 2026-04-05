@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change In fact to Even so"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after Washington"
+    },
+    {
+      "label": "C",
+      "text": "Change display to displays"
+    },
+    {
+      "label": "D",
+      "text": "Change his to their"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

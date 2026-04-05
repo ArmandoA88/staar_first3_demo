@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Jamal and I to Jamal and me"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "C",
+      "text": "Change fell to feel"
+    },
+    {
+      "label": "D",
+      "text": "Change privacy to privicy"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

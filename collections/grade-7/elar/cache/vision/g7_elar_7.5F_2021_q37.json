@@ -1,0 +1,30 @@
+{
+  "stem": "What does this line suggest about the lake?",
+  "instruction": "Read line 16.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The lake has kept the listener\u2019s possessions safe."
+    },
+    {
+      "label": "B",
+      "text": "The lake thinks that the listener is careless."
+    },
+    {
+      "label": "C",
+      "text": "The lake wants to remind the listener of a time when life was more simple."
+    },
+    {
+      "label": "D",
+      "text": "The lake hopes the listener will remember how to get back to the water."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "you\u2019ll find whatever you have lost."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

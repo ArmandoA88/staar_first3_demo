@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective way to revise sentence 32?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "In late spring the sides of the cliffs echo with the music of tiny tree frogs."
+    },
+    {
+      "label": "B",
+      "text": "In late spring the sides of the cliffs echo with the music of tiny tree frogs, and it is music."
+    },
+    {
+      "label": "C",
+      "text": "In late spring the sides of the cliffs echo with the musical echoes of tiny tree frogs."
+    },
+    {
+      "label": "D",
+      "text": "In late spring the sides of the cliffs echo music, and it is the music of tiny tree frogs."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Each week, I got to shadow different zoo workers. Who would be taking care of their assigned animals."
+    },
+    {
+      "label": "G",
+      "text": "Each week, I got to shadow different zoo workers as they took care of their assigned animals."
+    },
+    {
+      "label": "H",
+      "text": "Each week, getting to shadow different zoo workers. They would be taking care of their assigned animals."
+    },
+    {
+      "label": "J",
+      "text": "The sentence is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

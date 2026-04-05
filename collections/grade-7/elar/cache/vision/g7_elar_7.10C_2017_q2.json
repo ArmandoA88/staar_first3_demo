@@ -1,0 +1,30 @@
+{
+  "stem": "What is the BEST way to revise sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A shrill scream snaps me out of my daydream, and from the car behind me, it returns my focus to the world around me."
+    },
+    {
+      "label": "G",
+      "text": "A shrill scream snaps me out of my daydream and returns my focus to the world around me, it came from the car behind me."
+    },
+    {
+      "label": "H",
+      "text": "A shrill scream from the car behind me snaps me out of my daydream and returns my focus to the world around me."
+    },
+    {
+      "label": "J",
+      "text": "A shrill scream snaps me out of my daydream from the car behind me, returning my focus to the world around me."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

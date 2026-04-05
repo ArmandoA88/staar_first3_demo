@@ -1,0 +1,28 @@
+{
+  "stem": "Which is the most effective way to combine sentences 20 and 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "This color blends in with the natural surroundings, when it helps protect the butterfly from predators that might want to harm it."
+    },
+    {
+      "label": "G",
+      "text": "This color blends in with the natural surroundings that helps protect the butterfly from predators that might want to harm it."
+    },
+    {
+      "label": "H",
+      "text": "This color blends in with the natural surroundings and helps protect the butterfly from predators that might want to harm it."
+    },
+    {
+      "label": "J",
+      "text": "This color blends in with the natural surroundings, this helps protect the butterfly from predators that might want to harm it."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

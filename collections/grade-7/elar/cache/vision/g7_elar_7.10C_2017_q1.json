@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Unfortunately, my hands aren t interested, they don t care what my brain is telling them to do."
+    },
+    {
+      "label": "B",
+      "text": "Unfortunately, my hands aren t interested in what my brain is telling my hands to do."
+    },
+    {
+      "label": "C",
+      "text": "Unfortunately, my hands and my brain aren t interested in what it is telling them to do."
+    },
+    {
+      "label": "D",
+      "text": "No revision is needed in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

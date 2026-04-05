@@ -1,0 +1,18 @@
+{
+  "stem": "In the dictionary entry, definition _______ best matches the meaning of redeem in line 50.",
+  "instruction": "Enter your answer in the box.",
+  "options": [],
+  "choice_pool": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "response_template": "In the dictionary entry, definition [blank_1] best matches the meaning of redeem in line 50.",
+  "visual_elements": [
+    "dictionary entry for redeem showing four definitions numbered 1 to 4"
+  ],
+  "item_type_inferred": "Text Entry",
+  "confidence": 0.99,
+  "notes": null
+}

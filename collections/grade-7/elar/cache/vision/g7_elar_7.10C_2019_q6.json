@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best way to revise sentence 36?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "I saved it, looking after it, and I love it."
+    },
+    {
+      "label": "G",
+      "text": "I saved it, to look after it, and love it."
+    },
+    {
+      "label": "H",
+      "text": "I saved it, looking after it, and to love it."
+    },
+    {
+      "label": "J",
+      "text": "I saved it, I look after it, and I love it."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

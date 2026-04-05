@@ -1,0 +1,28 @@
+{
+  "stem": "Which idea is found in the selection \u201cSay Yes to Exploring Mars\u201d but NOT in the selection \u201cLife on Mars\u201d?",
+  "instruction": "Use \u201cLife on Mars\u201d and \u201cSay Yes to Exploring Mars\u201d to answer the following question.",
+  "options": [
+    {
+      "label": "A",
+      "text": "NASA scientists are interested in sending people to Mars."
+    },
+    {
+      "label": "B",
+      "text": "People might be able to go to Mars and create a breathable atmosphere."
+    },
+    {
+      "label": "C",
+      "text": "Scientists are excited about the discovery of frozen water on Mars."
+    },
+    {
+      "label": "D",
+      "text": "It would be beneficial for astronauts to visit Mars in the future."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Standard 7.5(E), year 2023, question 16."
+}

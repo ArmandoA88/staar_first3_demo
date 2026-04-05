@@ -1,0 +1,31 @@
+{
+  "stem": "What change, if any, should be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *specially* to **specialy**"
+    },
+    {
+      "label": "B",
+      "text": "Change *were also doing* to **are also doing**"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after *work*"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made in sentence 3."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bold",
+    "italic"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

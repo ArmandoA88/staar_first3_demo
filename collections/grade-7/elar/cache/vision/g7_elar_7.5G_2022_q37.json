@@ -1,0 +1,30 @@
+{
+  "stem": "Which key idea is suggested by this sentence?\n\nWhen people think of exercise, they probably envision someone muscular lifting hundreds of pounds on a barbell or swift and strong sprinters speeding along a racetrack.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Most exercise routines require an advanced level of skill."
+    },
+    {
+      "label": "B",
+      "text": "Proper equipment is often needed for certain exercise programs."
+    },
+    {
+      "label": "C",
+      "text": "Anyone can take part in exercise with the right amount of training."
+    },
+    {
+      "label": "D",
+      "text": "People avoid exercise because they think it is beyond their capabilities."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "When people think of exercise, they probably envision someone muscular lifting hundreds of pounds on a barbell or swift and strong sprinters speeding along a racetrack."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

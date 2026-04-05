@@ -1,0 +1,31 @@
+{
+  "stem": "What change should be made in sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change example to exampel"
+    },
+    {
+      "label": "B",
+      "text": "Change got to gotten"
+    },
+    {
+      "label": "C",
+      "text": "Delete the comma after homework"
+    },
+    {
+      "label": "D",
+      "text": "Change had to have"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q19 Passage #3",
+    "19"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

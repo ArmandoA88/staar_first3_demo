@@ -1,0 +1,34 @@
+{
+  "stem": "How should sentence 24 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change we take care to you take care"
+    },
+    {
+      "label": "G",
+      "text": "Change our own planet to our on planet"
+    },
+    {
+      "label": "H",
+      "text": "Change the period to a question mark"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 24 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "How should sentence 24 be changed?",
+    "F Change we take care to you take care",
+    "G Change our own planet to our on planet",
+    "H Change the period to a question mark",
+    "J Sentence 24 should not be changed."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

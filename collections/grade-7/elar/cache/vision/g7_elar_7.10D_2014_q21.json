@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change \\textit{Sleepy} to \\textbf{I was sleepy}"
+    },
+    {
+      "label": "B",
+      "text": "Change \\textit{determinned} to \\textbf{determined}"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after \\textit{store}"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

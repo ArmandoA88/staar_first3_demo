@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition matches the meaning of chains as it is used in paragraph 1?",
+  "instruction": "Read the dictionary entry for chain.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "chain \\'ch\u0101n\\ n\n1. a bendable series of joined links\n2. a bond, or anything that binds together\n3. a series of events related by cause and effect\n4. a group of businesses owned by one parent company"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

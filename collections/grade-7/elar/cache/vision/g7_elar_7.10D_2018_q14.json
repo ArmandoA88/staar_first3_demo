@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It\u2019s called upcycling. Or turning something you would otherwise throw away into a useful item."
+    },
+    {
+      "label": "G",
+      "text": "It\u2019s called upcycling, or turning something you would otherwise throw away into a useful item."
+    },
+    {
+      "label": "H",
+      "text": "It\u2019s called upcycling, which is turning something you would otherwise throw away. Into a useful item."
+    },
+    {
+      "label": "J",
+      "text": "Sentence 5 is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

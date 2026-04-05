@@ -1,0 +1,31 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change It's to Its"
+    },
+    {
+      "label": "B",
+      "text": "Change are to is"
+    },
+    {
+      "label": "C",
+      "text": "Change balance to balence"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bold question number 19",
+    "bold lettered answer choices A, B, C, D, with selected words italicized"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

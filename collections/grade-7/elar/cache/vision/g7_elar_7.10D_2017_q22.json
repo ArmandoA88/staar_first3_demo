@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 28?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change There's to There isn't"
+    },
+    {
+      "label": "G",
+      "text": "Change me to myself"
+    },
+    {
+      "label": "H",
+      "text": "Insert a comma after me"
+    },
+    {
+      "label": "J",
+      "text": "Change it to them"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

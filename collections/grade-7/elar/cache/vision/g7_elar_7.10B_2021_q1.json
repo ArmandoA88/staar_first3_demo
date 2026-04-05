@@ -1,0 +1,31 @@
+{
+  "stem": "Ben wants to add support to his introductory paragraph. Which of the following should be added after sentence 3 to accomplish this goal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Both children and their parents climb all around the intricate wonderland that is found in St. Louis, Missouri."
+    },
+    {
+      "label": "B",
+      "text": "Others position themselves at the top of a long slide that reaches down ten stories inside the building."
+    },
+    {
+      "label": "C",
+      "text": "This is an amazing museum, and there should be many more like this across the country."
+    },
+    {
+      "label": "D",
+      "text": "This Ferris wheel is from long ago, and it is an incredible presence as it spins on the rooftop of this building."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q1 Passage #1",
+    "1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change that to it"
+    },
+    {
+      "label": "B",
+      "text": "Change ridiculous to ridiculus"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after looked"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

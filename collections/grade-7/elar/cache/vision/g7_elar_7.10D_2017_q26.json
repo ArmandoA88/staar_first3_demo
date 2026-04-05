@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 15 and 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "When he surfaces, he usually has a heavy bag, it is filled with hundreds of golf balls that have mistakenly landed in the pond."
+    },
+    {
+      "label": "G",
+      "text": "When he surfaces, he usually has a heavy bag filled with hundreds of golf balls. That have mistakenly landed in the pond."
+    },
+    {
+      "label": "H",
+      "text": "When he surfaces, he usually has a heavy bag filled with hundreds of golf balls they have mistakenly landed in the pond."
+    },
+    {
+      "label": "J",
+      "text": "When he surfaces, he usually has a heavy bag filled with hundreds of golf balls that have mistakenly landed in the pond."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

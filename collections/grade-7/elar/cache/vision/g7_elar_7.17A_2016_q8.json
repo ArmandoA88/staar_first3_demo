@@ -1,0 +1,28 @@
+{
+  "stem": "Derek would like to replace sentence 3 with a sentence that better states the controlling idea of his paper. Which of these would be the BEST replacement for sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "As a result, that means other animals can hurt them."
+    },
+    {
+      "label": "G",
+      "text": "As a result, many animals have to figure out a new way to fall asleep."
+    },
+    {
+      "label": "H",
+      "text": "As a result, many animals have sleep patterns that help keep them safe."
+    },
+    {
+      "label": "J",
+      "text": "As a result, animals don't climb in bed and pull up the covers like humans do."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

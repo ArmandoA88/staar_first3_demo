@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to revise sentence 33?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Employees are constantly adjusting creations and added new ones."
+    },
+    {
+      "label": "G",
+      "text": "Employees are constantly adjusting creations and adding new ones."
+    },
+    {
+      "label": "H",
+      "text": "Employees are constantly adjust creations and add new ones."
+    },
+    {
+      "label": "J",
+      "text": "Employees are constantly having adjusted creations and adding new ones."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

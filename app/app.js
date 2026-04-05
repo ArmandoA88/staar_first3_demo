@@ -337,6 +337,28 @@ function getCollectionTheme(collection = getActiveCollection()) {
   };
 }
 
+function buildManifestCollectionLabel(subject, grade) {
+  if (!subject) {
+    return "";
+  }
+  return grade === "" || grade === null || grade === undefined ? subject : `Grade ${grade} ${subject}`;
+}
+
+function getCollectionDisplayLabel(collection = getActiveCollection()) {
+  const subject = state.catalog?.subject || collection?.subject || "";
+  const grade = state.catalog?.grade ?? collection?.grade ?? "";
+  const explicitLabel = state.catalog?.collection_label || collection?.label || "";
+  const defaultLabel = buildManifestCollectionLabel(subject, grade);
+
+  if (explicitLabel && explicitLabel !== defaultLabel) {
+    return explicitLabel;
+  }
+  if (!subject) {
+    return explicitLabel || "STAAR";
+  }
+  return grade === "" ? subject : `${subject} Grade ${grade}`;
+}
+
 function applyCollectionTheme(collection = getActiveCollection()) {
   const theme = getCollectionTheme(collection);
   const root = document.documentElement;
@@ -1562,8 +1584,7 @@ function renderSummary(filteredItems) {
   const collection = getActiveCollection();
   const collectionReady = collection?.status === "ready";
   const bundleMode = shouldRenderStimulusBundles(collection);
-  const catalogSubject = state.catalog?.subject || collection?.subject || "Unknown subject";
-  const catalogGrade = state.catalog?.grade || collection?.grade || "?";
+  const catalogLabel = getCollectionDisplayLabel(collection);
   const itemCount = state.catalog?.item_count || 0;
   const availableItems = getTeacherWorkspaceItems(state.items);
   const selectedItems = getSelectedItems();
@@ -1586,7 +1607,7 @@ function renderSummary(filteredItems) {
     ? `${visibleBundleCount} passage bundles containing ${filteredItems.length} of ${availableItems.length} problems shown`
     : `${filteredItems.length} of ${availableItems.length} problems shown`;
   elements.stats.innerHTML = `
-    <strong>${escapeHtml(catalogSubject)} Grade ${escapeHtml(catalogGrade)}</strong><br />
+    <strong>${escapeHtml(catalogLabel)}</strong><br />
     ${itemCount} extracted items<br />
     ${
       hiddenInlineChoiceCount
@@ -2139,10 +2160,7 @@ function buildPrintChunks(selectedItems) {
 
 function buildPacketTitle() {
   const collection = getActiveCollection();
-  return (
-    state.packet.title.trim() ||
-    `${state.catalog?.subject || collection?.subject || "STAAR"} Grade ${state.catalog?.grade || collection?.grade || ""} Test`
-  );
+  return state.packet.title.trim() || `${getCollectionDisplayLabel(collection)} Test`;
 }
 
 function buildPrintOptionMarkup(option, index) {

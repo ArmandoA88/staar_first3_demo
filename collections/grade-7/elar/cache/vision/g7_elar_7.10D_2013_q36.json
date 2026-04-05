@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 15 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change sense to scents"
+    },
+    {
+      "label": "G",
+      "text": "Change than to then"
+    },
+    {
+      "label": "H",
+      "text": "Change Person's to person's"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 15 does not need to be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

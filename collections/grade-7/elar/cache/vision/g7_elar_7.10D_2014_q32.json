@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "That\u2019s what I thought getting glasses would be like. And was certain it would be the end of life as I knew it."
+    },
+    {
+      "label": "G",
+      "text": "That\u2019s what I thought getting glasses would be like. I was certain it would be the end of life as I knew it."
+    },
+    {
+      "label": "H",
+      "text": "That\u2019s what I thought getting glasses would be like. Because I was certain it would be the end of life as I knew it."
+    },
+    {
+      "label": "J",
+      "text": "The sentence is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

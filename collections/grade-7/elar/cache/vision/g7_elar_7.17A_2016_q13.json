@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 26?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "What is certain, though, is that animals that do sleep have found some clever ways to do so, they are also unique."
+    },
+    {
+      "label": "B",
+      "text": "What is certain, though, is that animals have found some clever ways to sleep that are unique ways, too."
+    },
+    {
+      "label": "C",
+      "text": "What is certain, though, is that animals that do sleep have found some clever and unique ways to do so."
+    },
+    {
+      "label": "D",
+      "text": "No revision is needed in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

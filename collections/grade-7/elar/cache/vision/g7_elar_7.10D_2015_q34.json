@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change ladies to lady's"
+    },
+    {
+      "label": "G",
+      "text": "Change announced to announsed"
+    },
+    {
+      "label": "H",
+      "text": "Delete the comma after hat"
+    },
+    {
+      "label": "J",
+      "text": "Change Contains to contains"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

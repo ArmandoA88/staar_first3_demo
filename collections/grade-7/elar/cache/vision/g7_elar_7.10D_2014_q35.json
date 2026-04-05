@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change helped to helps"
+    },
+    {
+      "label": "B",
+      "text": "Insert something after knew"
+    },
+    {
+      "label": "C",
+      "text": "Change wasn't a to wasn't no"
+    },
+    {
+      "label": "D",
+      "text": "Change permanant to permanent"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

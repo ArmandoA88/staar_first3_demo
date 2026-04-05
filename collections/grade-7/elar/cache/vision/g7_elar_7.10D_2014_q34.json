@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change Mom to mom"
+    },
+    {
+      "label": "G",
+      "text": "Change the comma to a period"
+    },
+    {
+      "label": "H",
+      "text": "Change asked to ask"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 42?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change believe to beleive"
+    },
+    {
+      "label": "B",
+      "text": "Change impairment to imparement"
+    },
+    {
+      "label": "C",
+      "text": "Insert quotation marks before she"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in sentence 42."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

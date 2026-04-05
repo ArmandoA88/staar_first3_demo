@@ -1,0 +1,34 @@
+{
+  "stem": "What change should be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change visibility to visible"
+    },
+    {
+      "label": "B",
+      "text": "Change is to are"
+    },
+    {
+      "label": "C",
+      "text": "Change dependent to dependant"
+    },
+    {
+      "label": "D",
+      "text": "Change whether to weather"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "23 What change should be made in sentence 10?",
+    "A Change visibility to visible",
+    "B Change is to are",
+    "C Change dependent to dependant",
+    "D Change whether to weather"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

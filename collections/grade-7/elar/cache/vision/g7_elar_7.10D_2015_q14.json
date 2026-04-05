@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 23 and 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Of course, there are people who argue that researching frivolous things like cookie dunking is a waste of time and money."
+    },
+    {
+      "label": "G",
+      "text": "Of course, there are people who argue that researching frivolous things like cookie dunking. It is a waste of time and money."
+    },
+    {
+      "label": "H",
+      "text": "Of course, there are people they argue that researching frivolous things like cookie dunking is a waste of time and money."
+    },
+    {
+      "label": "J",
+      "text": "The sentences are written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

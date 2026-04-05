@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 12 and 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Huge flames shot out of the burner inside the balloon, which was heating the air."
+    },
+    {
+      "label": "G",
+      "text": "Huge flames shot out of the burner because the air inside the balloon was heated."
+    },
+    {
+      "label": "H",
+      "text": "Huge flames shot out of the burner, the flames heated the air inside the balloon."
+    },
+    {
+      "label": "J",
+      "text": "Huge flames shot out of the burner, heating the air inside the balloon."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

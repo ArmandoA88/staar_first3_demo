@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 11 and 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "While training on a Connecticut field, Conroy found a stray dog that won his heart."
+    },
+    {
+      "label": "G",
+      "text": "He was training on a Connecticut field because he found a stray dog that won his heart."
+    },
+    {
+      "label": "H",
+      "text": "Training on a Connecticut field, a stray dog that he found won Conroy's heart."
+    },
+    {
+      "label": "J",
+      "text": "He was training on a Connecticut field, there, Conroy found a stray dog that won his heart."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change weeks to week's"
+    },
+    {
+      "label": "G",
+      "text": "Change boring to borring"
+    },
+    {
+      "label": "H",
+      "text": "Change the first comma to a period"
+    },
+    {
+      "label": "J",
+      "text": "Change experiment to experament"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

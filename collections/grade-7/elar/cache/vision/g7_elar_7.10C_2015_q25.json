@@ -1,0 +1,35 @@
+{
+  "stem": "Sentence 25 lacks clarity. What is the most effective change to make to improve the clarity of this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change recognize to know"
+    },
+    {
+      "label": "B",
+      "text": "Change the German language to it"
+    },
+    {
+      "label": "C",
+      "text": "Change him to a German spy"
+    },
+    {
+      "label": "D",
+      "text": "Change the man's to his"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q25 Passage #4",
+    "25 Sentence 25 lacks clarity. What is the most effective change to make to improve the clarity of this sentence?",
+    "A Change recognize to know",
+    "B Change the German language to it",
+    "C Change him to a German spy",
+    "D Change the man\u2019s to his"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

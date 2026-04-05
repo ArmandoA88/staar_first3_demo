@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 28?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change spun to spinned"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after circles"
+    },
+    {
+      "label": "C",
+      "text": "Change obnoxiously to obnoxously"
+    },
+    {
+      "label": "D",
+      "text": "Delete the quotation marks"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image showing question text and answer choices"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

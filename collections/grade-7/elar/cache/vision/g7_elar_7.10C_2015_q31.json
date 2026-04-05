@@ -1,0 +1,30 @@
+{
+  "stem": "The meaning of sentence 29 is unclear. What is the BEST change to make in this sentence to improve its clarity?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *They* to **Some teachers**"
+    },
+    {
+      "label": "B",
+      "text": "Change *expressed* to **shared**"
+    },
+    {
+      "label": "C",
+      "text": "Change *concern* to **worry**"
+    },
+    {
+      "label": "D",
+      "text": "Change *the current middle school schedule* to **it**"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "stem": "What change should be made in sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change fair to fare"
+    },
+    {
+      "label": "B",
+      "text": "Change him to them"
+    },
+    {
+      "label": "C",
+      "text": "Change the comma to a semicolon"
+    },
+    {
+      "label": "D",
+      "text": "Change too to to"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 - Q19 Passage #3",
+    "19 What change should be made in sentence 22?",
+    "A Change fair to fare",
+    "B Change him to them",
+    "C Change the comma to a semicolon",
+    "D Change too to to"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

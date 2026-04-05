@@ -1,0 +1,34 @@
+{
+  "stem": "Which sentence should replace sentence 31 to emphasize the main point of this story and bring it to a more effective close?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Since that day I\u2019ve obviously made some other friends, but Carl is still a great neighbor to us."
+    },
+    {
+      "label": "B",
+      "text": "It\u2019s absolutely true that Carl is one of the greatest people who has ever lived in this neighborhood."
+    },
+    {
+      "label": "C",
+      "text": "I\u2019ll always be grateful to Carl, not only for the friendship but for the lessons he has taught me."
+    },
+    {
+      "label": "D",
+      "text": "I\u2019ve lived here for more than a year now, and I\u2019ve watched Carl make even more friends."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2024 \u2013 Q37 Passage #5",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, should be made in sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change breath to breathe"
+    },
+    {
+      "label": "B",
+      "text": "Change beating to beeting"
+    },
+    {
+      "label": "C",
+      "text": "Change directs to directing"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 12 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bold style in answer choices on words breath, breathe, beating, beeting, directs, directing"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

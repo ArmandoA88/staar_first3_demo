@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these ideas is reinforced throughout the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The president's duties have not changed over the years."
+    },
+    {
+      "label": "B",
+      "text": "Presidential advisers have the opportunity to work closely with the president."
+    },
+    {
+      "label": "C",
+      "text": "The president's duties do not cease when he travels."
+    },
+    {
+      "label": "D",
+      "text": "It takes the president more time to get work done while traveling than at home."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text with four multiple choice answers labeled A to D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

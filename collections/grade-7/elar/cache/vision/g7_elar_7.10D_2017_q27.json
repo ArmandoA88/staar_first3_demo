@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change a to an"
+    },
+    {
+      "label": "B",
+      "text": "Change average to averege"
+    },
+    {
+      "label": "C",
+      "text": "Change can collect to collecting"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made in sentence 18."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

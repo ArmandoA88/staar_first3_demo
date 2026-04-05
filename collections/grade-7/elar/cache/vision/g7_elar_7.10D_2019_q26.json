@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 14 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change researchers to researcher's"
+    },
+    {
+      "label": "G",
+      "text": "Change institute of technology to Institute of Technology"
+    },
+    {
+      "label": "H",
+      "text": "Change disagree to disagreeing"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 14 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

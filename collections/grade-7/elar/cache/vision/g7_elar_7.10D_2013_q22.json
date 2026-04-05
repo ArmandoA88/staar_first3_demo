@@ -1,0 +1,34 @@
+{
+  "stem": "What change, if any, should be made in sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change the comma to a semicolon"
+    },
+    {
+      "label": "G",
+      "text": "Change touch to touched"
+    },
+    {
+      "label": "H",
+      "text": "Insert a comma after finger"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "22  What change, if any, should be made in sentence 22?",
+    "F  Change the comma to a semicolon",
+    "G  Change touch to touched",
+    "H  Insert a comma after finger",
+    "J  No change should be made in this sentence."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

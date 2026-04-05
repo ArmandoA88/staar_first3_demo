@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 42 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change they to he"
+    },
+    {
+      "label": "G",
+      "text": "Change nasty to nastier"
+    },
+    {
+      "label": "H",
+      "text": "Insert a comma after looks"
+    },
+    {
+      "label": "J",
+      "text": "Change I to me"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "How should sentence 5 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "G",
+      "text": "Change controlling to controling"
+    },
+    {
+      "label": "H",
+      "text": "Change intentional to intentionally"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 5 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "18",
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

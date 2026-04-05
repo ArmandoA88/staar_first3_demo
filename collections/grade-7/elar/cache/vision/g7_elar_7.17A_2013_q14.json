@@ -1,0 +1,30 @@
+{
+  "stem": "Miles is concerned that there is a sentence in the third paragraph (sentences 16\u201322) that does not add anything to this paper. Which sentence should Miles delete from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sentence 19"
+    },
+    {
+      "label": "G",
+      "text": "Sentence 20"
+    },
+    {
+      "label": "H",
+      "text": "Sentence 21"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 22"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

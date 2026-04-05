@@ -1,0 +1,30 @@
+{
+  "stem": "The meaning of sentence 13 is unclear. What change should Derek make to improve the clarity of this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change migrate to journey"
+    },
+    {
+      "label": "B",
+      "text": "Change every year to annually"
+    },
+    {
+      "label": "C",
+      "text": "Change it to the long trip"
+    },
+    {
+      "label": "D",
+      "text": "Change sleep to sleeping"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

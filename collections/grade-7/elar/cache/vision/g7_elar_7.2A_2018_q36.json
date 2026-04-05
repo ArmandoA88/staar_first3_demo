@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the way the word style is used in paragraph 3?",
+  "instruction": "Read this dictionary entry.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "style \\'st\u012b(-\u0259)\\ n 1. the fashion of the moment 2. the type or make of something 3. a way or manner of behaving 4. a set of rules for writing"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

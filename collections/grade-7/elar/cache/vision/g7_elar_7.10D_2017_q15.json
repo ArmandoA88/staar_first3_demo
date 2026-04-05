@@ -1,0 +1,31 @@
+{
+  "stem": "What change should be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change I to And"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after agree"
+    },
+    {
+      "label": "C",
+      "text": "Change sentaments to sentiments"
+    },
+    {
+      "label": "D",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Question text",
+    "Choices labeled A through D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

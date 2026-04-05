@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 20 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change too long to to long"
+    },
+    {
+      "label": "G",
+      "text": "Change and to this"
+    },
+    {
+      "label": "H",
+      "text": "Change them to it"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 20 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

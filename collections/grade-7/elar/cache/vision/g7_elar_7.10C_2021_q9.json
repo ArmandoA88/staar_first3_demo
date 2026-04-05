@@ -1,0 +1,30 @@
+{
+  "stem": "Which is the most effective revision to make in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When the air is colder than 60\u00b0F, a butterfly will get cold and lose energy, this makes it unable to fly."
+    },
+    {
+      "label": "B",
+      "text": "When the air is colder than 60\u00b0F, it makes a butterfly unable to fly when it gets cold and loses energy."
+    },
+    {
+      "label": "C",
+      "text": "When the air is colder than 60\u00b0F, a butterfly will be unable to fly, which makes it get cold and lose energy."
+    },
+    {
+      "label": "D",
+      "text": "No revision is needed in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1.0,
+  "notes": null
+}

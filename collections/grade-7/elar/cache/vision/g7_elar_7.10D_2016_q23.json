@@ -1,0 +1,28 @@
+{
+  "stem": "How does sentence 6 need to be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change packet's to packets"
+    },
+    {
+      "label": "B",
+      "text": "Change the comma after courses to a period"
+    },
+    {
+      "label": "C",
+      "text": "Change stood out to stands out"
+    },
+    {
+      "label": "D",
+      "text": "The sentence does not need to be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

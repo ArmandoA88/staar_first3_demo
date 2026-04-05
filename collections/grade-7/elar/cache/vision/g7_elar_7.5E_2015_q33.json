@@ -1,0 +1,30 @@
+{
+  "stem": "Read these lines from the poem.\n\nBefore I joined the great stampede,\nI thought: What will stampeders need?\nNow I'm a Dawson millionaire!\nI sell them ALL long underwear.\n\nWhich sentence from the selection best matches an idea presented in these lines?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "During 1898 some $10 million in gold was found in the Yukon."
+    },
+    {
+      "label": "B",
+      "text": "Thousands of businesspeople came to Seattle ready to offer goods and services to the prospectors."
+    },
+    {
+      "label": "C",
+      "text": "This marked the beginning of the Klondike gold rush."
+    },
+    {
+      "label": "D",
+      "text": "The Seattle Chamber of Commerce moved quickly to take advantage of this upswing in the economy."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text box containing poem lines"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

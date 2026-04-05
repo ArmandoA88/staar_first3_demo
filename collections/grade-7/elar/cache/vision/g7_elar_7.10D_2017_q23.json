@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 2 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change They to You"
+    },
+    {
+      "label": "B",
+      "text": "Change pictures to picture's"
+    },
+    {
+      "label": "C",
+      "text": "Change elaborate to elaborate"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 2 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

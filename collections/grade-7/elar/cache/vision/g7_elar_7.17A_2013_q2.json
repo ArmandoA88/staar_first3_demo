@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST revision to make in sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Controllers on the ground will let you know which runway to use they\u2019ll also let you know when it\u2019s your turn to take off."
+    },
+    {
+      "label": "G",
+      "text": "Controllers on the ground will let you know which runway to use. And when it\u2019s your turn to take off."
+    },
+    {
+      "label": "H",
+      "text": "Controllers are on the ground which will let you know which runway to use and when it\u2019s your turn to take off."
+    },
+    {
+      "label": "J",
+      "text": "Sentence 13 does not need to be revised."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

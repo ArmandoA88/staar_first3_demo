@@ -13,16 +13,6 @@
     "coverage_md": "collections/grade-5/elar/reports/pdf_coverage_report.md",
     "coverage_summary_json": "collections/grade-5/elar/reports/pdf_coverage_summary.json"
   },
-  "question_image_postprocess": {
-    "trim_right_artifact_strip": {
-      "search_window_px": 320,
-      "min_gap_width_px": 20,
-      "min_tail_width_px": 24,
-      "max_tail_width_px": 80,
-      "preserve_right_margin_px": 30,
-      "dark_threshold": 245
-    }
-  },
   "images_dir": "collections/grade-5/elar/images/extracted",
   "stimulus_images_dir": "collections/grade-5/elar/images/stimuli",
   "vision_cache_dir": "collections/grade-5/elar/cache/vision"

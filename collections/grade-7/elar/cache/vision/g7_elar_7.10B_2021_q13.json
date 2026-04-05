@@ -1,0 +1,30 @@
+{
+  "stem": "Alicia\u2019s paper ends abruptly. She would like to add a sentence to sum up the ideas in the paper. Which sentences should be added after sentence 30 to help bring her paper to a more effective conclusion?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The butterfly\u2019s wings serve many purposes. They are far more important than just being attractive to the human eye!"
+    },
+    {
+      "label": "B",
+      "text": "In reality a butterfly\u2019s wings are important. They can help with many other things."
+    },
+    {
+      "label": "C",
+      "text": "The butterfly needs its wings for many important reasons. Without them, it could not be the beautiful insect that we all enjoy watching as it flutters around."
+    },
+    {
+      "label": "D",
+      "text": "Finally, we can understand why the butterfly has wings. We can also grasp how important the butterfly is in the balance of nature."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Onir has included a sentence in the third paragraph (sentences 7\u201315) that repeats information. Which sentence should be removed from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 9"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 10"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 11"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

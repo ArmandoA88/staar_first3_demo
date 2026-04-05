@@ -1,0 +1,30 @@
+{
+  "stem": "Alicia would like to add the following sentence to the second paragraph (sentences 3\u20138).\n\nBasking allows butterflies to absorb heat from the sun and helps raise their body temperatures enough to give them energy to fly once again.\n\nWhere is the most effective place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "At the beginning of the paragraph"
+    },
+    {
+      "label": "G",
+      "text": "After sentence 3"
+    },
+    {
+      "label": "H",
+      "text": "After sentence 5"
+    },
+    {
+      "label": "J",
+      "text": "At the end of the paragraph"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Basking allows butterflies to absorb heat from the sun and helps raise their body temperatures enough to give them energy to fly once again."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

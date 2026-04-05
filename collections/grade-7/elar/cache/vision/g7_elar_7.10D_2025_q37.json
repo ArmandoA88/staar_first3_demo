@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *Their* to **Our**"
+    },
+    {
+      "label": "B",
+      "text": "Change *would be* to **being**"
+    },
+    {
+      "label": "C",
+      "text": "Change *Rocky Mountain national park* to **Rocky Mountain National Park**"
+    },
+    {
+      "label": "D",
+      "text": "Delete the comma after *Estes Park*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

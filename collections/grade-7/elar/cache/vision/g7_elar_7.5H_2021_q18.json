@@ -1,0 +1,31 @@
+{
+  "stem": "What do these sentences help the reader understand about Cheval?",
+  "instruction": "Read these sentences from the selection \"A Legacy of Stone.\"",
+  "options": [
+    {
+      "label": "F",
+      "text": "He wanted to invent a new design that would impress professional builders."
+    },
+    {
+      "label": "G",
+      "text": "He experienced many challenges during the several years he spent building the palace."
+    },
+    {
+      "label": "H",
+      "text": "He thought that using unfamiliar materials could inspire his creativity."
+    },
+    {
+      "label": "J",
+      "text": "He did not let inexperience prevent him from creating an elaborate structure."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He followed no design rules and mixed cultures from around the world. (paragraph 5)",
+    "Untrained in architecture or construction, he nonetheless had a vision. (paragraph 9)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

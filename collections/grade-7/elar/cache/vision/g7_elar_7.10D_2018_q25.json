@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 17 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after shelter"
+    },
+    {
+      "label": "B",
+      "text": "Change were to was"
+    },
+    {
+      "label": "C",
+      "text": "Change availible to available"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 17 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Akina wants to add support for the idea she has presented in sentence 13. Which sentence should replace sentence 13 to help accomplish this goal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Foley believed that if viewers, people who were watching the movie, could hear other sounds, the on-screen story, or the movie itself, the movie would feel more genuine and real."
+    },
+    {
+      "label": "B",
+      "text": "Foley believed that if viewers could hear other sounds, the on-screen story of the movie would feel more genuine and more real to them."
+    },
+    {
+      "label": "C",
+      "text": "Foley believed something and that is if viewers could hear other sounds, the story being told by the movie would feel more genuine."
+    },
+    {
+      "label": "D",
+      "text": "Foley believed that if viewers could hear other sounds, such as heels clicking, dresses rustling, or water sloshing, the story of the movie would feel more genuine."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

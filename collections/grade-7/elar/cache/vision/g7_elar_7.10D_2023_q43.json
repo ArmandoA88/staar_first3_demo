@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Some illustrate cars, street vendors, and businesses from his childhood; so others present scenes from Mexican-American history."
+    },
+    {
+      "label": "B",
+      "text": "Some illustrate cars, street vendors, and businesses. From his childhood, while others present scenes from Mexican-American history."
+    },
+    {
+      "label": "C",
+      "text": "Some illustrate cars, street vendors, and businesses. From his childhood, others present scenes from Mexican-American history."
+    },
+    {
+      "label": "D",
+      "text": "Some illustrate cars, street vendors, and businesses from his childhood; others present scenes from Mexican-American history."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

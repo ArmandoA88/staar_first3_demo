@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Len Fisher is a scientist who has made a career out of researching ordinary things in life."
+    },
+    {
+      "label": "B",
+      "text": "Len Fisher, a scientist making a career out of researching ordinary things in life."
+    },
+    {
+      "label": "C",
+      "text": "Len Fisher is a scientist. Who has made a career out of researching ordinary things in life."
+    },
+    {
+      "label": "D",
+      "text": "Sentence 6 is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

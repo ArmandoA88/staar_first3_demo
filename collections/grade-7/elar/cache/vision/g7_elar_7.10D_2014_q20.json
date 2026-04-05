@@ -1,0 +1,34 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert quotation marks at the beginning of the sentence"
+    },
+    {
+      "label": "G",
+      "text": "Change grocery store to Grocery Store"
+    },
+    {
+      "label": "H",
+      "text": "Change your to you\u2019re"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 13 does not need to be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change, if any, needs to be made in sentence 13?",
+    "F Insert quotation marks at the beginning of the sentence",
+    "G Change grocery store to Grocery Store",
+    "H Change your to you\u2019re",
+    "J Sentence 13 does not need to be changed."
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.98,
+  "notes": null
+}

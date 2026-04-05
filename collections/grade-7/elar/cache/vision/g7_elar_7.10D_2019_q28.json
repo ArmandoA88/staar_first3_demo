@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change say to said"
+    },
+    {
+      "label": "G",
+      "text": "Change there to they\u2019re"
+    },
+    {
+      "label": "H",
+      "text": "Delete with"
+    },
+    {
+      "label": "J",
+      "text": "Change subsaquent to subsequent"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 21?",
+    "F Change say to said",
+    "G Change there to they\u2019re",
+    "H Delete with",
+    "J Change subsaquent to subsequent"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

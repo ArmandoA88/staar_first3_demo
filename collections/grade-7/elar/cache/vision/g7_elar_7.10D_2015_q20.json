@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert a comma after work"
+    },
+    {
+      "label": "G",
+      "text": "Change Lucy and I to me and Lucy"
+    },
+    {
+      "label": "H",
+      "text": "Change headed to head"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in sentence 24."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q20 Passage #3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

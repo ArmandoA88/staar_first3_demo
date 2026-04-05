@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after surprised"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after coffee"
+    },
+    {
+      "label": "C",
+      "text": "Change good to well"
+    },
+    {
+      "label": "D",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

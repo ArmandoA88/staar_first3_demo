@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete When"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after mine"
+    },
+    {
+      "label": "H",
+      "text": "Change I let out to and let out"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 14 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

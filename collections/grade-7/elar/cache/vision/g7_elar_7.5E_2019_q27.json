@@ -1,0 +1,30 @@
+{
+  "stem": "Which is an action in the poem that is not described in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Storing food in tree bark"
+    },
+    {
+      "label": "B",
+      "text": "Allowing feet to become cold"
+    },
+    {
+      "label": "C",
+      "text": "Drinking water from icicles"
+    },
+    {
+      "label": "D",
+      "text": "Burning fat all night long"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

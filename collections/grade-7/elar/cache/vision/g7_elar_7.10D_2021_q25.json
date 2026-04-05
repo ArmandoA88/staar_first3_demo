@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Skywriting pilots targeted the crowds at fairgrounds, racetracks, and beaches. Although ads could stretch out across 15 miles and be seen up to 30 miles away."
+    },
+    {
+      "label": "B",
+      "text": "Skywriting pilots targeted the crowds at fairgrounds, racetracks, and beaches. So the ads could stretch out across 15 miles and be seen up to 30 miles away."
+    },
+    {
+      "label": "C",
+      "text": "Skywriting pilots targeted the crowds at fairgrounds, racetracks, and beaches. Ads could stretch out across 15 miles and be seen up to 30 miles away."
+    },
+    {
+      "label": "D",
+      "text": "Sentence 20 is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

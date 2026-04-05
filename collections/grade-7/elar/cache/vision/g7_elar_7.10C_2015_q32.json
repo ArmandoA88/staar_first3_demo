@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to revise sentence 32?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Mrs. Holister tries to help me and move on with the lesson for the rest of the class who understand."
+    },
+    {
+      "label": "G",
+      "text": "Mrs. Holister tries to help me, but once the rest of the class understands, she has to move on with the lesson."
+    },
+    {
+      "label": "H",
+      "text": "Mrs. Holister tries to help me, once the rest of the class understands, she has to move on with the lesson."
+    },
+    {
+      "label": "J",
+      "text": "Mrs. Holister tries to help the rest of the class, who understands, then she has to move on with the lesson."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 28?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete both commas"
+    },
+    {
+      "label": "G",
+      "text": "Change drink to drank"
+    },
+    {
+      "label": "H",
+      "text": "Change that to it"
+    },
+    {
+      "label": "J",
+      "text": "Change injured to injurred"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "30 What change needs to be made in sentence 28?",
+    "F Delete both commas",
+    "G Change drink to drank",
+    "H Change that to it",
+    "J Change injured to injurred"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

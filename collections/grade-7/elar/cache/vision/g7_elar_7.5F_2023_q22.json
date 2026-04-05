@@ -1,0 +1,33 @@
+{
+  "stem": "At the beginning of the article, it can be inferred that some people think robots are \u2014",
+  "instruction": "This question has two parts.\n\nPart A\nAt the beginning of the article, it can be inferred that some people think robots are \u2014",
+  "options": [
+    {
+      "label": "A",
+      "text": "an inappropriate use of technology"
+    },
+    {
+      "label": "B",
+      "text": "unnecessary in a home setting"
+    },
+    {
+      "label": "C",
+      "text": "objects to be feared"
+    },
+    {
+      "label": "D",
+      "text": "a threat to many industrial jobs"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A) an inappropriate use of technology",
+    "B) unnecessary in a home setting",
+    "C) objects to be feared",
+    "D) a threat to many industrial jobs"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "This is Part A of a 2-part question with 4 multiple choice options."
+}

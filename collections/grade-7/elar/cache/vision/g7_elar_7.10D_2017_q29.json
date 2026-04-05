@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 24 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change are usually operating to **is usually operating**"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "C",
+      "text": "Change they to **you**"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 24 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

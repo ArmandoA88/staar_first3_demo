@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 22 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change reduce to redluse"
+    },
+    {
+      "label": "B",
+      "text": "Insert a semicolon after landfills"
+    },
+    {
+      "label": "C",
+      "text": "Change protects to protect's"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 22 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 0.98,
+  "notes": "Original spelling 'redluse' retained as in image."
+}

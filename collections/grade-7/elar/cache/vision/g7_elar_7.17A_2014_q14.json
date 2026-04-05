@@ -1,0 +1,30 @@
+{
+  "stem": "What is the BEST way to combine sentences 12 and 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "There she helped care for several animals and a giant Gal\u00e1pagos land tortoise."
+    },
+    {
+      "label": "G",
+      "text": "There she helped care for several animals, Harriet, a giant Gal\u00e1pagos land tortoise."
+    },
+    {
+      "label": "H",
+      "text": "There she helped care for several animals, including Harriet, a giant Gal\u00e1pagos land tortoise."
+    },
+    {
+      "label": "J",
+      "text": "There she helped care for several animals, although one was Harriet, a giant Gal\u00e1pagos land tortoise."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

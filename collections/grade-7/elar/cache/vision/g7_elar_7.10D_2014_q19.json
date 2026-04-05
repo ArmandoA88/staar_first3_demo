@@ -1,0 +1,35 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after down"
+    },
+    {
+      "label": "B",
+      "text": "Change and to she"
+    },
+    {
+      "label": "C",
+      "text": "Change starred to stared"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q19 Passage #4",
+    "19 What change, if any, needs to be made in sentence 10?",
+    "A Insert a comma after down",
+    "B Change and to she",
+    "C Change starred to stared",
+    "D No change needs to be made."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

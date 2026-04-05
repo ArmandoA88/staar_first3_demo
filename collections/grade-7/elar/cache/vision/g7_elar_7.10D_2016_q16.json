@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change I to And"
+    },
+    {
+      "label": "G",
+      "text": "Change spread to spred"
+    },
+    {
+      "label": "H",
+      "text": "Change anyone to no one"
+    },
+    {
+      "label": "J",
+      "text": "Change elses to else's"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the MOST effective way to revise sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After a few years, he took a break to work as the foreman on his uncle\u2019s ranch."
+    },
+    {
+      "label": "B",
+      "text": "He took a break to work as the foreman after a few years on his uncle\u2019s ranch."
+    },
+    {
+      "label": "C",
+      "text": "After a few years to work as the foreman on his uncle\u2019s ranch, he took a break."
+    },
+    {
+      "label": "D",
+      "text": "He took a break after a few years, and he also worked on his uncle\u2019s ranch as the foreman."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

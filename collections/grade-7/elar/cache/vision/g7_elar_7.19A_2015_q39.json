@@ -1,0 +1,31 @@
+{
+  "stem": "What change needs to be made in sentence 32?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change seems to seemed"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after coming"
+    },
+    {
+      "label": "C",
+      "text": "Change from to it was from"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q39 Passage #6",
+    "39"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

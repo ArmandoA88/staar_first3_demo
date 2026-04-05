@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea could BEST follow and support sentence 34?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He was the first dog to ever earn a rank in any branch of the U.S. armed forces."
+    },
+    {
+      "label": "B",
+      "text": "He became the mascot for the university's football team, entertaining the crowd by pushing the ball around the field with his nose."
+    },
+    {
+      "label": "C",
+      "text": "During his war service, Stubby was reported to be sensitive to even a small trace of gas."
+    },
+    {
+      "label": "D",
+      "text": "Georgetown University, located in Washington, D.C., was founded in 1789 and is a private institution."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

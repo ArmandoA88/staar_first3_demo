@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 28?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Then Brown listens carefully. For the beeper placed next to the landing mat."
+    },
+    {
+      "label": "B",
+      "text": "Then Brown listens carefully for the beeper placed next to the landing mat."
+    },
+    {
+      "label": "C",
+      "text": "Then Brown listens carefully for the beeper it is placed. Next to the landing mat."
+    },
+    {
+      "label": "D",
+      "text": "The sentence is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

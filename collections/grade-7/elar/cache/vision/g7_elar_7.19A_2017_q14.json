@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change has even written to has even wrote"
+    },
+    {
+      "label": "G",
+      "text": "Change has even written to have even written"
+    },
+    {
+      "label": "H",
+      "text": "Change has even written to even writing"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

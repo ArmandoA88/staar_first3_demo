@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 36 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete the comma after companies"
+    },
+    {
+      "label": "B",
+      "text": "Change events to event's"
+    },
+    {
+      "label": "C",
+      "text": "Change writes to write"
+    },
+    {
+      "label": "D",
+      "text": "Change proposals to proposes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

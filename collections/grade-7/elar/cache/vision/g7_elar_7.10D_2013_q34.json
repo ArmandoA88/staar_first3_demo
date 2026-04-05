@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 7 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change pest-control technician to Pest-Control Technician"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma after house"
+    },
+    {
+      "label": "H",
+      "text": "Delete but"
+    },
+    {
+      "label": "J",
+      "text": "Change it to them"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

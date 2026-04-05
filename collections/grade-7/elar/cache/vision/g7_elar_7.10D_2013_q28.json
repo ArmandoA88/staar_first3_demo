@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 21 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change appropriate to apropriate"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after teenager"
+    },
+    {
+      "label": "H",
+      "text": "Delete no"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in sentence 21."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

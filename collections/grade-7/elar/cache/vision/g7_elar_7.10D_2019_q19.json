@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentences 23 and 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Cat caf\u00e9s are relatively new to America but have been popular. In other areas of the world for some time."
+    },
+    {
+      "label": "B",
+      "text": "Cat caf\u00e9s are relatively new to America and have been popular in other areas. Of the world for some time."
+    },
+    {
+      "label": "C",
+      "text": "Cat caf\u00e9s are relatively new to America, they have been popular in other areas of the world for some time."
+    },
+    {
+      "label": "D",
+      "text": "Cat caf\u00e9s are relatively new to America, but they have been popular in other areas of the world for some time."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to revise sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "For some of the slides, Cassilly welded together the chutes of old cement mixers."
+    },
+    {
+      "label": "B",
+      "text": "For some of the slides, the chutes and old cement mixers were welded together by Cassilly."
+    },
+    {
+      "label": "C",
+      "text": "Together the chutes of old cement mixtures were welded by Cassilly."
+    },
+    {
+      "label": "D",
+      "text": "The chutes were welded together by Cassilly for some of the slides by using old cement mixers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

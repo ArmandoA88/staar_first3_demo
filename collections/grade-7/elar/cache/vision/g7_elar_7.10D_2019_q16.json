@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Cat caf\u00e9s are exactly what the name suggests, being coffee shops that feature real, live cats."
+    },
+    {
+      "label": "G",
+      "text": "Cat caf\u00e9s are exactly what the name suggests: coffee shops that feature real, live cats."
+    },
+    {
+      "label": "H",
+      "text": "Cat caf\u00e9s are exactly what the name suggests, and coffee shops that feature real, live cats."
+    },
+    {
+      "label": "J",
+      "text": "Cat caf\u00e9s are exactly what the name suggests. Coffee shops that feature real, live cats."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

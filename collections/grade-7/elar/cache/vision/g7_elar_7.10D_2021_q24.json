@@ -1,0 +1,31 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change captain to Captain"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma after Mail"
+    },
+    {
+      "label": "H",
+      "text": "Change the name to it is the name"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q24 Passage #4",
+    "24"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

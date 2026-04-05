@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 7 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "G",
+      "text": "Change mom and dad to Mom and Dad"
+    },
+    {
+      "label": "H",
+      "text": "Change theirs to there's"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 7 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

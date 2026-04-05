@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST revision to make in sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I can walk to the bike store to get a tire fixed and straight to the park from a bike path."
+    },
+    {
+      "label": "B",
+      "text": "I can walk to the bike store to get a tire fixed, and then a bike path that takes me straight to the park is there."
+    },
+    {
+      "label": "C",
+      "text": "I can walk to the bike store to get a tire fixed, I can then follow a bike path that takes me straight to the park."
+    },
+    {
+      "label": "D",
+      "text": "I can walk to the bike store to get a tire fixed and then follow a bike path that takes me straight to the park."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change cat section to Cat Section"
+    },
+    {
+      "label": "B",
+      "text": "Change customers to customer's"
+    },
+    {
+      "label": "C",
+      "text": "Change friskyness to friskiness"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 16 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

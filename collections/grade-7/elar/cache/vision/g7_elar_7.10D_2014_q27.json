@@ -1,0 +1,31 @@
+{
+  "stem": "What change, if any, should be made in sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change foundation to foundaton"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after Lighthouse"
+    },
+    {
+      "label": "C",
+      "text": "Change excavatted to excavated"
+    },
+    {
+      "label": "D",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: 2014 - Q27 Passage #5",
+    "Question number 27 and options A, B, C, D as shown"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

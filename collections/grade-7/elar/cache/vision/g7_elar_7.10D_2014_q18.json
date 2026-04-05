@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change began to begins"
+    },
+    {
+      "label": "G",
+      "text": "Change the comma after casseroles to a period"
+    },
+    {
+      "label": "H",
+      "text": "Delete the comma after asking"
+    },
+    {
+      "label": "J",
+      "text": "Change didn\u2019t to Didn\u2019t"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "18",
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

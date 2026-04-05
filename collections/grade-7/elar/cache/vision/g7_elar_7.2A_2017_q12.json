@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best fits how critical is used in paragraph 1?",
+  "instruction": "Read the dictionary entry below.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "critical \\\u02c8kri-ti-k\u0259l\\ adj 1. relating to a stage of illness 2. tending to evaluate unfavorably 3. needed to serve a purpose 4. using careful judgment"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

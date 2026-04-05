@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change decide to decided"
+    },
+    {
+      "label": "G",
+      "text": "Change efficiency to efficiently"
+    },
+    {
+      "label": "H",
+      "text": "Change automated to automatted"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

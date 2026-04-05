@@ -1,0 +1,35 @@
+{
+  "stem": "Select the response that corrects the error in sentence 3.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "As she went to the table"
+    },
+    {
+      "label": null,
+      "text": "Because she was tired"
+    },
+    {
+      "label": null,
+      "text": "Excitedly"
+    },
+    {
+      "label": null,
+      "text": "Running quickly"
+    }
+  ],
+  "choice_pool": [
+    "As she went to the table",
+    "Because she was tired",
+    "Excitedly",
+    "Running quickly"
+  ],
+  "response_template": "[blank_1], she had found only clothes, books, and dishes that had seen far better days.",
+  "visual_elements": [
+    "dropdown box"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

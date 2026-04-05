@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Recognizing to Recognizing"
+    },
+    {
+      "label": "B",
+      "text": "Change was to were"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after indication"
+    },
+    {
+      "label": "D",
+      "text": "Change he to it"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What does this line suggest about the lake?",
+  "instruction": "Read line 8.\naround my deep, unchanging heart.",
+  "options": [
+    {
+      "label": "F",
+      "text": "The lake has lost something it dearly loved."
+    },
+    {
+      "label": "G",
+      "text": "The lake will continue to care for its visitors."
+    },
+    {
+      "label": "H",
+      "text": "The lake feels a sense of loneliness."
+    },
+    {
+      "label": "J",
+      "text": "The lake is angry at the world."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "around my deep, unchanging heart."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

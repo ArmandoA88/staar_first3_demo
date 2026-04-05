@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence should replace sentence 30 to bring this letter to a more effective closing?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "This has been a difficult letter for me to write, but I think that it\u2019s important for you and your employees to know about my family."
+    },
+    {
+      "label": "B",
+      "text": "I hope you will reconsider your store hours so that everyone in the area can continue to enjoy your delicious ice cream this winter."
+    },
+    {
+      "label": "C",
+      "text": "Your ice cream is so delicious, and due to this fact, I don\u2019t want to ever eat something stale from my freezer again."
+    },
+    {
+      "label": "D",
+      "text": "I am absolutely certain that everyone in our local community agrees with everything I have written to you in this letter today."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

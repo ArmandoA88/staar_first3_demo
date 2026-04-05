@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 5 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change insists to insisted"
+    },
+    {
+      "label": "G",
+      "text": "Insert hardly after wouldn't"
+    },
+    {
+      "label": "H",
+      "text": "Change hair to no hair"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 5 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

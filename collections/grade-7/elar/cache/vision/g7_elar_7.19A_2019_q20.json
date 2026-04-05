@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 27?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change lived to live"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after room"
+    },
+    {
+      "label": "H",
+      "text": "Change properly to proper"
+    },
+    {
+      "label": "J",
+      "text": "No change is needed in sentence 27."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

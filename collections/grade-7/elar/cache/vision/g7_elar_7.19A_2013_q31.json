@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, should be made in sentence 30?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change arrangements to arangements"
+    },
+    {
+      "label": "B",
+      "text": "Change is causing to are causing"
+    },
+    {
+      "label": "C",
+      "text": "Change a lot to alot"
+    },
+    {
+      "label": "D",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

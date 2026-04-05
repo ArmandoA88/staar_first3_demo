@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 23?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Those dollars could be spent on homes for the homeless. And on food for the hungry and research to find cures for diseases."
+    },
+    {
+      "label": "B",
+      "text": "Those dollars could be spent on homes for the homeless and food for the hungry. Also for research to find cures for diseases."
+    },
+    {
+      "label": "C",
+      "text": "Those dollars could be spent on homes for the homeless they could also be spent on food for the hungry and research to find cures for diseases."
+    },
+    {
+      "label": "D",
+      "text": "The sentence is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

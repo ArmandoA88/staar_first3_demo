@@ -1,0 +1,34 @@
+{
+  "stem": "What change should be made in sentence 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the comma after plastic"
+    },
+    {
+      "label": "G",
+      "text": "Change breaks to brakes"
+    },
+    {
+      "label": "H",
+      "text": "Change its to it\u2019s"
+    },
+    {
+      "label": "J",
+      "text": "Change used to uses"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "18",
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Nora would like to close the first paragraph (sentences 1\u20135) with a sentence that tells what the story is about. Which of the following should Nora add after sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "For Jayden\u2019s birthday they had wanted to do something special."
+    },
+    {
+      "label": "B",
+      "text": "The balloons would fly effortlessly across the sky."
+    },
+    {
+      "label": "C",
+      "text": "Today Jayden and his dad would be passengers on one of the balloons!"
+    },
+    {
+      "label": "D",
+      "text": "It was time for a birthday celebration!"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

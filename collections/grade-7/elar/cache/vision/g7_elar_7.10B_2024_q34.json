@@ -1,0 +1,30 @@
+{
+  "stem": "Onir wants to add this sentence to the second paragraph (sentences 3\u20136).  \n\nNow I was starting a new school year as a stranger, in a school building that felt like a maze.\n\nWhere should Onir add this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 3"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 4"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 5"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Now I was starting a new school year as a stranger, in a school building that felt like a maze."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

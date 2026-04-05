@@ -1,0 +1,33 @@
+{
+  "stem": "Macy has not used the most effective transition in sentence 17. Select the word or phrase that should replace In contrast in this sentence.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "In addition"
+    },
+    {
+      "label": null,
+      "text": "On the other hand"
+    },
+    {
+      "label": null,
+      "text": "For example"
+    },
+    {
+      "label": null,
+      "text": "In fact"
+    }
+  ],
+  "choice_pool": [
+    "In addition",
+    "On the other hand",
+    "For example",
+    "In fact"
+  ],
+  "response_template": "[blank_1], shoes that do not offer good support can further aggravate problems with weak ankles and heel pain.",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

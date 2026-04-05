@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Maggie would sit and listen to the sound of the waves when she missed him by the shore."
+    },
+    {
+      "label": "B",
+      "text": "When Maggie missed him, she would sit by the shore she would listen to the sound of the waves."
+    },
+    {
+      "label": "C",
+      "text": "Maggie would sit, and she would listen to the sound of the waves by the shore when she missed him."
+    },
+    {
+      "label": "D",
+      "text": "When Maggie missed him, she would sit by the shore and listen to the sound of the waves."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Extracted question and answer options as visible; no additional images or math included."
+}

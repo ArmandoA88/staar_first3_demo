@@ -1,0 +1,28 @@
+{
+  "stem": "Joe did not maintain a consistent point of view in the first paragraph of this paper. What revision should he make in sentence 5 to correct this problem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change she arrived to the dog arrived"
+    },
+    {
+      "label": "G",
+      "text": "Change you to humans"
+    },
+    {
+      "label": "H",
+      "text": "Change no one to they"
+    },
+    {
+      "label": "J",
+      "text": "Change she would become to it would become"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

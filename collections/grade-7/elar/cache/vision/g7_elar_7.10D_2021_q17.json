@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentences 20 and 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Once over the bar, the pole-vaulter lands on a soft mat."
+    },
+    {
+      "label": "B",
+      "text": "The pole-vaulter lands. On a soft mat once over the bar."
+    },
+    {
+      "label": "C",
+      "text": "Once over the bar, the pole-vaulter, lands on a soft mat."
+    },
+    {
+      "label": "D",
+      "text": "The pole-vaulter lands once over the bar. On a soft mat."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

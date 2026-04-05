@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 6 and 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Maggie loved to visit with Captain Frank while he was a grizzled old sailor whose creaking joints had forced him to retire from a life at sea."
+    },
+    {
+      "label": "G",
+      "text": "Maggie loved to visit with Captain Frank, a grizzled old sailor whose creaking joints had forced him to retire from a life at sea."
+    },
+    {
+      "label": "H",
+      "text": "Maggie loved to visit with Captain Frank and a grizzled old sailor whose creaking joints had forced him to retire from a life at sea."
+    },
+    {
+      "label": "J",
+      "text": "Maggie loved to visit with Captain Frank, he was a grizzled old sailor whose creaking joints had forced him to retire from a life at sea."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

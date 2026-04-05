@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 20 and 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The dog jumped up to greet them, sending bits of fur into the air."
+    },
+    {
+      "label": "G",
+      "text": "The dog jumped up to greet them. Which sent bits of fur into the air."
+    },
+    {
+      "label": "H",
+      "text": "The dog jumped up to greet them, this sent bits of fur into the air."
+    },
+    {
+      "label": "J",
+      "text": "The sentences are written correctly in the story."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

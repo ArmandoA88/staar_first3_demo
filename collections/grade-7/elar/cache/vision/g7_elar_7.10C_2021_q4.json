@@ -1,0 +1,28 @@
+{
+  "stem": "The meaning of sentence 20 is unclear. What change should Ben make to improve the clarity of this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change the museum to it"
+    },
+    {
+      "label": "G",
+      "text": "Change opened to began"
+    },
+    {
+      "label": "H",
+      "text": "Change they to visitors"
+    },
+    {
+      "label": "J",
+      "text": "Change delighted to thrilled"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

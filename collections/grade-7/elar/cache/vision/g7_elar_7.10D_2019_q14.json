@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change there to their"
+    },
+    {
+      "label": "G",
+      "text": "Change isn\u2019t to is"
+    },
+    {
+      "label": "H",
+      "text": "Change closely to closer"
+    },
+    {
+      "label": "J",
+      "text": "Change them to it"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

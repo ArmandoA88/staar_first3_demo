@@ -1,0 +1,30 @@
+{
+  "stem": "Akina would like to add the following sentence to the last paragraph (sentences 24\u201331).\n\nPerhaps that is because of the creativity and attention to detail that the job requires.\n\nWhere should this sentence be inserted?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 24"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 25"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 28"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 29"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Perhaps that is because of the creativity and attention to detail that the job requires."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

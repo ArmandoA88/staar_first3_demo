@@ -1,0 +1,33 @@
+{
+  "stem": "Milagros has not used the most effective transition in sentence 2. Which phrase should replace **however** in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "in the meantime"
+    },
+    {
+      "label": "B",
+      "text": "as a result"
+    },
+    {
+      "label": "C",
+      "text": "for instance"
+    },
+    {
+      "label": "D",
+      "text": "above all"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A in the meantime",
+    "B as a result",
+    "C for instance",
+    "D above all"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

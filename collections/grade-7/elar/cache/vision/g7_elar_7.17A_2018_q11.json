@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 23?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "For example, the iguana sneezes more often and more efficiently than any other animal is what a WebMD article states."
+    },
+    {
+      "label": "B",
+      "text": "For example, a WebMD article states that the iguana sneezes more often and more efficiently than any other animal."
+    },
+    {
+      "label": "C",
+      "text": "For example, a WebMD article states this, the iguana sneezes more often and more efficiently than any other animal."
+    },
+    {
+      "label": "D",
+      "text": "No revision is needed in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

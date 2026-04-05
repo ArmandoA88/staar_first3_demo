@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 35?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Resting on a blanket was a medium-size dog. Who had curly white hair and floppy ears."
+    },
+    {
+      "label": "B",
+      "text": "Resting on a blanket, a medium-size dog. She had curly white hair and floppy ears."
+    },
+    {
+      "label": "C",
+      "text": "Resting on a blanket, a medium-size dog with curly white hair and floppy ears."
+    },
+    {
+      "label": "D",
+      "text": "Resting on a blanket was a medium-size dog with curly white hair and floppy ears."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to revise sentence 26?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Donna Griffiths, who earned the Guinness World Record, had the longest sneezing fit in history when she was from Worcestershire, England."
+    },
+    {
+      "label": "G",
+      "text": "Donna Griffiths earned the Guinness World Record from Worcestershire, England, for the longest sneezing fit in history."
+    },
+    {
+      "label": "H",
+      "text": "Donna Griffiths was from Worcestershire, England, she earned the Guinness World Record for the longest sneezing fit in history."
+    },
+    {
+      "label": "J",
+      "text": "Donna Griffiths, from Worcestershire, England, earned the Guinness World Record for the longest sneezing fit in history."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

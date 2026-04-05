@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change without the to without no"
+    },
+    {
+      "label": "G",
+      "text": "Change contributions to contribution's"
+    },
+    {
+      "label": "H",
+      "text": "Insert a comma after scientists"
+    },
+    {
+      "label": "J",
+      "text": "Change there to their"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

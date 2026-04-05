@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change including to included"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma after Ford"
+    },
+    {
+      "label": "H",
+      "text": "Change its to their"
+    },
+    {
+      "label": "J",
+      "text": "Change ads to ad's"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

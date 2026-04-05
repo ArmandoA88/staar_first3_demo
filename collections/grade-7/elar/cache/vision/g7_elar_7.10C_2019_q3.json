@@ -1,0 +1,28 @@
+{
+  "stem": "Thomas has included an extraneous sentence in the fifth paragraph (sentences 20\u201324). Which sentence should be deleted from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 20"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 21"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 22"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 23"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

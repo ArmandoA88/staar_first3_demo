@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 14 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Educating to Educatting"
+    },
+    {
+      "label": "B",
+      "text": "Change are to is"
+    },
+    {
+      "label": "C",
+      "text": "Change things to thing's"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 14 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

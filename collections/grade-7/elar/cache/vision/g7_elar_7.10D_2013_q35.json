@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after me"
+    },
+    {
+      "label": "B",
+      "text": "Change Jack's to Jacks'"
+    },
+    {
+      "label": "C",
+      "text": "Insert quotation marks after the period"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

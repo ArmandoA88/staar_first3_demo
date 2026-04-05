@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 24 be revised?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "For more than an hour, Jayden, his father, and their fellow passengers floated high and floated way above the trees and the town."
+    },
+    {
+      "label": "G",
+      "text": "For more than an hour, Jayden, his father, and their fellow passengers floated high above the trees and the town, which was way up high."
+    },
+    {
+      "label": "H",
+      "text": "For more than an hour, Jayden, his father, and their fellow passengers floated they were high above the trees and the town."
+    },
+    {
+      "label": "J",
+      "text": "For more than an hour, Jayden, his father, and their fellow passengers floated high above the trees and the town."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

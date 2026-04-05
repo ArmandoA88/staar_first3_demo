@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the way the word flow is used in line 14?",
+  "instruction": "Read the dictionary entry below.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "flow \\\u02c8fl\u014d\\ n 1. the movement of liquid 2. an amount that passes through a specific point 3. uninterrupted progress 4. an energy transfer"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": "Extracted directly from image, preserving all text and formatting."
+}

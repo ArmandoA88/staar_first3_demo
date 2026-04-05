@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Chris Hadfield, a retired Canadian Space Agency astronaut, also says there are problems with our current technology."
+    },
+    {
+      "label": "B",
+      "text": "Chris Hadfield, a retired Canadian Space Agency astronaut, also saying there are problems with our current technology."
+    },
+    {
+      "label": "C",
+      "text": "Chris Hadfield is a retired Canadian Space Agency astronaut. Who also says there are problems with our current technology."
+    },
+    {
+      "label": "D",
+      "text": "Sentence 16 is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

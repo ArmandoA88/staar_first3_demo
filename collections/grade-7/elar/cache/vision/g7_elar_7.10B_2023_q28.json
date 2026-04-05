@@ -1,0 +1,28 @@
+{
+  "stem": "Rory has included a sentence in the first paragraph (sentences 1\u20137) that repeats information. Which sentence should be removed from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 3"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 4"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 5"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

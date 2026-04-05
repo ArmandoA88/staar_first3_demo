@@ -1,0 +1,32 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 29?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change weekends to weekend's"
+    },
+    {
+      "label": "G",
+      "text": "Change the comma after over to a semicolon"
+    },
+    {
+      "label": "H",
+      "text": "Change conversations to convarsations"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 29 does not need to be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bold",
+    "italics",
+    "letters F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

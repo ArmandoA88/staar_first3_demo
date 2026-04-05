@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Her older brother talked about climbing a \u201cfourteener,\u201d which is a mountain that surpasses 14,000 feet."
+    },
+    {
+      "label": "B",
+      "text": "Her older brother talked about climbing a \u201cfourteener.\u201d A mountain that surpasses 14,000 feet."
+    },
+    {
+      "label": "C",
+      "text": "Her older brother talked about it. Climbing a \u201cfourteener,\u201d which is a mountain that surpasses 14,000 feet."
+    },
+    {
+      "label": "D",
+      "text": "Her older brother talked about climbing a \u201cfourteener,\u201d which is a mountain it surpasses 14,000 feet."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

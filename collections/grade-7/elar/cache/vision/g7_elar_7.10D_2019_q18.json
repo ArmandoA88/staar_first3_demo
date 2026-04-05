@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change the comma to a colon"
+    },
+    {
+      "label": "G",
+      "text": "Insert never before allow"
+    },
+    {
+      "label": "H",
+      "text": "Change your to their"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Both of these sentences describe \u2014",
+  "instruction": "Read these sentences from the selections.",
+  "options": [
+    {
+      "label": "F",
+      "text": "how a new technology is supposed to function in a specific environment"
+    },
+    {
+      "label": "G",
+      "text": "the intended outcome of a project related to an environmental problem"
+    },
+    {
+      "label": "H",
+      "text": "how an environmental problem is a direct effect of the misuse of technology"
+    },
+    {
+      "label": "J",
+      "text": "the challenges scientists have encountered while trying to solve an environmental problem"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Robots on the Reef\nFollowing a simple set of rules, several robots would work as a team to seek out coral fragments that have broken off and cement the pieces to reefs.",
+    "Something Fishy\nThey hope the data will provide insight into the direct causes of the drop in the fish's reproduction rates."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

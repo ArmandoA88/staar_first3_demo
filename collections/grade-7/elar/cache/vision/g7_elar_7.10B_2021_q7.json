@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence should follow sentence 2 and serve as a controlling idea for Alicia's paper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A butterfly's wings are there for a reason."
+    },
+    {
+      "label": "B",
+      "text": "Wings are necessary for the butterfly's survival."
+    },
+    {
+      "label": "C",
+      "text": "A butterfly's wings are exceptionally gorgeous."
+    },
+    {
+      "label": "D",
+      "text": "Wings allow butterflies to fly in the sky."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

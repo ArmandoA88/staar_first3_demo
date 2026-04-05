@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Delaney's to Delaneys'"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after drove"
+    },
+    {
+      "label": "C",
+      "text": "Change chatted to chat"
+    },
+    {
+      "label": "D",
+      "text": "Change endless to endlessly"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 3?",
+    "A Change Delaney's to Delaneys'",
+    "B Delete the comma after drove",
+    "C Change chatted to chat",
+    "D Change endless to endlessly"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

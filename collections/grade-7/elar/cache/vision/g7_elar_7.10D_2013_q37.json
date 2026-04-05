@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jos\u00e9 Peruyero, a Florida dog trainer, explains that while a human can walk into a kitchen and know that a stew is cooking on the stove. A dog can be trained to distinguish a stew that has carrots in it from one that doesn\u2019t."
+    },
+    {
+      "label": "B",
+      "text": "Jos\u00e9 Peruyero is a Florida dog trainer who explains that while a human can walk into a kitchen and know that a stew is cooking on the stove, a dog can be trained. To distinguish a stew that has carrots in it from one that doesn\u2019t."
+    },
+    {
+      "label": "C",
+      "text": "Jos\u00e9 Peruyero is a Florida dog trainer. Who explains that while a human can walk into a kitchen and know that a stew is cooking on the stove, a dog can be trained to distinguish a stew that has carrots in it from one that doesn\u2019t."
+    },
+    {
+      "label": "D",
+      "text": "Jos\u00e9 Peruyero, a Florida dog trainer, explains that while a human can walk into a kitchen and know that a stew is cooking on the stove, a dog can be trained to distinguish a stew that has carrots in it from one that doesn\u2019t."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

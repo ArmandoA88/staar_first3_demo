@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence can BEST follow and support sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He had lived in the neighborhood for 40 years and was liked and respected by everyone."
+    },
+    {
+      "label": "B",
+      "text": "The neighbors across the street had moved in just a few months before we did."
+    },
+    {
+      "label": "C",
+      "text": "I was excited to learn that everyone planned to help decorate the neighborhood for the holidays."
+    },
+    {
+      "label": "D",
+      "text": "There were three kids on my street who were also in the seventh grade."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

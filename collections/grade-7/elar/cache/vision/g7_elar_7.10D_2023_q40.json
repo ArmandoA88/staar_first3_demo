@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change As to Even though"
+    },
+    {
+      "label": "B",
+      "text": "Change opened to opens"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after box"
+    },
+    {
+      "label": "D",
+      "text": "Change she to they"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

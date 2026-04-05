@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change **decades** to **decaids**"
+    },
+    {
+      "label": "B",
+      "text": "Change **has been painting** to **would have been painting**"
+    },
+    {
+      "label": "C",
+      "text": "Change **hometown** to **Hometown**"
+    },
+    {
+      "label": "D",
+      "text": "Insert a comma after **San Antonio**"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 32?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change _seperate_ to _separate_"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "H",
+      "text": "Change _feel_ to _fell_"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

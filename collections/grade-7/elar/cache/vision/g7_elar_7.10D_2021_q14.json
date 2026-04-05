@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "G",
+      "text": "Change imagine to imagining"
+    },
+    {
+      "label": "H",
+      "text": "Change the question mark to an exclamation point"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 6 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

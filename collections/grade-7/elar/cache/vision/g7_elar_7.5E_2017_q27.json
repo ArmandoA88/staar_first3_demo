@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from \"The Cutty Sark\" relates a similar idea?",
+  "instruction": "Read this sentence from \"Reinforcing the Past.\" In 1934 an attempt to stabilize the tower included injecting concrete into the stone foundation, but some of the concrete seeped under the foundation, causing the tower to lean even more.",
+  "options": [
+    {
+      "label": "A",
+      "text": "A clipper is a fast sailing ship, and the Cutty Sark s sleek hull made it ideal to serve in the tea trade between China and England."
+    },
+    {
+      "label": "B",
+      "text": "The trust closed the ship to the public in 2006, and an architectural firm began a long conservation project."
+    },
+    {
+      "label": "C",
+      "text": "Unfortunately, during the renovation in 2007, the ship caught fire when a vacuum cleaner was left on."
+    },
+    {
+      "label": "D",
+      "text": "The clipper was later used for training officers who served in the Royal Navy in World War II."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In 1934 an attempt to stabilize the tower included injecting concrete into the stone foundation, but some of the concrete seeped under the foundation, causing the tower to lean even more."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

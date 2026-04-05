@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete and"
+    },
+    {
+      "label": "G",
+      "text": "Change experienced to expereinced"
+    },
+    {
+      "label": "H",
+      "text": "Change there's to theirs"
+    },
+    {
+      "label": "J",
+      "text": "Change then to than"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

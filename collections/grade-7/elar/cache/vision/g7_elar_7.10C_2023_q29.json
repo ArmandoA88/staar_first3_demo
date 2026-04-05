@@ -1,0 +1,30 @@
+{
+  "stem": "What is the MOST effective way to revise sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Mom walked ahead and squinted to read the sign and was puzzled to read it."
+    },
+    {
+      "label": "B",
+      "text": "Puzzled, Mom walked ahead and squinted to read the sign."
+    },
+    {
+      "label": "C",
+      "text": "Mom was puzzled and squinting, and she read the sign, walking ahead."
+    },
+    {
+      "label": "D",
+      "text": "Puzzled and reading the sign, Mom squinted, who walked ahead."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The question text and four answer choices A, B, C, and D in rectangular boxes."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An hour later we had designs and sketches for a robot. Which could out-babysit any teenager!"
+    },
+    {
+      "label": "B",
+      "text": "An hour later we had designs and sketches, they were for a robot that could out-babysit any teenager!"
+    },
+    {
+      "label": "C",
+      "text": "An hour later we had designs and sketches. For a robot that could out-babysit any teenager!"
+    },
+    {
+      "label": "D",
+      "text": "An hour later we had designs and sketches for a robot that could out-babysit any teenager!"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

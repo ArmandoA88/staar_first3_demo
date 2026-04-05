@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective way to revise sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The exercise was regular and the diet was strict, Dudley grew trim and sleek, and he was able to make the first cut."
+    },
+    {
+      "label": "G",
+      "text": "With regular exercise and a strict diet, Dudley grew trim and sleek; he was able to make the first cut."
+    },
+    {
+      "label": "H",
+      "text": "The regular exercise and strict diet that caused Dudley to grow trim and sleek was able to make the first cut."
+    },
+    {
+      "label": "J",
+      "text": "With regular exercise the diet was strict, so Dudley grew trim and sleek; he was able to make the first cut."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

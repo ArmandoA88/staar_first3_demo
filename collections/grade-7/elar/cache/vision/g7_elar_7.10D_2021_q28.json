@@ -1,0 +1,35 @@
+{
+  "stem": "What change should be made in sentence 29?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change *eventually* to eventualy"
+    },
+    {
+      "label": "G",
+      "text": "Change *that* to what"
+    },
+    {
+      "label": "H",
+      "text": "Change *were* to was"
+    },
+    {
+      "label": "J",
+      "text": "Change *reliably* to reliable"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q28 Passage #4",
+    "28 What change should be made in sentence 29?",
+    "F Change *eventually* to eventualy",
+    "G Change *that* to what",
+    "H Change *were* to was",
+    "J Change *reliably* to reliable"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

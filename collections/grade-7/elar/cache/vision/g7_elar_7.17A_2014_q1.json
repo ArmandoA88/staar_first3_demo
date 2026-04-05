@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to combine sentences 2 and 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The officers took the dog to the Nuneaton Warwickshire Wildlife Sanctuary, this is a shelter for homeless animals."
+    },
+    {
+      "label": "B",
+      "text": "The officers took the dog to the Nuneaton Warwickshire Wildlife Sanctuary and a shelter for homeless animals."
+    },
+    {
+      "label": "C",
+      "text": "The officers, who took the dog to the Nuneaton Warwickshire Wildlife Sanctuary, had a shelter for homeless animals."
+    },
+    {
+      "label": "D",
+      "text": "The officers took the dog to the Nuneaton Warwickshire Wildlife Sanctuary, a shelter for homeless animals."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

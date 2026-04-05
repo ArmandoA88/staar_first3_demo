@@ -1,0 +1,34 @@
+{
+  "stem": "Which definition best matches the meaning of pitched in paragraph 6?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "pitch /\u02c8pich/ v",
+    "1. to throw with careful aim",
+    "2. to fall heavily forward",
+    "3. to make a proposal for something",
+    "4. to give one's share of the work"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "The problem asks which dictionary definition of 'pitched' fits the context in paragraph 6, based on the given dictionary entry for 'pitch'."
+}

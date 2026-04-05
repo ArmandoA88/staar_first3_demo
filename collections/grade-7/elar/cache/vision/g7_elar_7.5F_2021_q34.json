@@ -1,0 +1,30 @@
+{
+  "stem": "What do these lines reveal about the lake?",
+  "instruction": "Read lines 5 and 6.",
+  "options": [
+    {
+      "label": "F",
+      "text": "The lake is proud of how mature the listener has become."
+    },
+    {
+      "label": "G",
+      "text": "The lake understands that the listener has other priorities."
+    },
+    {
+      "label": "H",
+      "text": "The lake cannot relate to the listener as time passes."
+    },
+    {
+      "label": "J",
+      "text": "The lake is upset about having missed parts of the listener\u2019s life."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Out in the world, you grow, you change; you lead your busy life apart"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

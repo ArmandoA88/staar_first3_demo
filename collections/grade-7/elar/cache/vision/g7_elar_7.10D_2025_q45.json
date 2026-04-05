@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change \\textbf{Although} to \\textbf{Because}"
+    },
+    {
+      "label": "B",
+      "text": "Change \\textit{without} to \\textbf{without no}"
+    },
+    {
+      "label": "C",
+      "text": "Change the comma after \\textit{pay} to a semicolon"
+    },
+    {
+      "label": "D",
+      "text": "Change \\textbf{Adulthood} to \\textbf{adulthood}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

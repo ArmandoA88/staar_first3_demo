@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea is presented in both the article and the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Simple inventions can provide for basic necessities."
+    },
+    {
+      "label": "G",
+      "text": "Inventors can find ideas by carefully observing nature."
+    },
+    {
+      "label": "H",
+      "text": "Selecting the appropriate materials for an invention can be challenging."
+    },
+    {
+      "label": "J",
+      "text": "Inventions have the greatest chance of success when large companies manufacture them."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "26  Which idea is presented in both the article and the selection? F  Simple inventions can provide for basic necessities. G  Inventors can find ideas by carefully observing nature. H  Selecting the appropriate materials for an invention can be challenging. J  Inventions have the greatest chance of success when large companies manufacture them."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

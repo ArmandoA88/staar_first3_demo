@@ -1,0 +1,36 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 26?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *could not* to *could not never*"
+    },
+    {
+      "label": "B",
+      "text": "Change *advances* to advanses"
+    },
+    {
+      "label": "C",
+      "text": "Change *made* to *making*"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q27 Passage #4",
+    "27",
+    "What change, if any, needs to be made in sentence 26?",
+    "A Change *could not* to *could not never*",
+    "B Change *advances* to advanses",
+    "C Change *made* to *making*",
+    "D No change needs to be made."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence can **BEST** follow and support sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I'm trying to persuade my best friend Alisha to try a pair too because I am certain that she would love them."
+    },
+    {
+      "label": "B",
+      "text": "You should think about advertising these sandals in some of the sports magazines that kids my age read."
+    },
+    {
+      "label": "C",
+      "text": "These sandals are so comfortable that I want to wear them every day, even in the winter when it's cold outside."
+    },
+    {
+      "label": "D",
+      "text": "Please consider adding some more fun colors, like red or purple, for people like me, who would gladly purchase more than one pair."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

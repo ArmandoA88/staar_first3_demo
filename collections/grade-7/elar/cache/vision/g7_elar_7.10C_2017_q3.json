@@ -1,0 +1,30 @@
+{
+  "stem": "What is the BEST revision to make in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "All I can hear is the whoosh of the wind, the thunder of the car s metallic wheels, and the piercing shrieks of my fellow passengers."
+    },
+    {
+      "label": "B",
+      "text": "All I can hear is the whoosh of the wind and the thunder of the car s metallic wheels, I can also hear my fellow passengers who have piercing shrieks."
+    },
+    {
+      "label": "C",
+      "text": "All I can hear is the whoosh of the wind and the thunder of the car s metallic wheels and my fellow passengers and their piercing shrieks."
+    },
+    {
+      "label": "D",
+      "text": "All I can hear is the whoosh of the wind next to the thunder of the car s metallic wheels beside my fellow passengers who have piercing shrieks."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

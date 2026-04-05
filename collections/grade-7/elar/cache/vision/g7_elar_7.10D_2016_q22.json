@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change mom to Mom"
+    },
+    {
+      "label": "G",
+      "text": "Change while to she was"
+    },
+    {
+      "label": "H",
+      "text": "Change calendar to calender"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made in sentence 5."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentences 33 and 34?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To make matters worse, my brothers had complained during the entire meal."
+    },
+    {
+      "label": "B",
+      "text": "It got even worse, my brothers had complained during the entire meal."
+    },
+    {
+      "label": "C",
+      "text": "Even worse, my brothers had complained. During the entire meal."
+    },
+    {
+      "label": "D",
+      "text": "Sentences 33 and 34 are written correctly in the story."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

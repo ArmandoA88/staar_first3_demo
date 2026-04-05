@@ -1,0 +1,28 @@
+{
+  "stem": "Which inference about walking is supported by the information in paragraph 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Skilled athletes can complete their daily walk in a few minutes."
+    },
+    {
+      "label": "G",
+      "text": "People have trouble finding time in their day to walk."
+    },
+    {
+      "label": "H",
+      "text": "Longer walks may be difficult for beginners to complete."
+    },
+    {
+      "label": "J",
+      "text": "Moving at a fast pace makes walking a more enjoyable experience."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

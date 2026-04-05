@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 9 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change were to was"
+    },
+    {
+      "label": "G",
+      "text": "Change the comma to a semicolon"
+    },
+    {
+      "label": "H",
+      "text": "Insert a comma after people"
+    },
+    {
+      "label": "J",
+      "text": "Change supply's to supplies"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

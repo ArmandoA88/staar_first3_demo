@@ -1,0 +1,33 @@
+{
+  "stem": "What change needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change wedged to wedging"
+    },
+    {
+      "label": "B",
+      "text": "Change themselves to themselfs"
+    },
+    {
+      "label": "C",
+      "text": "Change through to threw"
+    },
+    {
+      "label": "D",
+      "text": "Insert a semicolon after space"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A) Change wedged to wedging",
+    "B) Change themselves to themselfs",
+    "C) Change through to threw",
+    "D) Insert a semicolon after space"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Sierra would like to add the following detail to the third paragraph (sentences 10-14). \n\nThere were no funds for quality food and no trainers to exercise the animals.\n\nWhere is the BEST place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "After sentence 11"
+    },
+    {
+      "label": "G",
+      "text": "After sentence 12"
+    },
+    {
+      "label": "H",
+      "text": "After sentence 13"
+    },
+    {
+      "label": "J",
+      "text": "After sentence 14"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There were no funds for quality food and no trainers to exercise the animals."
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 0.99,
+  "notes": null
+}

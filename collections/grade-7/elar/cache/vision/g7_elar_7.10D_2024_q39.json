@@ -1,0 +1,34 @@
+{
+  "stem": "What is the correct way to write sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Astronaut Scott Kelly wanted to help scientists. Learn more about this."
+    },
+    {
+      "label": "B",
+      "text": "Astronaut Scott Kelly wanted to help scientists. Who wanted to learn more about this."
+    },
+    {
+      "label": "C",
+      "text": "Astronaut Scott Kelly wanted to help scientists learn more about this."
+    },
+    {
+      "label": "D",
+      "text": "Astronaut Scott Kelly, who wanted to help scientists learn more about this."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the correct way to write sentence 3?",
+    "\u24b6 Astronaut Scott Kelly wanted to help scientists. Learn more about this.",
+    "\u24b7 Astronaut Scott Kelly wanted to help scientists. Who wanted to learn more about this.",
+    "\u24b8 Astronaut Scott Kelly wanted to help scientists learn more about this.",
+    "\u24b9 Astronaut Scott Kelly, who wanted to help scientists learn more about this."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

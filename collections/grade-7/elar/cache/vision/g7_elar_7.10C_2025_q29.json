@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to revise sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "This shoe is the perfect blend, in my opinion, of comfort and fashion and it's affordable."
+    },
+    {
+      "label": "B",
+      "text": "In my opinion, the perfect blend of comfort and fashion is what this shoe is, and it's affordable."
+    },
+    {
+      "label": "C",
+      "text": "In my opinion, this shoe is the perfect blend of comfort, fashion, and affordability."
+    },
+    {
+      "label": "D",
+      "text": "This shoe, in my opinion, is what I think is the perfect blend of comfort, fashion, and also affordable."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

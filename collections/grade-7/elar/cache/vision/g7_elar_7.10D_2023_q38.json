@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When she had volunteered to help Grandma clean out her attic. She had hoped there would be something wonderful hidden in its dusty corners."
+    },
+    {
+      "label": "B",
+      "text": "She had volunteered to help Grandma clean out her attic and at the time had hoped. That there would be something wonderful hidden in its dusty corners."
+    },
+    {
+      "label": "C",
+      "text": "When she had volunteered to help Grandma clean out her attic, she had hoped there would be something wonderful hidden in its dusty corners."
+    },
+    {
+      "label": "D",
+      "text": "She had volunteered to help Grandma clean out her attic, and at the time, she had hoped there would be something wonderful, it would be hidden in its dusty corners."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

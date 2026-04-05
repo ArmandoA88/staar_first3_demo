@@ -1,0 +1,30 @@
+{
+  "stem": "Select the response that corrects the spelling error in sentence 7.\n\nThey can help kids grow in",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "sience"
+    },
+    {
+      "label": null,
+      "text": "scence"
+    },
+    {
+      "label": null,
+      "text": "science"
+    }
+  ],
+  "choice_pool": [
+    "sience",
+    "scence",
+    "science"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "A dropdown menu with three options for correcting spelling"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change \\textit{investigations} to \\textbf{investagations}"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after \\textbf{combinations}"
+    },
+    {
+      "label": "H",
+      "text": "Change \\textit{teams'} to \\textbf{teams}"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Question text with answer choices"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

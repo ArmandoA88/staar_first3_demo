@@ -1,0 +1,34 @@
+{
+  "stem": "What change is needed in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change affects to effects"
+    },
+    {
+      "label": "B",
+      "text": "Change had to has"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after body"
+    },
+    {
+      "label": "D",
+      "text": "Change during to durring"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change is needed in sentence 6?",
+    "A Change affects to effects",
+    "B Change had to has",
+    "C Insert a comma after body",
+    "D Change during to durring"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

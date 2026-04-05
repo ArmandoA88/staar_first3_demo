@@ -1,0 +1,28 @@
+{
+  "stem": "Thomas needs to add a sentence to the end of the second paragraph (sentences 5-9) to bring the paragraph to a more effective closing. Which of the following should be added after sentence 9 to help close this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The basin is very different from anything I had seen before."
+    },
+    {
+      "label": "B",
+      "text": "We knew it was wrong to leave trash in the basin."
+    },
+    {
+      "label": "C",
+      "text": "The basin was a place that deserved to be saved."
+    },
+    {
+      "label": "D",
+      "text": "I wanted to explore the basin the first time I saw it."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

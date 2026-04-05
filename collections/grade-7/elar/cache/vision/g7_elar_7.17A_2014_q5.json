@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to revise sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The animals at the sanctuary were comforted when Jasmine's loving presence and gentle care comforted them."
+    },
+    {
+      "label": "B",
+      "text": "The animals at the sanctuary were comforted by Jasmine's loving presence and gentle care."
+    },
+    {
+      "label": "C",
+      "text": "The animals at the sanctuary were comforted by Jasmine, who had her loving presence and her gentle care."
+    },
+    {
+      "label": "D",
+      "text": "The animals at the sanctuary were comforted by Jasmine, her loving presence, and her gentle care."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

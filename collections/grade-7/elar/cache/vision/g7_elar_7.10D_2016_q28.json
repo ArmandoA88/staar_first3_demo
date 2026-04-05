@@ -1,0 +1,31 @@
+{
+  "stem": "How does sentence 24 need to be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change seeing to seen"
+    },
+    {
+      "label": "G",
+      "text": "Change recognized to reconized"
+    },
+    {
+      "label": "H",
+      "text": "Change and to they"
+    },
+    {
+      "label": "J",
+      "text": "Change him to them"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text",
+    "four answer choices labeled F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

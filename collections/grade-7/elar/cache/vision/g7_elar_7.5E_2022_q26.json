@@ -1,0 +1,35 @@
+{
+  "stem": "What is a theme that is present in BOTH the story \"Last Dance\" and the poem \"The Tree\"?",
+  "instruction": "Use Last Dance and The Tree to answer the following question.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Have the courage to live life to its fullest."
+    },
+    {
+      "label": "G",
+      "text": "Always be prepared to confide in loved ones."
+    },
+    {
+      "label": "H",
+      "text": "Have patience when striving to reach a goal."
+    },
+    {
+      "label": "J",
+      "text": "Never take for granted the small wonders of daily life."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "26 Use Last Dance and The Tree to answer the following question.",
+    "What is a theme that is present in BOTH the story \"Last Dance\" and the poem \"The Tree\"?",
+    "F Have the courage to live life to its fullest.",
+    "G Always be prepared to confide in loved ones.",
+    "H Have patience when striving to reach a goal.",
+    "J Never take for granted the small wonders of daily life."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

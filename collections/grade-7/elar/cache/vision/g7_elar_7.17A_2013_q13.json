@@ -1,0 +1,30 @@
+{
+  "stem": "Miles would like to add the following detail to the second paragraph (sentences 6-15).\n\nEventually only glass items remain on the belt, and these are dumped into their own container.\n\nWhere is the BEST place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 8"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 9"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 13"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text box with sentence: 'Eventually only glass items remain on the belt, and these are dumped into their own container.'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

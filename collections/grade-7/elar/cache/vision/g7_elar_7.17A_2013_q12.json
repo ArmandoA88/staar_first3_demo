@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to combine sentences 6 and 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The first stop for these items is probably a materials recovery facility, or MRF, where the real recycling takes place."
+    },
+    {
+      "label": "G",
+      "text": "The first stop for these items is probably a materials recovery facility, an MRF, this is where the real recycling takes place."
+    },
+    {
+      "label": "H",
+      "text": "The first stop for these items is probably a materials recovery facility, where the real recycling takes place, an MRF."
+    },
+    {
+      "label": "J",
+      "text": "The first stop for these items is probably a materials recovery facility and an MRF, where the real recycling takes place."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

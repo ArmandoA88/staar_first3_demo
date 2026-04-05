@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 35 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change came to comes"
+    },
+    {
+      "label": "G",
+      "text": "Change eighth to eight"
+    },
+    {
+      "label": "H",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 35 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

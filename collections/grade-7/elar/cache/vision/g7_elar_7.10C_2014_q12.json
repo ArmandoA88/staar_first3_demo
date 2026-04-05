@@ -1,0 +1,28 @@
+{
+  "stem": "One of the words Grace used in sentence 4 is inappropriate. What is the BEST change for her to make in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change legendary to famous"
+    },
+    {
+      "label": "G",
+      "text": "Change expert to authority"
+    },
+    {
+      "label": "H",
+      "text": "Change usually to commonly"
+    },
+    {
+      "label": "J",
+      "text": "Change known to thought of"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

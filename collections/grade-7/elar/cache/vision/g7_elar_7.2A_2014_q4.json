@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best fits the meaning of shadowing as it is used in paragraph 7?",
+  "instruction": "Read the dictionary entry below.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "shadow \\\\\u02c8sha-(\u02cc)d\u014d\\ v\n1. to shelter from light and heat\n2. to have colors that gradually pass one into another\n3. to follow or keep under observation\n4. to become dark"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 17?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change the comma after own to a period"
+    },
+    {
+      "label": "G",
+      "text": "Change disturbing to disterbing"
+    },
+    {
+      "label": "H",
+      "text": "Delete and"
+    },
+    {
+      "label": "J",
+      "text": "Change musican to musician"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q18 Passage #3"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

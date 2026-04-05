@@ -31,6 +31,12 @@ PROCESS_CODE_RE = re.compile(r"\d+\.\d+\([A-Z]\)")
 ORDINAL_POSITION_RE = re.compile(r"(\d+)(?:st|nd|rd|th)\s+option", re.I)
 PERCENT_TOKEN_RE = re.compile(r"^(NA|\d+)$", re.I)
 SLUG_RE = re.compile(r"[^a-z0-9]+")
+ENGLISH_COURSE_GRADE_MAP = {
+    "I": 9,
+    "II": 10,
+    "III": 11,
+    "IV": 12,
+}
 
 
 @dataclass
@@ -87,13 +93,47 @@ def infer_subject_and_grade(doc: fitz.Document) -> tuple[str | None, int | None]
     cover_text = doc.load_page(0).get_text("text")
     subject_match = re.search(r"\b(Math|Reading|Science|Social Studies|ELAR)\b", cover_text, re.I)
     grade_match = re.search(r"Grade\s+(\d+)", cover_text, re.I)
+    course_match = re.search(r"\bEnglish\s+(I{1,3}|IV)\b", cover_text, re.I)
     if subject_match:
         raw_subject = subject_match.group(1).upper()
         subject = "ELAR" if raw_subject == "ELAR" else subject_match.group(1).title()
     else:
         subject = None
-    grade = int(grade_match.group(1)) if grade_match else None
+    if grade_match:
+        grade = int(grade_match.group(1))
+    elif course_match:
+        grade = ENGLISH_COURSE_GRADE_MAP.get(course_match.group(1).upper())
+    else:
+        grade = None
     return subject, grade
+
+
+def load_collection_manifest(collection_root: Path) -> dict[str, Any]:
+    manifest_path = collection_root / "collection.json"
+    if not manifest_path.exists():
+        return {}
+    try:
+        payload = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+    return payload if isinstance(payload, dict) else {}
+
+
+def resolve_collection_metadata(doc: fitz.Document, collection_root: Path) -> tuple[str | None, int | None, str | None]:
+    subject, grade = infer_subject_and_grade(doc)
+    manifest = load_collection_manifest(collection_root)
+
+    manifest_subject = manifest.get("subject")
+    if isinstance(manifest_subject, str) and manifest_subject.strip():
+        subject = manifest_subject.strip()
+
+    manifest_grade = manifest.get("grade")
+    if isinstance(manifest_grade, int):
+        grade = manifest_grade
+
+    manifest_label = manifest.get("label")
+    collection_label = manifest_label.strip() if isinstance(manifest_label, str) and manifest_label.strip() else None
+    return subject, grade, collection_label
 
 
 def iter_large_image_rects(page: fitz.Page) -> list[fitz.Rect]:
@@ -799,6 +839,61 @@ def strip_json_fences(raw_text: str) -> str:
     return text
 
 
+def parse_vision_response_text(raw_text: str) -> dict[str, Any]:
+    text = strip_json_fences(raw_text)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        start = text.find("{")
+        end = text.rfind("}")
+        if start != -1 and end != -1 and end > start:
+            return json.loads(text[start : end + 1])
+        raise
+
+
+def extract_partial_stem(raw_text: str) -> str | None:
+    text = strip_json_fences(raw_text)
+    stem_match = re.search(r'"stem"\s*:\s*"(?P<stem>.*)', text, re.S)
+    if not stem_match:
+        return None
+    stem = stem_match.group("stem")
+    for marker in ['","instruction"', '", "instruction"', '"instruction"']:
+        marker_index = stem.find(marker)
+        if marker_index != -1:
+            stem = stem[:marker_index]
+            break
+    stem = (
+        stem.replace("\\n", "\n")
+        .replace("\\r", "\r")
+        .replace("\\t", "\t")
+        .replace('\\"', '"')
+        .replace("\\\\", "\\")
+        .strip()
+        .rstrip('"')
+    )
+    return normalize_space(stem) or None
+
+
+def build_incomplete_vision_payload(
+    item_metadata: dict[str, Any],
+    raw_text: str,
+    reason: str,
+) -> dict[str, Any]:
+    stem = extract_partial_stem(raw_text) or "See question image for the full prompt."
+    declared_item_type = normalize_item_type(item_metadata.get("declared_item_type_display"))
+    return {
+        "stem": stem,
+        "instruction": None,
+        "options": [],
+        "choice_pool": [],
+        "response_template": None,
+        "visual_elements": [],
+        "item_type_inferred": declared_item_type or "unknown",
+        "confidence": 0.0,
+        "notes": f"Vision extraction incomplete ({reason}). Use the original question image for exact wording.",
+    }
+
+
 def build_vision_prompt(item_metadata: dict[str, Any]) -> str:
     declared = item_metadata.get("declared_item_type_display") or "Unknown"
     return (
@@ -846,7 +941,7 @@ def extract_with_vision(
     data_url = f"data:image/png;base64,{encode_image(image_path)}"
     last_error: Exception | None = None
 
-    for attempt in range(1, 4):
+    for attempt in range(1, 6):
         try:
             response = client.responses.create(
                 model=model,
@@ -859,9 +954,15 @@ def extract_with_vision(
                         ],
                     }
                 ],
-                max_output_tokens=1200,
+                max_output_tokens=2000,
             )
-            parsed = json.loads(strip_json_fences(response.output_text))
+            incomplete_reason = getattr(getattr(response, "incomplete_details", None), "reason", None)
+            if incomplete_reason == "content_filter":
+                parsed = build_incomplete_vision_payload(item_metadata, response.output_text, incomplete_reason)
+                cache_path.parent.mkdir(parents=True, exist_ok=True)
+                cache_path.write_text(json.dumps(parsed, indent=2), encoding="utf-8")
+                return parsed
+            parsed = parse_vision_response_text(response.output_text)
             cache_path.parent.mkdir(parents=True, exist_ok=True)
             cache_path.write_text(json.dumps(parsed, indent=2), encoding="utf-8")
             return parsed
@@ -1191,6 +1292,7 @@ def build_catalog_payload(
     pdf_path: Path,
     subject: str | None,
     grade: int | None,
+    collection_label: str | None,
     items: list[dict[str, Any]],
     stimulus_groups: list[dict[str, Any]] | None = None,
 ) -> dict[str, Any]:
@@ -1201,6 +1303,7 @@ def build_catalog_payload(
         "item_count": len(items),
         "subject": subject,
         "grade": grade,
+        "collection_label": collection_label,
         "collection_root": collection_root.relative_to(root).as_posix(),
         "extraction_method": {
             "question_region": "Rendered page crop transcribed with OpenAI vision",
@@ -1243,6 +1346,7 @@ def process_standard_collection(
     doc: fitz.Document,
     subject: str | None,
     grade: int | None,
+    collection_label: str | None,
     client: OpenAI | None,
     question_image_postprocess: dict[str, Any] | None,
 ) -> int:
@@ -1322,6 +1426,7 @@ def process_standard_collection(
         pdf_path=pdf_path,
         subject=subject,
         grade=grade,
+        collection_label=collection_label,
         items=items,
     )
     output_json.parent.mkdir(parents=True, exist_ok=True)
@@ -1353,6 +1458,7 @@ def process_elar_collection(
     doc: fitz.Document,
     subject: str | None,
     grade: int | None,
+    collection_label: str | None,
     client: OpenAI | None,
     question_image_postprocess: dict[str, Any] | None,
 ) -> int:
@@ -1461,6 +1567,7 @@ def process_elar_collection(
         pdf_path=pdf_path,
         subject=subject,
         grade=grade,
+        collection_label=collection_label,
         items=items,
         stimulus_groups=stimulus_groups,
     )
@@ -1495,7 +1602,7 @@ def main() -> int:
         raise FileNotFoundError(pdf_path)
 
     doc = fitz.open(pdf_path)
-    subject, grade = infer_subject_and_grade(doc)
+    subject, grade, collection_label = resolve_collection_metadata(doc, collection_root)
     client = OpenAI() if (not args.skip_vision and os.environ.get("OPENAI_API_KEY")) else None
 
     if subject == "ELAR":
@@ -1511,6 +1618,7 @@ def main() -> int:
             doc=doc,
             subject=subject,
             grade=grade,
+            collection_label=collection_label,
             client=client,
             question_image_postprocess=question_image_postprocess,
         )
@@ -1527,6 +1635,7 @@ def main() -> int:
         doc=doc,
         subject=subject,
         grade=grade,
+        collection_label=collection_label,
         client=client,
         question_image_postprocess=question_image_postprocess,
     )

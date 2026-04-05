@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I jotted down some notes about the word's origin along with a couple of example sentences. Sure that the rest of the report would be a breeze."
+    },
+    {
+      "label": "B",
+      "text": "I jotted down some notes about the word's origin. Which along with a couple of example sentences meant that the rest of the report would be a breeze."
+    },
+    {
+      "label": "C",
+      "text": "I jotted down some notes about the word's origin along with a couple of example sentences. The rest of the report would be a breeze."
+    },
+    {
+      "label": "D",
+      "text": "The sentence is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to rewrite sentences 27 and 28?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "So in the best interest of my studies, my music, and my social life, I respectfully request that you let me have my own room."
+    },
+    {
+      "label": "B",
+      "text": "It's in the best interest of my studies, my music, and my social life, therefore, I respectfully request that you let me have my own room."
+    },
+    {
+      "label": "C",
+      "text": "It's in the best interest of my studies, my music, and my social life, so I respectfully request. That you let me have my own room."
+    },
+    {
+      "label": "D",
+      "text": "The sentences are written correctly in the passage."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 27 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change embarrassed to embarrassed"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "H",
+      "text": "Change started to start"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 27 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

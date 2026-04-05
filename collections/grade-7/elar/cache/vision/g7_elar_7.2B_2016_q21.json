@@ -1,0 +1,30 @@
+{
+  "stem": "What does the phrase resorted to mean in paragraph 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Do something as a last option"
+    },
+    {
+      "label": "B",
+      "text": "Make something important"
+    },
+    {
+      "label": "C",
+      "text": "Do something as a favor"
+    },
+    {
+      "label": "D",
+      "text": "Make something last longer"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

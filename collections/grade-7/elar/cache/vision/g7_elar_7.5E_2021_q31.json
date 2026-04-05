@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 5 of the selection \"Trees Rise in the Desert.\"  \n\nSlowly over the years, many of those who laughed at their neighbor have now joined him.",
+  "instruction": "Which sentence from the selection \"A Legacy of Stone\" illustrates a similar idea?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Forty-three-year-old Cheval continued collecting stones along his route for almost 20 years. (paragraph 4)"
+    },
+    {
+      "label": "B",
+      "text": "At night he labored by the light of an oil lamp. (paragraph 5)"
+    },
+    {
+      "label": "C",
+      "text": "But as his palace took shape, people\u2019s criticisms were replaced by awed respect. (paragraph 6)"
+    },
+    {
+      "label": "D",
+      "text": "Cheval\u2019s uniqueness helped him single-handedly create a marvel beyond duplication. (paragraph 9)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Slowly over the years, many of those who laughed at their neighbor have now joined him."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

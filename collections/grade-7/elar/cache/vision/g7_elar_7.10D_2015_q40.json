@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 34 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the quotation marks after the comma"
+    },
+    {
+      "label": "G",
+      "text": "Change he to He"
+    },
+    {
+      "label": "H",
+      "text": "Change irruption to eruption"
+    },
+    {
+      "label": "J",
+      "text": "No change is needed in sentence 34."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

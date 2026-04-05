@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 4 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change keepers's to keepers"
+    },
+    {
+      "label": "G",
+      "text": "Change maintain to maintane"
+    },
+    {
+      "label": "H",
+      "text": "Change anymore to no more"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 4 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

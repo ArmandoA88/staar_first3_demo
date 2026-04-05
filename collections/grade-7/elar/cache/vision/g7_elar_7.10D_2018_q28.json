@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 34 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change led to lead"
+    },
+    {
+      "label": "G",
+      "text": "Change more quieter to quieter"
+    },
+    {
+      "label": "H",
+      "text": "Insert a comma after kennel"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 34 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

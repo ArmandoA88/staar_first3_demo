@@ -1,0 +1,30 @@
+{
+  "stem": "Nora wants to expand on the idea she has expressed in sentence 23. Which sentence could BEST follow sentence 23?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The adventure of the day had only just begun."
+    },
+    {
+      "label": "B",
+      "text": "As the balloon got higher in the air, things on the ground got smaller and smaller."
+    },
+    {
+      "label": "C",
+      "text": "Soon people were the size of ants, and cars and trucks looked like toys."
+    },
+    {
+      "label": "D",
+      "text": "Everything on the ground looked different when viewed from the air."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "mc",
+  "confidence": 1,
+  "notes": null
+}

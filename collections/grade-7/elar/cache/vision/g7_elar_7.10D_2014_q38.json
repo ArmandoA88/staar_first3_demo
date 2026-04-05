@@ -1,0 +1,32 @@
+{
+  "stem": "How should sentence 31 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete when"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma after day"
+    },
+    {
+      "label": "H",
+      "text": "Change surprise to suprise"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: '2014 \u2014 Q38 Passage #6'",
+    "Question number 38 in bold",
+    "Four answer choices labeled F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}
