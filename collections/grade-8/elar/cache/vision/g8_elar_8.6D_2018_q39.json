@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Explorers Pasquale Scaturro and Gordon Brown traveled the length of the Nile River by boat. On their trip they saw mountains, deserts, gorges, waterfalls, and large cities. Their journey began in Ethiopia and ended in Egypt at the Mediterranean Sea. Some of the areas they traveled through were unsafe because of the harsh rapids, extreme heat, and hostile wildlife."
+    },
+    {
+      "label": "B",
+      "text": "The Nile River flows through 11 African countries. The river is the world's longest and has been important to many civilizations for thousands of years. In 2004 explorers Pasquale Scaturro and Gordon Brown paddled the river and made a film about their trip. Sometimes their boats flipped in the water, and they were even attacked by a crocodile."
+    },
+    {
+      "label": "C",
+      "text": "In 2004, Pasquale Scaturro and Gordon Brown became the first people to travel the entire Nile River by boat. Their 3,250-mile journey on the longest river in the world took four months. Though awed by the river's beauty, they also endured menacing conditions. Their trip helped them understand the significance of the Nile River to many African cultures."
+    },
+    {
+      "label": "D",
+      "text": "A geophysicist and explorer named Pasquale Scaturro paddled the Nile River with filmmaker Gordon Brown in 2004. The river measures more than 4,100 miles and flows past a variety of landscapes as well as ancient cities and the Egyptian pyramids. An IMAX film was made about their journey."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

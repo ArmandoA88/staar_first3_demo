@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 10 of the story \"Biking for Boots.\"\n\nAfter ten days of biking, we whooped with amazement when we realized over 2,000 people had \"liked\" our posts on social media.\n\nWhich sentence from the selection \"The Ride of a Lifetime!\" best conveys a SIMILAR idea?",
+  "instruction": "Use \"Biking for Boots\" and \"The Ride of a Lifetime!\" to answer the following question.",
+  "options": [
+    {
+      "label": "F",
+      "text": "People have crossed the country by bicycle, motorcycle, and even on foot. (paragraph 1)"
+    },
+    {
+      "label": "G",
+      "text": "Jack Abernathy helped his sons plan the trip. (paragraph 3)"
+    },
+    {
+      "label": "H",
+      "text": "They were allowed to cross creeks and rivers but only when the water was clear enough that they could see the bottom. (paragraph 3)"
+    },
+    {
+      "label": "J",
+      "text": "The press was eager to write about their adventure, and Americans were eager to read about it. (paragraph 6)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"After ten days of biking, we whooped with amazement when we realized over 2,000 people had \\\"liked\\\" our posts on social media.\" sentence in a box"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

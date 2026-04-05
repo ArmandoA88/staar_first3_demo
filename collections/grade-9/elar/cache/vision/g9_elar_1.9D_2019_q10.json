@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change beneficial to beneficial"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after people"
+    },
+    {
+      "label": "H",
+      "text": "Change healthier to healthiest"
+    },
+    {
+      "label": "J",
+      "text": "No change is needed in sentence 4."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

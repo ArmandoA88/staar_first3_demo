@@ -1,0 +1,30 @@
+{
+  "stem": "The main reason for building the vault in an isolated, underground location was to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "ensure that it would be difficult for people to retrieve seeds they put in the vault"
+    },
+    {
+      "label": "B",
+      "text": "decrease the amount of power necessary to keep the seeds at a cold temperature"
+    },
+    {
+      "label": "C",
+      "text": "minimize the number of people that would be necessary to monitor the vault"
+    },
+    {
+      "label": "D",
+      "text": "prevent outside events from damaging the contents of the vault"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text of question and four labeled answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

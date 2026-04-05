@@ -1,0 +1,30 @@
+{
+  "stem": "What does the playwright suggest about Samantha through the metaphor in this dialogue?",
+  "instruction": "Read Alyssa\u2019s dialogue from line 4.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Samantha has played with the orchestra longer than any other student has."
+    },
+    {
+      "label": "G",
+      "text": "Samantha has proved herself to be the most talented violinist in the orchestra."
+    },
+    {
+      "label": "H",
+      "text": "Samantha practices more than the other violinists in the orchestra."
+    },
+    {
+      "label": "J",
+      "text": "Samantha is envied by many of the other orchestra players."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "You\u2019re first violin\u2014you\u2019re the king of the hill!"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

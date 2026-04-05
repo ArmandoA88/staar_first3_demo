@@ -1,0 +1,35 @@
+{
+  "stem": "What change is needed in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *gradually* to *gradual*"
+    },
+    {
+      "label": "B",
+      "text": "Change *create* to *creates*"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after *ecosystem*"
+    },
+    {
+      "label": "D",
+      "text": "Change *marine* to *Marine*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q45 Passage #6",
+    "What change is needed in sentence 9?",
+    "A Change *gradually* to *gradual*",
+    "B Change *create* to *creates*",
+    "C Insert a comma after *ecosystem*",
+    "D Change *marine* to *Marine*"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

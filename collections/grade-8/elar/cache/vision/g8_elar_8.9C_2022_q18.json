@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes the map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To help the reader see which places around Lake Superior Emily most enjoyed"
+    },
+    {
+      "label": "G",
+      "text": "To demonstrate that certain areas of Lake Superior are easier to bike than others"
+    },
+    {
+      "label": "H",
+      "text": "To show the size of Lake Superior compared to smaller freshwater lakes"
+    },
+    {
+      "label": "J",
+      "text": "To help the reader understand why it takes weeks to ride around Lake Superior"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map titled 'Lake Superior Circle Tour Route' showing locations: Duluth, Kakabeka Falls, Thunder Bay, Marquette, Great Lakes Shipwreck Museum, Soo Locks Park; regional labels: Ontario, Canada, United States, Minnesota, Wisconsin, Michigan; with a tour route line connecting the locations."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Question refers to map from story 'Biking for Boots' and asks about author's purpose for including it."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence should come before sentence 11 to serve as an introductory sentence for the third paragraph (sentences 11\u201313)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Thomas\u2019s father looked at the dark clouds forming in the sky."
+    },
+    {
+      "label": "B",
+      "text": "Thomas\u2019s father knew almost all of the craftsmen in town."
+    },
+    {
+      "label": "C",
+      "text": "Thomas\u2019s father had nine other children back at the family farm."
+    },
+    {
+      "label": "D",
+      "text": "Thomas\u2019s father continued to offer encouraging words."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "multiple-choice"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

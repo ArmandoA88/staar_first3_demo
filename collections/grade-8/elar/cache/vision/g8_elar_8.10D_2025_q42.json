@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete the quotation marks at the beginning of the sentence"
+    },
+    {
+      "label": "B",
+      "text": "Change needs to needed"
+    },
+    {
+      "label": "C",
+      "text": "Change detailed to detailled"
+    },
+    {
+      "label": "D",
+      "text": "Delete the comma after poster"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 2?",
+    "A  Delete the quotation marks at the beginning of the sentence",
+    "B  Change needs to needed",
+    "C  Change detailed to detailled",
+    "D  Delete the comma after poster"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

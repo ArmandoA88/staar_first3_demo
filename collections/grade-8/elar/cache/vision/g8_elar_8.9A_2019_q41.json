@@ -1,0 +1,35 @@
+{
+  "stem": "What lesson is referred to in the title of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Andy learning to work with clothing by watching his father"
+    },
+    {
+      "label": "B",
+      "text": "Broden learning about fashion from Andy\u2019s clothing designs"
+    },
+    {
+      "label": "C",
+      "text": "Broden learning how to feel as proud of himself as Andy does"
+    },
+    {
+      "label": "D",
+      "text": "Andy learning the consequences of trying something different"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 \u2013 Q41 Passage #5",
+    "What lesson is referred to in the title of the story?",
+    "A Andy learning to work with clothing by watching his father",
+    "B Broden learning about fashion from Andy\u2019s clothing designs",
+    "C Broden learning how to feel as proud of himself as Andy does",
+    "D Andy learning the consequences of trying something different"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

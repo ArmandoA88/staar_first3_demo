@@ -1,0 +1,30 @@
+{
+  "stem": "Which phrase from paragraphs 1 and 2 best shows that human understanding of horses is changing?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "communicating with horses (paragraph 1)"
+    },
+    {
+      "label": "B",
+      "text": "behaved as if they understood (paragraph 1)"
+    },
+    {
+      "label": "C",
+      "text": "reading our moods, and communicating (paragraph 2)"
+    },
+    {
+      "label": "D",
+      "text": "taking a fresh look at the horse-end of this long relationship (paragraph 2)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice question with four options labeled A, B, C, and D."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

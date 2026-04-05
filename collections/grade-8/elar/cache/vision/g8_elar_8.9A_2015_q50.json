@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the information in the selection, how can customers benefit from being tracked by technology?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They can purchase different varieties of the products they usually buy."
+    },
+    {
+      "label": "G",
+      "text": "They can be made aware of offers and promotions specific to their needs."
+    },
+    {
+      "label": "H",
+      "text": "They can find out which products at the supermarket are the most popular."
+    },
+    {
+      "label": "J",
+      "text": "They can look up which products they have purchased before."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

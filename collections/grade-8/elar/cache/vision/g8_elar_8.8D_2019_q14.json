@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best expresses the main idea of paragraph 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Modern highways and bridges are often constructed with concrete."
+    },
+    {
+      "label": "G",
+      "text": "Concrete was used by ancient Romans to build massive structures."
+    },
+    {
+      "label": "H",
+      "text": "The demand for concrete has doubled in the last decade."
+    },
+    {
+      "label": "J",
+      "text": "Concrete has been and continues to be an important building material."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

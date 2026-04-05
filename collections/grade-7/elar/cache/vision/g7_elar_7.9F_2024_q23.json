@@ -1,0 +1,30 @@
+{
+  "stem": "How does the author's use of language in this sentence contribute to the tone of the selection?",
+  "instruction": "Read this sentence from paragraph 3.\n\n_PB began in the 1980s and is now used in over 3,000 cities worldwide._",
+  "options": [
+    {
+      "label": "A",
+      "text": "By providing a fact and a statistic, it creates an informative tone."
+    },
+    {
+      "label": "B",
+      "text": "By sharing a detailed description, it creates a convincing tone."
+    },
+    {
+      "label": "C",
+      "text": "By highlighting the history of the topic, it creates a serious tone."
+    },
+    {
+      "label": "D",
+      "text": "By including a number and a date, it creates a positive tone."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "_PB began in the 1980s and is now used in over 3,000 cities worldwide._"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

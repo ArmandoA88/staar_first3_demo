@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best summarizes the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Automobile companies Oldsmobile, Winton, and Packard sponsored road trips like the one that Dr. Horatio Nelson Jackson made across the United States in order to help promote sales during the early years of car manufacturing."
+    },
+    {
+      "label": "B",
+      "text": "When Dr. Horatio Nelson Jackson accepted a bet that he could travel across the United States in three months or less, he did not realize the trip would cost him what was considered to be a huge amount of money in that time period."
+    },
+    {
+      "label": "C",
+      "text": "Dr. Horatio Nelson Jackson decided to take a road trip in a car across the United States, and he did not let the many problems he encountered during the long journey prevent him from reaching his goal in less than three months."
+    },
+    {
+      "label": "D",
+      "text": "The road trip that Dr. Horatio Nelson Jackson made across the United States created a tremendous amount of media attention, and the interest from the public caused him significant problems during the journey."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

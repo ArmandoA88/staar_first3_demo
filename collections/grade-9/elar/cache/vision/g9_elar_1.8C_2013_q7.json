@@ -1,0 +1,28 @@
+{
+  "stem": "What is the primary purpose of the map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To help the reader identify the selection's setting"
+    },
+    {
+      "label": "B",
+      "text": "To show which countries border India"
+    },
+    {
+      "label": "C",
+      "text": "To illustrate the distance between New Delhi and Mumbai"
+    },
+    {
+      "label": "D",
+      "text": "To allow the reader to visualize the selection's details"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

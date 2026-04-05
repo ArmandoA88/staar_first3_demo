@@ -1,0 +1,35 @@
+{
+  "stem": "Select the response that corrects the spelling error in sentence 2.\n\nBefore we could even ask him what was going on, he bubbled over with _________.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "happyness"
+    },
+    {
+      "label": null,
+      "text": "happiness"
+    },
+    {
+      "label": null,
+      "text": "happines"
+    },
+    {
+      "label": null,
+      "text": "happinness"
+    }
+  ],
+  "choice_pool": [
+    "happyness",
+    "happiness",
+    "happines",
+    "happinness"
+  ],
+  "response_template": "Before we could even ask him what was going on, he bubbled over with [blank_1].",
+  "visual_elements": [
+    "dropdown box"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.98,
+  "notes": null
+}

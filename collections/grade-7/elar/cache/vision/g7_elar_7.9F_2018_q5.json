@@ -1,0 +1,30 @@
+{
+  "stem": "The author includes the figurative language in this sentence to show that Alyssa \u2014",
+  "instruction": "Read paragraph 23 from the story.\n\nThen I heard a whining sound from a corner of the barn and almost vaulted to the ceiling.",
+  "options": [
+    {
+      "label": "A",
+      "text": "feels excited about her discovery"
+    },
+    {
+      "label": "B",
+      "text": "is startled by the unexpected noise"
+    },
+    {
+      "label": "C",
+      "text": "has a sudden inspiration for an online post"
+    },
+    {
+      "label": "D",
+      "text": "thinks she should not be in the barn"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Then I heard a whining sound from a corner of the barn and almost vaulted to the ceiling."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

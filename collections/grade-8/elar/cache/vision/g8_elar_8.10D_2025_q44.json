@@ -1,0 +1,16 @@
+{
+  "stem": "Select the correct tense for the verb Blaire is using in sentence 5.",
+  "instruction": null,
+  "options": [],
+  "choice_pool": [
+    "present tense",
+    "past tense",
+    "future tense",
+    "present perfect tense"
+  ],
+  "response_template": "They stood up and walked toward a table in the middle of the room, but an uncomfortable tension [blank_1] in the air.",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

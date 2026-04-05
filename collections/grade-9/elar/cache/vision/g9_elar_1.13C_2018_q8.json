@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 20 be revised?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To enhance their surroundings, installing fake windows and decorative drapes helped some people."
+    },
+    {
+      "label": "G",
+      "text": "To enhance their surroundings, some people install fake windows and they also use decorative drapes."
+    },
+    {
+      "label": "H",
+      "text": "To enhance their surroundings, fake windows with decorative drapes are installed by some people to help them."
+    },
+    {
+      "label": "J",
+      "text": "To enhance their surroundings, some people install fake windows with decorative drapes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

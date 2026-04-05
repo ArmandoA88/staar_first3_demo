@@ -1,0 +1,34 @@
+{
+  "stem": "What is the correct way to write sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Instead of looking discouraged, Elijah's mother looking excited and quickly saying, \u201cMaybe we could have joint yard sales."
+    },
+    {
+      "label": "B",
+      "text": "Instead of looking discouraged. Elijah's mother looked excited and quickly said, \u201cMaybe we could have joint yard sales."
+    },
+    {
+      "label": "C",
+      "text": "Instead of looking discouraged, Elijah's mother looked excited and quickly said, \u201cMaybe we could have joint yard sales."
+    },
+    {
+      "label": "D",
+      "text": "Instead of looking discouraged, Elijah's mother looked excited. And quickly said, \u201cMaybe we could have joint yard sales."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the correct way to write sentence 7?",
+    "A Instead of looking discouraged, Elijah\u2019s mother looking excited and quickly saying, \u201cMaybe we could have joint yard sales.",
+    "B Instead of looking discouraged. Elijah\u2019s mother looked excited and quickly said, \u201cMaybe we could have joint yard sales.",
+    "C Instead of looking discouraged, Elijah\u2019s mother looked excited and quickly said, \u201cMaybe we could have joint yard sales.",
+    "D Instead of looking discouraged, Elijah\u2019s mother looked excited. And quickly said, \u201cMaybe we could have joint yard sales."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

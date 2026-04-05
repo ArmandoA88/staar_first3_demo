@@ -1,0 +1,35 @@
+{
+  "stem": "What change should Jazmin make in sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete the comma after fault"
+    },
+    {
+      "label": "B",
+      "text": "Change break to brake"
+    },
+    {
+      "label": "C",
+      "text": "Change tektonic to tectonic"
+    },
+    {
+      "label": "D",
+      "text": "Change have shifted to have shifts"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q11 Passage #3",
+    "11 What change should Jazmin make in sentence 11?",
+    "A Delete the comma after fault",
+    "B Change break to brake",
+    "C Change tektonic to tectonic",
+    "D Change have shifted to have shifts"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

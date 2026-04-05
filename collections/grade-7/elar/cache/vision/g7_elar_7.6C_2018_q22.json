@@ -1,0 +1,30 @@
+{
+  "stem": "The author focuses on a unique feature of the Namib beetle in order to highlight how the beetle \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "could serve as a source of water for desert travelers"
+    },
+    {
+      "label": "G",
+      "text": "struggles to survive in a dry part of the world"
+    },
+    {
+      "label": "H",
+      "text": "uses its wings to stay cool in an arid environment"
+    },
+    {
+      "label": "J",
+      "text": "is able to provide itself with water in the absence of rain"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

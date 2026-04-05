@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change **are benefiting** to **is benefiting**"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after **opportunities**"
+    },
+    {
+      "label": "C",
+      "text": "Change **helped** to **helps**"
+    },
+    {
+      "label": "D",
+      "text": "Change **economy** to **Economy**"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

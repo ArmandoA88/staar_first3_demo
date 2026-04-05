@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective way to combine sentences 10 and 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "This idea of taxation without representation is part of the reason our forefathers were determined, who wanted to separate from Great Britain and form their own nation."
+    },
+    {
+      "label": "G",
+      "text": "This idea of taxation without representation is part of the reason our forefathers were determined to separate from Great Britain and form their own nation."
+    },
+    {
+      "label": "H",
+      "text": "This idea of taxation without representation is part of the reason our forefathers were determined because they separated from Great Britain and formed their own nation."
+    },
+    {
+      "label": "J",
+      "text": "This idea of taxation without representation is part of the reason our forefathers were determined separating from Great Britain and forming their own nation."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

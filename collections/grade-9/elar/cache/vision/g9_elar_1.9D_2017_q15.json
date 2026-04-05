@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete where"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after class"
+    },
+    {
+      "label": "C",
+      "text": "Change a lot to alot"
+    },
+    {
+      "label": "D",
+      "text": "Change means to had meant"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

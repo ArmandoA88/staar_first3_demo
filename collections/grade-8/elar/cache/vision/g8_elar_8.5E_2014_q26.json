@@ -1,0 +1,31 @@
+{
+  "stem": "Read these lines from the poem.\n\nWhat a treasure to own!\nMy own flesh, my own feelings.\n\nWhich sentence from the story relates a similar idea?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Janis had seemed so confident, but she was just as self-conscious as me."
+    },
+    {
+      "label": "G",
+      "text": "This was because I had never been part of any particular group."
+    },
+    {
+      "label": "H",
+      "text": "Behind my drum set was the one place I felt completely like myself."
+    },
+    {
+      "label": "J",
+      "text": "It was the perfect place to practice my drumming without anyone bothering me or judging me."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What a treasure to own!",
+    "My own flesh, my own feelings."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

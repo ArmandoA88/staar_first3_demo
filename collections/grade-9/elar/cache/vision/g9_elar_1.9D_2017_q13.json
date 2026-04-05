@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 30?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change deserves to deserved"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "C",
+      "text": "Change Oasis to oasis"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made in sentence 30."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

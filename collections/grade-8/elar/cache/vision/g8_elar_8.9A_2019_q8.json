@@ -1,0 +1,30 @@
+{
+  "stem": "The sensory language in this sentence best reveals the author's \u2014",
+  "instruction": "Read this sentence from paragraph 8.\n\nFor the first time on our journey, we walked out on deck and felt the sweet bite of the cold, clean air on our faces.",
+  "options": [
+    {
+      "label": "F",
+      "text": "sense of relief and accomplishment at having arrived in Antarctica"
+    },
+    {
+      "label": "G",
+      "text": "understanding of the extreme weather conditions in Antarctica"
+    },
+    {
+      "label": "H",
+      "text": "frustration at having been kept in his cabin for most of the voyage"
+    },
+    {
+      "label": "J",
+      "text": "feeling of anticipation to soon be interacting with the penguins"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "For the first time on our journey, we walked out on deck and felt the sweet bite of the cold, clean air on our faces."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Based on this information, what is the meaning of immersed in paragraph 4?",
+  "instruction": "Read the information about the origin of the word immerse.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Spent time relaxing"
+    },
+    {
+      "label": "B",
+      "text": "Became deeply engaged"
+    },
+    {
+      "label": "C",
+      "text": "Asked for advice"
+    },
+    {
+      "label": "D",
+      "text": "Developed new designs"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "from Latin immersus, meaning \u201cplunged in or submerged\u201d"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

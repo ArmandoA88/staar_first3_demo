@@ -1,0 +1,34 @@
+{
+  "stem": "How is the first sentence of the excerpt important to the plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It foreshadows the resolution."
+    },
+    {
+      "label": "B",
+      "text": "It introduces the main character."
+    },
+    {
+      "label": "C",
+      "text": "It initiates the main conflict."
+    },
+    {
+      "label": "D",
+      "text": "It presents an unanswered question."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "How is the first sentence of the excerpt important to the plot?",
+    "A  It foreshadows the resolution.",
+    "B  It introduces the main character.",
+    "C  It initiates the main conflict.",
+    "D  It presents an unanswered question."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "What change is needed in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change **started** to **starting**"
+    },
+    {
+      "label": "B",
+      "text": "Change **identified** to **idintified**"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after **values**"
+    },
+    {
+      "label": "D",
+      "text": "Delete the quotation marks after *Friday*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

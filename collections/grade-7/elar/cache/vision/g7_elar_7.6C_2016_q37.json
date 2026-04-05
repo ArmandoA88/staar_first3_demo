@@ -1,0 +1,31 @@
+{
+  "stem": "Which of these best describes how the speaker feels about the snake?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Frightened that it will cause her harm"
+    },
+    {
+      "label": "B",
+      "text": "Eager to offer it assistance"
+    },
+    {
+      "label": "C",
+      "text": "Sympathetic to its situation"
+    },
+    {
+      "label": "D",
+      "text": "Impatient because it is in her way"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q37 Passage #5",
+    "37"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

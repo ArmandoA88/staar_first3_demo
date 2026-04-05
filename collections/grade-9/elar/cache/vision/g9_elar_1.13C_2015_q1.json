@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to revise sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They enjoyed playing video games, they bowled and watched movies together."
+    },
+    {
+      "label": "B",
+      "text": "They enjoyed playing video games, bowling, and watching movies together."
+    },
+    {
+      "label": "C",
+      "text": "They enjoyed playing video games and watched movies together and bowling."
+    },
+    {
+      "label": "D",
+      "text": "They enjoyed playing video games, while they also enjoyed movie watching and bowling."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

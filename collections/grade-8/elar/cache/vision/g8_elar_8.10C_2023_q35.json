@@ -1,0 +1,35 @@
+{
+  "stem": "What revision, if any, should be made in sentence 23?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Mr. Lamb showed Thomas to a tiny room and straw mattress after a simple supper where he gratefully sank down."
+    },
+    {
+      "label": "B",
+      "text": "After a simple supper, Mr. Lamb showed Thomas to a tiny room, where he gratefully sank down on the straw mattress."
+    },
+    {
+      "label": "C",
+      "text": "Mr. Lamb showed Thomas to a tiny room, where he gratefully sank down after a simple supper and a straw mattress."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q35 Passage #5",
+    "What revision, if any, should be made in sentence 23?",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

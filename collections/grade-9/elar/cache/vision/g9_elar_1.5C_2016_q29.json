@@ -1,0 +1,30 @@
+{
+  "stem": "What is the primary purpose of the photos of Pat Summitt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show how she became famous over time"
+    },
+    {
+      "label": "B",
+      "text": "To portray both her successes and failures"
+    },
+    {
+      "label": "C",
+      "text": "To represent different aspects of her career"
+    },
+    {
+      "label": "D",
+      "text": "To highlight differences in her attitude over time"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

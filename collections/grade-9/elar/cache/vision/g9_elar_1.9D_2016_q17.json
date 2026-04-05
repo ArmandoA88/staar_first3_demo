@@ -1,0 +1,31 @@
+{
+  "stem": "How should sentence 4 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change were to are"
+    },
+    {
+      "label": "B",
+      "text": "Change sophistacated to sophisticated"
+    },
+    {
+      "label": "C",
+      "text": "Delete and"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 4 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q17 Passage #4",
+    "17"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

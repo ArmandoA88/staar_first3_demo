@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence supports the belief that online education will be more widespread in the future?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Students involved in extracurricular activities, those who have been hospitalized, or those who are behind in earning required credits can meet their educational needs through enrollment in online classes."
+    },
+    {
+      "label": "B",
+      "text": "U.S. Education Secretary Arne Duncan believes so strongly in virtual education that he helped budget $500 million for the development of online precollege and college courses over the next 10 years."
+    },
+    {
+      "label": "C",
+      "text": "A 2009 Department of Education report suggests that students enrolled in online classes performed better than those in traditional schools."
+    },
+    {
+      "label": "D",
+      "text": "This \"classroom\" experience is far different than anything they did in school."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "There is a redundant sentence in the third paragraph (sentences 11\u201321). Which of these sentences unnecessarily repeats information and should be deleted?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sentence 14"
+    },
+    {
+      "label": "G",
+      "text": "Sentence 15"
+    },
+    {
+      "label": "H",
+      "text": "Sentence 18"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 21"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

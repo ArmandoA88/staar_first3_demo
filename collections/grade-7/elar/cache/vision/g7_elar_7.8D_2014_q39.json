@@ -1,0 +1,34 @@
+{
+  "stem": "Look at the diagram of information from the article. Which of the following belongs in the empty box?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Over time fewer people visited the Gettysburg cyclorama."
+    },
+    {
+      "label": "B",
+      "text": "A military park displayed the Gettysburg cyclorama."
+    },
+    {
+      "label": "C",
+      "text": "The top section was cut from the Gettysburg cyclorama."
+    },
+    {
+      "label": "D",
+      "text": "People donated objects to display with the Gettysburg cyclorama."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Paul Philippoteaux painted the Gettysburg cyclorama.",
+    "Versions of the Gettysburg cyclorama were displayed in Chicago and Boston.",
+    "[empty box]",
+    "The Gettysburg cyclorama was sold to an entrepreneur.",
+    "The government bought the Gettysburg cyclorama."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

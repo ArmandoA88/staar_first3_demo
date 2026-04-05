@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the play?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A boy is humiliated when he forgets the words to the national anthem while singing at a football game, but his friend helps him understand that many people have made similar mistakes."
+    },
+    {
+      "label": "G",
+      "text": "A boy is surprised to learn that he was filmed while singing the national anthem, but his friend promises to erase the recording."
+    },
+    {
+      "label": "H",
+      "text": "A boy is angry when he finishes singing the national anthem at a football game, but his friend persuades him to sing a different song later so that he can feel better."
+    },
+    {
+      "label": "J",
+      "text": "A boy is upset when he forgets the words to the national anthem, but his friend compliments his voice and makes him feel better."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

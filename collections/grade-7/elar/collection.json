@@ -1,0 +1,19 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-7-elar",
+  "label": "Grade 7 ELAR",
+  "grade": 7,
+  "subject": "ELAR",
+  "status": "ready",
+  "root": "collections/grade-7/elar",
+  "source_pdf": "collections/grade-7/elar/source/elar7.pdf",
+  "catalog": "collections/grade-7/elar/data/staar_catalog.json",
+  "reports": {
+    "coverage_csv": "collections/grade-7/elar/reports/pdf_coverage_report.csv",
+    "coverage_md": "collections/grade-7/elar/reports/pdf_coverage_report.md",
+    "coverage_summary_json": "collections/grade-7/elar/reports/pdf_coverage_summary.json"
+  },
+  "images_dir": "collections/grade-7/elar/images/extracted",
+  "stimulus_images_dir": "collections/grade-7/elar/images/stimuli",
+  "vision_cache_dir": "collections/grade-7/elar/cache/vision"
+}

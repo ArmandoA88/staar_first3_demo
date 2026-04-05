@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best states the main message of this story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\"Guess it's up to me to lead the team to victory.\""
+    },
+    {
+      "label": "B",
+      "text": "\"Can't be a hero if you're afraid of looking stupid.\""
+    },
+    {
+      "label": "C",
+      "text": "\"To be a starter, you actually have to be on the team.\""
+    },
+    {
+      "label": "D",
+      "text": "\"You want to play basketball, get both pages signed.\""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text of question and answer choices in italic and normal font"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

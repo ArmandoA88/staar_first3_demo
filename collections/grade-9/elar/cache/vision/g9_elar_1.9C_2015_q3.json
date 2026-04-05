@@ -1,0 +1,30 @@
+{
+  "stem": "Danny would like to add the following detail to the second paragraph (sentences 6-16).\n\nHe was a top-ten runner on the track and cross-country teams at Copper Hills High School.\n\nWhere is the most effective place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 9"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 10"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 11"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He was a top-ten runner on the track and cross-country teams at Copper Hills High School."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "stem": "What change needs to be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change thank's to thanks"
+    },
+    {
+      "label": "B",
+      "text": "Change idea to ideal"
+    },
+    {
+      "label": "C",
+      "text": "Change volunteers to volunteers'"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q17 Passage #4",
+    "17 What change needs to be made in sentence 6?",
+    "A Change thank's to thanks",
+    "B Change idea to ideal",
+    "C Change volunteers to volunteers'",
+    "D No change needs to be made."
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

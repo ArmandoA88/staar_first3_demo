@@ -1,0 +1,30 @@
+{
+  "stem": "What is the author's purpose for mentioning the children's race through the house?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To illustrate that some children value fun above competition"
+    },
+    {
+      "label": "G",
+      "text": "To emphasize that his child is athletically superior to her friends"
+    },
+    {
+      "label": "H",
+      "text": "To highlight that children often disregard household rules"
+    },
+    {
+      "label": "J",
+      "text": "To show that children lack concerns about safety when competing"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text of question and answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

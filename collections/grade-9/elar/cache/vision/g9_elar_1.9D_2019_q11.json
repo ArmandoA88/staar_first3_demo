@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "People feel safe when confiding in their pets; without being judgmental.  A pet will often sit compassionately by its owner\u2019s side for as long as is needed."
+    },
+    {
+      "label": "B",
+      "text": "People feel safe when confiding in their pets, without being judgmental; a pet will often sit compassionately by its owner\u2019s side for as long as is needed."
+    },
+    {
+      "label": "C",
+      "text": "People feel safe when confiding in their pets.  Without being judgmental, a pet will often sit compassionately; by its owner\u2019s side, for as long as is needed."
+    },
+    {
+      "label": "D",
+      "text": "People feel safe when confiding in their pets; without being judgmental, a pet will often sit compassionately by its owner\u2019s side for as long as is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

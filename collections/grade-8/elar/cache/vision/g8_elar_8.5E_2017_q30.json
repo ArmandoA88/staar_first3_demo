@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from \u201cBreaking Out of the Box.\u201d\n\nBy cutting out hallways and creatively stacking the containers, engineers are maximizing the use of the boxes.\n\nWhich sentence from \u201cA Bountiful Billboard\u201d is related to this idea?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "This can supply hundreds of families with water each month."
+    },
+    {
+      "label": "G",
+      "text": "They made a billboard that extracted moisture from the air and converted it into drinkable water."
+    },
+    {
+      "label": "H",
+      "text": "But the citizens of Lima and other cities in arid regions around the world are hopeful."
+    },
+    {
+      "label": "J",
+      "text": "Additionally, UTEC recorded a 28 percent increase in enrollment since the installation of the billboard."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "boxed text: By cutting out hallways and creatively stacking the containers, engineers are maximizing the use of the boxes."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

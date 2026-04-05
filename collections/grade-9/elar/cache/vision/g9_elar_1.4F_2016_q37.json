@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence states how the authors of each selection support their ideas?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The author of \u201cA History of Fearlessness\u201d uses first-person narration, while the author of \u201cNo Dream Is Impossible\u201d provides a third-person historical overview."
+    },
+    {
+      "label": "B",
+      "text": "The author of \u201cA History of Fearlessness\u201d depends on quotations from others, while the author of \u201cNo Dream Is Impossible\u201d provides a first-person account of her life."
+    },
+    {
+      "label": "C",
+      "text": "The author of \u201cA History of Fearlessness\u201d mainly references other articles, while the author of \u201cNo Dream Is Impossible\u201d references experts in her field."
+    },
+    {
+      "label": "D",
+      "text": "The author of \u201cA History of Fearlessness\u201d relies on his own insights and philosophies, while the author of \u201cNo Dream Is Impossible\u201d provides a detailed chronology of her life."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Which idea presented in the selection does the photograph and caption next to paragraph 3 best support?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "An initial step in Sainsbury's plan is to sell appealing food to its customers."
+    },
+    {
+      "label": "G",
+      "text": "People like to buy produce that is sold at a reduced price."
+    },
+    {
+      "label": "H",
+      "text": "Sainsbury's donates fresh produce to local organizations that help people in need."
+    },
+    {
+      "label": "J",
+      "text": "Unwanted produce can be a nutritious source of food for farm animals."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph",
+    "caption"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Pavel is immigrating to America to join his uncle. Many other people are also making the long journey to America. On the lowest deck of the boat, it is very crowded. Pavel thinks of a song to sing, and eventually others begin to sing and dance, too."
+    },
+    {
+      "label": "B",
+      "text": "The trip to America is a long and difficult one, and the space below the decks is crowded and smelly. The only food is soup that the travelers must share. Pavel thinks about the people on the upper decks who can eat while sitting at a table. He finally gets soup for himself."
+    },
+    {
+      "label": "C",
+      "text": "Pavel is traveling with many other immigrants on a boat to America. To avoid thinking about the smelly, crowded conditions, Pavel reflects on a letter from his uncle, who has settled in Texas. Pavel shows that he is focused on his goals when he thinks of a way to avoid a bully."
+    },
+    {
+      "label": "D",
+      "text": "Some immigrants traveling to America are crowded together in the lowest deck of a boat. Pavel thinks about a letter from his uncle that tells about the life that Pavel will find when he reaches Texas. The letter describes the beautiful sky, the clean air, and the promise of endless farmland. Pavel looks forward to being there."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

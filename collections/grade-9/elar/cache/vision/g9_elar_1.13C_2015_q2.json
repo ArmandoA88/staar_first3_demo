@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 7 and 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He used a wheelchair to get around and communicated through a sophisticated computer system that responded to his eye movements."
+    },
+    {
+      "label": "G",
+      "text": "He used a wheelchair to get around, he communicated through a sophisticated computer system that responded to his eye movements."
+    },
+    {
+      "label": "H",
+      "text": "Using a wheelchair to get around and communicating through a sophisticated computer system, he responded to his eye movements."
+    },
+    {
+      "label": "J",
+      "text": "He used a wheelchair to get around, which communicated through a sophisticated computer system that responded to his eye movements."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

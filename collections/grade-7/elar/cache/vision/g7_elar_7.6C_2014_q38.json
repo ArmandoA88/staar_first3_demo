@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason that the author has included paragraph 1 in the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To educate readers about the battle of Gettysburg"
+    },
+    {
+      "label": "G",
+      "text": "To compare the Gettysburg cyclorama to a computer game"
+    },
+    {
+      "label": "H",
+      "text": "To give readers detailed information about Civil War battles"
+    },
+    {
+      "label": "J",
+      "text": "To simulate the experience of being at Gettysburg"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

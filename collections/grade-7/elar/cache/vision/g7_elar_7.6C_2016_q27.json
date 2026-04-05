@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence from the selection best explains why the health of coral reefs is of great concern to scientists?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Coral reefs are home to one-fourth of all marine life on the planet and serve as a natural barrier against damage caused by storms, hurricanes, and typhoons."
+    },
+    {
+      "label": "B",
+      "text": "These reefs can be damaged by natural disasters such as hurricanes, or they can be affected by human-related activities such as large ships running their hulls along a reef or fishing equipment scraping the sea floor."
+    },
+    {
+      "label": "C",
+      "text": "Scientists at CMBB hope to program Coralbots to locate colonies of endangered coral and reconstruct them."
+    },
+    {
+      "label": "D",
+      "text": "Scientists and volunteer divers work to reassemble damaged coral, but their success has been minimal."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "mcq",
+  "confidence": 1,
+  "notes": null
+}

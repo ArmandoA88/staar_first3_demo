@@ -1,0 +1,30 @@
+{
+  "stem": "The quotation best supports the inference that people \u2014",
+  "instruction": "Read this quotation from paragraph 3.\n\n_Wharton professors conducted a study where students were given a device to listen to audiobooks during their visits to the gym but were not allowed to listen at any other time. This technique, called \u201ctemptation bundling,\u201d significantly increased the number of times the students exercised each week._",
+  "options": [
+    {
+      "label": "A",
+      "text": "look forward to the experience of listening to audiobooks"
+    },
+    {
+      "label": "B",
+      "text": "find it hard to fit listening to audiobooks into their schedules"
+    },
+    {
+      "label": "C",
+      "text": "retain more information from audiobooks if they listen during workouts"
+    },
+    {
+      "label": "D",
+      "text": "prefer audiobooks to other forms of entertainment during workouts"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Read this quotation from paragraph 3.\n\nWharton professors conducted a study where students were given a device to listen to audiobooks during their visits to the gym but were not allowed to listen at any other time. This technique, called \u201ctemptation bundling,\u201d significantly increased the number of times the students exercised each week."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

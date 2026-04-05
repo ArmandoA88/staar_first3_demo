@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best paraphrase of paragraph 4 of the selection \"Life on Mars\"?",
+  "instruction": "Use \"Life on Mars\" to answer the following question.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Rovers have been going to Mars for a couple of decades. They gather information for people on Earth by taking photographs of the red planet\u2019s surroundings and sending the photographs to NASA."
+    },
+    {
+      "label": "B",
+      "text": "Scientists at NASA study what rovers on Mars send to them. These devices, which have been exploring Mars since the late 1990s, collect bits of the rocky landscape to show scientists that it is difficult for life to grow on the planet."
+    },
+    {
+      "label": "C",
+      "text": "Machines called rovers have been sent to Mars by NASA scientists for over 20 years. Rovers help scientists by sending them pictures of Mars and information about pieces of the land so that scientists can better understand the planet."
+    },
+    {
+      "label": "D",
+      "text": "NASA sends rovers to Mars to collect and send information back to Earth so that scientists can study and learn more about Mars. Scientists have been studying Mars for several years and have found that the planet contains oxygen."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

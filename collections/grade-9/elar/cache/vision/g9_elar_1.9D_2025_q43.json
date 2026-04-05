@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change run to ran"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after volunteers"
+    },
+    {
+      "label": "C",
+      "text": "Change emerged to immerged"
+    },
+    {
+      "label": "D",
+      "text": "Change great depression to Great Depression"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 2?",
+    "A Change run to ran",
+    "B Delete the comma after volunteers",
+    "C Change emerged to immerged",
+    "D Change great depression to Great Depression"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

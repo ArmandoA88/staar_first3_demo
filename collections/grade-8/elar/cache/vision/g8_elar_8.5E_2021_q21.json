@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 8 of the selection \"A Ghostly New Creature.\"\n\nStill, the octopod's discovery is exciting because it suggests that many more undiscovered species could live in the deep sea and other places on Earth.\n\nWhich sentence from the selection \"Tiptoeing Scientists\" is related to this idea?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He and his team have tiptoed to the location where they last heard them singing. (paragraph 1)"
+    },
+    {
+      "label": "B",
+      "text": "But they must look very carefully because these frogs are smaller than a fingernail. (paragraph 1)"
+    },
+    {
+      "label": "C",
+      "text": "The tiny amphibians were incredibly difficult to catch because they jump like crickets. (paragraph 4)"
+    },
+    {
+      "label": "D",
+      "text": "In spite of the countless challenges, new tiny frogs are being found among the planet's habitats that have previously been understudied. (paragraph 5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text box containing the sentence: 'Still, the octopod\u2019s discovery is exciting because it suggests that many more undiscovered species could live in the deep sea and other places on Earth.'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

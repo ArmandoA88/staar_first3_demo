@@ -1,0 +1,31 @@
+{
+  "stem": "What is the most effective revision to make in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I am convinced that students would do better in school if they had a midday break that allowed them enough time to eat a good meal and that allowed them enough time to recharge their brains with physical activity."
+    },
+    {
+      "label": "B",
+      "text": "I am convinced that students would do better in school if they had a midday break that allowed them enough time to eat a good meal and recharge their brains with physical activity."
+    },
+    {
+      "label": "C",
+      "text": "I am convinced that students would do better in school if they had a midday break that allowed them enough time to eat a good meal that recharged their brains with physical activity."
+    },
+    {
+      "label": "D",
+      "text": "I am convinced that students would do better in school if they had a midday break that allowed them enough time to eat a good meal because they need to recharge their brains with physical activity."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q1 Passage #1",
+    "1"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

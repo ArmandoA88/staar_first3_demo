@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea does the author emphasize throughout the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Apache 8 crew is more skilled at firefighting than all-male crews."
+    },
+    {
+      "label": "G",
+      "text": "The members of the Apache 8 crew are respected for the work they have done."
+    },
+    {
+      "label": "H",
+      "text": "The women in Apache 8 are good role models for women in other professions."
+    },
+    {
+      "label": "J",
+      "text": "The Apache 8 are members of a prominent American Indian tribe."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

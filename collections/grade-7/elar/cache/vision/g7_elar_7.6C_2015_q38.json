@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection explains why Pixar became involved in the film industry?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "This computer, called Pixar, could make realistic three-dimensional images better and faster than any computer before it."
+    },
+    {
+      "label": "G",
+      "text": "RenderMan made it possible to create pictures that looked almost like real photographs."
+    },
+    {
+      "label": "H",
+      "text": "Jobs, who was very good at selling computers, wanted to sell the Pixar computer to hospitals."
+    },
+    {
+      "label": "J",
+      "text": "However, since running Pixar was very expensive, Jobs agreed to the production of animated films in an effort to make Pixar profitable."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q38 Passage #4\n\n38 Which sentence from the selection explains why Pixar became involved in the film industry?\nF This computer, called Pixar, could make realistic three-dimensional images better and faster than any computer before it.\nG RenderMan made it possible to create pictures that looked almost like real photographs.\nH Jobs, who was very good at selling computers, wanted to sell the Pixar computer to hospitals.\nJ However, since running Pixar was very expensive, Jobs agreed to the production of animated films in an effort to make Pixar profitable."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author wrote this article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To explain how robots are affecting the lives of people in the modern world"
+    },
+    {
+      "label": "B",
+      "text": "To share interesting facts about the history of robots"
+    },
+    {
+      "label": "C",
+      "text": "To describe how robots can help people feel a greater sense of well-being"
+    },
+    {
+      "label": "D",
+      "text": "To tell about methods experts use to program robots for specific jobs"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

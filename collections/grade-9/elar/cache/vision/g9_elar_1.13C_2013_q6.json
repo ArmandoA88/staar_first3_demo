@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 6 and 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Scott Flansburg is an ordinary person with an extraordinary ability, who is known as the \u201chuman calculator.\u201d"
+    },
+    {
+      "label": "G",
+      "text": "Scott Flansburg, who is known as the \u201chuman calculator,\u201d is an ordinary person with an extraordinary ability."
+    },
+    {
+      "label": "H",
+      "text": "Scott Flansburg is an ordinary person with an extraordinary ability, he is known as the \u201chuman calculator.\u201d"
+    },
+    {
+      "label": "J",
+      "text": "Scott Flansburg is known as the \u201chuman calculator,\u201d an ordinary person, and has an extraordinary ability."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

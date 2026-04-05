@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 1.\n\nThere are good reasons to answer \u201cyes\u201d to the high-speed-train revolution!\n\nWhat is the most likely reason the author uses loaded language in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To urge the U.S. to join the international movement toward safer travel"
+    },
+    {
+      "label": "B",
+      "text": "To show that high-speed trains will replace all other forms of transportation"
+    },
+    {
+      "label": "C",
+      "text": "To suggest that high-speed trains will have a huge impact on the way people travel"
+    },
+    {
+      "label": "D",
+      "text": "To emphasize that people in the U.S. should reject our current transportation system"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There are good reasons to answer \u201cyes\u201d to the high-speed-train revolution!"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

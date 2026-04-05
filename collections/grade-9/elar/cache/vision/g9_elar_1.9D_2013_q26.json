@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Beever moves back and forth between the pavement and the camera. To carefully check every mark that he makes."
+    },
+    {
+      "label": "G",
+      "text": "Moving back and forth between the pavement and the camera, Beever carefully checks every mark that he makes."
+    },
+    {
+      "label": "H",
+      "text": "Back and forth between the pavement and the camera Beever moves. Carefully checking every mark that he makes."
+    },
+    {
+      "label": "J",
+      "text": "Sentence 11 is already correct in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

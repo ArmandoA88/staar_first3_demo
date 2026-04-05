@@ -1,0 +1,30 @@
+{
+  "stem": "Which quotation from the article best supports the idea that the contents of the time capsule held public interest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When workers found the time capsule containing the plaque and other items, they realized that the contents were of historic importance. (paragraph 5)"
+    },
+    {
+      "label": "B",
+      "text": "The preservationists made a list of what was found in the time capsule. (paragraph 6)"
+    },
+    {
+      "label": "C",
+      "text": "The time capsule items were kept on display for a short while at the Museum of Fine Arts in Boston. (paragraph 9)"
+    },
+    {
+      "label": "D",
+      "text": "How long will the time capsule remain behind the cornerstone? (paragraph 10)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

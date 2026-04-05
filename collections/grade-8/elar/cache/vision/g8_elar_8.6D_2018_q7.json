@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When he was five years old, the author decided to venture down a forbidden street after buying some groceries for his mother. The author went partway down the new street but turned around because he was afraid of getting caught. When the shopkeeper waved him down on the way home, the author was sure his mother knew what he had done. Even though he wasn\u2019t in trouble, the author went straight home."
+    },
+    {
+      "label": "B",
+      "text": "As a five-year-old, the author had wanted to explore the next street over, even though his mother thought the street was dangerous. One day, after he shopped for groceries at the corner store for his mother, he pushed his wagon down the forbidden street. He then turned around after only a few minutes."
+    },
+    {
+      "label": "C",
+      "text": "When the author was five years old, his mother often asked him to take his wagon to the corner store down the street and pick up groceries for her. On one occasion the author tried to explore a different street on his way home. But because he forgot to take the groceries with him, he had to go back to the store, where the clerk was waiting outside for him."
+    },
+    {
+      "label": "D",
+      "text": "One day when he was five, the author made a plan to explore a street after getting groceries for his mother. He took his wagon along his normal route to the store, but then he traveled down the other street after he bought the groceries. When he reached a vacant field, he thought he would be caught, so he returned home."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

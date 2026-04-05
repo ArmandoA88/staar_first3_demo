@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, should be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change years to year's"
+    },
+    {
+      "label": "B",
+      "text": "Change Himalayan mountains to Himalayan Mountains"
+    },
+    {
+      "label": "C",
+      "text": "Change began to were beginning"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q43 Passage #7"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

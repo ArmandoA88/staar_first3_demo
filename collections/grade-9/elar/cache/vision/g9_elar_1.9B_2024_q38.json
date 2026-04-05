@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence should come before sentence 16 to serve as a topic sentence for the fourth paragraph (sentences 16-18)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Anyone who has spent time in an urban heat island knows that the stifling heat can be unbearable."
+    },
+    {
+      "label": "B",
+      "text": "Research centers are beginning to pay closer attention to areas designated as urban heat islands."
+    },
+    {
+      "label": "C",
+      "text": "Urban heat islands can be located by measuring the temperatures in the city and surrounding areas."
+    },
+    {
+      "label": "D",
+      "text": "The higher temperatures found in urban heat islands are concerning for a number of reasons."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

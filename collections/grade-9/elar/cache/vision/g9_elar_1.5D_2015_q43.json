@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Scientists have discovered one possible reason humans yawn. Studies indicate that we yawn to cool our brains. This cooling process is important because a cool brain functions more efficiently. However, this explanation is too simplistic to serve as the definitive answer."
+    },
+    {
+      "label": "B",
+      "text": "Research has shown that yawning has been observed in many species of vertebrates. What is not clear is why this is so or what purpose yawning serves. While some researchers indicate yawning occurs to cool the brain, others dispute this hypothesis because of differences between humans and animals."
+    },
+    {
+      "label": "C",
+      "text": "Yawning is contagious. When humans, or even dogs, see someone yawn, they often yawn, too. Studies have found, however, that when someone just pretends to yawn\u2014moving his or her mouth but without making any of the gestures\u2014people don\u2019t yawn in response. While more studies may be needed to explain this phenomenon, yawning isn\u2019t a very big problem."
+    },
+    {
+      "label": "D",
+      "text": "Many species yawn, but the purpose served by yawning is still unknown. It is also unclear why yawning seems to be contagious. Researchers have offered various theories, such as yawning serves the purpose of cooling the brain or body or expressing empathy or mimicry. However, further studies are needed before yawning can be fully understood."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

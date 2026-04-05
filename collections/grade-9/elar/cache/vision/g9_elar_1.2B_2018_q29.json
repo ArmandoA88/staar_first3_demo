@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 11.\n\n\"Tomorrow, I\u2019ll sell this nugget to a pawnshop for maybe seventy yuan\u2014about one one-thousandth what I paid for it.\"  \n\nThis sentence helps the reader know that the word pittance in paragraph 2 means \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "a temporary holder of value"
+    },
+    {
+      "label": "B",
+      "text": "an insignificant amount of money"
+    },
+    {
+      "label": "C",
+      "text": "an exchange of goods"
+    },
+    {
+      "label": "D",
+      "text": "a failed investment"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"Tomorrow, I\u2019ll sell this nugget to a pawnshop for maybe seventy yuan\u2014about one one-thousandth what I paid for it.\""
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

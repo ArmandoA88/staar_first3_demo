@@ -1,0 +1,31 @@
+{
+  "stem": "Which theme is explored in the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Learning about the patterns of nature can be exciting."
+    },
+    {
+      "label": "B",
+      "text": "Nature can provide perspective on life."
+    },
+    {
+      "label": "C",
+      "text": "People should set aside time in their daily schedule to relax."
+    },
+    {
+      "label": "D",
+      "text": "People who are honest with themselves are better able to appreciate life."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2018 \u2013 Q35 Passage #4",
+    "35"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

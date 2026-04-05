@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence relates to the information in the text box following paragraph 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The products at the end of an aisle are more likely to be sold, so items that are close to expiring or that need to sell quickly are often placed there."
+    },
+    {
+      "label": "B",
+      "text": "Many stores provide discount cards that not only offer reduced prices to shoppers but also can electronically track products that customers purchase."
+    },
+    {
+      "label": "C",
+      "text": "Store owners know that milk and eggs are common items on many grocery lists, so these items should be at the front of the store, right?"
+    },
+    {
+      "label": "D",
+      "text": "Sights and smells are also powerful and persuasive tools."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

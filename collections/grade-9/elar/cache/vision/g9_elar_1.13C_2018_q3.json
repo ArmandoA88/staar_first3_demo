@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Everyone communicates in person in one way, they communicate in different ways over the phone, through texting, or in online posts."
+    },
+    {
+      "label": "B",
+      "text": "Everyone communicates differently in person than they do when speaking over the phone, sending texts, or writing online posts."
+    },
+    {
+      "label": "C",
+      "text": "Everyone communicates in person differently than they do over the phone, to send texts, or posting online."
+    },
+    {
+      "label": "D",
+      "text": "Everyone communicates in person, over the phone, through texting, or in online posts differently."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

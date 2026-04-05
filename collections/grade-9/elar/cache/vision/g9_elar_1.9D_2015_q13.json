@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change come to came"
+    },
+    {
+      "label": "B",
+      "text": "Change groceries to grocery's"
+    },
+    {
+      "label": "C",
+      "text": "Change linners to liners"
+    },
+    {
+      "label": "D",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

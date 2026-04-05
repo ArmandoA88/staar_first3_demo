@@ -1,0 +1,30 @@
+{
+  "stem": "What is the main theme of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Breaking the rules usually leads to a negative outcome."
+    },
+    {
+      "label": "G",
+      "text": "People often have a strong desire to explore the unknown."
+    },
+    {
+      "label": "H",
+      "text": "People tend to forget things when they are in a hurry."
+    },
+    {
+      "label": "J",
+      "text": "Going to a new location can be an exciting experience."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

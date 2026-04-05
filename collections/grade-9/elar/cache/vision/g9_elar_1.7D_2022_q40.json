@@ -1,0 +1,30 @@
+{
+  "stem": "Which quotation best supports the thesis of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\"When you open your eyes, imagine you\u2019re seeing the world for the very first time,\" Choukas-Bradley told us. (paragraph 10)"
+    },
+    {
+      "label": "G",
+      "text": "\"It\u2019s my hope that the health care system will include [forest therapy] into the range of services they reimburse for,\" Clifford says. (paragraph 14)"
+    },
+    {
+      "label": "H",
+      "text": "\"Medical researchers in Japan have studied forest bathing and have demonstrated several benefits to our health,\" says Philip Barr. . . . (paragraph 17)"
+    },
+    {
+      "label": "J",
+      "text": "\"I\u2019m very impressed with the primary research done in Japan,\" Barr says. (paragraph 21)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

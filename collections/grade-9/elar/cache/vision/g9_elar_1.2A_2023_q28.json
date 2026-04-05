@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the use of the word icon in paragraph 6?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "icon \\ \u02c8\u012b-k\u014fn \\ n 1. a picture or image used on a computer screen 2. a representation of a religious image 3. a symbol associated with a particular time or place 4. a person held in high regard"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

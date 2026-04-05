@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 27?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "B",
+      "text": "Change *Kaitlyn and I* to *Kaitlyn and me*"
+    },
+    {
+      "label": "C",
+      "text": "Change a *lot* to alot"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

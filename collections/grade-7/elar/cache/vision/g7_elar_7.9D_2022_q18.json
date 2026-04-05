@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author uses personification in this sentence?\n\nBecca and I both started laughing and continued to dance as our anger crept out of the living room.",
+  "instruction": "Use Last Dance to answer the following question.",
+  "options": [
+    {
+      "label": "F",
+      "text": "To suggest that the girls appreciate their dad\u2019s suggestion"
+    },
+    {
+      "label": "G",
+      "text": "To show that the girls have forgotten about their argument"
+    },
+    {
+      "label": "H",
+      "text": "To highlight the bond the girls have with each other"
+    },
+    {
+      "label": "J",
+      "text": "To emphasize the girls\u2019 willingness to work together"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Becca and I both started laughing and continued to dance as our anger crept out of the living room."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

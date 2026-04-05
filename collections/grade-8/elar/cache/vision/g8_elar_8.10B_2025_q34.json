@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence can BEST follow and support sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Several small yellow birds seemed to be having a conversation."
+    },
+    {
+      "label": "B",
+      "text": "The chair she sat in had a soft cushion and was perfect for watching."
+    },
+    {
+      "label": "C",
+      "text": "She had to admit she was amazed by the beauty of this day."
+    },
+    {
+      "label": "D",
+      "text": "There was a good amount of shade in the backyard from the large oak trees."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice question with four answer options labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

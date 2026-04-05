@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change contains to contain's"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after positive charge"
+    },
+    {
+      "label": "C",
+      "text": "Change neutrons to nuetrons"
+    },
+    {
+      "label": "D",
+      "text": "Change have no charge to haven't no charge"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

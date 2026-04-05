@@ -1,0 +1,31 @@
+{
+  "stem": "In paragraph 5, the word sophisticated means \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "risky"
+    },
+    {
+      "label": "B",
+      "text": "expensive"
+    },
+    {
+      "label": "C",
+      "text": "attractive"
+    },
+    {
+      "label": "D",
+      "text": "elaborate"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "stem: text",
+    "options: A, B, C, D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

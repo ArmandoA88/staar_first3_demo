@@ -1,0 +1,30 @@
+{
+  "stem": "Simon needs a sentence to help close his paper. Which sentence could be added to the very end of this paper to help bring it to an effective conclusion?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "If you own or have access to a bicycle, it might just be the perfect time for you to start riding it to school or work."
+    },
+    {
+      "label": "B",
+      "text": "Bicycling is clearly the most effective form of transportation, and we should encourage all riders to participate actively."
+    },
+    {
+      "label": "C",
+      "text": "I\u2019m convinced that requiring bicyclists to register and license their bikes would result in safer streets and happier travels for all."
+    },
+    {
+      "label": "D",
+      "text": "In closing, it\u2019s time for us to add some rules and regulations that all bicyclists will be able to follow and that motorists will appreciate."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

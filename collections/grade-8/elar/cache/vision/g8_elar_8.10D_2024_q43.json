@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, is needed in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *attempted* to *atempted*"
+    },
+    {
+      "label": "B",
+      "text": "Change the comma after *move it* to a semicolon"
+    },
+    {
+      "label": "C",
+      "text": "Change *seemed* to *seems*"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice options labeled A through D with changes related to sentence 3"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

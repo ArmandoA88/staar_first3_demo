@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence describes how the interaction between the man and Joey contributes to the resolution of the plot of the story \u201cGood Enough\u201d?",
+  "instruction": "Use \u201cGood Enough\u201d to answer the following question.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Joey\u2019s thoughts reflect his fear that his best effort is not sufficient, but the man\u2019s regard for Joey reminds him of his worthiness."
+    },
+    {
+      "label": "B",
+      "text": "Joey\u2019s thoughts indicate that he feels disconnected from the other players, but the man\u2019s kindness helps Joey feel less lonely."
+    },
+    {
+      "label": "C",
+      "text": "Joey\u2019s thoughts reveal his frustration about being treated unfairly, but the man\u2019s grateful attitude helps Joey feel respected."
+    },
+    {
+      "label": "D",
+      "text": "Joey\u2019s thoughts show his irritation toward his team captain, but the man\u2019s graciousness helps Joey be forgiving."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice question with four answer options labeled A, B, C, and D."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

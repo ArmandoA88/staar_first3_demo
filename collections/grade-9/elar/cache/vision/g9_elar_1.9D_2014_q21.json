@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 18 and 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "For example, the venom of the Brazilian pit viper is the source of a drug used to treat high blood pressure, a component found in copperhead snake venom may soon be used to treat breast cancer."
+    },
+    {
+      "label": "B",
+      "text": "For example, the venom of the Brazilian pit viper is the source of a drug used to treat high blood pressure, and there is a component found in copperhead snake venom. Which may soon be used to treat breast cancer."
+    },
+    {
+      "label": "C",
+      "text": "For example, the venom of the Brazilian pit viper is the source of a drug used to treat high blood pressure, while a component found in copperhead snake venom may soon be used to treat breast cancer."
+    },
+    {
+      "label": "D",
+      "text": "For example, the venom of the Brazilian pit viper. It is the source of a drug used to treat high blood pressure, while a component found in copperhead snake venom may soon be used to treat breast cancer."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

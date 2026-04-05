@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection best supports the idea that careful adjustments to Three Gorges Dam can improve the quality of the Yangtze River?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Ickes helped researchers embed transmitters into a small sample of fish in the Yangtze River basin."
+    },
+    {
+      "label": "B",
+      "text": "They hope to determine the right amount of water to release from the dam in order to support the natural breeding of the fish."
+    },
+    {
+      "label": "C",
+      "text": "The dam is located on the Yangtze River, one of the most important rivers in China, famed for its diverse wildlife."
+    },
+    {
+      "label": "D",
+      "text": "Other fish are important for maintaining the fishing industry, a major part of the economy for cities on the river."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which element is the same for both selections?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The genre"
+    },
+    {
+      "label": "B",
+      "text": "The subject matter"
+    },
+    {
+      "label": "C",
+      "text": "The tone"
+    },
+    {
+      "label": "D",
+      "text": "The writing style"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

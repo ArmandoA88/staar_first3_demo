@@ -1,0 +1,28 @@
+{
+  "stem": "How are the train and the speaker similar?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Like the train that has a schedule to keep, the speaker has an approaching responsibility."
+    },
+    {
+      "label": "B",
+      "text": "Like the train that brays and boasts, the speaker acts in an overly proud manner."
+    },
+    {
+      "label": "C",
+      "text": "Like the train that travels at midnight, the speaker prefers to work during the night."
+    },
+    {
+      "label": "D",
+      "text": "Like the train that stays on a straight course, the speaker avoids change."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

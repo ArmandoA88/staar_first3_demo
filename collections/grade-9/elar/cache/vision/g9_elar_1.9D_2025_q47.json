@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change process to proccess"
+    },
+    {
+      "label": "B",
+      "text": "Change form to forms"
+    },
+    {
+      "label": "C",
+      "text": "Change and build to they build"
+    },
+    {
+      "label": "D",
+      "text": "Change among to within"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 12?",
+    "\u24b6 Change process to proccess",
+    "\u24b7 Change form to forms",
+    "\u24b8 Change and build to they build",
+    "\u24b9 Change among to within"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

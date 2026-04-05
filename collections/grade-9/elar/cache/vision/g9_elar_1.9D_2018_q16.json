@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "On the day that he was supposed to paddle over Niagara Falls. He went to the top, looked down, and said that things just didn\u2019t feel right."
+    },
+    {
+      "label": "G",
+      "text": "On the day that he was supposed to paddle over Niagara Falls, he went to the top and looked down. He said that things just didn\u2019t feel right."
+    },
+    {
+      "label": "H",
+      "text": "On the day that he was supposed to paddle over Niagara Falls, he went to the top and looked down. And said that things just didn\u2019t feel right."
+    },
+    {
+      "label": "J",
+      "text": "On the day that he was supposed to paddle. Over Niagara falls, he went to the top, looked down, and said things just didn\u2019t feel right."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

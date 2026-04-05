@@ -1,0 +1,28 @@
+{
+  "stem": "Layla has included redundant information in sentence 37. What is the MOST effective way to revise this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An hour later Julian was wiping off of Pedro, himself, the wall, and the floor the noodles and cheese sauce when his mother called."
+    },
+    {
+      "label": "B",
+      "text": "An hour later Julian was wiping noodles and cheese sauce off of Pedro and himself and the wall, and also the floor when his mother called."
+    },
+    {
+      "label": "C",
+      "text": "An hour later when his mother called, noodles and cheese sauce were being wiped off by Julian, himself, the wall, and the floor."
+    },
+    {
+      "label": "D",
+      "text": "An hour later when his mother called, Julian was wiping noodles and cheese sauce off of Pedro, himself, the wall, and the floor."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

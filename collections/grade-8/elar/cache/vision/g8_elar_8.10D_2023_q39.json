@@ -1,0 +1,30 @@
+{
+  "stem": "What change is needed in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change countered to countering"
+    },
+    {
+      "label": "B",
+      "text": "Insert a semicolon after pawn"
+    },
+    {
+      "label": "C",
+      "text": "Change hit to hits"
+    },
+    {
+      "label": "D",
+      "text": "Change signal to signel"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q39 Passage #6"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 2 and 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After asking my parents to loan me the skateboard money, my dad told me no, and I said I would pay them back later."
+    },
+    {
+      "label": "B",
+      "text": "I asked my parents to loan me the skateboard money, saying I would pay them back later, but my dad told me no."
+    },
+    {
+      "label": "C",
+      "text": "I asked my parents to loan me the skateboard money, and I said I would pay them back later and my dad told me no."
+    },
+    {
+      "label": "D",
+      "text": "Although I asked my parents to loan me the skateboard money my dad told me no even though I said I would pay them back later."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

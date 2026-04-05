@@ -1,0 +1,30 @@
+{
+  "stem": "Read this line of dialogue from the play.\n\nCHRISTY: I will crush you like a bug.\n\nChristy says this to Mark because she \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "plans to work hard during her campaign"
+    },
+    {
+      "label": "B",
+      "text": "thinks her ideas are better than Mark\u2019s"
+    },
+    {
+      "label": "C",
+      "text": "knows she has more supporters than Mark does"
+    },
+    {
+      "label": "D",
+      "text": "is trying to intimidate Mark before the debate"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "CHRISTY: I will crush you like a bug."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

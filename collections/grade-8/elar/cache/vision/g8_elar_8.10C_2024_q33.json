@@ -1,0 +1,28 @@
+{
+  "stem": "What is the MOST effective way to combine sentences 3 and 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Ratified between 1787 and 1790, this document is unique."
+    },
+    {
+      "label": "B",
+      "text": "It was ratified between 1787 and 1790, the document which is unique."
+    },
+    {
+      "label": "C",
+      "text": "This document was ratified and unique between 1787 and 1790."
+    },
+    {
+      "label": "D",
+      "text": "While this document was ratified between 1787 and 1790, that was unique."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

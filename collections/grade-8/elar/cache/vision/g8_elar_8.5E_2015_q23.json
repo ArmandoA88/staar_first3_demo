@@ -1,0 +1,30 @@
+{
+  "stem": "Read this line from the poem.\n\nFriends departing to take up a post on Mars;\n\nThis idea is most closely related to the ideas of which person discussed in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "John F. Kennedy"
+    },
+    {
+      "label": "B",
+      "text": "Ray Bradbury"
+    },
+    {
+      "label": "C",
+      "text": "Jules Verne"
+    },
+    {
+      "label": "D",
+      "text": "H. G. Wells"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Friends departing to take up a post on Mars;"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

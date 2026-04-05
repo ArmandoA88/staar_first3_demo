@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes this information?\n\n_When a bone breaks in the human body, it is able to repair itself._",
+  "instruction": "Read this sentence from paragraph 2.",
+  "options": [
+    {
+      "label": "F",
+      "text": "To advocate for more research concerning skeletal injuries"
+    },
+    {
+      "label": "G",
+      "text": "To suggest that bacteria could improve people's health"
+    },
+    {
+      "label": "H",
+      "text": "To show the need for Jonkers' research"
+    },
+    {
+      "label": "J",
+      "text": "To provide an example of the goal of Jonkers' research"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "When a bone breaks in the human body, it is able to repair itself."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

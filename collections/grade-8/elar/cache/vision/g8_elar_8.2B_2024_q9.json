@@ -1,0 +1,30 @@
+{
+  "stem": "Which word from the sentence best helps the reader determine the meaning of discretion as it is used in paragraph 4?",
+  "instruction": "Read this sentence from paragraph 4 of the article \"Cameras in the Courtroom.\"",
+  "options": [
+    {
+      "label": "A",
+      "text": "courts"
+    },
+    {
+      "label": "B",
+      "text": "permit"
+    },
+    {
+      "label": "C",
+      "text": "coverage"
+    },
+    {
+      "label": "D",
+      "text": "safeguarding"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "It would allow judges in all federal courts the discretion to permit electronic media coverage while safeguarding due process and privacy."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

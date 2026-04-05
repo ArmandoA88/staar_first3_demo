@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change nation to Nation"
+    },
+    {
+      "label": "B",
+      "text": "Change continues to continue"
+    },
+    {
+      "label": "C",
+      "text": "Change their time to your time"
+    },
+    {
+      "label": "D",
+      "text": "Change variety to variaty"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 5?",
+    "A Change nation to Nation",
+    "B Change continues to continue",
+    "C Change their time to your time",
+    "D Change variety to variaty"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

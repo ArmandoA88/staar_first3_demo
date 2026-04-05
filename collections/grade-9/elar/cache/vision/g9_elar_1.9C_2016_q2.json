@@ -1,0 +1,30 @@
+{
+  "stem": "Alicia needs to add the following detail to the second paragraph (sentences 5-10).\n\n\"Others held the pencil between their lips, which shaped their mouth more like a frown.\"",
+  "instruction": "Where should this sentence be inserted?",
+  "options": [
+    {
+      "label": "F",
+      "text": "Before sentence 5"
+    },
+    {
+      "label": "G",
+      "text": "After sentence 5"
+    },
+    {
+      "label": "H",
+      "text": "After sentence 6"
+    },
+    {
+      "label": "J",
+      "text": "After sentence 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Others held the pencil between their lips, which shaped their mouth more like a frown."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

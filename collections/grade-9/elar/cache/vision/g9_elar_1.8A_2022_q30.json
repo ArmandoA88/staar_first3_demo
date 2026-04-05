@@ -1,0 +1,30 @@
+{
+  "stem": "Read this quotation from paragraph 10 of the article \u201cPaper Calendars Endure Despite the Digital Age.\u201d\n\nIt may seem counterintuitive that a print product can thrive in the digital age.\n\nWhy does the author include the quotation?",
+  "instruction": "Use \u201cPaper Calendars Endure Despite the Digital Age\u201d to answer the following question.",
+  "options": [
+    {
+      "label": "F",
+      "text": "To show that he is qualified to discuss print and digital purchases"
+    },
+    {
+      "label": "G",
+      "text": "To explain that people cannot draw conclusions about print versus digital products"
+    },
+    {
+      "label": "H",
+      "text": "To emphasize that he remains skeptical about the popularity of calendars"
+    },
+    {
+      "label": "J",
+      "text": "To indicate that the information he presents may surprise some readers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "quotation box containing: It may seem counterintuitive that a print product can thrive in the digital age."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

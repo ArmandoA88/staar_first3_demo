@@ -1,0 +1,34 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 26?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change minimal to minamal"
+    },
+    {
+      "label": "G",
+      "text": "Change are to were"
+    },
+    {
+      "label": "H",
+      "text": "Delete the comma after appropriate"
+    },
+    {
+      "label": "J",
+      "text": "No change is necessary."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change, if any, needs to be made in sentence 26?",
+    "F Change minimal to minamal",
+    "G Change are to were",
+    "H Delete the comma after appropriate",
+    "J No change is necessary."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

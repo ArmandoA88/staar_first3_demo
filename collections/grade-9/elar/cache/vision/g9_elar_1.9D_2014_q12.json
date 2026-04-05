@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 4 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete so"
+    },
+    {
+      "label": "G",
+      "text": "Change was to am"
+    },
+    {
+      "label": "H",
+      "text": "Change estatic to ecstatic"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 4 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

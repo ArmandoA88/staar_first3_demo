@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition of substantial best matches the way the word is used in paragraph 8?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "substantial \\s\u0259b-\u02c8stan(t)-sh\u0259l\\ adj 1. real; not imaginary 2. strong or firm 3. considerable in quantity 4. important; essential"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

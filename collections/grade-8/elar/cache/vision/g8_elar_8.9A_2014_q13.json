@@ -1,0 +1,31 @@
+{
+  "stem": "What is the most likely reason the author wrote this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To inform readers about the importance of wetlands"
+    },
+    {
+      "label": "B",
+      "text": "To advocate for more programs designed to preserve wetlands"
+    },
+    {
+      "label": "C",
+      "text": "To encourage young people to learn more about wetlands"
+    },
+    {
+      "label": "D",
+      "text": "To highlight a group of volunteers who help maintain wetlands"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: \"2014 - Q13 Passage #2\"",
+    "Question Number: 13"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

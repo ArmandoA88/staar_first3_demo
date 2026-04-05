@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these ideas could best follow and support sentence 23?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "More than 150,000 people visit the small town each year, and a host of movies, including Kangaroo Jack, Mad Max Beyond Thunderdome, and Opal Dream, have been filmed there."
+    },
+    {
+      "label": "B",
+      "text": "Coober Pedy residents now make their livelihood in both the tourism industry and opal-mining industry, and this keeps most of the people working and able to provide for their families."
+    },
+    {
+      "label": "C",
+      "text": "Today the people in this town get the vast majority of their water from under ground from a source 24 kilometers away that has to be pumped in via an underground pipeline."
+    },
+    {
+      "label": "D",
+      "text": "Since February of 1915, many of the highest-quality opals in the entire world have been found in Coober Pedy; in fact, Coober Pedy is sometimes even referred to as the opal capital of the world."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

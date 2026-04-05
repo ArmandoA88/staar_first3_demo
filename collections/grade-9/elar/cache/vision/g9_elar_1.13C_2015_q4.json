@@ -1,0 +1,34 @@
+{
+  "stem": "What is the most effective transition to add to the beginning of sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Consequently"
+    },
+    {
+      "label": "G",
+      "text": "In fact"
+    },
+    {
+      "label": "H",
+      "text": "However"
+    },
+    {
+      "label": "J",
+      "text": "In the end"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the most effective transition to add to the beginning of sentence 18?",
+    "F Consequently",
+    "G In fact",
+    "H However",
+    "J In the end"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

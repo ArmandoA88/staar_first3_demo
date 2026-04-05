@@ -1,0 +1,30 @@
+{
+  "stem": "What does the figurative language in this sentence convey about Byrd?",
+  "instruction": "Read this sentence from paragraph 18.\n\nAnd before I know it, the tears start streaming down my face, and for a moment I feel like I'm watching myself from outside of my body.",
+  "options": [
+    {
+      "label": "A",
+      "text": "She wishes she did not have to share her compartment with another passenger."
+    },
+    {
+      "label": "B",
+      "text": "She doubts her decision to abandon her comfortable life in Iowa."
+    },
+    {
+      "label": "C",
+      "text": "She feels overwhelmed when she meets someone who shares her interests."
+    },
+    {
+      "label": "D",
+      "text": "She does not want to appear weak in front of a fellow pilot."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "And before I know it, the tears start streaming down my face, and for a moment I feel like I'm watching myself from outside of my body."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

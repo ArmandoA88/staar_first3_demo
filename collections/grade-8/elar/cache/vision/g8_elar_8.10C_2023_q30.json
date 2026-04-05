@@ -1,0 +1,28 @@
+{
+  "stem": "What is the **BEST** way to revise sentence 22 to avoid repeating an idea?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Depending on if it is large or complex, volunteers may have to start planning a whole year of celebration in advance."
+    },
+    {
+      "label": "B",
+      "text": "Volunteers may have to start planning, depending on how large or complex it is, a whole year in advance for a celebration."
+    },
+    {
+      "label": "C",
+      "text": "Depending on how large or complex a celebration is, volunteers may have to start planning a whole year in advance."
+    },
+    {
+      "label": "D",
+      "text": "Volunteers may have to start and begin planning a whole year in advance, depending on how large or complex a celebration is."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

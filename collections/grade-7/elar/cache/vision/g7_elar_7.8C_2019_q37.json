@@ -1,0 +1,30 @@
+{
+  "stem": "What do these stage directions help the reader understand?",
+  "instruction": "Read line 3 from the play.\n\n[The audience can be heard applauding halfheartedly.]",
+  "options": [
+    {
+      "label": "A",
+      "text": "Pete is upset that nobody paid attention to his performance."
+    },
+    {
+      "label": "B",
+      "text": "Pete\u2019s performance did not go as well as he had hoped."
+    },
+    {
+      "label": "C",
+      "text": "Pete had a difficult time hearing others while he was singing."
+    },
+    {
+      "label": "D",
+      "text": "Pete\u2019s friends are not supportive of his decision to sing."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Box containing text: '[The audience can be heard applauding halfheartedly.]'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change citizens to Citizens"
+    },
+    {
+      "label": "B",
+      "text": "Change offered to offer"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after services"
+    },
+    {
+      "label": "D",
+      "text": "Change soldiers to soldeirs"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of 2025 - Q44 Passage #6 with question and four answer choices"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

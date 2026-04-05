@@ -1,0 +1,28 @@
+{
+  "stem": "The first and last paragraphs offer which contradictory opinions?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Flying is no fun; flying is something to look forward to."
+    },
+    {
+      "label": "B",
+      "text": "Oxygen masks are hard to use; airplane safety is important."
+    },
+    {
+      "label": "C",
+      "text": "Airplane food tastes awful; passengers enjoy meals on airplanes."
+    },
+    {
+      "label": "D",
+      "text": "Plastic deck chairs are ugly; the airplane cabin is pretty."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 8 and 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He would retell the stories he had heard to his young friends and because the language and expressions would be simple they could understand."
+    },
+    {
+      "label": "G",
+      "text": "He would retell the stories he had heard to his young friends, the language and expressions would be simpler and so they could understand."
+    },
+    {
+      "label": "H",
+      "text": "He would retell the stories he had heard to his young friends, simplifying the language and expressions so they could understand."
+    },
+    {
+      "label": "J",
+      "text": "He would retell the stories he had heard to his young friends as the language and expressions were simplified by himself so that they could understand."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

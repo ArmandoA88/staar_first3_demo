@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, should be made in sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Many buyers say they do not want to take the time, despite or regardless of how quick the process is."
+    },
+    {
+      "label": "B",
+      "text": "Many buyers, regardless of how quick the process is, do not want to take the time is what they say."
+    },
+    {
+      "label": "C",
+      "text": "Many buyers who say they do not want to take the time say that regardless of how quick the process is."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

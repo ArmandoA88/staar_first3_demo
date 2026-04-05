@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Although Uganda is recovering from years of war, the nation is still plagued by poverty. With many workers earning no more than a dollar a day."
+    },
+    {
+      "label": "G",
+      "text": "Although Uganda is recovering from years of war. The nation is still plagued by poverty, and many workers earn no more than a dollar a day."
+    },
+    {
+      "label": "H",
+      "text": "Although Uganda is recovering from years of war, the nation is still plagued by poverty. Many workers earn no more than a dollar a day."
+    },
+    {
+      "label": "J",
+      "text": "The sentence is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

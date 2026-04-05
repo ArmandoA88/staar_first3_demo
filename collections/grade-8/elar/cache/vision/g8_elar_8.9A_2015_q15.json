@@ -1,0 +1,30 @@
+{
+  "stem": "Why does the poet compare space travelers to the early settlers of America?",
+  "instruction": "Read lines 11 and 12 from the poem.\n\nThey will have perils to meet, but they will meet them,\nAs the early settlers did on American shores.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To highlight the difficulties that the early settlers encountered when venturing into new places"
+    },
+    {
+      "label": "B",
+      "text": "To imply that the obstacles the early settlers faced discouraged them from exploring new lands"
+    },
+    {
+      "label": "C",
+      "text": "To suggest that explorers will overcome the difficulties in space just as explorers in the past overcame their difficulties"
+    },
+    {
+      "label": "D",
+      "text": "To demonstrate that explorers will encounter the same challenges in space as explorers in the past did in other frontiers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "They will have perils to meet, but they will meet them,\nAs the early settlers did on American shores."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

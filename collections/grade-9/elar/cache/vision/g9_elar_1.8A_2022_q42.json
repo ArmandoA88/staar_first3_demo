@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author wrote this article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To emphasize the need for frequent forest bathing"
+    },
+    {
+      "label": "G",
+      "text": "To describe the positive effects of forest bathing"
+    },
+    {
+      "label": "H",
+      "text": "To explain the history of forest bathing"
+    },
+    {
+      "label": "J",
+      "text": "To persuade people to try forest bathing"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

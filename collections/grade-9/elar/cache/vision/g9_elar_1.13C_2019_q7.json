@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 6 and 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "My own sister is having a hard time in math attending one of the elementary schools that feeds into our high school."
+    },
+    {
+      "label": "B",
+      "text": "My own sister attends one of the elementary schools that feeds into our high school although she is having a hard time in math."
+    },
+    {
+      "label": "C",
+      "text": "My own sister, who attends one of the elementary schools that feeds into our high school, is having a hard time in math."
+    },
+    {
+      "label": "D",
+      "text": "My own sister attends one of the elementary schools that feeds into our high school, she is having a hard time in math."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the poet suggesting by referring to the speaker\u2019s \u201cinvisible twin\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The speaker has a sister living on the island whom she is looking forward to seeing."
+    },
+    {
+      "label": "G",
+      "text": "The speaker feels a bond with the land, and she believes it will always be her homeland."
+    },
+    {
+      "label": "H",
+      "text": "The speaker feels lonely on the island, and she wishes her family were there to share the experience with her."
+    },
+    {
+      "label": "J",
+      "text": "The speaker looks forward to spending time with close friends while she visits her homeland."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "It\u2019s as if my other self has been here all along\u2014 the invisible twin who never left this island and never will."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

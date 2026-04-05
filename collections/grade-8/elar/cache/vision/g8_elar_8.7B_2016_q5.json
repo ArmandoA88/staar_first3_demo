@@ -1,0 +1,30 @@
+{
+  "stem": "Byrd's actions in this sentence best demonstrate her \u2014",
+  "instruction": "Read this sentence from paragraph 10.\n\nWhen I snuck back into the kitchen a few hours later to retrieve it, the heat from the gaslight had cooked the spine, leaving a smoldering black mark.",
+  "options": [
+    {
+      "label": "A",
+      "text": "determination to make her mother respect her personal choices"
+    },
+    {
+      "label": "B",
+      "text": "persistence in pursuing her own interests despite the opinions of others"
+    },
+    {
+      "label": "C",
+      "text": "ability to have a positive outlook while encountering challenging circumstances"
+    },
+    {
+      "label": "D",
+      "text": "decisiveness about taking action to do what is best for her family"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "When I snuck back into the kitchen a few hours later to retrieve it, the heat from the gaslight had cooked the spine, leaving a smoldering black mark."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

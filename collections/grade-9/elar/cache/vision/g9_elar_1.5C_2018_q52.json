@@ -1,0 +1,28 @@
+{
+  "stem": "Which interpretation of the cartoon best supports the author's position in the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The boy is excited about winning a competition."
+    },
+    {
+      "label": "G",
+      "text": "The boy would like to win more trophies for his collection."
+    },
+    {
+      "label": "H",
+      "text": "The boy wants to improve his skills so that he will continue to win."
+    },
+    {
+      "label": "J",
+      "text": "The boy is used to getting trophies simply for participating in activities."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

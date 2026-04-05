@@ -1,0 +1,28 @@
+{
+  "stem": "Which quotation best conveys the author's message?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\"The blind man's music was enchanting. After he finished his song, I left him a few coins, expecting to continue on my way.\""
+    },
+    {
+      "label": "B",
+      "text": "My grandfather knew that if he wasn't willing to part with his precious heirlooms, his family might go hungry. It was a sacrifice he was willing to make."
+    },
+    {
+      "label": "C",
+      "text": "Each night when my grandfather took out the valuable pieces that he planned to sell the next day, he would describe to me why he loved them."
+    },
+    {
+      "label": "D",
+      "text": "\"I probably paid far more than it was worth because I emptied out my pockets and gave the blind man all my cash.\""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

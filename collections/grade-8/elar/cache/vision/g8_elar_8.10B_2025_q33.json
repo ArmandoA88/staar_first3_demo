@@ -1,0 +1,34 @@
+{
+  "stem": "Bruno\u2019s conclusion is weak. Which sentences should replace sentences 33 and 34 to bring this paper to a more effective conclusion?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "So watch for opportunities to leave an online review. In the long run, you will be glad that you did."
+    },
+    {
+      "label": "B",
+      "text": "Therefore, the act of leaving a review does not just benefit the business asking for it. It benefits everyone."
+    },
+    {
+      "label": "C",
+      "text": "Certainly, the customers who write reviews are real people just like you and me. It is important to keep this in mind."
+    },
+    {
+      "label": "D",
+      "text": "Most importantly, read the reviews before you buy a product. It can be the difference between a good and bad life decision."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2025 \u2013 Q33 Passage #4",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

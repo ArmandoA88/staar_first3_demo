@@ -1,0 +1,30 @@
+{
+  "stem": "Candice needs a topic sentence for the third paragraph (sentences 19\u201321). Which of the following sentences should be inserted before sentence 19 to introduce the ideas in this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Over time a vast array of creatures has come to inhabit the Great Barrier Reef."
+    },
+    {
+      "label": "B",
+      "text": "Marine animal species that are threatened are protected by the Great Barrier Reef Marine Park Authority."
+    },
+    {
+      "label": "C",
+      "text": "The biodiversity of the Great Barrier Reef ensures its long-term existence."
+    },
+    {
+      "label": "D",
+      "text": "The waters along the Great Barrier Reef provide a habitat for marine animals that researchers study."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

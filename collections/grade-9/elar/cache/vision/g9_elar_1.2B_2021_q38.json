@@ -1,0 +1,35 @@
+{
+  "stem": "Which word from the article means \"average or uninspired\"?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "jumbled (paragraph 3)"
+    },
+    {
+      "label": "G",
+      "text": "mediocre (paragraph 4)"
+    },
+    {
+      "label": "H",
+      "text": "bleary-eyed (paragraph 7)"
+    },
+    {
+      "label": "J",
+      "text": "pervasive (paragraph 9)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q38 Passage #6",
+    "38 Which word from the article means \u201caverage or uninspired\u201d?",
+    "F jumbled (paragraph 3)",
+    "G mediocre (paragraph 4)",
+    "H bleary-eyed (paragraph 7)",
+    "J pervasive (paragraph 9)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

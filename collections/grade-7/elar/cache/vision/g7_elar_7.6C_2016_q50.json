@@ -1,0 +1,30 @@
+{
+  "stem": "The author begins and ends the selection with this idea in order to emphasize that \u2014",
+  "instruction": "Read this sentence from the selection.\n\n_I believe that patience is bitter, but its fruit is sweet._",
+  "options": [
+    {
+      "label": "F",
+      "text": "finding an interesting hobby may take many years"
+    },
+    {
+      "label": "G",
+      "text": "positive results take time but are worth the wait"
+    },
+    {
+      "label": "H",
+      "text": "many people focus on what they want in the present"
+    },
+    {
+      "label": "J",
+      "text": "completing a long-term goal is difficult for most people"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "_I believe that patience is bitter, but its fruit is sweet._"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

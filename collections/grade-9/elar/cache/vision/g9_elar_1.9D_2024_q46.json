@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change showed to shown"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after plants"
+    },
+    {
+      "label": "C",
+      "text": "Change between to with"
+    },
+    {
+      "label": "D",
+      "text": "Change city to City"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 11?",
+    "A Change showed to shown",
+    "B Insert a comma after plants",
+    "C Change between to with",
+    "D Change city to City"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

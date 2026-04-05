@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the poet uses this figurative language?",
+  "instruction": "Read line 16 of the poem \u201cDon\u2019t Go Into the Library.\u201d\n\nThe deli offerings of civilization itself.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To imply that not all library books are appealing"
+    },
+    {
+      "label": "B",
+      "text": "To suggest that libraries are not as popular as they once were"
+    },
+    {
+      "label": "C",
+      "text": "To convey the idea that there are many options in the library"
+    },
+    {
+      "label": "D",
+      "text": "To share the importance of certain topics found in the library"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The deli offerings of civilization itself."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 0.99,
+  "notes": null
+}

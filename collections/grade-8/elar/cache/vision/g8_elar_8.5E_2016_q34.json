@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from \"A Little Common Courtesy, Please.\"  \n\nI think that common courtesy is no less important today than it was in the past.\n\nWhich character from \"The View from Saturday\" holds a similar belief?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Joey"
+    },
+    {
+      "label": "G",
+      "text": "Noah"
+    },
+    {
+      "label": "H",
+      "text": "The mother"
+    },
+    {
+      "label": "J",
+      "text": "The grandparents"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I think that common courtesy is no less important today than it was in the past."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

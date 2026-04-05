@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Groaning quietly, I slowly moved all my limbs. Until I realized one big toe was not cooperating."
+    },
+    {
+      "label": "B",
+      "text": "Groaning quietly, I slowly moved all my limbs until I realized one big toe was not cooperating."
+    },
+    {
+      "label": "C",
+      "text": "Groaning quietly and slowly moving all my limbs. I then realized one big toe was not cooperating."
+    },
+    {
+      "label": "D",
+      "text": "Groaning quietly, I slowly moved all my limbs and then realized it, one big toe was not cooperating."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

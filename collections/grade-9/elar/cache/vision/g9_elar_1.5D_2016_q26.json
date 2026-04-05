@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these best summarizes the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Throughout her career, Pat Summitt has been an important figure in women's sports. Although it was difficult for her to face the discrimination directed at female players and coaches, she managed to have successful seasons at the University of Tennessee."
+    },
+    {
+      "label": "G",
+      "text": "The popularity of women's sports today is largely the result of the enactment of Title IX in 1972. Before that, female athletes like Pat Summitt had little funding or support for their teams. Pat Summitt's success is an example of how Title IX helped women athletes and coaches."
+    },
+    {
+      "label": "H",
+      "text": "Although Pat Summitt had been a very successful basketball coach for many years, her primary accomplishment came after she developed Alzheimer's disease. By refusing to hide her diagnosis from the public and vowing to continue coaching, she set a powerful example for others."
+    },
+    {
+      "label": "J",
+      "text": "Through her determination to lead and succeed, Pat Summitt has become both a successful coach and an inspiration to female athletes. She applied the work ethic she learned as a child to her playing and coaching career, ultimately winning more games than any other college coach."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

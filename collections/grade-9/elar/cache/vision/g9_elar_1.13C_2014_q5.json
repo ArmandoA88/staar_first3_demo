@@ -1,0 +1,30 @@
+{
+  "stem": "The meaning of sentence 23 is unclear. What is the most effective way to clarify the meaning of this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change sometimes to there are times when"
+    },
+    {
+      "label": "B",
+      "text": "Change population to citizenry"
+    },
+    {
+      "label": "C",
+      "text": "Change chooses to selects"
+    },
+    {
+      "label": "D",
+      "text": "Change them to those important decisions"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

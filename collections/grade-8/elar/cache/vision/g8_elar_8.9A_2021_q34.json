@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author wrote this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To describe a unique way that people can get involved in their communities"
+    },
+    {
+      "label": "G",
+      "text": "To convince community leaders to establish food forests"
+    },
+    {
+      "label": "H",
+      "text": "To detail an alternative agricultural practice that is becoming more popular"
+    },
+    {
+      "label": "J",
+      "text": "To expose flaws in the implementation of food forests"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

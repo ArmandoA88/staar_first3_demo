@@ -1,0 +1,30 @@
+{
+  "stem": "Which inference about Little Free Libraries from the article does the map support?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They provide low-tech entertainment."
+    },
+    {
+      "label": "G",
+      "text": "They appeal primarily to children."
+    },
+    {
+      "label": "H",
+      "text": "They benefit local communities."
+    },
+    {
+      "label": "J",
+      "text": "They offer an unusual selection of books."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

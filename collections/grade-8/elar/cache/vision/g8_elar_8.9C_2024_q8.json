@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason this photograph is included in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To highlight that Chanute's glider was designed to carry a passenger"
+    },
+    {
+      "label": "B",
+      "text": "To demonstrate that Chanute's glider tests took place during varying weather conditions"
+    },
+    {
+      "label": "C",
+      "text": "To show that Chanute made hundreds of glider test flights in a two-year time span"
+    },
+    {
+      "label": "D",
+      "text": "To suggest that Chanute took advice from his assistants when designing his glider"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph of a man test flying a glider with the caption 'Chanute Observes a Test Flight of His Glider on the Shores of Lake Michigan, 1896'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

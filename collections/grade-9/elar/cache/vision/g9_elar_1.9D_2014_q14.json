@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "For the rest of the day, neither of us spoke, and it was obvious. That she was no happier about the arrangement than I was."
+    },
+    {
+      "label": "G",
+      "text": "For the rest of the day, neither of us spoke it was obvious that she was no happier about the arrangement than I was."
+    },
+    {
+      "label": "H",
+      "text": "For the rest of the day, neither of us spoke. Which made it obvious that she was no happier about the arrangement than I was."
+    },
+    {
+      "label": "J",
+      "text": "For the rest of the day, neither of us spoke. It was obvious that she was no happier about the arrangement than I was."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

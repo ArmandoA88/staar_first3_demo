@@ -1,0 +1,28 @@
+{
+  "stem": "What is the primary purpose of paragraph 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To start the story with an exciting event"
+    },
+    {
+      "label": "B",
+      "text": "To establish the context for the events that follow"
+    },
+    {
+      "label": "C",
+      "text": "To reveal that the narrator is unreliable"
+    },
+    {
+      "label": "D",
+      "text": "To introduce the reader to the story's primary conflict"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

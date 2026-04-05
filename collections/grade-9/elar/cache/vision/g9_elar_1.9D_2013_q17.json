@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after contacts"
+    },
+    {
+      "label": "B",
+      "text": "Change saw to seen"
+    },
+    {
+      "label": "C",
+      "text": "Change me to mine"
+    },
+    {
+      "label": "D",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

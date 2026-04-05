@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition most closely matches the meaning of surveyed as it is used in paragraph 2?",
+  "instruction": "Read the following dictionary entry.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "survey \\s\u0259r-\u02c8v\u0101\\ v 1. to collect data by asking questions 2. to take measurements on a piece of land 3. to determine the value of something 4. to look over thoroughly"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What revision, if any, is needed in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Research at the New School in New York City and at the University of Toronto found that people who read fictional stories have higher empathy levels than those who don\u2019t."
+    },
+    {
+      "label": "B",
+      "text": "Research found that people who read fictional stories have higher empathy levels than those who don\u2019t, which was learned at the New School in New York City and the University of Toronto."
+    },
+    {
+      "label": "C",
+      "text": "Research at the New School in New York City found that people who read fictional stories have higher empathy levels and also at the University of Toronto than those who don\u2019t."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What revision, if any, is needed in sentence 5?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

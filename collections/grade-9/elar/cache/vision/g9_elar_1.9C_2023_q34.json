@@ -1,0 +1,35 @@
+{
+  "stem": "What is the MOST effective revision to make in sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Though not fluent in toddler speak, Pedro detailed for Julian and described his latest trip with his mom to pick up his older siblings from school."
+    },
+    {
+      "label": "B",
+      "text": "Julian could tell that Pedro was detailing his latest trip with his mom while picking up his older siblings from school, though not fluent in toddler speak."
+    },
+    {
+      "label": "C",
+      "text": "Though not fluent in toddler speak, Julian could tell that Pedro was detailing his latest trip with his mom to pick up his older siblings from school."
+    },
+    {
+      "label": "D",
+      "text": "Pedro was detailing for Julian his latest trip with his mom, which was to pick up his older siblings from school, though not fluent in toddler speak."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q34 Passage #4",
+    "What is the MOST effective revision to make in sentence 20?",
+    "A Though not fluent in toddler speak, Pedro detailed for Julian and described his latest trip with his mom to pick up his older siblings from school.",
+    "B Julian could tell that Pedro was detailing his latest trip with his mom while picking up his older siblings from school, though not fluent in toddler speak.",
+    "C Though not fluent in toddler speak, Julian could tell that Pedro was detailing his latest trip with his mom to pick up his older siblings from school.",
+    "D Pedro was detailing for Julian his latest trip with his mom, which was to pick up his older siblings from school, though not fluent in toddler speak."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

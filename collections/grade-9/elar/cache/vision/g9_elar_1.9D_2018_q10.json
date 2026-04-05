@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 5 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change explore to explored"
+    },
+    {
+      "label": "G",
+      "text": "Change were written to was written"
+    },
+    {
+      "label": "H",
+      "text": "Change years to year's"
+    },
+    {
+      "label": "J",
+      "text": "Change you to they"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

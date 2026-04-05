@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best summarizes the excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "At Mr. Cobble's store, people watch a young boy untangle a knot that many others have tried to untie and failed."
+    },
+    {
+      "label": "G",
+      "text": "Mr. Cobble holds a contest at his store, and many people come to watch as a boy tries to untie a knot that is famous in the town."
+    },
+    {
+      "label": "H",
+      "text": "Several spectators spend the day watching a boy struggle to untie a knot while they eat pizza and drink soda at Mr. Cobble's store."
+    },
+    {
+      "label": "J",
+      "text": "A young boy accepts the challenge of untying a knot at Mr. Cobble's store and is able to do so after taking a nap."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

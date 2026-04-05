@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective way to combine sentences 12 and 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Amy Cuddy did a study on how \"power poses\" affect people she is a social psychologist at Harvard University."
+    },
+    {
+      "label": "B",
+      "text": "Amy Cuddy did a study on how \"power poses\" affect people, a social psychologist at Harvard University."
+    },
+    {
+      "label": "C",
+      "text": "Amy Cuddy, a social psychologist at Harvard University, did a study on how \"power poses\" affect people."
+    },
+    {
+      "label": "D",
+      "text": "Amy Cuddy did a study, at Harvard University and with a social psychologist, on how \"power poses\" affect people."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

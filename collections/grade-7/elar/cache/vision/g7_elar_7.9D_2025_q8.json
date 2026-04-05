@@ -1,0 +1,30 @@
+{
+  "stem": "The playwright uses figurative language in this line most likely to suggest that the narrator \u2014",
+  "instruction": "Read line 32 from scene 2.",
+  "options": [
+    {
+      "label": "A",
+      "text": "knows what will happen in the last scene"
+    },
+    {
+      "label": "B",
+      "text": "wants to examine the characters more closely"
+    },
+    {
+      "label": "C",
+      "text": "believes she controls the action on stage"
+    },
+    {
+      "label": "D",
+      "text": "likes to add a sense of humor for the audience"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "NARRATOR: . . . But I may need to stir the pot a little in scene three."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

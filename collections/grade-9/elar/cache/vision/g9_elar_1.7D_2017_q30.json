@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best states the main idea of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Building Little Free Libraries was appealing to DooSun You of South Korea because books are a treasure in his life that he wanted to share with his neighbors."
+    },
+    {
+      "label": "G",
+      "text": "Hundreds of Little Free Libraries have been built with funds collected by people who have started fundraising campaigns on the Internet."
+    },
+    {
+      "label": "H",
+      "text": "Little Free Libraries are growing in popularity around the world because they bring neighbors together and make books more accessible."
+    },
+    {
+      "label": "J",
+      "text": "Little Free Libraries are small wooden boxes that hold a wide variety of books that appeal to many different types of people."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

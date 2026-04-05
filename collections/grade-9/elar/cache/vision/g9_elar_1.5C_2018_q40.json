@@ -1,0 +1,30 @@
+{
+  "stem": "How does the photograph support an important detail in paragraph 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "By showing the number of crew members on the Tangaroa"
+    },
+    {
+      "label": "G",
+      "text": "By demonstrating how Happy Feet used the slide"
+    },
+    {
+      "label": "H",
+      "text": "By showing the terrible weather conditions"
+    },
+    {
+      "label": "J",
+      "text": "By revealing what Happy Feet's custom-built crate looked like"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

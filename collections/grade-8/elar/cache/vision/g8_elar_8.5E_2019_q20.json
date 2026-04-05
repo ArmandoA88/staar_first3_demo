@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from \u201cThe Cure for Concrete\u201d shows a **similar** outcome for bioconcrete?",
+  "instruction": "Read this sentence from paragraph 5 of \u201cPersevering Plants.\u201d\n\nRodriguez has tested his endophyte mixture on crops and achieved success.",
+  "options": [
+    {
+      "label": "F",
+      "text": "The bacteria can live in the hardened concrete for decades. (paragraph 5)"
+    },
+    {
+      "label": "G",
+      "text": "In 2011 self-healing concrete was used to construct a lifeguard station near a lake in the Netherlands. (paragraph 6)"
+    },
+    {
+      "label": "H",
+      "text": "With the help of Jonkers\u2019 bioconcrete, the lifeguard station has remained intact. (paragraph 6)"
+    },
+    {
+      "label": "J",
+      "text": "Bioconcrete has been used on the floors and roofs of parking garages. (paragraph 6)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rodriguez has tested his endophyte mixture on crops and achieved success."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

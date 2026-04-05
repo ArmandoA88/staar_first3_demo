@@ -1,0 +1,30 @@
+{
+  "stem": "The reader can conclude from this line that the commentator \u2014",
+  "instruction": "Read line 4 from the play.",
+  "options": [
+    {
+      "label": "A",
+      "text": "thinks Pete\u2019s mistakes were funny"
+    },
+    {
+      "label": "B",
+      "text": "was not expecting Pete to make so many mistakes"
+    },
+    {
+      "label": "C",
+      "text": "is concerned that Angie was not able to catch Pete\u2019s mistakes on film"
+    },
+    {
+      "label": "D",
+      "text": "knows that people did not notice Pete\u2019s mistakes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "COMMENTATOR: [From offstage.] Okay . . . um . . . thank you, Pete Mahoney, for that . . . And now the referee will get ready for the coin toss. [Voice fades.]"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

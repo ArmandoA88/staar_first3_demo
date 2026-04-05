@@ -1,0 +1,30 @@
+{
+  "stem": "Based on this sentence, the reader can conclude that Andy \u2014",
+  "instruction": "Read this sentence from paragraph 9.\n\nMostly he drew during the free minutes of his day, when he could empty his mind and just trust his charcoal pencil.",
+  "options": [
+    {
+      "label": "F",
+      "text": "puts very little thought into his designs"
+    },
+    {
+      "label": "G",
+      "text": "draws when he is bored and has nothing else to do"
+    },
+    {
+      "label": "H",
+      "text": "feels compelled to sketch his designs at every opportunity"
+    },
+    {
+      "label": "J",
+      "text": "is unsure about how to use special drawing techniques"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Mostly he drew during the free minutes of his day, when he could empty his mind and just trust his charcoal pencil."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

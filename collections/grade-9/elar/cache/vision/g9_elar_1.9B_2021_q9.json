@@ -1,0 +1,30 @@
+{
+  "stem": "Arjun wants to add this sentence to his fifth paragraph (sentences 21\u201325).\n\nUnfortunately there was not enough revenue from tourism to finance the constant maintenance that the site required.\n\nWhere is the most effective place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 21"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 22"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 23"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 24"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text box around sentence: Unfortunately there was not enough revenue from tourism to finance the constant maintenance that the site required."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "What revision should be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "On top of all this, cities contain millions of people, and the people constantly generate heat by using machines and also by participation in other activities."
+    },
+    {
+      "label": "B",
+      "text": "On top of all this, constantly generating heat by using machines and participating in other activities are cities, which contain millions of people."
+    },
+    {
+      "label": "C",
+      "text": "On top of all this, cities contain millions of people, who constantly generate heat by using machines and participating in other activities."
+    },
+    {
+      "label": "D",
+      "text": "On top of all this are cities that contain millions of people, and they constantly generate heat, use machines, and participate in other activities."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

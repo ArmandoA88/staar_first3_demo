@@ -1,0 +1,30 @@
+{
+  "stem": "The result of Cleary's experiment supports which idea about d\u00e9j\u00e0 vu?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "But this was proved untrue when a 2006 experiment at the University of Leeds, a world leader in d\u00e9j\u00e0 vu research, demonstrated that the blind also experience d\u00e9j\u00e0 vu."
+    },
+    {
+      "label": "G",
+      "text": "One early explanation of d\u00e9j\u00e0 vu suggested that the eyes were sending messages to the brain at different speeds."
+    },
+    {
+      "label": "H",
+      "text": "When a person enters the new place, the neurons processing it may misfire and retrieve details that overlap a previous experience."
+    },
+    {
+      "label": "J",
+      "text": "In 2007, neuroscientists at the Massachusetts Institute of Technology (MIT) researched the hippocampus, the part of the brain thought to be responsible for learning and memory."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with question and four answer choices labeled F, G, H, J in italic font"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

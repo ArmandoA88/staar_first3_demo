@@ -1,0 +1,28 @@
+{
+  "stem": "Tracy has included a redundant sentence in the last paragraph (sentences 18\u201323). Which sentence should be deleted from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 18"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 19"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 20"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 21"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

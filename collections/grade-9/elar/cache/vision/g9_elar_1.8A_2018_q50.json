@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best expresses the controlling idea of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "But after such praise of their innate abilities, they collapse at the first experience of difficulty."
+    },
+    {
+      "label": "G",
+      "text": "It adds up: trophy and award sales are now an estimated $3 billion-a-year industry in the United States and Canada."
+    },
+    {
+      "label": "H",
+      "text": "Awards can be powerful motivators, but nonstop recognition does not inspire children to succeed."
+    },
+    {
+      "label": "J",
+      "text": "Trophies were once rare things\u2014sterling silver loving cups bought from jewelry stores for truly special occasions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

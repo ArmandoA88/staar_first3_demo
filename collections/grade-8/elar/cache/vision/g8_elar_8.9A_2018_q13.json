@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence from the selection best explains why some people may prefer human-to-human communication?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Despite the efficiency of these systems, many people find them impersonal, stilted, and sometimes frustrating."
+    },
+    {
+      "label": "B",
+      "text": "Even the advanced human-machine interfaces used today are unable to trick the judge consistently into thinking a computer is a human."
+    },
+    {
+      "label": "C",
+      "text": "Simply put, the reason is that human beings rely on more than words to produce utterances and derive meaning from them."
+    },
+    {
+      "label": "D",
+      "text": "While the potential for spontaneous communication between a human and a machine may seem exciting, this possibility concerns some people."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change important to importent"
+    },
+    {
+      "label": "G",
+      "text": "Change the comma to a semicolon"
+    },
+    {
+      "label": "H",
+      "text": "Change will bring to brought"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

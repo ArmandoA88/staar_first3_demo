@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence should replace sentence 32 to bring this paper to a more effective conclusion?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Hudson River School artists will always be known for their bravery, friendliness, and relaxed personalities."
+    },
+    {
+      "label": "B",
+      "text": "And many Americans did just that as they settled across the United States and began to make homes for their families."
+    },
+    {
+      "label": "C",
+      "text": "If you ever get a chance to see some of these paintings, you should take the time to appreciate their beauty."
+    },
+    {
+      "label": "D",
+      "text": "No wonder the paintings of the Hudson River School remain some of the most beloved artwork ever produced."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "multiple choice question with four options"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

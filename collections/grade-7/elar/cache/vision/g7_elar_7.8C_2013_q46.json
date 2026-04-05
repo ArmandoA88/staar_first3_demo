@@ -1,0 +1,35 @@
+{
+  "stem": "The playwright uses the stage directions at the end of Scene 1 to hint that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the banker cannot be trusted"
+    },
+    {
+      "label": "G",
+      "text": "the boy is tired of playing"
+    },
+    {
+      "label": "H",
+      "text": "the witness is not reliable"
+    },
+    {
+      "label": "J",
+      "text": "the boy\u2019s parents will be home soon"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q46 Passage #5",
+    "46 The playwright uses the stage directions at the end of Scene 1 to hint that \u2014",
+    "F the banker cannot be trusted",
+    "G the boy is tired of playing",
+    "H the witness is not reliable",
+    "J the boy\u2019s parents will be home soon"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

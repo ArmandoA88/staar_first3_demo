@@ -1,0 +1,31 @@
+{
+  "stem": "Who is the author most likely addressing in the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Someone planning on writing a research paper"
+    },
+    {
+      "label": "B",
+      "text": "Someone considering a career as a historian"
+    },
+    {
+      "label": "C",
+      "text": "Someone trying to fact-check a book"
+    },
+    {
+      "label": "D",
+      "text": "Someone wanting to debate about intellectual property"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text",
+    "four labeled multiple-choice options"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

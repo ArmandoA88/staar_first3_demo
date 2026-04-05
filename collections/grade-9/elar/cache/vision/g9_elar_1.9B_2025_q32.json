@@ -1,0 +1,30 @@
+{
+  "stem": "Ramsey wants to add this sentence to the third paragraph (sentences 10\u201313).\n\nIn fact, it can take many centuries for them to reach a significant size.\n\nWhere should this sentence be added?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 10"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 11"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 12"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 13"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In fact, it can take many centuries for them to reach a significant size."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "How does sentence 28 need to be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change Similar to Similarly"
+    },
+    {
+      "label": "G",
+      "text": "Change female to females"
+    },
+    {
+      "label": "H",
+      "text": "Change started to would start"
+    },
+    {
+      "label": "J",
+      "text": "Insert a comma after Club"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

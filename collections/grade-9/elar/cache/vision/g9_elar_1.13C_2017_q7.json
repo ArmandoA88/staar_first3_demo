@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "And at the age of 17, she was playing for the University of North Carolina, she helped her team win four NCAA championships and broke many school records along the way."
+    },
+    {
+      "label": "B",
+      "text": "And at the age of 17, she was playing for the University of North Carolina and won four NCAA championships and breaking many school records along the way, which helped her team."
+    },
+    {
+      "label": "C",
+      "text": "And at the age of 17, she was playing for the University of North Carolina, which helped her team win four NCAA championships and breaking many school records along the way."
+    },
+    {
+      "label": "D",
+      "text": "And at the age of 17, she was playing for the University of North Carolina, where she helped her team win four NCAA championships and broke many school records along the way."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

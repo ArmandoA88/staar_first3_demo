@@ -1,0 +1,30 @@
+{
+  "stem": "The story's third-person limited point of view gives the reader insight into \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the doubts Teresa's mother has about Teresa attending the tryout"
+    },
+    {
+      "label": "G",
+      "text": "Coach Jennings's thoughts about Teresa's jump at the tryout"
+    },
+    {
+      "label": "H",
+      "text": "the feelings Teresa has about her performance at the tryout"
+    },
+    {
+      "label": "J",
+      "text": "Coach Wilson's hesitation about sending Teresa to the tryout"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

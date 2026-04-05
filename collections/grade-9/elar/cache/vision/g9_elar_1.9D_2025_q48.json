@@ -1,0 +1,30 @@
+{
+  "stem": "Select the correct response for sentence 2.\n\nOld ____, books, clothes, and housewares mingled with dusty, ignored sporting goods and camping equipment.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "times"
+    },
+    {
+      "label": null,
+      "text": "days"
+    },
+    {
+      "label": null,
+      "text": "stores"
+    },
+    {
+      "label": null,
+      "text": "school"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dropdown menu"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

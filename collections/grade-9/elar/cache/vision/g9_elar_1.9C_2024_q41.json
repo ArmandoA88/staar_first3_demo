@@ -1,0 +1,34 @@
+{
+  "stem": "Maeve has included redundant information in sentence 27. What is the MOST effective way to revise this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An alternative approach for cooling paved areas and buildings is to add a reflective coating."
+    },
+    {
+      "label": "B",
+      "text": "An alternative approach is to add a reflective coating and another way for cooling paved areas and buildings."
+    },
+    {
+      "label": "C",
+      "text": "An alternative approach for cooling paved areas is to add a reflective coating for cooling buildings."
+    },
+    {
+      "label": "D",
+      "text": "An alternative approach is to add a reflective coating for cooling with paved areas and buildings."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2024 \u2013 Q41 Passage #5",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

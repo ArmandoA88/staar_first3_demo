@@ -1,0 +1,30 @@
+{
+  "stem": "The author includes this sentence most likely to show \u2014",
+  "instruction": "Read this sentence from paragraph 38. My breath caught inside my chest.",
+  "options": [
+    {
+      "label": "F",
+      "text": "the narrator\u2019s excitement over seeing the hummingbird"
+    },
+    {
+      "label": "G",
+      "text": "how strenuous the journey to see the hummingbird has been for the narrator"
+    },
+    {
+      "label": "H",
+      "text": "how quickly the narrator feels a connection to the hummingbird"
+    },
+    {
+      "label": "J",
+      "text": "the narrator\u2019s surprise that the hummingbird is alive"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "My breath caught inside my chest."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

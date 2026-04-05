@@ -1,0 +1,30 @@
+{
+  "stem": "What does the diagram in the article \u201cCounting like the Maya\u201d help the reader understand?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Why Mayan math requires less memorization than ordinary math"
+    },
+    {
+      "label": "B",
+      "text": "How Mayan symbols can be combined to indicate different numbers"
+    },
+    {
+      "label": "C",
+      "text": "Why students enjoy learning to use Mayan symbols"
+    },
+    {
+      "label": "D",
+      "text": "How students move objects around to learn Mayan math"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram in the article \u201cCounting like the Maya\u201d"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

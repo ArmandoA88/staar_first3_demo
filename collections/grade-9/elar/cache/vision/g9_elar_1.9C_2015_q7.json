@@ -1,0 +1,30 @@
+{
+  "stem": "Julio did not write an effective thesis for this paper. He would like to delete sentences 4 and 5 and replace them with two sentences that better articulate his thesis. Which of the following should he use?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Wind turbines aren\u2019t anything new. They have been around for a long time."
+    },
+    {
+      "label": "B",
+      "text": "People come up with new ideas. And new ideas mean creative solutions for all."
+    },
+    {
+      "label": "C",
+      "text": "This wind turbine is unique. It can produce both energy and water."
+    },
+    {
+      "label": "D",
+      "text": "A wind turbine may be the perfect answer. Experts believe this is true."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which phrase from the article \u201cAn Ancient Farming Method\u201d best supports the idea that the Inca once had a powerful civilization?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Hundreds of years ago, the Inca people farmed abundantly (paragraph 1)"
+    },
+    {
+      "label": "B",
+      "text": "that could feed an empire that stretched across South America (paragraph 2)"
+    },
+    {
+      "label": "C",
+      "text": "the engineering expertise behind the Inca\u2019s irrigation canals (paragraph 7)"
+    },
+    {
+      "label": "D",
+      "text": "having a positive effect on communities in the Sacred Valley (paragraph 8)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice text with four answer choices labeled A, B, C, D."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

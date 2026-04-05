@@ -1,0 +1,35 @@
+{
+  "stem": "What is the correct way to write sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "For this reason, Mount Everest is getting taller in fact; it grows about half an inch every year."
+    },
+    {
+      "label": "B",
+      "text": "For this reason, Mount Everest is getting taller, in fact, it grows about half an inch every year."
+    },
+    {
+      "label": "C",
+      "text": "For this reason, Mount Everest is getting taller; in fact, it grows about half an inch every year."
+    },
+    {
+      "label": "D",
+      "text": "For this reason, Mount Everest is getting taller, in fact it grows about half an inch every year."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q45 Passage #7",
+    "What is the correct way to write sentence 7?",
+    "A For this reason, Mount Everest is getting taller in fact; it grows about half an inch every year.",
+    "B For this reason, Mount Everest is getting taller, in fact, it grows about half an inch every year.",
+    "C For this reason, Mount Everest is getting taller; in fact, it grows about half an inch every year.",
+    "D For this reason, Mount Everest is getting taller, in fact it grows about half an inch every year."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

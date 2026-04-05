@@ -1,0 +1,28 @@
+{
+  "stem": "Emma has included a sentence that does not belong in the fifth paragraph (sentences 21\u201327). Which sentence should she remove?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 22"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 23"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 24"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 25"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

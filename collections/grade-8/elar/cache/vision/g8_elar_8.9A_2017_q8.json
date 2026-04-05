@@ -1,0 +1,30 @@
+{
+  "stem": "What does the imagery in this sentence suggest about the narrator?",
+  "instruction": "Read this sentence from paragraph 16.",
+  "options": [
+    {
+      "label": "F",
+      "text": "He knows that his father will support his decision if he has good reasons."
+    },
+    {
+      "label": "G",
+      "text": "He believes that it is unlikely he will ever be able to escape his father's judgment."
+    },
+    {
+      "label": "H",
+      "text": "He wants his father to act the way he did before he left to work on the bridge."
+    },
+    {
+      "label": "J",
+      "text": "He feels a new tension building between his father and him."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text from Dark Water Rising appeared in this text box. Copyright restrictions prevent that text from being displayed in this format."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

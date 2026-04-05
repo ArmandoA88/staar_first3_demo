@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 8 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change Him to He"
+    },
+    {
+      "label": "G",
+      "text": "Change the comma after leaving to a semicolon"
+    },
+    {
+      "label": "H",
+      "text": "Change saw to seen"
+    },
+    {
+      "label": "J",
+      "text": "Change refugee camps to Refugee Camps"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

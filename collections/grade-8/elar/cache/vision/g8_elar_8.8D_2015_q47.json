@@ -1,0 +1,28 @@
+{
+  "stem": "Which idea is supported by the information in paragraph 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Supermarkets plan to distribute handheld self-checkout devices to customers in the future."
+    },
+    {
+      "label": "B",
+      "text": "Monitoring customers allows supermarkets to make more profitable decisions."
+    },
+    {
+      "label": "C",
+      "text": "Technology has helped reduce the time a customer spends in the supermarket."
+    },
+    {
+      "label": "D",
+      "text": "Using a supermarket discount card is the most effective way to find an item on sale."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

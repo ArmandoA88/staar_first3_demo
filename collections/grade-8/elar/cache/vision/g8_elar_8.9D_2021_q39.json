@@ -1,0 +1,30 @@
+{
+  "stem": "The playwright uses figurative language in these sentences to show that Alyssa \u2014",
+  "instruction": "Read line 26.",
+  "options": [
+    {
+      "label": "A",
+      "text": "wants Samantha to realize that Samantha is abandoning the orchestra"
+    },
+    {
+      "label": "B",
+      "text": "believes that Samantha has chosen the newspaper over their friendship"
+    },
+    {
+      "label": "C",
+      "text": "worries that Samantha is writing for the newspaper because she doubts her musical talents"
+    },
+    {
+      "label": "D",
+      "text": "thinks Samantha will miss playing the violin while writing for the newspaper"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "ALYSSA: [Sighing.] Yes, I\u2019m first violin in orchestra, but I\u2019m not first violin to you. I\u2019m still playing second fiddle, while you\u2019re busy working on the newspaper."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

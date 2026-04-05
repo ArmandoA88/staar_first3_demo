@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the meaning of span in paragraph 6?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "span \u02c8span\\ n\n1. a limited period of time 2. an extended distance 3. the space between the end of the thumb and the end of the little finger 4. the length between two supports of a structure"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

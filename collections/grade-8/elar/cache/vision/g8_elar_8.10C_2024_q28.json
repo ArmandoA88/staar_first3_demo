@@ -1,0 +1,30 @@
+{
+  "stem": "What is the BEST way to revise sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It emphasized the grandeur of nature as a land of boundless opportunity and freedom, which was a promise America had."
+    },
+    {
+      "label": "B",
+      "text": "It emphasized the grandeur of nature and America's promise as a land of boundless opportunity and freedom."
+    },
+    {
+      "label": "C",
+      "text": "It emphasized the grandeur of nature with America's promise, and it emphasized it as a land of boundless opportunity and freedom."
+    },
+    {
+      "label": "D",
+      "text": "It emphasized the grandeur of nature for freedom of America and a promise of land with boundless opportunity."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text from the image depicting a multiple-choice question about revising sentence 4 with four options labeled A, B, C, and D."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

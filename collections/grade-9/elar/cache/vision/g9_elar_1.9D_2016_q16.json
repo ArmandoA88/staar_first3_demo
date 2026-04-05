@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Yes, I\u2019m Tyson\u2019s little brother, that\u2019s only part of my identity, though, I\u2019m a cool guy in my own way, too."
+    },
+    {
+      "label": "G",
+      "text": "Yes, I\u2019m Tyson\u2019s little brother, but that\u2019s only part of my identity. Because I\u2019m a cool guy in my own way, too."
+    },
+    {
+      "label": "H",
+      "text": "Yes, I\u2019m Tyson\u2019s little brother, but that\u2019s only part of my identity. I\u2019m a cool guy in my own way, too."
+    },
+    {
+      "label": "J",
+      "text": "Sentence 24 is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 0.99,
+  "notes": null
+}

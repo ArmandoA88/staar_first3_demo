@@ -1,0 +1,34 @@
+{
+  "stem": "The playwright develops the dramatic action in scene 2 by having \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Belinda and Robert listen in on Maura and Jorge\u2019s conversations"
+    },
+    {
+      "label": "B",
+      "text": "Maura and Jorge exit instead of waiting to see Belinda\u2019s and Robert\u2019s reactions"
+    },
+    {
+      "label": "C",
+      "text": "Belinda and Robert talk at the same time"
+    },
+    {
+      "label": "D",
+      "text": "Maura and Jorge speak at a particular volume"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The playwright develops the dramatic action in scene 2 by having \u2014",
+    "A Belinda and Robert listen in on Maura and Jorge\u2019s conversations",
+    "B Maura and Jorge exit instead of waiting to see Belinda\u2019s and Robert\u2019s reactions",
+    "C Belinda and Robert talk at the same time",
+    "D Maura and Jorge speak at a particular volume"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change \\textit{Although far} to It is far"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "C",
+      "text": "Change \\textit{venomus} to venomous"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 3 and 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "But online networking, which is very popular with teens today, promotes short, superficial connections."
+    },
+    {
+      "label": "B",
+      "text": "But online networking promotes short, superficial connections, it is very popular with teens today."
+    },
+    {
+      "label": "C",
+      "text": "But online networking that promotes short, superficial connections, it is very popular with teens today."
+    },
+    {
+      "label": "D",
+      "text": "But online networking promotes short, superficial connections with teens today, which it is very popular."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

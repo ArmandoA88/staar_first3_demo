@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change *minerallogical* to *mineralogical*"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma after *discovery*"
+    },
+    {
+      "label": "H",
+      "text": "Change *exploring* to *explore*"
+    },
+    {
+      "label": "J",
+      "text": "Change *them* to *it*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

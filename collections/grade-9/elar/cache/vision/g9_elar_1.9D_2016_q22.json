@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, should be made in sentence 53?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change past to passed"
+    },
+    {
+      "label": "G",
+      "text": "Delete and"
+    },
+    {
+      "label": "H",
+      "text": "Change resumed to resummed"
+    },
+    {
+      "label": "J",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

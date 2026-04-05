@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Byrd is riding on a train to Sweetwater, Texas. She meets a young woman who is traveling to the same place. Byrd shares food with the young woman, and they talk about a book they both have read."
+    },
+    {
+      "label": "B",
+      "text": "As Byrd rides on a train to Texas, she remembers how her mother once took away her favorite book about a female pilot. Byrd meets a young woman who notices that Byrd's book is in bad condition. They soon realize that they are both traveling to Sweetwater."
+    },
+    {
+      "label": "C",
+      "text": "Byrd dreams of flying, but her mother does not understand and forbids Byrd from even reading about a female pilot. Byrd decides to travel to Sweetwater, Texas, to train as an air force pilot. While riding the train, she meets a young woman who understands how she feels and shares her dream."
+    },
+    {
+      "label": "D",
+      "text": "Byrd is traveling to Sweetwater, Texas, by train. She falls asleep while reading her book, and when she awakens, a young woman explains that the train has already reached Texas. Byrd finds out that the young woman is also going to Sweetwater and is delighted to make the acquaintance of another female pilot."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

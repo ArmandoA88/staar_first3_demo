@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "G",
+      "text": "Delete and"
+    },
+    {
+      "label": "H",
+      "text": "Change creep's to creeps"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in sentence 4."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

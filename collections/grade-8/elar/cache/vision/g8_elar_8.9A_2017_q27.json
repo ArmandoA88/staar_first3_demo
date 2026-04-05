@@ -1,0 +1,30 @@
+{
+  "stem": "The author wrote this selection most likely to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "reveal that water scarcity is a major issue in Peru"
+    },
+    {
+      "label": "B",
+      "text": "suggest that billboards are an effective way to advertise products"
+    },
+    {
+      "label": "C",
+      "text": "describe the process of turning moisture in the air into drinkable water"
+    },
+    {
+      "label": "D",
+      "text": "highlight a partnership that created an interesting solution to a problem"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

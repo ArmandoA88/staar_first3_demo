@@ -1,0 +1,31 @@
+{
+  "stem": "What change should be made in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change results to result's"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after difficult"
+    },
+    {
+      "label": "H",
+      "text": "Change determined to determinned"
+    },
+    {
+      "label": "J",
+      "text": "Change his to their"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q30 Passage #5",
+    "30 What change should be made in sentence 21?\nF Change results to result's\nG Insert a comma after difficult\nH Change determined to determinned\nJ Change his to their"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

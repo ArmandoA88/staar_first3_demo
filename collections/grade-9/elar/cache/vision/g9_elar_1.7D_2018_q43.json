@@ -1,0 +1,30 @@
+{
+  "stem": "The author organizes this article by \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "comparing the life of a penguin in captivity with the life of a penguin in the wild"
+    },
+    {
+      "label": "B",
+      "text": "explaining how a penguin became ill, and then interviewing the veterinarian who cared for the penguin"
+    },
+    {
+      "label": "C",
+      "text": "presenting in chronological order the events that led to the penguin becoming a media celebrity"
+    },
+    {
+      "label": "D",
+      "text": "describing the outcome of efforts to rescue a penguin, and then recounting how the penguin was saved"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The text of the question and answer choices as visible in the image"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

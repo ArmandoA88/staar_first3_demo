@@ -1,0 +1,30 @@
+{
+  "stem": "What is a message in the poem \"The Tree\"?",
+  "instruction": "Use The Tree to answer the following question.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Some things in life are not fully appreciated until they are gone."
+    },
+    {
+      "label": "G",
+      "text": "The world is sometimes beyond our own understanding."
+    },
+    {
+      "label": "H",
+      "text": "Home is where people feel most comfortable to be themselves."
+    },
+    {
+      "label": "J",
+      "text": "It is difficult to predict the actions of our neighbors."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q20 Passage #3B"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

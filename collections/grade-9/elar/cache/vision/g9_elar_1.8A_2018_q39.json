@@ -1,0 +1,28 @@
+{
+  "stem": "What is the primary purpose of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To describe the remarkable qualities of an unusual penguin"
+    },
+    {
+      "label": "B",
+      "text": "To make an argument for the release of animals from captivity"
+    },
+    {
+      "label": "C",
+      "text": "To explain how a penguin made an unusual journey"
+    },
+    {
+      "label": "D",
+      "text": "To detail how a special team of zoologists saves endangered animals"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which word in paragraph 3 means \u201cgiven but not returned\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "savored"
+    },
+    {
+      "label": "B",
+      "text": "unrequited"
+    },
+    {
+      "label": "C",
+      "text": "furtive"
+    },
+    {
+      "label": "D",
+      "text": "sorrow"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

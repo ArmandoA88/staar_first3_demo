@@ -1,0 +1,30 @@
+{
+  "stem": "Anika has written a weak thesis statement for her paper. Which of the following can replace sentences 4 and 5 and serve as a more effective thesis for this paper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The people who live in Coober Pedy love their special little city. All of these people have made a decision to live in a unique way."
+    },
+    {
+      "label": "G",
+      "text": "It isn\u2019t what you can see that makes this city amazing; it\u2019s what you cannot see. There are 3,500 people who call Coober Pedy home, and almost all of them live and work under ground."
+    },
+    {
+      "label": "H",
+      "text": "Coober Pedy\u2019s interesting history includes miners, people living under ground, very hot weather, and media attention. All of this put together makes Coober Pedy an interesting place to me."
+    },
+    {
+      "label": "J",
+      "text": "It isn\u2019t because it\u2019s abandoned that Coober Pedy is fascinating; it\u2019s because it only looks abandoned since people are really living under ground."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

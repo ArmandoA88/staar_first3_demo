@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Chickadees may be small birds, but they are very strong and intelligent. Unlike other birds, chickadees do not migrate in the winter. Instead, they enjoy staying in cold climates such as Alaska, even though the temperature can be much colder than their bodies."
+    },
+    {
+      "label": "G",
+      "text": "Chickadees are tiny birds that can be found in extremely cold climates. To stay warm, they rely on fluffing their feathers, eating lots of food, and using the nights for sleeping. They have found many ways to protect their bodies from becoming too cold."
+    },
+    {
+      "label": "H",
+      "text": "When the winters grow colder, chickadees spend time fluffing their feathers. The colder it becomes, the more they fluff, so that sometimes they look like furry balls. By doing this, they are able to stay warm and protect their skin from the icy temperatures an inch away."
+    },
+    {
+      "label": "J",
+      "text": "Many people have seen the tiny birds known as black-capped chickadees. Although these birds are only the size of a person's thumb, they have very thick feathers. They also prepare by storing food so that they can survive during long winters."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

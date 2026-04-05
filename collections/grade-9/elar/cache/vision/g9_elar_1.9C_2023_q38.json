@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to revise sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He wanted to do something that solves practical problems, not only have a positive social impact."
+    },
+    {
+      "label": "B",
+      "text": "He wanted to do something that not only solves practical problems but could have a positive social impact."
+    },
+    {
+      "label": "C",
+      "text": "Solving practical problems that could have a positive social impact is what something he wanted to do."
+    },
+    {
+      "label": "D",
+      "text": "Doing something that solves practical problems, but could have a social impact is what he wanted."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

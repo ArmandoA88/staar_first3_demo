@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I had always been impressed that I had so many aunts and uncles. I realize now how hard my grandmother worked so everyone could have a comfortable life."
+    },
+    {
+      "label": "B",
+      "text": "I had always been impressed that I had so many aunts and uncles and I realize now how hard my grandmother worked so everyone could have a comfortable life."
+    },
+    {
+      "label": "C",
+      "text": "I had always been impressed. That I had so many aunts and uncles I realize now how hard my grandmother worked so everyone could have a comfortable life."
+    },
+    {
+      "label": "D",
+      "text": "I had always been impressed that I had so many aunts and uncles so I realize now how hard my grandmother worked so everyone could have a comfortable life."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

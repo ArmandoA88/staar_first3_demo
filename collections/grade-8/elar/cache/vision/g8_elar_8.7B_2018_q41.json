@@ -1,0 +1,30 @@
+{
+  "stem": "Teresa's comments influence the theme of the story because they show that she \u2014",
+  "instruction": "Read paragraph 3.",
+  "options": [
+    {
+      "label": "A",
+      "text": "does not know a lot about long jumping"
+    },
+    {
+      "label": "B",
+      "text": "thinks that her coach does not give her useful advice"
+    },
+    {
+      "label": "C",
+      "text": "believes that she is a better long jumper than she actually is"
+    },
+    {
+      "label": "D",
+      "text": "feels as though she has to prove her abilities to others"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"But I was born to do the long jump. My instinct is to jump,\" Teresa said as she sat on a bench. \"When I'm on the Olympic team, you'll see what I mean.\""
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

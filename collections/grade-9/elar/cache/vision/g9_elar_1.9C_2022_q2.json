@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 10 and 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Because they are so large, the mammoths likely would have struggled climbing out of the ravine in time surviving the sudden flooding."
+    },
+    {
+      "label": "G",
+      "text": "Because they are so large, the mammoths likely would have struggled to climb out of the ravine in time, surviving the sudden flooding."
+    },
+    {
+      "label": "H",
+      "text": "Because they are so large, the mammoths likely would have struggled to climb out of the ravine in time, and to survive the sudden flooding."
+    },
+    {
+      "label": "J",
+      "text": "Because they are so large, the mammoths likely would have struggled to climb out of the ravine in time to survive the sudden flooding."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

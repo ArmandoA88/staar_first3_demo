@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentences 2 and 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "As the competitors placed their chess pieces on the board, Kyle asked Jordan how long she had been playing the game."
+    },
+    {
+      "label": "B",
+      "text": "As the competitors placed their chess pieces on the board, Kyle asked Jordan. How long she had been playing the game."
+    },
+    {
+      "label": "C",
+      "text": "The competitors placed their chess pieces on the board, after that Kyle asked Jordan how long she had been playing the game."
+    },
+    {
+      "label": "D",
+      "text": "The competitors placed their chess pieces on the board. Then Kyle asking Jordan how long she had been playing the game."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q37 Passage #6"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

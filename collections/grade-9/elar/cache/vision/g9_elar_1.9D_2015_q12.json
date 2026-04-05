@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change placed to places"
+    },
+    {
+      "label": "G",
+      "text": "Change the comma to a period"
+    },
+    {
+      "label": "H",
+      "text": "Delete hardly"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in sentence 2."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

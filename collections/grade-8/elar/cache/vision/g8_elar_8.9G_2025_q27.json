@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes this analogy in the article?",
+  "instruction": "Read this sentence from paragraph 8.\n\nThe black paint is akin to black streaks that football players paint under their eyes to reduce glare on the playing field.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To explain how scientific inventions can influence sports"
+    },
+    {
+      "label": "B",
+      "text": "To emphasize the importance of eye protection for everyone"
+    },
+    {
+      "label": "C",
+      "text": "To connect new information in a context that might be familiar"
+    },
+    {
+      "label": "D",
+      "text": "To suggest that people have more choices for eye protection today than in the past"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The black paint is akin to black streaks that football players paint under their eyes to reduce glare on the playing field."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

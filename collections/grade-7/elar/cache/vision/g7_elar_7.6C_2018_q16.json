@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea in the selection do the photographs support?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Junior Achievement activities occur during regular school hours."
+    },
+    {
+      "label": "G",
+      "text": "Students in Junior Achievement programs can ask adults for help if necessary."
+    },
+    {
+      "label": "H",
+      "text": "The younger that children are, the more they benefit from Junior Achievement programs."
+    },
+    {
+      "label": "J",
+      "text": "Junior Achievement activities are designed to give students hands-on experience."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

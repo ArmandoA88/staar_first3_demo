@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author uses direct address in this sentence?\n\nIf you notice that those around you are using their phones too much, speak up.",
+  "instruction": "Read this sentence from paragraph 5.",
+  "options": [
+    {
+      "label": "F",
+      "text": "To show the reader that texting is enjoyable"
+    },
+    {
+      "label": "G",
+      "text": "To suggest that the reader take action"
+    },
+    {
+      "label": "H",
+      "text": "To encourage the reader to be more observant"
+    },
+    {
+      "label": "J",
+      "text": "To help the reader develop better friendships"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "If you notice that those around you are using their phones too much, speak up."
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

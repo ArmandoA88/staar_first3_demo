@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence from the story \"Last Dance\" best conveys the theme?",
+  "instruction": "Use Last Dance to answer the following question.",
+  "options": [
+    {
+      "label": "A",
+      "text": "We took turns each night picking which song to dance to, and no matter what had gone on that day or how mad we would be at each other, we would dance. (paragraph 1)"
+    },
+    {
+      "label": "B",
+      "text": "A few minutes in time-out had not been enough for us to stop being angry at each other, so before bedtime our dad took us to the living room and turned on his favorite song. (paragraph 2)"
+    },
+    {
+      "label": "C",
+      "text": "Some hours passed, and I began to get ready for bed, giving up on the notion that a last dance party would be happening. (paragraph 12)"
+    },
+    {
+      "label": "D",
+      "text": "I basked in the bittersweet, realizing that these were the moments to cherish. (paragraph 20)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

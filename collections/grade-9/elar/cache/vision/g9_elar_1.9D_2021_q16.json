@@ -1,0 +1,28 @@
+{
+  "stem": "What correction should be made in sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change *My* to *Our*"
+    },
+    {
+      "label": "G",
+      "text": "Change *covered* to covers"
+    },
+    {
+      "label": "H",
+      "text": "Delete the comma after *page*"
+    },
+    {
+      "label": "J",
+      "text": "Change *they* to it"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

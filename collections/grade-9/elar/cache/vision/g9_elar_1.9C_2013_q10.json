@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence could best be added after sentence 24 to support the idea expressed in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It is supposed to promote numeracy among people throughout the world."
+    },
+    {
+      "label": "G",
+      "text": "Flansburg has been featured on Fox News, CNN, and the Discovery Channel."
+    },
+    {
+      "label": "H",
+      "text": "Numeracy is defined as the ability to reason with numbers and other mathematical concepts."
+    },
+    {
+      "label": "J",
+      "text": "This online celebration pits students of all ages against one another in live games of mental arithmetic."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

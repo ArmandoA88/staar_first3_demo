@@ -1,0 +1,30 @@
+{
+  "stem": "What is the effect of the figurative language in this sentence?",
+  "instruction": "Read this sentence from paragraph 8.\n\nShe held her breath and walked more softly, almost sneaking up on the books that awaited her.",
+  "options": [
+    {
+      "label": "A",
+      "text": "It emphasizes Carol's sense that something out of the ordinary awaits her."
+    },
+    {
+      "label": "B",
+      "text": "It suggests that Carol's imagination is driving her actions."
+    },
+    {
+      "label": "C",
+      "text": "It creates an atmosphere of menace around the library."
+    },
+    {
+      "label": "D",
+      "text": "It contrasts the library with the comfort of the other parts of the house."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "She held her breath and walked more softly, almost sneaking up on the books that awaited her."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

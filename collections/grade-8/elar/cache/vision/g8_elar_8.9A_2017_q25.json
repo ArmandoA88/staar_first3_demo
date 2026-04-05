@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection explains why the water produced by the billboard is significant?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Lima, the capital city of the South American country of Peru, is located near the Pacific Ocean in the Sechura Desert."
+    },
+    {
+      "label": "B",
+      "text": "The water then flows through pipes into a storage tank at the foot of the billboard."
+    },
+    {
+      "label": "C",
+      "text": "Because of the scarcity of water, one out of every 10 residents has no access to running water."
+    },
+    {
+      "label": "D",
+      "text": "The water vapor in the air condenses, becoming liquid water."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text with four answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

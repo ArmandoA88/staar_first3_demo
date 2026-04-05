@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "And yet, in middle school. They had drifted apart."
+    },
+    {
+      "label": "B",
+      "text": "And yet, in middle school they had drifted apart."
+    },
+    {
+      "label": "C",
+      "text": "And yet. In middle school they had drifted apart."
+    },
+    {
+      "label": "D",
+      "text": "And yet, in middle school, having drifted apart."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

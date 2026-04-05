@@ -1,0 +1,35 @@
+{
+  "stem": "What change should be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *group's* to *groups'*"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after *together*"
+    },
+    {
+      "label": "C",
+      "text": "Change *preserve* to *preserving*"
+    },
+    {
+      "label": "D",
+      "text": "Change *its* to *their*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q49 Passage #7",
+    "What change should be made in sentence 9?",
+    "A Change *group\u2019s* to *groups\u2019*",
+    "B Insert a comma after *together*",
+    "C Change *preserve* to *preserving*",
+    "D Change *its* to *their*"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change have run to ran"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after year"
+    },
+    {
+      "label": "C",
+      "text": "Change was forced to is forced"
+    },
+    {
+      "label": "D",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change, if any, needs to be made in sentence 10?\n\nA  Change have run to ran\n\nB  Delete the comma after year\n\nC  Change was forced to is forced\n\nD  Make no change"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

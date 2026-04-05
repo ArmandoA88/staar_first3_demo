@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best describes the speaker's relationship with the river?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The river forces the speaker to make a decision."
+    },
+    {
+      "label": "B",
+      "text": "The river reminds the speaker of what is important."
+    },
+    {
+      "label": "C",
+      "text": "The river introduces the speaker to the outdoors."
+    },
+    {
+      "label": "D",
+      "text": "The river provides the speaker with an unusual experience."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

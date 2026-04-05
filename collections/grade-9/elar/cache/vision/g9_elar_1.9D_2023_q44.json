@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change were sold to was sold"
+    },
+    {
+      "label": "B",
+      "text": "Change the comma after reused to a semicolon"
+    },
+    {
+      "label": "C",
+      "text": "Change however to instead"
+    },
+    {
+      "label": "D",
+      "text": "Change scrapped to scraped"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

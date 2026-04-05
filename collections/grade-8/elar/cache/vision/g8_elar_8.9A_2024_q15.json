@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author wrote the article \u201cChallenging the Status Quo\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To educate the reader on why certain routines prevent real change"
+    },
+    {
+      "label": "B",
+      "text": "To urge the reader to make more meaningful changes in their lives"
+    },
+    {
+      "label": "C",
+      "text": "To encourage the reader to embrace change so society can progress"
+    },
+    {
+      "label": "D",
+      "text": "To explain to the reader how technological changes have improved everyday life"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice options labeled A through D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

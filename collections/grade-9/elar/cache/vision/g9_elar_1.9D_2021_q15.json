@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He said it was faster than trying to decode my texts, but I didn\u2019t understand what he meant until a few days later."
+    },
+    {
+      "label": "B",
+      "text": "He said it was faster than trying to decode my texts: I didn\u2019t understand what he meant until a few days later."
+    },
+    {
+      "label": "C",
+      "text": "He said it was faster than trying to decode my texts. Which I didn\u2019t understand what he meant until a few days later."
+    },
+    {
+      "label": "D",
+      "text": "He said it was faster than trying to decode my texts, and I didn\u2019t understand. What he meant until a few days later."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

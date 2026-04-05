@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 10 and 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Finally, when I had to repair my broken glasses following a particularly rough basketball game is when I agreed. To give contact lenses a try."
+    },
+    {
+      "label": "G",
+      "text": "Finally, I had to repair my broken glasses following a particularly rough basketball game, then I agreed to give contact lenses a try."
+    },
+    {
+      "label": "H",
+      "text": "Finally, after having to repair my broken glasses following a particularly rough basketball game, I agreed to give contact lenses a try."
+    },
+    {
+      "label": "J",
+      "text": "Sentences 10 and 11 are correct in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

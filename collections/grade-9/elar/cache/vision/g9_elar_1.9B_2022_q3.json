@@ -1,0 +1,30 @@
+{
+  "stem": "Zendaya would like to add another detail in the fifth paragraph (sentences 20\u201324).\n\nAlthough the temperatures were only slightly different, the changes may have greatly affected rainfall, soil, and plant and animal growth, ultimately leading to the mammoths\u2019 death.\n\nWhere is the best place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 20"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 22"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 23"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 24"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box containing italicized sentence"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

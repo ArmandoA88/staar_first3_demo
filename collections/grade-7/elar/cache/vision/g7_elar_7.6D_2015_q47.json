@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Even though Kirby doubts his ability to play basketball, his cousin Bragger wants him to try out for the team. Kirby says he will not try out for the team, even though he loves basketball. As Coach Armstrong hands out permission slips, Kirby tries to convince himself that he will not try out for the team."
+    },
+    {
+      "label": "B",
+      "text": "While Kirby shoots baskets in the gym, he thinks about what it would be like to be a star basketball player. When some other boys ask him to stop standing around, he attempts a shot. Even though the ball misses the basket, Kirby's cousin Bragger tells Kirby he is not as bad as he thinks."
+    },
+    {
+      "label": "C",
+      "text": "After Kirby misses a basketball shot, his cousin Bragger offers him some advice about technique. Kirby does not want to take Bragger seriously and insists that he will not try out for the team, despite his love of the game. Bragger decides that he will have to make sure the team wins and attempts a shot at the basket."
+    },
+    {
+      "label": "D",
+      "text": "Kirby is shooting baskets in the gym before basketball tryouts. His cousin Bragger wants him to try out for the team because Kirby loves basketball, but Kirby insists he is not good enough as a player. As Coach Armstrong hands out permission slips, Kirby considers contributing to the team in a way that does not include playing."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

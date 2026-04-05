@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to revise sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Studies show that the average distance most food travels before it reaches your plate, it is a distance of 1,500 miles!"
+    },
+    {
+      "label": "G",
+      "text": "Studies show this. That the average distance most food travels before it reaches your plate is 1,500 miles!"
+    },
+    {
+      "label": "H",
+      "text": "Studies show that the average distance before it reaches your plate that most food travels is 1,500 miles!"
+    },
+    {
+      "label": "J",
+      "text": "Studies show that the average distance most food travels before it reaches your plate is 1,500 miles!"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

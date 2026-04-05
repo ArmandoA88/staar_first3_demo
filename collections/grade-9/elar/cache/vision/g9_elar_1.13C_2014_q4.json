@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to revise sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Because it\u2019s astounding to me, Texas has one of the lowest voter turnout rates in the United States."
+    },
+    {
+      "label": "G",
+      "text": "It\u2019s astounding to me what Texas has being one of the lowest voter turnout rates in the United States."
+    },
+    {
+      "label": "H",
+      "text": "It\u2019s astounding to me that Texas has one of the lowest voter turnout rates in the United States."
+    },
+    {
+      "label": "J",
+      "text": "As astounding as it is, it\u2019s also shocking that Texas has one of the lowest voter turnout rates in the United States."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

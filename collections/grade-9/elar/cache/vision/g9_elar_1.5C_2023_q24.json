@@ -1,0 +1,30 @@
+{
+  "stem": "Which quotation from the article shows that the area along the National Road is scenic?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By 1818 the road was completed to Wheeling, and mail coaches began using the road. (paragraph 2)"
+    },
+    {
+      "label": "B",
+      "text": "Thousands moved west in covered wagons, and stagecoaches traveled the road, keeping to regular schedules. (paragraph 3)"
+    },
+    {
+      "label": "C",
+      "text": "Cameras capture old buildings, bridges, and old stone mile markers. (paragraph 4)"
+    },
+    {
+      "label": "D",
+      "text": "In 1933 a new steel bridge joined the banks of the Casselman River. (paragraph 5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

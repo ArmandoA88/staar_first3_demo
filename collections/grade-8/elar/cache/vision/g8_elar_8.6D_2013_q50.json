@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of this article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Invisible ink, which helped George Washington win the Revolutionary War against the British, can be easily made out of lemon juice. Another way to write with invisible ink is to use chemicals called \u201cstain\u201d and \u201csympathetic stain.\u201d"
+    },
+    {
+      "label": "G",
+      "text": "The Culper Ring was a group of American spies that operated around New York City during the Revolutionary War. The spies included Robert Townsend, Abraham Woodhull, Austin Roe, and Major Tallmadge."
+    },
+    {
+      "label": "H",
+      "text": "During the Revolutionary War, George Washington established a network of spies that provided him with information about the British forces. One group, the Culper Ring, sent him many valuable messages written in invisible ink, a technique that helped Washington defeat the British."
+    },
+    {
+      "label": "J",
+      "text": "Although many people believe that George Washington never lied, he did use deceptive tricks such as secret agents, double agents, and codes against the British during the Revolutionary War. He found that using invisible ink to send secret messages was especially useful."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

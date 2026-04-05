@@ -1,0 +1,30 @@
+{
+  "stem": "What is the BEST transition to add to the beginning of sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Obviously"
+    },
+    {
+      "label": "B",
+      "text": "Likewise"
+    },
+    {
+      "label": "C",
+      "text": "Suddenly"
+    },
+    {
+      "label": "D",
+      "text": "However"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice answer options labeled A through D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

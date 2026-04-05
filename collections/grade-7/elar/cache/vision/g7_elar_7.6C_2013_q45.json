@@ -1,0 +1,30 @@
+{
+  "stem": "What is ironic about the parents' belief that their son is honest?",
+  "instruction": "Read the following line from Scene 3 of the play.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The boy realizes that the witness is unable to talk about the agreement."
+    },
+    {
+      "label": "B",
+      "text": "The boy does not want to reveal to the banker where his parents are."
+    },
+    {
+      "label": "C",
+      "text": "The boy explains that the banker said he would not collect the money owed."
+    },
+    {
+      "label": "D",
+      "text": "The boy lies in court in order to get the banker to tell the truth."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "NARRATOR: The boy's parents know that their son is honest, so they have gone to court to let a mandarin decide what to do."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

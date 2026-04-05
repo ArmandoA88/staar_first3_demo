@@ -1,0 +1,30 @@
+{
+  "stem": "This poem is mostly about a young man who \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "follows people going west in search of gold and tries different locations without success"
+    },
+    {
+      "label": "G",
+      "text": "looks for a better alternative to a job that he does not enjoy doing and becomes a gold prospector"
+    },
+    {
+      "label": "H",
+      "text": "goes west in hopes of finding gold and after several unsuccessful attempts finally realizes a better way to earn money"
+    },
+    {
+      "label": "J",
+      "text": "tries the same method for finding gold and is unsuccessful because of his unwillingness to change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "What change should be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change These to Them"
+    },
+    {
+      "label": "B",
+      "text": "Change response to responce"
+    },
+    {
+      "label": "C",
+      "text": "Change radiating to radiated"
+    },
+    {
+      "label": "D",
+      "text": "Change planets' to planet's"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change should be made in sentence 2?",
+    "A Change These to Them",
+    "B Change response to responce",
+    "C Change radiating to radiated",
+    "D Change planets' to planet's"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the author\u2019s main purpose for writing this article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To inform the reader about a unique journey at the beginning of the automobile era"
+    },
+    {
+      "label": "G",
+      "text": "To criticize Jackson for wasting funds on a foolish and unnecessary wager"
+    },
+    {
+      "label": "H",
+      "text": "To analyze the best route for a transcontinental trip in the early twentieth century"
+    },
+    {
+      "label": "J",
+      "text": "To argue that Jackson used the best route to reach New York City faster than his competitors"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

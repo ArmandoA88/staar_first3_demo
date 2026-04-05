@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 6.\n\n\"We think it\u2019s important to put public food in public spaces,\" she said.\n\nWhat does this sentence help the reader to understand?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The main reason the food forest in Thorne-Rider Park was started"
+    },
+    {
+      "label": "B",
+      "text": "The high level of interest communities have in starting food forests"
+    },
+    {
+      "label": "C",
+      "text": "The concerns raised by critics about starting a food forest at Thorne-Rider Park"
+    },
+    {
+      "label": "D",
+      "text": "The motivation behind the rules that govern community gardens"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"We think it\u2019s important to put public food in public spaces,\" she said, in a box"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

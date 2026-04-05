@@ -1,0 +1,30 @@
+{
+  "stem": "Where should Hayden add this sentence?",
+  "instruction": "Hayden would like to add this sentence to the fifth paragraph (sentences 24\u201327).\n\nAs more and more birds came to visit the feeder, Nadia's list of backyard friends grew.",
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 24"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 25"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 26"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 27"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "As more and more birds came to visit the feeder, Nadia's list of backyard friends grew."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

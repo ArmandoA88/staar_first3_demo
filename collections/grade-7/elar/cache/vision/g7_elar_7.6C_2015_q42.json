@@ -1,0 +1,30 @@
+{
+  "stem": "Which event from the story shows that Bragger's attitude about playing basketball is different from Kirby's?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Bragger picking up the ball after Kirby misses a basket"
+    },
+    {
+      "label": "G",
+      "text": "Bragger claiming not to know several basic basketball facts"
+    },
+    {
+      "label": "H",
+      "text": "Bragger acting as if he doesn't care that he misses a basket"
+    },
+    {
+      "label": "J",
+      "text": "Bragger passing the basketball to Kirby after taking a shot"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

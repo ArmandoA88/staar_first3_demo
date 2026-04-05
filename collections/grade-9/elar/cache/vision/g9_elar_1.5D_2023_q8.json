@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Venice is a beautiful city with famous artwork on display almost everywhere. This includes the Santa Maria Della Salute church and numerous other buildings, especially the palaces that were built by wealthy inhabitants when the city was at its height. Today, it is a popular destination for tourists, who come from all over the world to see its canals and sit at the caf\u00e9s."
+    },
+    {
+      "label": "B",
+      "text": "Venice is a beautiful city with unique geography. Built on a network of islands, it has at least 150 canals. Early inhabitants constructed buildings atop wooden stakes, including grand palaces and marble churches during the Renaissance. These stakes lasted hundreds of years because of chemical transformations under the water. Nevertheless, the city still floods regularly."
+    },
+    {
+      "label": "C",
+      "text": "Venice is a World Heritage Site, celebrated for its architecture. Located on 118 islands, the city is organized around waterways or canals. The islands had weak silt and sand that would not support large buildings, so stakes had to be pounded down to reach solid clay for building to begin."
+    },
+    {
+      "label": "D",
+      "text": "Venice is sometimes called the Floating City. Instead of streets, it has more than a hundred canals. The buildings, many from the Renaissance, are supported on wooden stakes driven deep into the clay below the surface. In order to preserve this historic city from flooding, engineers over time have developed creative solutions, a process that continues to this day."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence from the selection best expresses the controlling idea?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "While tastes are developed at a young age, they can be altered. (paragraph 1)"
+    },
+    {
+      "label": "B",
+      "text": "This information suggests that parents should introduce new foods to babies during this stage. (paragraph 3)"
+    },
+    {
+      "label": "C",
+      "text": "We learn to like or dislike flavors in three main ways. (paragraph 5)"
+    },
+    {
+      "label": "D",
+      "text": "Children copy what they see adults eating and often learn to like vegetables. (paragraph 8)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

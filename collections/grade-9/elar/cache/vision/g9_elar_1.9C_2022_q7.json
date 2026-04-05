@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective revision to make in sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "As well as his knowledge of the writings of prominent figures, Lincoln utilized to help shape his platform for president his developed storytelling skills."
+    },
+    {
+      "label": "B",
+      "text": "Lincoln utilized his knowledge of the writings of prominent figures as well as his developed storytelling skills to help shape his platform for president."
+    },
+    {
+      "label": "C",
+      "text": "To help shape his platform for president, Lincoln as well as utilized his knowledge of the writings of prominent figures and his developed storytelling skills."
+    },
+    {
+      "label": "D",
+      "text": "Lincoln utilized to help shape his platform his knowledge of the writings of prominent figures as well as his developed storytelling skills for president."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best supports the idea that the old couple is still in love after many years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "No, they were white, and you\u2019ve never seen such a couple in your life\u2014a man and his wife, and they must have been in their seventies."
+    },
+    {
+      "label": "G",
+      "text": "Marge, he was lookin\u2019 at her like every woman on earth dreams of bein\u2019 looked at, and her eyes were doin\u2019 the same thing back at him."
+    },
+    {
+      "label": "H",
+      "text": "They started over toward the elevator and then the old lady turned away from the man and made her way over to the receptionist\u2019s desk."
+    },
+    {
+      "label": "J",
+      "text": "The couple smiled in such a dignified way, and it seemed like they hadn\u2019t noticed a thing."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

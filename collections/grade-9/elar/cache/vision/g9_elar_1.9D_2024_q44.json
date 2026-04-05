@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change interrupted to interrupts"
+    },
+    {
+      "label": "B",
+      "text": "Change familys' to family's"
+    },
+    {
+      "label": "C",
+      "text": "Change the comma after saying to a period"
+    },
+    {
+      "label": "D",
+      "text": "Change it to them"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Question text with four multiple-choice options labeled A through D."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

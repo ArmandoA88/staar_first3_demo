@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after past"
+    },
+    {
+      "label": "B",
+      "text": "Change is to are"
+    },
+    {
+      "label": "C",
+      "text": "Change privilage to privilege"
+    },
+    {
+      "label": "D",
+      "text": "Change grateful to gratefull"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

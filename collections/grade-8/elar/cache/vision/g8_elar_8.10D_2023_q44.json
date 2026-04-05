@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Indian and Asian plates has continued to hit each other, forcing rock upward."
+    },
+    {
+      "label": "B",
+      "text": "The Indian and Asian plates continued to hit each other, forcing rock upward."
+    },
+    {
+      "label": "C",
+      "text": "The Indian and Asian plates continue to hit each other, forcing rock upward."
+    },
+    {
+      "label": "D",
+      "text": "The Indian and Asian plates continuing to hit each other, forcing rock upward."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice answer options with letter labels A-D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best supports the idea that chickadees take action to keep their bodies warm at night?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "This means that sometimes there is well over a 100-degree difference between a chickadee's body and the air temperature only an inch away. (paragraph 3)"
+    },
+    {
+      "label": "B",
+      "text": "Without any feathered insulation, heat would quickly be lost and much energy wasted in attempting to keep their toes as warm as the rest of the body. (paragraph 6)"
+    },
+    {
+      "label": "C",
+      "text": "Since they don't have crops in which they can store food to eat later, they must eat enough each day to survive the long, 18-hour night. (paragraph 9)"
+    },
+    {
+      "label": "D",
+      "text": "They do not roost together in flocks as some birds do but spend the night alone. (paragraph 10)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

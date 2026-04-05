@@ -1,0 +1,30 @@
+{
+  "stem": "Read this line from the poem.\n\nBut I walked away a wiser man.\n\nThis line suggests that at the end of the poem the speaker \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "knows how valuable a small amount of gold can be"
+    },
+    {
+      "label": "B",
+      "text": "realizes the most effective technique for panning for gold"
+    },
+    {
+      "label": "C",
+      "text": "understands why so many people looked for gold during the gold rush"
+    },
+    {
+      "label": "D",
+      "text": "gains a new perspective about the outcome of panning for gold"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "But I walked away a wiser man."
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

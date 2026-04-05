@@ -1,0 +1,30 @@
+{
+  "stem": "What major theme is explored in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Responsibility is often difficult to accept."
+    },
+    {
+      "label": "G",
+      "text": "Appearances can be deceiving."
+    },
+    {
+      "label": "H",
+      "text": "Working hard is the best way to accomplish a goal."
+    },
+    {
+      "label": "J",
+      "text": "Family bonds are priceless."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

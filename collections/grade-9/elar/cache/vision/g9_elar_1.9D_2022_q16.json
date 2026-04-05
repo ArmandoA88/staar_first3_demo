@@ -1,0 +1,35 @@
+{
+  "stem": "What change, if any, should be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert a comma after WAF"
+    },
+    {
+      "label": "G",
+      "text": "Change asked to ask"
+    },
+    {
+      "label": "H",
+      "text": "Insert a comma after father"
+    },
+    {
+      "label": "J",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q16 Passage #4",
+    "16 What change, if any, should be made in sentence 9?",
+    "F Insert a comma after WAF",
+    "G Change asked to ask",
+    "H Insert a comma after father",
+    "J No change is needed."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

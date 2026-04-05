@@ -1,0 +1,30 @@
+{
+  "stem": "Adeline wants to replace the word awry in sentence 9 with a more appropriate word. Which word should replace awry in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "bungled"
+    },
+    {
+      "label": "B",
+      "text": "flawed"
+    },
+    {
+      "label": "C",
+      "text": "muddled"
+    },
+    {
+      "label": "D",
+      "text": "snarled"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

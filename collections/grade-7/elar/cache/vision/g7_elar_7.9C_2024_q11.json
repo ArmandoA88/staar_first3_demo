@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes the photograph in the article \u201cArt for the People, Art by the People\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show how the sculpture reflects local history and art"
+    },
+    {
+      "label": "B",
+      "text": "To demonstrate how the sculpture was built by the artist"
+    },
+    {
+      "label": "C",
+      "text": "To illustrate the size and appearance of the sculpture"
+    },
+    {
+      "label": "D",
+      "text": "To suggest the best way for visitors to view the sculpture"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

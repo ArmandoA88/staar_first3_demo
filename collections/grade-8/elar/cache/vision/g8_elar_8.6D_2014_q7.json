@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Hattie Brooks is nervous before a hearing to determine her right to claim a homestead. However, in the end the land official decides that Hattie is entitled to keep her claim."
+    },
+    {
+      "label": "B",
+      "text": "Hattie Brooks holds a homestead claim inherited from her uncle, but Traft Martin would like to stake a claim to Hattie's property. A hearing is held to determine whether Hattie can continue working the homestead land left to her by her uncle."
+    },
+    {
+      "label": "C",
+      "text": "Hattie Brooks has inherited a homestead claim from her uncle, but Traft Martin would like to have it. The land official takes his time, asks Hattie many questions, and determines that she is unlike most other girls her age."
+    },
+    {
+      "label": "D",
+      "text": "Traft Martin would like to have Hattie Brooks's homestead claim and has filed a challenge to her ownership. In spite of Martin's interruptions, the land official maintains control of the proceedings and determines that Hattie has a legal right to the claim."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

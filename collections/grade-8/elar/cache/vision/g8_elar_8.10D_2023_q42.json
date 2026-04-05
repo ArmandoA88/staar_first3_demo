@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after form"
+    },
+    {
+      "label": "B",
+      "text": "Change colide to collide"
+    },
+    {
+      "label": "C",
+      "text": "Change push to pushed"
+    },
+    {
+      "label": "D",
+      "text": "Change Earth\u2019s to Earths"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

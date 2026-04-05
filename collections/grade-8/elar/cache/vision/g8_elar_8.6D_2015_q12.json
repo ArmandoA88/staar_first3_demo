@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Science fiction writers Jules Verne, H. G. Wells, and Ray Bradbury wrote about life in the future. Verne wrote about humankind's first trip to the moon, and Wells described many technologies that exist today. Bradbury wrote about traveling to Mars."
+    },
+    {
+      "label": "G",
+      "text": "President John F. Kennedy believed that it was important for people to travel into space. In 1969, the United States sent astronauts on a mission to the moon. Science fiction writers such as Jules Verne, H. G. Wells, and Ray Bradbury have described space travel and new technologies in their books."
+    },
+    {
+      "label": "H",
+      "text": "In 1865 science fiction author Jules Verne wrote about an expedition to the moon. He described a crew of three men launching their spacecraft from Florida and splashing down in the Pacific Ocean when they returned to Earth. Some people compare his writing with the first trip humans made to the moon, which occurred in 1969."
+    },
+    {
+      "label": "J",
+      "text": "In 1969, the United States sent three astronauts on a mission to the moon for the first time. More than 100 years earlier, Jules Verne had described an expedition that very closely resembled the 1969 mission. Verne and other well-known science fiction writers, such as H. G. Wells and Ray Bradbury, have displayed an unusual ability to predict the future in their writings."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

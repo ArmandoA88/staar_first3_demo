@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective way to revise sentence 26?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It had been over a period of six months, the turbine produced up to 211 gallons of water per day."
+    },
+    {
+      "label": "B",
+      "text": "Because it had been over a period of six months, the turbine produced up to 211 gallons of water per day."
+    },
+    {
+      "label": "C",
+      "text": "Over a period of six months, the turbine produced up to 211 gallons of water per day."
+    },
+    {
+      "label": "D",
+      "text": "The turbine produced up to 211 gallons of water per day, this was over a period of six months."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q11 Passage #2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the playwright uses the figurative language in this line?",
+  "instruction": "Read line 24.\n\n[Distracted by her own conversation, Sophia turns again toward Maggie and Allen, who both have their eyes glued to the water.]",
+  "options": [
+    {
+      "label": "A",
+      "text": "To suggest that Maggie and Allen are tired from squinting for so long"
+    },
+    {
+      "label": "B",
+      "text": "To show that Maggie and Allen are focused intently on spotting the whales"
+    },
+    {
+      "label": "C",
+      "text": "To suggest that Maggie and Allen need binoculars if they want to see whales"
+    },
+    {
+      "label": "D",
+      "text": "To show that Maggie and Allen have trouble noticing objects in plain sight"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "[Distracted by her own conversation, Sophia turns again toward Maggie and Allen, who both have their eyes glued to the water.]"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 0.99,
+  "notes": null
+}

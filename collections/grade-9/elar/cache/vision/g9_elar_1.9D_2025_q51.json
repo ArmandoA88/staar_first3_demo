@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *If* to **Because**"
+    },
+    {
+      "label": "B",
+      "text": "Change *might get* to **might got**"
+    },
+    {
+      "label": "C",
+      "text": "Change *customers* to custommers"
+    },
+    {
+      "label": "D",
+      "text": "Insert quotation marks at the end of the sentence"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

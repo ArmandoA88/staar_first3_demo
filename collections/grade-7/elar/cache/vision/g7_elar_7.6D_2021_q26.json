@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the selection \"Trees Rise in the Desert\"?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Burkina Faso is a dry area located between the Sahara Desert and West Africa. A man named Yacouba Sawadogo dug many holes in the ground to try a method called za\u00ef farming. When the rain finally came, the seeds sprouted. Now the area is a forest in the middle of the desert."
+    },
+    {
+      "label": "G",
+      "text": "During a ten-year desert drought, Yacouba Sawadogo, a farmer in Burkina Faso, used an old method called za\u00ef farming. Many doubted that his method would work. However, after years passed, the seeds Sawadogo planted produced a forest. Today Sawadogo shares his method with others."
+    },
+    {
+      "label": "H",
+      "text": "Yacouba Sawadogo dug several holes in the ground and filled them with organic materials such as cattle manure and leaves. The villagers thought Sawadogo was foolish for planting seeds in pits when there was no water to help them grow. However, the seeds grew and the za\u00ef farming method proved successful."
+    },
+    {
+      "label": "J",
+      "text": "Farmers in Burkina Faso were having trouble growing crops because of the ten-year drought. Yacouba Sawadogo dug holes and waited for the rain. His neighbors laughed at him, but he explained that the rain would eventually come. Now Sawadogo travels around the entire region."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which statement best expresses the thesis of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "History should not be buried and ignored but remembered and preserved."
+    },
+    {
+      "label": "B",
+      "text": "Historians often make errors in their interpretation of events, a tendency made worse by the damage and loss of historical primary evidence."
+    },
+    {
+      "label": "C",
+      "text": "The American Revolution would not have happened without brave men such as Samuel Adams and Paul Revere."
+    },
+    {
+      "label": "D",
+      "text": "Time capsules such as the one in the article can be a meaningful record of history, and the surprise of discovery is part of their appeal."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

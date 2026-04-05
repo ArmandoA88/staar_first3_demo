@@ -1,0 +1,35 @@
+{
+  "stem": "What is the most likely reason the author wrote this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To inform the reader about the history and work of the Peace Corps"
+    },
+    {
+      "label": "B",
+      "text": "To provide information about an influential president"
+    },
+    {
+      "label": "C",
+      "text": "To challenge the reader to create programs that are similar to the Peace Corps"
+    },
+    {
+      "label": "D",
+      "text": "To explain the benefits of serving in the Peace Corps"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q37 Passage #5",
+    "37 What is the most likely reason the author wrote this selection?",
+    "A To inform the reader about the history and work of the Peace Corps",
+    "B To provide information about an influential president",
+    "C To challenge the reader to create programs that are similar to the Peace Corps",
+    "D To explain the benefits of serving in the Peace Corps"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

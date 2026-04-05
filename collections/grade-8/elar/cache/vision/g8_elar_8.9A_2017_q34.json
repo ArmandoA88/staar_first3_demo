@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from the selection.\n\nOr perhaps she saw, in a way that we could not, that the photograph misrepresented her in some crucial respect, that in its dim, mechanical eye it had failed to see into her real being.\n\nWhich of these is the author suggesting in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The woman saw herself as something more than could be captured in a photograph."
+    },
+    {
+      "label": "G",
+      "text": "Something may have gone wrong when the photograph was developed."
+    },
+    {
+      "label": "H",
+      "text": "Many people are dissatisfied with their appearance in photographs."
+    },
+    {
+      "label": "J",
+      "text": "The woman will eventually decide that she likes the photograph."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sentence box with italic text: Or perhaps she saw, in a way that we could not, that the photograph misrepresented her in some crucial respect, that in its dim, mechanical eye it had failed to see into her real being."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Simon has used an ineffective transition in sentence 3. Which word or phrase could best replace On the other hand in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Similarly"
+    },
+    {
+      "label": "B",
+      "text": "Specifically"
+    },
+    {
+      "label": "C",
+      "text": "In the end"
+    },
+    {
+      "label": "D",
+      "text": "As a result"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

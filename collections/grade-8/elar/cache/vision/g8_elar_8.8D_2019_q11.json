@@ -1,0 +1,30 @@
+{
+  "stem": "How are paragraphs 2 through 4 organized?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They compare the plants Rodriguez collected to the endophytes living on the plants."
+    },
+    {
+      "label": "B",
+      "text": "They describe the steps Rodriguez followed while researching plants in his laboratory."
+    },
+    {
+      "label": "C",
+      "text": "They explain the problem Rodriguez was trying to solve based on his observations."
+    },
+    {
+      "label": "D",
+      "text": "They describe the structure of the plants Rodriguez collected from a harsh environment."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

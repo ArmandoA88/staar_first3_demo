@@ -1,0 +1,34 @@
+{
+  "stem": "Which of these best describes Pavel\u2019s internal conflict in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He is unhappy about the cost of his ticket."
+    },
+    {
+      "label": "B",
+      "text": "A man places him on the other side of the ship."
+    },
+    {
+      "label": "C",
+      "text": "A man stands between him and the soup pot."
+    },
+    {
+      "label": "D",
+      "text": "He is not prepared for the misery of the voyage to America."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "25",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

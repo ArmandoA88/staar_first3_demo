@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence supports the idea that presidents feel comfortable aboard Air Force One?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Air Force One has the ability to refuel in flight, so it can fly as long as it needs to."
+    },
+    {
+      "label": "G",
+      "text": "His view is that presidents seem more relaxed and act less formal aboard Air Force One than in the Oval Office."
+    },
+    {
+      "label": "H",
+      "text": "This was perhaps the most famous version of Air Force One, and it carried eight presidents over the years."
+    },
+    {
+      "label": "J",
+      "text": "Presidents have always had to travel, of course."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

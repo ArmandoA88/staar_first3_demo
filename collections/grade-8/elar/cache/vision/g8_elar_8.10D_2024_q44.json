@@ -1,0 +1,34 @@
+{
+  "stem": "What change is needed in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Because to As"
+    },
+    {
+      "label": "B",
+      "text": "Change closely to closer"
+    },
+    {
+      "label": "C",
+      "text": "Change I knew to knowing"
+    },
+    {
+      "label": "D",
+      "text": "Change had happened to has happened"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change is needed in sentence 6?",
+    "A Change Because to As",
+    "B Change closely to closer",
+    "C Change I knew to knowing",
+    "D Change had happened to has happened"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 26?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "In closing, I give you this solemn promise. That if you elect me as president of the sophomore class, I\u2019ll give it my all."
+    },
+    {
+      "label": "G",
+      "text": "In closing, I give you this solemn promise: if you elect me as president of the sophomore class, I\u2019ll give it my all."
+    },
+    {
+      "label": "H",
+      "text": "In closing, to give you this solemn promise: if you elect me as president of the sophomore class, I\u2019ll give it my all."
+    },
+    {
+      "label": "J",
+      "text": "Sentence 26 is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

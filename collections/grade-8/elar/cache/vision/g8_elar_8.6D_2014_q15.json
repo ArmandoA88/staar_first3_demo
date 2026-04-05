@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Al Smith, a retired biologist, was concerned about the loss of freshwater wetlands. In 1997 he had the idea to turn an area of abandoned farmland into a man-made wetland. With the help of a nonprofit organization, he founded the Tantramar Wetlands Centre. High school students called Wetheads volunteer at the center and teach others about the importance of wetlands."
+    },
+    {
+      "label": "B",
+      "text": "The Tantramar Wetlands Centre was founded in 1997 and now educates more than 4,000 visitors each year. Wetheads, high school students who volunteer at the center, have received national and international awards for their work. These students are not paid for the time they spend at the center, but they gain valuable knowledge and experience through the work they do."
+    },
+    {
+      "label": "C",
+      "text": "In 1997 retired biologist Al Smith had the idea to create a man-made wetland and helped found the Tantramar Wetlands Centre. Today high school students who volunteer at the center help with research and lead educational programs for thousands of visitors. These students, who are known as Wetheads, have received recognition for their efforts to teach others why wetlands need to be preserved."
+    },
+    {
+      "label": "D",
+      "text": "Retired biologist Al Smith had the idea to create a man-made wetland when he noticed a piece of abandoned property near a high school. He worked with a nonprofit organization to turn 35 acres of unused farmland into a marsh. The Tantramar Wetlands Centre now welcomes more than 4,000 students each year to its educational programs. High school students who volunteer there are known as Wetheads."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

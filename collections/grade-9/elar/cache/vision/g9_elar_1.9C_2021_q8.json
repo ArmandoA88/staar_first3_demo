@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 13 be revised?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Confronted with the loss of his beloved orchids, to build a surrealist sculpture garden was what James decided to do."
+    },
+    {
+      "label": "G",
+      "text": "Confronted with the loss of his beloved orchids, James decided to build a surrealist sculpture garden."
+    },
+    {
+      "label": "H",
+      "text": "Confronted with the loss of his beloved orchids, a surrealist sculpture garden was built by James."
+    },
+    {
+      "label": "J",
+      "text": "Confronted with the loss of his beloved orchids, building a surrealist sculpture garden was James\u2019s decision."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

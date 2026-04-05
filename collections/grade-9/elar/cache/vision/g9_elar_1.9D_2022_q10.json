@@ -1,0 +1,35 @@
+{
+  "stem": "What change, if any, is needed in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change *Classified* to classified"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma after *crystals*"
+    },
+    {
+      "label": "H",
+      "text": "Change *translucent* to transluscent"
+    },
+    {
+      "label": "J",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q10 Passage #3",
+    "10 What change, if any, is needed in sentence 8?",
+    "F Change *Classified* to classified",
+    "G Delete the comma after *crystals*",
+    "H Change *translucent* to transluscent",
+    "J No change is needed."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

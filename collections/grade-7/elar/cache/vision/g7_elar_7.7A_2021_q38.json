@@ -1,0 +1,28 @@
+{
+  "stem": "What is an important message presented in the play?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It is unwise to expect help from people you do not know."
+    },
+    {
+      "label": "G",
+      "text": "Traveling alone is easier than traveling with a group of people."
+    },
+    {
+      "label": "H",
+      "text": "It is unrealistic to plan a trip without knowing your destination."
+    },
+    {
+      "label": "J",
+      "text": "Circumstances can quickly change when least expected."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 4 of \u201cA Little Common Courtesy, Please.\u201d\n\nWe teach these manners to children so that they can use them throughout their lives.\n\nWhich event from \u201cThe View from Saturday\u201d best demonstrates this message?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Noah\u2019s mother insists that he write a thank-you letter to his grandparents."
+    },
+    {
+      "label": "B",
+      "text": "Noah\u2019s mother expresses concern about the youth of her sons\u2019 generation."
+    },
+    {
+      "label": "C",
+      "text": "Noah explains why he believes he should receive a thank-you letter."
+    },
+    {
+      "label": "D",
+      "text": "Noah points out that his brother has something to be thankful for."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sentence in box: We teach these manners to children so that they can use them throughout their lives."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

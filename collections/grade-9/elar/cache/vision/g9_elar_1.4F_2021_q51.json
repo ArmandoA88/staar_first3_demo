@@ -1,0 +1,28 @@
+{
+  "stem": "Based on the article, which conclusion can be made by the reader?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jackson worried about the time it would take him to complete the trip."
+    },
+    {
+      "label": "B",
+      "text": "Jackson welcomed the challenge of making a never-before-completed trip."
+    },
+    {
+      "label": "C",
+      "text": "Jackson was annoyed by spectators who intentionally gave wrong directions."
+    },
+    {
+      "label": "D",
+      "text": "Jackson was concerned about the overall safety of the vehicle and spectators."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

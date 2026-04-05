@@ -1,0 +1,30 @@
+{
+  "stem": "What are paragraphs 4 and 5 mainly about?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The reason companies request a particular space to display their products in a supermarket"
+    },
+    {
+      "label": "G",
+      "text": "The products that are the most profitable for the supermarket to sell"
+    },
+    {
+      "label": "H",
+      "text": "The different designs used by supermarkets to keep their products organized"
+    },
+    {
+      "label": "J",
+      "text": "The specific techniques used by supermarkets to encourage people to purchase more products"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

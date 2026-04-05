@@ -1,0 +1,30 @@
+{
+  "stem": "The irony of this quotation is that it calls attention to \u2014",
+  "instruction": "Read this quotation from paragraph 20.\n\n\"It's our earth. It's our land. Can't nobody touch a man's own land.\"",
+  "options": [
+    {
+      "label": "A",
+      "text": "the love T. J. has for the outdoors while he is on a man-made structure"
+    },
+    {
+      "label": "B",
+      "text": "the rooftop being abandoned and the men still caring about its welfare"
+    },
+    {
+      "label": "C",
+      "text": "the fact that T. J. does not have the right to use the rooftop despite creating the garden"
+    },
+    {
+      "label": "D",
+      "text": "the effort used to create a garden when it can be easily destroyed"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"It's our earth. It's our land. Can't nobody touch a man's own land.\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

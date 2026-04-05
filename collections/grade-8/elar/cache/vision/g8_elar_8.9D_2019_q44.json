@@ -1,0 +1,30 @@
+{
+  "stem": "The author uses a simile in this sentence to illustrate \u2014",
+  "instruction": "Read this sentence from paragraph 15.\n\nA morning full of whispers, jeers, and awkward questions left Andy slumped in his seat in art class like a spent parachute.",
+  "options": [
+    {
+      "label": "F",
+      "text": "how difficult it can be to concentrate in Andy\u2019s art class"
+    },
+    {
+      "label": "G",
+      "text": "how perplexed the students are about Andy\u2019s new outfit"
+    },
+    {
+      "label": "H",
+      "text": "how discouraged Andy feels by his peers\u2019 reactions to his outfit"
+    },
+    {
+      "label": "J",
+      "text": "how exhausting a typical day at Andy\u2019s school is"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A morning full of whispers, jeers, and awkward questions left Andy slumped in his seat in art class like a spent parachute."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

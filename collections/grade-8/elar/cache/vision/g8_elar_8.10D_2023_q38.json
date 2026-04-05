@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change opened to will open"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after match"
+    },
+    {
+      "label": "C",
+      "text": "Change by saying to with saying"
+    },
+    {
+      "label": "D",
+      "text": "Change good to Good"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

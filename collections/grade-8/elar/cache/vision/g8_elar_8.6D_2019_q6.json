@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "When the author and his daughter win a trip to Antarctica, they board an icebreaker ship and travel through an area called the Drake Passage. During their time in Antarctica, they observe a penguin colony made up of tens of thousands of penguins. They must adhere to certain rules while they are there."
+    },
+    {
+      "label": "G",
+      "text": "Getting to Antarctica requires people to travel by ship through a rough area of the sea. After winning a trip to Antarctica to observe penguins, the author and his daughter make this difficult voyage. Once they arrive, they see thousands of penguins up close and know the trip was worth the suffering."
+    },
+    {
+      "label": "H",
+      "text": "The author and his daughter take a trip to Antarctica, where they have an opportunity to observe penguin behavior up close. They take photographs of the large penguin colony. Long after the trip, they still talk about the experience."
+    },
+    {
+      "label": "J",
+      "text": "After winning a contest, the author and his daughter travel to Antarctica and see penguins. Since there are no airports in Antarctica, they have to sail there through rough water. Once they arrive, they must take a helicopter from their ship over to the penguin colony."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

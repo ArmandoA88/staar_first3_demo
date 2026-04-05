@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "She promised her mother that she would succeed consequently, she walked the four-mile distance daily, between her home and school."
+    },
+    {
+      "label": "G",
+      "text": "She promised her mother that she would succeed consequently she walked the four-mile distance daily between her home and school."
+    },
+    {
+      "label": "H",
+      "text": "She promised her mother that she would succeed. Consequently, she walked; the four-mile distance daily between her home and school."
+    },
+    {
+      "label": "J",
+      "text": "She promised her mother that she would succeed. Consequently, she walked the four-mile distance daily between her home and school."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

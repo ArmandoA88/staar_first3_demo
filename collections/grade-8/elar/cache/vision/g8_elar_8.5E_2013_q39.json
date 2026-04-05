@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentences from the letter express the same idea as these lines from the poem?",
+  "instruction": "Read lines 6 through 10 from the poem.",
+  "options": [
+    {
+      "label": "A",
+      "text": "We don't just talk about writing. We sit by ourselves inside or outside, writing at airports or on kitchen tables, even on napkins."
+    },
+    {
+      "label": "B",
+      "text": "I've learned that some writers are quiet and shy, others noisy, others just plain obnoxious. Some like enchiladas and others like sushi; some like rap and others like rancheras."
+    },
+    {
+      "label": "C",
+      "text": "When I was in grade school in El Paso, Texas (where I was born), I read comic books and mysteries and magazines and library books. I was soaking up language."
+    },
+    {
+      "label": "D",
+      "text": "Living hurts, so sometimes we write about a miserable date, a friend who betrayed us, the death of a parent. Some days, though, we're so full of joy we feel like a kite."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Fill my lines. Crowd me with words, all kinds of words\u2014 happy, joyous words, angry, jangled words, burdened words, sad words,"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

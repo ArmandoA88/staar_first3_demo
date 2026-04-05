@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change can teach to taught"
+    },
+    {
+      "label": "B",
+      "text": "Insert a colon after children"
+    },
+    {
+      "label": "C",
+      "text": "Change responsability to responsibility"
+    },
+    {
+      "label": "D",
+      "text": "Change to spend to spending"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason that the author uses direct address at the beginning of paragraph 1?",
+  "instruction": "Read this sentence from paragraph 1.\n\nIf you had to choose just one, would you vote to fund new air conditioners in the cafeteria or a school carnival?",
+  "options": [
+    {
+      "label": "A",
+      "text": "To help the reader relate to the decision-making process that budgeting requires"
+    },
+    {
+      "label": "B",
+      "text": "To encourage the reader to research facts about how money is budgeted for schools"
+    },
+    {
+      "label": "C",
+      "text": "To suggest to the reader that budgets take time and cooperation to successfully create"
+    },
+    {
+      "label": "D",
+      "text": "To emphasize to the reader that voting on how to spend school budget money works"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "If you had to choose just one, would you vote to fund new air conditioners in the cafeteria or a school carnival?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

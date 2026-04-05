@@ -1,0 +1,28 @@
+{
+  "stem": "Sentence 2 contains a spelling error. Select the response that will correct the error in this sentence.\n\nAbout 6,500 subway cars combine to make up one of the nation\u2019s most [dropdown] train systems.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "commute"
+    },
+    {
+      "label": "B",
+      "text": "common"
+    },
+    {
+      "label": "C",
+      "text": "combined"
+    },
+    {
+      "label": "D",
+      "text": "commbine"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

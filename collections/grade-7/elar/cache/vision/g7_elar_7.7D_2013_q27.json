@@ -1,0 +1,30 @@
+{
+  "stem": "How does the setting influence the plot of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The conditions on the boat contribute to the conflict Pavel experiences."
+    },
+    {
+      "label": "B",
+      "text": "The letter from Pavel's uncle introduces an important character."
+    },
+    {
+      "label": "C",
+      "text": "The man standing in front of the soup pot provides comic relief."
+    },
+    {
+      "label": "D",
+      "text": "Pavel's fellow passengers encourage him to remain hopeful about purchasing land."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

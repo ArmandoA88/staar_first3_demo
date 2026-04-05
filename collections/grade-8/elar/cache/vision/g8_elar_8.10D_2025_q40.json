@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Atoms also contain electrons, negatively charged particles that orbit the nucleus."
+    },
+    {
+      "label": "B",
+      "text": "Atoms also contain electrons, which are negatively charged particles they orbit the nucleus."
+    },
+    {
+      "label": "C",
+      "text": "Atoms also contain electrons. Which are negatively charged particles that orbit the nucleus."
+    },
+    {
+      "label": "D",
+      "text": "Atoms also containing electrons. These are negatively charged particles that orbit the nucleus."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

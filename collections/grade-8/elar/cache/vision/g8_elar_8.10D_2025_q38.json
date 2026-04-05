@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change has proved to have proved"
+    },
+    {
+      "label": "B",
+      "text": "Change essential to esential"
+    },
+    {
+      "label": "C",
+      "text": "Change to to on"
+    },
+    {
+      "label": "D",
+      "text": "Change Chemistry and Physics to chemistry and physics"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 2?",
+    "A Change has proved to have proved",
+    "B Change essential to esential",
+    "C Change to to on",
+    "D Change Chemistry and Physics to chemistry and physics"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Where is the most effective place to insert this sentence?\n\nWhile the Youngs had fun decorating their new home, they knew they had to be wise about what they brought into such a small space.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "At the beginning of the paragraph"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 21"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 22"
+    },
+    {
+      "label": "D",
+      "text": "This sentence is not relevant to the main idea of the paragraph and should not be inserted."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "While the Youngs had fun decorating their new home, they knew they had to be wise about what they brought into such a small space."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

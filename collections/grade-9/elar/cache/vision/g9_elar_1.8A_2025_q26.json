@@ -1,0 +1,30 @@
+{
+  "stem": "The author includes this information most likely to \u2014",
+  "instruction": "Read this quotation from paragraph 4.\n\nThis was a significant date for two reasons: it was the day that the Massachusetts State House was dedicated, and it was the anniversary of the adoption of the Declaration of Independence.",
+  "options": [
+    {
+      "label": "A",
+      "text": "inform the reader about historical facts regarding the Revolutionary War"
+    },
+    {
+      "label": "B",
+      "text": "convince the reader to believe in the same ideals as Adams and Revere"
+    },
+    {
+      "label": "C",
+      "text": "demonstrate that time capsules celebrate a special place and time"
+    },
+    {
+      "label": "D",
+      "text": "provide background information about the setting"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This was a significant date for two reasons: it was the day that the Massachusetts State House was dedicated, and it was the anniversary of the adoption of the Declaration of Independence."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

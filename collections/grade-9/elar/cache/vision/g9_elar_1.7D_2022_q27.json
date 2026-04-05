@@ -1,0 +1,30 @@
+{
+  "stem": "How does this quotation support the main idea of the article?",
+  "instruction": "Use \u201cPaper Calendars Endure Despite the Digital Age\u201d to answer the following question.\n\nRead this quotation from paragraph 5 of the article \u201cPaper Calendars Endure Despite the Digital Age.\u201d\n\n\"The consumer can customize a planner to fit his or her style with accessories, colors and even color code events and activities,\" she wrote.",
+  "options": [
+    {
+      "label": "A",
+      "text": "It shows that people\u2019s purchasing behaviors are unpredictable."
+    },
+    {
+      "label": "B",
+      "text": "It argues that consumers should buy a particular type of planner."
+    },
+    {
+      "label": "C",
+      "text": "It provides specific reasons why paper planners remain popular."
+    },
+    {
+      "label": "D",
+      "text": "It explains why people confuse planners with calendars."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"The consumer can customize a planner to fit his or her style with accessories, colors and even color code events and activities,\" she wrote."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

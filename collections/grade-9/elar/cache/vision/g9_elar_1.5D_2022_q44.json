@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of paragraphs 18 through 23?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Many doctors agree that young people should keep their blood pressure lower than 140. A study showed that people who walk in the forest are healthier than those who walk in the city."
+    },
+    {
+      "label": "G",
+      "text": "Research shows that there are health benefits associated with forest bathing. Walking in a forest can help reduce blood pressure and stress hormones. People who have significant stress in their lives may especially benefit from forest bathing."
+    },
+    {
+      "label": "H",
+      "text": "Philip Barr, a doctor at Duke University, notes that research conducted in Japan shows that forest bathing can improve one\u2019s health. One study that focused on ways forest bathing is beneficial looked at walking in the forest compared to walking in a city."
+    },
+    {
+      "label": "J",
+      "text": "Research suggests that forest bathing can lower blood pressure, reduce stress hormones, and help people relax more. Medical researchers in Japan have conducted these studies."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Kirby\u2019s thoughts in this excerpt reveal that he \u2014",
+  "instruction": "Read this excerpt from the story.",
+  "options": [
+    {
+      "label": "F",
+      "text": "is reliving a moment from a previous basketball game he played"
+    },
+    {
+      "label": "G",
+      "text": "needs encouragement from others to be successful"
+    },
+    {
+      "label": "H",
+      "text": "wishes he had the talent to be recognized for his playing"
+    },
+    {
+      "label": "J",
+      "text": "understands the effort that is required to play professional basketball"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I studied that orange sign and tried to imagine what it felt like to be six-foot-nine with a gym full of fans cheering and chanting my name. Kirby. Kir-by. KIR-BY!"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

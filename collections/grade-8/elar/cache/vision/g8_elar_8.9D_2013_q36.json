@@ -1,0 +1,30 @@
+{
+  "stem": "These lines highlight the speaker\u2019s discomfort because they show that \u2014",
+  "instruction": "Read these lines from the poem.",
+  "options": [
+    {
+      "label": "F",
+      "text": "the page does not provide the speaker with useful ideas"
+    },
+    {
+      "label": "G",
+      "text": "the speaker does not feel like writing at that particular moment"
+    },
+    {
+      "label": "H",
+      "text": "the page appears to be taunting the speaker"
+    },
+    {
+      "label": "J",
+      "text": "the speaker is unsure where to write his thoughts"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Here it is again,\nthat ghostly blank page\nstaring me down,\nglaring at me in defiance.\n\u201cHere,\u201d the page says, \u201cplace your words here.\u201d"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

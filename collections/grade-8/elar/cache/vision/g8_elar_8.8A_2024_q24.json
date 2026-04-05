@@ -1,0 +1,62 @@
+{
+  "stem": "This excerpt is an example of fictional mystery. Which details support this assertion?",
+  "instruction": "Select the correct answer in each row.",
+  "options": [
+    {
+      "label": "Detail",
+      "text": "The characters are from different backgrounds."
+    },
+    {
+      "label": "Supports",
+      "text": ""
+    },
+    {
+      "label": "Does Not Support",
+      "text": ""
+    },
+    {
+      "label": null,
+      "text": "The main character is presented with a puzzle."
+    },
+    {
+      "label": "Supports",
+      "text": ""
+    },
+    {
+      "label": "Does Not Support",
+      "text": ""
+    },
+    {
+      "label": null,
+      "text": "The excerpt references the changing of seasons."
+    },
+    {
+      "label": "Supports",
+      "text": ""
+    },
+    {
+      "label": "Does Not Support",
+      "text": ""
+    },
+    {
+      "label": null,
+      "text": "The setting includes some unusual features."
+    },
+    {
+      "label": "Supports",
+      "text": ""
+    },
+    {
+      "label": "Does Not Support",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with rows and columns for details and checkboxes under Supports and Does Not Support"
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 0.99,
+  "notes": null
+}

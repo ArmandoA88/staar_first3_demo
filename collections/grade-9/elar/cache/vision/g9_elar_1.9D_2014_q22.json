@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change *affects* to effects"
+    },
+    {
+      "label": "G",
+      "text": "Change *is dangerous* to are dangerous"
+    },
+    {
+      "label": "H",
+      "text": "Delete the comma after *work*"
+    },
+    {
+      "label": "J",
+      "text": "Change *lives* to lifes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

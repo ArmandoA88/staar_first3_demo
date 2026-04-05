@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, is needed in sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A second way that P. oceanica and coral reefs are alike is that they both provide valuable benefits to the ocean they grow in and nearby coastal areas, which are benefited too."
+    },
+    {
+      "label": "B",
+      "text": "A second way that P. oceanica and coral reefs are alike is that they both provide valuable benefits to the ocean they grow in and to nearby coastal areas."
+    },
+    {
+      "label": "C",
+      "text": "There is a second way that P. oceanica and coral reefs are alike while they both provide benefits, and it is that they benefit the ocean they grow in and the nearby coastal areas."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the article \u201cChallenging the Status Quo\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Over time, people have developed familiar ways of thinking and doing things that work for society. But change is something that happens no matter what. Preserving these old ways is important as society evolves and grows."
+    },
+    {
+      "label": "B",
+      "text": "The Latin phrase \u201cstatus quo\u201d means \u201cexisting state.\u201d People are usually more comfortable living in the status quo. Society tends to function in this state, moving forward in a predictable and safe way."
+    },
+    {
+      "label": "C",
+      "text": "Congresswoman Shirley Chisholm and Justice Thurgood Marshall were great supporters of change. Their courageous acts helped shape society. Without them, people would be stuck in the way things have always been done."
+    },
+    {
+      "label": "D",
+      "text": "The status quo is how things are, and people tend to get comfortable with what is familiar. But change happens regardless. Even though some old ways of doing things are good, challenging the status quo opens up endless possibilities."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The question and four labeled answer options in text boxes"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

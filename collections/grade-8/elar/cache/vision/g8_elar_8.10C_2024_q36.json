@@ -1,0 +1,28 @@
+{
+  "stem": "What is the **BEST** way to revise sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Since there were many rivalries and disagreements between the states, this rule meant that the Articles of Confederation were almost impossible to change."
+    },
+    {
+      "label": "B",
+      "text": "There were many rivalries and disagreements, so this rule meant that the Articles of Confederation were almost impossible to change between the states."
+    },
+    {
+      "label": "C",
+      "text": "Since there were many rivalries and disagreeing between the states, this rule meant that the Articles of Confederation were almost impossible to change."
+    },
+    {
+      "label": "D",
+      "text": "There were many rivalries and disagreements between the states, which meant that this rule and the Articles of Confederation were almost impossible to change between the states."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

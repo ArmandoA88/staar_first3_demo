@@ -1,0 +1,34 @@
+{
+  "stem": "Which idea should be included to create a complete summary of scene 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The narrator explains to the audience how Tracy was once late for her own party."
+    },
+    {
+      "label": "B",
+      "text": "Tracy acknowledges how organized Marta is, and the meeting is rescheduled."
+    },
+    {
+      "label": "C",
+      "text": "Marta explains that she must walk her dog before starting her homework."
+    },
+    {
+      "label": "D",
+      "text": "The stage directions indicate that the girls exit the stage in opposite directions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1. The narrator greets the audience and introduces the play.",
+    "2. Marta enters the stage and looks at her watch in annoyance.",
+    "3. Tracy arrives late to her meeting with Marta about a school project.",
+    "4. _______________________",
+    "5. The narrator teases the audience with the possibility of a conflict in scene 2."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the use of the word emblazoned in paragraph 3?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dictionary entry: emblazon \\im-\u02c8bl\u0101-z\u0259n\\ v 1. to adorn a surface with a logo 2. to make dazzling with color 3. to make noteworthy 4. to inscribe a marking on a surface"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change **Yesterday\u2019s** to **Yesterdays**"
+    },
+    {
+      "label": "B",
+      "text": "Change *volleyball* to **Volleyball**"
+    },
+    {
+      "label": "C",
+      "text": "Change *was leaving* to had left"
+    },
+    {
+      "label": "D",
+      "text": "Change *swollen* to *swolen*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

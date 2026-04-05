@@ -1,0 +1,30 @@
+{
+  "stem": "In line 16, the word etched most closely means \u2014",
+  "instruction": "Read lines 15 and 16.",
+  "options": [
+    {
+      "label": "F",
+      "text": "perfected"
+    },
+    {
+      "label": "G",
+      "text": "imprinted"
+    },
+    {
+      "label": "H",
+      "text": "remembered"
+    },
+    {
+      "label": "J",
+      "text": "tarnished"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He sanded down the finish, erasing the indentations of the letters and numbers he had etched over time."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

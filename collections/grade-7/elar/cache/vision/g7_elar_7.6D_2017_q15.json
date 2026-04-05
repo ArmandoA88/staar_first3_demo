@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "On the fourth anniversary of the Svalbard Seed Vault, rare seeds from North America and ancient grains were added to the vault. The vault contains many seeds with special genetic traits that may be useful in the future. Visitors are often awed by the biodiversity secured in the seed vault."
+    },
+    {
+      "label": "B",
+      "text": "The seeds in the Svalbard Seed Vault are stored in rows of sealed boxes in a highly secure vault. The vault is made of steel, located inside a mountain, and requires the use of many codes to enter. The cold environment preserves the seeds even if power to the facility is lost."
+    },
+    {
+      "label": "C",
+      "text": "The Svalbard Seed Vault is located in an isolated region of Norway. The vault was created to protect varieties of seeds from being lost and to preserve them for later use. Many rare seeds have already been sent to the vault and have contributed to the effort to maintain biodiversity."
+    },
+    {
+      "label": "D",
+      "text": "The Svalbard Seed Vault is considered the greatest store of crop diversity to date. Efforts to build the seed vault began when scientists noticed that crop variety had decreased significantly in recent years. The vault contains many rare and ancient seeds."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

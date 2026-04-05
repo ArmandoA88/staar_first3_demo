@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The author grew up watching her mother take pleasure in growing many kinds of plants, but she did not share her mother's interest in gardening. When she was a teenager, she decided to plant several flowers. After waiting several weeks, the author finally got to appreciate the joy of finding a sprouted seed."
+    },
+    {
+      "label": "G",
+      "text": "The author describes how she grew up surrounded by the many beautiful plants that her mother loved growing. One day the author bought flower seeds and planted them. The author realized the plants require care."
+    },
+    {
+      "label": "H",
+      "text": "Growing plants gave the author's mother great joy and happiness, and she tried to share this experience with the author. The author was not interested in learning about gardening from her mother. One day the author decided to buy packets of flower seeds."
+    },
+    {
+      "label": "J",
+      "text": "The author's mother loved gardening and grew many different kinds of plants, especially tomatoes. When the author came home with packets of flower seeds, her mother told her she would have to grow them on her own. After waiting several weeks, the author finally saw her flower seeds begin to grow."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

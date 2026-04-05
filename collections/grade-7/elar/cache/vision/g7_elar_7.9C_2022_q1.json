@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes the cartoon?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To highlight how children have created new ways to use phones for play"
+    },
+    {
+      "label": "B",
+      "text": "To indicate that children today should use phones when outside"
+    },
+    {
+      "label": "C",
+      "text": "To suggest that children are too attached to phones"
+    },
+    {
+      "label": "D",
+      "text": "To emphasize that phones can help children complete activities"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cartoon showing children in a playground all looking at phones, one child tagging another with '@SUSIE #You\u2019re it' on their phone"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

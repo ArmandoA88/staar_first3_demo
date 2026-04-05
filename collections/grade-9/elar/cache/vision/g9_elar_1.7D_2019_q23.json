@@ -1,0 +1,30 @@
+{
+  "stem": "What does this sentence suggest?",
+  "instruction": "Read paragraph 21.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Baseball players understand their potential at an early age."
+    },
+    {
+      "label": "B",
+      "text": "Determination and grit could get a player to the big leagues."
+    },
+    {
+      "label": "C",
+      "text": "Legends about baseball frequently inspire players to improve."
+    },
+    {
+      "label": "D",
+      "text": "Most major-league players come from humble circumstances."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Baseball folklore tells us that the scrappiest kid on the sandlot has a shot at going to \"the show.\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

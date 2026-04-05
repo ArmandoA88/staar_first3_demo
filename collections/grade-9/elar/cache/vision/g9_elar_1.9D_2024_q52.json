@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "In any event, the rich tradition of Mayan weaving seems to be as loved today. As it was in generations long ago."
+    },
+    {
+      "label": "B",
+      "text": "In any event, there is rich tradition of Mayan weaving. Which seems to be as loved today as it was in generations long ago."
+    },
+    {
+      "label": "C",
+      "text": "In any event, the rich tradition of Mayan weaving seems to be as loved today as it was in generations long ago."
+    },
+    {
+      "label": "D",
+      "text": "In any event, there is a rich tradition it is Mayan weaving that seems to be as loved today as it was in generations long ago."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Which sentence best describes the difference in tone between the two quotations?",
+  "instruction": "Read these quotations.",
+  "options": [
+    {
+      "label": "F",
+      "text": "The tone of the first quotation is elevated and lofty, while the tone of the second quotation is modest and casual."
+    },
+    {
+      "label": "G",
+      "text": "The tone of the first quotation is strident and shrill, while the tone of the second quotation is soft and understated."
+    },
+    {
+      "label": "H",
+      "text": "The tone of the first quotation is cynical and pessimistic, while the tone of the second quotation is bright and idealistic."
+    },
+    {
+      "label": "J",
+      "text": "The tone of the first quotation is disapproving and moralistic, while the tone of the second quotation is open-minded and tolerant."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Creative Solutions to Life's Challenges: I believe that the highest quality of life is full of art and creative expression and that all people deserve it.",
+    "Back Home: After supper sometimes we'd walk out to a neighbor's house, or else we'd just sit and talk or play the hand-cranked Victrola."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Saeng enters a flower shop carrying a leaf. The florist says that the leaf comes from a rose of Sharon and leads Saeng to it. But Saeng is looking for a plant with a darker flower, which helps the florist identify the plant at last."
+    },
+    {
+      "label": "B",
+      "text": "At a flower shop, Saeng holds a mysterious, jagged leaf. She wants to know what plant it comes from, so she asks the florist to help her. They look first in the nursery and then in the greenhouse before they find that the plant is a hibiscus."
+    },
+    {
+      "label": "C",
+      "text": "Saeng brings a leaf to a flower shop and asks the florist to identify its plant. After showing her a similar but incorrect plant, the florist leads her to a greenhouse. There Saeng finds the plant she seeks along with others that remind her of home."
+    },
+    {
+      "label": "D",
+      "text": "While at a flower shop, Saeng asks a florist to find a certain plant. After studying the clue of a heart-shaped leaf, the florist realizes that it may be a tropical plant, so she leads Saeng to the greenhouse. There Saeng recognizes the hibiscus plant."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

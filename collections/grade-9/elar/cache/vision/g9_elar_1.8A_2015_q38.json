@@ -1,0 +1,28 @@
+{
+  "stem": "What is the primary purpose of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To summarize research on contagious yawning"
+    },
+    {
+      "label": "G",
+      "text": "To explain why yawning is healthful for people and animals"
+    },
+    {
+      "label": "H",
+      "text": "To describe how human yawning differs from dog yawning"
+    },
+    {
+      "label": "J",
+      "text": "To suggest that scientists will never fully understand why people yawn"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

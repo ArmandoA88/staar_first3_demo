@@ -1,0 +1,28 @@
+{
+  "stem": "What message does the poet hope to convey in the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A person\u2019s memories become more significant as one grows older."
+    },
+    {
+      "label": "B",
+      "text": "Moving to a new place offers a person important and unique opportunities."
+    },
+    {
+      "label": "C",
+      "text": "The best way to remember a person is to visit the place where that person was born."
+    },
+    {
+      "label": "D",
+      "text": "A person\u2019s sense of identity is often linked to a meaningful location in one\u2019s past."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

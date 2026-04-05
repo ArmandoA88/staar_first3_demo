@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the use of the word validated in paragraph 3?",
+  "instruction": "Read the following dictionary entry.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "validate \\'va-l\u0259-\u02ccd\u0101t\\ v\n1. declare or make legal\n2. prove or confirm to be true\n3. approve an expressed agreement\n4. mark with an indication of being official"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

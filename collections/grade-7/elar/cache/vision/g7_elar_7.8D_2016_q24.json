@@ -1,0 +1,30 @@
+{
+  "stem": "What is one reason scientists are excited about the idea of using Coralbots to restore reefs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Coralbots will imitate insects and birds."
+    },
+    {
+      "label": "G",
+      "text": "Programming Coralbots takes less time than training a diver."
+    },
+    {
+      "label": "H",
+      "text": "Coralbots are unlikely to cause more damage to a reef."
+    },
+    {
+      "label": "J",
+      "text": "Coralbots will be able to repair reefs more effectively than divers can."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

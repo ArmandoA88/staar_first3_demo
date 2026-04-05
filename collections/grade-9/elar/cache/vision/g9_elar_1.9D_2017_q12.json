@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentences 23 and 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Many of the species that once made their home on Madagascar are now extinct, scientists, however, are still making discoveries."
+    },
+    {
+      "label": "G",
+      "text": "Although many of the species that once made their home on Madagascar are now extinct and scientists are still making discoveries."
+    },
+    {
+      "label": "H",
+      "text": "Many of the species that once made their home on Madagascar are now extinct, but there are scientists. Who are still making discoveries."
+    },
+    {
+      "label": "J",
+      "text": "Although many of the species that once made their home on Madagascar are now extinct, scientists are still making discoveries."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of text showing question 12 from 2017 STAAR test passage 3"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

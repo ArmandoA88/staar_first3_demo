@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Concrete is a popular material, but it can develop cracks over time. Microbiologist Hendrik Jonkers believes that adding bacteria to concrete can help remedy this problem and provide savings for the construction industry."
+    },
+    {
+      "label": "B",
+      "text": "Hendrik Jonkers, a Dutch microbiologist, noticed that concrete cracks over time. He decided to add bacteria to concrete to make a substance called bioconcrete. The bacteria are placed inside plastic capsules that are mixed into wet concrete."
+    },
+    {
+      "label": "C",
+      "text": "A Dutch microbiologist named Hendrik Jonkers became interested in investigating how bacteria might be applied to concrete to fill cracks in concrete caused by water. He developed a self-healing bioconcrete that works to make concrete more durable."
+    },
+    {
+      "label": "D",
+      "text": "Microbiologist Hendrik Jonkers wondered if concrete could repair itself in the same way that human bones do. He developed bioconcrete, which was used to build a lifeguard station near a lake in the Netherlands and repair an irrigation system in Ecuador."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

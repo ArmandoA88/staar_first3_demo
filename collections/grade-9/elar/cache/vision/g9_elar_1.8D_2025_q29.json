@@ -1,0 +1,31 @@
+{
+  "stem": "In paragraph 10, the author includes the sentence \u201cOnly time will tell!\u201d to emphasize that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "no one knows when the time capsule will be revealed again"
+    },
+    {
+      "label": "B",
+      "text": "preservation methods to protect the time capsule are unreliable"
+    },
+    {
+      "label": "C",
+      "text": "the time capsule may be forgotten and lost to history"
+    },
+    {
+      "label": "D",
+      "text": "people who open the time capsule in the future will find it valuable"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text",
+    "answer choices labeled A to D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

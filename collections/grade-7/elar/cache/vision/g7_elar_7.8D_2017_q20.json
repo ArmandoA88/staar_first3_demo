@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea does the information in paragraph 2 support?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The tower was difficult to build without modern technology."
+    },
+    {
+      "label": "G",
+      "text": "The problem with the tower was evident early in its construction."
+    },
+    {
+      "label": "H",
+      "text": "The addition of the bell tower caused the tower to lean more."
+    },
+    {
+      "label": "J",
+      "text": "The construction of the tower was a slower process than expected."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

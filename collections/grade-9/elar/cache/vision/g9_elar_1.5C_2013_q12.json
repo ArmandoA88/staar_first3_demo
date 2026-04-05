@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these is an example of irony in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A colonel and a young girl debate whether men and women have different amounts of self-control."
+    },
+    {
+      "label": "G",
+      "text": "Cobras normally hide in the rafters of a room, but the cobra in the story is under the table."
+    },
+    {
+      "label": "H",
+      "text": "The American is the only person at the party besides the hostess who realizes the danger everyone is in."
+    },
+    {
+      "label": "J",
+      "text": "The hostess exhibits extreme self-control at the very moment the colonel is saying that women lack it."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

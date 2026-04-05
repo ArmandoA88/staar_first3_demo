@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence best expresses a theme in the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\"Often, when people look better, they act better too.\" (paragraph 5)"
+    },
+    {
+      "label": "B",
+      "text": "A visit to the fabric store that weekend turned into an expedition as he hunted down the perfect textiles for his creation. (paragraph 10)"
+    },
+    {
+      "label": "C",
+      "text": "On his way back home, he looked at what people were wearing, the parade of pants, shirts, dresses, jeans, and ordinariness. (paragraph 11)"
+    },
+    {
+      "label": "D",
+      "text": "\"Not everyone is going to see things the way you do\u2014not right away, and maybe not ever.\" (paragraph 18)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

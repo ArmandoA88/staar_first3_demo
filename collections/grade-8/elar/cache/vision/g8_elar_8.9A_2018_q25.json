@@ -1,0 +1,35 @@
+{
+  "stem": "Based on the details in the poem, the reader can conclude that Mother \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "takes making hot sauce for her family seriously"
+    },
+    {
+      "label": "B",
+      "text": "spends the entire day making hot sauce"
+    },
+    {
+      "label": "C",
+      "text": "makes hot sauce for her family every day"
+    },
+    {
+      "label": "D",
+      "text": "wants her daughter to learn to make hot sauce"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2018 \u2013 Q25 Passage #3B",
+    "25  Based on the details in the poem, the reader can conclude that Mother \u2014",
+    "A  takes making hot sauce for her family seriously",
+    "B  spends the entire day making hot sauce",
+    "C  makes hot sauce for her family every day",
+    "D  wants her daughter to learn to make hot sauce"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

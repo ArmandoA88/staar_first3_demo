@@ -1,0 +1,30 @@
+{
+  "stem": "What is the main idea of paragraph 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Artists must reshape the shell of the shipping container to make sculptures."
+    },
+    {
+      "label": "G",
+      "text": "Storing and moving art pieces in shipping containers are simple processes."
+    },
+    {
+      "label": "H",
+      "text": "Artists see the potential of incorporating shipping containers into their art."
+    },
+    {
+      "label": "J",
+      "text": "Museums are using shipping containers as galleries to share their collections."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with question and answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

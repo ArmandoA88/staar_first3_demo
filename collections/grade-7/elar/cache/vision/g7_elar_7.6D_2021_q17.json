@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the selection \"A Legacy of Stone\"?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Ferdinand Cheval spent many years collecting stones. He used these stones to build a structure, which he named the Ideal Palace. People doubted his abilities, but in time he completed the project. Today it is considered a masterpiece."
+    },
+    {
+      "label": "B",
+      "text": "Ferdinand Cheval noticed some stones when he worked for the postal service in France. He thought he could use the stones to build a palace. He used concrete, lime, and wire to cement the stones in place. The structure became known as the Ideal Palace."
+    },
+    {
+      "label": "C",
+      "text": "The Ideal Palace was built by Ferdinand Cheval. It is a historical monument that people from around the world travel to see. Cheval showed the world how an artist can succeed by working hard."
+    },
+    {
+      "label": "D",
+      "text": "The Ideal Palace is an inspiring masterpiece. The structure is 35 feet tall and took Ferdinand Cheval 33 years to complete. The Ideal Palace is so popular that it has even appeared on a postage stamp."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

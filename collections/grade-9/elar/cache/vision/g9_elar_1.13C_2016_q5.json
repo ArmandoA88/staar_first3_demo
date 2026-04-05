@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective revision to make in sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She found that the people had an increase in the hormone associated with dominance and a decrease in the hormone associated with stress who were holding their body in a position of power."
+    },
+    {
+      "label": "B",
+      "text": "She found that the people holding their body in a position of power had an increase in the hormone associated with dominance, the hormone associated with stress was decreased."
+    },
+    {
+      "label": "C",
+      "text": "She found that while the people were holding their body in a position of power, the hormones associated with dominance and stress were increased and decreased."
+    },
+    {
+      "label": "D",
+      "text": "She found that the people holding their body in a position of power had an increase in the hormone associated with dominance and a decrease in the hormone associated with stress."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

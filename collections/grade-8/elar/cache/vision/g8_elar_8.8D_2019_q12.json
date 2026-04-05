@@ -1,0 +1,28 @@
+{
+  "stem": "What is paragraph 1 mostly about?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The unusual conditions in which some plants can survive"
+    },
+    {
+      "label": "G",
+      "text": "The occurrence of geothermal vents in several western states"
+    },
+    {
+      "label": "H",
+      "text": "The way geothermal vents release pressure in the form of steam"
+    },
+    {
+      "label": "J",
+      "text": "The types of plants that microbiologists have observed at a national park"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

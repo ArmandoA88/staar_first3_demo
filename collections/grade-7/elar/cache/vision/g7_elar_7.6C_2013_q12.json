@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 1.\n\nThanks to my abilities, the rear end of our station wagon has seen pine trees, poles, and snow banks, all up-close and personal.\n\nIn this sentence the author \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "shares her fear of never getting a driver's license"
+    },
+    {
+      "label": "G",
+      "text": "explains why she is such a poor driver"
+    },
+    {
+      "label": "H",
+      "text": "makes fun of her lack of skill"
+    },
+    {
+      "label": "J",
+      "text": "describes the place where she lives"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Thanks to my abilities, the rear end of our station wagon has seen pine trees, poles, and snow banks, all up-close and personal."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

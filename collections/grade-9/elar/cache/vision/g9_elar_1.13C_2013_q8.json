@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Called an edutainer, he entertains people Flansburg has superhuman mathematical abilities and educates them with his technique."
+    },
+    {
+      "label": "G",
+      "text": "Called an edutainer, Flansburg entertains people with his superhuman mathematical abilities and educates them with his technique."
+    },
+    {
+      "label": "H",
+      "text": "Called an edutainer, Flansburg entertains people with his superhuman mathematical abilities, which educate them with his technique."
+    },
+    {
+      "label": "J",
+      "text": "Called an edutainer, his superhuman mathematical abilities that he entertains people with will educate his technique, too."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

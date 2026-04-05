@@ -1,0 +1,28 @@
+{
+  "stem": "What is the MOST effective way to revise sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Of course, planting trees in places with little available soil can be a challenge."
+    },
+    {
+      "label": "B",
+      "text": "Of course, with little available soil, there is a challenge of planting trees in places."
+    },
+    {
+      "label": "C",
+      "text": "Of course, planting trees in places can be a challenge with little available soil to plant."
+    },
+    {
+      "label": "D",
+      "text": "Of course, a challenge with planting trees can be in places with little available soil."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

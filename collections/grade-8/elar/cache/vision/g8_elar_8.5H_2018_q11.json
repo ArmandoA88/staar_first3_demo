@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea does the author emphasize throughout the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Speech-recognition technology saves companies time and money."
+    },
+    {
+      "label": "B",
+      "text": "The technology for speech-recognition systems is constantly improving."
+    },
+    {
+      "label": "C",
+      "text": "Virtual personal assistants are an important achievement in talking computers."
+    },
+    {
+      "label": "D",
+      "text": "The earliest speech-recognition systems had limited capabilities."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *They* to **But**"
+    },
+    {
+      "label": "B",
+      "text": "Change *account* to **acount**"
+    },
+    {
+      "label": "C",
+      "text": "Change *compose* to **composed**"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

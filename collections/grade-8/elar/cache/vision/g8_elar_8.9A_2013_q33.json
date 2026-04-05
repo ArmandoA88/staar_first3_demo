@@ -1,0 +1,30 @@
+{
+  "stem": "Which lines from the poem reflect a lesson that the speaker learns?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\"In lush gardens,/the words will bloom up all around you,\""
+    },
+    {
+      "label": "B",
+      "text": "Quickly marching words,/all in a line,"
+    },
+    {
+      "label": "C",
+      "text": "\"Start with any scribble,/and soon the ideas will form.\""
+    },
+    {
+      "label": "D",
+      "text": "Hello, words./Hello, victory!"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

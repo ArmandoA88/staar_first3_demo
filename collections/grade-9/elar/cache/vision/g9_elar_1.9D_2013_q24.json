@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "G",
+      "text": "Change expert\u2026navigating to they expertly navigate"
+    },
+    {
+      "label": "H",
+      "text": "Change making to make"
+    },
+    {
+      "label": "J",
+      "text": "Change descisions to decisions"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

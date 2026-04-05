@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Working with chalk on city sidewalks. He creates startling drawings that appear to be three-dimensional."
+    },
+    {
+      "label": "B",
+      "text": "Working with chalk on city sidewalks, he creates startling drawings they appear to be three-dimensional."
+    },
+    {
+      "label": "C",
+      "text": "Working with chalk on city sidewalks, he creates them. The startling drawings that appear to be three-dimensional."
+    },
+    {
+      "label": "D",
+      "text": "Sentence 5 is correct in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

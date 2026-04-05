@@ -1,0 +1,31 @@
+{
+  "stem": "How does the author\u2019s language in the quotation from Kokoro DIFFER from the author\u2019s language in the quotation from \u201cThe List\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The author\u2019s language in the quotation from Kokoro illustrates the character\u2019s eager anticipation of an upcoming deadline, while the language in the quotation from \u201cThe List\u201d illustrates the character\u2019s feeling of dread about an upcoming deadline."
+    },
+    {
+      "label": "B",
+      "text": "The author\u2019s language in the quotation from Kokoro shows the character\u2019s absorption in a task, while the language in the quotation from \u201cThe List\u201d shows the character\u2019s inattention to a task that must be completed."
+    },
+    {
+      "label": "C",
+      "text": "The author\u2019s language in the quotation from Kokoro suggests the character\u2019s confidence about a successful outcome, while the language in the quotation from \u201cThe List\u201d suggests the character\u2019s insecurity about an outcome."
+    },
+    {
+      "label": "D",
+      "text": "The author\u2019s language in the quotation from Kokoro emphasizes the character\u2019s commitment to completing a task, while the language in the quotation from \u201cThe List\u201d emphasizes the character\u2019s reluctance to begin a task."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "From then on, my thesis hung over me like a curse, and with bloodshot eyes, I worked like a madman. (paragraph 9, from Kokoro)",
+    "Now, with school only a week away, Mia was left with just one skill: Learn to ride a unicycle. Shudder. (paragraph 6, \u201cThe List\u201d)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of scene 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Samantha's mom is in the living room when Samantha enters, and she immediately asks Samantha if she has told Alyssa about her decision to join the newspaper."
+    },
+    {
+      "label": "B",
+      "text": "Samantha comes home from school and begins to tell her mom about her decision to quit orchestra, and Samantha's mom tells her daughter she must live with the results of her decision."
+    },
+    {
+      "label": "C",
+      "text": "Samantha and her mother discuss Samantha's conversation with Alyssa, and then Samantha makes a decision to take a break from orchestra."
+    },
+    {
+      "label": "D",
+      "text": "Samantha's mom is waiting when Samantha returns home from seeing Alyssa, and Samantha says she wants to explore new options in middle school."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

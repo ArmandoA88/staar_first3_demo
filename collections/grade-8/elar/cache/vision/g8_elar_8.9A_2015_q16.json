@@ -1,0 +1,30 @@
+{
+  "stem": "What does the final stanza of the poem suggest about the future?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Some people will travel to other planets, while others will choose not to."
+    },
+    {
+      "label": "G",
+      "text": "People who travel to other planets will no longer communicate with people living on Earth."
+    },
+    {
+      "label": "H",
+      "text": "Some people will regret their decision to remain on Earth."
+    },
+    {
+      "label": "J",
+      "text": "People who travel to other planets will want their family members living on Earth to join them."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

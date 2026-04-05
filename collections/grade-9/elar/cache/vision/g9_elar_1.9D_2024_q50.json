@@ -1,0 +1,16 @@
+{
+  "stem": "Gianni has made an error in sentence 9. Select the response that corrects this error.\n\nThe women make a profit [blank_1] selling their wares to an admiring worldwide audience.",
+  "instruction": null,
+  "options": [],
+  "choice_pool": [
+    "by",
+    "from",
+    "off of",
+    "in"
+  ],
+  "response_template": "The women make a profit [blank_1] selling their wares to an admiring worldwide audience.",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

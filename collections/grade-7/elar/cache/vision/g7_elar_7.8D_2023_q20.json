@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence from the article best expresses the controlling idea?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The cobots do not look like people. (paragraph 3)"
+    },
+    {
+      "label": "B",
+      "text": "The use of exoskeletons extends into the field of medicine. (paragraph 6)"
+    },
+    {
+      "label": "C",
+      "text": "There is almost no limit to the services these pint-size robots can offer. (paragraph 7)"
+    },
+    {
+      "label": "D",
+      "text": "More and more, robots are joining humans at work and at home. (paragraph 9)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

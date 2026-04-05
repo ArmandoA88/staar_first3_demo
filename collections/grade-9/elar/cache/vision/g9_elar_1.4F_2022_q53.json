@@ -1,0 +1,30 @@
+{
+  "stem": "Read this excerpt from lines 37 and 38 from the poem.\n\nI don\u2019t ask for a ticket and he doesn\u2019t offer one.\n\nWhat can the reader infer about the speaker based on the excerpt from these lines?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The speaker trusts the shoemaker to repair his shoe."
+    },
+    {
+      "label": "B",
+      "text": "The speaker is confused why the shoemaker does not offer him a ticket."
+    },
+    {
+      "label": "C",
+      "text": "The speaker thinks it would be insulting to ask for a ticket."
+    },
+    {
+      "label": "D",
+      "text": "The speaker understands that his shoe is not difficult to repair."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Box containing text: I don\u2019t ask for a ticket and he doesn\u2019t offer one."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

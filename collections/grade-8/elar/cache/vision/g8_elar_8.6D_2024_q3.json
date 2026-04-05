@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best paraphrase of paragraph 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By the late 1800s, model airplanes were used by gliding expert Otto Lilienthal to learn about flight. He wondered if it would be better to use gliders that were bigger. This idea led him to experiment with full-scale gliders and eventually led to the success of aviation."
+    },
+    {
+      "label": "B",
+      "text": "By the late 1800s, Otto Lilienthal realized that it would be better to use full-scale gliders rather than model airplanes to learn about flight. Chanute agreed with Lilienthal, and Chanute spent several years working on glider designs near Lake Michigan."
+    },
+    {
+      "label": "C",
+      "text": "By the late 1800s, gliders that could carry passengers were being used by aviators such as Otto Lilienthal and Chanute to test the properties of flight. These aviators had realized that using smaller planes was unwise."
+    },
+    {
+      "label": "D",
+      "text": "By the late 1800s, most attempts at flight relied on the use of model airplanes. However, aviation expert Otto Lilienthal was convinced that success in flight required practicing with full-size gliders that could carry a passenger."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Extracted from top to bottom reading of visible options and stem; formatting preserved."
+}

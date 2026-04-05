@@ -1,0 +1,31 @@
+{
+  "stem": "Which idea should be included to create a complete summary of paragraph 5?",
+  "instruction": "Read this incomplete summary of paragraph 5.\n\n1. Some robot technology today is wearable.\n2. An exoskeleton is strapped onto a person with the assistance of metal straps and tubes.\n3. _____________________________\n4. People can wear exoskeletons at jobs to reduce the chances of getting injured when doing heavy lifting.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Exoskeletons are designed to make the people who wear them stronger."
+    },
+    {
+      "label": "B",
+      "text": "Exoskeletons are worn by warehouse workers."
+    },
+    {
+      "label": "C",
+      "text": "Exoskeletons allow people to do all of their normal activities."
+    },
+    {
+      "label": "D",
+      "text": "Exoskeletons make people look like they are in a science-fiction movie."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "incomplete summary box",
+    "multiple choice options with letter labels"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

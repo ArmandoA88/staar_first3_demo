@@ -1,0 +1,30 @@
+{
+  "stem": "In Scene 1, the dialogue between the boy and the banker reveals that the boy \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "does not understand why the banker is visiting"
+    },
+    {
+      "label": "G",
+      "text": "enjoys talking with the banker"
+    },
+    {
+      "label": "H",
+      "text": "refuses to respond to the banker\u2019s questions"
+    },
+    {
+      "label": "J",
+      "text": "does not feel threatened by the banker"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence should be included in this paragraph to make a complete summary of the article?",
+  "instruction": "Read this paragraph.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Preservationists carefully documented the items in the time capsule."
+    },
+    {
+      "label": "B",
+      "text": "The time capsule contained coins from the 1600s and 1700s."
+    },
+    {
+      "label": "C",
+      "text": "Samuel Adams and Paul Revere were important figures during the American Revolution."
+    },
+    {
+      "label": "D",
+      "text": "The second time capsule was made of brass to keep the artifacts safe."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Time capsules are containers that offer a glimpse into a period of history. When workers repaired the cornerstone of the Massachusetts State House in 1855, they discovered a time capsule containing items from the Revolutionary War era. More than a century later, the capsule was found again under similar circumstances. The historical artifacts were briefly shared with the public before being returned to their original hiding spot for future generations to unearth."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *It\u2019s* to *Its*"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after *work*"
+    },
+    {
+      "label": "C",
+      "text": "Delete the comma after *says*"
+    },
+    {
+      "label": "D",
+      "text": "Change *But* to but"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

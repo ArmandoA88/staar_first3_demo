@@ -1,0 +1,31 @@
+{
+  "stem": "What change should be made in sentence 29?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change come to came"
+    },
+    {
+      "label": "G",
+      "text": "Change use to using"
+    },
+    {
+      "label": "H",
+      "text": "Delete and"
+    },
+    {
+      "label": "J",
+      "text": "Change it to them"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q16 Passage #3",
+    "16"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

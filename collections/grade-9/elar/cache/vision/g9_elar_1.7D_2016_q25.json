@@ -1,0 +1,31 @@
+{
+  "stem": "Why does the author end the article with a quotation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show how Pat Summitt will likely be remembered over time"
+    },
+    {
+      "label": "B",
+      "text": "To suggest that Pat Summitt\u2019s accomplishments may soon be eclipsed"
+    },
+    {
+      "label": "C",
+      "text": "To imply that female coaches will never win as many games as male coaches"
+    },
+    {
+      "label": "D",
+      "text": "To provide an opinion that differs from those expressed in the rest of the article"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q25 Passage #5A",
+    "25"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

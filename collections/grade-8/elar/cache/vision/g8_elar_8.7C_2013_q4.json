@@ -1,0 +1,30 @@
+{
+  "stem": "The author included paragraph 15 in order to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "explain why Lola has decided she does not want to perform in the play"
+    },
+    {
+      "label": "G",
+      "text": "let the reader know that at one time Ella did not want Lola to act in the play"
+    },
+    {
+      "label": "H",
+      "text": "show the reader that Lola is no longer interested in being in the play"
+    },
+    {
+      "label": "J",
+      "text": "demonstrate that Ella is upset with Lola for not following her earlier advice about being in the play"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

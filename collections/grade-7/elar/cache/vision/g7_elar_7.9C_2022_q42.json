@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes this photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To show how walking produces chemicals in the brain that can improve a person\u2019s mood"
+    },
+    {
+      "label": "G",
+      "text": "To indicate that walking can be done in places that bring feelings of peace"
+    },
+    {
+      "label": "H",
+      "text": "To emphasize that walking gets easier once it becomes a habit"
+    },
+    {
+      "label": "J",
+      "text": "To highlight how walking provides countless physical advantages to a person\u2019s well-being"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "black and white photo of a person wearing a hat walking on a forest trail with trees on either side, captioned 'A Walking Trail'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

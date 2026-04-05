@@ -1,0 +1,30 @@
+{
+  "stem": "Which event in the story causes Teresa to reevaluate her talent as a long jumper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Teresa watches another girl jump a long distance."
+    },
+    {
+      "label": "G",
+      "text": "Teresa's mother suggests that she practice more."
+    },
+    {
+      "label": "H",
+      "text": "Teresa's first jump does not impress Coach Jennings."
+    },
+    {
+      "label": "J",
+      "text": "Teresa declines to take her second jump."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The question text and answer options as displayed on the page."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

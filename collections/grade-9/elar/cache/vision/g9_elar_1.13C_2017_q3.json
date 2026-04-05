@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 15 and 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Furthermore, the batteries in an electric car weaken over time, eventually allowing a person to travel even fewer miles between charges."
+    },
+    {
+      "label": "B",
+      "text": "Furthermore, the batteries in an electric car weaken over time, eventually they allow a person to travel even fewer miles between charges."
+    },
+    {
+      "label": "C",
+      "text": "Furthermore, the batteries in an electric car weaken over time, which means the batteries eventually allow a person to travel even fewer miles between charges."
+    },
+    {
+      "label": "D",
+      "text": "Furthermore, the batteries in an electric car weaken over time because they eventually allow a person to travel even fewer miles between charges."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

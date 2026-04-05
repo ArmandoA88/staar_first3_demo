@@ -1,0 +1,30 @@
+{
+  "stem": "Adam wants to improve the transition from the third paragraph (sentences 11\u201318) to the fourth paragraph (sentences 19\u201323). How can Adam revise sentence 19 to provide a more effective transition?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Food that is grown locally is just a more healthful choice."
+    },
+    {
+      "label": "B",
+      "text": "Finally, buying food from local farmers can benefit the environment."
+    },
+    {
+      "label": "C",
+      "text": "As distance declines, the amount of fuel needed also declines."
+    },
+    {
+      "label": "D",
+      "text": "The last reason to buy local is an important one."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "stem": "What change is needed in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change barnacles to Barnacles"
+    },
+    {
+      "label": "B",
+      "text": "Change could to couldn\u2019t"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after floor"
+    },
+    {
+      "label": "D",
+      "text": "Change is spread to are spread"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q46 Passage #6",
+    "What change is needed in sentence 21?",
+    "A Change barnacles to Barnacles",
+    "B Change could to couldn\u2019t",
+    "C Insert a comma after floor",
+    "D Change is spread to are spread"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

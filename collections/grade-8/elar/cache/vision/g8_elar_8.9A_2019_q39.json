@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the story creates an image of how tailoring can help people?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Being from a family of tailors, Andy had learned a lot about clothing over the years\u2014how to make it and how to alter it. (paragraph 2)"
+    },
+    {
+      "label": "B",
+      "text": "Mr. Simone paid his bill and then carefully, almost proudly, placed the newly perfected pants over his arm. (paragraph 4)"
+    },
+    {
+      "label": "C",
+      "text": "There was no denying that tailoring was a valuable service to some. (paragraph 4)"
+    },
+    {
+      "label": "D",
+      "text": "That was exactly the reason Andy longed to create something of his own. (paragraph 6)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

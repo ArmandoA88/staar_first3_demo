@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Since there is a lure of mainland conveniences for many people. It has caused much of the island-dwelling population to dwindle."
+    },
+    {
+      "label": "B",
+      "text": "There is a lure of mainland conveniences for many island residents, this has caused the island-dwelling population to dwindle."
+    },
+    {
+      "label": "C",
+      "text": "Some Uros have been lured to the mainland because of its conveniences, which has caused the island-dwelling population to dwindle."
+    },
+    {
+      "label": "D",
+      "text": "Many island residents have moved to the mainland because of the lure of conveniences and a dwindling Uros population."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

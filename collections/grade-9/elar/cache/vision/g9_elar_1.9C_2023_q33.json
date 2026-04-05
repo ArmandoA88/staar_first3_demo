@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, is needed in sentence 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Julian stood over his aunt\u2019s stove, staring at the side of a box and struggling to decipher the precise order of operations required to make macaroni and cheese."
+    },
+    {
+      "label": "B",
+      "text": "Julian stood over his aunt\u2019s stove, staring at the side of a box that struggled to decipher the precise order of operations to make macaroni and cheese and the requirements."
+    },
+    {
+      "label": "C",
+      "text": "Julian stood over his aunt\u2019s stove, staring and struggling to decipher the precise order of operations that were required to make macaroni and cheese on the side of a box."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

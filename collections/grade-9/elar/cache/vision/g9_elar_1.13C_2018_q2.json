@@ -1,0 +1,28 @@
+{
+  "stem": "How can Susan improve the clarity of sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change *these teens* to they"
+    },
+    {
+      "label": "G",
+      "text": "Change *they* to researchers"
+    },
+    {
+      "label": "H",
+      "text": "Change *suggesting* to saying"
+    },
+    {
+      "label": "J",
+      "text": "Change a *while* to some time"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 0.95,
+  "notes": null
+}

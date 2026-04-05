@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "In 1882 the French artist Paul Philippoteaux was hired to paint scenes from the battle of Gettysburg. The artist made hundreds of sketches of the battlefield, had photos taken of the area, and interviewed combat veterans. It took Philippoteaux a year and a half to paint the famous Gettysburg cyclorama."
+    },
+    {
+      "label": "B",
+      "text": "Cycloramas, a common form of entertainment in the late 1800s, are large paintings that usually depict scenes from literature or history. A cyclorama is hung inside a circular auditorium where viewers can stand in the center and turn 360 degrees to view the entire work. The Gettysburg cyclorama was painted in 1882 and still can be seen today."
+    },
+    {
+      "label": "C",
+      "text": "The Gettysburg cyclorama, originally created in 1882, is a huge circular painting of a Civil War battle. The viewing auditorium contains a raised platform and incorporates effects that allow visitors to have a unique experience while looking at the scenes. The cyclorama is on display at the Gettysburg National Military Park, where it attracts crowds of enthusiastic viewers."
+    },
+    {
+      "label": "D",
+      "text": "Visitors to the Gettysburg National Military Park can view the Gettysburg cyclorama, a famous circular work of art that shows scenes from the important Civil War battle. The cyclorama was painted in 1882, and versions were displayed in Chicago and Boston. Many years later it was sold to the U.S. government."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

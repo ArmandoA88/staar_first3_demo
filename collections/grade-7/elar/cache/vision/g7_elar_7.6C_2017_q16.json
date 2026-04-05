@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement is supported by the illustration of the vault that appears after paragraph 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The seeds are housed in a highly secure location."
+    },
+    {
+      "label": "G",
+      "text": "Many donors help finance the maintenance of the vault."
+    },
+    {
+      "label": "H",
+      "text": "Many people understand the importance of the vault."
+    },
+    {
+      "label": "J",
+      "text": "Seeds are safer in separate chambers than in one open area."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "illustration of the vault after paragraph 3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

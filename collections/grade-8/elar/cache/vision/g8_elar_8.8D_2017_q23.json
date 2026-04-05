@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection supports the idea that creating structures from shipping containers is cost-efficient?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Shipping containers are used to haul cargo on ships, trains, and trucks."
+    },
+    {
+      "label": "B",
+      "text": "One trend that has gained popularity is creating houses from retired shipping containers."
+    },
+    {
+      "label": "C",
+      "text": "With all these options and new purposes, fewer shipping containers will be headed to the junkyard."
+    },
+    {
+      "label": "D",
+      "text": "Urban areas and colleges that struggle to provide affordable housing have also begun to explore building container housing and work spaces."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST way to combine sentences 21 and 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sucking up carbon dioxide and producing large amounts of oxygen are how this seagrass is like the rain forest."
+    },
+    {
+      "label": "B",
+      "text": "This seagrass is like the rain forest that sucks up carbon dioxide that produces large amounts of oxygen."
+    },
+    {
+      "label": "C",
+      "text": "Although this seagrass sucks up carbon dioxide and produces large amounts of oxygen, the seagrass is like the rain forest."
+    },
+    {
+      "label": "D",
+      "text": "Like the rain forest, this seagrass sucks up carbon dioxide and produces large amounts of oxygen."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change become to became"
+    },
+    {
+      "label": "G",
+      "text": "Change they're to their"
+    },
+    {
+      "label": "H",
+      "text": "Delete so"
+    },
+    {
+      "label": "J",
+      "text": "Change it to them"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

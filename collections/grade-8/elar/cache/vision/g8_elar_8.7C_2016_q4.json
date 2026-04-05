@@ -1,0 +1,30 @@
+{
+  "stem": "Which event initiates the rising action of the excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The girl on the train tells Byrd that they have reached Texas."
+    },
+    {
+      "label": "G",
+      "text": "The girl on the train notices the book Byrd is reading."
+    },
+    {
+      "label": "H",
+      "text": "Byrd is assisted by the conductor at the start of the trip."
+    },
+    {
+      "label": "J",
+      "text": "Byrd falls asleep while reading her favorite book."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image with text of a multiple-choice question about the rising action event"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

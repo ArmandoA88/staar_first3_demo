@@ -1,0 +1,30 @@
+{
+  "stem": "What information from the article is highlighted by the map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The places where other penguins have been found in New Zealand"
+    },
+    {
+      "label": "B",
+      "text": "The location of penguin habitats in Antarctica"
+    },
+    {
+      "label": "C",
+      "text": "The distance from New Zealand to Antarctica"
+    },
+    {
+      "label": "D",
+      "text": "The size of New Zealand in square miles"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "map"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence can **BEST** follow and support sentence 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "As a result, there can be times when those in charge are forced to take on too much."
+    },
+    {
+      "label": "B",
+      "text": "Furthermore, not everyone will want to do some of the jobs required for a community celebration."
+    },
+    {
+      "label": "C",
+      "text": "Similarly, a sign-up sheet is an efficient way to find out how many people are available to help."
+    },
+    {
+      "label": "D",
+      "text": "In addition, the weather may be a factor when deciding whether to hold an event indoors or outdoors."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

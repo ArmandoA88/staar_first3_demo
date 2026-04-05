@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Most teens are absorbed with their own daily activities. Rarely thinking about the fact that human civilization has been around for a long time."
+    },
+    {
+      "label": "G",
+      "text": "Most teens are absorbed with their own daily activities and rarely think about human civilization. Which has been around for a long time."
+    },
+    {
+      "label": "H",
+      "text": "Most teens are absorbed with their own daily activities and rarely think about this fact, human civilization has been around for a long time."
+    },
+    {
+      "label": "J",
+      "text": "Most teens are absorbed with their own daily activities and rarely think about the fact that human civilization has been around for a long time."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

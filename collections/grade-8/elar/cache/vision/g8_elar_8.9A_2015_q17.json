@@ -1,0 +1,30 @@
+{
+  "stem": "The progression from \"wayfarers\" to \"spacefarers\" demonstrates that people \u2014",
+  "instruction": "Read these lines from the poem.\n\nOnce we were wayfarers, then seafarers, then airfarers; We shall be spacefarers soon,",
+  "options": [
+    {
+      "label": "A",
+      "text": "have made scientific discoveries while traveling to new places"
+    },
+    {
+      "label": "B",
+      "text": "have developed ways to explore new regions"
+    },
+    {
+      "label": "C",
+      "text": "select the mode of transportation that is most convenient"
+    },
+    {
+      "label": "D",
+      "text": "prefer some forms of transportation over others"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Once we were wayfarers, then seafarers, then airfarers; We shall be spacefarers soon,"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

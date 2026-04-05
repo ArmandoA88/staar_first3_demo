@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change the comma after items to a colon"
+    },
+    {
+      "label": "B",
+      "text": "Change haven't been used to hadn't been used"
+    },
+    {
+      "label": "C",
+      "text": "Change but they to they"
+    },
+    {
+      "label": "D",
+      "text": "Change were to was"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 3?",
+    "A Change the comma after items to a colon",
+    "B Change haven't been used to hadn't been used",
+    "C Change but they to they",
+    "D Change were to was"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

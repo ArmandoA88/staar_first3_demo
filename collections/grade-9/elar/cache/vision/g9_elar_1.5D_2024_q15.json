@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best summary of the excerpt from \"Big Wheels Keep On Turnin'\"?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The first Ferris wheel was built by George Ferris. The mayor of Chicago attended the opening event for the Ferris wheel. One of the first riders wrote a review of the experience. It cost 50 cents to ride, which was a lot of money at the time. Eventually the Ferris wheel became part of the Louisiana Purchase Exposition in St. Louis."
+    },
+    {
+      "label": "B",
+      "text": "The opening ceremony for the first Ferris wheel featured a brass band. People thought they might get dizzy on the Ferris wheel, but they soon found out that they were wrong. A storm during the fair failed to impact the Ferris wheel. After the fair, the Ferris wheel was moved to a park on North Clark Street. Eventually, the Ferris wheel was destroyed."
+    },
+    {
+      "label": "C",
+      "text": "The first Ferris wheel debuted in 1893. Riders of the Ferris wheel were nervous about the new experience but were quickly thrilled by it. The Ferris wheel became very successful during the fair, and George Ferris made a lot of money from it. Unfortunately, when it was brought back, it was not nearly as popular as before, and it was eventually taken apart."
+    },
+    {
+      "label": "D",
+      "text": "The mayor of Chicago invited guests to ride the first Ferris wheel in Chicago. People who rode it were surprised that they did not get sick from the experience. It was so exciting that a North Dakota farm boy wrote an excited message home about it. The Ferris wheel had 3,000 lightbulbs so it could be seen at night. Eventually it was taken apart and put into storage."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four text boxes with letter labels A, B, C, D each containing a summary option"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

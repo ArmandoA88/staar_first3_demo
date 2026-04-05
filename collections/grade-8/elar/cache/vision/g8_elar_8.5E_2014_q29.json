@@ -1,0 +1,30 @@
+{
+  "stem": "Which line from the poem best expresses Cassie\u2019s feelings at the end of the story?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I am myself,"
+    },
+    {
+      "label": "B",
+      "text": "my own sun and rain."
+    },
+    {
+      "label": "C",
+      "text": "My signature,"
+    },
+    {
+      "label": "D",
+      "text": "Impress, implant,"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

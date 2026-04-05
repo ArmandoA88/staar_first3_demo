@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 38 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change admired to admirred"
+    },
+    {
+      "label": "G",
+      "text": "Change the comma to a semicolon"
+    },
+    {
+      "label": "H",
+      "text": "Change advise to advice"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 38 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "From this line, the reader can infer that the speaker feels regret about \u2014",
+  "instruction": "Read line 37 from the poem.",
+  "options": [
+    {
+      "label": "A",
+      "text": "giving up his search for gold"
+    },
+    {
+      "label": "B",
+      "text": "leaving his job to prospect for gold"
+    },
+    {
+      "label": "C",
+      "text": "having the wrong equipment for panning for gold"
+    },
+    {
+      "label": "D",
+      "text": "taking too long to locate an area to search for gold"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I should have known better."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Extracted all visible text including the poem line and answer choices exactly as shown."
+}

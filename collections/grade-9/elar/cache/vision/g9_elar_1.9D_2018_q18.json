@@ -1,0 +1,34 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 32?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert quotation marks before the first and"
+    },
+    {
+      "label": "G",
+      "text": "Change I think to we think"
+    },
+    {
+      "label": "H",
+      "text": "Change testament to testiment"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made in sentence 32."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change, if any, needs to be made in sentence 32?",
+    "F Insert quotation marks before the first and",
+    "G Change I think to we think",
+    "H Change testament to testiment",
+    "J No change needs to be made in sentence 32."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

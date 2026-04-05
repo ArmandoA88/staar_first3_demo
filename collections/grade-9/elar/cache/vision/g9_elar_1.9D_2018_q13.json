@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 23 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change According to Acording"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after Davis"
+    },
+    {
+      "label": "C",
+      "text": "Change Serious to serious"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 23 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

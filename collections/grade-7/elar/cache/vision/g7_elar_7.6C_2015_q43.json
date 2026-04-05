@@ -1,0 +1,31 @@
+{
+  "stem": "Based on these sentences, the reader can infer that Kirby thinks he \u2014",
+  "instruction": "Read these sentences from the story.\n\nFor somebody like me, growing up in a basketball-loving family in a basketball-crazed town, you'd think I'd be screeching around the gym, too. (paragraph 3)\n\nBeing a basketball fan and a citizen of the Basketball Capital of Kansas, I owed it to my fellow seventh graders to support the team. (paragraph 39)",
+  "options": [
+    {
+      "label": "A",
+      "text": "has natural talent that he has been unable to demonstrate"
+    },
+    {
+      "label": "B",
+      "text": "is obligated to participate in activities related to basketball"
+    },
+    {
+      "label": "C",
+      "text": "should make a strong effort to improve his shooting technique"
+    },
+    {
+      "label": "D",
+      "text": "is a disappointment to his family because of his lack of athletic skill"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "For somebody like me, growing up in a basketball-loving family in a basketball-crazed town, you'd think I'd be screeching around the gym, too. (paragraph 3)",
+    "Being a basketball fan and a citizen of the Basketball Capital of Kansas, I owed it to my fellow seventh graders to support the team. (paragraph 39)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

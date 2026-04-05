@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 12 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change fascinated to fasinated"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma after cool"
+    },
+    {
+      "label": "H",
+      "text": "Change had never pursued to hadn't never pursued"
+    },
+    {
+      "label": "J",
+      "text": "Change it to them"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

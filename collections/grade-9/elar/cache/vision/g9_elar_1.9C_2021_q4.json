@@ -1,0 +1,28 @@
+{
+  "stem": "Sentence 20 is unclear. How should it be revised?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Having my credit history included on the family credit report encouraged me to handle my card wisely."
+    },
+    {
+      "label": "G",
+      "text": "Because I had my credit history included on the family credit report, it was highly motivating to handle my card wisely."
+    },
+    {
+      "label": "H",
+      "text": "It became a primary goal of mine to handle my card wisely with the family credit report having my credit history included on it."
+    },
+    {
+      "label": "J",
+      "text": "I wanted to handle my card wisely with it including my credit history on the family credit report."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

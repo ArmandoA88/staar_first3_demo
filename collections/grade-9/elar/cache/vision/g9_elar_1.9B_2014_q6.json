@@ -1,0 +1,30 @@
+{
+  "stem": "Damian needs a stronger closing for his paper. Which sentences should he add after sentence 28 to bring his paper to a more effective conclusion?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "You must be the one who changes this. It isn\u2019t fair to make others think they have all the rights."
+    },
+    {
+      "label": "G",
+      "text": "Don\u2019t be lazy. Get off the couch and do something that matters."
+    },
+    {
+      "label": "H",
+      "text": "When Election Day comes, go to the polls and cast your vote. It\u2019s not only your right but also your responsibility."
+    },
+    {
+      "label": "J",
+      "text": "You\u2019ll feel better if you persuade people to vote. You can help make your community more vibrant."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

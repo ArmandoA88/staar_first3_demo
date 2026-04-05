@@ -1,0 +1,34 @@
+{
+  "stem": "What change, if any, should be made in sentence 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Walking to Walk"
+    },
+    {
+      "label": "B",
+      "text": "Change comes to came"
+    },
+    {
+      "label": "C",
+      "text": "Change natural to naturally"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made in sentence 1."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "23",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

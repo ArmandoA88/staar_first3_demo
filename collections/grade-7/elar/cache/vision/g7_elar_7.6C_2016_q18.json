@@ -1,0 +1,30 @@
+{
+  "stem": "Read this sentence from paragraph 4.\n\nBut even though I may never be perfect, I feel a sense of satisfaction eating a meal that I've cooked and that didn't cost me a small fortune.\n\nThe sentence suggests that the author believes cooking \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "is a good way to learn about new food"
+    },
+    {
+      "label": "G",
+      "text": "has immediate and practical rewards"
+    },
+    {
+      "label": "H",
+      "text": "should involve trying to make complex meals"
+    },
+    {
+      "label": "J",
+      "text": "leads to healthier eating habits"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Box with sentence from paragraph 4: \"But even though I may never be perfect, I feel a sense of satisfaction eating a meal that I've cooked and that didn't cost me a small fortune.\""
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

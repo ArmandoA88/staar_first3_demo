@@ -1,0 +1,28 @@
+{
+  "stem": "Which sentence indicates that strategies used by supermarkets are effective?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Americans spend about 1.5 billion dollars a day on groceries, but supermarkets and grocery stores want shoppers to spend even more."
+    },
+    {
+      "label": "G",
+      "text": "While the customer is trying to spend the shortest amount of time and the least amount of money while shopping, the supermarket is trying to encourage the shopper to do the opposite."
+    },
+    {
+      "label": "H",
+      "text": "A typical grocery store has about 50,000 products to sell to customers."
+    },
+    {
+      "label": "J",
+      "text": "A study by a food marketing group showed that about 60% of the items bought at the supermarket were not on the customer\u2019s original list."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

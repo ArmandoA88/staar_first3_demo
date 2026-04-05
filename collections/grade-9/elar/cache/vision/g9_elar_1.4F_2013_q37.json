@@ -1,0 +1,34 @@
+{
+  "stem": "The mood of both selections is \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "depressing"
+    },
+    {
+      "label": "B",
+      "text": "bittersweet"
+    },
+    {
+      "label": "C",
+      "text": "frightening"
+    },
+    {
+      "label": "D",
+      "text": "carefree"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The mood of both selections is \u2014",
+    "A depressing",
+    "B bittersweet",
+    "C frightening",
+    "D carefree"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

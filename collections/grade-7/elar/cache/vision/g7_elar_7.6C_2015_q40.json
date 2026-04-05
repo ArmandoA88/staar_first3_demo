@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph is included in the selection most likely to show \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "how Pixar creates the characters for its animated movies"
+    },
+    {
+      "label": "G",
+      "text": "a digitally animated scene from one of Pixar's award-winning movies"
+    },
+    {
+      "label": "H",
+      "text": "two of the characters that have made Toy Story so popular since its release"
+    },
+    {
+      "label": "J",
+      "text": "how Toy Story uses advanced technology to tell a story about friendship"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

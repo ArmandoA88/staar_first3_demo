@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these supports the idea that band members form strong bonds with one another?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\"We always called ourselves 'band nerds.' I don't think it's derogatory or anything. It doesn't bother me one bit.\""
+    },
+    {
+      "label": "B",
+      "text": "\"It's like camaraderie,\" Harwell said. \"For four years, it's your family.\""
+    },
+    {
+      "label": "C",
+      "text": "\"In some places, being in the band is not the in thing; it's not cool. It's cool to be in the band in Sundown,\" he said."
+    },
+    {
+      "label": "D",
+      "text": "\"You have your preps, your jocks and your band nerds,\" said Jolynn Harwell, 24, who played clarinet and served as drum major for two years at Stephenville High School."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

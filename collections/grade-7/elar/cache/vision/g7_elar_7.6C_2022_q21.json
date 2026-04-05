@@ -1,0 +1,30 @@
+{
+  "stem": "Which line from the poem \u201cThe Tree\u201d best helps the reader understand that the speaker is experiencing regret?",
+  "instruction": "Use The Tree to answer the following question.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Each evening for a full five minutes, (line 1)"
+    },
+    {
+      "label": "B",
+      "text": "upon my neighbor\u2019s house. (line 4)"
+    },
+    {
+      "label": "C",
+      "text": "That evening the tree was gone, (line 12)"
+    },
+    {
+      "label": "D",
+      "text": "an emptiness, along the street: (line 15)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Poem reference The Tree"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

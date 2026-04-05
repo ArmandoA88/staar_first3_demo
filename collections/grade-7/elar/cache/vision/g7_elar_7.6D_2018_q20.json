@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Velcro, a fastener named from a combination of the words \u201cvelvet\u201d and \u201ccrochet,\u201d was invented by the Swiss engineer George de Mestral. He modeled Velcro after burrs that he found in nature. He learned that nylon was the best material to use to make Velcro."
+    },
+    {
+      "label": "G",
+      "text": "George de Mestral was an engineer from Switzerland who had a curious mind. After studying burrs stuck to his dog\u2019s fur, Mestral decided to create a new kind of fastener. Velcro, the product that Mestral created, is a hook-and-loop fastener that works the same way burrs work in nature."
+    },
+    {
+      "label": "H",
+      "text": "George de Mestral was the engineer who invented Velcro, a type of hook-and-loop fastener modeled after burrs Mestral found stuck to his dog\u2019s fur. Mestral overcame many obstacles as he worked to produce Velcro. Today, Velcro is commonly used to fasten a variety of materials."
+    },
+    {
+      "label": "J",
+      "text": "A curious man, George de Mestral noticed one day that burrs were stuck to his dog\u2019s fur. He looked at these burrs under a microscope and saw that tiny hooks on the burrs allowed them to latch onto the fur. Mestral went on to invent Velcro, which uses hooks similar to those found on the burrs."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

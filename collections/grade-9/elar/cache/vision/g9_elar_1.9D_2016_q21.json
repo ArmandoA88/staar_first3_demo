@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 45?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It turned out this lady with the pink bowling bag was the Bessie Richards. Who was a recording artist of the 1960s."
+    },
+    {
+      "label": "B",
+      "text": "It turned out this lady with the pink bowling bag was the Bessie Richards. A recording artist of the 1960s."
+    },
+    {
+      "label": "C",
+      "text": "It turned out this lady with the pink bowling bag. She was the Bessie Richards, a recording artist of the 1960s."
+    },
+    {
+      "label": "D",
+      "text": "It turned out this lady with the pink bowling bag was the Bessie Richards, a recording artist of the 1960s."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with letter choices A, B, C, and D."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

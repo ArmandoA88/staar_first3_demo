@@ -1,0 +1,30 @@
+{
+  "stem": "These sentences show that Lola \u2014",
+  "instruction": "Read these sentences from paragraph 34.\n\n\"Nothing,\" I shouted back through my sobs. \"I've had a miraculous recovery.\"",
+  "options": [
+    {
+      "label": "A",
+      "text": "hopes her mother does not realize she is angry"
+    },
+    {
+      "label": "B",
+      "text": "plans to continue to cry with Ella"
+    },
+    {
+      "label": "C",
+      "text": "has decided to perform in the play"
+    },
+    {
+      "label": "D",
+      "text": "has agreed to let Carla have the lead role in the play"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"Nothing,\" I shouted back through my sobs. \"I've had a miraculous recovery.\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

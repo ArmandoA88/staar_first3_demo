@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change greater to great"
+    },
+    {
+      "label": "B",
+      "text": "Change experience to expereince"
+    },
+    {
+      "label": "C",
+      "text": "Change adopting to he or she adopted"
+    },
+    {
+      "label": "D",
+      "text": "Change from to with"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 9?",
+    "A Change greater to great",
+    "B Change experience to expereince",
+    "C Change adopting to he or she adopted",
+    "D Change from to with"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

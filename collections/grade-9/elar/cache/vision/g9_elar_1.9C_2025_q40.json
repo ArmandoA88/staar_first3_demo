@@ -1,0 +1,34 @@
+{
+  "stem": "What revision, if any, should be made in sentence 17?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "This cognitive growth often occurs with little conscious effort or no conscious effort."
+    },
+    {
+      "label": "B",
+      "text": "This cognitive growth often occurs, which is with little or no conscious effort."
+    },
+    {
+      "label": "C",
+      "text": "This cognitive growth with little or no conscious effort is what often occurs."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What revision, if any, should be made in sentence 17?",
+    "A This cognitive growth often occurs with little conscious effort or no conscious effort.",
+    "B This cognitive growth often occurs, which is with little or no conscious effort.",
+    "C This cognitive growth with little or no conscious effort is what often occurs.",
+    "D No change is needed."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

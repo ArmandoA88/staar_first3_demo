@@ -1,0 +1,30 @@
+{
+  "stem": "The comparison in Fowler's statement helps the reader understand that \u2014",
+  "instruction": "Read these sentences from the selection.\n\n\"We are losing biodiversity every day,\" Fowler explains. \"It is kind of a drip, drip, drip\u2014it's also inevitable.\"",
+  "options": [
+    {
+      "label": "F",
+      "text": "few people realize the consequences of losing seed varieties"
+    },
+    {
+      "label": "G",
+      "text": "seed varieties are lost slowly, but the loss accumulates over time"
+    },
+    {
+      "label": "H",
+      "text": "many seed varieties have been lost as a result of natural disasters"
+    },
+    {
+      "label": "J",
+      "text": "scientists think seed varieties could be saved through improved agricultural practices"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"We are losing biodiversity every day,\" Fowler explains.\n\"It is kind of a drip, drip, drip\u2014it's also inevitable.\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

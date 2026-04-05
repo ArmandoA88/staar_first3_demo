@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete but"
+    },
+    {
+      "label": "B",
+      "text": "Change Freshman to freshman"
+    },
+    {
+      "label": "C",
+      "text": "Delete the comma after year"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in sentence 5."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of multiple-choice question with text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Adam would like to add the following detail to the fourth paragraph (sentences 19\u201323).\n\nCustomers bring their own reusable bags to carry their fresh food home.\n\nWhere should he insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "After sentence 20"
+    },
+    {
+      "label": "G",
+      "text": "After sentence 21"
+    },
+    {
+      "label": "H",
+      "text": "After sentence 23"
+    },
+    {
+      "label": "J",
+      "text": "Adam should not add this detail to the fourth paragraph."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Customers bring their own reusable bags to carry their fresh food home."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

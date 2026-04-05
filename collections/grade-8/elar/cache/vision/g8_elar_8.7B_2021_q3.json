@@ -1,0 +1,30 @@
+{
+  "stem": "What does this paragraph reveal about Lucy at this point in the selection?",
+  "instruction": "Read paragraph 21.",
+  "options": [
+    {
+      "label": "A",
+      "text": "She is unsure about Rodney's motivation for speaking to her."
+    },
+    {
+      "label": "B",
+      "text": "She knows she is more critical of herself than anyone else is."
+    },
+    {
+      "label": "C",
+      "text": "She is beginning to feel accepted at her new school."
+    },
+    {
+      "label": "D",
+      "text": "She thinks Rodney will introduce her to new people."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Lucy allowed herself a small smile. It hadn\u2019t been a good start, but Rodney was definitely making her first day less terrible."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

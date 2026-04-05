@@ -1,0 +1,30 @@
+{
+  "stem": "Which line of dialogue provides the best evidence that Lennie has low self-esteem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Go on, George! Tell about what we're gonna have in the garden."
+    },
+    {
+      "label": "B",
+      "text": "Furry ones, George. Like I seen at the fair in Sacramento."
+    },
+    {
+      "label": "C",
+      "text": "That's it, that's it! Now tell how it is with us."
+    },
+    {
+      "label": "D",
+      "text": "'Cause I can jus' as well go away, George, and live in a cave."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

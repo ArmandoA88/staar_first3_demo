@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition most closely matches the use of the word clout in paragraph 3?",
+  "instruction": "Read the following dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "clout \\\u02c8kla\u028at\\\n1. a significant amount of influence 2. a hard punch 3. a big hit in baseball 4. a target"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

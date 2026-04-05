@@ -1,0 +1,31 @@
+{
+  "stem": "Which of these best describes the difference in tone between the two quotations?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The tone of the first quotation is impassioned, while the tone of the second quotation is indifferent."
+    },
+    {
+      "label": "B",
+      "text": "The tone of the first quotation is discouraged, while the tone of the second quotation is celebratory."
+    },
+    {
+      "label": "C",
+      "text": "The tone of the first quotation is admiring, while the tone of the second quotation is playful."
+    },
+    {
+      "label": "D",
+      "text": "The tone of the first quotation is informative, while the tone of the second quotation is impartial."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Jim at Bat: The boy cannot hit the baseball to his satisfaction. Though he makes contact almost every time he swings the bat, he does not strike the mighty blow he sees in his mind.",
+    "A Crystal-Clear Love Affair: That was the day the future actor, comedian, and director attended his first game at Yankee Stadium, and Mickey Mantle wound up making quite an impression on the eight-year-old boy and the copper facade hanging from the right-field roof."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Preserved exact wording and punctuation; math not present; labels preserved as visible."
+}

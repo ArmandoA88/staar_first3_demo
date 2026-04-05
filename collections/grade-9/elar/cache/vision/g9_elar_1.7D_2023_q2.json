@@ -1,0 +1,33 @@
+{
+  "stem": "Which quotation best supports the thesis of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Venice\u2019s natural strategic position on the sea, along with its special design, helped make it a wealthy city. (paragraph 7)"
+    },
+    {
+      "label": "B",
+      "text": "The centerpiece was the S-shaped Grand Canal, which served, as it still does, as Venice\u2019s main \u201cboulevard.\u201d (paragraph 8)"
+    },
+    {
+      "label": "C",
+      "text": "What had once been a lowly marsh had become a masterpiece of urban development and an example of how humans can depend on, benefit from, and modify the natural environment at the same time. (paragraph 8)"
+    },
+    {
+      "label": "D",
+      "text": "Those ancient pilings still provide firm support for Venice\u2019s beautiful buildings, which in turn support Venice\u2019s tourist industry. (paragraph 10)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A Venice\u2019s natural strategic position on the sea, along with its special design, helped make it a wealthy city. (paragraph 7)",
+    "B The centerpiece was the S-shaped Grand Canal, which served, as it still does, as Venice\u2019s main \u201cboulevard.\u201d (paragraph 8)",
+    "C What had once been a lowly marsh had become a masterpiece of urban development and an example of how humans can depend on, benefit from, and modify the natural environment at the same time. (paragraph 8)",
+    "D Those ancient pilings still provide firm support for Venice\u2019s beautiful buildings, which in turn support Venice\u2019s tourist industry. (paragraph 10)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

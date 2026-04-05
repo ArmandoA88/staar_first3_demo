@@ -1,0 +1,30 @@
+{
+  "stem": "Why does the playwright include the stage directions at the beginning of Scene 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show how the setting has caused a conflict for the characters"
+    },
+    {
+      "label": "B",
+      "text": "To describe what time of day the characters arrived at the cabin"
+    },
+    {
+      "label": "C",
+      "text": "To provide background information about the relationship between the characters"
+    },
+    {
+      "label": "D",
+      "text": "To foreshadow the characters' actions later in the play"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

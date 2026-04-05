@@ -1,0 +1,35 @@
+{
+  "stem": "Which sentence from the story provides the best evidence that Cassie feels insecure?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Overwhelmed with curiosity, I followed the sound down a narrow cobblestone walkway."
+    },
+    {
+      "label": "B",
+      "text": "I slid my hands into my pockets and attempted to smile confidently."
+    },
+    {
+      "label": "C",
+      "text": "A green wooden door was slightly ajar, and I peeked inside."
+    },
+    {
+      "label": "D",
+      "text": "I glanced at Janis, who was quietly studying me."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q21 Passage #3A",
+    "21",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

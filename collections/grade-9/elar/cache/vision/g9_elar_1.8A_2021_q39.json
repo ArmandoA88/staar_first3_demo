@@ -1,0 +1,28 @@
+{
+  "stem": "What is the primary purpose of this article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To offer practical advice to people who write and give speeches"
+    },
+    {
+      "label": "B",
+      "text": "To relate personal stories about the author\u2019s high-school experiences"
+    },
+    {
+      "label": "C",
+      "text": "To describe well-known speeches and the individuals who gave them"
+    },
+    {
+      "label": "D",
+      "text": "To compare different approaches to making public presentations"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

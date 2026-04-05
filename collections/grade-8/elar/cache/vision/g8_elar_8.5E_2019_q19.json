@@ -1,0 +1,33 @@
+{
+  "stem": "What is one way that Rodriguez\u2019s and Jonkers\u2019 methods were similar?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They both created mixtures using living materials."
+    },
+    {
+      "label": "B",
+      "text": "They both traveled to an unfamiliar location to begin their research."
+    },
+    {
+      "label": "C",
+      "text": "They both studied particular animals to inform their research."
+    },
+    {
+      "label": "D",
+      "text": "They both considered how temperature might affect their results."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

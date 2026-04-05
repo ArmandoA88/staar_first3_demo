@@ -1,0 +1,19 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-9-elar",
+  "label": "English I ELAR",
+  "grade": 9,
+  "subject": "ELAR",
+  "status": "ready",
+  "root": "collections/grade-9/elar",
+  "source_pdf": "collections/grade-9/elar/source/elar english 1.pdf",
+  "catalog": "collections/grade-9/elar/data/staar_catalog.json",
+  "reports": {
+    "coverage_csv": "collections/grade-9/elar/reports/pdf_coverage_report.csv",
+    "coverage_md": "collections/grade-9/elar/reports/pdf_coverage_report.md",
+    "coverage_summary_json": "collections/grade-9/elar/reports/pdf_coverage_summary.json"
+  },
+  "images_dir": "collections/grade-9/elar/images/extracted",
+  "stimulus_images_dir": "collections/grade-9/elar/images/stimuli",
+  "vision_cache_dir": "collections/grade-9/elar/cache/vision"
+}

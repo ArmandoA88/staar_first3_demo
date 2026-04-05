@@ -1,0 +1,30 @@
+{
+  "stem": "What is the author's main purpose for writing this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To demonstrate how the Cutty Sark helped a country's economy"
+    },
+    {
+      "label": "G",
+      "text": "To convince the reader that the Cutty Sark was the fastest vessel of its time"
+    },
+    {
+      "label": "H",
+      "text": "To explain that the Cutty Sark is an important part of London's history"
+    },
+    {
+      "label": "J",
+      "text": "To identify why a special exhibit had to be created to display the Cutty Sark"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

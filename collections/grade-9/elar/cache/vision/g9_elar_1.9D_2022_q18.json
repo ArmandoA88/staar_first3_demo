@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 23?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change mission to missions"
+    },
+    {
+      "label": "G",
+      "text": "Change others to them"
+    },
+    {
+      "label": "H",
+      "text": "Insert a comma after contributing"
+    },
+    {
+      "label": "J",
+      "text": "Change the comma after programs to a semicolon"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

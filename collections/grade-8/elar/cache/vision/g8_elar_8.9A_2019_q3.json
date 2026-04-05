@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the selection best conveys the author\u2019s main message?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "But as mentally prepared as we were, we also had to be physically aware, as well. (paragraph 6)"
+    },
+    {
+      "label": "B",
+      "text": "Every night aboard our safe and warm ship, we thought about what it takes to survive in Antarctica, an incredibly harsh place. (paragraph 19)"
+    },
+    {
+      "label": "C",
+      "text": "Over the course of our visit, we came to respect and even revere the power of that sea. (paragraph 20)"
+    },
+    {
+      "label": "D",
+      "text": "Both experiences were unforgettable, and one would not have been possible without the other. (paragraph 21)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

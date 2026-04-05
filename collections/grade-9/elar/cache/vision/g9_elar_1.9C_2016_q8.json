@@ -1,0 +1,30 @@
+{
+  "stem": "Simon's paper needs a position statement. Which of these sentences could best follow sentence 7 and state the position that Simon is taking in this paper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It's time to require cyclists to register and license their bikes."
+    },
+    {
+      "label": "G",
+      "text": "If they're going to use public roadways, they should own them, too."
+    },
+    {
+      "label": "H",
+      "text": "They're drivers and should be given the respect that they deserve."
+    },
+    {
+      "label": "J",
+      "text": "We have many bicyclists on the roadways of our town."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

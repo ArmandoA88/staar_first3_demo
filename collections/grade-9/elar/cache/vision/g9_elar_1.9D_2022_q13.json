@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentences 21 and 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "If there is a shocking cave like this: 980 feet below the surface of Mexico then there could be more discoveries just like it in other parts of the world."
+    },
+    {
+      "label": "B",
+      "text": "If there is a shocking cave like this 980 feet below the surface of Mexico; then there could be more discoveries just like it in other parts of the world."
+    },
+    {
+      "label": "C",
+      "text": "If there is a shocking cave like this 980 feet below the surface of Mexico then there could be more discoveries, just like it, in other parts of the world."
+    },
+    {
+      "label": "D",
+      "text": "If there is a shocking cave like this 980 feet below the surface of Mexico, then there could be more discoveries just like it in other parts of the world."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

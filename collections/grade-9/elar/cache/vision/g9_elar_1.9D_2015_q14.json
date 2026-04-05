@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentences 17 and 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "And because most plastic bags are made of polyethylene, a product derived from crude oil or natural gas, they waste nonrenewable resources."
+    },
+    {
+      "label": "G",
+      "text": "And most plastic bags are made of polyethylene, a product derived from crude oil or natural gas, they waste nonrenewable resources."
+    },
+    {
+      "label": "H",
+      "text": "And most plastic bags, which are made of polyethylene derived from crude oil or natural gas, wasting nonrenewable resources."
+    },
+    {
+      "label": "J",
+      "text": "The sentences are written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

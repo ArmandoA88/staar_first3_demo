@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence suggests that Brittany\u2019s performance suffers because of Alix\u2019s absence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\u201cI'm sorry, Brittany. I know you're great at gymnastics, but I was just trying to offer some advice.\u201d (paragraph 4)"
+    },
+    {
+      "label": "B",
+      "text": "Five days had passed since Brittany had confronted Alix\u2014and just two days were left until the competition. (paragraph 6)"
+    },
+    {
+      "label": "C",
+      "text": "\u201cYou seem off your game, Brit\u2014and you need to get it together by Saturday morning.\u201d (paragraph 8)"
+    },
+    {
+      "label": "D",
+      "text": "Brittany approached the edge of the mat with her head held high. (paragraph 15)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "paragraph references"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Food forests are self-sustaining gardens that produce various fruits and vegetables. These public areas, which can be found in several cities across the country, are similar to community gardens but offer additional benefits to local residents. Two such food forests are Thorne-Rider Park in Wyoming and Coastal Roots Farm in California."
+    },
+    {
+      "label": "B",
+      "text": "Food forests are not a new concept, and many cities have taken advantage of these edible landscapes. However, critics warn that there are many drawbacks that should be considered, such as issues with funding, labor, and pests."
+    },
+    {
+      "label": "C",
+      "text": "The first food forest was founded in Asheville, North Carolina, in 1997. Since then, organizations across the country have taken note of the permaculture design and have implemented it into similar projects such as Coastal Roots Farm in Encinitas, California, and Thorne-Rider Park in Sheridan, Wyoming."
+    },
+    {
+      "label": "D",
+      "text": "Carol LeResche is a food forest coordinator who enjoys creating edible gardens so that local residents can have access to free vegetables such as zucchini and potatoes. She received a grant to begin a food forest at Thorne-Rider Park in Sheridan, Wyoming."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

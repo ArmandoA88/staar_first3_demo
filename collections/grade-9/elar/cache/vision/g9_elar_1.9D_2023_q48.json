@@ -1,0 +1,28 @@
+{
+  "stem": "What change should Ming-Ha make in sentence 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change say to saying"
+    },
+    {
+      "label": "B",
+      "text": "Insert a colon after teenagers"
+    },
+    {
+      "label": "C",
+      "text": "Change Are to Our"
+    },
+    {
+      "label": "D",
+      "text": "Change the question mark to a period"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The author includes this sentence most likely to emphasize that \u2014",
+  "instruction": "Read this sentence about heroes from paragraph 9.\n\nThey truly hold our world together, through their unselfish devotion to helping others, supporting families, teaching children, protecting the environment.",
+  "options": [
+    {
+      "label": "A",
+      "text": "heroes affect many people"
+    },
+    {
+      "label": "B",
+      "text": "everyone is a hero in some way"
+    },
+    {
+      "label": "C",
+      "text": "heroes must believe in themselves"
+    },
+    {
+      "label": "D",
+      "text": "most heroes focus on working with children"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "They truly hold our world together, through their unselfish devotion to helping others, supporting families, teaching children, protecting the environment."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

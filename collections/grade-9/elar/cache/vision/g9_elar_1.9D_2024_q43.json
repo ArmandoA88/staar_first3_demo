@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change national to nationol"
+    },
+    {
+      "label": "B",
+      "text": "Change daily gazette to Daily Gazette"
+    },
+    {
+      "label": "C",
+      "text": "Change her to their"
+    },
+    {
+      "label": "D",
+      "text": "Change and watched to she watched"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 3?",
+    "A Change national to nationol",
+    "B Change daily gazette to Daily Gazette",
+    "C Change her to their",
+    "D Change and watched to she watched"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

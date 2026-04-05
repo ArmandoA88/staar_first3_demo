@@ -1,0 +1,28 @@
+{
+  "stem": "How is the selection organized?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It describes the causes of the obstacles Pixar experienced and how these challenges affected the company."
+    },
+    {
+      "label": "G",
+      "text": "It states general information about Pixar's movies and then gives specific information about the software used to create the movies."
+    },
+    {
+      "label": "H",
+      "text": "It relates the development of Pixar from its early stages to the present."
+    },
+    {
+      "label": "J",
+      "text": "It compares the technology Pixar uses to the technology used by other film companies."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

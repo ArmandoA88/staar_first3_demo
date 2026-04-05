@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author included the information in paragraph 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To suggest that it is difficult to collect food waste"
+    },
+    {
+      "label": "G",
+      "text": "To argue that food waste is a growing problem"
+    },
+    {
+      "label": "H",
+      "text": "To highlight that food waste is a renewable and useful resource"
+    },
+    {
+      "label": "J",
+      "text": "To reveal that food waste is difficult to control"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

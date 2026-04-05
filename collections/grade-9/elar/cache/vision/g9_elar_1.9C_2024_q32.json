@@ -1,0 +1,30 @@
+{
+  "stem": "What is the MOST effective way to combine sentences 4 and 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She was poised to place a can of tomato sauce on its designated shelf, which caused her to shriek and toss the can over her shoulder when a raucous voice from behind startled her."
+    },
+    {
+      "label": "B",
+      "text": "She was poised to place a can of tomato sauce on its designated shelf, and she was startled by a raucous voice from behind that shrieked and tossed the can over her shoulder."
+    },
+    {
+      "label": "C",
+      "text": "She was poised to place a can of tomato sauce on its designated shelf when a raucous voice from behind is what startled her and tossing the can over her shoulder, it caused her to shriek."
+    },
+    {
+      "label": "D",
+      "text": "She was poised to place a can of tomato sauce on its designated shelf when a raucous voice from behind startled her, causing her to shriek and toss the can over her shoulder."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

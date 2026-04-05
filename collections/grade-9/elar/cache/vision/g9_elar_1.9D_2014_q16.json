@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 31?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change We to Because we"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after surprised"
+    },
+    {
+      "label": "H",
+      "text": "Change became to become"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 31 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

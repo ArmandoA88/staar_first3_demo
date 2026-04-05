@@ -1,0 +1,30 @@
+{
+  "stem": "Which detail from paragraph 2 supports the idea that the Nile River spans diverse areas?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Nile River is the longest river in the world, measuring about 4,100 miles in length."
+    },
+    {
+      "label": "G",
+      "text": "The White Nile begins in Rwanda, and the Blue Nile begins in Ethiopia."
+    },
+    {
+      "label": "H",
+      "text": "The two main tributaries of the Nile River meet in Sudan to form one river."
+    },
+    {
+      "label": "J",
+      "text": "The Nile River flows through cities as well as remote deserts and mountain regions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

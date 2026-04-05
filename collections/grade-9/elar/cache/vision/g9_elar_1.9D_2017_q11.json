@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 5 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change came to comes"
+    },
+    {
+      "label": "B",
+      "text": "Change existense to existence"
+    },
+    {
+      "label": "C",
+      "text": "Change the question mark to an exclamation point"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 5 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

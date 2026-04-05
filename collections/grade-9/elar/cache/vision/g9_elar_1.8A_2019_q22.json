@@ -1,0 +1,30 @@
+{
+  "stem": "The author wrote \u201cA Baseball School for Big-League Dreamers\u201d primarily to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "highlight the reasons people pursue a career in sports"
+    },
+    {
+      "label": "G",
+      "text": "persuade readers to support schools that specialize in training student-athletes"
+    },
+    {
+      "label": "H",
+      "text": "inform readers about a unique school and the students who attend it"
+    },
+    {
+      "label": "J",
+      "text": "convince student-athletes to enroll in a specialized school for sports"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

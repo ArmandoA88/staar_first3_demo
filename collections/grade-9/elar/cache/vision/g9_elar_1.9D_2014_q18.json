@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change than to then"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after hold"
+    },
+    {
+      "label": "H",
+      "text": "Change is to are"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "The author includes these photographs most likely to emphasize the \u2014",
+  "instruction": "Use \"The Ride of a Lifetime!\" to answer the following question. Look at the photographs from the selection \"The Ride of a Lifetime!\".",
+  "options": [
+    {
+      "label": "A",
+      "text": "unique relationship between Jack Abernathy and his sons"
+    },
+    {
+      "label": "B",
+      "text": "different time period in which the Abernathy boys lived"
+    },
+    {
+      "label": "C",
+      "text": "impressive skill the Abernathy boys had with horses"
+    },
+    {
+      "label": "D",
+      "text": "sights the Abernathy boys encountered on their ride"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph of Bud and Temple Abernathy with Their Father",
+    "Photograph of The Abernathy Brothers Heading East on horses"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

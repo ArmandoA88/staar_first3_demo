@@ -1,0 +1,30 @@
+{
+  "stem": "Which paragraph from the selection provides imagery that gives a sense of the father's personality?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Paragraph 14"
+    },
+    {
+      "label": "B",
+      "text": "Paragraph 11"
+    },
+    {
+      "label": "C",
+      "text": "Paragraph 13"
+    },
+    {
+      "label": "D",
+      "text": "Paragraph 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

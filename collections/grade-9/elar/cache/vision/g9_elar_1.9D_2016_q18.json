@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change takes to take\u2019s"
+    },
+    {
+      "label": "G",
+      "text": "Change university to University"
+    },
+    {
+      "label": "H",
+      "text": "Insert quotation marks after the period"
+    },
+    {
+      "label": "J",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

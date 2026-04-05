@@ -1,0 +1,31 @@
+{
+  "stem": "What change should Noah make in sentence 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a colon after *questioning*"
+    },
+    {
+      "label": "B",
+      "text": "Change *different* to diffrent"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after *conversation*"
+    },
+    {
+      "label": "D",
+      "text": "Change *correspondense* to correspondence"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q17 Passage #4",
+    "17"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

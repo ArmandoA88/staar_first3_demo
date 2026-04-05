@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author wrote this selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To encourage the reader not to waste food"
+    },
+    {
+      "label": "G",
+      "text": "To show the reader that many different types of biofuels are being used"
+    },
+    {
+      "label": "H",
+      "text": "To demonstrate that creativity can help solve environmental problems"
+    },
+    {
+      "label": "J",
+      "text": "To argue the importance of preventing methane from escaping into the atmosphere"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 \u2013 Q12 Passage #2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

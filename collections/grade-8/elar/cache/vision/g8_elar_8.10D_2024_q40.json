@@ -1,0 +1,33 @@
+{
+  "stem": "This new focus on values ______ an enormous difference for my coworkers and me.",
+  "instruction": "Select the correct response for sentence 5.",
+  "options": [
+    {
+      "label": null,
+      "text": "makes"
+    },
+    {
+      "label": null,
+      "text": "made"
+    },
+    {
+      "label": null,
+      "text": "is making"
+    },
+    {
+      "label": null,
+      "text": "will make"
+    }
+  ],
+  "choice_pool": [
+    "makes",
+    "made",
+    "is making",
+    "will make"
+  ],
+  "response_template": "This new focus on values [blank_1] an enormous difference for my coworkers and me.",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

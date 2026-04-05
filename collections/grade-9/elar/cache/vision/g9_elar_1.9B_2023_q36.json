@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence should replace sentence 44 to bring this story to a more effective and creative closing?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\u201cMost likely,\u201d answered Julian, who was thinking quietly about his aunt and little cousin."
+    },
+    {
+      "label": "B",
+      "text": "\u201cWithout a doubt!\u201d Julian replied with a smile as he wiped an errant noodle from the ceiling."
+    },
+    {
+      "label": "C",
+      "text": "\u201cMaybe not!\u201d countered Julian, but he noticed his mom was looking at him suspiciously."
+    },
+    {
+      "label": "D",
+      "text": "\u201cWe\u2019ll see,\u201d Julian responded, pondering a host of topic ideas that he could share with his mom."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice options labeled A, B, C, D with quoted sentences as answer choices."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

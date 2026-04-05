@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these is the most likely reason why the author uses a sweeping generalization?",
+  "instruction": "Read this sentence from the article \"Challenging the Status Quo.\" People find comfort in routine and familiarity. (paragraph 1)",
+  "options": [
+    {
+      "label": "A",
+      "text": "To argue that change happens regardless for all people"
+    },
+    {
+      "label": "B",
+      "text": "To hint that the process of change is customary for most people"
+    },
+    {
+      "label": "C",
+      "text": "To help introduce the idea that change can be hard for people"
+    },
+    {
+      "label": "D",
+      "text": "To help suggest that change is something that puts people at ease"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "People find comfort in routine and familiarity. (paragraph 1)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}
