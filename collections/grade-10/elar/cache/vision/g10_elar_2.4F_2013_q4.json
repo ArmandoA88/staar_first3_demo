@@ -1,0 +1,28 @@
+{
+  "stem": "The author organizes the article by \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "describing the work of several young software experts"
+    },
+    {
+      "label": "G",
+      "text": "providing a chronological summary of Teevan\u2019s career"
+    },
+    {
+      "label": "H",
+      "text": "reviewing the history of search engine technology"
+    },
+    {
+      "label": "J",
+      "text": "profiling Teevan\u2019s current and future projects"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

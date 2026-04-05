@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Although few moles actually develop into melanoma, only an expert can determine whether a person is at risk and is carefully examining cells from the suspicious mole under a microscope."
+    },
+    {
+      "label": "G",
+      "text": "Although few moles actually develop into melanoma, only an expert can determine whether a person is at risk by carefully examining cells from the suspicious mole under a microscope."
+    },
+    {
+      "label": "H",
+      "text": "Although few moles actually develop into melanoma, only an expert under a microscope can determine whether a person is at risk by carefully examining cells from the suspicious mole."
+    },
+    {
+      "label": "J",
+      "text": "No revision is needed in sentence 24."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

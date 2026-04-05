@@ -1,0 +1,28 @@
+{
+  "stem": "Both articles conclude with a \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "bold contradiction"
+    },
+    {
+      "label": "B",
+      "text": "stern warning"
+    },
+    {
+      "label": "C",
+      "text": "reflective suggestion"
+    },
+    {
+      "label": "D",
+      "text": "pessimistic prediction"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

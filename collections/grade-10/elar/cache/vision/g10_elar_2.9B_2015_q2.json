@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It's easy to snap a photo, load it on a website, and type out a quick synopsis of where they are and what they're doing."
+    },
+    {
+      "label": "G",
+      "text": "It's easy to snap a photo and load it on a website, then a quick synopsis is typed out of where they are and what they're doing."
+    },
+    {
+      "label": "H",
+      "text": "It's easy to snap a photo that loads it on a website to type a synopsis of where they are and what they're doing."
+    },
+    {
+      "label": "J",
+      "text": "No revision is needed in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

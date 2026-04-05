@@ -1,0 +1,30 @@
+{
+  "stem": "J.T. has included an extraneous sentence in his paper. Which of these sentences should be deleted from this paper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sentence 9"
+    },
+    {
+      "label": "G",
+      "text": "Sentence 13"
+    },
+    {
+      "label": "H",
+      "text": "Sentence 18"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 20"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

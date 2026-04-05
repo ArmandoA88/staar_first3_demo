@@ -1,0 +1,30 @@
+{
+  "stem": "Xavier realizes that he should have added the following sentence to the fourth paragraph (sentences 18\u201326).\n\nOne newspaper highlighted Partridge's arrival, claiming that he was coming with \"secret cow-freeing equipment.\"\n\nWhere is the most effective place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 18"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 19"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 22"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 24"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "One newspaper highlighted Partridge's arrival, claiming that he was coming with \"secret cow-freeing equipment.\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

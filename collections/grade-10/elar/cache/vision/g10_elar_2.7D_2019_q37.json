@@ -1,0 +1,34 @@
+{
+  "stem": "What is the author\u2019s purpose for writing this article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To encourage people to visit national parks"
+    },
+    {
+      "label": "B",
+      "text": "To advocate for coexistence of humans and wildlife in urban areas"
+    },
+    {
+      "label": "C",
+      "text": "To explain methods for tracking a cougar through Griffith Park"
+    },
+    {
+      "label": "D",
+      "text": "To persuade people to convert urban cities back to natural spaces"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What is the author\u2019s purpose for writing this article?",
+    "A To encourage people to visit national parks",
+    "B To advocate for coexistence of humans and wildlife in urban areas",
+    "C To explain methods for tracking a cougar through Griffith Park",
+    "D To persuade people to convert urban cities back to natural spaces"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What tones are conveyed by this line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Mournful and intimate"
+    },
+    {
+      "label": "G",
+      "text": "Bitter and disgusted"
+    },
+    {
+      "label": "H",
+      "text": "Scornful and cynical"
+    },
+    {
+      "label": "J",
+      "text": "Resigned and baffled"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There is no loneliness like theirs."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

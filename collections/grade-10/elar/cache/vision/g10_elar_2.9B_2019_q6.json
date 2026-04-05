@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective way to combine sentences 8 and 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Bottled water may be attractively packaged, but it is simply processed tap water."
+    },
+    {
+      "label": "G",
+      "text": "Bottled water is simply processed tap water because it is attractively packaged."
+    },
+    {
+      "label": "H",
+      "text": "Bottled water may be attractively packaged, so it is simply processed tap water."
+    },
+    {
+      "label": "J",
+      "text": "Bottled water is attractively packaged, because it is simply processed tap water."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

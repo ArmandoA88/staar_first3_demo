@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition most closely matches the meaning of capture as it is used in paragraph 3 of the excerpt from \u201cWhat the Octopus Knows\u201d?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "capture \\\u02c8kap-ch\u0259r\\ v 1. to take by force, especially in battle 2. to influence or hold the interest of 3. to take possession of, as in a board game 4. to describe in an accurate way"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective revision to make in sentence 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Employers need workers who can communicate in different languages, different cultures should be understood."
+    },
+    {
+      "label": "G",
+      "text": "Employers need workers who can communicate in different languages and understand different cultures."
+    },
+    {
+      "label": "H",
+      "text": "Employers need workers who can communicate and are understood in different languages or different cultures."
+    },
+    {
+      "label": "J",
+      "text": "Employers need workers who can communicate in different languages, and workers need employers who can understand different cultures."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

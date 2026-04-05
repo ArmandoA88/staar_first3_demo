@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to revise sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Visitors are surrounded by fish strolling through the clear shaft on their left, on their right, and over their heads."
+    },
+    {
+      "label": "B",
+      "text": "Strolling through the clear shaft, visitors are surrounded by fish on their left, on their right, and over their heads."
+    },
+    {
+      "label": "C",
+      "text": "On their left, on their right, and over their heads, fish are surrounded by visitors strolling through the clear shaft."
+    },
+    {
+      "label": "D",
+      "text": "Sentence 15 should not be revised."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

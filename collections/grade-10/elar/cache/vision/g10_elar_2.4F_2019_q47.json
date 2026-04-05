@@ -1,0 +1,30 @@
+{
+  "stem": "What is the primary purpose of the boxed information at the end of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To persuade readers to watch movies in an actual theater rather than at home"
+    },
+    {
+      "label": "B",
+      "text": "To explain why movies watched at home are less enjoyable"
+    },
+    {
+      "label": "C",
+      "text": "To give advice for ways to enhance the home movie-watching experience"
+    },
+    {
+      "label": "D",
+      "text": "To demonstrate why the convenience of watching movies at home is appealing"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

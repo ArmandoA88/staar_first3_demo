@@ -1,0 +1,48 @@
+{
+  "stem": "What effect does the poet\u2019s use of figurative language in these lines create?",
+  "instruction": "Select the correct answer in each row.",
+  "options": [
+    {
+      "label": "Reveals that the speaker is dissatisfied with the outcome of a major effort",
+      "text": "Creates This Effect"
+    },
+    {
+      "label": "Reveals that the speaker is dissatisfied with the outcome of a major effort",
+      "text": "Does Not Create This Effect"
+    },
+    {
+      "label": "Demonstrates that the speaker is highly skeptical of a claim",
+      "text": "Creates This Effect"
+    },
+    {
+      "label": "Demonstrates that the speaker is highly skeptical of a claim",
+      "text": "Does Not Create This Effect"
+    },
+    {
+      "label": "Shows that the speaker is strongly driven by curiosity",
+      "text": "Creates This Effect"
+    },
+    {
+      "label": "Shows that the speaker is strongly driven by curiosity",
+      "text": "Does Not Create This Effect"
+    },
+    {
+      "label": "Suggests that the speaker feels the search for facts resembles a search for prey",
+      "text": "Creates This Effect"
+    },
+    {
+      "label": "Suggests that the speaker feels the search for facts resembles a search for prey",
+      "text": "Does Not Create This Effect"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "leading to",
+    "a week-long deep dive",
+    "of researching you, Narwhal, horned and mystical depth dweller"
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 0.98,
+  "notes": "The problem is a match table grid with 4 statements and two options per row: 'Creates This Effect' and 'Does Not Create This Effect'."
+}

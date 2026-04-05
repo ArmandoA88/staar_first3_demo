@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective way to revise sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "These are called breaks, and when surfers find one, they paddle their surfboards out into it and patiently wait for the perfect wave."
+    },
+    {
+      "label": "G",
+      "text": "These are called breaks, and when surfers find one, they paddle their surfboards out into it because of the perfect wave they patiently wait for."
+    },
+    {
+      "label": "H",
+      "text": "These are called breaks, and when surfers find one, they paddle their surfboards out into it, they patiently wait for the perfect wave."
+    },
+    {
+      "label": "J",
+      "text": "Sentence 21 does not need to be revised."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author includes the photograph in the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To show why Nathan focused his experiment on surface tension"
+    },
+    {
+      "label": "G",
+      "text": "To show a step in the process Nathan followed"
+    },
+    {
+      "label": "H",
+      "text": "To illustrate why surface tension is commonly misunderstood"
+    },
+    {
+      "label": "J",
+      "text": "To provide a visual reference of an unfamiliar term"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

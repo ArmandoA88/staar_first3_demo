@@ -1,0 +1,30 @@
+{
+  "stem": "What is one difference between the two essays?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\u201cVoyageurs\u201d describes the behavior of many observers, while the excerpt from One Kingdom: Our Lives with Animals reveals only the author\u2019s actions."
+    },
+    {
+      "label": "B",
+      "text": "\u201cVoyageurs\u201d explains the findings of scientific studies, while the excerpt from One Kingdom: Our Lives with Animals includes only the author\u2019s viewpoint."
+    },
+    {
+      "label": "C",
+      "text": "\u201cVoyageurs\u201d describes wild animals in their natural habitat, while the excerpt from One Kingdom: Our Lives with Animals describes animals in captivity."
+    },
+    {
+      "label": "D",
+      "text": "\u201cVoyageurs\u201d advocates for wildlife preservation, while the excerpt from One Kingdom: Our Lives with Animals argues that animals are safer in captivity."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text of question 33 and four answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

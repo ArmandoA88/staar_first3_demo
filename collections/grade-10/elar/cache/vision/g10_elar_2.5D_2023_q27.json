@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea should be included in this paragraph to create a complete summary of the excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Thea receives an isolated room on the top floor of the house."
+    },
+    {
+      "label": "B",
+      "text": "Tillie helps Thea paper the room with flowered wallpaper."
+    },
+    {
+      "label": "C",
+      "text": "Thea\u2019s mother provides her with a dresser with a broken mirror."
+    },
+    {
+      "label": "D",
+      "text": "Dr. Archie tells Thea that a singer needs to get plenty of fresh air."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Thea uses the money she earns as a piano teacher to fix up her room. Her family helps Thea furnish it and make it as livable as possible. Thea loves her new space despite its shabby furnishings and the frigid night air. She looks forward to the nights and weekends she spends there reading and thinking."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

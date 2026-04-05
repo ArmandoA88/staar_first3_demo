@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best expresses the main idea of paragraph 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Movies can cause people to become emotional."
+    },
+    {
+      "label": "B",
+      "text": "The way people relate to a movie depends on how realistic it is."
+    },
+    {
+      "label": "C",
+      "text": "Movies can make people ignore the difference between reality and fiction."
+    },
+    {
+      "label": "D",
+      "text": "People lose awareness of their surroundings in a movie theater."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

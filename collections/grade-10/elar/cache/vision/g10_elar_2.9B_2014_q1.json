@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "But it wasn't often that a news story about a cow was so remarkable that it made national headlines for a week, so the problem-solving skills of people all over the country were engaged."
+    },
+    {
+      "label": "B",
+      "text": "But it wasn't often that a news story about a cow was so remarkable that when engaged, it made national headlines for a week with the problem-solving skills of people all over the country."
+    },
+    {
+      "label": "C",
+      "text": "But it wasn't often that a news story about a cow was so remarkable that it made national headlines for a week and engaged the problem-solving skills of people all over the country."
+    },
+    {
+      "label": "D",
+      "text": "No revision is needed in sentence 3."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

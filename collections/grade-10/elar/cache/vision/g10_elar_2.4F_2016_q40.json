@@ -1,0 +1,30 @@
+{
+  "stem": "In paragraph 3, the author presents a concept. In the next paragraph, the author \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "shows how the concept is flawed"
+    },
+    {
+      "label": "G",
+      "text": "provides reasons why people are skeptical of the concept"
+    },
+    {
+      "label": "H",
+      "text": "shows how similar the concept is to other concepts"
+    },
+    {
+      "label": "J",
+      "text": "provides an example that supports the concept"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

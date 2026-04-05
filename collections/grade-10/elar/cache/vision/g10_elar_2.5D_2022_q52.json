@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Every year Broadcom MASTERS awards the Lemelson Award for Invention to a middle school student. MASTERS, which stands for Math, Applied Science, Technology and Engineering for Rising Stars, is an event that recognizes middle school students for their scientific achievements. Nathan Deng won the award by creating an experiment that tests how well hot water and soap clean dishes. He wants other teams to conduct the same experiment."
+    },
+    {
+      "label": "G",
+      "text": "Nathan Deng was able to construct an experiment that determined why hot water and soap are used to clean dishes. He kept the experiment simple by only testing the surface tension of water. The surface tension of water is the effect that results when molecules bond to each other on the surface of the liquid. Nathan found that hot water and soap reduce surface tension."
+    },
+    {
+      "label": "H",
+      "text": "Nathan Deng\u2019s use of simple experimentation to answer basic questions about dish washing won him the Lemelson Award for Invention. Curious about why hot water and soap were needed to clean dishes, Nathan set up an experiment to test surface tension. Nathan tested drops of water at different temperatures as well as the use of a soap ingredient to determine their effects on surface tension. He found that soap and hot water are most effective."
+    },
+    {
+      "label": "J",
+      "text": "Inspiration for science projects can come from everyday life. For this reason, anyone can complete a science project. Nathan Deng investigated the way soap and hot water affect the cleanliness of dishes. There are often tiny cracks in dishes that are difficult to reach when washing dishes. Surface tension keeps water out of these spaces. Nathan\u2019s experiment showed that using soap and hot water would be effective."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

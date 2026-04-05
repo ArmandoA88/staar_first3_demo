@@ -1,0 +1,30 @@
+{
+  "stem": "Read this quotation from paragraph 13.\n\nHe thought that salt might decrease surface tension, because adding the tiny molecules to the water would stop the water bonding to itself at the surface. But he found that salt made very little difference.\n\nWhat can the reader infer from the quotation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Altering factors in an experiment may not change the outcome."
+    },
+    {
+      "label": "B",
+      "text": "Common substances could have beneficial uses."
+    },
+    {
+      "label": "C",
+      "text": "Expected results can still provide valuable information."
+    },
+    {
+      "label": "D",
+      "text": "Making errors is common when working alone."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "quotation box containing \"He thought that salt might decrease surface tension, because adding the tiny molecules to the water would stop the water bonding to itself at the surface. But he found that salt made very little difference.\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

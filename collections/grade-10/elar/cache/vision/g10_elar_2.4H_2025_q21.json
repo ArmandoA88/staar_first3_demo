@@ -1,0 +1,31 @@
+{
+  "stem": "What is most likely a SIMILAR reason the author and the poet included this quotation and this line?",
+  "instruction": "Read this quotation from the story and this line from the poem.\n\n\"It\u2019s something to see,\" he said solemnly. (paragraph 4 of \u201cMoon Landing\u201d)\n\nJust imagine, they say. (line 4 of \u201cThe Apollo 11 Moon Landing\u201d)",
+  "options": [
+    {
+      "label": "A",
+      "text": "To suggest that people find the moon landing entertaining to watch"
+    },
+    {
+      "label": "B",
+      "text": "To emphasize the idea that the moon landing has historical importance"
+    },
+    {
+      "label": "C",
+      "text": "To imply that people disagree about the value of the moon landing"
+    },
+    {
+      "label": "D",
+      "text": "To stress the idea that the moon landing contributes to scientific knowledge"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"It\u2019s something to see,\" he said solemnly. (paragraph 4 of \u201cMoon Landing\u201d)",
+    "Just imagine, they say. (line 4 of \u201cThe Apollo 11 Moon Landing\u201d)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

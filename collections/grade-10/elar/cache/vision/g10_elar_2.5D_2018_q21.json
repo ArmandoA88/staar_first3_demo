@@ -1,0 +1,34 @@
+{
+  "stem": "Which of these is the best summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "While social scientists have long recognized that the number of people living alone has exploded, they have erred in interpreting the trend as a social problem. In fact, the growing number of households without children has improved the social fabric of the United States."
+    },
+    {
+      "label": "B",
+      "text": "Single-person households in the United States have become much more prevalent than many realize. Contrary to the views of some experts, however, this development does not signal growing isolation and social disintegration. Many find that living alone allows them to pursue happier and more socially active lives."
+    },
+    {
+      "label": "C",
+      "text": "The author\u2019s research into modern American domestic habits suggests that the rise in solo living has been misunderstood. In the past the nuclear family was the most common form of household, but this type of living arrangement did not necessarily lead to the greatest happiness. People today are decreasingly concerned with raising a family, and it is time policy makers begin to understand this trend."
+    },
+    {
+      "label": "D",
+      "text": "Many more people live alone today than in the past. Some researchers think this is a worrisome development, but their concern is misplaced. Because of modern technology, people often feel overwhelmed by their social networks and constant connectedness to others."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "21 Which of these is the best summary of the article?",
+    "A While social scientists have long recognized that the number of people living alone has exploded, they have erred in interpreting the trend as a social problem. In fact, the growing number of households without children has improved the social fabric of the United States.",
+    "B Single-person households in the United States have become much more prevalent than many realize. Contrary to the views of some experts, however, this development does not signal growing isolation and social disintegration. Many find that living alone allows them to pursue happier and more socially active lives.",
+    "C The author\u2019s research into modern American domestic habits suggests that the rise in solo living has been misunderstood. In the past the nuclear family was the most common form of household, but this type of living arrangement did not necessarily lead to the greatest happiness. People today are decreasingly concerned with raising a family, and it is time policy makers begin to understand this trend.",
+    "D Many more people live alone today than in the past. Some researchers think this is a worrisome development, but their concern is misplaced. Because of modern technology, people often feel overwhelmed by their social networks and constant connectedness to others."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

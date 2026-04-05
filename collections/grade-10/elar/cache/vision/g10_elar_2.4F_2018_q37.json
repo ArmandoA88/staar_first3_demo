@@ -1,0 +1,31 @@
+{
+  "stem": "The tone of both quotations can best be described as \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "guarded"
+    },
+    {
+      "label": "B",
+      "text": "surprised"
+    },
+    {
+      "label": "C",
+      "text": "incredulous"
+    },
+    {
+      "label": "D",
+      "text": "positive"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Quotation 1: On the contrary, the evidence suggests that people who live alone compensate by becoming more socially active than those who live with others and that cities with high numbers of singletons enjoy a thriving public culture.",
+    "Quotation 2: This 3G network will undoubtedly save lives\u2014not only by providing weather information and support to Everest climbers and trekkers, but as an alert system for the nearby villages threatened by flash floods from Glacial Lake Overflow (GLOF), another peril caused by global warming."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

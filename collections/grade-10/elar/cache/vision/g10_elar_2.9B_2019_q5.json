@@ -1,0 +1,30 @@
+{
+  "stem": "Mimi\u2019s essay does not have a strong position statement. Which of the following sentences should replace sentence 6 to serve as an effective position statement?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It\u2019s foolish to buy several bottles of water each day when there\u2019s no good reason for doing this."
+    },
+    {
+      "label": "B",
+      "text": "People need to stop doing this now and protest against bottled-water companies."
+    },
+    {
+      "label": "C",
+      "text": "These problems can be solved, however, if people choose to drink water from reusable containers instead of plastic bottles."
+    },
+    {
+      "label": "D",
+      "text": "The list of problems that people are causing, such as increasing pollution, by buying bottled water is endless."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

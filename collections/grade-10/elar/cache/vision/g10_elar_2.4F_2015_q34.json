@@ -1,0 +1,30 @@
+{
+  "stem": "In the boxed information titled \u201cDid You Know?,\u201d which fact about Robert Allman directly supports the selection\u2019s theme?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He was the recipient of the Class of 1915 Award, bestowed annually on a member of the senior class who most closely approaches the ideal University of Pennsylvania student-athlete."
+    },
+    {
+      "label": "G",
+      "text": "After college he became a successful lawyer in the Philadelphia area and worked until his death at age 75."
+    },
+    {
+      "label": "H",
+      "text": "He once said, \"I have done nothing more than the average American boy. . . . Courage is nothing more than doing the best you can in the good old American Way.\""
+    },
+    {
+      "label": "J",
+      "text": "At the University of Pennsylvania, Allman was an intercollegiate wrestling champion and captain of the Quaker wrestling squad during his senior year."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

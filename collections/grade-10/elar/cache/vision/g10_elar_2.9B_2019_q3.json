@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A misstep by just one student and a flaw is created that is visible in the perfectly coordinated display."
+    },
+    {
+      "label": "B",
+      "text": "A misstep by just one student creates a visible flaw in the perfectly coordinated display."
+    },
+    {
+      "label": "C",
+      "text": "A misstep by just one student creates a flaw in the perfectly coordinated display, the flaw is visible."
+    },
+    {
+      "label": "D",
+      "text": "A misstep by just one student creates a visible flaw that can be seen in the perfectly coordinated display."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

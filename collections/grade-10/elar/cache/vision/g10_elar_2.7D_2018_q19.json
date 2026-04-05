@@ -1,0 +1,30 @@
+{
+  "stem": "The author includes paragraph 5 to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "analyze the benefits of living alone"
+    },
+    {
+      "label": "B",
+      "text": "address a misconception about living alone"
+    },
+    {
+      "label": "C",
+      "text": "suggest that research into loneliness is inconclusive"
+    },
+    {
+      "label": "D",
+      "text": "explain that people prefer living alone to living with someone else"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

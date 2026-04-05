@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best expresses the main idea of the essay?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "As uncomfortable as zoos can make us feel, they are useful and appealing."
+    },
+    {
+      "label": "G",
+      "text": "Zoos benefit everyone by helping animals and educating people."
+    },
+    {
+      "label": "H",
+      "text": "When visiting zoos, people should respect the animals."
+    },
+    {
+      "label": "J",
+      "text": "Zoos have initiated many improvements that benefit animals."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

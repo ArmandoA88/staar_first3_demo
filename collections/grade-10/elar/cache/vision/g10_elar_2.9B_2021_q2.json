@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these sentences should Nancy add at the beginning of the second paragraph (sentences 7-15) to serve as the most effective position statement for her essay?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "I think I would like the four-day school week because I would enjoy the extra time to rest on the weekend."
+    },
+    {
+      "label": "G",
+      "text": "The four-day school week is a great idea for all students and parents, and even the school district would likely benefit."
+    },
+    {
+      "label": "H",
+      "text": "We spend way too much time during the week in school, and it would be nice to have a three-day weekend for a part-time job or to just relax."
+    },
+    {
+      "label": "J",
+      "text": "The four-day school week provides benefits that would help the students, teachers, and schools in our district."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

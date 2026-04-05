@@ -1,0 +1,28 @@
+{
+  "stem": "Sentence 8 contains an indefinite reference that affects the clarity of the sentence. What is the best way to revise this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change that to some"
+    },
+    {
+      "label": "B",
+      "text": "Change he to a boy"
+    },
+    {
+      "label": "C",
+      "text": "Change someone to a person"
+    },
+    {
+      "label": "D",
+      "text": "Change them to him"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

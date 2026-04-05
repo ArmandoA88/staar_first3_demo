@@ -1,0 +1,30 @@
+{
+  "stem": "Ben realized that he left the following detail out of the second paragraph (sentences 3-9).\n\nI counted them and realized I was holding more than $200 in cash.\n\nWhere is the most effective place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "After sentence 5"
+    },
+    {
+      "label": "G",
+      "text": "After sentence 6"
+    },
+    {
+      "label": "H",
+      "text": "After sentence 7"
+    },
+    {
+      "label": "J",
+      "text": "After sentence 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I counted them and realized I was holding more than $200 in cash."
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

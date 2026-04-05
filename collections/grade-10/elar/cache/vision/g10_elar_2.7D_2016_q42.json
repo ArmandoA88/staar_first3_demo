@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best expresses the article\u2019s main idea?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "No one talks like that casually\u2014or should."
+    },
+    {
+      "label": "G",
+      "text": "Texting has long been bemoaned as the downfall of the written word, \u201cpenmanship for illiterates,\u201d as one critic called it."
+    },
+    {
+      "label": "H",
+      "text": "Of course no one thinks about that consciously."
+    },
+    {
+      "label": "J",
+      "text": "Texting, far from being a scourge, is a work in progress."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

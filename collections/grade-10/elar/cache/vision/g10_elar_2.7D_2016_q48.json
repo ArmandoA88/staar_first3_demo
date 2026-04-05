@@ -1,0 +1,30 @@
+{
+  "stem": "What is the main idea of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Jessamyn Rodriguez's bakery, Hot Bread Kitchen, is a successful nonprofit business that provides professional opportunities for immigrant women."
+    },
+    {
+      "label": "G",
+      "text": "The hardworking women at Hot Bread Kitchen have helped it grow from a small nonprofit organization into a large, successful business that will expand into several cities."
+    },
+    {
+      "label": "H",
+      "text": "Jessamyn Rodriguez created her dream job when she established Hot Bread Kitchen after a long career in public service."
+    },
+    {
+      "label": "J",
+      "text": "The products of Hot Bread Kitchen, which include many different types of bread, reflect the diverse backgrounds of its employees."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

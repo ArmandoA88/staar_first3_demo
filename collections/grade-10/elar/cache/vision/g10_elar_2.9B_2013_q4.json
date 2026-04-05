@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The kids in the after-school program made cards they were for the residents of a retirement center."
+    },
+    {
+      "label": "G",
+      "text": "The kids in the after-school program and the residents of a retirement center made cards."
+    },
+    {
+      "label": "H",
+      "text": "The kids in the after-school program made cards for the residents of a retirement center."
+    },
+    {
+      "label": "J",
+      "text": "The kids in the after-school program of a retirement center made cards for the residents."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

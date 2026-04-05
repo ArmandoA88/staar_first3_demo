@@ -1,0 +1,30 @@
+{
+  "stem": "What transition could most effectively be added to the beginning of sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To put it differently"
+    },
+    {
+      "label": "B",
+      "text": "Still"
+    },
+    {
+      "label": "C",
+      "text": "Otherwise"
+    },
+    {
+      "label": "D",
+      "text": "For example"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

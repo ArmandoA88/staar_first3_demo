@@ -1,0 +1,30 @@
+{
+  "stem": "Ken wants to add the following sentence to the third paragraph (sentences 8\u201313).\n\nAlthough this 360-degree view allows people to watch the fish from practically anywhere inside their watery habitat, visitors can catch a glimpse of much more than fins, gills, and tails.\n\nWhere is the best place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "After sentence 10"
+    },
+    {
+      "label": "G",
+      "text": "After sentence 11"
+    },
+    {
+      "label": "H",
+      "text": "After sentence 12"
+    },
+    {
+      "label": "J",
+      "text": "After sentence 13"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Ken wants to add the following sentence to the third paragraph (sentences 8\u201313).\n\nAlthough this 360-degree view allows people to watch the fish from practically anywhere inside their watery habitat, visitors can catch a glimpse of much more than fins, gills, and tails."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

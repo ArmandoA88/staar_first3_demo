@@ -1,0 +1,30 @@
+{
+  "stem": "Which quotation can best be described as conveying the idea of freedom?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "thirty thousand sword-/fish will never near a ship,"
+    },
+    {
+      "label": "B",
+      "text": "elephant herds live/long elephant lives."
+    },
+    {
+      "label": "C",
+      "text": "Through vast canyons, horses run"
+    },
+    {
+      "label": "D",
+      "text": "the few birds at my feeder watch the window"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

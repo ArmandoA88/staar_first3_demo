@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Too little credit has been given to the Navajo Code Talkers, who played a decisive role in the American defeat of Japan during World War II. If more people were aware of their contribution, there is no doubt that the Code Talkers would be celebrated and honored throughout the United States."
+    },
+    {
+      "label": "B",
+      "text": "Navajo-speaking Code Talkers played an important role in the struggle against the Japanese during World War II. Because of the complex and unfamiliar nature of the Navajo language, the Code Talkers were able to broadcast messages over the radio that couldn't be deciphered by the Japanese."
+    },
+    {
+      "label": "C",
+      "text": "During the early part of World War II, the Japanese were able to figure out any secret code used by the U.S. military. To solve this problem, the Marines created a special alphabet used by Navajo soldiers to send messages the Japanese couldn't decipher."
+    },
+    {
+      "label": "D",
+      "text": "At the beginning of World War II, the Navajo language was perfect for use as a secret code. It had never been translated into another language, and because it had no alphabet, it had never been written down. The only people who knew the language were native speakers in the United States. Before the language could be used for coded communication, an alphabet and spelling system had to be developed for it."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with answer choices A, B, C, D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

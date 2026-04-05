@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition most closely matches the meaning of boom as it is used in paragraph 4 of the excerpt from the article \u201cThose Old Piano Blues\u201d?",
+  "instruction": "Read this dictionary entry.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "boom \\\u02c8b\u00fcm\\ n 1. a deep hollow sound 2. a rapid increase in activity 3. a long pole for holding a microphone 4. a barrier to obstruct navigation"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

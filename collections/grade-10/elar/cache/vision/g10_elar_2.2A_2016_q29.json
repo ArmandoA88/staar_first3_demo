@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the use of the word tender in paragraph 3?",
+  "instruction": "Read the following dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "tender \u02c8ten-d\u0259r\\ adj 1. showing gentleness and concern or sympathy 2. sensitive to pain 3. young, immature, and vulnerable 4. requiring tact or careful handling"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

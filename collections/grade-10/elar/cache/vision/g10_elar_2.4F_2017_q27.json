@@ -1,0 +1,30 @@
+{
+  "stem": "Read this quotation from paragraph 1.\n\n\"It's the wide, wild world in miniature, and its human architects are conscientious stewards.\"",
+  "instruction": "In this quotation, the author means that \u2014",
+  "options": [
+    {
+      "label": "A",
+      "text": "zoos should provide visitors with opportunities to feed and care for the animals"
+    },
+    {
+      "label": "B",
+      "text": "zoos need to be designed to accommodate most of the world's animal species"
+    },
+    {
+      "label": "C",
+      "text": "people are responsible for properly feeding the animals in zoos"
+    },
+    {
+      "label": "D",
+      "text": "people have built and control the unnatural world the animals in their care now inhabit"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "quotation box containing the sentence: \"It's the wide, wild world in miniature, and its human architects are conscientious stewards.\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

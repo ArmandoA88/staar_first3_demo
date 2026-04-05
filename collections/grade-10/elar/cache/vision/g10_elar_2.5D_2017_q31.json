@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following provides the best summary of the essay?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Zoos exhibit the world's animals to millions of visitors every year. But since the animals' habitats do not provide the freedom and stimulation found in the wild, the animals often act in unnatural ways that are disturbing to the people observing them."
+    },
+    {
+      "label": "B",
+      "text": "Zoos provide meaningful opportunities for people to observe animals they might not otherwise see. However, seeing animals in captivity can be disheartening and can make people wonder whether the benefits of zoos outweigh the disadvantages."
+    },
+    {
+      "label": "C",
+      "text": "Zoos allow people the opportunity to observe wild animals at close range. Although these opportunities are beneficial to people, the animals in zoos live in unnatural habitats that restrict their movement and cause them permanent harm."
+    },
+    {
+      "label": "D",
+      "text": "Zoos give visitors a view of the world's animals in settings similar to their natural habitat. By providing care and food to these animals, zoos improve the survival chances for many species facing extinction in the wild."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

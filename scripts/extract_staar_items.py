@@ -24,10 +24,10 @@ YEAR_RE = re.compile(
     re.S,
 )
 STANDARD_RE = re.compile(
-    r"(?P<standard>\d+\.\d+\([A-Z]\))\s+(?P<description>.+?)\s+Analysis of Assessed Standards",
+    r"(?P<standard>(?:[A-Z]+\d*|\d+)\.\d+\([A-Z]\))\s+(?P<description>.+?)\s+Analysis of Assess(?:ed)? Standards",
     re.S,
 )
-PROCESS_CODE_RE = re.compile(r"\d+\.\d+\([A-Z]\)")
+PROCESS_CODE_RE = re.compile(r"(?:[A-Z]+\d*|\d+)\.\d+\([A-Z]\)")
 ORDINAL_POSITION_RE = re.compile(r"(\d+)(?:st|nd|rd|th)\s+option", re.I)
 PERCENT_TOKEN_RE = re.compile(r"^(NA|\d+)$", re.I)
 SLUG_RE = re.compile(r"[^a-z0-9]+")
@@ -334,6 +334,8 @@ def match_question_image_rects(
 ) -> list[fitz.Rect]:
     if not year_blocks:
         return []
+    if len(year_blocks) == 1 and len(image_rects) == 1:
+        return [image_rects[0]]
 
     matched_rects: list[fitz.Rect] = []
     search_start = 0
@@ -357,6 +359,43 @@ def match_question_image_rects(
     return matched_rects
 
 
+def build_elar_continuation_crop(
+    page: fitz.Page,
+    next_page: fitz.Page | None,
+    answer_block: tuple[float, float, float, float, str, int, int],
+) -> fitz.Rect | None:
+    if next_page is None:
+        return None
+    if answer_block[1] < page.rect.height - 5.0:
+        return None
+    if iter_matching_blocks(next_page, lambda text: bool(match_year_block_text(text))):
+        return None
+    if leading_answer_block_before_year(next_page) is None:
+        return None
+
+    continuation_image_rects = iter_large_image_rects(next_page)
+    if not continuation_image_rects:
+        return None
+
+    merged_rect = fitz.Rect(continuation_image_rects[0])
+    for rect in continuation_image_rects[1:]:
+        merged_rect.include_rect(rect)
+    return expand_rect(merged_rect, next_page.rect, padding=10.0)
+
+
+def build_synthetic_image_rects(
+    page: fitz.Page,
+    year_blocks: list[tuple[float, float, float, float, str, int, int]],
+    answer_blocks: list[tuple[float, float, float, float, str, int, int]],
+) -> list[fitz.Rect]:
+    synthetic_rects: list[fitz.Rect] = []
+    for year_block, answer_block in zip(year_blocks, answer_blocks):
+        crop_top = max(0.0, year_block[1] - 10.0)
+        crop_bottom = min(page.rect.height - 10.0, answer_block[1] - 8.0)
+        synthetic_rects.append(fitz.Rect(50.0, crop_top, 413.0, crop_bottom))
+    return synthetic_rects
+
+
 def segment_page(page: fitz.Page, next_page: fitz.Page | None = None) -> list[Segment]:
     year_blocks = iter_matching_blocks(page, lambda text: bool(match_year_block_text(text)))
     answer_blocks = trim_leading_answer_blocks(
@@ -368,8 +407,12 @@ def segment_page(page: fitz.Page, next_page: fitz.Page | None = None) -> list[Se
         if next_page_leading_answer is not None:
             answer_blocks = answer_blocks + [carryover_answer_block(page, next_page_leading_answer)]
     image_rects = match_question_image_rects(year_blocks, iter_large_image_rects(page))
+    if not image_rects and year_blocks and len(answer_blocks) == len(year_blocks):
+        image_rects = build_synthetic_image_rects(page, year_blocks, answer_blocks)
 
     if not year_blocks and not answer_blocks:
+        return []
+    if not year_blocks:
         return []
     if len(year_blocks) != len(answer_blocks) or len(year_blocks) != len(image_rects):
         raise ValueError(
@@ -384,9 +427,18 @@ def segment_page(page: fitz.Page, next_page: fitz.Page | None = None) -> list[Se
         crop_top = max(0.0, year_block[1] - 10.0)
         crop_bottom = min(page.rect.height - 10.0, answer_block[1] - 8.0)
         crop_rect = fitz.Rect(50.0, crop_top, 413.0, crop_bottom)
-        clip_top = max(0.0, year_block[1] - 60.0)
+        clip_top = 0.0 if len(year_blocks) == 1 else max(0.0, year_block[1] - 60.0)
         clip_bottom = min(page.rect.height, answer_block[3] + 20.0)
         segment_text = page.get_text("text", clip=fitz.Rect(0.0, clip_top, page.rect.width, clip_bottom))
+        render_spans = [(page.number, rect_to_tuple(crop_rect))]
+        source_page_numbers = [page.number + 1]
+
+        continuation_crop_rect = build_elar_continuation_crop(page, next_page, answer_block)
+        if continuation_crop_rect is not None and next_page is not None:
+            render_spans.append((next_page.number, rect_to_tuple(continuation_crop_rect)))
+            source_page_numbers.append(next_page.number + 1)
+            segment_text = "\n".join([segment_text, next_page.get_text("text"), answer_block[4]])
+
         metadata = parse_metadata(segment_text, answer_block[4], year_block[4])
         segments.append(
             Segment(
@@ -398,8 +450,8 @@ def segment_page(page: fitz.Page, next_page: fitz.Page | None = None) -> list[Se
                 segment_text=segment_text,
                 raw_answer_block_text=answer_block[4],
                 metadata=metadata,
-                render_spans=[(page.number, rect_to_tuple(crop_rect))],
-                source_page_numbers=[page.number + 1],
+                render_spans=render_spans,
+                source_page_numbers=source_page_numbers,
             )
         )
     return segments
@@ -1166,7 +1218,7 @@ def build_item_record(
 
     item_id = (
         f"g{grade or 'x'}_"
-        f"{(subject or 'unknown').lower()}_"
+        f"{slugify_text(subject or 'unknown') or 'unknown'}_"
         f"{slugify_standard(metadata['standard'])}_"
         f"{metadata['year']}_"
         f"q{metadata['question_number']}"

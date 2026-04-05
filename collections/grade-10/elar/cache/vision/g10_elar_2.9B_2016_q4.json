@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these sentences could best follow sentence 13 and provide additional support for the main idea of the third paragraph (sentences 10\u201314)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "In his research Goddio has collaborated with archaeologists, Egyptologists, historians, geologists, geophysicists, computer engineers, and others."
+    },
+    {
+      "label": "G",
+      "text": "The remains of more than 60 ships, at least 700 ancient anchors, gold coins, and bronze, lead, and stone weights indicate that the city was a major trading port in the eastern Mediterranean."
+    },
+    {
+      "label": "H",
+      "text": "The city was probably an important entry port for trade into Egypt before it sank into the Mediterranean Sea so many centuries ago."
+    },
+    {
+      "label": "J",
+      "text": "Some accounts suggest that both Helen of Troy and her lover, Paris, were stranded on the island for a period of time as they hid from her Greek husband."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four answer choices labeled F, G, H, and J with sentence content"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

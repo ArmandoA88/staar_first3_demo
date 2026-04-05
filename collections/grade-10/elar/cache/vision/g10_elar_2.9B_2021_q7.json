@@ -1,0 +1,28 @@
+{
+  "stem": "Reese needs a better transition between the second paragraph (sentences 4\u20138) and the third paragraph (sentences 9\u201314). Which sentence should replace sentence 9 to create a more effective transition?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Until recently, scientists could not determine how the brain is able to rid itself of waste because the lymphatic system does not include the brain."
+    },
+    {
+      "label": "B",
+      "text": "Scientists researched the brain for years before finally making a breakthrough."
+    },
+    {
+      "label": "C",
+      "text": "No one knew how the brain was able to perform some functions."
+    },
+    {
+      "label": "D",
+      "text": "The lymphatic system does not include the brain, so everyone always wondered about that."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

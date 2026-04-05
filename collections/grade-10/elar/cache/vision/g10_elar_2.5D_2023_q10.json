@@ -1,0 +1,31 @@
+{
+  "stem": "Read this paragraph.\n\nScheduled activities are sometimes met with dread as the date of participation nears. Studies have presented people with activities that could be scheduled ahead or that do not require any advance planning. Participants in the study who had scheduled the activity reported not enjoying it as much as those who had not planned for the activity.\n\nWhich sentence should be added to the paragraph to create a complete summary of the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sometimes the activity was as simple as stopping for coffee, while in other instances the activity involved spending an afternoon in a forest preserve."
+    },
+    {
+      "label": "B",
+      "text": "Sometimes participants were asked to schedule activities, and others were able to attend unscheduled activities."
+    },
+    {
+      "label": "C",
+      "text": "Leisure activities are supposed to be different from work activities that are almost always structured and dependent on times set for meetings and deadlines."
+    },
+    {
+      "label": "D",
+      "text": "This is due to the fact that the scheduled activities seemed too much like work to be truly enjoyable."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "paragraph in box",
+    "four multiple choice options labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

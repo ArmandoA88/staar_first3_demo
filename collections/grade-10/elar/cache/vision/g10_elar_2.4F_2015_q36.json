@@ -1,0 +1,30 @@
+{
+  "stem": "What can the reader conclude from the last paragraph of each selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "One author has been affected by events in the selection more than the other."
+    },
+    {
+      "label": "G",
+      "text": "Both authors plan to make significant changes in their lives."
+    },
+    {
+      "label": "H",
+      "text": "One author regrets not having made a more sincere effort to be successful."
+    },
+    {
+      "label": "J",
+      "text": "Both authors have had meaningful experiences."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015_Q36"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

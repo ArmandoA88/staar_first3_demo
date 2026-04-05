@@ -1,0 +1,35 @@
+{
+  "stem": "Brianna is not pleased with the way she has closed her paper. Which of the following could replace sentence 28 and more effectively close this paper?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It\u2019s time to reduce your exposure, even if you don\u2019t want to."
+    },
+    {
+      "label": "B",
+      "text": "In closing, it\u2019s important that you make changes so that you won\u2019t get melanoma."
+    },
+    {
+      "label": "C",
+      "text": "Everyone is doing it now, so join the crowd and protect yourself."
+    },
+    {
+      "label": "D",
+      "text": "Take action now to protect your skin and avoid this life-threatening disease later."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q11 Passage #2",
+    "11",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

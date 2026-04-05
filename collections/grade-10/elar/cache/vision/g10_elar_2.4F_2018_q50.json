@@ -1,0 +1,30 @@
+{
+  "stem": "In this sentence, the author uses a metaphor to describe the \u2014",
+  "instruction": "Read this sentence from paragraph 5.\n\nNow I was standing before a man who resembled my old reflection almost exactly but who had been changed in some manner, the way a lawn under a cloudy sky changes when the sun comes out.",
+  "options": [
+    {
+      "label": "F",
+      "text": "improvements to the mirror"
+    },
+    {
+      "label": "G",
+      "text": "confusion felt by the narrator"
+    },
+    {
+      "label": "H",
+      "text": "transformation of the narrator"
+    },
+    {
+      "label": "J",
+      "text": "weather outside"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Now I was standing before a man who resembled my old reflection almost exactly but who had been changed in some manner, the way a lawn under a cloudy sky changes when the sun comes out."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

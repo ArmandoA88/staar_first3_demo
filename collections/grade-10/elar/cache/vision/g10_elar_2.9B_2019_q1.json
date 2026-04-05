@@ -1,0 +1,30 @@
+{
+  "stem": "Where is the most effective place to insert this sentence?\n\nStudents from around the world are also part of musical marching groups.",
+  "instruction": "J.T. would like to add the following sentence to the first paragraph (sentences 1\u20136).",
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 1"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 2"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 4"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Students from around the world are also part of musical marching groups."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

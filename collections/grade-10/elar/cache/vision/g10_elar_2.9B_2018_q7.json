@@ -1,0 +1,30 @@
+{
+  "stem": "Ken wants to strengthen the topic sentence of his third paragraph (sentences 8\u201313). Which of the following best replaces sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An elevator is a feature that is popular and transparent in the AquaDom."
+    },
+    {
+      "label": "B",
+      "text": "The 2,000-ton AquaDom includes features that delight its visitors."
+    },
+    {
+      "label": "C",
+      "text": "One of the most popular features of the AquaDom is its two-floor transparent elevator."
+    },
+    {
+      "label": "D",
+      "text": "The AquaDom is so large that seeing the entire aquarium is difficult."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

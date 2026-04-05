@@ -1,0 +1,30 @@
+{
+  "stem": "Joe thinks he may have included an extraneous idea in the second paragraph (sentences 9\u201316). Which sentence, if any, should he delete from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 12"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 13"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 15"
+    },
+    {
+      "label": "D",
+      "text": "No sentence should be deleted from this paragraph."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

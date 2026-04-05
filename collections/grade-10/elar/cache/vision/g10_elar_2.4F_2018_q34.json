@@ -1,0 +1,30 @@
+{
+  "stem": "How are the authors of the articles similar?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Both worry that their views may be out of step with those of the majority."
+    },
+    {
+      "label": "G",
+      "text": "Both are interested in how changes to culture affect the human experience."
+    },
+    {
+      "label": "H",
+      "text": "Both express an intention to continue their research."
+    },
+    {
+      "label": "J",
+      "text": "Both believe it is important to examine trends in other cultures."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

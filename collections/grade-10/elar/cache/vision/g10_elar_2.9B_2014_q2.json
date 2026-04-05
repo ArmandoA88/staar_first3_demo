@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 7 and 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Afterward Grady became upset and ran toward the nearest source of light, probably thinking it was an exit from the barn."
+    },
+    {
+      "label": "G",
+      "text": "Afterward Grady, who became upset and ran toward the nearest source of light, probably thought it was an exit from the barn."
+    },
+    {
+      "label": "H",
+      "text": "Afterward Grady became upset because she probably thought it was an exit from the barn and ran toward the nearest source of light."
+    },
+    {
+      "label": "J",
+      "text": "Afterward Grady became upset and ran toward the nearest source of light, she probably thought it was an exit from the barn."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

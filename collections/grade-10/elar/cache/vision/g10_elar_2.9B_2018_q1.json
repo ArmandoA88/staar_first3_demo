@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective transition to add to the beginning of sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Even though"
+    },
+    {
+      "label": "B",
+      "text": "In contrast"
+    },
+    {
+      "label": "C",
+      "text": "Furthermore"
+    },
+    {
+      "label": "D",
+      "text": "However"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Read these sentence fragments from paragraph 3.\n\nTakes comfort in knowing we're on the best route. According to the navigation software, anyway.\n\nThe author is implying that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "travelers may experience something from a drive that computers can't predict"
+    },
+    {
+      "label": "B",
+      "text": "navigation software has become more reliable"
+    },
+    {
+      "label": "C",
+      "text": "driving in unfamiliar places should make people uncomfortable"
+    },
+    {
+      "label": "D",
+      "text": "uncertainty leads to navigational difficulties"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Takes comfort in knowing we're on the best route. According to the navigation software, anyway."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

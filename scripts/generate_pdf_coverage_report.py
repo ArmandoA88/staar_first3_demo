@@ -12,7 +12,13 @@ sys.path.insert(0, str(ROOT))
 
 import fitz
 
-from scripts.extract_staar_items import collect_standard_segment_entries, infer_subject_and_grade, segment_page, slugify_standard
+from scripts.extract_staar_items import (
+    collect_standard_segment_entries,
+    resolve_collection_metadata,
+    segment_page,
+    slugify_standard,
+    slugify_text,
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -39,7 +45,7 @@ def resolve_pdf(collection_root: Path, value: str | None) -> Path:
 def build_item_id(subject: str | None, grade: int | None, metadata: dict) -> str:
     return (
         f"g{grade or 'x'}_"
-        f"{(subject or 'unknown').lower()}_"
+        f"{slugify_text(subject or 'unknown') or 'unknown'}_"
         f"{slugify_standard(metadata['standard'])}_"
         f"{metadata['year']}_"
         f"q{metadata['question_number']}"
@@ -65,7 +71,7 @@ def main() -> int:
     catalog_ids = {item["id"] for item in catalog_items}
 
     doc = fitz.open(pdf_path)
-    subject, grade = infer_subject_and_grade(doc)
+    subject, grade, _ = resolve_collection_metadata(doc, collection_root)
 
     page_rows: list[dict] = [
         {

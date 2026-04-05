@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 9 and 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Some penguins would try to groom themselves because they swallowed the toxic oil and died."
+    },
+    {
+      "label": "G",
+      "text": "Attempting to groom themselves were some penguins, who swallowed the toxic oil and died."
+    },
+    {
+      "label": "H",
+      "text": "While attempting to groom themselves, some penguins swallowed the toxic oil and died."
+    },
+    {
+      "label": "J",
+      "text": "Some penguins would try to groom themselves, they swallowed the toxic oil and died."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

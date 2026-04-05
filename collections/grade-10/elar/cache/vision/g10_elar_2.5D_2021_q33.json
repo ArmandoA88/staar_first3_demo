@@ -1,0 +1,30 @@
+{
+  "stem": "Which is the best summary of the excerpt from the article \"Those Old Piano Blues\"?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Many families in America once owned acoustic pianos, but there are now fewer families who want them. In fact, if you have an old piano, it can be very hard to sell it or find someone who wants it. That's why there are companies now offering to pick up old pianos. It is sad these instruments were once prized but have little value today, unless someone is willing to restore them to their original working condition."
+    },
+    {
+      "label": "B",
+      "text": "Although acoustic pianos were once a popular item in American life, many are now being disposed of or recycled for parts. Changes in American entertainment, as well as the space and upkeep required to own an acoustic piano, have led people to pursue other interests or purchase less expensive digital pianos. However, the number of Americans learning to play the piano has not changed, which shows that the instrument is still appreciated."
+    },
+    {
+      "label": "C",
+      "text": "Many families in America still own pianos but many of them are now digital pianos. People who own old acoustic pianos still feel sentimental about them and believe they are worth a lot of money. However, the people who make money from pianos are the ones that know how to remove or recycle them."
+    },
+    {
+      "label": "D",
+      "text": "Today, Americans are learning to play piano as adults, and they often go to piano studios in cities like Los Angeles and New York. Piano playing was popular in the 20th century and still is. Pianos used to be an important part of family entertainment, but other instruments have taken their place. Today, old acoustic pianos are stored in warehouses because they take up too much room in houses."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

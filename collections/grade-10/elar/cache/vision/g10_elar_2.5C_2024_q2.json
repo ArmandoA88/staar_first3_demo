@@ -1,0 +1,30 @@
+{
+  "stem": "Which line from the play shows that Joelle is dismissive of Lina\u2019s wishes to keep her new songs private?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "JOELLE: She won\u2019t answer my calls, she won\u2019t answer my texts. (line 2)"
+    },
+    {
+      "label": "B",
+      "text": "JOELLE: She\u2019s gotten so much better, right? (line 19)"
+    },
+    {
+      "label": "C",
+      "text": "JOELLE: You\u2019re too humble! (line 28)"
+    },
+    {
+      "label": "D",
+      "text": "JOELLE: Something in the key of forgiveness? (line 57)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Play text with multiple choice answers labeled A-D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

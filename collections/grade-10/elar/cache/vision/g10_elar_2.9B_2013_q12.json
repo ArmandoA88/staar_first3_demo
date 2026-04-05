@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 7 and 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "One such study, published in the Journal of Educational Psychology, found that native English speakers in a Spanish immersion program significantly outperformed monolingual English-speaking students on English vocabulary tests."
+    },
+    {
+      "label": "G",
+      "text": "One such study found that native English speakers in a Spanish immersion program significantly outperformed monolingual English-speaking students on English vocabulary tests and published in the Journal of Educational Psychology."
+    },
+    {
+      "label": "H",
+      "text": "One such study found that native English speakers in a Spanish immersion program significantly outperformed monolingual English-speaking students on English vocabulary tests, which was published in the Journal of Educational Psychology."
+    },
+    {
+      "label": "J",
+      "text": "One such study found that native English speakers in a Spanish immersion program published in the Journal of Educational Psychology significantly outperformed monolingual English-speaking students on English vocabulary tests."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

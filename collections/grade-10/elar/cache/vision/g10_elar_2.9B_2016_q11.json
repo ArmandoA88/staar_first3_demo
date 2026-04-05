@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to revise sentence 30?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "With more than 500 miles of coastline, people in their home state are offered ample opportunity to surf right here in Texas."
+    },
+    {
+      "label": "B",
+      "text": "With more than 500 miles of coastline, Texas offers ample opportunity for people to surf right here in their home state."
+    },
+    {
+      "label": "C",
+      "text": "With more than 500 miles of coastline, there is ample opportunity for people to surf right here in their home state and in Texas."
+    },
+    {
+      "label": "D",
+      "text": "With more than 500 miles of coastline, ample opportunity is offered for people in Texas to surf right here in their home state."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

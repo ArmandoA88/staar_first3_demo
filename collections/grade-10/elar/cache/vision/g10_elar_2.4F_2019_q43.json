@@ -1,0 +1,30 @@
+{
+  "stem": "Why does the author include this idea?",
+  "instruction": "Read this quotation from paragraph 9.\n\nYou'd be surprised at the places where these stories crop up. In Silicon Valley, for instance, a family of foxes decided to make a home on the Facebook campus in Menlo Park along with 2,500 employees, and Mark Zuckerberg himself took an interest in the skulk.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To emphasize that wildlife living in urban areas is more common than people think"
+    },
+    {
+      "label": "B",
+      "text": "To compare the wildlife found in different regions of California"
+    },
+    {
+      "label": "C",
+      "text": "To describe Mark Zuckerberg's disapproval of the foxes living on the Facebook campus"
+    },
+    {
+      "label": "D",
+      "text": "To question whether the foxes are safe living in Menlo Park"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "quotation box around text: You\u2019d be surprised at the places where these stories crop up. In Silicon Valley, for instance, a family of foxes decided to make a home on the Facebook campus in Menlo Park along with 2,500 employees, and Mark Zuckerberg himself took an interest in the skulk."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

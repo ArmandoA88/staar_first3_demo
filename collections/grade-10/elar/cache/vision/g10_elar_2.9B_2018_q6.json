@@ -1,0 +1,30 @@
+{
+  "stem": "Ken is not satisfied with his thesis statement in sentence 3. Which of the following should replace sentence 3 to provide a more effective thesis statement?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The AquaDom in Berlin, Germany, is very tall and made of glass; it is an experience that many people would like to have."
+    },
+    {
+      "label": "G",
+      "text": "For a worthwhile experience, you should go to the AquaDom in Berlin, Germany; it is a unique attraction."
+    },
+    {
+      "label": "H",
+      "text": "The AquaDom in Berlin, Germany, is a completely different kind of aquarium; it is a unique attraction that many people would love to experience."
+    },
+    {
+      "label": "J",
+      "text": "The AquaDom in Berlin, Germany, is sort of a different kind of an aquarium; it is something many people would like to go see."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "This image can best be interpreted as meaning that \u2014",
+  "instruction": "Read lines 26 and 27 from the poem.",
+  "options": [
+    {
+      "label": "A",
+      "text": "a child sees the sky as a magical ocean full of mysterious creatures"
+    },
+    {
+      "label": "B",
+      "text": "the speaker hopes to save his daughter from a terrible future"
+    },
+    {
+      "label": "C",
+      "text": "artists experience a sea of wild and unpredictable emotions"
+    },
+    {
+      "label": "D",
+      "text": "there is a danger that artists may get lost in their own creations"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "when the sky is a surreal sea in which you drown . . ."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

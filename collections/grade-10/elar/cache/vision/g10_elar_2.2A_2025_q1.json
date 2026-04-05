@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the use of the word aerial in paragraph 6?",
+  "instruction": "Read the dictionary entry.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Definition 1"
+    },
+    {
+      "label": "B",
+      "text": "Definition 2"
+    },
+    {
+      "label": "C",
+      "text": "Definition 3"
+    },
+    {
+      "label": "D",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "aerial \\\u02c8er-\u0113-\u0259l \\ adj\n1. imaginary or lacking substance 2. suspended by a track or cable 3. happening in the air 4. reaching up toward the sky"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

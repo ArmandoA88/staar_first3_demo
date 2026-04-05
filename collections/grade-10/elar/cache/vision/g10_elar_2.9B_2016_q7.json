@@ -1,0 +1,30 @@
+{
+  "stem": "In sentence 5, the word trip is not the appropriate word to use. Which of the following should replace trip in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "standard"
+    },
+    {
+      "label": "B",
+      "text": "process"
+    },
+    {
+      "label": "C",
+      "text": "operation"
+    },
+    {
+      "label": "D",
+      "text": "journey"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

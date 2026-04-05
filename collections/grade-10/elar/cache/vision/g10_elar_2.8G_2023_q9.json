@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author includes this rhetorical shift?",
+  "instruction": "Read this quotation from paragraph 17.\n\nBut this doesn\u2019t mean that scheduling will take the fun out of everything.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To introduce another argument against scheduling"
+    },
+    {
+      "label": "B",
+      "text": "To recognize that there are different opinions about scheduling"
+    },
+    {
+      "label": "C",
+      "text": "To acknowledge that scheduling can sometimes be necessary"
+    },
+    {
+      "label": "D",
+      "text": "To provide a variety of alternatives to scheduling"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Quotation: But this doesn\u2019t mean that scheduling will take the fun out of everything."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

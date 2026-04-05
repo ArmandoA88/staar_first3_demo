@@ -1,0 +1,30 @@
+{
+  "stem": "What is a significant difference between the opinions expressed in both articles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The author of \u201cLiving Alone Is the New Norm\u201d uses research to convey his ideas, while the author of \u201cWill Wi-Fi Ruin Mount Everest?\u201d largely relies on personal experience."
+    },
+    {
+      "label": "B",
+      "text": "The author of \u201cLiving Alone Is the New Norm\u201d accepts change brought about by technology, while the author of \u201cWill Wi-Fi Ruin Mount Everest?\u201d rejects it."
+    },
+    {
+      "label": "C",
+      "text": "The author of \u201cLiving Alone Is the New Norm\u201d thinks social interaction is important, while the author of \u201cWill Wi-Fi Ruin Mount Everest?\u201d favors a life of social isolation."
+    },
+    {
+      "label": "D",
+      "text": "The author of \u201cLiving Alone Is the New Norm\u201d predicts improvements in the environment, while the author of \u201cWill Wi-Fi Ruin Mount Everest?\u201d foresees ecological trouble."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "stem": "Which ideas should be included in a summary of the article?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "The lights from cities can be seen from space and seem to form a web of lines."
+    },
+    {
+      "label": null,
+      "text": "Geography has played an important role in where cities are located."
+    },
+    {
+      "label": null,
+      "text": "The older metamorphic rocks are harder than the sediments of the coastal plain."
+    },
+    {
+      "label": null,
+      "text": "The fall line provided many natural resources that attracted settlers."
+    },
+    {
+      "label": null,
+      "text": "Several types of mills were built along rivers because the water provided power."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

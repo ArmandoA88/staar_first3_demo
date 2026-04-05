@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jaime Teevan, who works for Microsoft, has become a leader in the field of personalizing Internet search results. Through her research, she has found that people often repeat the same searches. She has developed ways of using this knowledge to make future searches more productive."
+    },
+    {
+      "label": "B",
+      "text": "Microsoft Research, a division of the country's largest software company, hires only the most promising and creative students emerging from leading graduate programs. By recruiting these talented employees, Microsoft has developed cutting-edge programs such as the search engine Bing."
+    },
+    {
+      "label": "C",
+      "text": "Jaime Teevan created the field of personal information management. After many failures, which included crashing Infoseek's search engine on one occasion, she discovered some data on the Internet that convinced her that search engines were poorly designed."
+    },
+    {
+      "label": "D",
+      "text": "Personal information management has become an important field of study for computer programmers. Since discovering that people search the Internet in different ways, programmers have been building tools that sort search results according to a user's personal preferences."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

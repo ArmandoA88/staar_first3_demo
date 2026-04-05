@@ -1,0 +1,28 @@
+{
+  "stem": "What is the primary purpose of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To encourage readers to write reviews rather than criticism"
+    },
+    {
+      "label": "B",
+      "text": "To offer readers a new perspective on criticism"
+    },
+    {
+      "label": "C",
+      "text": "To document the harm suffered by the author because of criticism"
+    },
+    {
+      "label": "D",
+      "text": "To suggest that good parenting requires criticism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

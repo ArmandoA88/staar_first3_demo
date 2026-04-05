@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these best describes the author\u2019s purpose for writing this article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To inform people about what makes a movie-watching experience enjoyable"
+    },
+    {
+      "label": "G",
+      "text": "To analyze the techniques moviemakers use to create popular movies"
+    },
+    {
+      "label": "H",
+      "text": "To compare the experiences of watching a movie at home and in a theater"
+    },
+    {
+      "label": "J",
+      "text": "To persuade people to avoid watching movies on smart phones"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

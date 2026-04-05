@@ -1,0 +1,30 @@
+{
+  "stem": "Catherine would like to provide a more detailed thesis statement for her paper. Which of the following could replace sentence 3 and accomplish this goal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Instead, Baumgartner was high above Earth\u201424 miles to be precise\u2014and jumped without a jet or spacecraft of any kind."
+    },
+    {
+      "label": "B",
+      "text": "Instead, Baumgartner, who was 24 miles above Earth at the time, jumped out of a capsule and proceeded to free-fall, traveling at speeds of more than 800 miles per hour."
+    },
+    {
+      "label": "C",
+      "text": "Instead, Baumgartner was 24 miles above Earth at the time, which is quite an amazing distance, and jumped, which is quite an amazing feat."
+    },
+    {
+      "label": "D",
+      "text": "Instead, Baumgartner was several miles above the beautiful, majestic Earth at the time that he decided to make a magnificent jump."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

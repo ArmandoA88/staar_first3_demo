@@ -1,0 +1,30 @@
+{
+  "stem": "Which detail best supports the idea that the mission of Hot Bread Kitchen has public support?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Rodriguez had to move the business from her apartment to La Marqueta."
+    },
+    {
+      "label": "B",
+      "text": "Charitable contributions help fund the bakery's training program."
+    },
+    {
+      "label": "C",
+      "text": "Entrepreneurs rent space from the bakery to run their businesses."
+    },
+    {
+      "label": "D",
+      "text": "Some of the bakery's former trainees now hold managerial positions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

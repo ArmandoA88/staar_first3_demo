@@ -1,0 +1,31 @@
+{
+  "stem": "How does the description of the natural sound in the paragraph from the article DIFFER from the description of the natural sound in the lines from the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The paragraph from the article describes how a natural sound was recorded, while the lines from the poem recreate a natural sound with rhythm."
+    },
+    {
+      "label": "B",
+      "text": "The paragraph from the article compares the natural sound to a musical instrument, while the lines from the poem compare the natural sound to speech."
+    },
+    {
+      "label": "C",
+      "text": "The paragraph from the article describes the silence before a sound was created, while the lines from the poem describe the continuous sounds created by the environment."
+    },
+    {
+      "label": "D",
+      "text": "The paragraph from the article emphasizes the clamorous energy of the sound, while the lines from the poem convey the passive gentleness of the sound."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"Fontana recorded 'Kirribilli Wharf' in Australia in 1976. Years later, he recalled how he did it. 'In the middle of the night, I went with an outside broadcast van to a floating concrete pier in Sydney Harbor that had vertical cylindrical holes going from the deck to the underside.' He placed microphones at the top end of eight vertical steel pipes. On the resulting recording, the listener hears waves beneath the pier gently lapping against the bottom ends of the pipes. This creates 'changing percussive rhythms' that sound a bit like a hand tapping an African drum.\" (paragraph 6 of \"Acoustic Sculpture, Sound Art, and the Music of the Sea\")",
+    "\"A topmost icicle came loose\nAnd fell, and struck another\nWith a bell-like sound, and\nAnother, and the falls\nLeapt at their ledges, ringing\nDown the rocks and on each other\n\nLike an outbreak of bells\nThat rings and ceases.\" (lines 25\u201332 of \"Leaping Falls\")"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

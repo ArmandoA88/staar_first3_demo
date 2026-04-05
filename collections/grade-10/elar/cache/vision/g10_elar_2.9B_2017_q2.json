@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective revision to make in sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Realizing that she hadn t recovered from her previous race, she slowed her pace to a jog."
+    },
+    {
+      "label": "G",
+      "text": "She realized that she hadn t recovered from her previous race, her pace slowed to a jog."
+    },
+    {
+      "label": "H",
+      "text": "Realizing that she hadn t recovered from her previous race, a jog was all she could slow her pace to."
+    },
+    {
+      "label": "J",
+      "text": "She realized that she hadn t recovered from the pace of her previous race, which slowed to a jog."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

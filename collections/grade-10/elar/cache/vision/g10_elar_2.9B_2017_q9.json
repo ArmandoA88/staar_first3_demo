@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective transition to add to the beginning of sentence 17?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "However"
+    },
+    {
+      "label": "B",
+      "text": "For example"
+    },
+    {
+      "label": "C",
+      "text": "Furthermore"
+    },
+    {
+      "label": "D",
+      "text": "As a result"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

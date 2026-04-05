@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these is the best summary of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "India was in the midst of an epidemic of preventable blindness. Fortunately, Dr. V has helped reverse this trend. By treating hundreds of thousands of patients every year, Dr. V and his staff at Aravind Eye Hospital have greatly reduced the incidence of blindness in India."
+    },
+    {
+      "label": "G",
+      "text": "While visiting Dr. V at his hospital in India, the author discovered something surprising about the patients who are successfully treated for blindness there. It turns out that patients who undergo surgery at the eye hospital are far more likely to regain their sight if they believe in the possibility of a cure."
+    },
+    {
+      "label": "H",
+      "text": "The author spent one week volunteering at an eye hospital in India where thousands of patients regain their sight each year. He was deeply touched by the commitment of Dr. V and his staff to helping their patients. The experience seems to have influenced the author's own outlook on life."
+    },
+    {
+      "label": "J",
+      "text": "Traditional treatments for blindness have not worked in India, a country where millions of people have lost their sight. Dr. V established the Aravind Eye Hospital, which has successfully treated many thousands of patients. After hearing about Dr. V's success, the author decided to visit the hospital and observe Dr. V's work in person."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

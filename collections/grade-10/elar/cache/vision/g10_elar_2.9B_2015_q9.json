@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective way to combine sentences 7 and 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After a two-and-a-half-hour trip and after he reached his target altitude, he then ran through an extensive checklist."
+    },
+    {
+      "label": "B",
+      "text": "After a two-and-a-half-hour trip, he reached his target altitude, then he ran through an extensive checklist."
+    },
+    {
+      "label": "C",
+      "text": "After a two-and-a-half-hour trip, he reached his target altitude, where he ran through an extensive checklist."
+    },
+    {
+      "label": "D",
+      "text": "After a two-and-a-half-hour trip where he ran through an extensive checklist, he reached his target altitude."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

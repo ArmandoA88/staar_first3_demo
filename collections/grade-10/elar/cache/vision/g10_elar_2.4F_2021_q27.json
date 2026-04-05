@@ -1,0 +1,30 @@
+{
+  "stem": "What does the author\u2019s use of musical terminology convey in the quotation?",
+  "instruction": "Read this quotation from paragraph 2 of the excerpt from the article \u201cThose Old Piano Blues.\u201d",
+  "options": [
+    {
+      "label": "A",
+      "text": "How the popularity of the piano has shifted like notes in a song"
+    },
+    {
+      "label": "B",
+      "text": "How piano dealers use musical language when they speak"
+    },
+    {
+      "label": "C",
+      "text": "How piano tones affect the price of the instruments"
+    },
+    {
+      "label": "D",
+      "text": "How piano music will persist despite its decrease in popularity"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Then a slow, downward sales arpeggio started."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

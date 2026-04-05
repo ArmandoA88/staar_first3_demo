@@ -1,0 +1,28 @@
+{
+  "stem": "April wants to add a supporting sentence to the third paragraph (sentences 11\u201318). Which sentence should be added after sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Stevenson saw a way to improve skateboards."
+    },
+    {
+      "label": "B",
+      "text": "Stevenson, however, was not the only inventor who significantly improved the design of skateboards."
+    },
+    {
+      "label": "C",
+      "text": "Stevenson used his knowledge of shaping surfboards and applied it to shaping skateboards."
+    },
+    {
+      "label": "D",
+      "text": "Stevenson witnessed surfers riding skateboards."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

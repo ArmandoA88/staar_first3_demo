@@ -1,0 +1,30 @@
+{
+  "stem": "The author's main purpose for writing this article is to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "describe the problems that occur when drivers ignore printed maps in favor of GPS"
+    },
+    {
+      "label": "G",
+      "text": "argue that navigating with printed maps produces a better road-trip experience than using GPS"
+    },
+    {
+      "label": "H",
+      "text": "show that GPS and printed maps complement each other"
+    },
+    {
+      "label": "J",
+      "text": "explain why drivers have so willingly adopted GPS over printed maps"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q38 Passage #6"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Extracted from a STAAR reading comprehension question about identifying author's purpose."
+}

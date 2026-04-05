@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these best describes the purpose of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To show differences between the way eye surgery is performed in the East and in the West"
+    },
+    {
+      "label": "B",
+      "text": "To celebrate the work of an eye surgeon in India and describe the author's experience as a volunteer"
+    },
+    {
+      "label": "C",
+      "text": "To encourage eye surgeons throughout the world to model their methods after those used by Dr. V"
+    },
+    {
+      "label": "D",
+      "text": "To describe the success of the technological breakthrough developed by Dr. V at Aravind Eye Hospital"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

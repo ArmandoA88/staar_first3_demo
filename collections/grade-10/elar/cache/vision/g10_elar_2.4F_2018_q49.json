@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence shows that the narrator has been affected by the encounter with the salesperson?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I understood that I was having these thoughts only because of the stranger with the bony fingers and the worn-down heels, and as I went down to the hutch I felt a burst of irritation as I heard him say: \"This is your lucky day.\""
+    },
+    {
+      "label": "B",
+      "text": "Then he clicked his case shut and hurried out the door as if afraid I'd change my mind."
+    },
+    {
+      "label": "C",
+      "text": "When he tried to sell me a second bottle, he understood from my look that it was time to go."
+    },
+    {
+      "label": "D",
+      "text": "Two things struck me: the case must be very heavy, and he must not have sold anything in a long time."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

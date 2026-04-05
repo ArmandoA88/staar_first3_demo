@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author wrote this article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To provide an example of how easy it is to win a science award"
+    },
+    {
+      "label": "B",
+      "text": "To explain some surprising uses of household products"
+    },
+    {
+      "label": "C",
+      "text": "To promote an award-winning science fair attended by a young scientist"
+    },
+    {
+      "label": "D",
+      "text": "To describe an experiment designed and completed by a young scientist"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

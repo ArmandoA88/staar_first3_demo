@@ -1,0 +1,30 @@
+{
+  "stem": "The author refers to Charlie and the Chocolate Factory in order to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "clarify the difference between reviewing and criticizing"
+    },
+    {
+      "label": "B",
+      "text": "call attention to his favorite book"
+    },
+    {
+      "label": "C",
+      "text": "offer a suggestion on how the book could have been improved"
+    },
+    {
+      "label": "D",
+      "text": "provide an example of a good plot"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

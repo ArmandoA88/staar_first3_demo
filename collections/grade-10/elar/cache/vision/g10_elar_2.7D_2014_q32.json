@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these best describes the author's purpose for writing this article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To criticize the failure of linguists to document a language before it was nearly extinct"
+    },
+    {
+      "label": "G",
+      "text": "To analyze the linguistic elements of one of the oldest and most pure Inuit dialects"
+    },
+    {
+      "label": "H",
+      "text": "To inform the public of a researcher's effort to document a disappearing language"
+    },
+    {
+      "label": "J",
+      "text": "To argue that the Inuktun dialect will inevitably be lost in the next 10 to 15 years"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

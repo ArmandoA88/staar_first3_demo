@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence below would best follow and support sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Adequate protection is vital because just one blistering sunburn in childhood or adolescence greatly increases a person\u2019s risk of developing melanoma later in life."
+    },
+    {
+      "label": "B",
+      "text": "So teens must learn to avoid tanning beds, but they must also learn to stay out of the sun during the summer."
+    },
+    {
+      "label": "C",
+      "text": "Sun exposure can be life threatening to people who have lighter skin, but everyone should learn to be cautious in the sun."
+    },
+    {
+      "label": "D",
+      "text": "There are many ways to achieve this goal that teens will surely want to investigate."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image contains text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

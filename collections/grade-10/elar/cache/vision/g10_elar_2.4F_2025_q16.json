@@ -1,0 +1,30 @@
+{
+  "stem": "The reader can infer from lines 1 through 4 of the poem \u201cThe Apollo 11 Moon Landing\u201d that the speaker is probably \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "a child who is being told what happened when astronauts landed on the moon"
+    },
+    {
+      "label": "B",
+      "text": "an adult who is remembering what it felt like to watch the first moon landing"
+    },
+    {
+      "label": "C",
+      "text": "an adult who thinks about how the moon was transformed when the spaceship landed on it"
+    },
+    {
+      "label": "D",
+      "text": "a child who is watching a broadcast of astronauts landing on the moon as it occurs"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with four multiple-choice options labeled A, B, C, and D."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

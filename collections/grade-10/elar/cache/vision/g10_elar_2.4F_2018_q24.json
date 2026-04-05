@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best supports the author's belief that living alone is an appealing choice for many people?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The theme of declining communities entered popular culture with Bowling Alone, political scientist Robert D. Putnam's book, which was published in 2000."
+    },
+    {
+      "label": "G",
+      "text": "The extraordinary rise of solitary living is the biggest social change that we've neglected to identify . . ."
+    },
+    {
+      "label": "H",
+      "text": "Living alone, being alone and feeling lonely are hardly the same . . ."
+    },
+    {
+      "label": "J",
+      "text": "Today, in our age of digital media and ever expanding social networks, living alone can offer even greater benefits: the time and space for restorative solitude."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

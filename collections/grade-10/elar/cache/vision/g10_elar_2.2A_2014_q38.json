@@ -1,0 +1,30 @@
+{
+  "stem": "Which definition best matches the use of the word trust in line 1?",
+  "instruction": "Read the following dictionary entry.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "trust \\\u02c8tr\u0259st\\ v 1. to believe 2. to place in the care of another 3. to permit to do something without fear of consequences 4. to extend financial credit to"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which inference about the actual moon landing do details from the story \u201cMoon Landing\u201d and the poem \u201cThe Apollo 11 Moon Landing\u201d BOTH support?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The dust on the moon is dangerous for astronauts."
+    },
+    {
+      "label": "B",
+      "text": "The scene on the moon is dull and dreary."
+    },
+    {
+      "label": "C",
+      "text": "The astronauts have difficulty moving in their spacesuits."
+    },
+    {
+      "label": "D",
+      "text": "The surface of the moon appears lifeless and still."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

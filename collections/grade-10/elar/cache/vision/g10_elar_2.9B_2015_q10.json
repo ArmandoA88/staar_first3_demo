@@ -1,0 +1,28 @@
+{
+  "stem": "There is a redundant sentence in the third paragraph (sentences 11\u201318). Which sentence should be deleted from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sentence 12"
+    },
+    {
+      "label": "G",
+      "text": "Sentence 13"
+    },
+    {
+      "label": "H",
+      "text": "Sentence 14"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

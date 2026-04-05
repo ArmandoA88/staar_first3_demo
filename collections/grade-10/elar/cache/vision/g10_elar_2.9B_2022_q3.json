@@ -1,0 +1,30 @@
+{
+  "stem": "Larry wants to add this sentence to the third paragraph (sentences 11\u201320).\n\nMeat, fruits, and vegetables could now be safely stored for weeks or months.\n\nWhere should he insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 14"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 15"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 16"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 17"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Meat, fruits, and vegetables could now be safely stored for weeks or months."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which question do the authors of both essays have about wildlife?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "What measures should people take to protect wildlife?"
+    },
+    {
+      "label": "G",
+      "text": "What is mankind's ideal relationship with wild animals?"
+    },
+    {
+      "label": "H",
+      "text": "Which wildlife species have benefited most from mankind's influence?"
+    },
+    {
+      "label": "J",
+      "text": "Which animal behaviors help humans understand their own behaviors?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

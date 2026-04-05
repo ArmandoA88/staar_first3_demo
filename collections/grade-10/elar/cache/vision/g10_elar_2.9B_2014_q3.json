@@ -1,0 +1,30 @@
+{
+  "stem": "Sentence 12 lacks clarity. What is the best way to improve this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change When they to When Mach and the veterinarian"
+    },
+    {
+      "label": "B",
+      "text": "Change peered to glanced"
+    },
+    {
+      "label": "C",
+      "text": "Change they saw to he saw"
+    },
+    {
+      "label": "D",
+      "text": "Change looking out to staring"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

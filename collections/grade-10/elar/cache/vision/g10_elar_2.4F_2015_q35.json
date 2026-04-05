@@ -1,0 +1,33 @@
+{
+  "stem": "Which of these statements best expresses the difference in tone between the quotations?",
+  "instruction": "Read these quotations.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The first quotation is sincere, while the second is arrogant."
+    },
+    {
+      "label": "B",
+      "text": "The first quotation is grave, while the second is passionate."
+    },
+    {
+      "label": "C",
+      "text": "The first quotation is observational, while the second is introspective."
+    },
+    {
+      "label": "D",
+      "text": "The first quotation is playful, while the second is mocking."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Helping Others to See",
+    "He is also keeping an eye on the staff, insisting on their impeccability in service\u2014guiding his superbly honed institution of compassion with a glance, a word, a silent presence, a smile.",
+    "A Ball to Roll Around",
+    "I find it easier to live with myself if I try to be honest."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

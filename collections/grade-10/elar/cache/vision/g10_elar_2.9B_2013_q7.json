@@ -1,0 +1,28 @@
+{
+  "stem": "What is the best way to revise sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To use the system, the surgeon, while making three or four small incisions in a patient, inserts stainless-steel rods into the openings."
+    },
+    {
+      "label": "B",
+      "text": "To use the system, the surgeon makes three or four small incisions in a patient who inserts stainless-steel rods into the openings."
+    },
+    {
+      "label": "C",
+      "text": "To use the system, the surgeon makes three or four small incisions in a patient she then inserts stainless-steel rods into the openings."
+    },
+    {
+      "label": "D",
+      "text": "To use the system, the surgeon makes three or four small incisions in a patient and then inserts stainless-steel rods into the openings."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most likely reason the author included paragraphs 1 through 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To highlight the topic of a science experiment"
+    },
+    {
+      "label": "B",
+      "text": "To emphasize the value of winning an award for a science experiment"
+    },
+    {
+      "label": "C",
+      "text": "To introduce background information about a science experiment"
+    },
+    {
+      "label": "D",
+      "text": "To promote the scientific goals of an experiment"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

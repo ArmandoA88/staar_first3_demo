@@ -194,6 +194,25 @@
     },
     {
       "schema_version": "collection_manifest_v1",
+      "id": "grade-7-math",
+      "label": "Grade 7 Math",
+      "grade": 7,
+      "subject": "Math",
+      "status": "ready",
+      "root": "collections/grade-7/math",
+      "source_pdf": "collections/grade-7/math/source/math7.pdf",
+      "catalog": "collections/grade-7/math/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-7/math/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-7/math/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-7/math/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-7/math/images/extracted",
+      "stimulus_images_dir": "collections/grade-7/math/images/stimuli",
+      "vision_cache_dir": "collections/grade-7/math/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
       "id": "grade-8-elar",
       "label": "Grade 8 ELAR",
       "grade": 8,
@@ -213,6 +232,63 @@
     },
     {
       "schema_version": "collection_manifest_v1",
+      "id": "grade-8-math",
+      "label": "Grade 8 Math",
+      "grade": 8,
+      "subject": "Math",
+      "status": "ready",
+      "root": "collections/grade-8/math",
+      "source_pdf": "collections/grade-8/math/source/math8.pdf",
+      "catalog": "collections/grade-8/math/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-8/math/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-8/math/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-8/math/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-8/math/images/extracted",
+      "stimulus_images_dir": "collections/grade-8/math/images/stimuli",
+      "vision_cache_dir": "collections/grade-8/math/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-8-science",
+      "label": "Grade 8 Science",
+      "grade": 8,
+      "subject": "Science",
+      "status": "ready",
+      "root": "collections/grade-8/science",
+      "source_pdf": "collections/grade-8/science/source/science8.pdf",
+      "catalog": "collections/grade-8/science/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-8/science/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-8/science/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-8/science/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-8/science/images/extracted",
+      "stimulus_images_dir": "collections/grade-8/science/images/stimuli",
+      "vision_cache_dir": "collections/grade-8/science/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-8-social-studies",
+      "label": "Grade 8 Social Studies",
+      "grade": 8,
+      "subject": "Social Studies",
+      "status": "ready",
+      "root": "collections/grade-8/social-studies",
+      "source_pdf": "collections/grade-8/social-studies/source/ss8.pdf",
+      "catalog": "collections/grade-8/social-studies/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-8/social-studies/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-8/social-studies/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-8/social-studies/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-8/social-studies/images/extracted",
+      "stimulus_images_dir": "collections/grade-8/social-studies/images/stimuli",
+      "vision_cache_dir": "collections/grade-8/social-studies/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
       "id": "grade-9-elar",
       "label": "English I ELAR",
       "grade": 9,
@@ -229,6 +305,82 @@
       "images_dir": "collections/grade-9/elar/images/extracted",
       "stimulus_images_dir": "collections/grade-9/elar/images/stimuli",
       "vision_cache_dir": "collections/grade-9/elar/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-9-math",
+      "label": "Algebra I Math",
+      "grade": 9,
+      "subject": "Math",
+      "status": "ready",
+      "root": "collections/grade-9/math",
+      "source_pdf": "collections/grade-9/math/source/math algebra.pdf",
+      "catalog": "collections/grade-9/math/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-9/math/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-9/math/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-9/math/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-9/math/images/extracted",
+      "stimulus_images_dir": "collections/grade-9/math/images/stimuli",
+      "vision_cache_dir": "collections/grade-9/math/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-9-science",
+      "label": "Biology Science",
+      "grade": 9,
+      "subject": "Science",
+      "status": "ready",
+      "root": "collections/grade-9/science",
+      "source_pdf": "collections/grade-9/science/source/sciencebiology.pdf",
+      "catalog": "collections/grade-9/science/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-9/science/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-9/science/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-9/science/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-9/science/images/extracted",
+      "stimulus_images_dir": "collections/grade-9/science/images/stimuli",
+      "vision_cache_dir": "collections/grade-9/science/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-10-elar",
+      "label": "English II ELAR",
+      "grade": 10,
+      "subject": "ELAR",
+      "status": "ready",
+      "root": "collections/grade-10/elar",
+      "source_pdf": "collections/grade-10/elar/source/elar english 2.pdf",
+      "catalog": "collections/grade-10/elar/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-10/elar/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-10/elar/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-10/elar/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-10/elar/images/extracted",
+      "stimulus_images_dir": "collections/grade-10/elar/images/stimuli",
+      "vision_cache_dir": "collections/grade-10/elar/cache/vision"
+    },
+    {
+      "schema_version": "collection_manifest_v1",
+      "id": "grade-11-social-studies",
+      "label": "U.S. History Social Studies",
+      "grade": 11,
+      "subject": "Social Studies",
+      "status": "ready",
+      "root": "collections/grade-11/social-studies",
+      "source_pdf": "collections/grade-11/social-studies/source/sshistory.pdf",
+      "catalog": "collections/grade-11/social-studies/data/staar_catalog.json",
+      "reports": {
+        "coverage_csv": "collections/grade-11/social-studies/reports/pdf_coverage_report.csv",
+        "coverage_md": "collections/grade-11/social-studies/reports/pdf_coverage_report.md",
+        "coverage_summary_json": "collections/grade-11/social-studies/reports/pdf_coverage_summary.json"
+      },
+      "images_dir": "collections/grade-11/social-studies/images/extracted",
+      "stimulus_images_dir": "collections/grade-11/social-studies/images/stimuli",
+      "vision_cache_dir": "collections/grade-11/social-studies/cache/vision"
     }
   ]
 }

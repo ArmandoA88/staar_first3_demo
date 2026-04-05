@@ -1,0 +1,30 @@
+{
+  "stem": "The reader can conclude that the speaker is \u2014",
+  "instruction": "Read this sentence from lines 7 through 9.\n\nBelieve that bees\nby the billions find unidentified flowers\non unmapped marshes and mountains.",
+  "options": [
+    {
+      "label": "A",
+      "text": "awestruck by nature"
+    },
+    {
+      "label": "B",
+      "text": "fearful of nature"
+    },
+    {
+      "label": "C",
+      "text": "confused by nature"
+    },
+    {
+      "label": "D",
+      "text": "intimidated by nature"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Believe that bees by the billions find unidentified flowers on unmapped marshes and mountains."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

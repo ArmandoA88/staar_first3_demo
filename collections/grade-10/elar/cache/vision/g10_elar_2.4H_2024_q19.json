@@ -1,0 +1,31 @@
+{
+  "stem": "What do this quotation and these lines suggest about the **DIFFERENCE** between an octopus and a narwhal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An octopus can use tools for its protection, but a narwhal cannot."
+    },
+    {
+      "label": "B",
+      "text": "An octopus pauses to evaluate potential threats, but a narwhal does not."
+    },
+    {
+      "label": "C",
+      "text": "An octopus can hide from things it fears, but a narwhal is fierce."
+    },
+    {
+      "label": "D",
+      "text": "An octopus shows interest in observing humans, but a narwhal fears humans."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "quotation: though it was interested in checking us out, it was also ready, if necessary, to pull the shell down like a lid and disappear into the seafloor. (paragraph 6, \u201cWhat the Octopus Knows\u201d)",
+    "lines: you whirl open to devour prey whole. I would expect nothing less. (lines 9\u201310, \u201cNarwhals Are Real\u201d)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

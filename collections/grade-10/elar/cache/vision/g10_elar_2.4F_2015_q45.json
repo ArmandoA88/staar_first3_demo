@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason why the author includes this description of the foreigner's actions?",
+  "instruction": "Read this sentence from paragraph 16.\n\nThe wind was strong and the rain was heavy, but the foreigner held up one of his massive hands to protect the small gift safely tucked onto the palm of the other.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To demonstrate how valuable the gift is to him"
+    },
+    {
+      "label": "B",
+      "text": "To reveal that he is hesitant to accept the gift"
+    },
+    {
+      "label": "C",
+      "text": "To suggest that the wind and rain have isolated him"
+    },
+    {
+      "label": "D",
+      "text": "To illustrate how much he wants to be accepted"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The wind was strong and the rain was heavy, but the foreigner held up one of his massive hands to protect the small gift safely tucked onto the palm of the other."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

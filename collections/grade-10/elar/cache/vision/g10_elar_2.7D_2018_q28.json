@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely reason the author wrote the article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To recall how his love of trekking in the Himalaya in Nepal developed"
+    },
+    {
+      "label": "G",
+      "text": "To show readers that bringing broadband service to the Himalaya is dangerous"
+    },
+    {
+      "label": "H",
+      "text": "To convince readers that Internet service has changed the experience of trekking the Himalaya"
+    },
+    {
+      "label": "J",
+      "text": "To criticize the growing popularity of Mount Everest with climbers and tourists"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

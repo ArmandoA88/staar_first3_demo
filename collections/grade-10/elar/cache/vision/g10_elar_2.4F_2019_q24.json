@@ -1,0 +1,30 @@
+{
+  "stem": "In this paragraph, the author uses imagery to \u2014",
+  "instruction": "Read paragraph 15.\n\nHis old scaly hand crawls over to touch my knee. His fingers are white, the nails cracking and dull, like old silver.",
+  "options": [
+    {
+      "label": "F",
+      "text": "show the son\u2019s fear of being touched by his father"
+    },
+    {
+      "label": "G",
+      "text": "imply that the father may not really be dying after all"
+    },
+    {
+      "label": "H",
+      "text": "emphasize how aged and decrepit the father appears to his son"
+    },
+    {
+      "label": "J",
+      "text": "suggest that the son has little respect for his father"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "His old scaly hand crawls over to touch my knee. His fingers are white, the nails cracking and dull, like old silver."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

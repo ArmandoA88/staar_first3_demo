@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most effective way to revise sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Each day the penguins that leave their burrows head out to sea for spending the day swimming and feeding."
+    },
+    {
+      "label": "B",
+      "text": "Each day the penguins head out to sea to spend the day swimming and feeding, leaving their burrows."
+    },
+    {
+      "label": "C",
+      "text": "Each day the penguins leave their burrows they head out to sea to spend the day swimming and feeding."
+    },
+    {
+      "label": "D",
+      "text": "Each day the penguins leave their burrows and head out to sea to spend the day swimming and feeding."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

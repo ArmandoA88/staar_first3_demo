@@ -1,0 +1,30 @@
+{
+  "stem": "What detail is left unresolved at the end of the selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Whether the cabin will be secured after Jimmy and his father leave"
+    },
+    {
+      "label": "B",
+      "text": "Whether Jimmy can fully accept his father\u2019s authority"
+    },
+    {
+      "label": "C",
+      "text": "Jimmy\u2019s feelings about leaving the cabin"
+    },
+    {
+      "label": "D",
+      "text": "The final destination for Jimmy and his father"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Read the dialogue in paragraphs 11 through 24. When considered with this dialogue, which sentence reveals that Jimmy is hiding his true feelings from his father?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I wished we were just going on a fishing trip and not going away."
+    },
+    {
+      "label": "B",
+      "text": "I looked all around the kitchen to remember it and I was awfully fond of it."
+    },
+    {
+      "label": "C",
+      "text": "It was still dark but along the edge of the hills it was lightening."
+    },
+    {
+      "label": "D",
+      "text": "It was lighter than when I started to climb the ladder and it was cold and very early in the morning."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A I wished we were just going on a fishing trip and not going away.",
+    "B I looked all around the kitchen to remember it and I was awfully fond of it.",
+    "C It was still dark but along the edge of the hills it was lightening.",
+    "D It was lighter than when I started to climb the ladder and it was cold and very early in the morning."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

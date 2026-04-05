@@ -1,0 +1,33 @@
+{
+  "stem": "In the poem, the words \u201cIt was an ordinary morning\u201d function as a way of \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "indicating that the poem is about everyday events"
+    },
+    {
+      "label": "B",
+      "text": "contrasting something unexpected that happens in the poem"
+    },
+    {
+      "label": "C",
+      "text": "suggesting that the speaker leads an uneventful life"
+    },
+    {
+      "label": "D",
+      "text": "introducing the various routines that occur on normal days"
+    }
+  ],
+  "choice_pool": [
+    "indicating that the poem is about everyday events",
+    "contrasting something unexpected that happens in the poem",
+    "suggesting that the speaker leads an uneventful life",
+    "introducing the various routines that occur on normal days"
+  ],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

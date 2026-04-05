@@ -1,0 +1,36 @@
+{
+  "stem": "Based on details from the story \u201cMoon Landing\u201d and the poem \u201cThe Apollo 11 Moon Landing,\u201d determine whether each inference can be made about Anna, about the poem\u2019s speaker, or about BOTH.",
+  "instruction": "Select the correct answer in each row.",
+  "options": [
+    {
+      "label": "Anna",
+      "text": "Enjoys spending time with family"
+    },
+    {
+      "label": "Poem\u2019s Speaker",
+      "text": "Notices the beauty of the moon"
+    },
+    {
+      "label": "BOTH",
+      "text": "Longs for something out of reach"
+    },
+    {
+      "label": "Anna",
+      "text": "Wants the moon to notice daily human life"
+    }
+  ],
+  "choice_pool": [
+    "Anna",
+    "Poem\u2019s Speaker",
+    "BOTH"
+  ],
+  "response_template": "[blank_1], [blank_2], [blank_3], [blank_4]",
+  "visual_elements": [
+    "Table with columns: Inference, Anna, Poem\u2019s Speaker, BOTH",
+    "Rows with inferences: Enjoys spending time with family, Notices the beauty of the moon, Longs for something out of reach, Wants the moon to notice daily human life",
+    "Checkboxes for each inference under Anna, Poem\u2019s Speaker, and BOTH columns"
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 0.99,
+  "notes": "Options reorganized as rows with labels for each possible selection; response template uses placeholders for each row's answer."
+}

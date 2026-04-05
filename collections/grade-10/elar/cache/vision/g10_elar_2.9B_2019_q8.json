@@ -1,0 +1,35 @@
+{
+  "stem": "What is the most effective way to revise sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Also consider that many bottles are discarded into landfills, where the bottles release chemicals as they decompose over hundreds of years."
+    },
+    {
+      "label": "G",
+      "text": "Also consider that landfills are filled with released chemicals, where they decompose many discarded bottles over hundreds of years."
+    },
+    {
+      "label": "H",
+      "text": "These bottles, decomposing over hundreds of years, should also be considered to release chemicals where they have been discarded into landfills."
+    },
+    {
+      "label": "J",
+      "text": "Over hundreds of years, landfills are filled with many bottles, and it should also be considered that the bottles decompose and release chemicals."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 \u2013 Q8 Passage #2",
+    "What is the most effective way to revise sentence 21?",
+    "F  Also consider that many bottles are discarded into landfills, where the bottles release chemicals as they decompose over hundreds of years.",
+    "G  Also consider that landfills are filled with released chemicals, where they decompose many discarded bottles over hundreds of years.",
+    "H  These bottles, decomposing over hundreds of years, should also be considered to release chemicals where they have been discarded into landfills.",
+    "J  Over hundreds of years, landfills are filled with many bottles, and it should also be considered that the bottles decompose and release chemicals."
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.98,
+  "notes": null
+}

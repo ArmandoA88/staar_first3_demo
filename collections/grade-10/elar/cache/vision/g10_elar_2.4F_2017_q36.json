@@ -1,0 +1,28 @@
+{
+  "stem": "What is one similarity between the authors of the two essays?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They both wish to experience a connection with animals."
+    },
+    {
+      "label": "G",
+      "text": "They both suggest that human intervention is harmful to wildlife."
+    },
+    {
+      "label": "H",
+      "text": "They both think that wild animals are healthier when left in their natural habitat."
+    },
+    {
+      "label": "J",
+      "text": "They both believe that animals behave most naturally when not being observed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

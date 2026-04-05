@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these best describes the structure of the poem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A regular pattern of rhyming couplets"
+    },
+    {
+      "label": "B",
+      "text": "Triplets of three successive rhyming lines"
+    },
+    {
+      "label": "C",
+      "text": "Unrhymed lines all in the same meter"
+    },
+    {
+      "label": "D",
+      "text": "Free verse with no rhyme or meter"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

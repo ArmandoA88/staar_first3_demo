@@ -1,0 +1,34 @@
+{
+  "stem": "Which definition best matches the use of the word exercises in line 36?",
+  "instruction": "Read the following dictionary entry.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Definition 1"
+    },
+    {
+      "label": "G",
+      "text": "Definition 2"
+    },
+    {
+      "label": "H",
+      "text": "Definition 3"
+    },
+    {
+      "label": "J",
+      "text": "Definition 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "exercise \\ \u02c8ek-s\u0259r-\u02ccs\u012bz\\ n",
+    "1. an act of employing or putting into play; use",
+    "2. the discharge of a duty, function, or office",
+    "3. activity that requires physical exertion, especially when performed to develop or maintain fitness",
+    "4. a task, problem, or other effort performed to increase skill"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

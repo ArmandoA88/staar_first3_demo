@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence describes a shift in the poem\u2019s focus?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "In stanza 1, the speaker focuses on his daughter\u2019s creative struggles, while in stanza 2, he imagines her eventual success as an artist."
+    },
+    {
+      "label": "B",
+      "text": "In stanza 1, the speaker focuses on his daughter\u2019s paintings, while in stanza 2, he describes his own artwork."
+    },
+    {
+      "label": "C",
+      "text": "In stanza 1, the speaker focuses on his daughter\u2019s art as an expression of childhood, while in stanza 2, he considers her future as a mature artist."
+    },
+    {
+      "label": "D",
+      "text": "In stanza 1, the speaker focuses on his daughter\u2019s early artistic success, while in stanza 2, he questions whether she should pursue a career as a painter."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

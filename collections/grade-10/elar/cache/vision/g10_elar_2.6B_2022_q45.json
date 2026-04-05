@@ -1,0 +1,30 @@
+{
+  "stem": "What does the line suggest about Anna Maria?",
+  "instruction": "Read line 17.",
+  "options": [
+    {
+      "label": "A",
+      "text": "She is solely responsible for exploiting Wolfgang\u2019s musical talent."
+    },
+    {
+      "label": "B",
+      "text": "She is untrusting of those who come to visit Wolfgang."
+    },
+    {
+      "label": "C",
+      "text": "She is cordial in order to promote Wolfgang\u2019s success."
+    },
+    {
+      "label": "D",
+      "text": "She is hopeful Wolfgang will help the family win a place in society."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "ANNA MARIA: [Clicking into role.] It is our pleasure to welcome all into our home who desire to see our talented son."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Kate thinks there is a sentence in the fourth paragraph (sentences 15\u201321) that should be deleted. Reread the paragraph. Which sentence, if any, should be deleted from this paragraph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sentence 17"
+    },
+    {
+      "label": "B",
+      "text": "Sentence 18"
+    },
+    {
+      "label": "C",
+      "text": "Sentence 20"
+    },
+    {
+      "label": "D",
+      "text": "No sentence should be deleted from the paragraph."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

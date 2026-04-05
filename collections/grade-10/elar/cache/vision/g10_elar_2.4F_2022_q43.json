@@ -1,0 +1,30 @@
+{
+  "stem": "What does Anna Maria\u2019s reaction in line 60 of the play suggest about how she feels concerning Leopold\u2019s insistence?",
+  "instruction": "Read line 60.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Leopold is discouraged."
+    },
+    {
+      "label": "B",
+      "text": "Leopold is ambitious."
+    },
+    {
+      "label": "C",
+      "text": "Leopold is protective."
+    },
+    {
+      "label": "D",
+      "text": "Leopold is confused."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "ANNA MARIA: You are using our child to prove something\u2014something to a group of people whom you despise."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

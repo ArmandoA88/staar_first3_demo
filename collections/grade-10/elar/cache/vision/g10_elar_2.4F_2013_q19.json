@@ -1,0 +1,31 @@
+{
+  "stem": "Which of these best states the poem\u2019s theme?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Although children may disagree with their elders, family bonds remain strong."
+    },
+    {
+      "label": "B",
+      "text": "Sentiment is a waste of time and energy."
+    },
+    {
+      "label": "C",
+      "text": "Progress can be judged only by an impartial observer."
+    },
+    {
+      "label": "D",
+      "text": "Even in the midst of historic change, some things remain constant."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2013 \u2013 Q19 Passage #3",
+    "19"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

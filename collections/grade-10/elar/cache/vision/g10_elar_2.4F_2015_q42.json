@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence from the story supports the theme of the interconnectedness of humanity?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Foreigners like to hear their English and he wasn\u2019t going to get the sound of it from anywhere but his own mouth."
+    },
+    {
+      "label": "G",
+      "text": "He was doing something kind for her, and all she could think of were the rumors about him."
+    },
+    {
+      "label": "H",
+      "text": "Maybe what her friend had told her about foreigners eating pizza for breakfast, lunch and dinner was true after all."
+    },
+    {
+      "label": "J",
+      "text": "She had recycled his culture, refined it with her own and then given it to him."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}
