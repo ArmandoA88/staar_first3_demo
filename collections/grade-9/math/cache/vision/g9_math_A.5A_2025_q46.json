@@ -1,0 +1,30 @@
+{
+  "stem": "Which value of v makes this equation true?\n\n\\( \\frac{v - 6}{5} = \\frac{v + 10}{2} \\)",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "- \\frac{62}{3}"
+    },
+    {
+      "label": "B",
+      "text": "- \\frac{16}{3}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{38}{7}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{11}{7}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{v - 6}{5} = \\frac{v + 10}{2} \\)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

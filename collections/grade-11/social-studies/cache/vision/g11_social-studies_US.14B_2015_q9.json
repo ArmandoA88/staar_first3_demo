@@ -1,0 +1,30 @@
+{
+  "stem": "There is hereby created [an agency] . . . , which purpose is to conserve the scenery and the natural and historic objects and the wild life therein and to provide for the enjoyment of the same in such manner and by such means as will leave them unimpaired for the enjoyment of future generations.\n\n\u2014Mission statement for the ______, 1916",
+  "instruction": "Which agency name belongs on the blank line?",
+  "options": [
+    {
+      "label": "A",
+      "text": "U.S. Geological Survey"
+    },
+    {
+      "label": "B",
+      "text": "National Park Service"
+    },
+    {
+      "label": "C",
+      "text": "Bureau of Reclamation"
+    },
+    {
+      "label": "D",
+      "text": "U.S. Border Patrol"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text box with mission statement and a blank line labeled with a question mark"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

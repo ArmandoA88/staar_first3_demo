@@ -1,0 +1,30 @@
+{
+  "stem": "What was the main idea of this political cartoon?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The United States expanded immigration from other countries."
+    },
+    {
+      "label": "B",
+      "text": "The United States mediated conflicts between other countries."
+    },
+    {
+      "label": "C",
+      "text": "The United States traded natural resources to other countries."
+    },
+    {
+      "label": "D",
+      "text": "The United States supported voting rights in other countries."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Political cartoon titled The World's Constable showing President Theodore Roosevelt holding a big stick labeled 'The New Diplomacy' mediating between groups of people representing different countries."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

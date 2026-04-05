@@ -1,0 +1,45 @@
+{
+  "stem": "What is the equation of the asymptote of the graph of the function \\( y = 16(0.75)^x \\)?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "x"
+    },
+    {
+      "label": null,
+      "text": "y"
+    },
+    {
+      "label": null,
+      "text": "0"
+    },
+    {
+      "label": null,
+      "text": "0.75"
+    },
+    {
+      "label": null,
+      "text": "12"
+    },
+    {
+      "label": null,
+      "text": "16"
+    }
+  ],
+  "choice_pool": [
+    "x",
+    "y",
+    "0",
+    "0.75",
+    "12",
+    "16"
+  ],
+  "response_template": "[blank_1] = [blank_2]",
+  "visual_elements": [
+    "y = 16(0.75)^x"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

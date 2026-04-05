@@ -1,0 +1,32 @@
+{
+  "stem": "This diagram indicates that during World War II the federal government \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "provided technological training for soldiers on the battlefield"
+    },
+    {
+      "label": "G",
+      "text": "developed a new weapon designed to gain a strategic advantage over enemies"
+    },
+    {
+      "label": "H",
+      "text": "instituted a disaster-preparedness program for the civilian population"
+    },
+    {
+      "label": "J",
+      "text": "nationalized industries considered essential to national security"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Onset of World War II",
+    "Acceleration of the Manhattan Project",
+    "arrow connecting the two boxes"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

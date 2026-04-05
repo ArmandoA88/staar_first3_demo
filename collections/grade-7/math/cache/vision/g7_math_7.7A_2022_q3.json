@@ -1,0 +1,33 @@
+{
+  "stem": "Nicole had a collection of 60 stuffed animals. She gave away 5 stuffed animals per month until all her stuffed animals were gone.\n\nWhich graph best represents this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph A: Number of stuffed animals starts at 60 and decreases linearly to 0 over 12 months."
+    },
+    {
+      "label": "B",
+      "text": "Graph B: Number of stuffed animals starts around 60 and increases to about 120 over 12 months."
+    },
+    {
+      "label": "C",
+      "text": "Graph C: Number of stuffed animals starts at 0 and increases drastically to about 780 over 12 months."
+    },
+    {
+      "label": "D",
+      "text": "Graph D: Number of stuffed animals starts at about 600 and decreases linearly to 0 over 12 months."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A",
+    "Graph B",
+    "Graph C",
+    "Graph D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

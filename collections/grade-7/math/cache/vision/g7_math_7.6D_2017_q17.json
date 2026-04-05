@@ -1,0 +1,30 @@
+{
+  "stem": "The spinner shown has eight congruent sections.\n\nThe spinner is spun 120 times. What is a reasonable prediction for the number of times the spinner will land on an even number?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "75"
+    },
+    {
+      "label": "B",
+      "text": "45"
+    },
+    {
+      "label": "C",
+      "text": "15"
+    },
+    {
+      "label": "D",
+      "text": "40"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circle divided into 8 congruent sections labelled 1, 9, 5, 3, 2, 16, 11, 8 with an arrow pointing up at the boundary between 1 and 9"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

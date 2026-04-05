@@ -1,0 +1,28 @@
+{
+  "stem": "There are 15 plates in a kitchen cabinet. The diameter of each plate is either 7 inches or 12 inches. The diameter of all 15 plates combined is 140 inches.\n\nWhich system of equations can be used to find the number of 7-inch plates, x, and the number of 12-inch plates, y, that are in the cabinet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x + y = 140\n12x + 7y = 15"
+    },
+    {
+      "label": "B",
+      "text": "7x + 12y = 140\n7x + 12y = 15"
+    },
+    {
+      "label": "C",
+      "text": "x + y = 15\n7x + 12y = 140"
+    },
+    {
+      "label": "D",
+      "text": "x + y = 15\n12x + 7y = 140"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

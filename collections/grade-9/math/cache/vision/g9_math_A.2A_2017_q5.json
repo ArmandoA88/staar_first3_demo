@@ -1,0 +1,28 @@
+{
+  "stem": "A set of weights includes a 4 lb barbell and 6 pairs of weight plates. Each pair of plates weighs 20 lb. If x pairs of plates are added to the barbell, the total weight of the barbell and plates in pounds can be represented by f(x) = 20x + 4.\n\nWhat is the range of the function for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "{0, 1, 2, 3, 4, 5, 6}"
+    },
+    {
+      "label": "B",
+      "text": "{4, 24, 44, 64, 84, 104, 124}"
+    },
+    {
+      "label": "C",
+      "text": "{0, 2, 4, 6}"
+    },
+    {
+      "label": "D",
+      "text": "{4, 44, 84, 124}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

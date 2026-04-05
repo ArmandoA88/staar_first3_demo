@@ -1,0 +1,28 @@
+{
+  "stem": "Bailey will roll a number cube and flip a coin for a probability experiment. The faces of the number cube are labeled 1 through 6. The coin can land on heads or tails. If Bailey rolls the number cube once and flips the coin once, which list contains only the outcomes in which the number cube lands on a number greater than 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5, Heads\n5, Tails\n6, Heads\n6, Tails"
+    },
+    {
+      "label": "B",
+      "text": "5, Heads\n6, Tails"
+    },
+    {
+      "label": "C",
+      "text": "1, Heads\n1, Tails\n2, Heads\n2, Tails\n3, Heads\n3, Tails\n4, Heads\n4, Tails\n5, Heads\n5, Tails\n6, Heads\n6, Tails"
+    },
+    {
+      "label": "D",
+      "text": "4, Heads\n4, Tails\n5, Heads\n5, Tails\n6, Heads\n6, Tails"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

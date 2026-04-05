@@ -1,0 +1,30 @@
+{
+  "stem": "A construction worker built steps up to a home. The table shows the linear relationship between the height off the ground in inches and the number of steps.\n\nStep Construction\n\n| Number of Steps | Height (inches) |\n|-----------------|-----------------|\n|        3        |       21        |\n|        5        |       35        |\n|        7        |       49        |\n|        9        |       63        |\n|       11        |       77        |\n\nWhat is the rate of change of height off the ground with respect to the number of steps?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "14 in. per step"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{1}{7} in. per step"
+    },
+    {
+      "label": "C",
+      "text": "7 in. per step"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{1}{14} in. per step"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with Number of Steps and Height (inches) columns containing values (3,21), (5,35), (7,49), (9,63), (11,77)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

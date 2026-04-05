@@ -1,0 +1,30 @@
+{
+  "stem": "Which factor facilitated statehood for the darker-shaded areas?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The introduction of barbed wire throughout the Great Plains"
+    },
+    {
+      "label": "B",
+      "text": "The expansion of railway lines throughout the West"
+    },
+    {
+      "label": "C",
+      "text": "The acceptance of Mormons by other religious sects in the East"
+    },
+    {
+      "label": "D",
+      "text": "The peaceful integration of settlers with American Indian populations"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map titled 'Years of Statehood for Selected States, 1889-1896' showing darker-shaded states with years 1889, 1890, 1896"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following contributed to President Truman's decision to issue this order?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A lack of funding for veteran pensions"
+    },
+    {
+      "label": "B",
+      "text": "Declining enlistment rates during peacetime"
+    },
+    {
+      "label": "C",
+      "text": "Discrimination against minority service members"
+    },
+    {
+      "label": "D",
+      "text": "A desire to repeal the draft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "It is hereby declared to be the policy of the President that there shall be equality of treatment and opportunity for all persons in the armed services without regard to race, color, religion or national origin. This policy shall be put into effect as rapidly as possible, having due regard to the time required to effectuate any necessary changes without impairing efficiency or morale. \u2014President Harry S. Truman, Executive Order 9981, July 26, 1948"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

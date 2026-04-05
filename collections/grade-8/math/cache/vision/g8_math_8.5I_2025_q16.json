@@ -1,0 +1,40 @@
+{
+  "stem": "A linear relationship includes the ordered pairs (1, 2) and (5, 7). Write an equation in slope-intercept form that can be used to model the relationship.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "0.75"
+    },
+    {
+      "label": null,
+      "text": "0.8"
+    },
+    {
+      "label": null,
+      "text": "1.2"
+    },
+    {
+      "label": null,
+      "text": "1.25"
+    },
+    {
+      "label": null,
+      "text": "1.4"
+    }
+  ],
+  "choice_pool": [
+    "0.75",
+    "0.8",
+    "1.2",
+    "1.25",
+    "1.4"
+  ],
+  "response_template": "y = [blank_1] x + [blank_2]",
+  "visual_elements": [
+    "equation y = box x + box"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.95,
+  "notes": "Based on the drag and drop answer format with numbers to place in the equation."
+}

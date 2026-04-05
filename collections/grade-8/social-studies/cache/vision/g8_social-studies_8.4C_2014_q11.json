@@ -1,0 +1,30 @@
+{
+  "stem": "To which of the following is Abigail Adams referring in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The American victory at the Battle of Yorktown"
+    },
+    {
+      "label": "B",
+      "text": "The negotiation of the Treaty of Paris by American diplomats"
+    },
+    {
+      "label": "C",
+      "text": "The bravery of American soldiers at Valley Forge"
+    },
+    {
+      "label": "D",
+      "text": "The arrival of French aid after the Battle of Saratoga"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "America may boast that she has accomplished what no power before her ever did, contending with Britain\u2014Captured two of their celebrated Generals and each an Army of thousands of veteran Troops to support them. \u2014Abigail Adams, letter to John Adams, December 9, 1781"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

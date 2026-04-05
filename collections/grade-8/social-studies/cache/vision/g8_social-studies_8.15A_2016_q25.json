@@ -1,0 +1,30 @@
+{
+  "stem": "Which political idea was influenced by this provision of the Magna Carta?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Federalism"
+    },
+    {
+      "label": "B",
+      "text": "Due process"
+    },
+    {
+      "label": "C",
+      "text": "A bicameral legislature"
+    },
+    {
+      "label": "D",
+      "text": "The social contract"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "No free man shall be seized or imprisoned, or stripped of his rights or possessions, or outlawed or exiled, or deprived of his standing in any other way, nor will we proceed with force against him, or send others to do so, except by the lawful judgement of his equals or by the law of the land. \u2014Magna Carta, 1215"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "stem": "Which sentence best completes this sequence of events?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The temperance movement begins."
+    },
+    {
+      "label": "B",
+      "text": "Religious schools are granted federal aid."
+    },
+    {
+      "label": "C",
+      "text": "Protest music becomes a popular genre."
+    },
+    {
+      "label": "D",
+      "text": "Gospel music gains national attention."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "African Americans organize black churches in the South during the post-Reconstruction era.",
+    "Northern black churches are influenced by southerners during the Great Migration.",
+    "?"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

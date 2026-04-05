@@ -1,0 +1,30 @@
+{
+  "stem": "Quadrilateral KLMN is similar to quadrilateral WXYZ.\n\nWhich statement about these quadrilaterals must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{KL}{WX} = \\frac{WZ}{KN}"
+    },
+    {
+      "label": "G",
+      "text": "Angle NKL is congruent to angle ZWX."
+    },
+    {
+      "label": "H",
+      "text": "\\frac{KL}{YZ} = \\frac{LM}{ZW}"
+    },
+    {
+      "label": "J",
+      "text": "Angle NKL is congruent to angle XYZ."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two quadrilaterals labeled with vertices: KLMN and WXYZ."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

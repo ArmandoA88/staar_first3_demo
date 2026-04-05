@@ -1,0 +1,30 @@
+{
+  "stem": "A monthly budget with expenses is shown.\n\nM O N T H L Y   B U D G E T\nfor a family of three\nin San Antonio, Texas\n\nRent $870\nFood $550\nChild care $375\nTransportation $480\nUtilities $400\nInsurance $235\nSavings $400\nTaxes $290\nMonthly total",
+  "instruction": "Which equation can be used to determine y, the minimum amount of money a family must earn to meet the requirements of this budget for one year?",
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 3,600 \\times 12"
+    },
+    {
+      "label": "B",
+      "text": "y = 3,600 \\div 7"
+    },
+    {
+      "label": "C",
+      "text": "y = 3,600 \\times 4"
+    },
+    {
+      "label": "D",
+      "text": "y = 3,600 \\div 52"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Monthly budget table with expenses and amounts"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

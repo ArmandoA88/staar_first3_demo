@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Doing to When we do"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after though"
+    },
+    {
+      "label": "C",
+      "text": "Change preferances to preferences"
+    },
+    {
+      "label": "D",
+      "text": "Change simply to simple"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

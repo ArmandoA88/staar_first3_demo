@@ -1,0 +1,35 @@
+{
+  "stem": "Which examples reflect the constitutional principles of either limited government, separation of powers, or federalism?\n\nMove the correct answer to each box in the table. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "People are governed by state and national laws."
+    },
+    {
+      "label": null,
+      "text": "Cruel punishments and excessive fines are prohibited."
+    },
+    {
+      "label": null,
+      "text": "Only Congress can make laws."
+    },
+    {
+      "label": null,
+      "text": "People can serve in the military."
+    }
+  ],
+  "choice_pool": [
+    "People are governed by state and national laws.",
+    "Cruel punishments and excessive fines are prohibited.",
+    "Only Congress can make laws.",
+    "People can serve in the military."
+  ],
+  "response_template": "Limited government: [blank_1]\nSeparation of powers: [blank_2]\nFederalism: [blank_3]",
+  "visual_elements": [
+    "table with Constitutional Principle and Example columns with three rows: Limited government, Separation of powers, Federalism"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

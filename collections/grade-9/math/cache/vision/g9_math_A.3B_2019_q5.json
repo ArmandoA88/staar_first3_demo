@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the linear relationship between the average height in feet of trees on a tree farm and the number of years since the trees were planted.\n\nAverage Tree Height\n\n| Number of Years Since the Trees Were Planted | 1 | 3 | 6 | 11 | 15 |\n|----------------------------------------------|---|---|---|----|----|\n| Average Height (ft)                           |10 |24 |45 | 80 |108 |\n\nWhat is the rate of change of the average height in feet of the trees on the farm with respect to the number of years since the trees were planted?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "14 ft/yr"
+    },
+    {
+      "label": "B",
+      "text": "3 ft/yr"
+    },
+    {
+      "label": "C",
+      "text": "7 ft/yr"
+    },
+    {
+      "label": "D",
+      "text": "10 ft/yr"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing years since trees were planted and average height in feet with values: 1->10, 3->24, 6->45, 11->80, 15->108"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

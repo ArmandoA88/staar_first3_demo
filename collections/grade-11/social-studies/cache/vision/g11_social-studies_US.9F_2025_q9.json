@@ -1,0 +1,30 @@
+{
+  "stem": "Which action did Dr. King recommend for achieving the \u201cnew frontier\u201d described in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Making efforts to peacefully integrate people of different backgrounds"
+    },
+    {
+      "label": "B",
+      "text": "Petitioning to permanently close segregated businesses and facilities"
+    },
+    {
+      "label": "C",
+      "text": "Avoiding disagreements with supporters of segregation"
+    },
+    {
+      "label": "D",
+      "text": "Relocating to states where integration was less common"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "And so, many bright [intelligent] young men and women . . . realize that the new frontier will be \u201cintegration\u201d rather than \u201cdesegregation\u201d and that this makes quite a difference.\n\n\u2014Martin Luther King, Jr., \u201cAfter Desegregation\u2014What,\u201d April 27, 1961"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

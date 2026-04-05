@@ -1,0 +1,31 @@
+{
+  "stem": "A model of the genetic control of coat color in rabbits is shown.\n\nAllele | Phenotype | Inheritance\nC      | Black     | Dominant to all other alleles\nc^ch   | Chinchilla| Recessive to C; Dominant to c^h and c\nc^h    | Himalayan | Recessive to C and c^ch; Dominant to c\nc      | Albino    | Recessive to all other alleles\n\nWhich Punnett square represents a cross that would produce albino offspring?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[Punnett square with c^ch and C on top; c^h and c on side]"
+    },
+    {
+      "label": "B",
+      "text": "[Punnett square with c^ch and c^h on top; c^h and c on side]"
+    },
+    {
+      "label": "C",
+      "text": "[Punnett square with C and c^ch on top; c^h and c^h on side]"
+    },
+    {
+      "label": "D",
+      "text": "[Punnett square with c^ch and c^h on top; c^h and c^h on side]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table of Allele, Phenotype, and Inheritance with 4 rows: C-Black; c^ch-Chinchilla; c^h-Himalayan; c-Albino",
+    "Four Punnett squares labeled A, B, C, and D with various combinations of c, c^ch, c^h, and C alleles"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Quadrilateral \\(PQRS\\) was translated 5 units to the right and 3 units up to create quadrilateral \\(P'Q'R'S'\\). Which rule describes this transformation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\((x,y) \\to (x - 5, y - 3)\\)"
+    },
+    {
+      "label": "G",
+      "text": "\\((x,y) \\to (x + 5, y + 3)\\)"
+    },
+    {
+      "label": "H",
+      "text": "\\((x,y) \\to (x - 3, y - 5)\\)"
+    },
+    {
+      "label": "J",
+      "text": "\\((x,y) \\to (x + 3, y + 5)\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

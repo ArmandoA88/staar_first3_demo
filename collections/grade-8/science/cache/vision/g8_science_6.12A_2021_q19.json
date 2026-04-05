@@ -1,0 +1,30 @@
+{
+  "stem": "Three different species of plants that live in the desert are shown.\n\nSpecies Z can successfully share the same environment with the other plants shown because species Z absorbs water \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "found deep underground, and species X absorbs water near the soil surface"
+    },
+    {
+      "label": "B",
+      "text": "found deep underground, and species X absorbs water found deep underground"
+    },
+    {
+      "label": "C",
+      "text": "near the soil surface, and species Y absorbs water near the soil surface"
+    },
+    {
+      "label": "D",
+      "text": "near the soil surface, and species Y absorbs water found deep underground"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of three plants labeled Species X, Species Y, Species Z with roots at different soil depths."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

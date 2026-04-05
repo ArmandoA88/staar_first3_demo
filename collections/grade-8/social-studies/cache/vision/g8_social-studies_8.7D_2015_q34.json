@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best explains the changes shown in this table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Slaves from the Upper South were moved to the Lower South to work on cotton plantations."
+    },
+    {
+      "label": "G",
+      "text": "The Upper South experienced an agricultural labor shortage in the antebellum period."
+    },
+    {
+      "label": "H",
+      "text": "Slaves were transferred from the Lower South to the Upper South to work in newly built factories."
+    },
+    {
+      "label": "J",
+      "text": "The Lower South lost population as settlers migrated west to establish new plantations."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Enslaved Populations of Selected States' with columns State, 1830, 1840, 1850 and rows Delaware, Maryland, Virginia, Tennessee, Alabama, Mississippi with enslaved population numbers for each year."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which function is best represented by this graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = \\frac{1}{2}x + 6"
+    },
+    {
+      "label": "G",
+      "text": "y = -2x + 3"
+    },
+    {
+      "label": "H",
+      "text": "y = 2x + 6"
+    },
+    {
+      "label": "J",
+      "text": "y = -\\frac{1}{2}x + 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane with a line passing through (0,3) with negative slope"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

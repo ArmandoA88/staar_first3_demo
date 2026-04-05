@@ -1,0 +1,38 @@
+{
+  "stem": "Which statement about f(x) = 2x^2 - 3x - 5 is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The zeros are -\\frac{5}{2} and -1, because f(x) = (x + 1)(2x + 5)."
+    },
+    {
+      "label": "B",
+      "text": "The zeros are -\\frac{5}{2} and 1, because f(x) = (x - 1)(2x + 5)."
+    },
+    {
+      "label": "C",
+      "text": "The zeros are -1 and \\frac{5}{2}, because f(x) = (x + 1)(2x - 5)."
+    },
+    {
+      "label": "D",
+      "text": "The zeros are 1 and \\frac{5}{2}, because f(x) = (x - 1)(2x - 5)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "f(x) = 2x^2 - 3x - 5",
+    "-\\frac{5}{2}",
+    "-1",
+    "1",
+    "\\frac{5}{2}",
+    "(x + 1)(2x + 5)",
+    "(x - 1)(2x + 5)",
+    "(x + 1)(2x - 5)",
+    "(x - 1)(2x - 5)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

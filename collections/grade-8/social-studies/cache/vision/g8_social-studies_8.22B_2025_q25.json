@@ -1,0 +1,35 @@
+{
+  "stem": "Why is John Paul Jones a significant figure in U.S. history?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He is considered to be the best Union general in the Civil War."
+    },
+    {
+      "label": "B",
+      "text": "He was the first chief justice of the U.S. Supreme Court."
+    },
+    {
+      "label": "C",
+      "text": "He is considered to be a founder of the U.S. Navy."
+    },
+    {
+      "label": "D",
+      "text": "He was the writer of the Declaration of Independence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2025 \u2013 Q25",
+    "Why is John Paul Jones a significant figure in U.S. history?",
+    "A He is considered to be the best Union general in the Civil War.",
+    "B He was the first chief justice of the U.S. Supreme Court.",
+    "C He is considered to be a founder of the U.S. Navy.",
+    "D He was the writer of the Declaration of Independence."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

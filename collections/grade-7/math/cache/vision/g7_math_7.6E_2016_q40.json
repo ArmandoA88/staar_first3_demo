@@ -1,0 +1,30 @@
+{
+  "stem": "The spinner shown is divided into congruent sections that are labeled from 1 through 7.\n\nIf the spinner is spun one time, what is the probability of the arrow not landing on a section labeled with an odd number?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "4/7"
+    },
+    {
+      "label": "G",
+      "text": "3/4"
+    },
+    {
+      "label": "H",
+      "text": "1/4"
+    },
+    {
+      "label": "J",
+      "text": "3/7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A circular spinner divided into 7 congruent sections labeled 1, 2, 3, 4, 5, 6, 7 with an arrow pointing at section 4."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

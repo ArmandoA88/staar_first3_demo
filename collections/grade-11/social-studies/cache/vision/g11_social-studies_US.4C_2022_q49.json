@@ -1,0 +1,32 @@
+{
+  "stem": "Which additional reason BEST completes this list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Increase trade with Asian nations"
+    },
+    {
+      "label": "B",
+      "text": "Assist the Allied powers against German aggression"
+    },
+    {
+      "label": "C",
+      "text": "Retaliate against Germany for imposing high tariffs"
+    },
+    {
+      "label": "D",
+      "text": "Prevent fascism from spreading throughout Europe"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\u2022 Assert American rights to \u201cfreedom of the seas\u201d",
+    "\u2022 Stop German plans to aid Mexico",
+    "\u2022 _____________________ ?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

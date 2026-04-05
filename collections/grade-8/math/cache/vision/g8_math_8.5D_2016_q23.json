@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the average number of hours each of 13 people spends at work every week and the average number of hours each of them spends on recreational activities every week.\n\nBased on the scatterplot, what is the best prediction of the average number of hours a person spends at work every week if that person spends an average of 10 hours on recreational activities every week?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "33 h"
+    },
+    {
+      "label": "B",
+      "text": "85 h"
+    },
+    {
+      "label": "C",
+      "text": "50 h"
+    },
+    {
+      "label": "D",
+      "text": "65 h"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled Working and Relaxing, x-axis labeled Work (hours) from 0 to 90 in increments of 10, y-axis labeled Recreational Activities (hours) from 0 to 40 in increments of 5. The scatterplot points form a downward trend from about (10,35) to (50,15)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

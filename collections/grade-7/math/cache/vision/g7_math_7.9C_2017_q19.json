@@ -1,0 +1,30 @@
+{
+  "stem": "A figure was created using a triangle and a semicircle. Use the ruler provided to measure the dimensions of the triangle and the semicircle to the nearest centimeter.\n\nWhich measurement is closest to the area of the figure in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "78 cm\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "81 cm\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "106 cm\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "53 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangle and semicircle figure with dimensions to be measured"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

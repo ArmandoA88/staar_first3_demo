@@ -1,0 +1,30 @@
+{
+  "stem": "What was one major impact of this novel?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The profits from book sales funded early labor organizations."
+    },
+    {
+      "label": "B",
+      "text": "Congress was inspired to pass laws outlawing the abuse of slaves."
+    },
+    {
+      "label": "C",
+      "text": "The Supreme Court overturned fugitive slave laws."
+    },
+    {
+      "label": "D",
+      "text": "Support grew for the abolitionist movement."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of the book cover titled 'Uncle Tom's Cabin or Life Among the Lowly by Harriet Beecher Stowe'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

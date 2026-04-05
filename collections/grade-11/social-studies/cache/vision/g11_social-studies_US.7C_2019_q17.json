@@ -1,0 +1,35 @@
+{
+  "stem": "Which phrase best defines the Holocaust?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The U.S. plan to relocate Japanese Americans to internment camps"
+    },
+    {
+      "label": "B",
+      "text": "The Allied plan to liberate concentration camps in Eastern Europe"
+    },
+    {
+      "label": "C",
+      "text": "The Nazi campaign to use genocide to eliminate European Jews"
+    },
+    {
+      "label": "D",
+      "text": "The Japanese military strategy to destroy U.S. aircraft carriers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 - Q17",
+    "Which phrase best defines the Holocaust?",
+    "A The U.S. plan to relocate Japanese Americans to internment camps",
+    "B The Allied plan to liberate concentration camps in Eastern Europe",
+    "C The Nazi campaign to use genocide to eliminate European Jews",
+    "D The Japanese military strategy to destroy U.S. aircraft carriers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

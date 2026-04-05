@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents a quadratic function that has no real zeros?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph A with parabola opening up and vertex above x-axis) "
+    },
+    {
+      "label": "B",
+      "text": "(Graph B with parabola opening up and vertex below x-axis) "
+    },
+    {
+      "label": "C",
+      "text": "(Graph C with parabola opening down and vertex below x-axis) "
+    },
+    {
+      "label": "D",
+      "text": "(Graph D with parabola opening up and vertex on the x-axis) "
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A showing a parabola opening upwards with vertex above x-axis and no x-intercepts",
+    "Graph B showing a parabola opening upwards with vertex below x-axis and two x-intercepts",
+    "Graph C showing a parabola opening downwards with vertex below x-axis and two x-intercepts",
+    "Graph D showing a parabola opening upwards with vertex on the x-axis and one x-intercept"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

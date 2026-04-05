@@ -1,0 +1,30 @@
+{
+  "stem": "Part of a quadratic function is shown on the grid.\n\nWhich statement best represents the domain of the part of the function shown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "All real numbers less than or equal to 5"
+    },
+    {
+      "label": "B",
+      "text": "All real numbers greater than or equal to 3"
+    },
+    {
+      "label": "C",
+      "text": "All real numbers greater than or equal to 1"
+    },
+    {
+      "label": "D",
+      "text": "All real numbers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of quadratic function from x=1 to x=5"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

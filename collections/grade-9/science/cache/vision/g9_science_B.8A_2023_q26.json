@@ -1,0 +1,31 @@
+{
+  "stem": "Which process occurs between Step 2 and Step 3 and creates more genetic diversity in the resulting cells?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Chromosome nondisjunction"
+    },
+    {
+      "label": "B",
+      "text": "Genome replication"
+    },
+    {
+      "label": "C",
+      "text": "Crossing over"
+    },
+    {
+      "label": "D",
+      "text": "Chromosomal deletion"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A cell undergoing a biological process is shown.",
+    "Four stages labeled Step 1 through Step 4 showing cells with chromosomes."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

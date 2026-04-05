@@ -1,0 +1,38 @@
+{
+  "stem": "Leticia has two bouquets of flowers. Each bouquet contains 13 daisies.\n\n\u2022 Bouquet S contains 30 flowers.\n\u2022 Bouquet T contains 13 flowers.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The probability of randomly selecting a daisy from Bouquet S is less than the probability of randomly selecting a daisy from Bouquet T."
+    },
+    {
+      "label": "B",
+      "text": "The probability of randomly selecting a daisy from Bouquet S is 1."
+    },
+    {
+      "label": "C",
+      "text": "The probability of randomly selecting a daisy from Bouquet S is equal to the probability of randomly selecting a daisy from Bouquet T."
+    },
+    {
+      "label": "D",
+      "text": "The probability of randomly selecting a daisy from Bouquet S is \\(\\frac{1}{3}\\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 - Q37",
+    "37 Leticia has two bouquets of flowers. Each bouquet contains 13 daisies.",
+    "\u2022 Bouquet S contains 30 flowers.",
+    "\u2022 Bouquet T contains 13 flowers.",
+    "Which statement is true?",
+    "A The probability of randomly selecting a daisy from Bouquet S is less than the probability of randomly selecting a daisy from Bouquet T.",
+    "B The probability of randomly selecting a daisy from Bouquet S is 1.",
+    "C The probability of randomly selecting a daisy from Bouquet S is equal to the probability of randomly selecting a daisy from Bouquet T.",
+    "D The probability of randomly selecting a daisy from Bouquet S is \\(\\frac{1}{3}\\)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change disintigration to disintegration"
+    },
+    {
+      "label": "G",
+      "text": "Change exposed to expose"
+    },
+    {
+      "label": "H",
+      "text": "Insert a comma after water"
+    },
+    {
+      "label": "J",
+      "text": "Change filtered to filterred"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

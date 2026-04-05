@@ -1,0 +1,33 @@
+{
+  "stem": "The ratio of blue to yellow to green gumballs in a gumball machine is 4:3:1. There are 24 yellow gumballs in the machine. Complete the sentences about the gumballs.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [
+    {
+      "label": null,
+      "text": "32"
+    },
+    {
+      "label": null,
+      "text": "48"
+    },
+    {
+      "label": null,
+      "text": "8"
+    },
+    {
+      "label": null,
+      "text": "96"
+    }
+  ],
+  "choice_pool": [
+    "32",
+    "48",
+    "8",
+    "96"
+  ],
+  "response_template": "There are [blank_1] blue gumballs. The machine contains a total of [blank_2] gumballs.",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

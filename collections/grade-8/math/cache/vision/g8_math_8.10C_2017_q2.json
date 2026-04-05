@@ -1,0 +1,30 @@
+{
+  "stem": "The coordinate grid shows a pentagon. The pentagon is translated 1 unit to the left and 10 units down to create a new pentagon.\n\nWhich rule describes this transformation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(x, y) \\to (x - 1, y - 10)"
+    },
+    {
+      "label": "G",
+      "text": "(x, y) \\to (x + 1, y - 10)"
+    },
+    {
+      "label": "H",
+      "text": "(x, y) \\to (x - 1, y + 10)"
+    },
+    {
+      "label": "J",
+      "text": "(x, y) \\to (x + 1, y + 10)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with a pentagon in quadrant 1 between x=1 to 5 and y=2 to 6"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A diver had descended 64 feet underwater after 4 minutes. After 6 minutes, the diver had descended 96 feet underwater.\n\nWhat is the constant of proportionality that relates the number of feet descended, y, to the number of minutes, x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\frac{3}{2}\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\frac{1}{16}\\)"
+    },
+    {
+      "label": "C",
+      "text": "24"
+    },
+    {
+      "label": "D",
+      "text": "16"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The problem text and four multiple-choice options labeled A, B, C, D as seen in the image."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

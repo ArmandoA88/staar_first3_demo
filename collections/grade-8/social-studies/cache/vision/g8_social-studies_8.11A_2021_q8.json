@@ -1,0 +1,30 @@
+{
+  "stem": "Which physical characteristic attracted settlers to this area during the late-eighteenth and early-nineteenth centuries?",
+  "instruction": "Study the map and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Large amounts of fertile soil for crops"
+    },
+    {
+      "label": "G",
+      "text": "Accessible mountain passes for mining"
+    },
+    {
+      "label": "H",
+      "text": "Natural harbors for whaling"
+    },
+    {
+      "label": "J",
+      "text": "Grassy plains for cattle ranching"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map titled 'Mississippi Territory, 1798' showing outlined territory with dashed lines and rivers, labeled with compass directions and a key indicating dashed lines represent Mississippi Territory."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

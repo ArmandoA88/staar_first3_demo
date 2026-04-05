@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of an exponential function is shown on the grid.\n\nWhich dashed line is an asymptote for the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Line q"
+    },
+    {
+      "label": "G",
+      "text": "Line r"
+    },
+    {
+      "label": "H",
+      "text": "Line s"
+    },
+    {
+      "label": "J",
+      "text": "Line t"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph of exponential function on coordinate grid with dashed vertical and horizontal lines labeled q, r, s, t"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

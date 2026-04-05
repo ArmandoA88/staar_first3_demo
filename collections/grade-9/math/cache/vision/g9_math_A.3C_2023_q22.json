@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a linear function, f, is shown.\n\nWhat is the zero of f?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-3"
+    },
+    {
+      "label": "B",
+      "text": "3"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "-6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with linear function f plotted with points (-3,0) and (0,-5) approximately"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

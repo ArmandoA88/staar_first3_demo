@@ -1,0 +1,30 @@
+{
+  "stem": "Polygon LMNPQR is shown on the coordinate grid and models the shape of a garden in a park. Polygon LMNPQR will be dilated with the origin as the center of dilation to create polygon L'M'N'P'Q'R'. The vertex Q' will be located at (21, 7).",
+  "instruction": "Which rule best represents the dilation?",
+  "options": [
+    {
+      "label": "F",
+      "text": "(x, y) \\to \\left(\\frac{2}{7}x, \\frac{2}{7}y\\right)"
+    },
+    {
+      "label": "G",
+      "text": "(x, y) \\to (x + 15, y + 5)"
+    },
+    {
+      "label": "H",
+      "text": "(x, y) \\to (x - 15, y - 5)"
+    },
+    {
+      "label": "J",
+      "text": "(x, y) \\to \\left(\\frac{7}{2}x, \\frac{7}{2}y\\right)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with polygon LMNPQR labeled and points L(2,12), M(6,14), N(10,12), P(9,4), Q(6,1), R(3,4)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

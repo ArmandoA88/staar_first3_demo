@@ -1,0 +1,32 @@
+{
+  "stem": "How have major parties reacted to the scenario described above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By suing the third parties in court for campaign-finance violations"
+    },
+    {
+      "label": "B",
+      "text": "By persuading the third parties to present a new platform"
+    },
+    {
+      "label": "C",
+      "text": "By addressing the issues raised by the third parties"
+    },
+    {
+      "label": "D",
+      "text": "By preventing third parties from holding conventions"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Discontent with major political parties leads to the organization of a third party.",
+    "Potential voters mobilize support for the third party.",
+    "The third party becomes competition for the major parties."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

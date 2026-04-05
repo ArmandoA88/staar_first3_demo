@@ -1,0 +1,35 @@
+{
+  "stem": "A transformation is applied to a figure to create a new figure. Which transformation does not preserve congruence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A reflection across the x-axis"
+    },
+    {
+      "label": "B",
+      "text": "A translation 7 units down"
+    },
+    {
+      "label": "C",
+      "text": "A dilation by a scale factor of 5"
+    },
+    {
+      "label": "D",
+      "text": "A rotation of 90\u00b0 clockwise"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q20 Sample",
+    "20",
+    "A reflection across the x-axis",
+    "A translation 7 units down",
+    "A dilation by a scale factor of 5",
+    "A rotation of 90\u00b0 clockwise"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

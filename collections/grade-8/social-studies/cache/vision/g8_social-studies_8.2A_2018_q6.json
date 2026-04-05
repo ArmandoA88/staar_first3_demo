@@ -1,0 +1,31 @@
+{
+  "stem": "Which pair of actions best completes this graphic?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "1\u2014Enslaved native populations 2\u2014Organized utopian societies"
+    },
+    {
+      "label": "G",
+      "text": "1\u2014Established Catholic missions 2\u2014Focused primarily on fur trading"
+    },
+    {
+      "label": "H",
+      "text": "1\u2014Promoted political freedom 2\u2014Participated in the triangular trade"
+    },
+    {
+      "label": "J",
+      "text": "1\u2014Became commercial shipbuilders 2\u2014Created an early system of public schools"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Spanish Colonists -> 1",
+    "French Colonists -> 2"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

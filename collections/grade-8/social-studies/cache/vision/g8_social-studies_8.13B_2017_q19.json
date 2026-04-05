@@ -1,0 +1,30 @@
+{
+  "stem": "One result of the trend shown in this table was the \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "expansion of available labor"
+    },
+    {
+      "label": "B",
+      "text": "creation of specialized trade guilds"
+    },
+    {
+      "label": "C",
+      "text": "decrease in educational opportunities for women"
+    },
+    {
+      "label": "D",
+      "text": "increase in production costs for manufacturers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Foreign-Born Population in the United States, 1850\u20131870' with columns Year, Foreign-Born Population (millions), Percent of Total Population. Rows: 1850 - 2.2 - 9.7%; 1860 - 4.1 - 13.2%; 1870 - 5.6 - 14.4%."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

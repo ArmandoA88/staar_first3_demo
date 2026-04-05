@@ -1,0 +1,33 @@
+{
+  "stem": "This cause-and-effect diagram describes events in Southwest Asia.\n\nWhich statement correctly replaces the question mark in this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An allied coalition fought against Iraq in the Persian Gulf War."
+    },
+    {
+      "label": "B",
+      "text": "Iraqi soldiers took hostages at the U.S. Embassy in Iraq."
+    },
+    {
+      "label": "C",
+      "text": "Iraq was divided into a democratic country and a communist country."
+    },
+    {
+      "label": "D",
+      "text": "An allied coalition voted to remove Iraq from the United Nations."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Iraqi dictator Saddam Hussein ordered the invasion of Kuwait in 1990.",
+    "The UN Security Council ordered Iraq to withdraw from Kuwait.",
+    "Iraq formally annexed Kuwait.",
+    "?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

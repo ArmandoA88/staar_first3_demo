@@ -1,0 +1,30 @@
+{
+  "stem": "What was one intended effect of this government action?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To reduce the use of gasoline by consumers"
+    },
+    {
+      "label": "B",
+      "text": "To reduce traffic on interstate highways"
+    },
+    {
+      "label": "C",
+      "text": "To improve the life expectancy of consumers"
+    },
+    {
+      "label": "D",
+      "text": "To increase the use of railroads"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In 1966, Congress authorized the federal government to set safety standards for new cars. By 1968, seat belts, padded dashboards, and other safety features were mandatory equipment.\n\n\u2014\u201cAmerica on the Move\u201d Exhibit, National Museum of American History, www.amhistory.si.edu (accessed August 29, 2017)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

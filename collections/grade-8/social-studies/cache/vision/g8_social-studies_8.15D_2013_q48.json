@@ -1,0 +1,30 @@
+{
+  "stem": "Which group was responsible for answering these questions?\n\n\u2022 How do we finance a war?\n\u2022 Who has the power to negotiate treaties?\n\u2022 What prevents the executive from becoming too powerful?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Settlers creating the Mayflower Compact"
+    },
+    {
+      "label": "G",
+      "text": "Delegates writing the Articles of Confederation"
+    },
+    {
+      "label": "H",
+      "text": "Representatives drafting the Fundamental Orders of Connecticut"
+    },
+    {
+      "label": "J",
+      "text": "Colonists negotiating the Albany Plan of Union"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box containing bullet points: How do we finance a war? Who has the power to negotiate treaties? What prevents the executive from becoming too powerful?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

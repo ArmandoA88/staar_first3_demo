@@ -1,0 +1,30 @@
+{
+  "stem": "The U.S. foreign policy illustrated in this cartoon was intended to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "prevent further European colonization in the Western Hemisphere"
+    },
+    {
+      "label": "G",
+      "text": "deter Spain from inciting revolution in former U.S. colonies"
+    },
+    {
+      "label": "H",
+      "text": "encourage European powers to invest in Latin America"
+    },
+    {
+      "label": "J",
+      "text": "keep the war between France and Spain from spreading to Latin America"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "political cartoon titled 'His Foresight' showing a large rooster labeled 'U.S.' confronting other smaller roosters, with a sign reading 'MONROE DOCTRINE' and dialogue 'Europe: You're not the only rooster in South America! Uncle Sam: I was aware of that when I cooped you up!'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

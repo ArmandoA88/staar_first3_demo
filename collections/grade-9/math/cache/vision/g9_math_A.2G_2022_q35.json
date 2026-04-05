@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation best represents the line shown on the grid?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 0"
+    },
+    {
+      "label": "B",
+      "text": "y = -6"
+    },
+    {
+      "label": "C",
+      "text": "x = 0"
+    },
+    {
+      "label": "D",
+      "text": "x = -6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "grid with a horizontal line crossing the y-axis at -6"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

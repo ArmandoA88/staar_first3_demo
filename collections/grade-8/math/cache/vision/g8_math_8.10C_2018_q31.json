@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle RST is translated 6 units to the left and 4 units up to create triangle R'S'T'.",
+  "instruction": "Which rule best describes this transformation?",
+  "options": [
+    {
+      "label": "A",
+      "text": "(x, y) \u2192 (6x, -4y)"
+    },
+    {
+      "label": "B",
+      "text": "(x, y) \u2192 (-6x, 4y)"
+    },
+    {
+      "label": "C",
+      "text": "(x, y) \u2192 (x + 6, y - 4)"
+    },
+    {
+      "label": "D",
+      "text": "(x, y) \u2192 (x - 6, y + 4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with triangles RST at approximately (4,-3), (6,-2), (5,-5) and triangle R'S'T' at approximately (-2,1), (-4,2), (-3, -1)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

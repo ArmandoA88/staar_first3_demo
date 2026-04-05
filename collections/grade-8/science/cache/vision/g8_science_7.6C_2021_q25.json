@@ -1,0 +1,34 @@
+{
+  "stem": "Which process describes only a physical change?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Process 1"
+    },
+    {
+      "label": "B",
+      "text": "Process 2"
+    },
+    {
+      "label": "C",
+      "text": "Process 3"
+    },
+    {
+      "label": "D",
+      "text": "Process 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Process | Change",
+    "1 | Fungus decomposing organic matter",
+    "2 | Leaves using carbon dioxide to make sugar",
+    "3 | Plants using nitrogen to make protein",
+    "4 | Water evaporating from salt water"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

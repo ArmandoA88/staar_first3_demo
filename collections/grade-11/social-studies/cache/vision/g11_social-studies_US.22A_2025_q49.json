@@ -1,0 +1,30 @@
+{
+  "stem": "This table describes a selection of amendments to the U.S. Constitution.\n\nSelect Amendments to the U.S. Constitution\n\n| Year Ratified | Amendment    | Description                                                                 |\n|--------------|--------------|-----------------------------------------------------------------------------|\n| 1868         | Fourteenth   | Grants citizenship to all people born in the United States; protects equal process of the law |\n| 1870         | Fifteenth    | Guarantees right to vote for all men                                         |\n| 1920         | Nineteenth   | Extends right to vote for women                                             |\n| 1961         | Twenty-third | Extends right to vote for residents of District of Columbia                 |\n| 1971         | Twenty-sixth | Lowers the legal voting age from 21 to 18                                  |\n\nBased on this table, which generalization can be made about constitutional amendments?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They primarily deal with topics that follow established procedures and traditions."
+    },
+    {
+      "label": "B",
+      "text": "They primarily deal with topics relating to election cycles and limiting terms of office."
+    },
+    {
+      "label": "C",
+      "text": "They play an important role in expanding participation in the democratic process."
+    },
+    {
+      "label": "D",
+      "text": "They play an important role in expanding the power of publicly elected officials."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table Select Amendments to the U.S. Constitution with columns Year Ratified, Amendment, Description"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

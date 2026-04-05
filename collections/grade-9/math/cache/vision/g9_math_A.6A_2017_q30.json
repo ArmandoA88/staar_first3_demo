@@ -1,0 +1,34 @@
+{
+  "stem": "What is the domain of f(x) = 9 - x^2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "f(x) \\u2265 9"
+    },
+    {
+      "label": "G",
+      "text": "All real numbers"
+    },
+    {
+      "label": "H",
+      "text": "-3 \\u2264 x \\u2264 3"
+    },
+    {
+      "label": "J",
+      "text": "x \\u2264 9"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "f(x) = 9 - x^2",
+    "f(x) \\u2265 9",
+    "All real numbers",
+    "-3 \\u2264 x \\u2264 3",
+    "x \\u2264 9"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

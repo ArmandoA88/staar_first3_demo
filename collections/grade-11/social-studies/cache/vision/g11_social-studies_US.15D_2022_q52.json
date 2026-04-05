@@ -1,0 +1,30 @@
+{
+  "stem": "This table shows the number of civilians employed by the U.S. government each year from 1915 to 1918.\n\nNumber of Civilians Employed by the Federal Government, 1915\u20131918\n\n| Year | Total   |\n|------|---------|\n| 1915 | 395,429 |\n| 1916 | 399,881 |\n| 1917 | 438,500 |\n| 1918 | 854,500 |\n\nBased on this table, how did World War I affect the U.S. economy?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It led to decreased spending in order to conserve resources during the war effort."
+    },
+    {
+      "label": "G",
+      "text": "It led to decreased pressure on private companies to supply the war effort."
+    },
+    {
+      "label": "H",
+      "text": "It increased the economic opportunities available for U.S. citizens."
+    },
+    {
+      "label": "J",
+      "text": "It increased the number of immigrants searching for U.S. jobs."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns: Year (1915, 1916, 1917, 1918) and Total (395,429, 399,881, 438,500, 854,500) labeled Number of Civilians Employed by the Federal Government, 1915-1918"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "In which way did the trend represented in this graph result in economic growth during this time period?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "People paid higher interest rates on bank loans."
+    },
+    {
+      "label": "B",
+      "text": "People had more money to spend on consumer goods."
+    },
+    {
+      "label": "C",
+      "text": "The government reduced its deficit spending."
+    },
+    {
+      "label": "D",
+      "text": "The government reduced regulations on stock market investments."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Line graph titled 'U.S. Income Tax Rates for the Highest Bracket, 1918-1928' with tax rates on the y-axis from 0 to 90 percent and years on the x-axis from 1918 to 1928, showing a downward trend in tax rates from about 77% in 1918 to 25% in 1928."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

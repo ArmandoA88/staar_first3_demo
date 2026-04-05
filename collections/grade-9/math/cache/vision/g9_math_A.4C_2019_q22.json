@@ -1,0 +1,30 @@
+{
+  "stem": "A company advertises on a website. A worker tracked the number of visits to the website and the number of clicks on the advertisement. The table shows the data for several days. A linear function can be used to model the data.\n\nBased on the table, what is the best prediction of the number of clicks on the advertisement if 1,500 people visit the website?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "77"
+    },
+    {
+      "label": "G",
+      "text": "137"
+    },
+    {
+      "label": "H",
+      "text": "83"
+    },
+    {
+      "label": "J",
+      "text": "105"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with heading 'Website Advertisement' and columns: 'Number of Visits to Website, x' and 'Number of Clicks on Advertisement, y', showing rows: (153,14), (629,38), (471,30), (914,53), (307,21), (1,045,60), (510,32), (1,106,63)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

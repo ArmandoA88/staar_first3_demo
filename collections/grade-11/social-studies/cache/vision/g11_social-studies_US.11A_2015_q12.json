@@ -1,0 +1,30 @@
+{
+  "stem": "How did President Bush attempt to complete the mission described above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "By overthrowing a dictator in North Korea"
+    },
+    {
+      "label": "G",
+      "text": "By fighting a global war on terrorism"
+    },
+    {
+      "label": "H",
+      "text": "By offering assistance to refugees escaping genocide"
+    },
+    {
+      "label": "J",
+      "text": "By supporting the Arab Spring movement"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "We are on a mission to make sure that freedom is enduring. We're on a mission to say to the rest of the world, come with us\u2014come with us, stand by our side to defeat the evil-doers who would like to rid the world of freedom as we know it.\n\n\u2014President George W. Bush, September 26, 2001"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Two eighth-grade classes are selling raffle tickets to raise money.\n\n\u2022 One class is selling tickets for $2.50 each and has already raised $350.\n\u2022 The other class is selling tickets for $3.00 each and has already raised $225.\n\nWhich equation can be used to find t, the number of tickets each class needs to sell so that the total amount raised is the same for both classes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3t + 350 = 2.50t + 225"
+    },
+    {
+      "label": "B",
+      "text": "350t + 2.50 = 225t + 3"
+    },
+    {
+      "label": "C",
+      "text": "2.50t + 350 = 3t + 225"
+    },
+    {
+      "label": "D",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

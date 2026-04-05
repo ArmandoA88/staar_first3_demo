@@ -1,0 +1,28 @@
+{
+  "stem": "Trapezoid \\(WKRP\\) was translated 4 units to the left and 5 units up on a coordinate grid to create trapezoid \\(W'K'R'P'\\). Which rule describes this transformation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\((x, y) \\to (x - 4, y + 5)\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\((x, y) \\to (x + 4, y - 5)\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\((x, y) \\to (x + 4, y + 5)\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\((x, y) \\to (x - 4, y - 5)\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

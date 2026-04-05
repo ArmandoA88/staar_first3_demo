@@ -1,0 +1,31 @@
+{
+  "stem": "Mice have two unlinked allele pairs that affect fur color. The table shows how allele pairs affect fur color. The term \u201cagouti\u201d describes fur with pigmentation that changes in each hair from the shaft to the tip, giving the fur a banded appearance. Mice with the aa allele pair are albino, regardless of the second allele-pair combination.\n\nWhat is the probability of albinism in the offspring of a cross between two mice with AaBb alleles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{1}{16}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{3}{16}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{4}{16}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{9}{16}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing Alleles and Fur Pigment: AA-Agouti, Aa-Agouti, aa-Albino, BB-Agouti, Bb-Agouti, bb-Solid black",
+    "Punnett square grid with labels AB, Ab, aB, ab along top and left sides"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these directly resulted from the event announced in this headline?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The abolitionist movement gained momentum in the North."
+    },
+    {
+      "label": "G",
+      "text": "Members of the U.S. Senate sought to end Black Codes in the southern states."
+    },
+    {
+      "label": "H",
+      "text": "The federal government allowed the expansion of slavery into all new western territories."
+    },
+    {
+      "label": "J",
+      "text": "Abolitionists moved to the South to avoid living under the new law."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Newspaper headline: Daily Star, September 18, 1850, Congress Passes Fugitive Slave Act"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

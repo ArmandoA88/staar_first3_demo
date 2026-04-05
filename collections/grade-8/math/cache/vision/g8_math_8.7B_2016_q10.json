@@ -1,0 +1,30 @@
+{
+  "stem": "A triangular prism and its dimensions are shown in the diagram.\n\nWhat is the lateral surface area of this triangular prism in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "192 cm\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "128 cm\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "152 cm\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "144 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangular prism with dimensions labeled: triangle height 5 cm, base 6 cm, prism length 8 cm, other triangle side 5 cm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

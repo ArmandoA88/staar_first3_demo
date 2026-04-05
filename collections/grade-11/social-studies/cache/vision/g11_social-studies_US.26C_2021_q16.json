@@ -1,0 +1,30 @@
+{
+  "stem": "How has use of the technology described in this excerpt impacted the United States?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "By increasing the number of workers in the agricultural sector"
+    },
+    {
+      "label": "G",
+      "text": "By increasing the amount of time used to manufacture goods"
+    },
+    {
+      "label": "H",
+      "text": "By increasing the efficiency of workers and businesses"
+    },
+    {
+      "label": "J",
+      "text": "By increasing the health and safety risks faced by industrial workers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Evidence for \u201cproductivity miracles\u201d arising from the computer and from information technology (IT) in general appears to be all around us . . . The New York Stock Exchange handles electronically a volume of transactions that was inconceivable in the pre-computer age. Businesses nowadays can compute and communicate far faster than they could, say, a decade or two ago. \u2014Alan S. Blinder and Richard E. Quant, \u201cThe Computer and the Economy,\u201d The Atlantic, December 1997"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

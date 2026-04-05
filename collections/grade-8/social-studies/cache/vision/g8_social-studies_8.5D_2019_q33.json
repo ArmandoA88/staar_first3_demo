@@ -1,0 +1,33 @@
+{
+  "stem": "Which pair contributed to the development of political parties in the United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1"
+    },
+    {
+      "label": "B",
+      "text": "2"
+    },
+    {
+      "label": "C",
+      "text": "3"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1\n\u2022 Continental Army\n\u2022 English Army",
+    "2\n\u2022 George Washington\n\u2022 Paul Revere",
+    "3\n\u2022 Virginia Plan\n\u2022 New Jersey Plan",
+    "4\n\u2022 Thomas Jefferson\n\u2022 Alexander Hamilton"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

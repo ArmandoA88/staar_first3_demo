@@ -1,0 +1,30 @@
+{
+  "stem": "Some of the dimensions of a square pyramid are shown in the diagram. The height of the square pyramid is 7.5 meters. What is the volume of the square pyramid in cubic meters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "202.5 m\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "303.75 m\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "270 m\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "243 m\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "square pyramid labeled with base lengths 9 m and height 7.5 m"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

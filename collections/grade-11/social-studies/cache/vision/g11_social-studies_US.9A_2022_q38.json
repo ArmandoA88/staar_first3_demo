@@ -1,0 +1,30 @@
+{
+  "stem": "Which event led to the action shown in this illustration?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The revival of nativist policies"
+    },
+    {
+      "label": "G",
+      "text": "The ratification of the Fifteenth Amendment"
+    },
+    {
+      "label": "H",
+      "text": "The Supreme Court ruling in Plessy v. Ferguson"
+    },
+    {
+      "label": "J",
+      "text": "The rise of Social Darwinism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Black and white illustration titled \u201cThe First Vote,\u201d showing an African American man casting a vote into a ballot box while several men, including African American men and a man in military uniform, stand in line behind him."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

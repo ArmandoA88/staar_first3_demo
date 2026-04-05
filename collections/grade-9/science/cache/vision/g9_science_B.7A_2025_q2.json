@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows important structures found in a cell. Two structures, W and Z, are labeled.\n\nWhich statement **BEST** describes Structure W and Structure Z?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Structure W is a gene and Structure Z is a chromosome."
+    },
+    {
+      "label": "B",
+      "text": "Structure W is a chromosome and Structure Z is a gene."
+    },
+    {
+      "label": "C",
+      "text": "Structure W is an amino acid and Structure Z is a nucleic acid."
+    },
+    {
+      "label": "D",
+      "text": "Structure W is a nucleic acid and Structure Z is an amino acid."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with labels W on a chromosome and Z on a DNA strand"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

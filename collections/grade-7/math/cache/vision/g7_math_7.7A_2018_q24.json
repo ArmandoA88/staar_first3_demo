@@ -1,0 +1,30 @@
+{
+  "stem": "A fish is swimming at a constant rate toward the ocean floor. The equation y = -7x - 3 can be used to represent this situation, where y is the depth of the fish in meters below sea level and x is the number of seconds the fish has been swimming.\n\nWhich statement best describes the depth of the fish, given this equation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "From a starting position of 7 meters below sea level, the fish is descending 3 meters per second."
+    },
+    {
+      "label": "G",
+      "text": "From a starting position of 7 meters below sea level, the fish is ascending 3 meters per second."
+    },
+    {
+      "label": "H",
+      "text": "From a starting position of 3 meters below sea level, the fish is descending 7 meters per second."
+    },
+    {
+      "label": "J",
+      "text": "From a starting position of 3 meters below sea level, the fish is ascending 7 meters per second."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation y = -7x - 3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle XYZ is rotated 90\u00ba clockwise about the origin to form triangle X'Y'Z'.",
+  "instruction": "Which statement is true?",
+  "options": [
+    {
+      "label": "F",
+      "text": "The sum of the angle measures of triangle XYZ is 90\u00ba less than the sum of the angle measures of triangle X'Y'Z'."
+    },
+    {
+      "label": "G",
+      "text": "The angle measures of triangle XYZ are less than the corresponding angle measures of triangle X'Y'Z'."
+    },
+    {
+      "label": "H",
+      "text": "Triangle XYZ is not congruent to triangle X'Y'Z'."
+    },
+    {
+      "label": "J",
+      "text": "The area of triangle XYZ is equal to the area of triangle X'Y'Z'."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with triangle XYZ plotted at points X(1,-1), Y(-2,4), Z(-1,5)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Exact wording and math symbols preserved. Labels preserved and text copied exactly as visible."
+}

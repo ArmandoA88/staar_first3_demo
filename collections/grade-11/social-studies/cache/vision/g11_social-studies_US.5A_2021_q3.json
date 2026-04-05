@@ -1,0 +1,30 @@
+{
+  "stem": "Study the table and answer the question that follows.\n\nWorkers, Aged 10\u201314, in the United States: 1870\u20131930 (thousands)\n\nWhich reason contributed to the trend shown in this table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of factories using assembly lines decreased."
+    },
+    {
+      "label": "B",
+      "text": "A progressive movement worked to stop the use of child labor."
+    },
+    {
+      "label": "C",
+      "text": "A political movement worked to lower taxes for businesses."
+    },
+    {
+      "label": "D",
+      "text": "The number of people joining labor unions decreased."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Workers, Aged 10-14, in the United States: 1870-1930 (thousands)'\nColumns: Year | Workers Aged 10-14 | Workers Aged 10-14 as % of Workforce\nRows: 1890 | 1,504 | 6.50\n1910 | 1,622 | 4.34\n1930 | 667 | 1.37"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

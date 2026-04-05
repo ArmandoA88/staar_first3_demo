@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to \\((2a + 5)(3a - 2)\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "17a - 10"
+    },
+    {
+      "label": "B",
+      "text": "6a^2 - 10"
+    },
+    {
+      "label": "C",
+      "text": "6a^2 + 11a - 10"
+    },
+    {
+      "label": "D",
+      "text": "6a^2 + 19a + 10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(2a + 5)(3a - 2)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

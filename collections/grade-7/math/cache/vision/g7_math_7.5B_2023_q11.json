@@ -1,0 +1,28 @@
+{
+  "stem": "Which definition describes \\( \\pi \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The ratio of the circumference of a circle to its diameter"
+    },
+    {
+      "label": "B",
+      "text": "The ratio of the circumference of a circle to its radius"
+    },
+    {
+      "label": "C",
+      "text": "The radius of a circle times 2 times 3.14"
+    },
+    {
+      "label": "D",
+      "text": "The diameter of a circle times 2 times 3.14"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Standard 7.5B, Year 2023, Question 11"
+}

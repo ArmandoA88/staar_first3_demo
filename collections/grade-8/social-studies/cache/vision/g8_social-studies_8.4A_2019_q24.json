@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best explains why this resolution was adopted?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Colonists were upset by the punishment imposed after the Boston Tea Party."
+    },
+    {
+      "label": "G",
+      "text": "Colonists created this in order to address the causes of the Boston Massacre."
+    },
+    {
+      "label": "H",
+      "text": "Colonists were opposed to colonial laws being created only by Parliament."
+    },
+    {
+      "label": "J",
+      "text": "Colonists wanted to expand powers given to governors appointed by King George III."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Resolved, that the taxation of the people by themselves, or by persons chosen by themselves to represent them . . . is the only security against a burdensome taxation . . . \u2014Virginia Stamp Act Resolutions, May 30, 1765"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

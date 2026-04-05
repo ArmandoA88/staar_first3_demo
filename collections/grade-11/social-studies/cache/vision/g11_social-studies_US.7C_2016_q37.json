@@ -1,0 +1,32 @@
+{
+  "stem": "In this excerpt, General Eisenhower is describing his reaction to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the Bataan Death March"
+    },
+    {
+      "label": "B",
+      "text": "Nazi concentration camps"
+    },
+    {
+      "label": "C",
+      "text": "Japanese American internment camps"
+    },
+    {
+      "label": "D",
+      "text": "the bombing of Hiroshima"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Press: Can you tell us about this wide publication of atrocity stories? Do you think the publication of them is going to be very useful?",
+    "General Eisenhower: I think I was largely responsible for it, so I must have thought it was useful. When I found the first camp like that I think I never was so angry in my life. . . . I think the people at home ought to know what they are fighting for and the kind of person they are fighting.",
+    "--General Dwight D. Eisenhower, press conference, June 18, 1945"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "stem": "The statistics in this table illustrate population changes associated with \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the rise of industrialism in the United States"
+    },
+    {
+      "label": "G",
+      "text": "the establishment of a federal income tax"
+    },
+    {
+      "label": "H",
+      "text": "a prolonged food shortage in the United States"
+    },
+    {
+      "label": "J",
+      "text": "a lengthy war over disputed territory"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Population of Selected U.S. Cities, 1840\u20131870 table",
+    "Urban Area, 1840, 1850, 1860, 1870 columns",
+    "New York, NY: 312,710, 515,547, 813,669, 942,292",
+    "Baltimore, MD: 102,313, 169,054, 212,418, 267,354",
+    "New Orleans, LA: 102,193, 116,375, 168,675, 191,418",
+    "Philadelphia, PA: 93,665, 121,376, 565,529, 674,022",
+    "Boston, MA: 93,383, 136,881, 177,840, 250,526"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

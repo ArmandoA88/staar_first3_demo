@@ -1,0 +1,30 @@
+{
+  "stem": "Gabriel deposits $2,500 into each of two savings accounts.\n\n\u2022 Account I earns 4% annual simple interest.\n\u2022 Account II earns 4% interest compounded annually.\n\nGabriel does not make any additional deposits or withdrawals. What is the sum of the balances of Account I and Account II at the end of 3 years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$5,600.00"
+    },
+    {
+      "label": "G",
+      "text": "$5,612.16"
+    },
+    {
+      "label": "H",
+      "text": "$5,624.32"
+    },
+    {
+      "label": "J",
+      "text": "$5,200.00"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

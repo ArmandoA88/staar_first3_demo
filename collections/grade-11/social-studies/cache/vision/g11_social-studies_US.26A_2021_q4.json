@@ -1,0 +1,30 @@
+{
+  "stem": "Which development made it possible to construct this type of building?",
+  "instruction": "Study the photograph and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "The invention of a new process for manufacturing steel"
+    },
+    {
+      "label": "G",
+      "text": "The government's focus on educating engineers"
+    },
+    {
+      "label": "H",
+      "text": "The manufacturing of glass that blocks ultraviolet sun rays"
+    },
+    {
+      "label": "J",
+      "text": "The importation of stronger kinds of wood"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph of the World's First Skyscraper, Chicago, Illinois, 1884"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

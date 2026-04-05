@@ -1,0 +1,33 @@
+{
+  "stem": "Jerri paid $2.52 for 6 oranges. Each orange costs the same amount.\n\nWhich function can be used to find the total cost in dollars, c, for purchasing n oranges?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "c = 0.42n"
+    },
+    {
+      "label": "B",
+      "text": "c = 2.52n"
+    },
+    {
+      "label": "C",
+      "text": "c = 6n"
+    },
+    {
+      "label": "D",
+      "text": "c = 15.12n"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "c = 0.42n",
+    "c = 2.52n",
+    "c = 6n",
+    "c = 15.12n"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

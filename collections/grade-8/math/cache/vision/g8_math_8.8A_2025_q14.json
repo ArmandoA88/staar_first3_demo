@@ -1,0 +1,18 @@
+{
+  "stem": "Jamia can rent a moving truck from Company A for $49.00 plus $0.65 per mile. She can rent a moving truck from Company B for $60.00 plus $0.55 per mile.\n\nWrite an inequality that represents the minimum number of miles, x, for which the cost of renting a moving truck from Company A is greater than the cost from Company B.",
+  "instruction": "Enter your answers in the boxes provided.",
+  "options": [],
+  "choice_pool": [
+    "49",
+    "0.65",
+    "60",
+    "0.55"
+  ],
+  "response_template": "[blank_1] + [blank_2] x > [blank_3] + [blank_4] x",
+  "visual_elements": [
+    "image"
+  ],
+  "item_type_inferred": "equation editor",
+  "confidence": 1,
+  "notes": null
+}

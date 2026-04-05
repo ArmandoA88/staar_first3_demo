@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the graph and your knowledge of U.S. history, how did changes in the birth rate affect the U.S. economy in the 1950s?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Prosperity increased as a result of the expanded housing values in rural and urban areas."
+    },
+    {
+      "label": "B",
+      "text": "Prosperity decreased because of the number of children who were unable to access public education."
+    },
+    {
+      "label": "C",
+      "text": "Prosperity increased as a result of a higher demand for consumer products for the emerging middle class."
+    },
+    {
+      "label": "D",
+      "text": "Prosperity decreased because of the number of people relying on social welfare programs in rural and urban areas."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "U.S. Birth Rate, 1940\u20131960 bar graph with birth rates per 1,000 people for 1940, 1945, 1950, 1955, and 1960"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

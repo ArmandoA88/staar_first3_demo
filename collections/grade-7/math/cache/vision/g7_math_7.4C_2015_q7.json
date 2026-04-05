@@ -1,0 +1,31 @@
+{
+  "stem": "The cost of 3 pounds of grapes is $6.57. What is the constant of proportionality that relates the cost in dollars, y, to the number of pounds of grapes, x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6.57"
+    },
+    {
+      "label": "B",
+      "text": "3"
+    },
+    {
+      "label": "C",
+      "text": "2.19"
+    },
+    {
+      "label": "D",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text",
+    "math"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

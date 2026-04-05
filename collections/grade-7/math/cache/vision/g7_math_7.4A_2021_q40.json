@@ -1,0 +1,30 @@
+{
+  "stem": "Natasha has a job putting letters in envelopes to be mailed. In 1 hour she put 42 letters in envelopes.\n\nWhich equation best represents y, the total number of letters Natasha puts in envelopes in x hours if she continues at this rate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x = y + 42"
+    },
+    {
+      "label": "G",
+      "text": "y = x + 42"
+    },
+    {
+      "label": "H",
+      "text": "x = 42y"
+    },
+    {
+      "label": "J",
+      "text": "y = 42x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

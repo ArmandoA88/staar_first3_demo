@@ -1,0 +1,30 @@
+{
+  "stem": "Which numbered area did the United States acquire in 1846 after negotiations with Great Britain?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1"
+    },
+    {
+      "label": "B",
+      "text": "2"
+    },
+    {
+      "label": "C",
+      "text": "3"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four maps of the United States with different numbered areas: 1 in the northwest, 2 in the central north, 3 in the northeast near the Great Lakes, and 4 in the southeast near Florida."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Which trend contributed to the attempt to pass the Equal Rights Amendment in the 1970s?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Women took on important roles in the investigation into the Watergate scandal."
+    },
+    {
+      "label": "B",
+      "text": "Women organized protests against various forms of discrimination."
+    },
+    {
+      "label": "C",
+      "text": "Women led the fight to combat propaganda during the Cold War."
+    },
+    {
+      "label": "D",
+      "text": "Women accepted senior management positions in large corporations."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The purpose of the ERA [Equal Rights Amendment] was to establish legal gender equality. . . .",
+    "[It] was drafted in 1923. . . .",
+    "In 1970, after decades of receiving little attention . . . the amendment was given serious consideration. By March 1972 the ERA . . . was sent to the states for ratification. Twenty-two states quickly ratified the amendment in 1972. But when the final deadline for ratification arrived . . . it was three states short.",
+    "\u2014Christine Blackerby, \"The Equal Rights Amendment: The Most Popular Never-Ratified Amendment,\" National Archives"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

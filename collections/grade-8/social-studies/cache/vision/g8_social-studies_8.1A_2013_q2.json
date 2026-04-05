@@ -1,0 +1,32 @@
+{
+  "stem": "All the events listed above occurred during \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the era of westward expansion"
+    },
+    {
+      "label": "G",
+      "text": "the Era of Good Feelings"
+    },
+    {
+      "label": "H",
+      "text": "the Revolutionary era"
+    },
+    {
+      "label": "J",
+      "text": "the Jacksonian era"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Intolerable Acts imposed",
+    "First Continental Congress convened",
+    "Thomas Paine\u2019s Common Sense published"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

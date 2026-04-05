@@ -1,0 +1,35 @@
+{
+  "stem": "Which law would be considered unconstitutional on the basis of First Amendment guarantees?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A ban on the publication of classified information by government employees"
+    },
+    {
+      "label": "G",
+      "text": "A requirement that church employees pay income tax"
+    },
+    {
+      "label": "H",
+      "text": "A requirement that churches get a permit before building a new chapel"
+    },
+    {
+      "label": "J",
+      "text": "A prohibition on electing religious leaders to government office"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2018 - Q42",
+    "42",
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

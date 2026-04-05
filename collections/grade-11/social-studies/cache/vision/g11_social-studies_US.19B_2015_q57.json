@@ -1,0 +1,33 @@
+{
+  "stem": "Which speaker expresses the main argument against President Franklin D. Roosevelt\u2019s plan to increase the number of justices on the Supreme Court?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Speaker 1"
+    },
+    {
+      "label": "B",
+      "text": "Speaker 2"
+    },
+    {
+      "label": "C",
+      "text": "Speaker 3"
+    },
+    {
+      "label": "D",
+      "text": "Speaker 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Speaker 1: The plan interferes with the Senate\u2019s power to ratify treaties.",
+    "Speaker 2: The plan threatens the principle of popular sovereignty.",
+    "Speaker 3: The plan takes too much power away from the states.",
+    "Speaker 4: The plan gives the executive branch too much power."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

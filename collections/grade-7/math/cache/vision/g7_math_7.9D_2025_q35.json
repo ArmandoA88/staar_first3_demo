@@ -1,0 +1,30 @@
+{
+  "stem": "The net of a rectangular pyramid and its dimensions in inches are shown.\n\nWhat is the total surface area of the pyramid in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "339 in.^2"
+    },
+    {
+      "label": "B",
+      "text": "525 in.^2"
+    },
+    {
+      "label": "C",
+      "text": "573 in.^2"
+    },
+    {
+      "label": "D",
+      "text": "420 in.^2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangular pyramid net with rectangle base 15 in. by 7 in. and triangular sides with respective heights 10 in. and 12 in."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which function is equivalent to \\( f(x) = 6x^2 - 23x + 21 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( f(x) = (3x - 7)(2x - 3) \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( f(x) = 3(x - 1)(2x - 7) \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( f(x) = (6x - 7)(x - 3) \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( f(x) = 3(x - 7)(2x - 1) \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

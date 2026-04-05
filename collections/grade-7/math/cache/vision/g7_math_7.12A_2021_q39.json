@@ -1,0 +1,32 @@
+{
+  "stem": "The box plots show the numbers of lessons completed by individual students enrolled in an online program at two different schools.\n\nOnline Program\n\nSchool 1\n\nSchool 2\n\nNumber of Lessons Completed\n\nWhich statement is best supported by the data in the box plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The range of the data for School 1 is greater than the range of the data for School 2."
+    },
+    {
+      "label": "B",
+      "text": "The median of the data for School 2 is greater than the median of the data for School 1."
+    },
+    {
+      "label": "C",
+      "text": "The interquartile range of the data for School 2 is greater than the interquartile range of the data for School 1."
+    },
+    {
+      "label": "D",
+      "text": "The students at School 1 completed more lessons than the students at School 2."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plot for School 1 with min ~3, Q1 ~5, median ~6, Q3 ~9, max ~13",
+    "box plot for School 2 with min ~1, Q1 ~4, median ~7, Q3 ~9, max ~13",
+    "number line from 1 to 13 labeled 'Number of Lessons Completed'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which outcome best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A reduction in the use of agricultural pesticides"
+    },
+    {
+      "label": "B",
+      "text": "The conversion of natural habitat to farmland"
+    },
+    {
+      "label": "C",
+      "text": "A decline in the availability of processed foods"
+    },
+    {
+      "label": "D",
+      "text": "The establishment of quality controls on imported foods"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with three boxes connected by arrows: 'Increased population growth' -> 'Increased demand for higher crop yields' -> '?'"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

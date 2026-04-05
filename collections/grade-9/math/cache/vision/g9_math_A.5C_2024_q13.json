@@ -1,0 +1,28 @@
+{
+  "stem": "Two customers purchased coffee and doughnuts at a coffee shop. Each cup of coffee costs the same amount, and each doughnut costs the same amount.\n\n\u2022 The first customer paid $4.90 for 1 cup of coffee and 2 doughnuts.\n\n\u2022 The second customer paid $8.60 for 2 cups of coffee and 3 doughnuts.\n\nWhat is the cost of 1 cup of coffee?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$2.50"
+    },
+    {
+      "label": "B",
+      "text": "$1.20"
+    },
+    {
+      "label": "C",
+      "text": "$4.90"
+    },
+    {
+      "label": "D",
+      "text": "$3.70"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

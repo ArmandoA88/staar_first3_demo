@@ -1,0 +1,30 @@
+{
+  "stem": "Which system of equations best represents the system shown on the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = x + 2\ny = -4x + 17"
+    },
+    {
+      "label": "B",
+      "text": "y = x + 2\ny = -4x + 15"
+    },
+    {
+      "label": "C",
+      "text": "x + y = 2\n4x + y = 17"
+    },
+    {
+      "label": "D",
+      "text": "x + y = 2\n4x + y = 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "system of two linear equations graphed on a coordinate plane with lines intersecting"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

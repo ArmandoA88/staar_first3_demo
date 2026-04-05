@@ -1,0 +1,30 @@
+{
+  "stem": "A segment of a DNA strand is shown.\n\n3' AGGTCAGGT 5'\n\nWhich of these is the correct complementary DNA strand for the segment shown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5' AGGTCAGGT 3'"
+    },
+    {
+      "label": "B",
+      "text": "5' ACCUGAGGU 3'"
+    },
+    {
+      "label": "C",
+      "text": "5' TGGACTGGA 3'"
+    },
+    {
+      "label": "D",
+      "text": "5' TCCAGTCCA 3'"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3' AGGTCAGGT 5'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

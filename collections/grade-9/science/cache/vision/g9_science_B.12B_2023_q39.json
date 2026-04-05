@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement about the transportation of these substances within the plant is true?",
+  "instruction": "Part A",
+  "options": [
+    {
+      "label": "A",
+      "text": "The minerals are transported from the phloem to the xylem in the shoot system."
+    },
+    {
+      "label": "B",
+      "text": "The carbohydrates are transported from the shoot system to the fungi by the xylem."
+    },
+    {
+      "label": "C",
+      "text": "The minerals are transported from the xylem to the phloem in the roots."
+    },
+    {
+      "label": "D",
+      "text": "The carbohydrates are transported to the fungi through the phloem."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Roots of different plants can be connected by a network of underground fungal extensions called hyphae. These fungi contribute minerals to the plants, and the plants contribute carbohydrates to the fungi."
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

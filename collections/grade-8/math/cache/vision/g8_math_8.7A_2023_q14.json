@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows the dimensions of a container in the shape of a cylinder with a lid in the shape of a hemisphere.\n\nWhich measurement is closest to the volume of the figure in cubic centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "141.37 cm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "197.92 cm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "254.47 cm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "311.02 cm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram showing a cylinder 7 cm tall with a radius of 3 cm and a hemisphere lid with radius 3 cm"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

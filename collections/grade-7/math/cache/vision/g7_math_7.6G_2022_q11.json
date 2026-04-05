@@ -1,0 +1,30 @@
+{
+  "stem": "A survey was conducted to determine the types of occupations of the 1,200 residents of a town. The types of occupations are shown in the circle graph.\n\nBased on the circle graph, how many more residents have an occupation in industry than have an occupation in government?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "20"
+    },
+    {
+      "label": "B",
+      "text": "360"
+    },
+    {
+      "label": "C",
+      "text": "240"
+    },
+    {
+      "label": "D",
+      "text": "300"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circle graph with five sections: Retail 25%, Industry 25%, Education 15%, Other 30%, Government (small slice)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

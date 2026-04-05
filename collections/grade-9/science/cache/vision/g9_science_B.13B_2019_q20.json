@@ -1,0 +1,30 @@
+{
+  "stem": "A partial Texas food web is shown.\n\nThe populations of which organisms will most likely increase as a result of a disease that suddenly reduced the population of Texas horned lizards?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Grasses and ants"
+    },
+    {
+      "label": "G",
+      "text": "Ants and grasshoppers"
+    },
+    {
+      "label": "H",
+      "text": "Grasshoppers and Texas cottonmouths"
+    },
+    {
+      "label": "J",
+      "text": "Texas cottonmouths and red-shouldered hawks"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Partial Texas Food Web diagram showing arrows from Grasses to Grasshopper and Ants, from Grasshopper and Ants to Texas horned lizard, and from Texas horned lizard to Texas cottonmouth and red-shouldered hawk"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

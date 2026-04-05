@@ -1,0 +1,30 @@
+{
+  "stem": "A student rode a bike from school to a recreation center. The graph shows the student\u2019s distance in miles from the recreation center after riding the bike for x minutes.\n\nWhat is the range of the function for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "All real numbers greater than or equal to 0 and less than or equal to 28"
+    },
+    {
+      "label": "G",
+      "text": "All real numbers greater than or equal to 0 and less than or equal to 9"
+    },
+    {
+      "label": "H",
+      "text": "All real numbers less than or equal to 28"
+    },
+    {
+      "label": "J",
+      "text": "All real numbers less than or equal to 9"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Bike Ride' with y-axis labeled 'Distance from Recreation Center (mi)' and x-axis labeled 'Time (min)'. Graph shows a line starting at (0,9) and ending at (28,0)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

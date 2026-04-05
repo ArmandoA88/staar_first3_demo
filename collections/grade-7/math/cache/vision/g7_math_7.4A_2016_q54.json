@@ -1,0 +1,30 @@
+{
+  "stem": "During migration, a butterfly can travel 30 miles in 1 hour. Which graph best represents y, the number of miles a butterfly can travel in x hours?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with y-axis labeled Distance (miles) from 0 to 150 in increments of 30, x-axis labeled Time (hours) from 0 to 20 in increments of 5, showing a line from (0,0) to (20,150)"
+    },
+    {
+      "label": "H",
+      "text": "Graph with y-axis labeled Distance (miles) from 0 to 25 in increments of 5, x-axis labeled Time (hours) from 0 to 120 in increments of 30, showing a line from (0,0) to (120,25)"
+    },
+    {
+      "label": "G",
+      "text": "Graph with y-axis labeled Distance (miles) from 0 to 150 in increments of 30, x-axis labeled Time (hours) from 0 to 4 in increments of 1, showing a line from (0,0) to (4,150)"
+    },
+    {
+      "label": "J",
+      "text": "Graph with y-axis labeled Distance (miles) from 0 to 5 in increments of 1, x-axis labeled Time (hours) from 0 to 120 in increments of 30, showing a line from (0,0) to (120,5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,37 @@
+{
+  "stem": "The value of y is 3 more than twice the opposite of x. Which of these represent this relationship?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "y = - 2x + 3"
+    },
+    {
+      "label": null,
+      "text": "Graph showing line passing through points (-3, -3) and (2, 6) on the xy-coordinate plane"
+    },
+    {
+      "label": null,
+      "text": "Graph showing line passing through points (-3, 6) and (4, -3) on the xy-coordinate plane"
+    },
+    {
+      "label": null,
+      "text": "Table with columns x and y; rows: (15, -6), (-1, 2), (3, 0)"
+    },
+    {
+      "label": null,
+      "text": "Table with columns x and y; rows: (-8, -13), (-4, -5), (0, 3)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph 1 with labeled x and y axes and grid, line passing through (-3, -3) to (2, 6)",
+    "Graph 2 with labeled x and y axes and grid, line passing through (-3, 6) to (4, -3)",
+    "Table 1 with x and y columns and values: 15/-6, -1/2, 3/0",
+    "Table 2 with x and y columns and values: -8/-13, -4/-5, 0/3"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 0.99,
+  "notes": null
+}

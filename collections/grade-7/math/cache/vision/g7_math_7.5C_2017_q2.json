@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle \\( ABC \\) is similar to triangle \\( FGH \\). What is the value of \\( x \\) in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "22.5 cm"
+    },
+    {
+      "label": "G",
+      "text": "8 cm"
+    },
+    {
+      "label": "H",
+      "text": "10.8 cm"
+    },
+    {
+      "label": "J",
+      "text": "30 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two triangles labeled ABC and FGH with sides: AB = 9 cm, BC = 15 cm, AC = 12 cm; GF = 13.5 cm, FH = 18 cm, GH = x."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Standard 7.5(C), year 2017, question number 2."
+}

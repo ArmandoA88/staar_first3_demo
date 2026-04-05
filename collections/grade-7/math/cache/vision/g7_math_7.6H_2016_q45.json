@@ -1,0 +1,30 @@
+{
+  "stem": "Felix has a bucket of golf balls. The table shows the number of golf balls of each color in the bucket.\n\nGolf Balls in a Bucket\n\n| Color  | Number |\n|--------|--------|\n| Pink   | 4      |\n| White  | 11     |\n| Orange | 8      |\n| Green  | 18     |\n\nFelix selects a golf ball at random. Based on the information in the table, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The golf ball is more likely to be green than all other colors combined."
+    },
+    {
+      "label": "B",
+      "text": "The golf ball is equally likely to be pink, white, orange, or green."
+    },
+    {
+      "label": "C",
+      "text": "The golf ball is 2 times as likely to be orange as it is to be pink."
+    },
+    {
+      "label": "D",
+      "text": "The golf ball is 7 times as likely to be green as it is to be white."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns 'Color' and 'Number'. Rows: Pink 4, White 11, Orange 8, Green 18"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

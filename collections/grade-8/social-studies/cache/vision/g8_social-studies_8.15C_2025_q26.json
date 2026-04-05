@@ -1,0 +1,30 @@
+{
+  "stem": "Why was this amendment included in the U.S. Bill of Rights?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Colonists accused of crimes had been searched by British troops without consent."
+    },
+    {
+      "label": "B",
+      "text": "Colonists accused of crimes had been denied fair treatment in British courts."
+    },
+    {
+      "label": "C",
+      "text": "The British had used excessive force against colonists who were accused of crimes."
+    },
+    {
+      "label": "D",
+      "text": "The British had housed troops in the homes of colonists who were accused of crimes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In all criminal prosecutions, the accused shall [be granted] the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, . . . [and] to be confronted with the witnesses against him.\n\u2014Sixth Amendment to the U.S. Constitution"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

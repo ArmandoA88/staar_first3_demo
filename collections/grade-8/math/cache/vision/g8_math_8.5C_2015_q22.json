@@ -1,0 +1,33 @@
+{
+  "stem": "Which scatterplot suggests a linear relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Scatterplot A"
+    },
+    {
+      "label": "B",
+      "text": "Scatterplot B"
+    },
+    {
+      "label": "C",
+      "text": "Scatterplot C"
+    },
+    {
+      "label": "D",
+      "text": "Scatterplot D"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot A: Points form a curved pattern, increasing then decreasing.",
+    "Scatterplot B: Points form a descending pattern that is not straight, more curved.",
+    "Scatterplot C: Points form a roughly straight ascending line pattern.",
+    "Scatterplot D: Points are scattered randomly with no clear pattern."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

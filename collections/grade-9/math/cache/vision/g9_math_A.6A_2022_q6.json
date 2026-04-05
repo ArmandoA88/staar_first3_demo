@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents a quadratic function with a range of all real numbers greater than or equal to 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(graph of a parabola opening downward with vertex below y=3)"
+    },
+    {
+      "label": "H",
+      "text": "(graph of a parabola opening upward with vertex below y=3)"
+    },
+    {
+      "label": "G",
+      "text": "(graph of a parabola opening downward with vertex above y=3)"
+    },
+    {
+      "label": "J",
+      "text": "(graph of a parabola opening upward with vertex at y=3)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, J, each showing parabolas on a coordinate plane with grid lines from -8 to 8 on x and y axes."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "The graphs and labels are preserved as requested; exact graphical details are summarized for clarity in text fields."
+}

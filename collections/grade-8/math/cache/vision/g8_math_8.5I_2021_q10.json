@@ -1,0 +1,28 @@
+{
+  "stem": "A water tank currently contains 275 gallons of water. The amount of water in the tank will decrease at a constant rate of 15 gallons per week. Which function can be used to find t, the total number of gallons of water in the tank after w weeks?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "t = 15w - 275"
+    },
+    {
+      "label": "G",
+      "text": "t = -15w + 275"
+    },
+    {
+      "label": "H",
+      "text": "t = 275w - 15"
+    },
+    {
+      "label": "J",
+      "text": "t = -275w + 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

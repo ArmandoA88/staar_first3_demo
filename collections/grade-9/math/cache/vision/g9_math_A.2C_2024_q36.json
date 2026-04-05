@@ -1,0 +1,30 @@
+{
+  "stem": "The total cost, y, for x tickets to a concert includes a flat fee for processing and a cost per ticket. One customer purchased 4 tickets for a total cost of $160. Another customer purchased 8 tickets for a total cost of $300.\n\nWhich linear equation represents the total cost in dollars, y, for x tickets?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 40x"
+    },
+    {
+      "label": "B",
+      "text": "y = 37.5x"
+    },
+    {
+      "label": "C",
+      "text": "y = 35x + 20"
+    },
+    {
+      "label": "D",
+      "text": "y = 20x + 35"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

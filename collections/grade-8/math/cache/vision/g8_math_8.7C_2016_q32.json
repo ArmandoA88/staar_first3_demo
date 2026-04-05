@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram below shows the side view of a ramp used to help load and unload a moving van.",
+  "instruction": "Which measurement is closest to the length of the ramp in feet?",
+  "options": [
+    {
+      "label": "F",
+      "text": "8.5 ft"
+    },
+    {
+      "label": "G",
+      "text": "10.5 ft"
+    },
+    {
+      "label": "H",
+      "text": "9.5 ft"
+    },
+    {
+      "label": "J",
+      "text": "13.5 ft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Right triangle with height labeled '3 ft', base labeled '9 ft', and hypotenuse labeled 'Ramp'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

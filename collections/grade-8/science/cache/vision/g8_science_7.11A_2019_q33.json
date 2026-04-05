@@ -1,0 +1,30 @@
+{
+  "stem": "The model shows an area near a lake. Community leaders are planning new laws to help protect the lake from pollution. One proposed law will make it illegal to dump trash on the shore of the lake, but the law still allows trash to be placed in the area labeled \u201cFlow-through wetland.\u201d",
+  "instruction": "Which statement about the proposed law is supported by the model?",
+  "options": [
+    {
+      "label": "A",
+      "text": "The proposed law will protect the lake because plant roots between the wetland and the lake will stop pollution from entering the lake."
+    },
+    {
+      "label": "B",
+      "text": "The proposed law will not protect the lake because animals that live in or near the lake will add pollution to the lake."
+    },
+    {
+      "label": "C",
+      "text": "The proposed law will not protect the lake because groundwater will carry pollution from the wetland directly into the lake."
+    },
+    {
+      "label": "D",
+      "text": "The proposed law will protect the lake because the high elevation of the water table will block pollution from entering the lake."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Model of Area Around Lake diagram showing Flow-through wetland, Water table, Spring, Shore, and Lake with Groundwater flow direction"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

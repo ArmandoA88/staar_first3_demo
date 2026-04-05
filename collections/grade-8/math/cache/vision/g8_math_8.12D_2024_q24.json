@@ -1,0 +1,33 @@
+{
+  "stem": "A deposit of $7,912 is made into a new account that earns 5.75% simple interest. No additional deposits or withdrawals will be made for 2 years.\n\nWhich amount is closest to the balance in the account at the end of 2 years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$9,732"
+    },
+    {
+      "label": "B",
+      "text": "$7,924"
+    },
+    {
+      "label": "C",
+      "text": "$8,822"
+    },
+    {
+      "label": "D",
+      "text": "$8,848"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A. $9,732",
+    "B. $7,924",
+    "C. $8,822",
+    "D. $8,848"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

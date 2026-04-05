@@ -1,0 +1,30 @@
+{
+  "stem": "One advantage offered by hybrid cars is that they \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "shorten the driving time to destinations"
+    },
+    {
+      "label": "B",
+      "text": "decrease household electricity usage"
+    },
+    {
+      "label": "C",
+      "text": "reduce the amount of money spent on gasoline"
+    },
+    {
+      "label": "D",
+      "text": "expand the use of carpools"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 - Q27"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

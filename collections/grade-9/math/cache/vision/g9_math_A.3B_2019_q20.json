@@ -1,0 +1,13 @@
+{
+  "stem": "The graph of a linear function is shown on the grid.\n\nWhat is the rate of change of y with respect to x for this function?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing points (-3, 3.6) and (5, 2) on a coordinate plane with a linear function passing through these points."
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 1,
+  "notes": "This is a numeric response question. The problem asks for the rate of change of y with respect to x given two points on the linear function."
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Dillon can bike 6 miles in 0.5 hour. Which line has a slope that best represents Dillon\u2019s speed in miles per hour?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with time from 0 to 6 hours on x-axis and distance up to 60 miles on y-axis; line from (0,0) to (6, 40)"
+    },
+    {
+      "label": "B",
+      "text": "Graph with time from 0 to 6 hours on x-axis and distance up to 60 miles on y-axis; line from (0,0) to (6, 60)"
+    },
+    {
+      "label": "C",
+      "text": "Graph with time from 0 to 6 hours on x-axis and distance up to 60 miles on y-axis; line from (0,0) to (6, 35)"
+    },
+    {
+      "label": "D",
+      "text": "Graph with time from 0 to 6 hours on x-axis and distance up to 60 miles on y-axis; line from (0,0) to (2, 60)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: line from (0,0) to (6, 40)",
+    "Graph B: line from (0,0) to (6, 60)",
+    "Graph C: line from (0,0) to (6, 35)",
+    "Graph D: line from (0,0) to (2, 60)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

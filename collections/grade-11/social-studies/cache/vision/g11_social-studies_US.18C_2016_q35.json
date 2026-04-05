@@ -1,0 +1,30 @@
+{
+  "stem": "This 1924 cartoon satirizes a scandal that led to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "public disappointment over revelations of government corruption"
+    },
+    {
+      "label": "B",
+      "text": "widespread dissatisfaction with a lack of economic development"
+    },
+    {
+      "label": "C",
+      "text": "public frustration with government neglect of the working class"
+    },
+    {
+      "label": "D",
+      "text": "widespread anger over excessive partisan politics"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A cartoon showing a large tank labeled 'OIL SCANDAL' on a road with a sign 'WHITE HOUSE HIGHWAY'. Two men appear to be running away from the tank in fear."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

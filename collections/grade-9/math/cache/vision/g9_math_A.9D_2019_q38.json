@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents \\( y = 10(0.85)^x \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with curve increasing rapidly upwards from left to right starting near y=1 at large negative x"
+    },
+    {
+      "label": "H",
+      "text": "Graph with curve starting near y=1 at negative x and increasing very rapidly upwards near x=0"
+    },
+    {
+      "label": "G",
+      "text": "Graph with curve decreasing gradually from left to right starting near y=14 at x=-4 and going down towards x=14"
+    },
+    {
+      "label": "J",
+      "text": "Graph with curve very steeply decreasing from y=14 near x=0 to almost 0 at large x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, J with grid lines and axes x and y"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": "Exact graph descriptions simplified based on visible curve orientation and general shape. Math expression preserved as in image."
+}

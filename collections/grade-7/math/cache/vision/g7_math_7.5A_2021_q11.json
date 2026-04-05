@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle \\( HJK \\) is similar to triangle \\( LMN \\). Which proportion can be used to calculate the length of \\( \\overline{LM} \\) in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{7.5}{11.25} = \\frac{LM}{4.5} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{6}{7.5} = \\frac{LM}{9} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{11.25}{LM} = \\frac{4.5}{7.5} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{9}{LM} = \\frac{6}{4.5} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two similar triangles HJK and LMN with side lengths labeled: HJ=4.5 cm, JK=6 cm, HK=7.5 cm; LM=unknown, MN=9 cm, LN=11.25 cm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

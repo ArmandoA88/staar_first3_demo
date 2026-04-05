@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a linear function is shown on the grid.\n\nWhich function is best represented by this graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "g(x) = 6x + 4"
+    },
+    {
+      "label": "G",
+      "text": "g(x) = 4x - \\frac{2}{3}"
+    },
+    {
+      "label": "H",
+      "text": "g(x) = -\\frac{3}{2}x + 6"
+    },
+    {
+      "label": "J",
+      "text": "g(x) = -\\frac{2}{3}x + 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with x and y axes ranging from -9 to 9 and a linear function line with negative slope crossing y-axis at 4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

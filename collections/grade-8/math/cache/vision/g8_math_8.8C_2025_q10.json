@@ -1,0 +1,30 @@
+{
+  "stem": "What value of x makes the equation true?\n\n-6x + 8 = 2(x - 12)",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-2.5"
+    },
+    {
+      "label": "B",
+      "text": "2.5"
+    },
+    {
+      "label": "C",
+      "text": "-4"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-6x + 8 = 2(x - 12)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

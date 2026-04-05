@@ -1,0 +1,30 @@
+{
+  "stem": "The business practice described above eventually led to the enactment of legislation that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "guaranteed public access to corporate records"
+    },
+    {
+      "label": "B",
+      "text": "protected consumers by prohibiting monopolies"
+    },
+    {
+      "label": "C",
+      "text": "protected domestic industries from foreign competition"
+    },
+    {
+      "label": "D",
+      "text": "required reciprocity agreements between state governments"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\"We conclude that this overpowering, irresistible tendency toward aggregation of capital and increase of size . . . cannot be arrested or even greatly impeded, and . . . instead of attempting to restrict either, we should hail every increase as something gained. . . .\" \u2014Andrew Carnegie, The Century"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

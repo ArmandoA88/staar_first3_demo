@@ -1,0 +1,30 @@
+{
+  "stem": "What is the MOST LIKELY reason the Public Works of Art Project commissioned this painting?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To promote optimism for U.S. economic progress during the Great Depression"
+    },
+    {
+      "label": "B",
+      "text": "To demand federal worker safety laws during the Great Depression"
+    },
+    {
+      "label": "C",
+      "text": "To encourage competition for U.S. technological superiority during the Great Depression"
+    },
+    {
+      "label": "D",
+      "text": "To question the success of nationalizing industries during the Great Depression"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph of a 1934 painting showing construction of the Golden Gate Bridge"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

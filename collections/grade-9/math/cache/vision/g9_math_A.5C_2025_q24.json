@@ -1,0 +1,31 @@
+{
+  "stem": "A system of linear equations is shown.\n\ny = -0.5x + 4\n\n3x + 6y = 24\n\nWhich statement about the system is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The system has no solutions."
+    },
+    {
+      "label": "B",
+      "text": "The system has exactly one solution."
+    },
+    {
+      "label": "C",
+      "text": "The system has exactly two solutions."
+    },
+    {
+      "label": "D",
+      "text": "The system has infinitely many solutions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = -0.5x + 4",
+    "3x + 6y = 24"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

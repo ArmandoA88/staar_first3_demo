@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution set for this inequality?\n\n-8x + 40 > -16",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x > 7"
+    },
+    {
+      "label": "B",
+      "text": "x < 7"
+    },
+    {
+      "label": "C",
+      "text": "x > -3"
+    },
+    {
+      "label": "D",
+      "text": "x < -3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-8x + 40 > -16"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation can be used to describe the relationship between x and y shown in the graph below?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 3x + 2"
+    },
+    {
+      "label": "B",
+      "text": "y = -3x - 6"
+    },
+    {
+      "label": "C",
+      "text": "y = 3x - 6"
+    },
+    {
+      "label": "D",
+      "text": "y = -3x + 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing a line passing through points (2,0) and (0,-6)"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

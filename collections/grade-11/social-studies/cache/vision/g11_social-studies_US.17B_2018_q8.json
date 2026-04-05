@@ -1,0 +1,30 @@
+{
+  "stem": "Which occurrence was a result of the shift in the number of births that began in 1946?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The decline of family farming"
+    },
+    {
+      "label": "G",
+      "text": "The spread of new diseases"
+    },
+    {
+      "label": "H",
+      "text": "The growth of the suburbs"
+    },
+    {
+      "label": "J",
+      "text": "The reduction of defense spending"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Number of U.S. Births by Year and Generation, 1928-1965' with years on x-axis 1928 to 1965 and number of births in millions on y-axis, showing a rise starting 1946"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

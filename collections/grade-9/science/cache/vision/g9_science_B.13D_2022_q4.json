@@ -1,0 +1,30 @@
+{
+  "stem": "Oil spills in the ocean affect marine food webs. Animals that are initially affected by oil spills include sea otters, seabirds, and other organisms that spend most of their time on the ocean surface.\n\nMarine Food Web\n\nKelp \u2192 Sea urchins \u2192 Sea otters \u2192 Killer whales\nKelp \u2192 Fish \u2192 Sea lions \u2192 Killer whales\nAlgae \u2192 Sea urchins\nAlgae \u2192 Mussels \u2192 Sea otters\n\nBased on the food web, how would a significant decrease in the sea otter population due to an oil spill most likely affect this ecosystem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The sea urchin population would increase causing the kelp population to decrease."
+    },
+    {
+      "label": "G",
+      "text": "The fish population would increase in response to the changes in the mussel population."
+    },
+    {
+      "label": "H",
+      "text": "The mussel population would increase in response to the changes in the algae population."
+    },
+    {
+      "label": "J",
+      "text": "The killer whale population would increase causing the fish population to decrease."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Marine Food Web diagram showing arrows from Kelp to Sea urchins, Kelp to Fish, Fish to Sea lions, Sea lions to Killer whales, Sea urchins to Killer whales, Algae to Sea urchins, Algae to Mussels, Mussels to Sea otters, Sea otters to Killer whales"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

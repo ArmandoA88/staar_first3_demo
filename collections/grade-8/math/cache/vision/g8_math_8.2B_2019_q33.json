@@ -1,0 +1,30 @@
+{
+  "stem": "The points on the number line represent the values of four different numbers.\n\nWhich point best represents the value of \\( \\sqrt{3} \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Point A"
+    },
+    {
+      "label": "B",
+      "text": "Point B"
+    },
+    {
+      "label": "C",
+      "text": "Point C"
+    },
+    {
+      "label": "D",
+      "text": "Point D"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A number line labeled from 0 to 4, with points labeled A at 1, B and C between 1 and 2, and D at 3."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

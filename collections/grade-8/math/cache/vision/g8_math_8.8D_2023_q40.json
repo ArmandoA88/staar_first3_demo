@@ -1,0 +1,35 @@
+{
+  "stem": "Based on the triangles shown, which similarity statement about the fourth pair of triangles is true and can be used to complete the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Triangle TUV ~ Triangle PRQ"
+    },
+    {
+      "label": "B",
+      "text": "Triangle TVU ~ Triangle PQR"
+    },
+    {
+      "label": "C",
+      "text": "Triangle TUV ~ Triangle PQR"
+    },
+    {
+      "label": "D",
+      "text": "Triangle TVU ~ Triangle RPQ"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four pairs of similar triangles are shown.",
+    "Triangle 1 and Triangle 2 each have angles 84\u00b0 and 42\u00b0.",
+    "Triangle UVW and Triangle KLM each have angles 26\u00b0 and 70\u00b0.",
+    "Triangle XYZ and Triangle X'Y'Z' each have angles 68\u00b0, 68\u00b0, 68\u00b0.",
+    "Triangle TUV has angles 85\u00b0 at V and 66\u00b0 at U.",
+    "Triangle RPQ has angles 85\u00b0 at R and 66\u00b0 at Q."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which reason best completes this list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To spread democratic ideals"
+    },
+    {
+      "label": "G",
+      "text": "To improve efficiency in manufacturing"
+    },
+    {
+      "label": "H",
+      "text": "To locate potential military allies"
+    },
+    {
+      "label": "J",
+      "text": "To claim new territory"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Reasons for European Exploration\n\u2022 To find new sea routes to India and China\n\u2022 To find gold, silver, and other treasure\n\u2022 ?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

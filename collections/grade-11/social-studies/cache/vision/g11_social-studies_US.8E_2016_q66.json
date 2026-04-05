@@ -1,0 +1,32 @@
+{
+  "stem": "During the time between the passage of the Gulf of Tonkin Resolution and the start of the Tet offensive, what happened in the Vietnam War?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "All U.S. civilians were evacuated from Vietnam."
+    },
+    {
+      "label": "G",
+      "text": "Peace talks between South Vietnam and North Vietnam were conducted in Paris."
+    },
+    {
+      "label": "H",
+      "text": "The U.S. government deployed more troops to Vietnam."
+    },
+    {
+      "label": "J",
+      "text": "South Vietnam surrendered to North Vietnam."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "passage of the Gulf of Tonkin Resolution",
+    "Tet offensive",
+    "Vietnam War"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

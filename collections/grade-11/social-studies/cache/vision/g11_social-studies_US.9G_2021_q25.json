@@ -1,0 +1,30 @@
+{
+  "stem": "What did the federal government do to address the social injustice shown in this photograph?",
+  "instruction": "Study the photograph and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Enforced the Wisconsin v. Yoder decision protecting First Amendment rights"
+    },
+    {
+      "label": "B",
+      "text": "Established the Congress of Racial Equality (CORE) to promote voting rights"
+    },
+    {
+      "label": "C",
+      "text": "Passed civil rights legislation banning segregation in public places"
+    },
+    {
+      "label": "D",
+      "text": "Issued an executive order prohibiting limits on interstate migration"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph of a bus station in Durham, North Carolina, 1940 showing a sign 'COLORED WAITING ROOM' above a man standing near a bus labeled '45' with several passengers visible inside."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

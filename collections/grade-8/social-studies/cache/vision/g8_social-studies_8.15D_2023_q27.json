@@ -1,0 +1,20 @@
+{
+  "stem": "Which powers does the U.S. Constitution give to each branch of government? Move each constitutional power to the correct branch of government.",
+  "instruction": null,
+  "options": [],
+  "choice_pool": [
+    "Interprets the laws",
+    "Declares wars",
+    "Commands armed forces",
+    "Declares laws unconstitutional",
+    "Enforces the laws",
+    "Makes the laws"
+  ],
+  "response_template": "Legislative Branch: [blank_1], [blank_2]\nExecutive Branch: [blank_3], [blank_4]\nJudicial Branch: [blank_5], [blank_6]",
+  "visual_elements": [
+    "table with columns labeled Legislative Branch, Executive Branch, Judicial Branch, each containing two blank slots"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

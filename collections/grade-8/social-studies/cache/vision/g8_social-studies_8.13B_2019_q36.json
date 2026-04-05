@@ -1,0 +1,30 @@
+{
+  "stem": "Which box lists three factors that contributed most to the rapid industrialization and urbanization of the United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Fertile soil\nMild climate\nUnskilled labor"
+    },
+    {
+      "label": "G",
+      "text": "Investment capital\nNew means of transport\nLarge labor force"
+    },
+    {
+      "label": "H",
+      "text": "Telegraph\nNativism\nCotton gin"
+    },
+    {
+      "label": "J",
+      "text": "Protective tariffs\nAbundant land\nSlavery"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four boxes labeled F, G, H, J each containing three bulleted factors."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Standard 8.13(B), 2019, Q36."
+}

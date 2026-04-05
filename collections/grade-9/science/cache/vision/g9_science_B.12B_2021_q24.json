@@ -1,0 +1,30 @@
+{
+  "stem": "A flower that has both male and female reproductive structures is shown.\n\nWhich statement best describes an interaction that will allow a flowering plant to reproduce by self-pollination?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "An anther is transferred from a filament to another filament within the same flower."
+    },
+    {
+      "label": "G",
+      "text": "An ovule is transferred from the ovary to a petal on a different flower."
+    },
+    {
+      "label": "H",
+      "text": "A pollen grain is transferred from an anther to the stigma of the same flower."
+    },
+    {
+      "label": "J",
+      "text": "An ovary is transferred from a flower on one plant to a flower on a different plant."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a flower with labeled parts: Stigma, Style, Ovary, Ovule, Petal, Anther with pollen grains, Filament"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

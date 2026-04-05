@@ -1,0 +1,30 @@
+{
+  "stem": "A table comparing the characteristics of four samples is shown.\n\n| Sample   | Nucleus | Chloroplast | Ribosome | Size of Genome        |\n|----------|---------|-------------|----------|----------------------|\n| Sample 1 | Present | Present     | Present  | 150 billion base pairs|\n| Sample 2 | Absent  | Absent      | Present  | 4.6 million base pairs|\n| Sample 3 | Absent  | Absent      | Absent   | 170,000 base pairs    |\n| Sample 4 | Present | Absent      | Present  | 3.2 billion base pairs|\n\nWhich sample most likely contains viruses?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sample 1"
+    },
+    {
+      "label": "G",
+      "text": "Sample 2"
+    },
+    {
+      "label": "H",
+      "text": "Sample 3"
+    },
+    {
+      "label": "J",
+      "text": "Sample 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing characteristics of four samples: Sample, Nucleus, Chloroplast, Ribosome, Size of Genome"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

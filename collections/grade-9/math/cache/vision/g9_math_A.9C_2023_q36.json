@@ -1,0 +1,28 @@
+{
+  "stem": "This year the number of students who participated in sports was 317. Each year the number of students who participate in sports increases by 4%. Which function can be used to model the number of students participating in sports after x years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "f(x) = 317(4)^x"
+    },
+    {
+      "label": "B",
+      "text": "f(x) = 4x + 317"
+    },
+    {
+      "label": "C",
+      "text": "f(x) = 317(1.04)^x"
+    },
+    {
+      "label": "D",
+      "text": "f(x) = 1.04x + 317"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

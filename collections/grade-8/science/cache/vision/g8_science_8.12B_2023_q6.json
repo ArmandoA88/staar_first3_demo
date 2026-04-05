@@ -1,0 +1,33 @@
+{
+  "stem": "Which timeline describes how plant diversity on the nunataks will change over time?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Mosses completely cover rock. Small shrubs grow between cracks of rock. Small trees become rooted in the soil."
+    },
+    {
+      "label": "B",
+      "text": "Mosses completely cover rock. Small trees become rooted in the soil. Small shrubs grow between cracks of rock."
+    },
+    {
+      "label": "C",
+      "text": "Small shrubs grow between cracks of rock. Mosses completely cover rock. Small trees become rooted in the soil."
+    },
+    {
+      "label": "D",
+      "text": "Small shrubs grow between cracks of rock. Small trees become rooted in the soil. Mosses completely cover rock."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Mosses completely cover rock. Small shrubs grow between cracks of rock. Small trees become rooted in the soil. (timeline in option A)",
+    "Mosses completely cover rock. Small trees become rooted in the soil. Small shrubs grow between cracks of rock. (timeline in option B)",
+    "Small shrubs grow between cracks of rock. Mosses completely cover rock. Small trees become rooted in the soil. (timeline in option C)",
+    "Small shrubs grow between cracks of rock. Small trees become rooted in the soil. Mosses completely cover rock. (timeline in option D)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Extracted Part A problem and options only, preserving exact wording and math as visible."
+}

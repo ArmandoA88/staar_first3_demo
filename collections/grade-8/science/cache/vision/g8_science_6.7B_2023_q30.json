@@ -1,0 +1,30 @@
+{
+  "stem": "Carts of different masses are pulled along a flat surface. The table shows some variables for each cart.\n\nAcceleration Variables\n\n| Cart | Applied Force (N) | Frictional Force (N) | Mass (kg) |\n|------|-------------------|----------------------|-----------|\n| 1    | 22                | 18                   | 4.0       |\n| 2    | 32                | 27                   | 5.0       |\n| 3    | 19                | 14                   | 2.0       |\n| 4    | 38                | 30                   | 16        |\n\nWhich two carts experience the same net force?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Carts 1 and 2"
+    },
+    {
+      "label": "B",
+      "text": "Carts 1 and 3"
+    },
+    {
+      "label": "C",
+      "text": "Carts 2 and 3"
+    },
+    {
+      "label": "D",
+      "text": "Carts 2 and 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns: Cart, Applied Force (N), Frictional Force (N), Mass (kg) and rows with values: (1, 22, 18, 4.0), (2, 32, 27, 5.0), (3, 19, 14, 2.0), (4, 38, 30, 16)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

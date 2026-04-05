@@ -1,0 +1,30 @@
+{
+  "stem": "A sphere and its dimension are shown in the diagram.\n\nWhich measurement is closest to the volume of the sphere in cubic inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "1,325.4 in.^3"
+    },
+    {
+      "label": "G",
+      "text": "188.5 in.^3"
+    },
+    {
+      "label": "H",
+      "text": "94.2 in.^3"
+    },
+    {
+      "label": "J",
+      "text": "1,767.1 in.^3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A sphere with a diameter labeled 15 in."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

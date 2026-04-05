@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made to sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after \\textbf{today}"
+    },
+    {
+      "label": "H",
+      "text": "Change \\textit{innocent} to \\textbf{inocent}"
+    },
+    {
+      "label": "J",
+      "text": "Make no change to sentence 20."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

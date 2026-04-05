@@ -1,0 +1,34 @@
+{
+  "stem": "Which phrases from President Roosevelt\u2019s address reveal a turning away from U.S. isolationism during World War II?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": "1",
+      "text": "Nazi forces are not seeking mere modifications in colonial maps or in minor European boundaries. . . ."
+    },
+    {
+      "label": "2",
+      "text": "We have just now engaged in a great debate. . . ."
+    },
+    {
+      "label": "3",
+      "text": "This decision is the end of any attempts at appeasement in our land; the end of urging us to get along with dictators; the end of compromise with tyranny and the forces of oppression."
+    },
+    {
+      "label": "4",
+      "text": "We believe firmly that when our production output is in full swing, the democracies of the world will be able to prove that dictatorships cannot win."
+    },
+    {
+      "label": "5",
+      "text": "But, now, now, the time element is of supreme importance. Every plane, every other instrument of war, old and new, every instrument that we can spare now, we will send overseas because that is the common sense of strategy."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt from an address by President Franklin D. Roosevelt in 1941 with five numbered statements he made."
+  ],
+  "item_type_inferred": "Hot Text",
+  "confidence": 1,
+  "notes": "Exact wording and labeling preserved from the image. The question asks for two correct answer choices from the list of five statements."
+}

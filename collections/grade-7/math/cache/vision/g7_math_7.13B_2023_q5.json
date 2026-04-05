@@ -1,0 +1,38 @@
+{
+  "stem": "Rashad is preparing his monthly budget for college. The table shows Rashad's budget.\n\nWhich categories represent more than 10% of the total budget?",
+  "instruction": "Select THREE correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "Groceries"
+    },
+    {
+      "label": null,
+      "text": "Gasoline"
+    },
+    {
+      "label": null,
+      "text": "Cell phone"
+    },
+    {
+      "label": null,
+      "text": "Rent"
+    },
+    {
+      "label": null,
+      "text": "Entertainment"
+    },
+    {
+      "label": null,
+      "text": "Utilities"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rashad\u2019s Monthly Budget table with Category and Monthly Amount (dollars) columns: Groceries 250, Gasoline 90, Cell phone 100, Rent 440, Entertainment 110, Utilities 75"
+  ],
+  "item_type_inferred": "Multiple Choice - Multiple Answers",
+  "confidence": 1,
+  "notes": null
+}

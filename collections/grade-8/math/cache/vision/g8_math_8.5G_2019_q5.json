@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph represents y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with y = 1, a horizontal line"
+    },
+    {
+      "label": "B",
+      "text": "Graph with a curved arrow going from bottom left to top right"
+    },
+    {
+      "label": "C",
+      "text": "Graph of a circle centered at the origin"
+    },
+    {
+      "label": "D",
+      "text": "Graph of a vertical line at x = 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: horizontal line y=1 on coordinate plane with x from -4 to 4 and y from -4 to 4",
+    "Graph B: curve starting near (-3,-4) going up in an s-shape to near (3,4)",
+    "Graph C: circle centered at (0,0) with radius 3 on the coordinate plane",
+    "Graph D: vertical line at x=2 on the coordinate plane"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

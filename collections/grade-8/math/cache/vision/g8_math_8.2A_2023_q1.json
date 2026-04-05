@@ -1,0 +1,30 @@
+{
+  "stem": "The Venn diagram shows the relationship among several sets of numbers.\n\nWhere should \\(- \\sqrt{169} \\) be placed in the Venn diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Rational numbers, because \\(- \\sqrt{169} \\) is equal to \\(- 84.5\\)"
+    },
+    {
+      "label": "B",
+      "text": "Integers, because \\(- \\sqrt{169} \\) is equal to \\(- 13\\)"
+    },
+    {
+      "label": "C",
+      "text": "Irrational numbers, because \\(- \\sqrt{169} \\) is equal to \\(- 84.5\\)"
+    },
+    {
+      "label": "D",
+      "text": "Whole numbers, because \\(- \\sqrt{169} \\) is equal to 13"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with Real numbers containing Rational numbers and Irrational numbers; Rational numbers containing Integers; Integers containing Whole numbers; Whole numbers containing Natural numbers"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "stem": "Which list shows the values ordered from least to greatest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "7.42 \\quad \\frac{38}{5} \\quad \\sqrt{61} \\quad 745%"
+    },
+    {
+      "label": "B",
+      "text": "\\sqrt{61} \\quad \\frac{38}{5} \\quad 745% \\quad 7.42"
+    },
+    {
+      "label": "C",
+      "text": "745% \\quad \\sqrt{61} \\quad \\frac{38}{5} \\quad 7.42"
+    },
+    {
+      "label": "D",
+      "text": "7.42 \\quad 745% \\quad \\frac{38}{5} \\quad \\sqrt{61}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction",
+    "square root",
+    "percent"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1.0,
+  "notes": null
+}

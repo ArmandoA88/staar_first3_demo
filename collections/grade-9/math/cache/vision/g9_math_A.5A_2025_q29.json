@@ -1,0 +1,30 @@
+{
+  "stem": "What value of z makes the equation \\( \\frac{4}{3} z + 6 = -4 \\left( \\frac{1}{6} z + 9 \\right) \\) true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{3}{2} \\)"
+    },
+    {
+      "label": "B",
+      "text": "-21"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{9}{2} \\)"
+    },
+    {
+      "label": "D",
+      "text": "-45"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{4}{3} z + 6 = -4 \\left( \\frac{1}{6} z + 9 \\right) \\)"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement is supported by the information in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The number of premium memberships sold during Week 4 was 75% more than the number of premium memberships sold during Week 1."
+    },
+    {
+      "label": "G",
+      "text": "The total number of memberships sold during Week 1 was equal to the total number of memberships sold during Week 2."
+    },
+    {
+      "label": "H",
+      "text": "The number of premium memberships sold during Week 3 was 2 times the number of premium memberships sold during Week 2."
+    },
+    {
+      "label": "J",
+      "text": "The total number of memberships sold during Week 4 was 35 less than the total number of memberships sold during Week 3."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled Memberships showing Number of Memberships on vertical axis from 0 to 100, and Week on horizontal axis from 1 to 4. Two bars per week: Standard (gray) and Premium (black). Week 1: Standard 55, Premium 20; Week 2: Standard 45, Premium 25; Week 3: Standard 70, Premium 50; Week 4: Standard 60, Premium 95. Legend distinguishes Standard and Premium."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "The problem relates to interpreting a bar graph comparing standard and premium memberships sold over 4 weeks."
+}

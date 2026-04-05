@@ -1,0 +1,30 @@
+{
+  "stem": "Which factor contributed most to the population change shown in this table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Completion of the Erie Canal"
+    },
+    {
+      "label": "G",
+      "text": "Discovery of gold at Sutter's Mill"
+    },
+    {
+      "label": "H",
+      "text": "Completion of the Transcontinental Railroad"
+    },
+    {
+      "label": "J",
+      "text": "Relocation of American Indians to reservations"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "California Census Data table with columns Year and Population: 1850 - 92,597, 1860 - 379,994"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

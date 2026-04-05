@@ -1,0 +1,31 @@
+{
+  "stem": "What is the value of x in the solution to this system of equations?\n\n3x - 5y = 12\n\ny = -6x + 2",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{22}{3}"
+    },
+    {
+      "label": "B",
+      "text": "-\\frac{10}{3}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{2}{3}"
+    },
+    {
+      "label": "D",
+      "text": "-\\frac{18}{3}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3x - 5y = 12",
+    "y = -6x + 2"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

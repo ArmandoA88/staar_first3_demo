@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to 24gh - 12g^2 + 18g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6g \\left( 4h - 12g + 18 \\right)"
+    },
+    {
+      "label": "B",
+      "text": "12g \\left( 2h - 12g + 18 \\right)"
+    },
+    {
+      "label": "C",
+      "text": "6g \\left( 4h - 2g + 3 \\right)"
+    },
+    {
+      "label": "D",
+      "text": "12g \\left( 2h - g + 3 \\right)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "24gh - 12g^2 + 18g",
+    "6g (4h - 12g + 18)",
+    "12g (2h - 12g + 18)",
+    "6g (4h - 2g + 3)",
+    "12g (2h - g + 3)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

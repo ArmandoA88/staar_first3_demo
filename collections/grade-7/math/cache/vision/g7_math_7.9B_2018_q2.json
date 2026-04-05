@@ -1,0 +1,30 @@
+{
+  "stem": "An observatory is shaped like a cylinder standing on one of its bases with a dome on top. The diameter of the floor of the observatory is 64 feet, as shown in the diagram.\n\nWhich measurement is closest to the circumference of the base of the observatory in feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "200.96 ft"
+    },
+    {
+      "label": "G",
+      "text": "3,215.36 ft"
+    },
+    {
+      "label": "H",
+      "text": "100.48 ft"
+    },
+    {
+      "label": "J",
+      "text": "401.92 ft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cylinder with dome on top image, diameter of base is labeled 64 ft"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

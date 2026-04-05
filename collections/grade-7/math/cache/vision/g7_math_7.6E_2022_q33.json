@@ -1,0 +1,30 @@
+{
+  "stem": "A student has a set of cards. Each card has a picture of one shape. The table shows the number of cards that have a picture of each shape. The student will randomly select one card from the set.\n\nShape Cards\n\n| Shape     | Number of Cards |\n|-----------|-----------------|\n| Circle    | 8               |\n| Pentagon  | 12              |\n| Rectangle | 10              |\n| Square    | 6               |\n| Triangle  | 4               |\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The probability of selecting a card with a picture of a circle is \\( \\frac{5}{8} \\), and the probability of selecting a card that is not a picture of a circle is \\( \\frac{3}{8} \\)."
+    },
+    {
+      "label": "B",
+      "text": "The probability of selecting a card with a picture of a circle is \\( \\frac{3}{8} \\), and the probability of selecting a card that is not a picture of a circle is \\( \\frac{5}{8} \\)."
+    },
+    {
+      "label": "C",
+      "text": "The probability of selecting a card with a picture of a circle is \\( \\frac{1}{5} \\), and the probability of selecting a card that is not a picture of a circle is \\( \\frac{4}{5} \\)."
+    },
+    {
+      "label": "D",
+      "text": "The probability of selecting a card with a picture of a circle is \\( \\frac{4}{5} \\), and the probability of selecting a card that is not a picture of a circle is \\( \\frac{1}{5} \\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with two columns labeled 'Shape' and 'Number of Cards'. The rows show: Circle - 8, Pentagon - 12, Rectangle - 10, Square - 6, Triangle - 4."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

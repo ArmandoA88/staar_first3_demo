@@ -1,0 +1,50 @@
+{
+  "stem": "A customer is ordering hats and T-shirts from an online store. Each hat costs $7, and each T-shirt costs $10. The customer receives free shipping if the amount of the order is over $100.\n\nWrite an inequality that represents all possible combinations of hats, x, and T-shirts, y, in an order that qualifies for free shipping.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "100"
+    },
+    {
+      "label": null,
+      "text": "7"
+    },
+    {
+      "label": null,
+      "text": "10"
+    },
+    {
+      "label": null,
+      "text": "17"
+    },
+    {
+      "label": null,
+      "text": "<"
+    },
+    {
+      "label": null,
+      "text": ">"
+    },
+    {
+      "label": null,
+      "text": "="
+    }
+  ],
+  "choice_pool": [
+    "100",
+    "7",
+    "10",
+    "17",
+    "<",
+    ">",
+    "="
+  ],
+  "response_template": "[blank_1] x + [blank_2] y [blank_3] [blank_4]",
+  "visual_elements": [
+    "drag_and_drop_tokens"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.98,
+  "notes": null
+}

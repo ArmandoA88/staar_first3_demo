@@ -1,0 +1,33 @@
+{
+  "stem": "Which scatterplot does NOT suggest a linear relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot F with data points roughly horizontal around y=3",
+    "scatterplot H showing data points increasing roughly in a line from bottom left to top right",
+    "scatterplot G showing data points decreasing roughly in a line from top left to bottom right",
+    "scatterplot J showing data points forming a curved shape, first horizontal then vertical"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

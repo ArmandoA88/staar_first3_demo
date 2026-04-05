@@ -1,0 +1,28 @@
+{
+  "stem": "A bank account earning annual compound interest was opened, and no additional deposits or withdrawals were made after the initial deposit. The balance in the account after x years can be modeled by b(x) = 850(1.025)^x.\n\nWhich statement is the best interpretation of one of the values in this function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The initial balance of the account decreases at a rate of 97.5% each year."
+    },
+    {
+      "label": "G",
+      "text": "The balance in the account increases at a rate of 2.5% each year."
+    },
+    {
+      "label": "H",
+      "text": "The initial balance of the account was $1,025."
+    },
+    {
+      "label": "J",
+      "text": "The balance in the account at the end of one year is $850."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

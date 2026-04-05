@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shows the number of game consoles sold in millions since 2009.\n\nBased on this information, which function best models the number of game consoles sold in millions x years since 2009?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "g(x) = 0.6(25.5)^x"
+    },
+    {
+      "label": "B",
+      "text": "g(x) = 25.5(0.6)^x"
+    },
+    {
+      "label": "C",
+      "text": "g(x) = 6.12(25.5)^x"
+    },
+    {
+      "label": "D",
+      "text": "g(x) = 25.5(6.12)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph plotting points (0, 25.5), (1, 15.3), (2, 9.18) with curve descending from about 25.5 on y-axis as x goes from 0 to 7"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

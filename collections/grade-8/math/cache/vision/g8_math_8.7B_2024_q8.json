@@ -1,0 +1,30 @@
+{
+  "stem": "A triangular prism and its dimensions in feet are shown.",
+  "instruction": "What is the total surface area of the prism in square feet?",
+  "options": [
+    {
+      "label": "A",
+      "text": "456 ft\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "672 ft\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "768 ft\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "576 ft\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangular prism with dimensions: triangular base has sides 10 ft, 10 ft, and base 12 ft with height 8 ft; the prism length is 18 ft"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

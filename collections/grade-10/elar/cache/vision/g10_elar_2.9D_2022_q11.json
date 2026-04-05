@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete the comma after Furthermore"
+    },
+    {
+      "label": "B",
+      "text": "Change than to then"
+    },
+    {
+      "label": "C",
+      "text": "Change they are to it is"
+    },
+    {
+      "label": "D",
+      "text": "Change widely to wildly"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

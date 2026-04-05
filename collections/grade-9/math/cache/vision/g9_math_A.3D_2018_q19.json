@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents the solution set of \\(-4x \\leq 6y - 54\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with solid line from (14, 2) to (0, 9) with shading above the line"
+    },
+    {
+      "label": "B",
+      "text": "Graph with dashed line from (14, 2) to (0, 9) with shading below the line"
+    },
+    {
+      "label": "C",
+      "text": "Graph with dashed line from (0, 9) to (14, 2) with shading above the line"
+    },
+    {
+      "label": "D",
+      "text": "Graph with solid line from (0, 9) to (14, 2) with shading below the line"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4 graphs labeled A, B, C, D with coordinate axes showing lines and shaded regions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Options described based on visible shaded areas and line styles, points estimated from grid for clarity."
+}

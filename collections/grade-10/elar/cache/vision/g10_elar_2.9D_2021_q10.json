@@ -1,0 +1,36 @@
+{
+  "stem": "What change is needed in sentence 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert a comma after NASA"
+    },
+    {
+      "label": "G",
+      "text": "Change idea to ideas"
+    },
+    {
+      "label": "H",
+      "text": "Change becoming to to become"
+    },
+    {
+      "label": "J",
+      "text": "Change incomprehensable to incomprehensible"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q10 Passage #3",
+    "10",
+    "What change is needed in sentence 1?",
+    "F Insert a comma after NASA",
+    "G Change idea to ideas",
+    "H Change becoming to to become",
+    "J Change incomprehensable to incomprehensible"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

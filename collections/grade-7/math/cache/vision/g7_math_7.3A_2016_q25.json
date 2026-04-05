@@ -1,0 +1,31 @@
+{
+  "stem": "The diameter of the handle of a softball bat is 1\\(\\frac{3}{4}\\) inches. What is the length in inches of the diameters of 8 of these bat handles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6 in."
+    },
+    {
+      "label": "B",
+      "text": "8\\(\\frac{3}{4}\\) in."
+    },
+    {
+      "label": "C",
+      "text": "9\\(\\frac{3}{4}\\) in."
+    },
+    {
+      "label": "D",
+      "text": "14 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1\\(\\frac{3}{4}\\) (mixed fraction in question)",
+    "8 (number of handles)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

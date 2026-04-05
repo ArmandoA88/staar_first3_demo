@@ -1,0 +1,30 @@
+{
+  "stem": "The side wall of a barn is shown with its dimensions in feet.\n\nWhat is the area of the barn wall in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "231 ft\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "225 ft\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "237 ft\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "249 ft\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing the side wall of a barn with dimensions in feet: A rectangle of height 11 ft and base 15 ft, topped by a trapezoid with the short parallel side 15 ft, the height 4 ft on both sides, and slant sides 3 ft each."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

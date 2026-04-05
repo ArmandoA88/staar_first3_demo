@@ -1,0 +1,70 @@
+{
+  "stem": "The table shows a linear relationship between the variables x and y.\n\n| x  | y    |\n|----|-------|\n| 5  | 16.5  |\n| 7  | 21.5  |\n| 11 | 31.5  |\n\nWhat are the slope and y-intercept of the linear relationship?",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [
+    {
+      "label": null,
+      "text": "3"
+    },
+    {
+      "label": null,
+      "text": "5.7"
+    },
+    {
+      "label": null,
+      "text": "2.25"
+    },
+    {
+      "label": null,
+      "text": "-4.5"
+    },
+    {
+      "label": null,
+      "text": "7.5"
+    },
+    {
+      "label": null,
+      "text": "10.5"
+    },
+    {
+      "label": null,
+      "text": "11.5"
+    },
+    {
+      "label": null,
+      "text": "12.5"
+    },
+    {
+      "label": null,
+      "text": "15"
+    },
+    {
+      "label": null,
+      "text": "9"
+    },
+    {
+      "label": null,
+      "text": "16.5"
+    }
+  ],
+  "choice_pool": [
+    "3",
+    "5.7",
+    "2.25",
+    "-4.5",
+    "7.5",
+    "10.5",
+    "11.5",
+    "12.5",
+    "15",
+    "9",
+    "16.5"
+  ],
+  "response_template": "The slope of the linear relationship is [blank_1], and the y-intercept is [blank_2].",
+  "visual_elements": [
+    "table with columns labeled x and y showing values: 5,7,11 for x and 16.5,21.5,31.5 for y"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.99,
+  "notes": null
+}

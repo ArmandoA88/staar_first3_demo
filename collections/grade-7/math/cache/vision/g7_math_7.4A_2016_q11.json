@@ -1,0 +1,31 @@
+{
+  "stem": "A dolphin travels through the water at a speed of 25 kilometers per hour. Which representation shows the distance a dolphin can travel at this rate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\nDistance Traveled by a Dolphin\n\nTime (hours) | Distance (kilometers)\n0 | 0\n2 | 50\n4 | 100\n6 | 150\n8 | 200\n"
+    },
+    {
+      "label": "B",
+      "text": "y = x + 25, where x represents the time in hours and y represents the distance in kilometers"
+    },
+    {
+      "label": "C",
+      "text": "Distance Traveled by a Dolphin\nGraph with x-axis labeled Time (hours) and y-axis labeled Distance (kilometers), points on the line at approximately (25,1), (50,2), (75,3), (100,4), (125,5)"
+    },
+    {
+      "label": "D",
+      "text": "In 5 hours a dolphin can travel a distance of 135 kilometers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table under option A",
+    "Graph under option C"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

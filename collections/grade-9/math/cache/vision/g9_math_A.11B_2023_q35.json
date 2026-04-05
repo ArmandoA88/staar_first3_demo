@@ -1,0 +1,46 @@
+{
+  "stem": "The expression x^6y^3 \\div \\left( \\frac{x^2}{y} \\right) can be written as a product of two exponential terms with bases x and y for all values of x and y where the expression is defined. Choose the correct value of the exponent for each term.",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "-3"
+    },
+    {
+      "label": null,
+      "text": "2"
+    },
+    {
+      "label": null,
+      "text": "3"
+    },
+    {
+      "label": null,
+      "text": "4"
+    },
+    {
+      "label": null,
+      "text": "8"
+    }
+  ],
+  "choice_pool": [
+    "-3",
+    "2",
+    "3",
+    "4",
+    "8"
+  ],
+  "response_template": "x[blank_1] y[blank_2]",
+  "visual_elements": [
+    "x^6 y^3 \\div \\left( \\frac{x^2}{y} \\right)",
+    "-3",
+    "2",
+    "3",
+    "4",
+    "8",
+    "x[ ] y[ ]"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "This is a drag and drop question asking to find exponents for bases x and y from the given expression."
+}

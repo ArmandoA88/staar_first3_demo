@@ -1,0 +1,30 @@
+{
+  "stem": "Carolyn will buy the same number of stamps every month to add to a stamp collection her grandfather gave her. The table shows the number of stamps Carolyn will have at the end of x months.\n\nCarolyn's Stamp Collection\n\nNumber of Months, x  1  3  6  10\nNumber of Stamps, y  250  350  500  700\n\nHow many stamps was Carolyn given, and how many stamps will she buy every month?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Carolyn was given 200 stamps, and she will buy 50 stamps every month."
+    },
+    {
+      "label": "B",
+      "text": "Carolyn was given 180 stamps, and she will buy 70 stamps every month."
+    },
+    {
+      "label": "C",
+      "text": "Carolyn was given 180 stamps, and she will buy 50 stamps every month."
+    },
+    {
+      "label": "D",
+      "text": "Carolyn was given 200 stamps, and she will buy 70 stamps every month."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a quadratic function is shown on the grid.\n\nWhich function is best represented by this graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "f(x) = x^2 + 3x - 4"
+    },
+    {
+      "label": "G",
+      "text": "f(x) = -x^2 - 3x + 4"
+    },
+    {
+      "label": "H",
+      "text": "f(x) = x^2 - 3x - 4"
+    },
+    {
+      "label": "J",
+      "text": "f(x) = -x^2 + 3x + 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of quadratic function with vertex near (-1.5, 6.5), opening downward"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

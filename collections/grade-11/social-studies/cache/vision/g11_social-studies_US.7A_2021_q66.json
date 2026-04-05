@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement correctly summarizes the reason for this speech?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Axis violations of international law caused the United States to hold criminal trials."
+    },
+    {
+      "label": "G",
+      "text": "German expansion in Western Europe caused the United States to assist France."
+    },
+    {
+      "label": "H",
+      "text": "Japanese aggression in the Pacific caused the United States to declare war."
+    },
+    {
+      "label": "J",
+      "text": "Allied defeats on the battlefield caused the United States to develop new weapons."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Yesterday, December 7, 1941\u2014a date which will live in infamy\u2014the United States of America was suddenly and deliberately attacked. . . .\n\n\u2014President Franklin D. Roosevelt, address to Congress, December 8, 1941"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

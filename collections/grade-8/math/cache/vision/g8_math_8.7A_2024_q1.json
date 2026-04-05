@@ -1,0 +1,30 @@
+{
+  "stem": "A marble is in the shape of a sphere with a diameter of 13 millimeters. Which measurement is closest to the volume of the marble in cubic millimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1,150 mm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "863 mm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "6,902 mm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "9,203 mm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sphere with diameter labeled 13 mm"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

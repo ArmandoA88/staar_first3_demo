@@ -1,0 +1,30 @@
+{
+  "stem": "The table represents some points on the graph of quadratic function g.\n\n\\begin{tabular}{c|c|c|c|c|c|c}\nx & \\frac{1}{2} & 1 & \\frac{3}{2} & 2 & \\frac{5}{2} & 3 \\\\\n\\hline\ng(x) & \\frac{7}{4} & 4 & \\frac{19}{4} & 4 & \\frac{7}{4} & -2\n\\end{tabular}\n\nWhat is the range of g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "All real numbers less than or equal to \\frac{3}{2}"
+    },
+    {
+      "label": "B",
+      "text": "All real numbers less than or equal to \\frac{19}{4}"
+    },
+    {
+      "label": "C",
+      "text": "All real numbers greater than or equal to \\frac{3}{2}"
+    },
+    {
+      "label": "D",
+      "text": "All real numbers greater than or equal to \\frac{19}{4}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The table with values x: 1/2, 1, 3/2, 2, 5/2, 3 and g(x): 7/4, 4, 19/4, 4, 7/4, -2"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

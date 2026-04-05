@@ -1,0 +1,32 @@
+{
+  "stem": "The diagram shows a duck swimming in a stream in the opposite direction the stream is flowing. The duck pushes against the water, so the water pushes the duck forward with 20 newtons of force. The water also exerts 15 newtons of resistive force against the duck.",
+  "instruction": "Which statement best describes the resulting motion of the duck?",
+  "options": [
+    {
+      "label": "F",
+      "text": "The duck will stop moving."
+    },
+    {
+      "label": "G",
+      "text": "The duck will stop and then start moving again."
+    },
+    {
+      "label": "H",
+      "text": "The duck will continue moving in its current direction."
+    },
+    {
+      "label": "J",
+      "text": "The duck will move in the direction that the stream is flowing."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "20 newtons \u2192",
+    "duck in water",
+    "\u2190 15 newtons"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Forces given: 20 N forward, 15 N backward; net force 5 N forward."
+}

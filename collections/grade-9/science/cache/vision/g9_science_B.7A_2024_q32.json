@@ -1,0 +1,45 @@
+{
+  "stem": "Identify the components of DNA.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "Deoxyribose sugar"
+    },
+    {
+      "label": null,
+      "text": "Phosphate"
+    },
+    {
+      "label": null,
+      "text": "Base pair"
+    },
+    {
+      "label": null,
+      "text": "Nitrogenous base"
+    },
+    {
+      "label": null,
+      "text": "Ribose sugar"
+    },
+    {
+      "label": null,
+      "text": "Nucleotide"
+    }
+  ],
+  "choice_pool": [
+    "Deoxyribose sugar",
+    "Phosphate",
+    "Base pair",
+    "Nitrogenous base",
+    "Ribose sugar",
+    "Nucleotide"
+  ],
+  "response_template": "[blank_1]\n[blank_2]\n[blank_3]",
+  "visual_elements": [
+    "DNA diagram with labeled base pairs (T - A, G - C, C - G, A - T), sugar-phosphate backbone, and blank boxes for labeling components"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

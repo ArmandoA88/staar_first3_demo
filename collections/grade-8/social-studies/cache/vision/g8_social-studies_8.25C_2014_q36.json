@@ -1,0 +1,30 @@
+{
+  "stem": "Which headline provides the best example of a First Amendment guarantee in action?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\u201cReligious University Forced to Close by State\u201d"
+    },
+    {
+      "label": "G",
+      "text": "\u201cMormons Hold State Convention Downtown\u201d"
+    },
+    {
+      "label": "H",
+      "text": "\u201cCongress Declares a National Day of Remembrance\u201d"
+    },
+    {
+      "label": "J",
+      "text": "\u201cProtesters Arrested at Antiwar Rally\u201d"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

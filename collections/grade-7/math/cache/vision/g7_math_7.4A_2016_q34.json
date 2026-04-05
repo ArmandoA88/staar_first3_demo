@@ -1,0 +1,30 @@
+{
+  "stem": "Caroline\u2019s cell phone plan costs $32 per month. Which table shows the sum of the amounts that Caroline will pay for her cell phone plan over the next 4 months?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Month 1 2 3 4 Total Amount Paid $0 $32 $64 $96"
+    },
+    {
+      "label": "G",
+      "text": "Month 1 2 3 4 Total Amount Paid $8 $16 $24 $32"
+    },
+    {
+      "label": "H",
+      "text": "Month 1 2 3 4 Total Amount Paid $32 $36 $40 $44"
+    },
+    {
+      "label": "J",
+      "text": "Month 1 2 3 4 Total Amount Paid $32 $64 $96 $128"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled F, G, H, and J each titled Caroline\u2019s Cell Phone Plan, showing months 1 to 4 and corresponding total amount paid values."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Standard 7.4(A), question 34 from 2016 STAAR."
+}

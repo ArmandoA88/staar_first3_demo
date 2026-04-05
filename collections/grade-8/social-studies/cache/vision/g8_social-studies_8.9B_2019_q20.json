@@ -1,0 +1,30 @@
+{
+  "stem": "What is the \u201cgreat act\u201d referred to by Senator Sumner in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Senate\u2019s readmission of the last Confederate state"
+    },
+    {
+      "label": "G",
+      "text": "The addition of Hiram Rhodes Revels to the U.S. Senate"
+    },
+    {
+      "label": "H",
+      "text": "The Senate\u2019s acquittal of President Andrew Johnson"
+    },
+    {
+      "label": "J",
+      "text": "The election of the first woman to the U.S. Senate"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "All men are created equal, says the great Declaration and now a great act attests this verity. Today we make the Declaration a reality. . . . The Declaration was only half established by Independence. The greatest duty remained behind. In assuring the equal rights of all we complete the work.\n\u2014Senator Charles Sumner, 1870"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

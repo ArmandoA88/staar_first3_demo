@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the H-R diagram, which type of star could have a surface temperature of 3,000 K and be 100 times brighter than the sun?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Main-sequence star"
+    },
+    {
+      "label": "B",
+      "text": "Supergiant"
+    },
+    {
+      "label": "C",
+      "text": "Giant"
+    },
+    {
+      "label": "D",
+      "text": "White dwarf"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Hertzsprung-Russell diagram showing Luminosity (L_Sun) vs Spectral Class with labeled regions: Supergiants, Giants, Main-sequence stars, White dwarfs, and a marked Sun point, and temperature values 25,000, 10,000, 6,000, and 3,000 K on top"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

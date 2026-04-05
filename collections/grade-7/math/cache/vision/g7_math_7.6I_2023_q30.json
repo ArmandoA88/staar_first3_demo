@@ -1,0 +1,30 @@
+{
+  "stem": "A deli makes sandwiches using 1 type of bread, 1 type of meat, and 1 type of cheese for each sandwich. The sandwich options are shown in the table.\n\nWhat is the probability that a customer will randomly choose a sandwich that is made using white bread, ham, and cheddar cheese?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{1}{2}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{1}{3}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{1}{6}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{1}{12}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with headers Bread, Meat, Cheese and values White, Ham, American in first row; Wheat, Turkey, Cheddar in second row; empty bread, Salami, empty cheese in third row."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

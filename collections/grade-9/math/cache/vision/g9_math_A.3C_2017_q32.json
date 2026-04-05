@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a function is shown on the grid.\nWhich ordered pair best represents the location of the y-intercept?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( \\left( \\frac{1}{3}, 0 \\right) \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( (0, -2) \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( \\left( 0, \\frac{1}{3} \\right) \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( (-2, 0) \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of a function with an increasing line crossing y-axis at (0,-2)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

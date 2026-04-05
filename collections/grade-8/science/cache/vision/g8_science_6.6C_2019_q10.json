@@ -1,0 +1,28 @@
+{
+  "stem": "A student is trying to classify an unidentified, solid gray material as a metal or a nonmetal. Which question will best help the student classify the material?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Is the material malleable or ductile?"
+    },
+    {
+      "label": "G",
+      "text": "Does the material feel hard to the touch?"
+    },
+    {
+      "label": "H",
+      "text": "Will the material float in water?"
+    },
+    {
+      "label": "J",
+      "text": "Does the material feel rough or smooth?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

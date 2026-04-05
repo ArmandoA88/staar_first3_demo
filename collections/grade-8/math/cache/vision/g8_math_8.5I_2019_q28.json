@@ -1,0 +1,30 @@
+{
+  "stem": "Which function can be used to find y, the number of gallons of fuel remaining in the tank of the semitruck after it has traveled x miles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = 240x - 30"
+    },
+    {
+      "label": "G",
+      "text": "y = -\\frac{1}{6}x + 240"
+    },
+    {
+      "label": "H",
+      "text": "y = 240x - 10"
+    },
+    {
+      "label": "J",
+      "text": "y = -\\frac{1}{10}x + 240"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled Semitruck Fuel with x-axis labeled Number of Miles Traveled (0 to 400) and y-axis labeled Number of Gallons of Fuel Remaining (0 to 270). A line on the graph starts near 240 on y-axis when x=0 and decreases to about 180 when x=400."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

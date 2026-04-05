@@ -1,0 +1,34 @@
+{
+  "stem": "Some inherited health disorders are caused by nondisjunction. During nondisjunction, homologous chromosomes fail to separate properly during the formation of sex cells.\n\nBased on the images, which cells MOST LIKELY show examples of nondisjunction?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "(First image of cells)"
+    },
+    {
+      "label": null,
+      "text": "(Second image of cells)"
+    },
+    {
+      "label": null,
+      "text": "(Third image of cells)"
+    },
+    {
+      "label": null,
+      "text": "(Fourth image of cells)"
+    },
+    {
+      "label": null,
+      "text": "(Fifth image of cells)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(Five circular images showing chromosomes in cells)"
+  ],
+  "item_type_inferred": "Multiple Selection",
+  "confidence": 0.95,
+  "notes": "Answer choices correspond to five cell images; exact image text not provided due to image nature."
+}

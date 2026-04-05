@@ -1,0 +1,30 @@
+{
+  "stem": "A survey of customers at a restaurant revealed that 7 out of 10 customers preferred the restaurant's new spaghetti sauce. Which graph shows the relationship between y, the number of customers who preferred the new spaghetti sauce, and x, the total number of customers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with x-axis labeled Total Number of Customers from 0 to 40 and y-axis labeled Customers Who Preferred New Sauce from 7 to 63, with a line from (0,7) to (40,35)."
+    },
+    {
+      "label": "B",
+      "text": "Graph with x-axis labeled Total Number of Customers from 0 to 56 and y-axis labeled Customers Who Preferred New Sauce from 0 to 45, with a line from (0,0) to (28,45)."
+    },
+    {
+      "label": "C",
+      "text": "Graph with x-axis labeled Total Number of Customers from 0 to 40 and y-axis labeled Customers Who Preferred New Sauce from 7 to 63, with a line from (0,7) to (40,42)."
+    },
+    {
+      "label": "D",
+      "text": "Graph with x-axis labeled Total Number of Customers from 0 to 56 and y-axis labeled Customers Who Preferred New Sauce from 0 to 45, with a line from (0,0) to (28,45)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled A, B, C, and D each titled 'New Spaghetti Sauce' showing lines representing relationships between total number of customers (x-axis) and customers who preferred new sauce (y-axis)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Graph options depict different slopes representing relationships; correct interpretation involves recognizing 7 out of 10 ratio, i.e., y = 0.7x."
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "The area of a piece of land is 4,951,000 square meters. How is this number of square meters written in scientific notation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "4.951 \\times 10^{6}"
+    },
+    {
+      "label": "G",
+      "text": "4.951 \\times 10^{-6}"
+    },
+    {
+      "label": "H",
+      "text": "4,951 \\times 10^{3}"
+    },
+    {
+      "label": "J",
+      "text": "4,951 \\times 10^{-3}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4.951 \\times 10^{6}",
+    "4.951 \\times 10^{-6}",
+    "4,951 \\times 10^{3}",
+    "4,951 \\times 10^{-3}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

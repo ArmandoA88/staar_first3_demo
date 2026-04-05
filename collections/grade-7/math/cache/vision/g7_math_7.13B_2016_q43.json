@@ -1,0 +1,30 @@
+{
+  "stem": "Felicia earns $800 a month. The table shows her monthly budget.\n\nMonthly Budget\n\n| Expense        | Amount of Money |\n|----------------|----------------|\n| College savings| $200           |\n| Car payment    | $275           |\n| Cell phone     | $125           |\n| Clothes        | $50            |\n| Food           | $100           |\n| Other          | $50            |\n\nWhich statement is supported by the information in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Felicia spends 10% of her monthly budget on clothes and food."
+    },
+    {
+      "label": "B",
+      "text": "Felicia spends 25% of her monthly budget on her car payment."
+    },
+    {
+      "label": "C",
+      "text": "Felicia spends 20% of her monthly budget on college savings."
+    },
+    {
+      "label": "D",
+      "text": "Felicia spends 50% of her monthly budget on her car payment and cell phone."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing Monthly Budget with two columns: Expense and Amount of Money. Rows: College savings $200, Car payment $275, Cell phone $125, Clothes $50, Food $100, Other $50."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Which representation of a transformation on a coordinate grid does not preserve congruence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( (x,y) \\to \\left( \\frac{1}{7} x , \\frac{1}{7} y \\right) \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( (x,y) \\to (x+7, y+7) \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( (x,y) \\to (x, -y) \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( (x,y) \\to (y, -x) \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "stem": "The first five terms of a sequence are a\u2081 = 47, a\u2082 = 33, a\u2083 = 19, a\u2084 = 5, and a\u2085 = -9.\n\nBased on this information, create an equation that can be used to find the nth term of the sequence, a\u2099. Move the correct answer to each box. Each answer may be used more than once. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "-61"
+    },
+    {
+      "label": null,
+      "text": "-47"
+    },
+    {
+      "label": null,
+      "text": "-14"
+    },
+    {
+      "label": null,
+      "text": "14"
+    },
+    {
+      "label": null,
+      "text": "47"
+    },
+    {
+      "label": null,
+      "text": "61"
+    }
+  ],
+  "choice_pool": [
+    "-61",
+    "-47",
+    "-14",
+    "14",
+    "47",
+    "61"
+  ],
+  "response_template": "a\u2099 = [blank_1] n + [blank_2]",
+  "visual_elements": [
+    "sequence terms: a\u2081 = 47, a\u2082 = 33, a\u2083 = 19, a\u2084 = 5, a\u2085 = -9",
+    "answer choices: -61, -47, -14, 14, 47, 61",
+    "equation template: a\u2099 = [blank_1] n + [blank_2]"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

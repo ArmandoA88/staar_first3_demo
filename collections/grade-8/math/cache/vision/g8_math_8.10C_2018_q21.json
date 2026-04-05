@@ -1,0 +1,30 @@
+{
+  "stem": "Pentagon VWXYZ is shown on the coordinate grid. A student reflected pentagon VWXYZ across the x-axis to create pentagon V'W'X'Y'Z'.",
+  "instruction": "Which rule describes this transformation?",
+  "options": [
+    {
+      "label": "A",
+      "text": "(x, y) \u2192 (x, -y)"
+    },
+    {
+      "label": "B",
+      "text": "(x, y) \u2192 (x, y + 8)"
+    },
+    {
+      "label": "C",
+      "text": "(x, y) \u2192 (-y, x)"
+    },
+    {
+      "label": "D",
+      "text": "(x, y) \u2192 (-x, y)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with pentagon VWXYZ located primarily in quadrant IV with vertices at approximately (4,1), (6,-1), (5,-5), (2,-6), (0,-3)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

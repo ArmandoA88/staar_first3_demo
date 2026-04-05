@@ -1,0 +1,30 @@
+{
+  "stem": "Which constitutional principle is Jefferson referring to in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Full faith and credit"
+    },
+    {
+      "label": "B",
+      "text": "Popular sovereignty"
+    },
+    {
+      "label": "C",
+      "text": "Federalism"
+    },
+    {
+      "label": "D",
+      "text": "Judicial review"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The question whether the judges are invested with exclusive authority to decide on the constitutionality of a law has been heretofore a subject of consideration with me in the exercise of official duties. Certainly there is not a word in the Constitution which has given that power to them more than to the Executive or Legislative branches.\n\n\u2014Thomas Jefferson, 1815"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

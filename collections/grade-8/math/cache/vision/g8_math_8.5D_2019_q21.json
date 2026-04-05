@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the scatterplot, which is the best prediction of the total number of pages in a book with 4 chapters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "150 pages"
+    },
+    {
+      "label": "B",
+      "text": "140 pages"
+    },
+    {
+      "label": "C",
+      "text": "90 pages"
+    },
+    {
+      "label": "D",
+      "text": "120 pages"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot with x-axis labeled 'Total Number of Chapters' ranging from 0 to 10, y-axis labeled 'Total Number of Pages' ranging from 0 to 280, and points plotted showing a positive correlation generally increasing from about 50 pages at 2 chapters to about 250 pages at 8 chapters."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

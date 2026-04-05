@@ -1,0 +1,30 @@
+{
+  "stem": "The line graphed on the grid represents the first of two equations in a system of linear equations.\n\nIf the graph of the second equation in the system passes through the points (-12, 20) and (4, 12), which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The only solution to the system is (10, 5)."
+    },
+    {
+      "label": "B",
+      "text": "The only solution to the system is (0, 14)."
+    },
+    {
+      "label": "C",
+      "text": "The system has no solution."
+    },
+    {
+      "label": "D",
+      "text": "The system has an infinite number of solutions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Grid with line plotted from about (-20, 20) to (20, 0), axes labeled x and y with ticks and numbers."
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 0.99,
+  "notes": null
+}

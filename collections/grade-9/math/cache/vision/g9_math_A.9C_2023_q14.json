@@ -1,0 +1,33 @@
+{
+  "stem": "Researchers studied the population of a town over time and modeled the data using an exponential function.\n\n\u2022 The initial estimated population was 48,000.\n\n\u2022 After the first year, the population of the town was 50,400.\n\nIf the population of the town continues to grow at this rate each year, which function can be used to model the population x years after the researchers began their study?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "p(x) = 48,000 \\left(\\frac{50,400}{48,000}\\right)^x"
+    },
+    {
+      "label": "B",
+      "text": "p(x) = 50,400 \\left(\\frac{50,400}{48,000}\\right)^x"
+    },
+    {
+      "label": "C",
+      "text": "p(x) = 50,400 \\left(\\frac{1}{48,000}\\right)^x"
+    },
+    {
+      "label": "D",
+      "text": "p(x) = 48,000 \\left(\\frac{1}{50,400}\\right)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "p(x) = 48,000 \\left(\\frac{50,400}{48,000}\\right)^x",
+    "p(x) = 50,400 \\left(\\frac{50,400}{48,000}\\right)^x",
+    "p(x) = 50,400 \\left(\\frac{1}{48,000}\\right)^x",
+    "p(x) = 48,000 \\left(\\frac{1}{50,400}\\right)^x"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

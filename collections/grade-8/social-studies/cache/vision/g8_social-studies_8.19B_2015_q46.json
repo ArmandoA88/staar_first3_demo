@@ -1,0 +1,31 @@
+{
+  "stem": "Which constitutional guarantee did this act violate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Freedom of assembly"
+    },
+    {
+      "label": "G",
+      "text": "The right to due process"
+    },
+    {
+      "label": "H",
+      "text": "Freedom of the press"
+    },
+    {
+      "label": "J",
+      "text": "The right to a jury trial"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "That if any person shall write . . . any false, scandalous and malicious . . . writings against the government of the United States, or . . . stir up sedition within the United States . . . then such person . . . shall be punished by a fine not exceeding two thousand dollars, and by imprisonment not exceeding two years.",
+    "\u2014An Act of the Fifth Congress of the United States, 1798"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

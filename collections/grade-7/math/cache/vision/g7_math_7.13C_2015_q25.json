@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows Gillian\u2019s net worth. Assets are shown as positive numbers, and liabilities are shown as negative numbers.\n\nGillian\u2019s net worth is $90,500. Based on the information in the table, what is the amount of money Gillian owes for student loans?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$19,950"
+    },
+    {
+      "label": "B",
+      "text": "$12,250"
+    },
+    {
+      "label": "C",
+      "text": "$16,100"
+    },
+    {
+      "label": "D",
+      "text": "$86,650"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Net Worth Table with Items and Values:\nHouse (current value) $87,900\nChecking account $950\nCredit-card debt -$2,650\nAutomobile (current value) $10,300\nStudent loans \nInvestments $5,000\nPersonal loans -$1,200\nSavings account $2,450"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

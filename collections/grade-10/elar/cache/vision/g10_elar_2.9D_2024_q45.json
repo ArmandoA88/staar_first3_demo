@@ -1,0 +1,33 @@
+{
+  "stem": "What change is needed in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change It to Theirs"
+    },
+    {
+      "label": "B",
+      "text": "Change developers to develepers"
+    },
+    {
+      "label": "C",
+      "text": "Insert a colon after challenges"
+    },
+    {
+      "label": "D",
+      "text": "Change mosquitoes to Mosquitoes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

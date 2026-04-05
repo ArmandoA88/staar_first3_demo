@@ -1,0 +1,37 @@
+{
+  "stem": "This table supports the conclusion that in 1900 \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "people moved to areas with religious protections similar to those in their native country"
+    },
+    {
+      "label": "G",
+      "text": "geographic proximity to native countries influenced immigration patterns"
+    },
+    {
+      "label": "H",
+      "text": "economic incentives offered by native countries encouraged emigration"
+    },
+    {
+      "label": "J",
+      "text": "people moved to areas with government regulations similar to those in their native country"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Selected Foreign-Born Populations in Florida, 1900",
+    "Table: Country of Birth \\| Population",
+    "China \\| 118",
+    "Cuba \\| 6,744",
+    "Denmark \\| 204",
+    "Canada \\| 1,199",
+    "Total Foreign-Born in Florida \\| 23,832",
+    "Source: U.S. Census Bureau"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

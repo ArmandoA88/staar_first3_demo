@@ -1,0 +1,34 @@
+{
+  "stem": "What is the value of x in the equation represented by the tiles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3"
+    },
+    {
+      "label": "B",
+      "text": "5"
+    },
+    {
+      "label": "C",
+      "text": "\u22123"
+    },
+    {
+      "label": "D",
+      "text": "\u22121"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Three vertical gray tiles labeled -x on the left side",
+    "Four small white tiles labeled 1 arranged in a square on the left side",
+    "Two vertical gray tiles labeled -x on the right side",
+    "One small white tile labeled 1 on the right side",
+    "Equals sign between the groups of tiles"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

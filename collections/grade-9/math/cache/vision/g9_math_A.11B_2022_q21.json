@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to \\( \\frac{8.8 \\times 10^{9}}{2.2 \\times 10^{-3}} \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4 \\times 10^{12}"
+    },
+    {
+      "label": "B",
+      "text": "4 \\times 10^{6}"
+    },
+    {
+      "label": "C",
+      "text": "4 \\times 10^{-3}"
+    },
+    {
+      "label": "D",
+      "text": "4 \\times 10^{-6}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{8.8 \\times 10^{9}}{2.2 \\times 10^{-3}} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

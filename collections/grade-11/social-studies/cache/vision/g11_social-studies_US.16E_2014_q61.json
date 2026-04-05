@@ -1,0 +1,30 @@
+{
+  "stem": "What does the sticker in this illustration represent to patrons of this bank?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Restrictions on the federal government\u2019s ability to set prime interest rates"
+    },
+    {
+      "label": "B",
+      "text": "The power of the federal government to privatize the bank in order to stimulate economic growth"
+    },
+    {
+      "label": "C",
+      "text": "Limitations on the role of the federal government in providing home loans"
+    },
+    {
+      "label": "D",
+      "text": "The federal government\u2019s assurance of protection on individual bank deposits"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A sticker that says 'FDIC Insured' on a bank window"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

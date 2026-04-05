@@ -1,0 +1,34 @@
+{
+  "stem": "Which of the following occurred as a result of these events?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The president of Mexico refused to withdraw troops from Texas."
+    },
+    {
+      "label": "B",
+      "text": "Parts of southern Texas were returned to Mexico."
+    },
+    {
+      "label": "C",
+      "text": "The United States acquired several territories from Mexico."
+    },
+    {
+      "label": "D",
+      "text": "Mexico was forced to sell Florida to the United States."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1845 Texas is annexed by the United States.",
+    "1845 Mexican and U.S. troops gather near the Texas-Mexico border.",
+    "1846 The United States declares war on Mexico.",
+    "1847 Mexico accepts a temporary peace settlement.",
+    "1848 The Treaty of Guadalupe Hidalgo is signed."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

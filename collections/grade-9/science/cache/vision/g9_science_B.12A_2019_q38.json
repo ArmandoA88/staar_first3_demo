@@ -1,0 +1,30 @@
+{
+  "stem": "Based on this diagram, which two systems interact to maintain homeostasis?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The nervous and reproductive systems work together to stimulate the production of insulin."
+    },
+    {
+      "label": "G",
+      "text": "The circulatory and endocrine systems work together to keep blood sugar levels constant."
+    },
+    {
+      "label": "H",
+      "text": "The excretory and nervous systems work together to convert glycogen into glucose."
+    },
+    {
+      "label": "J",
+      "text": "The immune and circulatory systems work together to circulate blood through the pancreas."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing feedback mechanism involving pancreas and liver with arrows indicating blood glucose levels rising and falling and conversion of glucose and glycogen."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

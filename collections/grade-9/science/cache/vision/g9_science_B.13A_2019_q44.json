@@ -1,0 +1,30 @@
+{
+  "stem": "Which list describes the types of relationships the sunfish has with other marine organisms?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Seabirds: mutualism\nJellyfish: predation\nCopepods: parasitism"
+    },
+    {
+      "label": "G",
+      "text": "Seabirds: parasitism\nJellyfish: commensalism\nCopepods: predation"
+    },
+    {
+      "label": "H",
+      "text": "Seabirds: predation\nJellyfish: mutualism\nCopepods: commensalism"
+    },
+    {
+      "label": "J",
+      "text": "Seabirds: commensalism\nJellyfish: parasitism\nCopepods: mutualism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photo of a large flat ocean sunfish"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

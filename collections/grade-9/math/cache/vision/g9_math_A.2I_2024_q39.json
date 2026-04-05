@@ -1,0 +1,31 @@
+{
+  "stem": "Line n is shown on the coordinate grid. The table of ordered pairs represents some points on line p.\n\nWhich system of equations represents line n and line p?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3x - y = 2\n2x + y = 4"
+    },
+    {
+      "label": "B",
+      "text": "3x + y = -2\n2x + y = 4"
+    },
+    {
+      "label": "C",
+      "text": "3x - y = 2\nx + 2y = 4"
+    },
+    {
+      "label": "D",
+      "text": "3x + y = -2\nx + 2y = 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate grid with line n passing through (0, -2) and (1, 1)",
+    "Table titled Line p with columns x: -1, 0, 1, 2 and y: 6, 4, 2, 0"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

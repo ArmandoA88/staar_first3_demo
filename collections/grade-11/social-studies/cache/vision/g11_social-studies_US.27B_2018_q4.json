@@ -1,0 +1,34 @@
+{
+  "stem": "Which conclusion about the U.S. economy is most supported by the information on this time line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Government regulations prompted companies to develop alternative production techniques."
+    },
+    {
+      "label": "G",
+      "text": "Decreased globalization prompted companies to innovate and improve existing products."
+    },
+    {
+      "label": "H",
+      "text": "Decreased demand for new technology forced producers to reduce manufacturing costs."
+    },
+    {
+      "label": "J",
+      "text": "Marketplace competition drove producers to innovate and improve products."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1974 Mass storage for computers is introduced.",
+    "1980 Hard disk drives are introduced.",
+    "1984 Computer storage expands to hold up to 92 megabytes (MB) of data.",
+    "1994 Computer disk storage capacity expands from 100 megabytes (MB) to 2 gigabytes (GB).",
+    "2000 Flash drives are introduced. Storage capacity is up to 4 gigabytes (GB)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

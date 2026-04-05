@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 13?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The accomplishments of Old Ironsides helped unite Americans behind the war effort. Boosting morale and ending the myth that Britain's Royal Navy was invincible."
+    },
+    {
+      "label": "B",
+      "text": "The accomplishments of Old Ironsides helping unite Americans behind the war effort, boosting morale and ending the myth that Britain's Royal Navy was invincible."
+    },
+    {
+      "label": "C",
+      "text": "The accomplishments of Old Ironsides helped unite Americans behind the war effort by boosting morale. And ending the myth that Britain's Royal Navy was invincible."
+    },
+    {
+      "label": "D",
+      "text": "The accomplishments of Old Ironsides helped unite Americans behind the war effort, boosting morale and ending the myth that Britain's Royal Navy was invincible."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

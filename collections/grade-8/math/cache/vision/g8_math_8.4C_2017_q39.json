@@ -1,0 +1,30 @@
+{
+  "stem": "Emily sells greeting cards. The graph models the linear relationship between the number of boxes of cards she sells and her profit.",
+  "instruction": "Which of these best describes the profit Emily makes from selling these cards?",
+  "options": [
+    {
+      "label": "A",
+      "text": "$7.50 per box"
+    },
+    {
+      "label": "B",
+      "text": "$10.00 per box"
+    },
+    {
+      "label": "C",
+      "text": "$4.00 per 30 boxes"
+    },
+    {
+      "label": "D",
+      "text": "$3.00 per 4 boxes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Selling Cards' with x-axis labelled 'Number of Boxes' and y-axis labelled 'Profit (dollars)'. The graph shows a line passing through (0,0) and (6,50)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

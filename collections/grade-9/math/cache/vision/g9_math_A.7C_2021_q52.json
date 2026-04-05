@@ -1,0 +1,28 @@
+{
+  "stem": "The graph of f(x) = x^2 was translated 4.5 units to the left to create the graph of function g. Which function represents g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "g(x) = (x - 4.5)^2"
+    },
+    {
+      "label": "G",
+      "text": "g(x) = (x + 4.5)^2"
+    },
+    {
+      "label": "H",
+      "text": "g(x) = x^2 - 4.5"
+    },
+    {
+      "label": "J",
+      "text": "g(x) = x^2 + 4.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

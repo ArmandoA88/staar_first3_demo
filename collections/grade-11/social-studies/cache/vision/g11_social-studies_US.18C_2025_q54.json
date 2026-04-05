@@ -1,0 +1,18 @@
+{
+  "stem": "Bill Clinton was impeached because he [blank_1]. Clinton's impeachment led some citizens to [blank_2].",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [],
+  "choice_pool": [
+    "lied under oath",
+    "abused his power",
+    "stop the impeachment",
+    "support the impeachment"
+  ],
+  "response_template": "Bill Clinton was impeached because he [blank_1]. Clinton's impeachment led some citizens to [blank_2].",
+  "visual_elements": [
+    "photo of people holding signs reading 'STOP the IMPEACHMENT' and 'STOP the BOMBING'"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

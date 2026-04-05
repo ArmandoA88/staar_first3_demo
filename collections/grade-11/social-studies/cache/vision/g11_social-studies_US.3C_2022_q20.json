@@ -1,0 +1,30 @@
+{
+  "stem": "Which issue was discussed in the writings of Jacob Riis?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Discrimination against African Americans in U.S. cities"
+    },
+    {
+      "label": "G",
+      "text": "Harsh conditions of tenement housing in U.S. cities"
+    },
+    {
+      "label": "H",
+      "text": "Growing conflict between rural regions and U.S. cities"
+    },
+    {
+      "label": "J",
+      "text": "Increasing efforts to reduce Chinese immigration to U.S. cities"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt: When Jacob Riis published How the Other Half Lives in 1890, the U.S. Census Bureau ranked New York as the most densely populated city in the United States. . . . Disease, sanitation, garbage and hygiene issues were constant concerns in crowded impoverished . . . districts, where vital statistics were alarming. Jacob Riis wrote frequently to urge measures to protect public health and to alert wealthy residents of the city to slum conditions that put everyone at risk.  \u2014 \u201dJacob Riis: Revealing 'How the Other Half Lives' Writer,\u201d Library of Congress, www.loc.gov (accessed October 17, 2017)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

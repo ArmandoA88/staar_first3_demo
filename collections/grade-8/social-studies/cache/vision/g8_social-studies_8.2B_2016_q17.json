@@ -1,0 +1,30 @@
+{
+  "stem": "Which colony correctly completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Maryland"
+    },
+    {
+      "label": "B",
+      "text": "Virginia"
+    },
+    {
+      "label": "C",
+      "text": "South Carolina"
+    },
+    {
+      "label": "D",
+      "text": "Georgia"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Massachusetts Refuge for English Puritans as ? Refuge for English Catholics"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

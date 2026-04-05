@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "President Lincoln\u2019s First Inaugural Address"
+    },
+    {
+      "label": "B",
+      "text": "The Gettysburg Address"
+    },
+    {
+      "label": "C",
+      "text": "The Emancipation Proclamation"
+    },
+    {
+      "label": "D",
+      "text": "The Thirteenth Amendment"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with a large oval containing ? connected to three boxes with: 'Encouraged African Americans to fight for the Union', 'Strengthened the Union militarily and politically', 'Shifted the focus of the war to freedom for all'."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

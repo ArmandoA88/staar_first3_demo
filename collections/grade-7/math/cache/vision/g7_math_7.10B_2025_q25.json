@@ -1,0 +1,19 @@
+{
+  "stem": "Create a number line that best represents the solution to the inequality shown.\n\n-6k + 6 < -48",
+  "instruction": "Select a ray. Move the point on the ray to the correct place on the number line.",
+  "options": [],
+  "choice_pool": [
+    "\u2190\u25cf",
+    "\u2190\u25cb",
+    "\u25cb\u2192",
+    "\u25cf\u2192"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "number line from -10 to 10 with arrows on both ends",
+    "four ray options: filled circle with left arrow, open circle with left arrow, open circle with right arrow, filled circle with right arrow"
+  ],
+  "item_type_inferred": "Number Line",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution to this system of equations?\n\n10x - y = 53\n\ny = (-13x + 92) / 2",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(6, 7)"
+    },
+    {
+      "label": "B",
+      "text": "(2, 33)"
+    },
+    {
+      "label": "C",
+      "text": "(7, 6)"
+    },
+    {
+      "label": "D",
+      "text": "(33, 2)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equations: 10x - y = 53, y = (-13x + 92) / 2"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The Venn diagram shows numbers placed in two sets. Set K represents rational numbers, and Set L represents integers. One of the numbers is placed incorrectly.\n\n[Image of a Venn diagram with Set K and Set L inside it.\nSet K: -12/2, 7/4, -3/5\nSet L: -8, 3, 10]\n\nWhich statement shows how to correct the error in the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Remove -8 from Set L because it is not an integer."
+    },
+    {
+      "label": "B",
+      "text": "Remove 3 from Set L because it is not an integer."
+    },
+    {
+      "label": "C",
+      "text": "Move -3/5 to Set L because it is an integer."
+    },
+    {
+      "label": "D",
+      "text": "Move -12/2 to Set L because it is an integer."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with Set K and Set L and numbers inside as described"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

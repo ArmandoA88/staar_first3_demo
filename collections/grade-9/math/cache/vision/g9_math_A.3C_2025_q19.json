@@ -1,0 +1,30 @@
+{
+  "stem": "A graph of a linear function is shown.",
+  "instruction": "Which value best represents the zero of the function?",
+  "options": [
+    {
+      "label": "A",
+      "text": "2"
+    },
+    {
+      "label": "B",
+      "text": "10"
+    },
+    {
+      "label": "C",
+      "text": "\u22125"
+    },
+    {
+      "label": "D",
+      "text": "\u22122"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing a line crossing the x-axis at 2"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

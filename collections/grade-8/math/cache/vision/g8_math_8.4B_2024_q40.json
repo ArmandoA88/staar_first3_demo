@@ -1,0 +1,33 @@
+{
+  "stem": "A worker paints 4 cabinets in 8 hours. Which graph has a slope that best represents the number of cabinets the worker paints per hour?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph with y-axis from 0 to 9 labeled Number of Cabinets Painted, x-axis from 0 to 9 labeled Time (h), horizontal line at 8 on y-axis)"
+    },
+    {
+      "label": "B",
+      "text": "(Graph with y-axis from 0 to 9 labeled Number of Cabinets Painted, x-axis from 0 to 9 labeled Time (h), line from (0,0) to (4,9))"
+    },
+    {
+      "label": "C",
+      "text": "(Graph with y-axis from 0 to 9 labeled Number of Cabinets Painted, x-axis from 0 to 9 labeled Time (h), horizontal line at 4 on y-axis)"
+    },
+    {
+      "label": "D",
+      "text": "(Graph with y-axis from 0 to 9 labeled Number of Cabinets Painted, x-axis from 0 to 9 labeled Time (h), line from (0,0) to (9,5))"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: y-axis labeled Number of Cabinets Painted, x-axis labeled Time (h), horizontal line at 8 cabinets.",
+    "Graph B: y-axis labeled Number of Cabinets Painted, x-axis labeled Time (h), increasing line from (0,0) to (4,9).",
+    "Graph C: y-axis labeled Number of Cabinets Painted, x-axis labeled Time (h), horizontal line at 4 cabinets.",
+    "Graph D: y-axis labeled Number of Cabinets Painted, x-axis labeled Time (h), increasing line from (0,0) to (9,5)."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

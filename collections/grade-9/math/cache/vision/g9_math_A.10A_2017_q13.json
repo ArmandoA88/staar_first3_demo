@@ -1,0 +1,31 @@
+{
+  "stem": "A shoe company is going to close one of its two stores and combine all the inventory from both stores. These polynomials represent the inventory in each store:\n\nStore A: \\( \\frac{1}{2} g^2 + \\frac{7}{2} \\)\n\nStore B: \\( 3g^2 - \\frac{4}{5} g + \\frac{1}{4} \\)\n\nWhich expression represents the combined inventory of the two stores?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{7}{2} g^2 - \\frac{4}{5} g + \\frac{15}{4} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{7}{2} g^2 - \\frac{4}{5} g + \\frac{4}{3} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{7}{2} g^2 + \\frac{4}{5} g + \\frac{15}{4} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{7}{2} g^2 + \\frac{4}{5} g + \\frac{4}{3} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Store A: 1/2 g^2 + 7/2",
+    "Store B: 3g^2 - 4/5 g + 1/4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

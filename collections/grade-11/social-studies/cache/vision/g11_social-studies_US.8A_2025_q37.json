@@ -1,0 +1,31 @@
+{
+  "stem": "Why did the U.S. government adopt a policy of containment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To prevent the Soviet Union from developing nuclear weapons"
+    },
+    {
+      "label": "B",
+      "text": "To forcibly reduce Soviet influence within Eastern Europe"
+    },
+    {
+      "label": "C",
+      "text": "To prevent the Soviet Union from spreading communism"
+    },
+    {
+      "label": "D",
+      "text": "To forcibly remove Soviet spies from Western Europe"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text",
+    "four answer choices labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

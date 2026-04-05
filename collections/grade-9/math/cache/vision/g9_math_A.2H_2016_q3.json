@@ -1,0 +1,28 @@
+{
+  "stem": "Baseball fans can buy tickets for seats in the lower deck or upper deck of the stadium. Tickets for the lower deck cost $42 each. Ticket prices for the upper deck are 75% of the cost of tickets for the lower deck. Which inequality represents all possible combinations of x, the number of tickets for the lower deck, and y, the number of tickets for the upper deck, that someone can buy for no more than $800?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "42x + 56y \\u2264 800"
+    },
+    {
+      "label": "B",
+      "text": "42x + 31.5y \\u2264 800"
+    },
+    {
+      "label": "C",
+      "text": "42x + 56y > 800"
+    },
+    {
+      "label": "D",
+      "text": "42x + 31.5y > 800"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

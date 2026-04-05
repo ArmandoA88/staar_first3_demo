@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is a factor of 5x^2 - 30x - 80?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x + 4"
+    },
+    {
+      "label": "B",
+      "text": "x + 8"
+    },
+    {
+      "label": "C",
+      "text": "x - 4"
+    },
+    {
+      "label": "D",
+      "text": "x - 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "5x^2 - 30x - 80",
+    "x + 4",
+    "x + 8",
+    "x - 4",
+    "x - 8"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

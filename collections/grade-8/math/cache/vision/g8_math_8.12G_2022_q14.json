@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the cost per year of attending different types of colleges.\n\nA student is planning to attend college in 5 years. The student has saved $1,200 and plans to save another $50 per month over the next 60 months.\n\nBased on this information about the student\u2019s plan, which statement about the possible choices for a college is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The student would be able to afford the costs for one year at a private 4-year college."
+    },
+    {
+      "label": "G",
+      "text": "The student would be able to afford out-of-state costs for half a year at a 4-year public college."
+    },
+    {
+      "label": "H",
+      "text": "The student would be able to afford in-state costs for half a year at a public 4-year college."
+    },
+    {
+      "label": "J",
+      "text": "The student would be able to afford in-state costs for one year at a public 2-year college."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: \nType of College | Cost per Year (dollars)\nPublic \u2014 2 year (in state) | 4,000\nPublic \u2014 4 year (in state) | 11,000\nPublic \u2014 4 year (out of state) | 28,000\nPrivate \u2014 4 year | 38,000"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

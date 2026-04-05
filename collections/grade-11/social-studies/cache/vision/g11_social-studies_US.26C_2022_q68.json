@@ -1,0 +1,30 @@
+{
+  "stem": "This photograph shows a device that was introduced in the 1970s.\n\nPerson Using a Bar Code Scanner\n\nHow has the use of the device shown in this photograph affected business in the United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "By improving the efficiency of making purchases"
+    },
+    {
+      "label": "G",
+      "text": "By lowering the quality of merchandise"
+    },
+    {
+      "label": "H",
+      "text": "By increasing the time needed to produce goods"
+    },
+    {
+      "label": "J",
+      "text": "By decreasing the number of imported products"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "black and white photograph of a person holding a bar code scanner and scanning a barcode on a box"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A water hose discharges water at a rate of 45 gallons per minute. Which graph has a slope that best represents this rate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with a steep line reaching about 150 gallons at approximately 3 minutes."
+    },
+    {
+      "label": "H",
+      "text": "Graph with a horizontal line at 45 gallons, across all 10 minutes."
+    },
+    {
+      "label": "G",
+      "text": "Graph with a line from 0 gallons at 0 minutes to 150 gallons at 10 minutes."
+    },
+    {
+      "label": "J",
+      "text": "Graph with a line less steep than F, reaching about 90 gallons by 3 minutes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four line graphs labeled F, H, G, and J showing amount of water (gallons) versus time (minutes) with different slopes."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

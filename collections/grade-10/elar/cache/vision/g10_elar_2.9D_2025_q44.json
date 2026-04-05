@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 5 and 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Mom loves to share these details and recount the extravagant, hilarious stories Granddaddy Roy told as the girls swung around in their seats."
+    },
+    {
+      "label": "B",
+      "text": "Mom loves to share these details. And recount the extravagant, hilarious stories Granddaddy Roy told as the girls swung around in their seats."
+    },
+    {
+      "label": "C",
+      "text": "Mom loving to share these details and recount the extravagant, hilarious stories Granddaddy Roy told as the girls swung around in their seats."
+    },
+    {
+      "label": "D",
+      "text": "Mom loves to share these details and recount the extravagant, hilarious stories. That Granddaddy Roy told as the girls swung around in their seats."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

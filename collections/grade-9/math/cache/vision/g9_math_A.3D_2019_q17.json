@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents the solution set of y > 3x - 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with solid line y = 3x - 4 shading to the right of the line"
+    },
+    {
+      "label": "B",
+      "text": "Graph with solid line y = 3x - 4 shading to the left of the line"
+    },
+    {
+      "label": "C",
+      "text": "Graph with dashed line y = 3x - 4 shading to the right of the line"
+    },
+    {
+      "label": "D",
+      "text": "Graph with dashed line y = 3x - 4 shading to the left of the line"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs showing lines and shaded regions labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Shading and line type are used to distinguish the inequality solution sets. The correct graph must have a dashed line (because of >, not \u2265) and shading above/right of the line."
+}

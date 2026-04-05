@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement proves that parallelogram \\( PQRT \\) is a rectangle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "15^{2} - 8^{2} = TQ^{2}"
+    },
+    {
+      "label": "B",
+      "text": "8 + 15 = TQ"
+    },
+    {
+      "label": "C",
+      "text": "15 - 8 = TQ"
+    },
+    {
+      "label": "D",
+      "text": "8^{2} + 15^{2} = TQ^{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Parallelogram PQRT with sides labeled 15 and 8, and diagonal TQ shown with a dashed line"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

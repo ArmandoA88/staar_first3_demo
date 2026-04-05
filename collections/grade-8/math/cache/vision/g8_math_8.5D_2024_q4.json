@@ -1,0 +1,30 @@
+{
+  "stem": "A company employee had to read several financial reports. The scatterplot shows the lengths and reading times for those reports.\n\nWhich prediction of the time in minutes to read a 90-page report is best supported by the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "95 min"
+    },
+    {
+      "label": "B",
+      "text": "105 min"
+    },
+    {
+      "label": "C",
+      "text": "125 min"
+    },
+    {
+      "label": "D",
+      "text": "155 min"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot titled Report Reading Times with x-axis labeled 'Number of Pages in Report' from 0 to 100, y-axis labeled 'Time to Read Report (min)' from 0 to 100, 7 points plotted around x values 20, 30, 35, 40, 45, 50, 60 and y values 22, 41, 50, 48, 66, 69, 83"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Which Andrew Carnegie quotation best explains why he funded libraries like the one in this photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\u201cUnder the law of competition, the employer of thousands is forced into the strictest economies, . . . and often there is friction between the employer and the employed.\u201d"
+    },
+    {
+      "label": "B",
+      "text": "\u201cThe price which society pays for the law of competition, like the price it pays for cheap comforts and luxuries, is . . . great.\u201d"
+    },
+    {
+      "label": "C",
+      "text": "\u201cThe best means of benefiting the community is to place within its reach the ladders upon which the aspiring can rise.\u201d"
+    },
+    {
+      "label": "D",
+      "text": "\u201cThis, then, is . . . the duty of the man of wealth: To set an example of modest, unostentatious living, shunning display or extravagance.\u201d"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Carnegie Library, Sault Sainte Marie, Michigan, c. 1908",
+    "Black and white photograph of a large stone library building with columns and steps leading to the entrance."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

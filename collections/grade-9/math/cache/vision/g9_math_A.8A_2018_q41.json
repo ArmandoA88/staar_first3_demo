@@ -1,0 +1,30 @@
+{
+  "stem": "The area of a rectangular trampoline is 112 ft\u00b2. The length of the trampoline is 6 ft greater than the width of the trampoline. This situation can be represented by the equation w\u00b2 + 6w - 112 = 0. What is the width of the trampoline in feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "7 ft"
+    },
+    {
+      "label": "B",
+      "text": "16 ft"
+    },
+    {
+      "label": "C",
+      "text": "8 ft"
+    },
+    {
+      "label": "D",
+      "text": "14 ft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "w\u00b2 + 6w - 112 = 0"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

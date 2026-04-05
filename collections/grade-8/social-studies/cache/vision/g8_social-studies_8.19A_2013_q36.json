@@ -1,0 +1,30 @@
+{
+  "stem": "This excerpt refers to rights that people \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "earn by demonstrating loyalty to their government"
+    },
+    {
+      "label": "G",
+      "text": "receive by becoming citizens of a country"
+    },
+    {
+      "label": "H",
+      "text": "have as a result of being human"
+    },
+    {
+      "label": "J",
+      "text": "are granted after enlistment in the military"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights. . . .  \u2014Declaration of Independence, 1776"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

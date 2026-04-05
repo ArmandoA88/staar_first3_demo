@@ -1,0 +1,34 @@
+{
+  "stem": "How did these developments in transportation most affect the standard of living in U.S. cities?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By increasing the expenses associated with relocation"
+    },
+    {
+      "label": "B",
+      "text": "By giving residents more flexibility in employment"
+    },
+    {
+      "label": "C",
+      "text": "By expanding the options for personal education"
+    },
+    {
+      "label": "D",
+      "text": "By increasing traffic congestion on city streets"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Urban Mass Transit Vehicles, New York City, 1869\u2013present' with columns: Type of vehicle, Picture, Description, Years in operation.",
+    "Elevated train: Train that ran on aboveground tracks, 1869-1973.",
+    "Cable car: Streetcar operated by underground steam-driven cable conduits, 1883-1909.",
+    "Trolley: Streetcar operated by overhead or underground electrical power, 1887-1957.",
+    "Subway: Train that runs on underground tracks, 1904-present."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

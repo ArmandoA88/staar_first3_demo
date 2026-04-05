@@ -1,0 +1,30 @@
+{
+  "stem": "How did Sam Walton benefit the U.S. economy?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "By providing jobs in rural areas across the country"
+    },
+    {
+      "label": "B",
+      "text": "By inventing new technologies that helped create the internet"
+    },
+    {
+      "label": "C",
+      "text": "By building jewelry shops that sold luxury goods"
+    },
+    {
+      "label": "D",
+      "text": "By investing his money in the space technology industry"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\u201cRemarks on Presenting the Presidential Medal of Freedom to Samuel M. Walton\u201d\nThis visit is not about Sam Walton\u2019s wealth. He has earned his money, and that\u2019s his business. He\u2019s been generous with his fortune, and that is in the great tradition of America\u2019s commitment to this concept that I call a Thousand Points of Light. . . . You see\u2014you know this, but many around the country might not\u2014you see, he had hit upon a combination that was to form the basis of the strategy of today\u2019s Wal-Mart Stores, smalltown markets for name-brand merchandise sold at a discount.\n\u2014President George H. W. Bush, March 17, 1992"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

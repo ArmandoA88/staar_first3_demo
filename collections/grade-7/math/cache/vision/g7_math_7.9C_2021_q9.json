@@ -1,0 +1,30 @@
+{
+  "stem": "Two congruent squares and a parallelogram were used to form the figure shown.\n\nWhat is the area of the figure in square meters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "25.8 m\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "40.8 m\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "34.8 m\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "28.8 m\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two squares each with side length 3 m, a parallelogram with base 6 m and height 2.8 m"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a linear function passes through the points (\\,-2, 70) and (6, \\,-50).\n\nWhich equation represents the function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = - \\frac{3}{2} x + 40"
+    },
+    {
+      "label": "B",
+      "text": "y = - \\frac{3}{2} x + 4"
+    },
+    {
+      "label": "C",
+      "text": "y = - 15x + 4"
+    },
+    {
+      "label": "D",
+      "text": "y = - 15x + 40"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing coordinate plane with x-axis labeled from -9 to 9 and y-axis labeled from -90 to 90, grid lines, and arrowheads"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "An artist is making a scale model of a statue. On the model 2 inches represents 1 foot on the actual statue. Which graph best represents this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph showing a line with slope = 1 passing (0,0) to (20,20) with axes labeled Model Size (inches) and Statue Size (feet)"
+    },
+    {
+      "label": "B",
+      "text": "Graph showing a line with small positive slope passing (0,0) to (20,4) with axes labeled Model Size (inches) and Statue Size (feet)"
+    },
+    {
+      "label": "C",
+      "text": "Graph showing a line with slope less than 1 passing (0,0) to about (20,12) with axes labeled Model Size (inches) and Statue Size (feet)"
+    },
+    {
+      "label": "D",
+      "text": "Graph showing a line with steep slope passing (0,0) to about (4,20) with axes labeled Model Size (inches) and Statue Size (feet)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, and D each titled 'Statue Scale', with y-axis labeled 'Statue Size (feet)', x-axis labeled 'Model Size (inches)' and lines as described above."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

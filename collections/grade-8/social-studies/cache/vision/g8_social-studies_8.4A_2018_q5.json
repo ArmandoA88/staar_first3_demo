@@ -1,0 +1,33 @@
+{
+  "stem": "What was the primary reason Parliament passed these acts?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To promote the growth of cottage industries in the colonies"
+    },
+    {
+      "label": "B",
+      "text": "To encourage foreign trade with the colonies"
+    },
+    {
+      "label": "C",
+      "text": "To recover the cost of defending the colonies"
+    },
+    {
+      "label": "D",
+      "text": "To fund the establishment of new colonies"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1764 - Sugar Act",
+    "1765 - Stamp Act",
+    "1767 - Townshend Acts",
+    "Timeline arrow pointing down"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

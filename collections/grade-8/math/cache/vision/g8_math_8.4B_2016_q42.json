@@ -1,0 +1,30 @@
+{
+  "stem": "On a field trip, there are 3 adults for every 45 students. Which graph models a relationship with the same unit rate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with points gradually increasing up to (150, 4)"
+    },
+    {
+      "label": "H",
+      "text": "Graph with points increasing linearly up to (150, 10)"
+    },
+    {
+      "label": "G",
+      "text": "Graph with points steeply increasing up to (45, 10)"
+    },
+    {
+      "label": "J",
+      "text": "Graph with points constant at y = 1 across all x values"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled F, H, G, J with different line slopes"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

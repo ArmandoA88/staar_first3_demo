@@ -1,0 +1,25 @@
+{
+  "stem": "A student is making a table to describe the processes of photosynthesis and cellular respiration. Complete the table by identifying which process causes each result shown in the table.",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once.",
+  "options": [
+    {
+      "label": null,
+      "text": "Photosynthesis"
+    },
+    {
+      "label": null,
+      "text": "Cellular respiration"
+    }
+  ],
+  "choice_pool": [
+    "Photosynthesis",
+    "Cellular respiration"
+  ],
+  "response_template": "Carbon dioxide is released to the atmosphere. [blank_1]\nEnergy is stored in carbon compounds. [blank_2]\nCarbon dioxide is removed from the atmosphere. [blank_3]\nEnergy is released from carbon compounds. [blank_4]",
+  "visual_elements": [
+    "table with two columns labeled 'Result' and 'Process' with results in first column and empty boxes in second column"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

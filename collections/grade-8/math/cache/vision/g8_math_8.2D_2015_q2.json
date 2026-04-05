@@ -1,0 +1,33 @@
+{
+  "stem": "The areas of three circles are shown.\n\nCircle X\n\nCircle Y\n\nCircle Z\n\nNot drawn to scale\n\nWhich list shows the circles in order from greatest area to least area?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Circle Z, circle Y, circle X"
+    },
+    {
+      "label": "B",
+      "text": "Circle Y, circle Z, circle X"
+    },
+    {
+      "label": "C",
+      "text": "Circle X, circle Z, circle Y"
+    },
+    {
+      "label": "D",
+      "text": "Circle X, circle Y, circle Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circle X: A = 9\u03c0 cm\u00b2",
+    "Circle Y: A = (\u221a3 / 2) cm\u00b2",
+    "Circle Z: A = 27.5 cm\u00b2",
+    "Not drawn to scale"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

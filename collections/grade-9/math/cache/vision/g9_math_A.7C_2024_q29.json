@@ -1,0 +1,31 @@
+{
+  "stem": "If f(x) = x^2 and g(x) = f(x + 7.2), what is the vertex of the graph of g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(7.2, 0)"
+    },
+    {
+      "label": "B",
+      "text": "(\u22127.2, 0)"
+    },
+    {
+      "label": "C",
+      "text": "(0, 7.2)"
+    },
+    {
+      "label": "D",
+      "text": "(0, \u22127.2)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "math expressions: f(x) = x^2, g(x) = f(x + 7.2)",
+    "answer choices formatted as coordinates"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

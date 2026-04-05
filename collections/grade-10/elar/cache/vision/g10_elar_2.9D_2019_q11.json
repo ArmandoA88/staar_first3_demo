@@ -1,0 +1,35 @@
+{
+  "stem": "What is the correct way to write sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I pull gently at its crisp brown shell, the aroma of its gooey sweetness that teases my nostrils."
+    },
+    {
+      "label": "B",
+      "text": "As I pull gently at its crisp brown shell, the aroma of its gooey sweetness teases my nostrils."
+    },
+    {
+      "label": "C",
+      "text": "Pulling gently at its crisp brown shell, the aroma of its gooey sweetness teasing my nostrils."
+    },
+    {
+      "label": "D",
+      "text": "When I pull gently at its crisp brown shell, and the aroma of its gooey sweetness teasing my nostrils."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 \u2013 Q11 Passage #3",
+    "What is the correct way to write sentence 5?",
+    "A I pull gently at its crisp brown shell, the aroma of its gooey sweetness that teases my nostrils.",
+    "B As I pull gently at its crisp brown shell, the aroma of its gooey sweetness teases my nostrils.",
+    "C Pulling gently at its crisp brown shell, the aroma of its gooey sweetness teasing my nostrils.",
+    "D When I pull gently at its crisp brown shell, and the aroma of its gooey sweetness teasing my nostrils."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Which part of the DNA model is most directly associated with the coding of genetic information?",
+  "instruction": "Select the part that codes genetic information.",
+  "options": [
+    {
+      "label": "F",
+      "text": "(solid circle shape)"
+    },
+    {
+      "label": "G",
+      "text": "(pentagon shape with attached solid circles)"
+    },
+    {
+      "label": "H",
+      "text": "(single pentagon shape)"
+    },
+    {
+      "label": "J",
+      "text": "(paired rectangles connected by dotted lines)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "DNA model showing connected shapes: solid circles, pentagons, and paired rectangles linked by dotted lines",
+    "Four labeled parts: F (solid circle), G (pentagon with solid circles), H (single pentagon), J (paired rectangles with dotted lines)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

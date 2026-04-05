@@ -1,0 +1,55 @@
+{
+  "stem": "Rectangle MNPQ is translated 4 units left and 3 units up. Write a rule that describes this transformation.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "x + 3"
+    },
+    {
+      "label": null,
+      "text": "y - 3"
+    },
+    {
+      "label": null,
+      "text": "-4x"
+    },
+    {
+      "label": null,
+      "text": "3y"
+    },
+    {
+      "label": null,
+      "text": "x + 4"
+    },
+    {
+      "label": null,
+      "text": "x - 4"
+    },
+    {
+      "label": null,
+      "text": "y + 3"
+    },
+    {
+      "label": null,
+      "text": "y - 4"
+    }
+  ],
+  "choice_pool": [
+    "x + 3",
+    "y - 3",
+    "-4x",
+    "3y",
+    "x + 4",
+    "x - 4",
+    "y + 3",
+    "y - 4"
+  ],
+  "response_template": "(x,y) \u2192 ([blank_1] , [blank_2])",
+  "visual_elements": [
+    "(x,y) \u2192 (____ , ____)"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

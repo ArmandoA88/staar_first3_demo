@@ -1,0 +1,30 @@
+{
+  "stem": "The box plots show the lengths of the songs on two digital music players in minutes.\n\nLengths of Songs on Digital Music Players\n\nMusic Player X\nMusic Player Y\n\nNumber of Minutes",
+  "instruction": "Which statement is best supported by the information in the box plots?",
+  "options": [
+    {
+      "label": "F",
+      "text": "The interquartile range of the data for Music Player X is equal to the interquartile range of the data for Music Player Y."
+    },
+    {
+      "label": "G",
+      "text": "The interquartile range of the data for Music Player X is greater than the interquartile range of the data for Music Player Y."
+    },
+    {
+      "label": "H",
+      "text": "The median length of the songs on Music Player X is equal to the median length of the songs on Music Player Y."
+    },
+    {
+      "label": "J",
+      "text": "The median length of the songs on Music Player X is less than the median length of the songs on Music Player Y."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plot showing lengths of songs for Music Player X and Music Player Y with a number line from 3.5 to 7.5 minutes"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

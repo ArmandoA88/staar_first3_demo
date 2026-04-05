@@ -1,0 +1,30 @@
+{
+  "stem": "How did the decision in this 1950 case benefit minorities?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "By setting a precedent for Brown v. Board of Education"
+    },
+    {
+      "label": "G",
+      "text": "By reinforcing the decision in Plessy v. Ferguson"
+    },
+    {
+      "label": "H",
+      "text": "By giving state governments the power to create school programs"
+    },
+    {
+      "label": "J",
+      "text": "By allowing for the creation of religious schools"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In a unanimous decision, the Court held that the Equal Protection Clause required that Sweatt be admitted to the university. . . .  \u2014\"Sweatt v. Painter,\" www.oyez.org (accessed November 29, 2017)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

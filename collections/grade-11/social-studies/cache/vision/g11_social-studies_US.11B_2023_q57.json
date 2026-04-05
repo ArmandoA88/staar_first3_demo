@@ -1,0 +1,30 @@
+{
+  "stem": "What goals do organizations like the AFL-CIO seek to achieve in the United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Improving working conditions and opportunities for union workers"
+    },
+    {
+      "label": "B",
+      "text": "Finding labor sources for manufacturing in regions outside of the United States"
+    },
+    {
+      "label": "C",
+      "text": "Deregulating businesses and reducing corporate taxes"
+    },
+    {
+      "label": "D",
+      "text": "Decreasing the political influence of labor union leaders"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "timeline AFL-CIO history 2002-2006"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Extracted from a 2023 STAAR US History question about AFL-CIO goals with 4 answer choices."
+}

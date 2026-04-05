@@ -1,0 +1,30 @@
+{
+  "stem": "Lines for gas such as the one in this photograph resulted from \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the dissolution of Standard Oil Company"
+    },
+    {
+      "label": "G",
+      "text": "an oil rig explosion in the Gulf of Mexico"
+    },
+    {
+      "label": "H",
+      "text": "the construction of the trans-Alaska pipeline"
+    },
+    {
+      "label": "J",
+      "text": "an embargo by the Organization of the Petroleum Exporting Countries"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "black and white photograph showing many cars lined up at a gas station"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

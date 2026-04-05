@@ -1,0 +1,30 @@
+{
+  "stem": "A list of numbers ordered from least value to greatest value is shown. One number is missing.\n\n\\frac{18}{5}, 3.71, _____, \\sqrt{17}\n\nWhich number could be the missing number?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4.5"
+    },
+    {
+      "label": "B",
+      "text": "3.8%"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{57}{15}"
+    },
+    {
+      "label": "D",
+      "text": "(3.9)^2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\frac{18}{5}, 3.71, _____, \\sqrt{17}"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

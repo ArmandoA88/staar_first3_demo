@@ -1,0 +1,35 @@
+{
+  "stem": "What change should be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change the comma to a period"
+    },
+    {
+      "label": "G",
+      "text": "Change set to setted"
+    },
+    {
+      "label": "H",
+      "text": "Change determined to determinned"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in sentence 7."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2014 \u2013 Q18 Passage #4",
+    "18 What change should be made in sentence 7?",
+    "F Change the comma to a period",
+    "G Change set to setted",
+    "H Change determined to determinned",
+    "J No change should be made in sentence 7."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

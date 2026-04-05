@@ -1,0 +1,30 @@
+{
+  "stem": "The theme represented in this painting is most associated with \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the nineteenth-century temperance movement"
+    },
+    {
+      "label": "B",
+      "text": "books and songs supporting the nativist movement"
+    },
+    {
+      "label": "C",
+      "text": "the works of artists from the Hudson River School"
+    },
+    {
+      "label": "D",
+      "text": "the nineteenth-century industrial boom"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "a black and white painting showing a mountainous landscape with trees, clouds, a lake, and a bear on the right side near the shore"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

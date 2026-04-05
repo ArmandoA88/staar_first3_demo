@@ -1,0 +1,30 @@
+{
+  "stem": "In the diagram a person who is 6 ft tall is standing on the ground 3 ft away from point P. A line segment drawn from the top corner of the building to point P creates two similar triangles.\n\nWhich proportion can be used to find h, the height of the building in feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{3}{h} = \\frac{18}{6}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{6}{3} = \\frac{h}{18}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{3}{15} = \\frac{h}{6}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{6}{3} = \\frac{18}{h}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with a person 6 ft tall standing 3 ft from point P, a building with height labeled h, horizontal distances 3 ft and 18 ft indicated, right angle shown at building base."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

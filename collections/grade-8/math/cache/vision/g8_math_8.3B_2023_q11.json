@@ -1,0 +1,30 @@
+{
+  "stem": "Quadrilateral \\( LMPQ \\) is shown on the coordinate grid. Quadrilateral \\( L'M'P'Q' \\) will be dilated to create quadrilateral \\( L'M'P'Q' \\). Quadrilateral \\( LMPQ \\) will be dilated with the origin as the center of dilation using the rule \\((x,y) \\to (3.75x, 3.75y)\\). Which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Each angle measure of quadrilateral \\( L'M'P'Q' \\) will be 3.75 times the corresponding angle measure of quadrilateral \\( LMPQ \\)."
+    },
+    {
+      "label": "B",
+      "text": "Each angle measure of quadrilateral \\( L'M'P'Q' \\) will be 3.75 more than the corresponding angle measure of quadrilateral \\( LMPQ \\)."
+    },
+    {
+      "label": "C",
+      "text": "Each side length of quadrilateral \\( L'M'P'Q' \\) will be 3.75 times the corresponding side length of quadrilateral \\( LMPQ \\)."
+    },
+    {
+      "label": "D",
+      "text": "Each side length of quadrilateral \\( L'M'P'Q' \\) will be 3.75 more than the corresponding side length of quadrilateral \\( LMPQ \\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with quadrilateral LMPQ labeled with points L, M, P, Q"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

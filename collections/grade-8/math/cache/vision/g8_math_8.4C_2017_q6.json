@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the number of gallons of gasoline in a car's gas tank after the car has been driven x miles.\n\nGasoline Usage\n\n| Miles Driven, x | Gallons of Gasoline in Tank, y |\n|---|---|\n| 0 | 15 |\n| 10 | 14.6 |\n| 20 | 14.2 |\n| 35 | 13.6 |\n| 60 | 12.6 |\n| 75 | 12 |\n\nWhen these data are graphed on a coordinate grid, the points all lie on the same line. What are the slope and y-intercept of this line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Slope = \\frac{1}{25}, y-intercept = 375"
+    },
+    {
+      "label": "G",
+      "text": "Slope = -\\frac{1}{25}, y-intercept = 15"
+    },
+    {
+      "label": "H",
+      "text": "Slope = 25, y-intercept = 375"
+    },
+    {
+      "label": "J",
+      "text": "Slope = -25, y-intercept = 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Gasoline Usage' with columns 'Miles Driven, x' and 'Gallons of Gasoline in Tank, y' containing values (0,15), (10,14.6), (20,14.2), (35,13.6), (60,12.6), (75,12)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

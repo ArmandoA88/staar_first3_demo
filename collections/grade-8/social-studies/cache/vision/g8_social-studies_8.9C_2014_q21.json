@@ -1,0 +1,33 @@
+{
+  "stem": "This list describes conditions found in \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "California following the Gold Rush"
+    },
+    {
+      "label": "B",
+      "text": "Washington, D.C., during the War of 1812"
+    },
+    {
+      "label": "C",
+      "text": "western territories after the U.S.-Mexican War"
+    },
+    {
+      "label": "D",
+      "text": "southern states at the beginning of Reconstruction"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bonds and currency with little to no value",
+    "Bank failures and bankrupt businesses",
+    "Destroyed railroads, farms, and homes",
+    "High food prices and widespread crop failures"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

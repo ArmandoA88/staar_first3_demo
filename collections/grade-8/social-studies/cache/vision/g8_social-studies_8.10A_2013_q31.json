@@ -1,0 +1,30 @@
+{
+  "stem": "A tourist would most likely go to the location shown on the map to visit \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the Elizabeth Cady Stanton House in Women\u2019s Rights National Historical Park"
+    },
+    {
+      "label": "B",
+      "text": "Historic Jamestowne in Colonial National Historical Park"
+    },
+    {
+      "label": "C",
+      "text": "Independence Hall in Independence National Historical Park"
+    },
+    {
+      "label": "D",
+      "text": "George Washington\u2019s Headquarters in Valley Forge National Historical Park"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map of New York state with location marked as Seneca Falls"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

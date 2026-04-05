@@ -1,0 +1,30 @@
+{
+  "stem": "Two students record the distance they each traveled in 60 seconds in the data table shown.\n\nIf the students continue at the same speed, which statement describes the total distance traveled after 90 seconds?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Student 1 traveled 40 m, and student 2 traveled 20 m."
+    },
+    {
+      "label": "B",
+      "text": "Student 1 traveled 50 m, and student 2 traveled 30 m."
+    },
+    {
+      "label": "C",
+      "text": "Student 1 traveled 60 m, and student 2 traveled 30 m."
+    },
+    {
+      "label": "D",
+      "text": "Student 1 traveled 70 m, and student 2 traveled 25 m."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Distance (m) and Time (s) and rows: Student 1, 40, 60; Student 2, 20, 60"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

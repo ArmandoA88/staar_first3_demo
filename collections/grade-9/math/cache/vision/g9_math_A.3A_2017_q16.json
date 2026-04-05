@@ -1,0 +1,30 @@
+{
+  "stem": "What is the slope of the line represented by 5x - 12y = 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-2"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{24}{5}"
+    },
+    {
+      "label": "H",
+      "text": "-12"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{5}{12}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: 5x - 12y = 24"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

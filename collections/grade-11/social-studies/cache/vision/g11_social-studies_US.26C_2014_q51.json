@@ -1,0 +1,30 @@
+{
+  "stem": "How did the events on this time line affect U.S. businesses?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Profit sharing became a standard practice for industrial corporations."
+    },
+    {
+      "label": "B",
+      "text": "Monopolistic practices were abolished by federal legislation."
+    },
+    {
+      "label": "C",
+      "text": "Mass-manufacturing techniques were adopted to maximize production."
+    },
+    {
+      "label": "D",
+      "text": "Retirement plans were guaranteed to factory workers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Timeline arrow from 1908 to 1921 with these points: 1908 Ford begins manufacturing the Model T. 1913 Ford introduces the first moving automobile assembly line. 1914 The Ford Motor Company doubles worker pay to $5.00 a day and cuts the length of a shift from nine hours to eight. 1921 The Ford Motor Company accounts for 55 percent of the automotive industry's total production."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

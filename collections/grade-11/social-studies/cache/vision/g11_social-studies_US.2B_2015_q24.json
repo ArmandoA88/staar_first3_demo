@@ -1,0 +1,30 @@
+{
+  "stem": "Barack Obama described his 2008 election victory in this manner because the election was the first in which \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "a minority candidate was elected president"
+    },
+    {
+      "label": "G",
+      "text": "naturalized immigrants had access to multilingual ballots"
+    },
+    {
+      "label": "H",
+      "text": "federal courts ordered voter recounts to stop"
+    },
+    {
+      "label": "J",
+      "text": "religious beliefs played a significant role in the presidential campaign"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "If there is anyone out there who still doubts that America is a place where all things are possible, who still wonders if the dream of our founders is alive in our time, who still questions the power of our democracy, tonight is your answer. \u2014Barack Obama, November 4, 2008"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

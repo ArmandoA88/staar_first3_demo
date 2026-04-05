@@ -1,0 +1,30 @@
+{
+  "stem": "Which plant response would best aid a plant in maximizing and retaining water acquired during a drought?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Decreasing root growth, while increasing stem and leaf growth"
+    },
+    {
+      "label": "B",
+      "text": "Increasing root, stem, and leaf growth"
+    },
+    {
+      "label": "C",
+      "text": "Decreasing stem and leaf growth, while increasing root growth"
+    },
+    {
+      "label": "D",
+      "text": "Increasing leaf and root growth, while decreasing stem growth"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "exclamation icon"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

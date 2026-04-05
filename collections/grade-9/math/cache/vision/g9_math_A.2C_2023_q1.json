@@ -1,0 +1,30 @@
+{
+  "stem": "The table represents some points on the graph of a linear function.\n\n| x | y  |\n|---|----|\n| -4| 10 |\n| -2| 7  |\n| 6 | -5 |\n\nWhich function represents this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = -\\frac{3}{2}x + 4"
+    },
+    {
+      "label": "B",
+      "text": "y = -\\frac{3}{2}x - 14"
+    },
+    {
+      "label": "C",
+      "text": "y = -\\frac{2}{3}x - 9"
+    },
+    {
+      "label": "D",
+      "text": "y = -\\frac{2}{3}x - 1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with values for x and y: (-4,10), (-2,7), (6,-5)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

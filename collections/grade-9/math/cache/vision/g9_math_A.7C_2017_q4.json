@@ -1,0 +1,28 @@
+{
+  "stem": "The graph of f(x) = x^2 was transformed to create the graph of g(x) = (x - 7.5)^2. Which of these describes this transformation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A horizontal shift to the right 7.5 units"
+    },
+    {
+      "label": "G",
+      "text": "A horizontal shift to the left 7.5 units"
+    },
+    {
+      "label": "H",
+      "text": "A vertical shift down 56.25 units"
+    },
+    {
+      "label": "J",
+      "text": "A vertical shift up 56.25 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A model of an enzyme and its corresponding substrate is shown.\n\nWhich model best represents the molecules at the end of the reaction?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[Two dark gray pieces separated] [Two light gray pieces separated]"
+    },
+    {
+      "label": "B",
+      "text": "[Two dark gray pieces separated] [One light gray piece whole]"
+    },
+    {
+      "label": "C",
+      "text": "[One dark gray piece whole with matching light gray piece attached]"
+    },
+    {
+      "label": "D",
+      "text": "[One dark gray piece whole] [Two light gray pieces separated]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Model showing Substrate as a dark gray piece with notches and Enzyme as a light gray piece with matching notches"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

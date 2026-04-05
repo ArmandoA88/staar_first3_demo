@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph represents -3x + 5y = -15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Straight line decreasing from (6, -6) to (-6, 6) roughly passing through (-1, 0) and (0, -3).",
+    "Graph B: Straight line increasing from (6, 6) to (-6, -6).",
+    "Graph C: Straight line increasing from (-6, -6) to (1, 6) passing through points near (0, 3).",
+    "Graph D: Straight line decreasing from (6, -6) to (1, 6) passing through points near (3, 0)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Options contain only graphs labeled A-D; no text besides labels and graph coordinate axes."
+}

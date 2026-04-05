@@ -1,0 +1,30 @@
+{
+  "stem": "Two plant species that grow in the same area are shown.\n\nWhich statement best explains a difference between Plant 1 and Plant 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Plant 1 obtains more water from the soil because of its root surface area and root depth."
+    },
+    {
+      "label": "B",
+      "text": "Plant 1 obtains more sunlight because of its root surface area and root depth."
+    },
+    {
+      "label": "C",
+      "text": "Plant 2 obtains more water from the soil because of its root surface area and root depth."
+    },
+    {
+      "label": "D",
+      "text": "Plant 2 obtains more sunlight because of its root surface area and root depth."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two drawn plants, labeled Plant 1 and Plant 2, showing different root surface areas and depths."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents y = -x^2 + 6x - 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with a parabola opening downwards, vertex near (3,8), x-intercepts near 1 and 5"
+    },
+    {
+      "label": "B",
+      "text": "Graph with a parabola opening upwards, vertex near (3,-1), x-intercepts near 1 and 5"
+    },
+    {
+      "label": "C",
+      "text": "Graph with a parabola opening upwards, vertex near (3,-7), x-intercepts symmetric about x=0"
+    },
+    {
+      "label": "D",
+      "text": "Graph with a parabola opening downwards, vertex near (3,9), x-intercepts near 2 and 6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: parabola opens downward around point (3,8), intercepts around 1 and 5",
+    "Graph B: parabola opens upward around point (3,-1), intercepts around 1 and 5",
+    "Graph C: parabola opens upward centered near zero",
+    "Graph D: parabola opens downward near point (3,9)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "The labeled graphs correspond to the original image. Exact math and graph features preserved in descriptions."
+}

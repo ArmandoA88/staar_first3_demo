@@ -1,0 +1,45 @@
+{
+  "stem": "Choose two factors to create an expression equivalent to 4x^2 - 81.",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "9x - 2"
+    },
+    {
+      "label": null,
+      "text": "2x - 9"
+    },
+    {
+      "label": null,
+      "text": "4x - 9"
+    },
+    {
+      "label": null,
+      "text": "9x + 2"
+    },
+    {
+      "label": null,
+      "text": "2x + 9"
+    },
+    {
+      "label": null,
+      "text": "4x + 9"
+    }
+  ],
+  "choice_pool": [
+    "9x - 2",
+    "2x - 9",
+    "4x - 9",
+    "9x + 2",
+    "2x + 9",
+    "4x + 9"
+  ],
+  "response_template": "4x^2 - 81 = ([blank_1])([blank_2])",
+  "visual_elements": [
+    "4x^2 - 81 = (  )( )"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

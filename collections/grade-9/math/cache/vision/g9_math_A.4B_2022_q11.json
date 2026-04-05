@@ -1,0 +1,28 @@
+{
+  "stem": "Which situation shows causation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When the number of people in a bus increases, the number of animals in a zoo also increases."
+    },
+    {
+      "label": "B",
+      "text": "When the number of hours worked each week by an hourly employee decreases, the amount of money earned by the employee also decreases."
+    },
+    {
+      "label": "C",
+      "text": "When the amount of a discount for a sale increases, the number of items sold during the sale decreases."
+    },
+    {
+      "label": "D",
+      "text": "When the number of bike trails in a city decreases, the amount of rainfall in the city increases."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Students use a cart and some cargo to investigate acceleration. The diagram shows the available carts, each cart's mass, and three types of cargo that can be used in the investigation. The wheels on all three carts are identical.\n\nIf an identical force is applied to all the combinations of cart and cargo, which table shows the combination that produces the least acceleration and the combination that produces the greatest acceleration?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "**Acceleration** | Cart | Cargo\nLeast | 1 | X\nGreatest | 3 | Y"
+    },
+    {
+      "label": "B",
+      "text": "**Acceleration** | Cart | Cargo\nLeast | 2 | Z\nGreatest | 1 | Y"
+    },
+    {
+      "label": "C",
+      "text": "**Acceleration** | Cart | Cargo\nLeast | 1 | Z\nGreatest | 2 | X"
+    },
+    {
+      "label": "D",
+      "text": "**Acceleration** | Cart | Cargo\nLeast | 3 | Y\nGreatest | 1 | Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing carts 1 (0.125 kg), 2 (0.200 kg), 3 (0.225 kg)",
+    "Cargo types X (Bolts 1.25 kg), Y (Sand 1.50 kg), Z (Coins 1.00 kg)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

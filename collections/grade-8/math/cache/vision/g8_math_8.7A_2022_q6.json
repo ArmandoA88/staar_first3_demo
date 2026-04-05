@@ -1,0 +1,31 @@
+{
+  "stem": "A cylinder has a height of 5 feet and a diameter of 2 feet. Which measurement is closest to the volume of the cylinder in cubic feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "62.8 ft\u00b3"
+    },
+    {
+      "label": "G",
+      "text": "15.7 ft\u00b3"
+    },
+    {
+      "label": "H",
+      "text": "78.5 ft\u00b3"
+    },
+    {
+      "label": "J",
+      "text": "157.1 ft\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cylinder height = 5 feet",
+    "cylinder diameter = 2 feet"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

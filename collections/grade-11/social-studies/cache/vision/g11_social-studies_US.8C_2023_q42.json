@@ -1,0 +1,30 @@
+{
+  "stem": "What issue was President Truman referring to in this address?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Sending U.S. advisors to Vietnam"
+    },
+    {
+      "label": "B",
+      "text": "Applying containment policies in Korea"
+    },
+    {
+      "label": "C",
+      "text": "Initiating a naval blockade on China"
+    },
+    {
+      "label": "D",
+      "text": "Competing in the space race with the Soviet Union"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt from President Harry Truman, farewell address, January 15, 1953: But after all this was said, we realized that the issue was whether there would be fighting in a limited area now or on a much larger scale later on\u2014whether there would be some casualties now or many more casualties later. . . . Our men are fighting as valiantly as Americans have ever fought\u2014because they know they are fighting in the same cause of freedom in which Americans have stood ever since the beginning of the Republic."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

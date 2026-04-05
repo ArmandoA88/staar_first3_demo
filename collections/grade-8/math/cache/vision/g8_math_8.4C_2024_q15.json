@@ -1,0 +1,30 @@
+{
+  "stem": "An artist started with some paint bottles. The artist buys the same number of additional bottles each week. The table shows the linear relationship between x, the number of weeks, and y, the number of bottles that the artist has.\n\nPaint Bottles\n\n| Number of Weeks, x | Number of Bottles, y |\n|--------------------|----------------------|\n| 4                  | 25                   |\n| 7                  | 34                   |\n| 12                 | 49                   |\n| 15                 | 58                   |\n\nHow many bottles did the artist have at the start?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3"
+    },
+    {
+      "label": "B",
+      "text": "9"
+    },
+    {
+      "label": "C",
+      "text": "13"
+    },
+    {
+      "label": "D",
+      "text": "15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

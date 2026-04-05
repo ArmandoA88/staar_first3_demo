@@ -1,0 +1,30 @@
+{
+  "stem": "The people in line in this cartoon represent which group in U.S. society?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Poor immigrant workers in the lower class of society"
+    },
+    {
+      "label": "B",
+      "text": "Wealthy business owners in the upper class of society"
+    },
+    {
+      "label": "C",
+      "text": "Moderate-income professionals in the middle class of society"
+    },
+    {
+      "label": "D",
+      "text": "Elected government officials representing all classes of society"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Political cartoon showing people lined up before a U.S. Treasury official labeled 'Step up to the captain's office and settle!'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Standard US.5(A), year 2023, question 50."
+}

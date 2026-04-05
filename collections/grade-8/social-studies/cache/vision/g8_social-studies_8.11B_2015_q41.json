@@ -1,0 +1,33 @@
+{
+  "stem": "Which of the following was the most direct result of the environmental modifications listed above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Federal regulations were adopted to ensure safety and ease of travel on the road."
+    },
+    {
+      "label": "B",
+      "text": "State governments cooperated closely to maintain road quality."
+    },
+    {
+      "label": "C",
+      "text": "Improved transportation to western states expanded trade and settlement."
+    },
+    {
+      "label": "D",
+      "text": "Road construction became a major industry in the United States."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\u2022 Trees, stumps, brush, and rock were removed.",
+    "\u2022 Hills were leveled, and hollows were filled.",
+    "\u2022 Layers of stone were laid in graduated sizes.",
+    "\u2022 Drainage ditches were dug."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

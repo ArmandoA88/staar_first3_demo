@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these occurred during early U.S. industrialization?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Manufacturers instituted a five-day workweek."
+    },
+    {
+      "label": "B",
+      "text": "Labor laws required factories to provide a safe working environment."
+    },
+    {
+      "label": "C",
+      "text": "Workers were required to attend schools to develop technical skills."
+    },
+    {
+      "label": "D",
+      "text": "Production of goods transitioned from homes to factories."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

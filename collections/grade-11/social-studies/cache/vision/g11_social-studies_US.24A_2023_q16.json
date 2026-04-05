@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement BEST explains the brief popularity of Vietnam War\u2013related songs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "These songs became popular after U.S. withdrawal from the conflict began."
+    },
+    {
+      "label": "B",
+      "text": "These songs peaked in sales as the anti-war movement intensified."
+    },
+    {
+      "label": "C",
+      "text": "These songs topped the music charts during the early years of the conflict."
+    },
+    {
+      "label": "D",
+      "text": "These songs were used to recruit U.S. soldiers during the de-escalation period of the conflict."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Vietnam War\u2013Related Songs in the Top 100, 1960\u20131975' showing number of singles for years 1960, 1965, 1970, 1975: 1960 has about 3 singles, 1965 has 10 singles, 1970 has 19 singles, 1975 has 1 single."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "The question includes a bar graph illustrating the popularity of songs related to the Vietnam War between 1960 and 1975."
+}

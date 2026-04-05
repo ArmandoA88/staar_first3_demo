@@ -1,0 +1,30 @@
+{
+  "stem": "The net of a square pyramid and its dimensions are shown in the diagram.\n\nWhat is the total surface area of the pyramid in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "336 ft\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "960 ft\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "204 ft\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "624 ft\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "net of a square pyramid with a square base 12 ft on each side and four triangular faces each with a base of 12 ft and height of 10 ft, triangle height labeled 10 ft, pyramid height labeled 8 ft"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

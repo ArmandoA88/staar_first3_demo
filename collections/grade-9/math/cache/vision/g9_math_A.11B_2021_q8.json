@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to \\((x^{9}y^{2}z^{4})^{5}\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x^{14}y^{6}z^{9}"
+    },
+    {
+      "label": "G",
+      "text": "x^{14}y^{5}z^{9}"
+    },
+    {
+      "label": "H",
+      "text": "x^{45}yz^{20}"
+    },
+    {
+      "label": "J",
+      "text": "x^{45}y^{5}z^{20}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\((x^{9}y^{2}z^{4})^{5}\\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

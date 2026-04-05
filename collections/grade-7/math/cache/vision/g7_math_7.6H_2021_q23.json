@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the numbers of different types of pies sold at a bakery during one day.\n\nPies Sold\n\n| Type of Pie | Number Sold |\n|------------|--------------|\n| Apple      | 5            |\n| Pecan      | 3            |\n| Lemon      | 4            |\n| Chocolate  | 8            |\n\nBased on the results in the table, which statement about the pies sold at this bakery during one week is NOT true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It is two times as likely for a chocolate pie to be sold as for a lemon pie to be sold."
+    },
+    {
+      "label": "B",
+      "text": "It is equally likely for an apple or pecan pie to be sold as for a chocolate pie to be sold."
+    },
+    {
+      "label": "C",
+      "text": "It is more likely for an apple or lemon pie to be sold than for a pecan or chocolate pie to be sold."
+    },
+    {
+      "label": "D",
+      "text": "It is less likely for a pecan pie to be sold than for a lemon pie to be sold."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with pies: Apple 5, Pecan 3, Lemon 4, Chocolate 8"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

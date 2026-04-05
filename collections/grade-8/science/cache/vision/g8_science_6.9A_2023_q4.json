@@ -1,0 +1,30 @@
+{
+  "stem": "Which diagram shows the relative position of Earth's axis at the beginning of summer in Texas?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Diagram with Sun left, Earth on the right with axis tilted toward Sun"
+    },
+    {
+      "label": "B",
+      "text": "Diagram with Sun bottom center, Earth above Sun with axis vertical"
+    },
+    {
+      "label": "C",
+      "text": "Diagram with Sun right, Earth left with axis tilted away from Sun"
+    },
+    {
+      "label": "D",
+      "text": "Diagram with Sun top center, Earth below Sun with axis vertical"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four diagrams each showing the Sun and Earth with Earth's axis orientation labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

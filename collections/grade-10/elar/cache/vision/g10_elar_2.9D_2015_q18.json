@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert a comma after girl"
+    },
+    {
+      "label": "G",
+      "text": "Change tripped to she trips"
+    },
+    {
+      "label": "H",
+      "text": "Change misses to missed"
+    },
+    {
+      "label": "J",
+      "text": "Change serves to serve's"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

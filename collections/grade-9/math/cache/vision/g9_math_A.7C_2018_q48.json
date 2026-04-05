@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of g(x) = x^2 was transformed to create the graph of h(x) = -\\left(\\frac{x}{4}\\right)^2. Which of these describes the transformation from the graph of g to the graph of h?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A reflection over the x-axis and a horizontal stretch"
+    },
+    {
+      "label": "G",
+      "text": "A reflection over the y-axis and a horizontal stretch"
+    },
+    {
+      "label": "H",
+      "text": "A reflection over the x-axis and a vertical stretch"
+    },
+    {
+      "label": "J",
+      "text": "A reflection over the y-axis and a vertical stretch"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "h(x) = -\\left(\\frac{x}{4}\\right)^2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

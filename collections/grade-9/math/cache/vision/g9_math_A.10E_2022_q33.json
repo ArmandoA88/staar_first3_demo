@@ -1,0 +1,28 @@
+{
+  "stem": "Which expression is a factor of 10x^2 - 19x + 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10x - 3"
+    },
+    {
+      "label": "B",
+      "text": "10x - 1"
+    },
+    {
+      "label": "C",
+      "text": "5x - 3"
+    },
+    {
+      "label": "D",
+      "text": "5x - 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

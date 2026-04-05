@@ -1,0 +1,30 @@
+{
+  "stem": "This bar graph shows historical trends in the U.S. work force.\n\nPercent of Men and Women in the U.S. Labor Force, 1950\u20132010\n\nThe trend illustrated in this graph led to a demand to pass laws \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "guaranteeing gender equality in the workplace"
+    },
+    {
+      "label": "B",
+      "text": "limiting the use of merit-based exams in the workplace"
+    },
+    {
+      "label": "C",
+      "text": "prohibiting union membership based on gender"
+    },
+    {
+      "label": "D",
+      "text": "supporting federal employee fund-raising efforts"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bar graph showing percent of men and women in the U.S. labor force from 1950 to 2010"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

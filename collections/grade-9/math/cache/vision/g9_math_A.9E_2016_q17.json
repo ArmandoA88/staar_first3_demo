@@ -1,0 +1,31 @@
+{
+  "stem": "The exponential function modeled below represents the number of square kilometers of land occupied by cane toads x years after this animal was first introduced into Australia.\n\nBased on the data, which measurement is closest to the number of square kilometers of land that will be occupied by cane toads 40 years after this animal was first introduced into Australia?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "550,000 km\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "1,250,000 km\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "600,000 km\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "800,000 km\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph of Area Occupied by Cane Toads (y-axis: Area (thousands of km\u00b2), x-axis: Time (yr))",
+    "Table with Time (yr) and Area (km\u00b2): 0->36,500; 5->53,600; 10->78,800; 15->115,780; 20->170,120; 25->250,000; 30->367,300; 35->539,700"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

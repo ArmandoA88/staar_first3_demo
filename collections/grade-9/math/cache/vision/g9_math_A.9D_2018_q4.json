@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement about the graph of y = 8(0.25)^x is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The coordinates of the x-intercept are (0.25, 0)."
+    },
+    {
+      "label": "G",
+      "text": "The coordinates of the y-intercept are (0, 8)."
+    },
+    {
+      "label": "H",
+      "text": "The equation of the asymptote is x = 0."
+    },
+    {
+      "label": "J",
+      "text": "The graph includes the point (2, 1)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = 8(0.25)^x"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

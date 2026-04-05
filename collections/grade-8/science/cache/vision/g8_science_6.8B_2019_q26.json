@@ -1,0 +1,30 @@
+{
+  "stem": "Which energy transformation happens when the blades are spinning as shown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Electrical to mechanical"
+    },
+    {
+      "label": "G",
+      "text": "Chemical to electrical"
+    },
+    {
+      "label": "H",
+      "text": "Mechanical to electrical"
+    },
+    {
+      "label": "J",
+      "text": "Chemical to mechanical"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two images labeled 'Wind Turbine' with sublabels 'Resting' and 'Spinning'. The resting image shows wind turbine blades still with a label 'Blade'. The spinning image shows blades with circular arrows indicating rotation."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

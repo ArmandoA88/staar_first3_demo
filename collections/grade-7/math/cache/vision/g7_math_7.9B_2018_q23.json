@@ -1,0 +1,30 @@
+{
+  "stem": "A company\u2019s logo was designed using circles of 3 different sizes. The diameters of two of the circles are shown.\n\nWhich measurement is closest to the area of the largest circle in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "56.52 cm\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "141.30 cm\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "1,017.36 cm\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "254.34 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Three circles with a common vertical centerline. The smallest circle at top has diameter labeled '6 cm', the middle circle below it has diameter labeled '12 cm', and the largest circle surrounds the other two but has no measurement shown."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

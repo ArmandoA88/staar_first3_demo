@@ -1,0 +1,31 @@
+{
+  "stem": "The New York City riots of 1863 were partly a result of \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the economic uncertainty faced by the working class"
+    },
+    {
+      "label": "B",
+      "text": "strong local opposition to federal taxes"
+    },
+    {
+      "label": "C",
+      "text": "housing shortages affecting recent immigrants"
+    },
+    {
+      "label": "D",
+      "text": "the meager wages paid to military recruits"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Emancipation Proclamation became effective January 1, 1863. Congress passed the Conscription Act of 1863 in March to randomly select men for service in the Union army. However, those chosen in the draft could hire a substitute or pay $300 to escape service. African Americans were not citizens and therefore not eligible for the draft.",
+    "On July 13, 1863, a crowd gathered in New York City to protest the draft. Poor Irish workers turned out in the largest numbers. The protest turned into a riot, which first targeted military and government buildings. The homes of well-known Republicans, draft supporters, the wealthy, and African Americans were also attacked. After four days federal troops finally restored order to the city."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

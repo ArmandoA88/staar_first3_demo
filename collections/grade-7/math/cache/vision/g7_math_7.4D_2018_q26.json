@@ -1,0 +1,34 @@
+{
+  "stem": "Russell has a collection of 1,200 pennies. Of these pennies, 25% are dated before 1980, 35% are dated from 1980 to 2000, and the rest are dated after 2000.\n\nHow many pennies in Russell's collection are dated after 2000?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "480"
+    },
+    {
+      "label": "G",
+      "text": "720"
+    },
+    {
+      "label": "H",
+      "text": "40"
+    },
+    {
+      "label": "J",
+      "text": "60"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Russell has a collection of 1,200 pennies. Of these pennies, 25% are dated before 1980, 35% are dated from 1980 to 2000, and the rest are dated after 2000.\n\nHow many pennies in Russell's collection are dated after 2000?",
+    "F 480",
+    "G 720",
+    "H 40",
+    "J 60"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "How did the event described by Rosa Parks in this excerpt affect the Civil Rights movement?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It changed the way police arrested public protesters."
+    },
+    {
+      "label": "G",
+      "text": "It resulted in a bus boycott that lasted more than a year."
+    },
+    {
+      "label": "H",
+      "text": "It led to an increase in the number of registered voters in southern states."
+    },
+    {
+      "label": "J",
+      "text": "It prompted the government to station the National Guard in southern states."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The white people were sitting in the white section. More white people got on, and they filled up all the seats in the white section. When that happened, we black people were supposed to give up our seats to the whites. But I didn't move. The white driver said, \"Let me have those front seats.\" I didn't get up. I was tired of giving in to white people.",
+    "\"I'm going to have you arrested,\" the driver said.",
+    "\"You may do that,\" I answered.",
+    "\u2014Rosa Parks, My Story, 1992"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

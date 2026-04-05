@@ -1,0 +1,34 @@
+{
+  "stem": "A garden contains 50 plants. The number of tomato plants is twice the number of bell pepper plants. The number of cucumber plants is the same as the number of watermelon plants. The remainder of the garden consists of squash plants. The circle graph shows the percentages of some of the types of plants in the garden.\n\nWhich statements are true?",
+  "instruction": "Select THREE correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "The number of tomato plants is 16."
+    },
+    {
+      "label": null,
+      "text": "The total number of cucumber and bell pepper plants is 18."
+    },
+    {
+      "label": null,
+      "text": "Over 50% of the plants are tomatoes and bell peppers."
+    },
+    {
+      "label": null,
+      "text": "Watermelon and cucumber plants combined are 40% of the plants."
+    },
+    {
+      "label": null,
+      "text": "Cucumber plants are 26% of the plants."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circle graph with four sectors labeled Squash 12%, Tomato, Bell Pepper 16%, Cucumber, Watermelon"
+  ],
+  "item_type_inferred": "Multiple Correct",
+  "confidence": 0.95,
+  "notes": "Graph labels some sectors; Cucumber and Watermelon percentages not shown explicitly but indicated in stem."
+}

@@ -1,0 +1,14 @@
+{
+  "stem": "A company sells bottles of vitamin capsules. The graph and table show the linear relationship between the cost per capsule in cents and the number of bottles ordered.\n\nWhat is the slope of the line that models this situation?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatter plot titled Vitamins with x-axis labeled Number of Bottles (0 to 8) and y-axis labeled Cost (cents/capsule) (0 to 80) showing points at (1, 65), (2, 60), (4, 50), (6, 40), (8, 30)",
+    "Table titled Vitamins with columns Number of Bottles, x and Cost, y (cents/capsule) and rows: 1->65, 2->60, 4->50, 6->40, 8->30"
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 1,
+  "notes": null
+}

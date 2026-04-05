@@ -1,0 +1,32 @@
+{
+  "stem": "This diagram shows a sequence of events in colonial history.\n\nThe Mayflower landed at Plymouth Rock instead of Virginia.\nThe colonists realized they were outside the area covered by the original charter.\nThe colonists signed the Mayflower Compact.\n\nWhy is this sequence of events important?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Colonists created a legislature with two houses."
+    },
+    {
+      "label": "B",
+      "text": "Colonists declared independence from English rule."
+    },
+    {
+      "label": "C",
+      "text": "Colonists defended the concept of unalienable rights."
+    },
+    {
+      "label": "D",
+      "text": "Colonists established a tradition of self-government."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Mayflower landed at Plymouth Rock instead of Virginia.",
+    "The colonists realized they were outside the area covered by the original charter.",
+    "The colonists signed the Mayflower Compact."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

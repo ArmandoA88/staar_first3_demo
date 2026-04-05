@@ -1,0 +1,30 @@
+{
+  "stem": "A family records the amount of milk used every day for 4 days. The table shows the results.\n\nMilk Usage\n\n| Day | Amount of Milk Used (gallons) |\n|-----|-------------------------------|\n|  1  | \\( \\frac{3}{16} \\)           |\n|  2  | \\( \\frac{3}{8} \\)            |\n|  3  | \\( \\frac{1}{8} \\)            |\n|  4  | \\( \\frac{1}{4} \\)            |\n\nHow much milk in gallons does the family have left after 4 days if they started with one gallon of milk?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{15}{16} \\) gal"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{2}{9} \\) gal"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{9} \\) gal"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{1}{16} \\) gal"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing days 1 to 4 with corresponding milk usage fractions: 3/16, 3/8, 1/8, 1/4"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

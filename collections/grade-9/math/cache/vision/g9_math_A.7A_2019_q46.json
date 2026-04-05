@@ -1,0 +1,30 @@
+{
+  "stem": "Which statements are best supported by the graph of \\( k \\)?\n\nI. The \\( x \\)-intercept is located at \\((-3, 0)\\).\nII. The coordinates of the \\( y \\)-intercept are \\((0, 9)\\).\nIII. The axis of symmetry is \\( x = -3 \\).",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "I and II only"
+    },
+    {
+      "label": "G",
+      "text": "I and III only"
+    },
+    {
+      "label": "H",
+      "text": "II and III only"
+    },
+    {
+      "label": "J",
+      "text": "I, II, and III"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of quadratic function k shown on coordinate grid with x values from -8 to 6 and y values from -2 to 12"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

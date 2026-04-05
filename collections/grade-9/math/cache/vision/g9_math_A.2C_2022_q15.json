@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a linear function is shown on the grid.\n\nWhich equation is best represented by this graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = -\\frac{7}{4}x + 4"
+    },
+    {
+      "label": "B",
+      "text": "y = -\\frac{7}{4}x + 7"
+    },
+    {
+      "label": "C",
+      "text": "y = -\\frac{4}{7}x + 4"
+    },
+    {
+      "label": "D",
+      "text": "y = -\\frac{4}{7}x + 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of a linear function on a grid with x-axis labeled from -12 to 12 and y-axis labeled from -12 to 12, a line passing through points (2,2) and (7,-6)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

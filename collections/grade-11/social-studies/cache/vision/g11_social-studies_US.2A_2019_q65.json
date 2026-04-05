@@ -1,0 +1,28 @@
+{
+  "stem": "Which example best defines a historical era?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A collection of art by a world-renowned artist"
+    },
+    {
+      "label": "B",
+      "text": "A period of time characterized by certain political, social, or economic events"
+    },
+    {
+      "label": "C",
+      "text": "A genre of music specific to a region of a country"
+    },
+    {
+      "label": "D",
+      "text": "A piece of landmark legislation passed during a congressional session"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

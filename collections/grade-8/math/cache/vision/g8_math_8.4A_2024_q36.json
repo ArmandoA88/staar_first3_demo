@@ -1,0 +1,30 @@
+{
+  "stem": "Right triangle \\(UVW\\) is similar to right triangle \\(KLM\\). Vertex \\(W\\) is at \\((0, -2)\\). The slopes of the hypotenuses of the two triangles are equal.\n\nWhich ordered pair could be the coordinates of vertex \\(V\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\((-6, 4)\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\((3, -4)\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\((0, 2)\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\((6, 2)\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with line through points including a right triangle KLM in quadrant III"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Extracted from STAAR 2024 Q36; math notation preserved as in image."
+}

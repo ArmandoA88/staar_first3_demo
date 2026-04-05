@@ -1,0 +1,30 @@
+{
+  "stem": "Julie made 25 international long-distance phone calls to London last month. The scatterplot below shows the length and cost of each phone call she made.\n\nCost of International Long-Distance Phone Calls\n\nWhich conclusion is best supported by the scatterplot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "As the length of a call increases, the cost of the call increases."
+    },
+    {
+      "label": "B",
+      "text": "As the length of a call increases, the cost of the call remains the same."
+    },
+    {
+      "label": "C",
+      "text": "As the length of a call increases, the cost of the call decreases."
+    },
+    {
+      "label": "D",
+      "text": "There is no relationship between the length of a call and the cost of a call."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot with x-axis labeled 'Length of Call (minutes)' ranging approximately from 0 to 30 and y-axis labeled 'Cost of Call (dollars)' ranging from 0 to 5. Points scattered showing no clear linear pattern."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

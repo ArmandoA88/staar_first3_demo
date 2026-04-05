@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to \\( \\frac{\\left(q^{4}\\right)^{-3}}{q^{-15}} \\) for all values of \\( q \\) where the expression is defined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( q^{27} \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( \\frac{1}{q^{27}} \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( q^{3} \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( \\frac{1}{q^{3}} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\frac{\\left(q^{4}\\right)^{-3}}{q^{-15}}",
+    "\\( q^{27} \\)",
+    "\\( \\frac{1}{q^{27}} \\)",
+    "\\( q^{3} \\)",
+    "\\( \\frac{1}{q^{3}} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

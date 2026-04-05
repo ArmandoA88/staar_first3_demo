@@ -1,0 +1,31 @@
+{
+  "stem": "A recipe for fruit salad includes \\( \\frac{1}{3} \\) cup of grapes for 4 servings. How many cups of grapes are needed for 30 servings of this fruit salad?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "10 c"
+    },
+    {
+      "label": "G",
+      "text": "40 c"
+    },
+    {
+      "label": "H",
+      "text": "2 \\(\\frac{1}{2}\\) c"
+    },
+    {
+      "label": "J",
+      "text": "7 \\(\\frac{1}{2}\\) c"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{1}{3} \\)",
+    "\\(\\frac{1}{2}\\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

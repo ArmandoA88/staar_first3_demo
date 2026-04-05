@@ -1,0 +1,30 @@
+{
+  "stem": "Which inference about the Know-Nothing Party is supported by the excerpt above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Its members blamed Irish immigrants for taking away jobs."
+    },
+    {
+      "label": "G",
+      "text": "The party encouraged western migration of settlers."
+    },
+    {
+      "label": "H",
+      "text": "Its members opposed enforcement of the Fugitive Slave Act in the Northeast."
+    },
+    {
+      "label": "J",
+      "text": "The party was in favor of universal suffrage."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Are you willing to . . . elect to all offices of Honor, Profit, or Trust, none but native born citizens of America, of this country to the exclusion of all foreigners . . . ?  \n\u2014 Examiner\u2019s questions for admittance to the Know-Nothing Party, 1854"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

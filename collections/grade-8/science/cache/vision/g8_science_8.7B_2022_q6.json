@@ -1,0 +1,30 @@
+{
+  "stem": "Which description best identifies the action-reaction pair between the bird and the fence post?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Action: The force of the bird on the wires\nReaction: The force of the wires on the fence post"
+    },
+    {
+      "label": "G",
+      "text": "Action: The force of the wires on the fence post\nReaction: The force of the fence post on the bird"
+    },
+    {
+      "label": "H",
+      "text": "Action: The force of the fence post on the bird\nReaction: The force of the bird on the wires"
+    },
+    {
+      "label": "J",
+      "text": "Action: The force of the bird on the fence post\nReaction: The force of the fence post on the bird"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A black-and-white photograph of a bird perched on top of a square fence post with wire fences attached to the post."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

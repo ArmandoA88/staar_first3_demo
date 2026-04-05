@@ -1,0 +1,30 @@
+{
+  "stem": "Which significant issue did the U.S. government face as a result of the addition of this land?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Experimenting with new farming and irrigation techniques in the new territory"
+    },
+    {
+      "label": "B",
+      "text": "Deciding on the official language for the new territory"
+    },
+    {
+      "label": "C",
+      "text": "Figuring out how to balance free and slave states within the new territory"
+    },
+    {
+      "label": "D",
+      "text": "Limiting the immigration of settlers into the new territory"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map of the United States with a shaded region labeled 'Mexican Cession' representing the land gained in 1848, with a compass showing N, S, E, W directions."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Students view two different cells under a microscope. They record their observations in the table shown.\n\nBased on the organelles observed, the students determine that cell 2 is a plant cell because it has an organelle that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "allows water to enter and exit the cell"
+    },
+    {
+      "label": "B",
+      "text": "contains genetic information"
+    },
+    {
+      "label": "C",
+      "text": "stores water and nutrients"
+    },
+    {
+      "label": "D",
+      "text": "produces its own food"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A table with 2 columns and 3 rows\nColumn headers: Cell | Organelles Observed\nRow 1: 1 | Vacuoles, Nucleus, Cell Membrane\nRow 2: 2 | Vacuoles, Nucleus, Chloroplast, Cell Wall"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "Based on the excerpt, which effects are highlighted by this author\u2019s work?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "U.S. novels helped the global community relate to the experiences of U.S. citizens."
+    },
+    {
+      "label": null,
+      "text": "U.S. literature had a minimal impact on the Eastern hemisphere."
+    },
+    {
+      "label": null,
+      "text": "U.S. literature blended customs from various areas of the world."
+    },
+    {
+      "label": null,
+      "text": "U.S. literature contributed to the global diffusion of U.S. culture."
+    },
+    {
+      "label": null,
+      "text": "U.S. novels outlined the structures of global political systems."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "J.D. Salinger, who has died aged 91, was the reclusive author of The Catcher in the Rye (1951), one of the most beloved novels in the English language since the second world war. . . .  [A]lthough [the main character] Holden is an American, his appeal transcended national borders. The Catcher in the Rye has been translated into 30 languages, and sold more than 65 [million] copies worldwide. In his biography of Salinger, the British poet and critic Ian Hamilton wrote of his shock of recognition when, at the age of 17, he read Holden\u2019s story. Other non-American male critics have expressed a similar sense of wonder about how Salinger could have so perfectly captured their sense of their own adolescent selves."
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

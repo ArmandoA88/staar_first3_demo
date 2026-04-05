@@ -1,0 +1,30 @@
+{
+  "stem": "Function p is in the form y = ax^2 + c. If the values of a and c are both less than 0, which graph could represent p?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with parabola opening downward with vertex above x-axis near y = 2"
+    },
+    {
+      "label": "G",
+      "text": "Graph with parabola opening upward with vertex below x-axis near y = -8"
+    },
+    {
+      "label": "H",
+      "text": "Graph with parabola opening downward with vertex below x-axis near y = -5"
+    },
+    {
+      "label": "J",
+      "text": "Graph with parabola opening downward with vertex on x-axis near y = 0"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate grids labeled F, G, H, J with parabolas graphed as described in options"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

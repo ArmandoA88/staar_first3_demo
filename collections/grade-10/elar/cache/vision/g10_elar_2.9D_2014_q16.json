@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 30 and 31?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "When the Wild West Show disbanded just before World War I, it was declared the most successful traveling show of all time."
+    },
+    {
+      "label": "G",
+      "text": "The Wild West Show disbanded just before World War I. Having been declared the most successful traveling show of all time."
+    },
+    {
+      "label": "H",
+      "text": "The Wild West Show disbanded just before World War I, at that time it was declared the most successful traveling show of all time."
+    },
+    {
+      "label": "J",
+      "text": "The sentences are written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

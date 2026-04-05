@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of linear function g passes through the points (-7, -4) and (7, 6), as shown.\n\nWhat are the slope and y-intercept of the graph of g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The slope is \\( \\frac{5}{7} \\), and the y-intercept is -1."
+    },
+    {
+      "label": "B",
+      "text": "The slope is \\( \\frac{5}{7} \\), and the y-intercept is 1."
+    },
+    {
+      "label": "C",
+      "text": "The slope is \\( \\frac{7}{5} \\), and the y-intercept is -1."
+    },
+    {
+      "label": "D",
+      "text": "The slope is \\( \\frac{7}{5} \\), and the y-intercept is 1."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing linear function g passing through points (-7, -4) and (7, 6) with labeled axes x and y"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

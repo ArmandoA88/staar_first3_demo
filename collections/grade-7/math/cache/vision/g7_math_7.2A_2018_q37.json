@@ -1,0 +1,30 @@
+{
+  "stem": "Which diagram best represents the relationship among integers, rational numbers, and whole numbers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Rational numbers\n\nIntegers\n\nWhole numbers"
+    },
+    {
+      "label": "B",
+      "text": "Whole numbers\n\nIntegers\n\nRational numbers"
+    },
+    {
+      "label": "C",
+      "text": "Rational numbers\n\nIntegers\n\nWhole numbers"
+    },
+    {
+      "label": "D",
+      "text": "Integers\n\nWhole numbers\n\nRational numbers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four Venn diagrams with labeled sets: A (Rational numbers with Integers and Whole numbers separate inside), B (Whole numbers with Integers and Rational numbers separate inside), C (Whole numbers enclosing Rational numbers enclosing Integers), D (Rational numbers enclosing Integers enclosing Whole numbers)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

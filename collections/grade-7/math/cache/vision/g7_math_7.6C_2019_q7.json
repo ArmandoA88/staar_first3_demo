@@ -1,0 +1,30 @@
+{
+  "stem": "Vincent flipped three coins during a probability experiment. The outcomes of the first 40 trials are shown in the table.\n\nProbability Experiment\n\nFaces Showing on Flipped Coins | Number of Outcomes\n3 tails | 4\n1 head, 2 tails | 13\n2 heads, 1 tail | 16\n3 heads | 7\n\nBased on the information in the table, in how many of the next 120 trials will the outcome be exactly two of the coins showing heads?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "60"
+    },
+    {
+      "label": "B",
+      "text": "87"
+    },
+    {
+      "label": "C",
+      "text": "39"
+    },
+    {
+      "label": "D",
+      "text": "48"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing outcomes for faces on flipped coins with counts for 3 tails, 1 head 2 tails, 2 heads 1 tail, 3 heads"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

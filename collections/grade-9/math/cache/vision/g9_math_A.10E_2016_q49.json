@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is a factor of x^2 - 5x - 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x - 6"
+    },
+    {
+      "label": "B",
+      "text": "x - 2"
+    },
+    {
+      "label": "C",
+      "text": "x - 3"
+    },
+    {
+      "label": "D",
+      "text": "x - 1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "x^2 - 5x - 6"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the number of contacts six people each have stored in their cell phone.\n\nCell Phone Contacts\nPerson | Number of Contacts\nMary   | 68\nWes    | 72\nKeith  | 77\nJulie  | 64\nAnthony| 69\nIan    | 76\n\nWhat is the mean absolute deviation for this set of data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "71"
+    },
+    {
+      "label": "B",
+      "text": "24"
+    },
+    {
+      "label": "C",
+      "text": "4"
+    },
+    {
+      "label": "D",
+      "text": "13"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

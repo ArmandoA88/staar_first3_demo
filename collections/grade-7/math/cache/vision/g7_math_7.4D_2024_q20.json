@@ -1,0 +1,28 @@
+{
+  "stem": "The cost of groceries for the Nguyen family was $210.00. The family used a coupon for 25% off the cost.\n\nWhat was the final cost after the coupon was used?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$52.50"
+    },
+    {
+      "label": "B",
+      "text": "$157.50"
+    },
+    {
+      "label": "C",
+      "text": "$185.00"
+    },
+    {
+      "label": "D",
+      "text": "$262.50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

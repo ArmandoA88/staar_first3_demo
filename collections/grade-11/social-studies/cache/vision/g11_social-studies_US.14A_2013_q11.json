@@ -1,0 +1,30 @@
+{
+  "stem": "The establishment of the wildlife corridors discussed in the excerpt was most likely necessary to prevent \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the spread of disease among animals"
+    },
+    {
+      "label": "B",
+      "text": "the disruption of animal migration"
+    },
+    {
+      "label": "C",
+      "text": "a rapid increase in the number of animals"
+    },
+    {
+      "label": "D",
+      "text": "an invasion of non-native animal species"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "As the human population grows in the Flagstaff region, we increase the impact of transportation corridors (such as roads and rails) and land use changes (such as urban and rural development) on wildlife populations. . . .  To that end, the City of Flagstaff and Coconino County requested wildlife corridor information from the Arizona Game and Fish Department. . . .  \u2014Jessica Gist and Sarah Reif, Arizona Game and Fish Department, August 2009"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

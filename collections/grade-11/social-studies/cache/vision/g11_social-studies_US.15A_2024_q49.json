@@ -1,0 +1,30 @@
+{
+  "stem": "This excerpt is from a law passed in the 1860s.\n\nThat any person who is the head of a family, or who has arrived at the age of twenty-one years, and is a citizen of the United States, or who shall have filed his declaration of intention to become such, . . . and who has never borne arms against the United States Government or given aid and comfort to its enemies, shall . . . be entitled to enter one quarter section or a less quantity of unappropriated public lands.\n\n\u2014Homestead Act, May 20, 1862",
+  "instruction": "Which phrase describes the purpose of this law?",
+  "options": [
+    {
+      "label": "A",
+      "text": "To establish grant programs for universities"
+    },
+    {
+      "label": "B",
+      "text": "To encourage cooperation with native populations"
+    },
+    {
+      "label": "C",
+      "text": "To encourage western migration"
+    },
+    {
+      "label": "D",
+      "text": "To expedite the naturalization process"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text excerpt from Homestead Act, May 20, 1862"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

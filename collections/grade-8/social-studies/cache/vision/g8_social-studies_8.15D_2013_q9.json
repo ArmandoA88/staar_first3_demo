@@ -1,0 +1,30 @@
+{
+  "stem": "Which right best completes the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The right to bear arms"
+    },
+    {
+      "label": "B",
+      "text": "Freedom to speak without fear of punishment"
+    },
+    {
+      "label": "C",
+      "text": "Protection from cruel and unusual punishment"
+    },
+    {
+      "label": "D",
+      "text": "Freedom of the press to report on court proceedings"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with \"Due Process of Law\" connected to three boxes: \"Guarantee of a speedy trial\", \"Freedom from unreasonable search and seizure\", and a box with a question mark"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

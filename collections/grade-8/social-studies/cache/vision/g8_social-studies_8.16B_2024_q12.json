@@ -1,0 +1,30 @@
+{
+  "stem": "Which result shows how the amendment described in this excerpt \u201cappeared to signify the fulfillment of all promises to African Americans\u201d?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "African American children were given access to education."
+    },
+    {
+      "label": "B",
+      "text": "African American families were given free land to farm."
+    },
+    {
+      "label": "C",
+      "text": "African American men were elected to public office."
+    },
+    {
+      "label": "D",
+      "text": "African American men were allowed to serve in the military."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text box with excerpt:\nTo former abolitionists and to the Radical Republicans in Congress who fashioned Reconstruction after the Civil War, the Fifteenth Amendment, enacted in 1870, appeared to signify the fulfillment of all promises to African Americans.\n\n\u2014\"15th Amendment to the U.S. Constitution,\" Our Documents, www.ourdocuments.gov (accessed May 25, 2019)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which information about the development of the atomic bomb is revealed by this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Concerns were raised over the potential long-term effects of changes in relations between countries."
+    },
+    {
+      "label": "B",
+      "text": "Prominent scientists were united in agreement about how to proceed."
+    },
+    {
+      "label": "C",
+      "text": "A postwar scientific alliance with Russia would be guaranteed after a successful demonstration."
+    },
+    {
+      "label": "D",
+      "text": "Additional testing on smaller Japanese communities would be necessary."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Not all the scientists of the Manhattan Project were satisfied that their voices had been heard in decision-making about the bomb. . . . The Scientific Panel of the Interim Committee was supposed to be the connection between the scientists and the policymakers, but after the scientists of the Met Lab were briefed . . . [the Met Lab scientists] decided to create a \"second opinion.\" . . . [The Franck] report argued that postwar international control of atomic power was the only way to stop the arms race that would be inevitable if the United States bombed Japan without first demonstrating the weapon in an uninhabited area. . . . [Policymakers] disagreed with the Franck Report."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

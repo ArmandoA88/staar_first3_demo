@@ -1,0 +1,33 @@
+{
+  "stem": "A lifeguard earns $320 per week for working 40 hours plus $12 per hour worked over 40 hours. A lifeguard can work a maximum of 60 hours per week.\n\nWhich graph best represents the lifeguard\u2019s weekly earnings in dollars for working h hours over 40?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(graph labeled F showing weekly earnings from 0 to about 480 dollars when h is about 20)"
+    },
+    {
+      "label": "H",
+      "text": "(graph labeled H showing weekly earnings from 0 to about 320 dollars when h is about 30)"
+    },
+    {
+      "label": "G",
+      "text": "(graph labeled G showing weekly earnings from 0 to about 560 dollars when h is about 20)"
+    },
+    {
+      "label": "J",
+      "text": "(graph labeled J showing weekly earnings from 0 to about 480 dollars when h is about 40)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph F: Weekly Earnings w vs Number of Hours h Worked over 40, w-axis shows from 100 to 600, h-axis from 0 to 25, point at about (20,480)",
+    "Graph H: Weekly Earnings w vs Number of Hours h Worked over 40, w-axis shows 0 to 600, h-axis from 0 to 50, point at about (30,320)",
+    "Graph G: Weekly Earnings w vs Number of Hours h Worked over 40, w-axis shows 100 to 600, h-axis from 0 to 25, point at about (20,560)",
+    "Graph J: Weekly Earnings w vs Number of Hours h Worked over 40, w-axis shows 0 to 600, h-axis from 0 to 50, point at about (40,480)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Graphs interpreted visually with reference points as approximate. Exact coordinates on graphs not given but estimated."
+}

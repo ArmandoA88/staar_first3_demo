@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 36 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a colon after this"
+    },
+    {
+      "label": "B",
+      "text": "Change dissimilar to **dissimular**"
+    },
+    {
+      "label": "C",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "D",
+      "text": "Change they to **you**"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

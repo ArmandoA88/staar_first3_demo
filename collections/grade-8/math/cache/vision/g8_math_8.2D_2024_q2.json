@@ -1,0 +1,32 @@
+{
+  "stem": "Which list shows the numbers in order from greatest value to least value?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\dfrac{39}{8} \\quad 4.84 \\quad \\sqrt{24}"
+    },
+    {
+      "label": "B",
+      "text": "\\sqrt{24} \\quad \\dfrac{39}{8} \\quad 4.84"
+    },
+    {
+      "label": "C",
+      "text": "\\dfrac{39}{8} \\quad \\sqrt{24} \\quad 4.84"
+    },
+    {
+      "label": "D",
+      "text": "4.84 \\quad \\dfrac{39}{8} \\quad \\sqrt{24}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\dfrac{39}{8}",
+    "4.84",
+    "\\sqrt{24}"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

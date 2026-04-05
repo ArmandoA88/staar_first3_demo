@@ -1,0 +1,28 @@
+{
+  "stem": "The owner of a bookstore buys used books from customers for $1.50 each. The owner then resells the used books for 400% of the amount he paid for them.\n\nWhat is the price of a used book in this bookstore?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$5.50"
+    },
+    {
+      "label": "G",
+      "text": "$4.00"
+    },
+    {
+      "label": "H",
+      "text": "$2.10"
+    },
+    {
+      "label": "J",
+      "text": "$6.00"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

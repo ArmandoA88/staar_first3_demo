@@ -1,0 +1,30 @@
+{
+  "stem": "Students in two groups were asked to guess the number of marbles in a jar. The box plots display each group\u2019s responses.\n\nNumber of Marbles in a Jar\n\nWhich statement is best supported by the information in the box plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The range of the data for Group 2 is equal to the range of the data for Group 1."
+    },
+    {
+      "label": "B",
+      "text": "The distribution of the data for Group 1 is more symmetrical than the distribution of the data for Group 2."
+    },
+    {
+      "label": "C",
+      "text": "The interquartile range of the data for Group 1 is greater than the interquartile range of the data for Group 2."
+    },
+    {
+      "label": "D",
+      "text": "The median number of the data for Group 1 is greater than the median number of the data for Group 2."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plots for Group 1 and Group 2 labeled with Number of Marbles in a Jar and horizontal scale from 10 to 36"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

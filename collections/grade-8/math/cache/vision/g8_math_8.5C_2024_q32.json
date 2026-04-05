@@ -1,0 +1,30 @@
+{
+  "stem": "Which scatterplot best represents a nonlinear relationship between the x- and y-values?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Scatterplot with points descending linearly from about (1,10) to (8,1)"
+    },
+    {
+      "label": "B",
+      "text": "Scatterplot with points ascending roughly linearly from about (1,5) to (8,9)"
+    },
+    {
+      "label": "C",
+      "text": "Scatterplot with points remaining about constant around y=6 from x=1 to x=8"
+    },
+    {
+      "label": "D",
+      "text": "Scatterplot with points showing a sharp nonlinear drop from about (1,11) to (8,1) in a curve"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4 scatterplots labeled A, B, C, D with x and y axes from 0 to 12; points as described in options"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

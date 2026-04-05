@@ -1,0 +1,30 @@
+{
+  "stem": "Point M is located at (4, 6) on a coordinate grid. Point M is translated 8 units to the left and 9 units down to create point M'.",
+  "instruction": "Which measurement is closest to the distance between point M and point M'  in units?",
+  "options": [
+    {
+      "label": "A",
+      "text": "4 units"
+    },
+    {
+      "label": "B",
+      "text": "17 units"
+    },
+    {
+      "label": "C",
+      "text": "9 units"
+    },
+    {
+      "label": "D",
+      "text": "12 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with x-axis labeled -9 to 9 and y-axis labeled -9 to 9"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

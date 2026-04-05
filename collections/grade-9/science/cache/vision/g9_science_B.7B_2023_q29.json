@@ -1,0 +1,30 @@
+{
+  "stem": "Which description identifies the purpose of Step A in this process?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To correct mutations in the DNA sequence"
+    },
+    {
+      "label": "B",
+      "text": "To produce an exact copy of the DNA molecule"
+    },
+    {
+      "label": "C",
+      "text": "To copy the DNA of a gene sequence onto a strand of mRNA"
+    },
+    {
+      "label": "D",
+      "text": "To assist in the folding of a protein"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing steps in the production of a protein, with Step A between DNA and an RNA strand, Step B between RNA strand and Protein"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "How did the event in this headline impact the Civil Rights movement?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The focus of the movement shifted to the struggle of migrant workers."
+    },
+    {
+      "label": "G",
+      "text": "The movement lost credibility with the American public."
+    },
+    {
+      "label": "H",
+      "text": "The focus of the movement shifted to protesting U.S. involvement in foreign wars."
+    },
+    {
+      "label": "J",
+      "text": "The movement lost an important national leader."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Newspaper headline: The Daily Star, April 4, 1968\nMartin Luther King, Jr. Assassinated in Memphis"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

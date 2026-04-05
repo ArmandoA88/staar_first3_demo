@@ -1,0 +1,28 @@
+{
+  "stem": "A car dealership offers two types of discounts.\n\n\u2022 Discount 1: Take 5% off the original price of a car built last year and then receive a $3,500 rebate.\n\u2022 Discount 2: Take 10% off the original price of a car built this year and then receive a $1,250 rebate.\n\nA customer is deciding between two cars.\n\n\u2022 Car R was built last year and has an original price of $25,340.\n\u2022 Car S was built this year and has an original price of $22,860.\n\nBased on this information, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The customer would pay $19,324 for Car S."
+    },
+    {
+      "label": "B",
+      "text": "The customer would pay $24,073 for Car R."
+    },
+    {
+      "label": "C",
+      "text": "The customer would pay $21,824 for Car S."
+    },
+    {
+      "label": "D",
+      "text": "The customer would pay $23,107 for Car R."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

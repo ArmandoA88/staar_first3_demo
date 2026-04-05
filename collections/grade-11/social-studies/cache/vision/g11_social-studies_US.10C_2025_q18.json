@@ -1,0 +1,25 @@
+{
+  "stem": "On November 4, 1979, Iranian students seized the [U.S. embassy] and detained more than 50 Americans . . . as hostages. The Iranians held the American diplomats hostage for 444 days. While the courage of the American hostages in Tehran and of their families at home reflected the best tradition of the Department of State, the Iran hostage crisis undermined [President] Carter\u2019s conduct of foreign policy.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [
+    {
+      "label": null,
+      "text": "The Iranian Hostage Crisis resulted from the U.S. president\u2019s decision to allow Iran\u2019s exiled shah to [blank_1]. The Iranians held U.S. diplomats hostage to declare their opposition to the U.S. [blank_2]."
+    }
+  ],
+  "choice_pool": [
+    "visit the United States",
+    "visit the Soviet Union",
+    "visit China",
+    "government policies",
+    "military actions",
+    "trade agreements"
+  ],
+  "response_template": "The Iranian Hostage Crisis resulted from the U.S. president\u2019s decision to allow Iran\u2019s exiled shah to [blank_1]. The Iranians held U.S. diplomats hostage to declare their opposition to the U.S. [blank_2].",
+  "visual_elements": [
+    "excerpts from The Iranian Hostage Crisis, Department of State"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, should be made in sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "She'd made it while managing the kids, what had looked like a perfect dough."
+    },
+    {
+      "label": "B",
+      "text": "While managing the kids, she had made a dough, looking perfect."
+    },
+    {
+      "label": "C",
+      "text": "She'd managed the kids while making a dough that had looked like a perfect dough."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

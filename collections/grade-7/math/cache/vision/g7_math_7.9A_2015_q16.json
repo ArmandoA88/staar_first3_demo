@@ -1,0 +1,30 @@
+{
+  "stem": "What is the volume of the triangular prism shown below?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "143 cm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "312 cm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "156 cm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangular prism with dimensions 8 cm (base), 3 cm (height of the triangle), 13 cm (length of the prism)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

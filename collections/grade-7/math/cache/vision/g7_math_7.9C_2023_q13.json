@@ -1,0 +1,13 @@
+{
+  "stem": "The figure is composed of two trapezoids. Measurements are given in feet.\n\n[Image shows a composite figure with dimensions labeled: top base of upper trapezoid 4 ft, height 2 ft, horizontal segment inside figure 3 ft, vertical side segment 2 ft, longer base of lower trapezoid 5 ft]\n\nWhat is the area of the figure in square feet?",
+  "instruction": "Enter your answer in the box.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Composite figure with two trapezoids and measurements labeled in feet: 4 ft, 2 ft, 3 ft, 2 ft, 5 ft"
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 0.99,
+  "notes": null
+}

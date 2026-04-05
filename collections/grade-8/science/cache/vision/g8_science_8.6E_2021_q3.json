@@ -1,0 +1,30 @@
+{
+  "stem": "Students mixed two liquids in a beaker and listed their observations.\n\nObservations\nLiquid 1 was colorless.\nLiquid 2 was colorless.\nThe mixture of liquids 1 and 2 formed a colorless solution.\nSmall, solid particles formed and fell to the bottom of the beaker.\n\nBased on these observations, which statement contains the best evidence that a chemical reaction occurred?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There is a change in shape."
+    },
+    {
+      "label": "B",
+      "text": "There is a change in volume."
+    },
+    {
+      "label": "C",
+      "text": "The two liquids mix into a solution."
+    },
+    {
+      "label": "D",
+      "text": "The two liquids form a new substance."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with observations"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

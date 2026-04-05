@@ -1,0 +1,30 @@
+{
+  "stem": "Many members of Congress disagreed with President Roosevelt's proposed solution to the problem described above because \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the Constitution required hearings to confirm judicial appointments"
+    },
+    {
+      "label": "B",
+      "text": "Supreme Court justices were subject to term limits"
+    },
+    {
+      "label": "C",
+      "text": "the power of the executive branch would increase"
+    },
+    {
+      "label": "D",
+      "text": "the time required for judicial proceedings would increase"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Last Thursday I described the American form of Government as a three horse team provided by the Constitution to the American people so that their field might be plowed. The three horses are, of course, the three branches of government\u2014the Congress, the Executive and the Courts. Two of the horses are pulling in unison today; the third is not. \u2014President Franklin D. Roosevelt, 1937"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

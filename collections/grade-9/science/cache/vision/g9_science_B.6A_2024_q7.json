@@ -1,0 +1,46 @@
+{
+  "stem": "Dogs have 39 pairs of chromosomes in their somatic cells. In which part of the cell are these chromosomes replicated during the cell cycle?",
+  "instruction": "Select ONE correct answer.",
+  "options": [
+    {
+      "label": "1",
+      "text": ""
+    },
+    {
+      "label": "2",
+      "text": ""
+    },
+    {
+      "label": "3",
+      "text": ""
+    },
+    {
+      "label": "4",
+      "text": ""
+    },
+    {
+      "label": "5",
+      "text": ""
+    },
+    {
+      "label": "6",
+      "text": ""
+    },
+    {
+      "label": "7",
+      "text": ""
+    },
+    {
+      "label": "8",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A labeled diagram of a cell with 8 parts indicated by numbers 1 through 8"
+  ],
+  "item_type_inferred": "Hot Spot",
+  "confidence": 1,
+  "notes": "The image shows a cell with 8 labeled parts, but their names are not given in the image. The question asks to select the part where chromosomes are replicated."
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Which Venn diagram correctly represents the relationship between rational numbers and irrational numbers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": " , because rational numbers and irrational numbers have no numbers in common"
+    },
+    {
+      "label": "B",
+      "text": " , because some irrational numbers are also rational numbers"
+    },
+    {
+      "label": "C",
+      "text": " , because all rational numbers are also irrational numbers"
+    },
+    {
+      "label": "D",
+      "text": " , because all irrational numbers are also rational numbers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A: Real numbers rectangle with two separate circles labeled 'Rational numbers' and 'Irrational numbers'.",
+    "B: Real numbers rectangle with two intersecting circles labeled 'Rational numbers' and 'Irrational numbers'.",
+    "C: Real numbers rectangle with one circle inside the other: larger 'Irrational numbers' containing smaller 'Rational numbers'.",
+    "D: Real numbers rectangle with one circle inside the other: larger 'Rational numbers' containing smaller 'Irrational numbers'."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

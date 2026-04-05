@@ -1,0 +1,30 @@
+{
+  "stem": "Which phenomenon explains why the orcas have more DDT in their tissues than the zooplankton?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Biogeography"
+    },
+    {
+      "label": "B",
+      "text": "Biomagnification"
+    },
+    {
+      "label": "C",
+      "text": "Biomass"
+    },
+    {
+      "label": "D",
+      "text": "Biotic factors"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing the movement of DDT in the tissues of different organisms in the Pacific Ocean: DDT released from multiple sources into Pacific Ocean -> Phytoplankton -> Zooplankton -> Herring -> Salmon -> Orcas"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,18 @@
+{
+  "stem": "These contributions were made by leading reformers in U.S. history.\n\nMove each contribution to the correct reformer. Not all answers will be used.",
+  "instruction": null,
+  "options": [],
+  "choice_pool": [
+    "Led efforts to promote women\u2019s right to vote",
+    "Worked to improve conditions for the mentally ill",
+    "Argued for universal access to education",
+    "Wrote about the hardships of slavery"
+  ],
+  "response_template": "Harriet Beecher Stowe: [blank_1]\nDorothea Dix: [blank_2]\nElizabeth Cady Stanton: [blank_3]",
+  "visual_elements": [
+    "Table with three columns labeled Harriet Beecher Stowe, Dorothea Dix, Elizabeth Cady Stanton, each with one empty dashed box for dropping answers"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

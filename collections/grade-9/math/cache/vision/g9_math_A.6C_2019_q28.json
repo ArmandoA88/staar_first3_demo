@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a quadratic function is shown on the grid.\n\nWhich function is best represented by this graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "h(x) = x^2 - 3x - 9"
+    },
+    {
+      "label": "G",
+      "text": "h(x) = x^2 + 3x - 9"
+    },
+    {
+      "label": "H",
+      "text": "h(x) = x^2 - 6x"
+    },
+    {
+      "label": "J",
+      "text": "h(x) = x^2 + 6x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of a quadratic function with vertex around (3, -9) on a grid with x-axis labeled from -3 to 9 and y-axis labeled from -10 to 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

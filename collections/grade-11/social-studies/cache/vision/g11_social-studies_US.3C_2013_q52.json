@@ -1,0 +1,30 @@
+{
+  "stem": "Which group of people most likely inspired the creation of this 1893 cartoon?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Union leaders"
+    },
+    {
+      "label": "G",
+      "text": "Philanthropists"
+    },
+    {
+      "label": "H",
+      "text": "Political bosses"
+    },
+    {
+      "label": "J",
+      "text": "Nativists"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "THEY WOULD CLOSE TO THE NEW-COMER THE BRIDGE THAT CARRIED THEM AND THEIR FATHERS OVER"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

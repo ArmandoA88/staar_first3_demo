@@ -1,0 +1,28 @@
+{
+  "stem": "Which expression is a factored form of 2x\u00b2 - 25x + 63?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(x + 9)(2x + 7)"
+    },
+    {
+      "label": "G",
+      "text": "(x - 9)(2x - 7)"
+    },
+    {
+      "label": "H",
+      "text": "(x + 7)(2x + 9)"
+    },
+    {
+      "label": "J",
+      "text": "(x - 7)(2x - 9)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

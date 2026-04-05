@@ -1,0 +1,30 @@
+{
+  "stem": "Which set of statements describes how body systems interact after an injury?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The immune system alerts the integumentary system that the skin has been broken. The muscular system increases the blood flow to the area, which causes swelling."
+    },
+    {
+      "label": "B",
+      "text": "The integumentary system alerts the body that the skin has been broken. The immune system sends white blood cells to attack pathogens that enter the body."
+    },
+    {
+      "label": "C",
+      "text": "The nervous system alerts the capillaries to increase the temperature at the site of the injury. The immune system releases water into the injured area to cool the area after the increase in temperature."
+    },
+    {
+      "label": "D",
+      "text": "The immune system increases the temperature of the area to reduce bacterial growth. The circulatory system increases blood flow to cleanse the injury."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Injury with a Splinter' with four numbered statements describing inflammatory response steps: 1) alarm signals released by damaged cells, 2) temperature increase, 3) white blood cells move and consume pathogens, 4) blood flow and fluids increase causing swelling"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

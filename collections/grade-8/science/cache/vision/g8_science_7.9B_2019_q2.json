@@ -1,0 +1,30 @@
+{
+  "stem": "A student makes a model of the sun-Earth system by swinging a ball around her head. Using this model, the student is trying to explain how Earth stays on a path around the sun.\n\nThe student explains that this path is the result of \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the magnetic attraction between Earth and the sun"
+    },
+    {
+      "label": "G",
+      "text": "potential energy stored in Earth that originated in the sun"
+    },
+    {
+      "label": "H",
+      "text": "the gravitational attraction between the sun and Earth"
+    },
+    {
+      "label": "J",
+      "text": "electromagnetic energy from the sun pulling on Earth"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Model of Sun and Earth diagram showing a girl swinging a ball on a string with labels: 'Hand = Sun', 'Ball = Earth', and 'Path of ball'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

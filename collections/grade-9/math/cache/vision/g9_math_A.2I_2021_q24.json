@@ -1,0 +1,31 @@
+{
+  "stem": "The tables of ordered pairs represent some points on the graphs of lines f and g.\n\nLine f\n|  x  |  y  |\n|  2  |  7  |\n|  4  | 10.5 |\n|  7  | 15.75|\n| 11  | 22.75|\n\nLine g\n|  x  |  y  |\n| -3  |  4  |\n| -2  |  0  |\n|  1  | -12 |\n|  4  | -24 |\n\nWhich system of equations represents lines f and g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = 1.75x + 3.5\ny = -4x - 8"
+    },
+    {
+      "label": "G",
+      "text": "y = 1.75x + 3.5\ny = -4x - 2"
+    },
+    {
+      "label": "H",
+      "text": "y = 3.5x + 1.75\ny = -4x - 8"
+    },
+    {
+      "label": "J",
+      "text": "y = 3.5x + 1.75\ny = -4x - 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table for line f with pairs (2,7), (4,10.5), (7,15.75), (11,22.75)",
+    "Table for line g with pairs (-3,4), (-2,0), (1,-12), (4,-24)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

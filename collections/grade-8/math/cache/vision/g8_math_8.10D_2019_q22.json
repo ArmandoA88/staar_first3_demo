@@ -1,0 +1,31 @@
+{
+  "stem": "Quadrilateral \\( KMPT \\) is dilated by a scale factor of \\( \\frac{3}{4} \\) to create quadrilateral \\( K'M'P'T' \\). The perimeter of quadrilateral \\( KMPT \\) is \\( x \\) units. What is the perimeter in units of quadrilateral \\( K'M'P'T' \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( x \\) units"
+    },
+    {
+      "label": "G",
+      "text": "\\( \\frac{3}{4} x \\) units"
+    },
+    {
+      "label": "H",
+      "text": "\\( \\left( \\frac{3}{4} \\right)^2 x \\) units"
+    },
+    {
+      "label": "J",
+      "text": "\\( \\frac{4}{3} x \\) units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scale factor fraction \\( \\frac{3}{4} \\)",
+    "quadrilateral names \\( KMPT \\) and \\( K'M'P'T' \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

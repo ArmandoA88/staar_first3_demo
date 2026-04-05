@@ -1,0 +1,30 @@
+{
+  "stem": "A quadratic function is graphed on the grid.\n\nWhich answer choice best represents the domain and range of the function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Domain: x \\geq -3\nRange: y \\geq 5"
+    },
+    {
+      "label": "B",
+      "text": "Domain: All real numbers\nRange: y \\geq 5"
+    },
+    {
+      "label": "C",
+      "text": "Domain: x \\geq -3\nRange: All real numbers"
+    },
+    {
+      "label": "D",
+      "text": "Domain: y \\geq 5\nRange: x \\geq -3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of a quadratic parabola opening upwards with vertex at (-3, 5) on a grid with axes labeled x and y"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

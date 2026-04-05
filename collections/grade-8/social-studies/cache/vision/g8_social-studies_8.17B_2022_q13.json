@@ -1,0 +1,32 @@
+{
+  "stem": "Which issue do the events in these headlines have in common?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Expansion of slavery"
+    },
+    {
+      "label": "B",
+      "text": "States' rights"
+    },
+    {
+      "label": "C",
+      "text": "Taxation without representation"
+    },
+    {
+      "label": "D",
+      "text": "Popular sovereignty"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Newspaper headline: \"Kentucky Passes Resolution Declares Alien and Sedition Acts Violate Constitution\" dated 1799",
+    "Newspaper headline: \"Federalists Held Secret Convention in Hartford Wanted to Amend Constitution\" dated 1815",
+    "Newspaper headline: \"South Carolina Declares Tariffs Null and Void Threatens to Secede from Union\" dated 1832"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

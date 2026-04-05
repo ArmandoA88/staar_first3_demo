@@ -1,0 +1,30 @@
+{
+  "stem": "Maggie has a $50 gift card that she will use to purchase games for her phone. Each game costs $1.99. She has a coupon code for $5 off her entire purchase.\n\nWhich equation can be used to find x, the maximum number of games Maggie can purchase?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "50 = 1.99 - 5x"
+    },
+    {
+      "label": "B",
+      "text": "50 = 1.99 + 5x"
+    },
+    {
+      "label": "C",
+      "text": "50 = 1.99x + 5"
+    },
+    {
+      "label": "D",
+      "text": "50 = 1.99x - 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

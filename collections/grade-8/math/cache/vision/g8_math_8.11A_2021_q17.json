@@ -1,0 +1,30 @@
+{
+  "stem": "A math teacher observed that as the number of hours students studied their multiplication facts increased, the number of errors the students made on their multiplication tests decreased. Which scatterplot could support this teacher's observation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Scatterplot A showing Number of Errors increasing as Study Time increases."
+    },
+    {
+      "label": "B",
+      "text": "Scatterplot B showing Number of Errors first increasing then decreasing as Study Time increases."
+    },
+    {
+      "label": "C",
+      "text": "Scatterplot C showing no clear trend between Number of Errors and Study Time."
+    },
+    {
+      "label": "D",
+      "text": "Scatterplot D showing Number of Errors decreasing as Study Time increases."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four scatterplots labeled A, B, C, and D with Number of Errors on y-axis and Study Time (hours) on x-axis."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Scatterplot D matches the teacher's observation that errors decrease as study time increases."
+}

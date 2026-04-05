@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows each of Mr. Russo\u2019s assets as a positive value and each of his liabilities as a negative value. The value of Mr. Russo\u2019s savings account is not shown.\n\nMr. Russo\u2019s net worth is $48,700. What is the current value of his savings account?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$8,100"
+    },
+    {
+      "label": "B",
+      "text": "$89,300"
+    },
+    {
+      "label": "C",
+      "text": "$21,600"
+    },
+    {
+      "label": "D",
+      "text": "$40,600"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Mr. Russo\u2019s Net Worth Statement\n\nItem | Value (dollars)\nHouse (current value) | 95,000\nMortgage | -64,600\nAutomobile (current value) | 8,500\nAuto loan | -5,700\nChecking account | 7,400\nSavings account | ?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows Peter\u2019s net worth statement. Assets are shown as positive numbers, and liabilities are shown as negative numbers. The value of Peter\u2019s house is not given.\n\nNet Worth Statement\n\n| Item                 | Value   |\n|----------------------|---------|\n| House (current value) |         |\n| Checking account      | $900    |\n| Credit-card debt      | -$3,400 |\n| Automobile (current value) | $16,900 |\n| Student loans        | -$16,300|\n| Investments          | $4,500  |\n| Savings account      | $1,200  |\n\nPeter\u2019s net worth is $101,800. Based on the information in the table, what is the current value of Peter\u2019s house?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$58,600"
+    },
+    {
+      "label": "B",
+      "text": "$78,300"
+    },
+    {
+      "label": "C",
+      "text": "$98,000"
+    },
+    {
+      "label": "D",
+      "text": "$82,100"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Net Worth Statement table"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

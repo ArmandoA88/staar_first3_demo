@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change Decade's to Decades"
+    },
+    {
+      "label": "G",
+      "text": "Change provided to provides"
+    },
+    {
+      "label": "H",
+      "text": "Change lovers to lover's"
+    },
+    {
+      "label": "J",
+      "text": "Change recorded to recording"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

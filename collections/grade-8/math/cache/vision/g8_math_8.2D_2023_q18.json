@@ -1,0 +1,44 @@
+{
+  "stem": "Which values of x make the inequality true?\n\nx > \\frac{28}{5}",
+  "instruction": "Select THREE correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "\\sqrt{34}"
+    },
+    {
+      "label": null,
+      "text": "-8"
+    },
+    {
+      "label": null,
+      "text": "\\frac{19}{3}"
+    },
+    {
+      "label": null,
+      "text": "4.7"
+    },
+    {
+      "label": null,
+      "text": "2\\sqrt{11}"
+    },
+    {
+      "label": null,
+      "text": "5.28"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\sqrt{34}",
+    "-8",
+    "\\frac{19}{3}",
+    "4.7",
+    "2\\sqrt{11}",
+    "5.28",
+    "x > \\frac{28}{5}"
+  ],
+  "item_type_inferred": "multiple_select",
+  "confidence": 1,
+  "notes": null
+}

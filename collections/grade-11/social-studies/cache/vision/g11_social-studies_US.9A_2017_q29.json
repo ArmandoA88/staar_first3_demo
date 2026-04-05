@@ -1,0 +1,30 @@
+{
+  "stem": "What was the goal of the protests depicted on this map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To pressure Congress to prohibit discrimination against disabled citizens"
+    },
+    {
+      "label": "B",
+      "text": "To demonstrate the economic impact of discriminatory practices on interstate transportation"
+    },
+    {
+      "label": "C",
+      "text": "To challenge the federal government to enforce Supreme Court rulings against discrimination in interstate transportation"
+    },
+    {
+      "label": "D",
+      "text": "To persuade states to abandon discriminatory voter-registration procedures"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map titled '1961 Freedom Rides' showing routes through southern states with markings of arrests, jailings, and violence"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

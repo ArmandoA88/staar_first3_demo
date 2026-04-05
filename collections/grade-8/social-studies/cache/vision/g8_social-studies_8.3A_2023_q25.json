@@ -1,0 +1,33 @@
+{
+  "stem": "Which reason correctly replaces the question mark in this list?",
+  "instruction": "This list provides reasons for the growth of representative government during the Colonial Era.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Influence of John Locke and other Enlightenment philosophers"
+    },
+    {
+      "label": "B",
+      "text": "Ideas of John Smith and other English soldiers"
+    },
+    {
+      "label": "C",
+      "text": "Need to establish trading forts"
+    },
+    {
+      "label": "D",
+      "text": "Interest in growing cash crops"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Reasons for the Growth of Representative Government",
+    "\u2022 Geographic distance from England",
+    "\u2022 Need for lawmaking structure",
+    "\u2022 ?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

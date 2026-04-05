@@ -1,0 +1,30 @@
+{
+  "stem": "The manager of an ice-cream shop randomly surveyed 70 children to find out their favorite flavor of ice cream. The results of the survey are shown in the table.\n\nFavorite Ice-Cream Flavor\nFlavor | Number of Children\nVanilla | 16\nChocolate | 28\nStrawberry | 12\nOrange sherbet | 14\n\nBased on the results in the table, which statement is true about the next 350 children surveyed about their favorite ice-cream flavor?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of children who select vanilla will be twice the number of children who select strawberry."
+    },
+    {
+      "label": "B",
+      "text": "The number of children who select vanilla will be twice the number of children who select orange sherbet."
+    },
+    {
+      "label": "C",
+      "text": "The number of children who select chocolate will be twice the number of children who select orange sherbet."
+    },
+    {
+      "label": "D",
+      "text": "The number of children who select orange sherbet will be twice the number of children who select strawberry."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

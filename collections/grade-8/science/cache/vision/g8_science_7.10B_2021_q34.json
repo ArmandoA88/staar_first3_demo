@@ -1,0 +1,35 @@
+{
+  "stem": "Glacial striations in the bedrock of South Africa indicate that glaciers once moved across the African continent. The presence of glaciers on the surface of Africa is evidence that \u2014",
+  "instruction": "Select the correct answer.",
+  "options": [
+    {
+      "label": "F",
+      "text": "the tectonic plate under Africa was closer to the South Pole at one time"
+    },
+    {
+      "label": "G",
+      "text": "the equator was not always where it is currently located"
+    },
+    {
+      "label": "H",
+      "text": "volcanoes did not exist until after faults occurred in Earth\u2019s crust"
+    },
+    {
+      "label": "J",
+      "text": "the location of the North Pole and the South Pole changed"
+    }
+  ],
+  "choice_pool": [
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "photo of scratched bedrock showing glacial striations"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "The problem references glacial striations and asks for the evidence from glaciers on African continent related to Earth's geography."
+}

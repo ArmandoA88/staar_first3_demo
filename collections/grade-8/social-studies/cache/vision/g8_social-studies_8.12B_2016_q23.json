@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following was a major reason for the flow of the transatlantic slave trade shown on the map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The economic demands of the plantation system"
+    },
+    {
+      "label": "B",
+      "text": "The construction needs of the railroad"
+    },
+    {
+      "label": "C",
+      "text": "Increased textile manufacturing"
+    },
+    {
+      "label": "D",
+      "text": "Increased western migration"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map showing arrows illustrating the transatlantic slave trade between Africa, Europe, and the Americas"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

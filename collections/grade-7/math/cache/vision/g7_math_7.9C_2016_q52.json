@@ -1,0 +1,30 @@
+{
+  "stem": "An advertising banner has four sections, as modeled below. Two sections are congruent trapezoids, and two sections are congruent right triangles.\n\nWhich measurement is the best estimate of the area of the banner in square meters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "6 m\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "15 m\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "8 m\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "10 m\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangle divided into 4 sections with the following measurements:\n- left base segment: 1 3/4 m\n- height of left inner trapezoid: 1 1/4 m\n- height of right inner trapezoid: 2 m\n- base segment of right trapezoid: 1 m"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

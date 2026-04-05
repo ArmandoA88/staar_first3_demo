@@ -1,0 +1,30 @@
+{
+  "stem": "Students set up a controlled experiment by growing the same type of seedlings in two different locations. After a period of time, the students observed the seedlings and recorded their observations in the table shown.\n\n|               | Group #1                                   | Group #2                |\n|---------------|-------------------------------------------|-------------------------|\n| Growth Location | Enclosed in a box with a lamp on top of seedlings | On the windowsill       |\n| Observation    | Shoots grow straight and upright           | Shoots bend in the direction of the window |\n\nWhat caused the shoots of the seedlings on the windowsill to bend toward the window?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Hormones produced in response to a light stimulus"
+    },
+    {
+      "label": "G",
+      "text": "Sugars produced in response to a gravity stimulus"
+    },
+    {
+      "label": "H",
+      "text": "Carbon dioxide produced in response to a water stimulus"
+    },
+    {
+      "label": "J",
+      "text": "Water produced in response to a nitrogen stimulus"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table comparing Group #1 and Group #2 growth location and observation for seedlings"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

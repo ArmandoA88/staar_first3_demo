@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph represents y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph labeled F showing a curve opening left and right symmetric about the y-axis"
+    },
+    {
+      "label": "H",
+      "text": "Graph labeled H showing a curve looping horizontally crossing x values multiple times"
+    },
+    {
+      "label": "G",
+      "text": "Graph labeled G showing a curve opening right and left symmetric about the y-axis"
+    },
+    {
+      "label": "J",
+      "text": "Graph labeled J showing a wavy curve passing the vertical line test"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph F: A curve symmetric about y-axis opening left and right, y labeled vertical, x labeled horizontal, axis scales from -9 to 9 on both axes",
+    "Graph H: A horizontal looping curve crossing some x-values multiple times, y vertical, x horizontal, axes from -9 to 9",
+    "Graph G: A curve symmetric about y-axis opening left and right, similar to F but flipped, axes same",
+    "Graph J: A wavy curve starting near bottom left, rising and falling multiple times, passing vertical line test, axes same"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": "Math function concept testing vertical line test via graph inspection."
+}

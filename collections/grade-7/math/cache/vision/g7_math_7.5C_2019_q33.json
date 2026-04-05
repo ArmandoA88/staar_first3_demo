@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle \\(RST\\) is similar to triangle \\(RVW\\). What is the value of \\(d\\) in millimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "27 mm"
+    },
+    {
+      "label": "B",
+      "text": "12 mm"
+    },
+    {
+      "label": "C",
+      "text": "9 mm"
+    },
+    {
+      "label": "D",
+      "text": "13 mm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle RST and RVW with corresponding sides labeled: RT = 15 mm (10 mm + 5 mm), TS = 18 mm, RW = 10 mm, VW = d mm."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

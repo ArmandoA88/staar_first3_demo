@@ -1,0 +1,30 @@
+{
+  "stem": "What are the x-intercept and the y-intercept of the line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x-intercept: (8, 0)  y-intercept: (0, \u22122)"
+    },
+    {
+      "label": "B",
+      "text": "x-intercept: (\u22122, 0)  y-intercept: (0, 4)"
+    },
+    {
+      "label": "C",
+      "text": "x-intercept: (\u22122, 0)  y-intercept: (0, 8)"
+    },
+    {
+      "label": "D",
+      "text": "x-intercept: (4, 0)  y-intercept: (0, 8)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of a linear function on a coordinate grid showing a line passing through points (-2, 0) on the x-axis and (0, 4) on the y-axis"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

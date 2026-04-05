@@ -1,0 +1,11 @@
+{
+  "stem": "Janice deposits $4,500 into an investment account that earns 4% simple interest. She makes no additional deposits or withdrawals.\n\nComplete the sentence about the amount of interest earned and the total balance after 5 years.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": "After 5 years, Janice\u2019s investment account will have earned [blank_1] in interest and will have a total balance of [blank_2].",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": "No answer choices or labels visible in the image; question is fill-in the blank using drop-downs."
+}

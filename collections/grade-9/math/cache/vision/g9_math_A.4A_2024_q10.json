@@ -1,0 +1,30 @@
+{
+  "stem": "A counselor asked college students who had jobs how many hours they worked each week. The counselor then compared the number of hours each student worked and the student's overall grade average. The table shows the data.\n\nWeekly Hours and Grade Average\n\n| Hours Worked | Overall Grade Average |\n|--------------|----------------------|\n| 15           | 86                   |\n| 30           | 72                   |\n| 27           | 77                   |\n| 25           | 83                   |\n| 16           | 87                   |\n| 20           | 90                   |\n| 12           | 94                   |\n\nBased on the correlation coefficient for the data, what type of linear association exists between hours worked and overall grade average?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Strong negative"
+    },
+    {
+      "label": "B",
+      "text": "Weak negative"
+    },
+    {
+      "label": "C",
+      "text": "Weak positive"
+    },
+    {
+      "label": "D",
+      "text": "Strong positive"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with two columns: Hours Worked and Overall Grade Average showing data (15,86), (30,72), (27,77), (25,83), (16,87), (20,90), (12,94)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

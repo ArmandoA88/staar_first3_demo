@@ -1,0 +1,30 @@
+{
+  "stem": "A partial DNA segment and an mRNA codon chart are shown.\n3' T C A T G C A T G 5'\nmRNA Codon Chart\n\nWhat amino acid sequence is encoded in the partial DNA segment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Serine \u2013 Threonine \u2013 Tyrosine"
+    },
+    {
+      "label": "B",
+      "text": "Serine \u2013 Serine \u2013 Tyrosine"
+    },
+    {
+      "label": "C",
+      "text": "Serine \u2013 Threonine \u2013 Methionine"
+    },
+    {
+      "label": "D",
+      "text": "Serine \u2013 Alanine \u2013 Methionine"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "mRNA codon chart showing amino acids corresponding to codons"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

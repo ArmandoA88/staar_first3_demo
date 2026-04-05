@@ -1,0 +1,30 @@
+{
+  "stem": "In the late 19th century, Charles Darwin and his son performed a series of experiments on young grass seedlings to observe the plants\u2019 response to sunlight. They grouped the seedlings as shown in the list:\n\n\u2022 They removed the tips of one group of seedlings.\n\n\u2022 They placed opaque caps over the tips of a second group of seedlings.\n\n\u2022 They placed transparent caps over the tips of a third group of seedlings.\n\nThe results of the experiment are shown in the diagram.\n\nBased on the diagram, which statement BEST supports the results of the experiment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The direction of light is detected by cells on the shoot tips, and plants respond by producing chlorophyll."
+    },
+    {
+      "label": "B",
+      "text": "The direction of light is detected by cells on the roots, and plants respond by bending toward the light."
+    },
+    {
+      "label": "C",
+      "text": "The direction of light is detected by cells on the shoot tips, and plants respond by bending toward the light."
+    },
+    {
+      "label": "D",
+      "text": "The direction of light is detected by cells within the roots, and plants respond by bending in the direction of gravity."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with three plants under arrows labeled Direction of light:\n1) Plant tip removed\n2) Plant tip covered by opaque cap\n3) Plant tip covered by transparent cap"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The rights listed above were \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "established by a series of Supreme Court decisions"
+    },
+    {
+      "label": "G",
+      "text": "defined by Thomas Jefferson in the Declaration of Independence"
+    },
+    {
+      "label": "H",
+      "text": "established by the ratification of the U.S. Constitution"
+    },
+    {
+      "label": "J",
+      "text": "defined by President George Washington in his Farewell Address"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Unalienable Rights\n\u2022 Life\n\u2022 Liberty\n\u2022 Pursuit of happiness"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which number line represents the solution to the inequality 3x - 8 \\u2265 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number line with filled-in dot at -5 extending left"
+    },
+    {
+      "label": "B",
+      "text": "Number line with filled-in dot at -5 extending right"
+    },
+    {
+      "label": "C",
+      "text": "Number line with filled-in dot at 5 extending left"
+    },
+    {
+      "label": "D",
+      "text": "Number line with filled-in dot at 5 extending right"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number lines with dots and ranges"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

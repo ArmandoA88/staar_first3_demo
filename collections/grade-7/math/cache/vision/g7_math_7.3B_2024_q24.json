@@ -1,0 +1,31 @@
+{
+  "stem": "Fernando recorded the weather for 90 days. The statements shown summarize some of his records:\n\n\u2022 It was sunny for \\(\\frac{1}{2}\\) of the days.\n\n\u2022 It rained during \\(\\frac{1}{3}\\) of the days.\n\n\u2022 It snowed during the remaining days.\n\nHow many days did it snow out of the 90 days?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "45 days"
+    },
+    {
+      "label": "B",
+      "text": "30 days"
+    },
+    {
+      "label": "C",
+      "text": "15 days"
+    },
+    {
+      "label": "D",
+      "text": "75 days"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\(\\frac{1}{2}\\)",
+    "\\(\\frac{1}{3}\\)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

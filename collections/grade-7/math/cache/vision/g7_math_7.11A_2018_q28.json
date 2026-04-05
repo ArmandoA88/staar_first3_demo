@@ -1,0 +1,32 @@
+{
+  "stem": "The model represents an equation.\n\nWhat is the solution for this equation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x = 3"
+    },
+    {
+      "label": "G",
+      "text": "x = 15"
+    },
+    {
+      "label": "H",
+      "text": "x = 5"
+    },
+    {
+      "label": "J",
+      "text": "x = 1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "balance scale with two sides",
+    "left side: three blocks labeled x stacked and six circles labeled 1 in two columns of three",
+    "right side: nine circles labeled 1 in three columns of three"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

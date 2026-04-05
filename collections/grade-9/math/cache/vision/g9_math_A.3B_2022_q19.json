@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a line is shown on the grid. The coordinates of both points indicated on the graph of the line are integers.\n\nWhat is the rate of change of y with respect to x for this line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{5}{2} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( -\\frac{6}{5} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{2}{3} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( -\\frac{5}{6} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate graph with points at (3, -5) and (-4, 4) and a line through them"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

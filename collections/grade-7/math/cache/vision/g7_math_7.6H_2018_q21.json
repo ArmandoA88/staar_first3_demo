@@ -1,0 +1,28 @@
+{
+  "stem": "The 200 students in a school band will attend an awards dinner. A random survey of 25 of these students was conducted to determine how many of each meal should be prepared for the dinner. The results of the survey are shown.\n\n\u2022 12 students want a beef meal.\n\u2022 8 students want a chicken meal.\n\u2022 5 students want a pasta meal.\n\nBased on the survey results, which of these is the best prediction of the meals wanted by the 200 students?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There are 16 students who want a beef meal."
+    },
+    {
+      "label": "B",
+      "text": "There are 52 students who want either a chicken meal or a pasta meal."
+    },
+    {
+      "label": "C",
+      "text": "There are 32 more students who want a beef meal than want a chicken meal."
+    },
+    {
+      "label": "D",
+      "text": "There are 24 more students who want a pasta meal than want a chicken meal."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

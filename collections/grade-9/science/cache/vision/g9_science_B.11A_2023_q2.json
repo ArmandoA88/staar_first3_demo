@@ -1,0 +1,30 @@
+{
+  "stem": "Which molecule is a direct product of this cellular process?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Glucose"
+    },
+    {
+      "label": "B",
+      "text": "Phospholipid"
+    },
+    {
+      "label": "C",
+      "text": "Insulin"
+    },
+    {
+      "label": "D",
+      "text": "DNA"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing CO2, Light energy, and H2O entering a structure and O2 and ? leaving it"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A store sells new video games for $55 each. Used video games sell for $12 each. Jacob is buying 3 new video games and x used video games. Which equation can be used to find y, the total price Jacob must pay in dollars?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 12x + 55"
+    },
+    {
+      "label": "B",
+      "text": "y = 12x + 165"
+    },
+    {
+      "label": "C",
+      "text": "y = 55x + 12"
+    },
+    {
+      "label": "D",
+      "text": "y = 165x + 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equations"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

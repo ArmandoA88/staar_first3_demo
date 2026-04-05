@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents this system of equations and its solution?\n2x = 6 - y\n5x - 4y = 28",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph marked A with two intersecting lines on a coordinate grid"
+    },
+    {
+      "label": "B",
+      "text": "Graph marked B with two intersecting lines on a coordinate grid"
+    },
+    {
+      "label": "C",
+      "text": "Graph marked C with two intersecting lines on a coordinate grid"
+    },
+    {
+      "label": "D",
+      "text": "Graph marked D with two intersecting lines on a coordinate grid"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph labeled A: two intersecting lines on grid with axes from -9 to 9, with x and y axes marked.",
+    "Graph labeled B: two intersecting lines on similar axes as A.",
+    "Graph labeled C: two intersecting lines on similar axes as A.",
+    "Graph labeled D: two intersecting lines on similar axes as A."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

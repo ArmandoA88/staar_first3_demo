@@ -1,0 +1,34 @@
+{
+  "stem": "Which New Deal agency was created to specifically serve this population?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Federal Housing Administration"
+    },
+    {
+      "label": "G",
+      "text": "Securities and Exchange Commission"
+    },
+    {
+      "label": "H",
+      "text": "Federal Deposit Insurance Corporation"
+    },
+    {
+      "label": "J",
+      "text": "Social Security Administration"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Beneficiaries as of October 2015",
+    "Type of Beneficiary  Total (thousands)",
+    "Aged 65 or older  43,947",
+    "Disabled, under age 65  14,228",
+    "Other  6,817"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

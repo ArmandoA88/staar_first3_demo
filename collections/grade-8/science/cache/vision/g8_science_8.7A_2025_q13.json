@@ -1,0 +1,30 @@
+{
+  "stem": "A force of 48.0 newtons pushes a 14.0-kilogram case of water bottles across the surface of a table. The friction between the case of water bottles and the table surface is 41.0 N, as shown in the diagram.\n\nWhat is the acceleration of the case of water bottles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.5 m/s\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "2.9 m/s\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "3.4 m/s\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "6.4 m/s\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of 14.0 kg case of water bottles on table with arrows showing forces: 48.0 N pushing right, 41.0 N friction left"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

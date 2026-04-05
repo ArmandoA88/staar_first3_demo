@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents the solution set of y \\leq -4x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Dashed horizontal line at y = -3, shaded below line.",
+    "Graph B: Dashed line with negative slope crossing y-axis at 9, shaded on right side.",
+    "Graph C: Solid line with negative slope crossing y-axis at 9, shaded on left side.",
+    "Graph D: Solid horizontal line at y = -3, shaded above line."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Options are presented as labeled graphs without textual descriptions, preserved labels and shading from image."
+}

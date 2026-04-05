@@ -1,0 +1,30 @@
+{
+  "stem": "An artist joined three square regions at their vertices to create the figure shown in the diagram. The artist will use small congruent square tiles to cover each region without any gaps or overlaps. Based on the information, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of tiles needed to cover Region X is the same as the number of tiles needed to cover both Region Y and Region Z."
+    },
+    {
+      "label": "B",
+      "text": "The number of tiles needed to cover Region Y is the same as the number of tiles needed to cover both Region X and Region Z."
+    },
+    {
+      "label": "C",
+      "text": "The number of tiles needed to cover Region Z is the same as the number of tiles needed to cover both Region X and Region Y."
+    },
+    {
+      "label": "D",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of three squares joined at vertices labeled Region X, Region Y, Region Z with a right angle marker between Region X and Region Y"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

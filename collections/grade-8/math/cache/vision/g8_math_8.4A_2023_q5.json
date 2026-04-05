@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle RVT and triangle RBS are similar right triangles.\n\nWhich proportion represents the slope of the line containing R, S, and T?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{6 - (-4)}{-11 - (-6)} = \\frac{6 - 2}{-11 - (-9)}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{-11 - (-6)}{6 - (-4)} = \\frac{6 - 2}{-11 - (-9)}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{6 - (-4)}{-11 - (-6)} = \\frac{-11 - (-6)}{2 - (-4)}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{6 - (-4)}{-11 - (-6)} = \\frac{2 - 6}{-11 - (-9)}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing points R, S, T, V, and B on a coordinate plane with x-axis from -12 to 6 and y-axis from -9 to 9; points R(-10,6), S(-3,-6), T(-7,2), V(-10,2), B(-11,-6)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

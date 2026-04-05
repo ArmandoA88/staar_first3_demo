@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows a relationship between x and y.\n\nBased on the scatterplot, which is the best prediction of the value of y when x is 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6.5"
+    },
+    {
+      "label": "B",
+      "text": "10"
+    },
+    {
+      "label": "C",
+      "text": "12.5"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot with points roughly showing positive correlation between x and y from (1,1.5) to (9,8)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

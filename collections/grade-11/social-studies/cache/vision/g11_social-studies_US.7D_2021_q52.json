@@ -1,0 +1,30 @@
+{
+  "stem": "What was the PRIMARY objective of the actions represented in this 1945 cartoon?",
+  "instruction": "Study the cartoon and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "To stop Japan from cutting off supply lines into China"
+    },
+    {
+      "label": "G",
+      "text": "To prevent Japan from invading China for natural resources"
+    },
+    {
+      "label": "H",
+      "text": "To force Japan to accept terms of unconditional surrender"
+    },
+    {
+      "label": "J",
+      "text": "To punish Japan for its treatment of soldiers at Bataan"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A cartoon map showing Japan with two beams labeled 'RUSSIA'S WAR DECLARATION' and 'ATOMIC BOMB' striking the country, with 'JAPAN' spelled out across the map and the caption 'STRIKING TWICE IN THE SAME PLACE.'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

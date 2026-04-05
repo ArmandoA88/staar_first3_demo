@@ -1,0 +1,30 @@
+{
+  "stem": "The table represents some points on the graph of a linear function.\n\nx | y\n-20 | -268\n-14 | -196\n-8 | -124\n-1 | -40\n\nWhich equation represents the same relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y + 268 = \\frac{1}{12}(x + 20)"
+    },
+    {
+      "label": "G",
+      "text": "y + 20 = \\frac{1}{12}(x + 268)"
+    },
+    {
+      "label": "H",
+      "text": "y + 268 = 12(x + 20)"
+    },
+    {
+      "label": "J",
+      "text": "y + 20 = 12(x + 268)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns x and y; rows: (-20, -268), (-14, -196), (-8, -124), (-1, -40)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

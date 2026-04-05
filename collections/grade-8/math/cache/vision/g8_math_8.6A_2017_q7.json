@@ -1,0 +1,30 @@
+{
+  "stem": "A cylinder and its dimensions are shown in the diagram.\n\nWhich equation can be used to find V, the volume of the cylinder in cubic inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "V = \\pi(2.5h)^2"
+    },
+    {
+      "label": "B",
+      "text": "V = \\pi(5h)^2"
+    },
+    {
+      "label": "C",
+      "text": "V = \\pi(2.5)^2h"
+    },
+    {
+      "label": "D",
+      "text": "V = \\pi(5)^2h"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram of a cylinder with height labeled h in. and diameter labeled 5 in."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

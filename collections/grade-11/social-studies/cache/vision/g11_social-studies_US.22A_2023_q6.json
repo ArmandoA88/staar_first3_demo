@@ -1,0 +1,33 @@
+{
+  "stem": "Which political button reflects the connection between the Vietnam War and the passage of the Twenty-Sixth Amendment to the U.S. Constitution?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Old enough to fight, Old enough to vote!"
+    },
+    {
+      "label": "B",
+      "text": "Soldiers, defend your ability to protest!"
+    },
+    {
+      "label": "C",
+      "text": "Bring our troops home!"
+    },
+    {
+      "label": "D",
+      "text": "Money can't buy your way out of the draft!"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Button A: Old enough to fight, Old enough to vote!",
+    "Button B: Soldiers, defend your ability to protest!",
+    "Button C: Bring our troops home!",
+    "Button D: Money can't buy your way out of the draft!"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

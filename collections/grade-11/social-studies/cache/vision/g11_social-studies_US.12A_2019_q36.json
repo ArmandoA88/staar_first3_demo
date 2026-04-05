@@ -1,0 +1,32 @@
+{
+  "stem": "What is the best title for this list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "How Sharecroppers Lived in the Deep South"
+    },
+    {
+      "label": "G",
+      "text": "Ways Migrant Workers Lived in the Southwest"
+    },
+    {
+      "label": "H",
+      "text": "How Miners Took Advantage of Gold Rush Opportunities"
+    },
+    {
+      "label": "J",
+      "text": "Ways Settlers Adapted to Conditions on the Great Plains"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Built sod houses",
+    "Used steel plows",
+    "Developed dry farming techniques"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

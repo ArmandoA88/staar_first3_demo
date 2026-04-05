@@ -1,0 +1,28 @@
+{
+  "stem": "Which situation best represents causation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When the number of bus stops increases, the number of car sales decreases."
+    },
+    {
+      "label": "B",
+      "text": "When fewer firefighters report to a house fire, the damage caused by the fire decreases."
+    },
+    {
+      "label": "C",
+      "text": "When ice cream sales increase, incidents of sunburn increase."
+    },
+    {
+      "label": "D",
+      "text": "When it rains several inches, the water level of a lake increases."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

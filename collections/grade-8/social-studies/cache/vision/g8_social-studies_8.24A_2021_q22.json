@@ -1,0 +1,30 @@
+{
+  "stem": "Study the timeline and answer the question that follows.\n\nTimeline of the Historical Development of the _____?_____ Movement\n\n1785 The Quakers helped to found the New York Manumission Society.\n\n1831 William Lloyd Garrison published The Liberator.\n\n1847 Frederick Douglass founded the North Star.\n\n1852 Harriet Beecher Stowe published Uncle Tom's Cabin.",
+  "instruction": "Which word correctly replaces the question mark in the title of this timeline?",
+  "options": [
+    {
+      "label": "F",
+      "text": "Suffrage"
+    },
+    {
+      "label": "G",
+      "text": "Abolitionist"
+    },
+    {
+      "label": "H",
+      "text": "Temperance"
+    },
+    {
+      "label": "J",
+      "text": "Transcendentalist"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "timeline with dates and events, arrow pointing down, question mark in title"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "What is the value of x in the solution to this system of equations?\n\ny + 2x = -1\n\ny = \\frac{1}{2}x + 4",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{6}{5}"
+    },
+    {
+      "label": "G",
+      "text": "-2"
+    },
+    {
+      "label": "H",
+      "text": "-\\frac{10}{3}"
+    },
+    {
+      "label": "J",
+      "text": "3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y + 2x = -1",
+    "y = \\frac{1}{2} x + 4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

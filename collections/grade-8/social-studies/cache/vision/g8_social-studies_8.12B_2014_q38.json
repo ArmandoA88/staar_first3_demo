@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these best completes the diagram above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The demand for slaves increases in the South."
+    },
+    {
+      "label": "G",
+      "text": "More textile factories are established in the South."
+    },
+    {
+      "label": "H",
+      "text": "The number of European immigrants arriving at southern port cities increases."
+    },
+    {
+      "label": "J",
+      "text": "More tobacco and food crops are cultivated on southern plantations."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with four boxes connected by arrows: \n1. 'Eli Whitney obtains a patent for the cotton gin.' \n2. 'Raw cotton becomes easier to process.' \n3. 'Cotton production increases.' \n4. '?' "
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

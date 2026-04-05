@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, is needed in sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after way"
+    },
+    {
+      "label": "B",
+      "text": "Change is processed to has processed"
+    },
+    {
+      "label": "C",
+      "text": "Change centers' to centers"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 18 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text question with answer choices labeled A, B, C, D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

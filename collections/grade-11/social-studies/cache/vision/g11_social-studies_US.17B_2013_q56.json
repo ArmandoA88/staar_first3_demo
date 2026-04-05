@@ -1,0 +1,31 @@
+{
+  "stem": "What is the best title for this cartoon?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Causes and Effects of Economic Prosperity in the 1950s"
+    },
+    {
+      "label": "G",
+      "text": "Strengths and Weaknesses of Government Economic Policy in the 1960s"
+    },
+    {
+      "label": "H",
+      "text": "Reasons for Government Economic Planning in the 1970s"
+    },
+    {
+      "label": "J",
+      "text": "Major Sources of Consumer Debt in the 1980s"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A faucet dripping labeled drops: PENT-UP CONSUMER DEMAND, COLD WAR MILITARY SPENDING, NEW INDUSTRIES, HOUSING BOOM, FEDERAL HIGHWAY CONSTRUCTION into a bucket labeled U.S. ECONOMY with liquid spilling over.",
+    "A motorboat labeled Middle Class with four people saying 'yeah!'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

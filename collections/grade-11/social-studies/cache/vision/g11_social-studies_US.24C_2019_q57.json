@@ -1,0 +1,35 @@
+{
+  "stem": "Which phrase best explains the popularity of American music in China?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The diffusion of U.S. culture"
+    },
+    {
+      "label": "B",
+      "text": "The result of U.S. free trade agreements"
+    },
+    {
+      "label": "C",
+      "text": "The communist control of government in China"
+    },
+    {
+      "label": "D",
+      "text": "The success of antitrust legislation in China"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: 2019 - Q57",
+    "Text: Which phrase best explains the popularity of American music in China?",
+    "Text: A The diffusion of U.S. culture",
+    "Text: B The result of U.S. free trade agreements",
+    "Text: C The communist control of government in China",
+    "Text: D The success of antitrust legislation in China"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What value of \\( m \\) makes the equation \\( \\frac{2}{3}(m - 9) = \\frac{1}{3}(m - 27) \\) true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-9"
+    },
+    {
+      "label": "B",
+      "text": "-3"
+    },
+    {
+      "label": "C",
+      "text": "-1"
+    },
+    {
+      "label": "D",
+      "text": "-6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2/3(m - 9) = 1/3(m - 27)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

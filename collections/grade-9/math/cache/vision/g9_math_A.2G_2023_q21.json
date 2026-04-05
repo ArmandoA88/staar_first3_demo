@@ -1,0 +1,30 @@
+{
+  "stem": "A line is graphed on a coordinate grid.\n\nWhich statement about the line is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The equation of the line is x = -4, and the slope is undefined."
+    },
+    {
+      "label": "B",
+      "text": "The equation of the line is y = -4, and the slope is equal to -4."
+    },
+    {
+      "label": "C",
+      "text": "The equation of the line is x = -4, and the slope is equal to -4."
+    },
+    {
+      "label": "D",
+      "text": "The equation of the line is y = -4, and the slope is undefined."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid image with vertical line at x = -4"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

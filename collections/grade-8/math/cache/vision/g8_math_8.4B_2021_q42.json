@@ -1,0 +1,30 @@
+{
+  "stem": "The cost of 6 pencils at a store is 30 cents. Each pencil has the same cost.\n\nWhich graph has a slope that best represents the cost of each pencil at this store?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with points (1, 10), (3, 20), (6, 30)"
+    },
+    {
+      "label": "H",
+      "text": "Graph with points (2, 4), (5, 6), (7, 9)"
+    },
+    {
+      "label": "G",
+      "text": "Graph with points (1, 5), (2, 15), (3, 25), (4, 35)"
+    },
+    {
+      "label": "J",
+      "text": "Graph with points (6, 10), (6, 20), (6, 30), (6, 40)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, J all titled 'Cost of Pencils' with x-axis labeled 'Number of Pencils' and y-axis labeled 'Cost (cents)'. Each graph has plotted points showing the relationship between number of pencils and cost in cents."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

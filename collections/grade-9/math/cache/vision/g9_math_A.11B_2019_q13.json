@@ -1,0 +1,33 @@
+{
+  "stem": "Which expression is equivalent to \\( \\frac{45m^{-6}p^{2}v^{12}}{15m^{-2}p^{8}v^{-4}} \\) for all values of \\( m, p, \\) and \\( v \\) where the expression is defined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{3v^{8}}{m^{8}p^{6}} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{3v^{16}}{m^{4}p^{6}} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{30m^{3}}{p^{4}v^{3}} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{30v^{3}}{m^{3}p^{4}} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction",
+    "superscript",
+    "variables",
+    "exponents"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

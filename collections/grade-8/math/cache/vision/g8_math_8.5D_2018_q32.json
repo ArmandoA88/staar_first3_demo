@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the scatterplot, what is the best prediction of the number of hours one of Phil\u2019s friends spends sleeping when the friend spends 1 hour playing video games?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "9 hours"
+    },
+    {
+      "label": "G",
+      "text": "8 hours"
+    },
+    {
+      "label": "H",
+      "text": "10 hours"
+    },
+    {
+      "label": "J",
+      "text": "7 hours"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled 'Saturday' with x-axis labeled 'Hours of Sleep' ranging from 0 to 9 and y-axis labeled 'Hours of Video Games' ranging from 0 to 9, showing data points clustered between 4 and 8 hours of sleep and 3 to 8 hours of video games."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

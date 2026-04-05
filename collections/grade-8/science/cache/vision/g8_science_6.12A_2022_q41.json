@@ -1,0 +1,30 @@
+{
+  "stem": "According to this food web, which organisms would the bobcat and diamondback rattlesnake compete for if the mouse population and swamp rabbit population decreased?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Raccoon and sparrow"
+    },
+    {
+      "label": "B",
+      "text": "Raccoon and Eastern cottontail rabbit"
+    },
+    {
+      "label": "C",
+      "text": "Sparrow and seeds"
+    },
+    {
+      "label": "D",
+      "text": "Sparrow and Eastern cottontail rabbit"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "food web showing connections among: Bobcat, Diamondback rattlesnake, Eastern cottontail rabbit, Raccoon, Mouse, Sparrow, Swamp rabbit, Clover, Seeds"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

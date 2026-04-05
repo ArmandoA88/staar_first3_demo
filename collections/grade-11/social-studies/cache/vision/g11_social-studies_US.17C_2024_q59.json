@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the photograph and your knowledge of U.S. history, how did scientific developments such as the one shown affect the United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They contributed to a federal commitment to improving science and technology education."
+    },
+    {
+      "label": "B",
+      "text": "They reduced international tensions and conflict by encouraging exchanges of space technology."
+    },
+    {
+      "label": "C",
+      "text": "They resulted in reducing defense spending as the country prioritized space exploration."
+    },
+    {
+      "label": "D",
+      "text": "They slowed innovations in consumer goods as corporations focused on weapons manufacturing."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A black and white photograph showing a model of Sputnik III at a public exhibition in Moscow, U.S.S.R., in 1958, with several people observing the exhibit."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

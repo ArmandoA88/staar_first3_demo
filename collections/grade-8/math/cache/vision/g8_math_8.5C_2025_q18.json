@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shows seven data points.\n\n[Graph of points shown]\n\nWhich pair of points could be added to the graph to suggest a linear relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(3, 7) and (8, 1)"
+    },
+    {
+      "label": "B",
+      "text": "(2, 1) and (2, 8)"
+    },
+    {
+      "label": "C",
+      "text": "(2, 5) and (6, 1)"
+    },
+    {
+      "label": "D",
+      "text": "(5, 4) and (6, 6)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with seven data points plotted"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

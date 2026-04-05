@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after charts"
+    },
+    {
+      "label": "B",
+      "text": "Change that to this"
+    },
+    {
+      "label": "C",
+      "text": "Change they to we"
+    },
+    {
+      "label": "D",
+      "text": "Change antisipated to anticipated"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "multiple choice options"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

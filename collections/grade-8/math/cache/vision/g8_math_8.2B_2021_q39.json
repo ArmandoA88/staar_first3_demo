@@ -1,0 +1,30 @@
+{
+  "stem": "A student solved the equation x^2 = 132 to find the length of the diagonal of a square in centimeters. Which measurement is closest to x, the length of the diagonal of this square, in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "66 cm"
+    },
+    {
+      "label": "B",
+      "text": "44 cm"
+    },
+    {
+      "label": "C",
+      "text": "33 cm"
+    },
+    {
+      "label": "D",
+      "text": "11 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "x^2 = 132"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

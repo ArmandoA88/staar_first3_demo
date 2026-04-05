@@ -1,0 +1,30 @@
+{
+  "stem": "What value of x makes this equation true?  0.6x - 5 = 0.1x + 7",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4"
+    },
+    {
+      "label": "B",
+      "text": "14"
+    },
+    {
+      "label": "C",
+      "text": "24"
+    },
+    {
+      "label": "D",
+      "text": "6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "0.6x - 5 = 0.1x + 7"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

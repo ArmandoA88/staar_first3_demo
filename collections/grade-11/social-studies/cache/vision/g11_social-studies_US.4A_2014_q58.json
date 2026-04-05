@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence provides information needed to complete both the cause and effect portions of this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The 1898 Spanish-American War led to world power status for the United States."
+    },
+    {
+      "label": "G",
+      "text": "The 1914 opening of the Panama Canal encouraged international trade."
+    },
+    {
+      "label": "H",
+      "text": "The 1919 Treaty of Versailles contributed to the start of World War II in Europe."
+    },
+    {
+      "label": "J",
+      "text": "The 1929 stock-market crash set off the Great Depression in the United States."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with a center box listing: U.S. control of the Philippines, Cuban independence, U.S. control of Puerto Rico, U.S. control of Guam; an arrow labeled Cause pointing to the box from a rectangle with a question mark; an arrow labeled Effect pointing from the box to an oval with a question mark."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

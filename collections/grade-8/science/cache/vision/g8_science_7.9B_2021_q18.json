@@ -1,0 +1,30 @@
+{
+  "stem": "The moon remains in orbit around Earth because of the force of \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Earth's rotation"
+    },
+    {
+      "label": "G",
+      "text": "the moon's rotation"
+    },
+    {
+      "label": "H",
+      "text": "Earth's gravity"
+    },
+    {
+      "label": "J",
+      "text": "the sun's gravity"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram labeled 'Motion of Earth and Moon' showing Sun, Earth, and Moon with orbital paths and arrows."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

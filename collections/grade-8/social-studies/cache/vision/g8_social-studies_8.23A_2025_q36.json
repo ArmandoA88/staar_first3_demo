@@ -1,0 +1,35 @@
+{
+  "stem": "This table lists the historical reasons behind the migration of different groups of people to the United States.\n\nWhich statement BEST describes reasons behind various historical migrations?\n\nSelect the correct answer in each row.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Sought economic opportunities in the North"
+    },
+    {
+      "label": null,
+      "text": "Looked for religious freedom mainly in the North and East"
+    },
+    {
+      "label": null,
+      "text": "Forcibly brought to the South and West as enslaved labor"
+    },
+    {
+      "label": null,
+      "text": "Sought economic opportunities in the West despite discrimination"
+    }
+  ],
+  "choice_pool": [
+    "Africa",
+    "Europe",
+    "Asia"
+  ],
+  "response_template": "Reason for Migrating\nSought economic opportunities in the North: [blank_1]\nLooked for religious freedom mainly in the North and East: [blank_2]\nForcibly brought to the South and West as enslaved labor: [blank_3]\nSought economic opportunities in the West despite discrimination: [blank_4]",
+  "visual_elements": [
+    "Table with Reason for Migrating as rows and Africa, Europe, Asia as column headers",
+    "Checkboxes in the intersection of each reason and each continent"
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 1,
+  "notes": null
+}

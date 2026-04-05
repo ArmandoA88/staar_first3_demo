@@ -1,0 +1,30 @@
+{
+  "stem": "An architect uses a cylindrical container to protect her blueprints. The dimensions of the cylinder are shown in the diagram.\n\nWhich measurement is closest to the total surface area of the container in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "424.12 in.\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "791.68 in.\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "339.29 in.\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "282.74 in.\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cylindrical container diagram with radius labeled 3 in. and height labeled 15 in."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

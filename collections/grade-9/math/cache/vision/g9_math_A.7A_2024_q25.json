@@ -1,0 +1,26 @@
+{
+  "stem": "A graph of a quadratic function is shown on the grid.\n\nComplete the statement about the quadratic function.\n\nMove the correct answer to each box. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "The function has a [blank_1] value of [blank_2]."
+    }
+  ],
+  "choice_pool": [
+    "minimum",
+    "maximum",
+    "-4",
+    "-3",
+    "-1",
+    "0",
+    "1"
+  ],
+  "response_template": "The function has a [blank_1] value of [blank_2].",
+  "visual_elements": [
+    "graph of quadratic function with vertex at (-1,-4)"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

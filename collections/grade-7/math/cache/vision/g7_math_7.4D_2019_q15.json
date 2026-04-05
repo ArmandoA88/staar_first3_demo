@@ -1,0 +1,28 @@
+{
+  "stem": "The price of a sweater was reduced from $20 to $12. By what percentage was the price of the sweater reduced?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8%"
+    },
+    {
+      "label": "B",
+      "text": "80%"
+    },
+    {
+      "label": "C",
+      "text": "60%"
+    },
+    {
+      "label": "D",
+      "text": "40%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

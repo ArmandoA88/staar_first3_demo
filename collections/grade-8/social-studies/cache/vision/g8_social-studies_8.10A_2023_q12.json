@@ -1,0 +1,30 @@
+{
+  "stem": "Which numbered arrow represents the area where the Pilgrims landed in 1620?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1"
+    },
+    {
+      "label": "B",
+      "text": "2"
+    },
+    {
+      "label": "C",
+      "text": "3"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A Section of North America, 1620 (map showing eastern North America with arrows numbered 1 to 4 pointing to locations along the coast)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

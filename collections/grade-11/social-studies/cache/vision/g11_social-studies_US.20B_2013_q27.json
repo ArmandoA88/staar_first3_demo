@@ -1,0 +1,30 @@
+{
+  "stem": "This satirical cartoon expresses a sentiment that eventually contributed to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the passage of a federal statute prohibiting foreign companies from contributing to presidential campaigns"
+    },
+    {
+      "label": "B",
+      "text": "the issuance of a Supreme Court ruling declaring it unconstitutional for members of the same political party to serve consecutive terms as president"
+    },
+    {
+      "label": "C",
+      "text": "the establishment of a congressional committee to investigate private presidential conduct"
+    },
+    {
+      "label": "D",
+      "text": "the ratification of a constitutional amendment establishing term limits for presidents"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four sealed-panel political cartoon depicting a man in 1932 and 1936 saying 'MY FRIENDS!' and then in 1940 and 1944 depicted as a king saying 'MY SUBJECTS!' and 'MY SLAVES!'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

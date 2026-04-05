@@ -1,0 +1,30 @@
+{
+  "stem": "A model representing a linear equation is shown.\n\n[image shows two x bars plus five 1-unit squares equal three -x bars plus six 1-unit squares]",
+  "instruction": "Based on the model, what is the value of x?",
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{3}{5}"
+    },
+    {
+      "label": "B",
+      "text": "-\\frac{5}{3}"
+    },
+    {
+      "label": "C",
+      "text": "-\\frac{3}{5}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{5}{3}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two x bars plus five single unit squares equals three -x bars plus six single unit squares"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

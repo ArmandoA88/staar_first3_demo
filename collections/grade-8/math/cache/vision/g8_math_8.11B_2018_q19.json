@@ -1,0 +1,30 @@
+{
+  "stem": "The list shows the heights of 6 students in inches.\n\n63, 70, 68, 73, 58, 67\n\nWhat is the mean absolute deviation for these numbers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "24"
+    },
+    {
+      "label": "B",
+      "text": "66.5"
+    },
+    {
+      "label": "C",
+      "text": "4"
+    },
+    {
+      "label": "D",
+      "text": "67.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "63, 70, 68, 73, 58, 67"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

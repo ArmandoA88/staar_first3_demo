@@ -1,0 +1,33 @@
+{
+  "stem": "Gwen spent $12.50 to purchase 5 bracelets. Each bracelet cost the same amount.\n\nWhich graph has a slope that best represents this rate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph with points (1,5) and (2,10))"
+    },
+    {
+      "label": "B",
+      "text": "(Graph with point (1,12.5))"
+    },
+    {
+      "label": "C",
+      "text": "(Graph with points (1,2.5), (2,5), (4,10), (5,12.5))"
+    },
+    {
+      "label": "D",
+      "text": "(Graph with points from (1,0.5) to (7,3.5) increasing gradually)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Cost $y$ vs Number Purchased $x$, points visible at (1,5) and (2,10)",
+    "Graph B: Cost $y$ vs Number Purchased $x$, single point visible at (1, 12.5)",
+    "Graph C: Cost $y$ vs Number Purchased $x$, points visible at (1,2.5), (2,5), (4,10), (5,12.5)",
+    "Graph D: Cost $y$ vs Number Purchased $x$, points visible gradually increasing from (1,0.5) to (7,3.5)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "The problem asks which graph's slope best matches the unit rate of $12.50/5 = 2.5 dollars per bracelet."
+}

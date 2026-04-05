@@ -1,0 +1,28 @@
+{
+  "stem": "What are the domain and range of f(x) = -37?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Domain: All real numbers greater than or equal to -37\nRange: All real numbers"
+    },
+    {
+      "label": "B",
+      "text": "Domain: \\{ -37 \\}\nRange: All real numbers"
+    },
+    {
+      "label": "C",
+      "text": "Domain: All real numbers\nRange: All real numbers greater than or equal to -37"
+    },
+    {
+      "label": "D",
+      "text": "Domain: All real numbers\nRange: \\{ -37 \\}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 0.99,
+  "notes": null
+}

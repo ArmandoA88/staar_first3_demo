@@ -1,0 +1,48 @@
+{
+  "stem": "A business owner opens a new investment account with a $10,000.00 deposit:\n\n\u2022 The investment account earns 2.5% interest, compounded annually.\n\n\u2022 The business owner does not plan to make any deposits or withdrawals.\n\nHow much interest will the investment account earn at the end of the first and second years?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "$250.00"
+    },
+    {
+      "label": null,
+      "text": "$500.00"
+    },
+    {
+      "label": null,
+      "text": "$506.25"
+    },
+    {
+      "label": null,
+      "text": "$562.50"
+    },
+    {
+      "label": null,
+      "text": "$2,500.00"
+    },
+    {
+      "label": null,
+      "text": "$5,000.00"
+    },
+    {
+      "label": null,
+      "text": "$5,625.00"
+    }
+  ],
+  "choice_pool": [
+    "$250.00",
+    "$500.00",
+    "$506.25",
+    "$562.50",
+    "$2,500.00",
+    "$5,000.00",
+    "$5,625.00"
+  ],
+  "response_template": "The account will earn [blank_1] in interest at the end of the first year.\n\nAt the end of the second year, the account will have earned a total of [blank_2] in interest.",
+  "visual_elements": [],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.98,
+  "notes": "Matched to known metadata standard=8.12(D), year=2023, question_number=37, declared_item_type=Drag and Drop (2 pts)."
+}

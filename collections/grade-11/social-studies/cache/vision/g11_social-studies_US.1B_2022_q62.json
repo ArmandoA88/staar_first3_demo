@@ -1,0 +1,30 @@
+{
+  "stem": "Which phrase from this excerpt is MOST directly related to the Nineteenth Amendment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\u201cWe hold these truths to be self-evident\u201d"
+    },
+    {
+      "label": "G",
+      "text": "\u201cthey are endowed by their Creator\u201d"
+    },
+    {
+      "label": "H",
+      "text": "\u201cLife, Liberty and the pursuit of Happiness\u201d"
+    },
+    {
+      "label": "J",
+      "text": "\u201cderiving their just powers from the consent of the governed\u201d"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. \u2014 That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed. . . . \u2014Declaration of Independence, 1776"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

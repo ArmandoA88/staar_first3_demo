@@ -1,0 +1,30 @@
+{
+  "stem": "Rennin is an enzyme that catalyzes a reaction that solidifies milk. Rennin was added to three different test tubes with milk. Each test tube was placed in a water bath for ten minutes. The data collected during the experiment are shown.\n\nTest Tube | Variable                  | Result\n1         | Cold water bath          | Few solids present in the liquid milk\n2         | Room-temperature water bath | Semi-solid milk\n3         | Hot water bath            | No solids, only liquid milk\n\nWhich statement best explains the result of test tube 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The enzyme changed the product."
+    },
+    {
+      "label": "B",
+      "text": "The substrate was used up."
+    },
+    {
+      "label": "C",
+      "text": "The enzyme was denatured."
+    },
+    {
+      "label": "D",
+      "text": "The substrate reacted with the enzyme."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing variables and results for test tubes 1, 2, and 3"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

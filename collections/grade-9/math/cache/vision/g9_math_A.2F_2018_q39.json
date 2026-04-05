@@ -1,0 +1,34 @@
+{
+  "stem": "What is the equation in slope-intercept form of the line that passes through the point (2, -2) and is perpendicular to the line represented by \\( y = \\frac{2}{5} x + 2 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( y = \\frac{5}{2} x - 7 \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( y = \\frac{5}{2} x + 7 \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( y = -\\frac{5}{2} x - 3 \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( y = -\\frac{5}{2} x + 3 \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation y = \\frac{2}{5} x + 2",
+    "equation y = \\frac{5}{2} x - 7",
+    "equation y = \\frac{5}{2} x + 7",
+    "equation y = -\\frac{5}{2} x - 3",
+    "equation y = -\\frac{5}{2} x + 3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

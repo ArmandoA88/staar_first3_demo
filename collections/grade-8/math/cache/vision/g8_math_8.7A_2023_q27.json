@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows a cone and its dimensions.\n\nWhich measurement is closest to the volume of the cone in cubic centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "314.2 cm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "340.3 cm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "754.0 cm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "942.5 cm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cone diagram with dimensions 5 cm (radius), 12 cm (height), 13 cm (slant height)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

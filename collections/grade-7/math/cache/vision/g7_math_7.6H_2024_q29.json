@@ -1,0 +1,30 @@
+{
+  "stem": "A survey was given to 200 students about their favorite type of pet. The survey results are shown in the table.\n\nFavorite Type of Pet\n\n| Pet   | Number of Students |\n|-------|--------------------|\n| Dog   | 110                |\n| Rabbit| 10                 |\n| Cat   | 65                 |\n| Fish  | 15                 |\n\nBased on the results in the table, which statement about a randomly selected student is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The student is equally likely to prefer any of the types of pet."
+    },
+    {
+      "label": "B",
+      "text": "The student is 5 times as likely to prefer a fish as to prefer a rabbit."
+    },
+    {
+      "label": "C",
+      "text": "The student is less likely to prefer fish than to prefer any other type of pet."
+    },
+    {
+      "label": "D",
+      "text": "The student is more likely to prefer a dog than to prefer any other type of pet."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

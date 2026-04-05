@@ -1,0 +1,30 @@
+{
+  "stem": "The graph models the linear relationship between the number of monthly payments made on a loan and the remaining balance in dollars left to pay on the loan.\n\nWhich statement describes the x-intercept of the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The x-intercept is 60, which represents the initial balance in dollars of the loan."
+    },
+    {
+      "label": "B",
+      "text": "The x-intercept is 27,000, which represents the initial balance in dollars of the loan."
+    },
+    {
+      "label": "C",
+      "text": "The x-intercept is 60, which represents the number of monthly payments needed to repay the loan."
+    },
+    {
+      "label": "D",
+      "text": "The x-intercept is 27,000, which represents the number of monthly payments needed to repay the loan."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Loan' with x-axis labeled 'Number of Monthly Payments' from 0 to 60 and y-axis labeled 'Remaining Balance (dollars)' from 0 to 30,000. The graph shows a descending line with points labeled (10, 22,500) and (35, 11,250)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

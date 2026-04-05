@@ -1,0 +1,30 @@
+{
+  "stem": "What event correctly replaces the question mark on this timeline?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Battle of Midway"
+    },
+    {
+      "label": "B",
+      "text": "Germany surrenders"
+    },
+    {
+      "label": "C",
+      "text": "Bataan Death March"
+    },
+    {
+      "label": "D",
+      "text": "Invasion of Normandy"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Selected World War II Events\n\u2022 1941 \u2013 Attack on Pearl Harbor\n\u2022 1942 \u2013 Invasion of North Africa\n\u2022 1943 \u2013 Surrender of Axis troops in Africa\n\u2022 1943 \u2013 Invasion of Italy\n\u2022 1943 \u2013 Italy surrenders\n\u2022 1944 \u2013 ?\n\u2022 1944 \u2013 Liberation of Paris"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

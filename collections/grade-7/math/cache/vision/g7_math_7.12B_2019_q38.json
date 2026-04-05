@@ -1,0 +1,30 @@
+{
+  "stem": "Which inference about all freshmen at this college is best supported by this information?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The number of freshmen who chose English as their major is less than the number of freshmen who are Undecided on their major."
+    },
+    {
+      "label": "G",
+      "text": "The number of freshmen who chose Education as their major is greater than the number of freshmen who chose Science or Other as their major."
+    },
+    {
+      "label": "H",
+      "text": "The number of freshmen who chose Business or Education as their major is less than the number of freshmen who chose Science or Engineering as their major."
+    },
+    {
+      "label": "J",
+      "text": "The number of freshmen who chose Business as their major is greater than the number of freshmen who chose English as their major."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Major and Number of Freshmen, with data: English 50, Science 35, Engineering 40, Business 45, Education 60, Undecided 50, Other 20."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

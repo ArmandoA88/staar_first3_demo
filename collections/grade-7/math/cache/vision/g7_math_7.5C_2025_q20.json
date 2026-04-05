@@ -1,0 +1,30 @@
+{
+  "stem": "Quadrilateral \\(KLMN\\) is similar to quadrilateral \\(PQRT\\). Some of the side lengths for the quadrilaterals are shown in centimeters.\n\nWhat is the value of \\(x\\) in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = \\frac{7}{9}"
+    },
+    {
+      "label": "B",
+      "text": "x = \\frac{4}{9}"
+    },
+    {
+      "label": "C",
+      "text": "x = 36"
+    },
+    {
+      "label": "D",
+      "text": "x = 63"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two quadrilaterals labeled KLMN and PQRT with side lengths. Quadrilateral KLMN has sides 36 cm, 126 cm, 90 cm, and x. Quadrilateral PQRT has sides 4 cm, 14 cm, 10 cm, and 7 cm. A box states 'Not drawn to scale'."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

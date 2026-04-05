@@ -1,0 +1,30 @@
+{
+  "stem": "Ben deposits $1,750 into each of two savings accounts.\n\n\u2022 Account I earns 2.75% annual simple interest.\n\u2022 Account II earns 2.75% interest compounded annually.\n\nBen does not make any additional deposits or withdrawals. Which amount is closest to the difference between the interest Ben will earn in Account I and the interest Ben will earn in Account II at the end of 2 years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$96.25"
+    },
+    {
+      "label": "B",
+      "text": "$1.32"
+    },
+    {
+      "label": "C",
+      "text": "$97.57"
+    },
+    {
+      "label": "D",
+      "text": "$193.82"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text and list of interest rates, multiple choice question with four labeled options."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

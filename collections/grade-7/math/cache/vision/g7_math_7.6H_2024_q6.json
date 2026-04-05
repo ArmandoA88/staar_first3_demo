@@ -1,0 +1,40 @@
+{
+  "stem": "A school librarian surveyed 80 randomly selected students about their favorite type of book. The results are shown in the table.\n\nFavorite Type of Book\n\n| Type of Book | Number of Students |\n|--------------|--------------------|\n| Action       | 24                 |\n| Mystery      | 14                 |\n| Fantasy      | 15                 |\n| Nonfiction   | 9                  |\n| Biography    | 18                 |\n\nBased on the results in the table, which types of books make the statements about a randomly selected student true?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "Action"
+    },
+    {
+      "label": null,
+      "text": "Mystery"
+    },
+    {
+      "label": null,
+      "text": "Fantasy"
+    },
+    {
+      "label": null,
+      "text": "Nonfiction"
+    },
+    {
+      "label": null,
+      "text": "Biography"
+    }
+  ],
+  "choice_pool": [
+    "Action",
+    "Mystery",
+    "Fantasy",
+    "Nonfiction",
+    "Biography"
+  ],
+  "response_template": "The student is more than twice as likely to prefer [blank_1] as to prefer [blank_2].\n\nThe student is equally likely to prefer Action as to prefer Nonfiction or [blank_3].",
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.98,
+  "notes": null
+}

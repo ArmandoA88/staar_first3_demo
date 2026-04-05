@@ -1,0 +1,30 @@
+{
+  "stem": "The value of y is directly proportional to the value of x. When x = 512, y = 128.\n\nWhat is the value of y when x = 64?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "256"
+    },
+    {
+      "label": "B",
+      "text": "32"
+    },
+    {
+      "label": "C",
+      "text": "16"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q7"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

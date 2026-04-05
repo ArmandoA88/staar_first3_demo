@@ -1,0 +1,30 @@
+{
+  "stem": "Which location is near a transform plate boundary?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Location A"
+    },
+    {
+      "label": "B",
+      "text": "Location B"
+    },
+    {
+      "label": "C",
+      "text": "Location C"
+    },
+    {
+      "label": "D",
+      "text": "Location D"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A table that describes four separate geologic locations is shown.\n\nLocation            Description\nLocation A        \u2022  No volcanic rocks present\n                          \u2022  Area experiences moderate to large-scale earthquakes\nLocation B        \u2022  Volcanic rocks present\n                          \u2022  Light to moderate volcanic activity daily\nLocation C        \u2022  No volcanic rocks present\n                          \u2022  No evidence of seismic activity in the last 10,000 years\nLocation D        \u2022  Volcanic rocks present\n                          \u2022  Moderate earthquake activity yearly"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

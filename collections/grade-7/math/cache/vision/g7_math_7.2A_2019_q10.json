@@ -1,0 +1,30 @@
+{
+  "stem": "Which Venn diagram best represents the relationship among integers, natural numbers, rational numbers, and whole numbers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Integers\nRational numbers\nWhole numbers\nNatural numbers"
+    },
+    {
+      "label": "H",
+      "text": "Rational numbers\nIntegers\nNatural numbers\nWhole numbers"
+    },
+    {
+      "label": "G",
+      "text": "Natural numbers\nIntegers\nRational numbers\nWhole numbers"
+    },
+    {
+      "label": "J",
+      "text": "Rational numbers\nIntegers\nWhole numbers\nNatural numbers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four Venn diagrams labeled F, H, G, and J showing nested sets of integers, natural numbers, rational numbers, and whole numbers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

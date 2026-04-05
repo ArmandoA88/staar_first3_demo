@@ -1,0 +1,30 @@
+{
+  "stem": "Tamara invested $15,000 in an account that pays 4% annual simple interest. Tamara will not make any additional deposits or withdrawals. How much interest will Tamara earn on her investment at the end of 3 years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$1,800"
+    },
+    {
+      "label": "G",
+      "text": "$600"
+    },
+    {
+      "label": "H",
+      "text": "$450"
+    },
+    {
+      "label": "J",
+      "text": "$1,873"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: $15,000 principal, 4% interest, 3 years"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

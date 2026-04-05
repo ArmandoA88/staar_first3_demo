@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the linear relationship between the number of hours Francis worked, x, and the amount of money Francis earned, y.\n\nFrancis's Earnings\n\n| Number of Hours Worked | 1.25 | 3.75 | 5.5 |\n| Amount Earned          | $17.50 | $52.50 | $77.00 |\n\nBased on the table, how much did Francis earn per hour?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$17.50 per hour"
+    },
+    {
+      "label": "B",
+      "text": "$14.00 per hour"
+    },
+    {
+      "label": "C",
+      "text": "$35.00 per hour"
+    },
+    {
+      "label": "D",
+      "text": "$24.50 per hour"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with Number of Hours Worked and Amount Earned"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

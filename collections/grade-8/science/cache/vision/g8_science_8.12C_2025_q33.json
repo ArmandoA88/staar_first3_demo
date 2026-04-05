@@ -1,0 +1,30 @@
+{
+  "stem": "Which scenario would cause the MOST damage to an ecosystem's sustainability?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The loss of four species in the ecosystem"
+    },
+    {
+      "label": "B",
+      "text": "The loss of one hundred organisms in the ecosystem"
+    },
+    {
+      "label": "C",
+      "text": "The loss of one population in the ecosystem"
+    },
+    {
+      "label": "D",
+      "text": "The loss of thirty individuals in the ecosystem"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice format with options labeled A, B, C, and D."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

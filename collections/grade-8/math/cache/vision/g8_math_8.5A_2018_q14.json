@@ -1,0 +1,30 @@
+{
+  "stem": "A hot-air balloon is released at ground level, and it rises into the air at a constant rate. After 5 seconds the height of the balloon is 20 feet. The balloon continues to rise at the same rate.\n\nWhich table shows the relationship between the time in seconds, x, and the height of the balloon in feet, y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Time, x (sec) | Height, y (ft)\n10 | 2.5\n20 | 5.0\n30 | 7.5\n40 | 10.0\n50 | 12.5"
+    },
+    {
+      "label": "G",
+      "text": "Time, x (sec) | Height, y (ft)\n10 | 25\n20 | 35\n30 | 45\n40 | 55\n50 | 65"
+    },
+    {
+      "label": "H",
+      "text": "Time, x (sec) | Height, y (ft)\n10 | 40\n20 | 60\n30 | 80\n40 | 100\n50 | 120"
+    },
+    {
+      "label": "J",
+      "text": "Time, x (sec) | Height, y (ft)\n10 | 40\n20 | 80\n30 | 120\n40 | 160\n50 | 200"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled F, G, H, and J showing different pairs of values for time (x) and height (y)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

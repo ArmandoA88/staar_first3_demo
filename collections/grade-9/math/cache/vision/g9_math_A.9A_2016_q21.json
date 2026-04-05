@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of an exponential function is shown on the grid.\n\nBased on the graph, which statement about the function is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The range is the set of all real numbers less than 0."
+    },
+    {
+      "label": "B",
+      "text": "The domain is the set of all real numbers greater than -4."
+    },
+    {
+      "label": "C",
+      "text": "The range is the set of all real numbers greater than 0."
+    },
+    {
+      "label": "D",
+      "text": "The domain is the set of all real numbers less than -4."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of an exponential function with x-axis labeled from -10 to 10 and y-axis labeled from -10 to 10, curve shown decreasing from left to right staying above the x-axis"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "stem": "A relationship between x and y is shown on the graph.\n\nComplete the equation that best describes the relationship between x and y.\n\nChoose the correct answer from each drop-down menu to complete the equation.\n\ny = [blank_1]x + [blank_2]",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the equation.",
+  "options": [],
+  "choice_pool": [
+    "-3",
+    "-2",
+    "-1",
+    "0",
+    "1",
+    "2",
+    "3",
+    "-5",
+    "-4",
+    "-3",
+    "-2",
+    "-1",
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "response_template": "y = [blank_1]x + [blank_2]",
+  "visual_elements": [
+    "graph with line passing through (-2, -5) and (0, 1) on the xy-plane"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.98,
+  "notes": "Two drop-down selections correspond to slope and y-intercept of the line shown on the graph."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "An online game increases in number of users at a rate of 500 users each day. Which graph best represents the relationship between y, the number of users, and x, the number of days?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with x-axis labeled Time (days) and y-axis labeled Total Number of Users, x values 0, 500, 1,000, 1,500, 2,000, y values 0 to 4."
+    },
+    {
+      "label": "B",
+      "text": "Graph with x-axis labeled Time (days) and y-axis labeled Total Number of Users, x values 0, 10, 20, 30, 40, y values 0 to 1,000."
+    },
+    {
+      "label": "C",
+      "text": "Graph with x-axis labeled Time (days) and y-axis labeled Total Number of Users, x values 0 to 4, y values 0 to 2,000."
+    },
+    {
+      "label": "D",
+      "text": "Graph with x-axis labeled Time (days) and y-axis labeled Total Number of Users, x values 0, 2, 4, 6, 8, y values 0 to 4,000."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, and D showing different scales and slopes on x-axis (Time in days) and y-axis (Total Number of Users)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Scales on axes preserved as seen, options given in display order with labels."
+}

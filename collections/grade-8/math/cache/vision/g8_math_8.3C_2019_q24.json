@@ -1,0 +1,28 @@
+{
+  "stem": "A polygon is graphed on a coordinate grid with (x, y) representing the location of a certain point on the polygon. The polygon is transformed using the rule (x, y) \u2192 (ax, ay).\n\nWhich statement must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "If a is greater than 1, the image of the polygon is congruent to the polygon."
+    },
+    {
+      "label": "G",
+      "text": "If a is between 0 and 1, the image of the polygon is congruent to the polygon."
+    },
+    {
+      "label": "H",
+      "text": "If a is greater than 1, the image of the polygon is smaller than the polygon."
+    },
+    {
+      "label": "J",
+      "text": "If a is between 0 and 1, the image of the polygon is smaller than the polygon."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

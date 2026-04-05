@@ -1,0 +1,35 @@
+{
+  "stem": "The data in the diagram is evidence that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "a new species of horse suddenly appeared"
+    },
+    {
+      "label": "G",
+      "text": "horses slowly developed over time"
+    },
+    {
+      "label": "H",
+      "text": "horses have similar stages of rapid embryological development"
+    },
+    {
+      "label": "J",
+      "text": "horses have a common ancestry with other hooved animals"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram titled 'Horse Evolution' with labeled illustrations and timelines:",
+    "- Recent Pleistocene: Equus, 3 million years ago",
+    "- Pliocene: Pliohippus, 7 million years ago",
+    "- Miocene: Merychippus, 25 million years ago",
+    "- Oligocene: Miohippus, 40 million years ago",
+    "- Eocene: Hyracotherium, 60 million years ago"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

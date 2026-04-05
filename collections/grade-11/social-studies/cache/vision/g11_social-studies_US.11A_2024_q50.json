@@ -1,0 +1,30 @@
+{
+  "stem": "Which event correctly completes this graphic organizer?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The 2001 attacks on the World Trade Center and the Pentagon"
+    },
+    {
+      "label": "B",
+      "text": "The 2000 bombing of the U.S.S. Cole"
+    },
+    {
+      "label": "C",
+      "text": "The 1995 bombing of a federal building in Oklahoma City, Oklahoma"
+    },
+    {
+      "label": "D",
+      "text": "The 2012 attacks on the U.S. diplomatic compound in Benghazi, Libya"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "? -> The passage of the Patriot Act -> Efforts to detect and prevent money laundering of funds that finance terrorism"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

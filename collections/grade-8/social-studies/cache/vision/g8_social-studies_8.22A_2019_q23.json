@@ -1,0 +1,30 @@
+{
+  "stem": "Which leadership quality does President Lincoln best demonstrate in this address?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Inspiration \u2014 He wants the Union to be a model of democracy for all nations."
+    },
+    {
+      "label": "B",
+      "text": "Compassion \u2014 He wants to help those who suffered during the Civil War."
+    },
+    {
+      "label": "C",
+      "text": "Persistence \u2014 He believes the Union must surrender in order to have peace."
+    },
+    {
+      "label": "D",
+      "text": "Confidence \u2014 He believes history would prove him correct to fight in the Civil War."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation\u2019s wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations.\n\n\u2014President Abraham Lincoln, second inaugural address, March 4, 1865"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

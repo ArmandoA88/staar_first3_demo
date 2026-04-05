@@ -1,0 +1,30 @@
+{
+  "stem": "An organization published pamphlets of different lengths. The scatterplot shows the relationship between the number of pages and the word count of each pamphlet.\n\nBased on the data, which of these is the best prediction of the word count for a 10-page pamphlet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1,500"
+    },
+    {
+      "label": "B",
+      "text": "2,000"
+    },
+    {
+      "label": "C",
+      "text": "2,400"
+    },
+    {
+      "label": "D",
+      "text": "2,700"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot of pamphlet lengths with x-axis labeled 'Total Number of Pages' from 0 to 10 and y-axis labeled 'Word Count' from 0 to 2000. Points plotted are (1,250), (2,400), (3,800), (4,900), (5,1100), (6,1300), (7,1800)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

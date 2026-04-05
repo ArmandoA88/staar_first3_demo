@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 23?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change begun to began"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after other"
+    },
+    {
+      "label": "C",
+      "text": "Change tragedy to trajedy"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in sentence 23."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

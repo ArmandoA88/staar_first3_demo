@@ -1,0 +1,30 @@
+{
+  "stem": "Frank and his family drove 6 hours every day during a road trip. Which graph best represents y, the total number of hours driven in x days?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with points (0,0), (1,8), (2,16) going steeply up"
+    },
+    {
+      "label": "B",
+      "text": "Graph with points (0,0), (1,4.5), (2,9), (3,13.5), (4,18) going diagonally up"
+    },
+    {
+      "label": "C",
+      "text": "Graph with a horizontal line at y=6 from x=0 to x=4"
+    },
+    {
+      "label": "D",
+      "text": "Graph with a line descending from (0,6) to (4,0)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled Road Trip, each with x axis labeled Number of Days from 0 to 4 and y axis labeled Total Number of Hours Driven from 0 to 16."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Options A, B, C, and D correspond to four different linear graphs showing total hours driven y vs. number of days x."
+}

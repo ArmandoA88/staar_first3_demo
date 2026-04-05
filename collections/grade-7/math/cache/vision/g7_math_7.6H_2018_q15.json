@@ -1,0 +1,30 @@
+{
+  "stem": "The manager of a movie theater randomly surveyed 50 people who entered the movie theater on Friday. The manager asked about the type of movie each person preferred. The results of the survey are shown in the table.\n\nSurvey Results\n| Type of Movie | Number of People |\n|---------------|-----------------|\n| Horror        | 12              |\n| Comedy        | 15              |\n| Action        | 17              |\n| Drama         | 6               |\n\nBased on the results in the table, which statement about a person who will go to this theater next Friday is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The person is three times as likely to prefer comedy as horror."
+    },
+    {
+      "label": "B",
+      "text": "The person is twice as likely to prefer drama as horror."
+    },
+    {
+      "label": "C",
+      "text": "The person is less likely to prefer horror or drama than action."
+    },
+    {
+      "label": "D",
+      "text": "The person is more likely to prefer horror or comedy than action or drama."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Survey Results table with Type of Movie and Number of People columns showing Horror 12, Comedy 15, Action 17, Drama 6."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

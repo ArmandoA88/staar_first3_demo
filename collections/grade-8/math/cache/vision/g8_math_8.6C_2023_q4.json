@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows Squares D, E, and F joined at vertices to form a right triangle.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The sum of the areas of Square D and Square F is less than the area of Square E."
+    },
+    {
+      "label": "B",
+      "text": "The sum of the areas of Square D and Square E is greater than the area of Square F."
+    },
+    {
+      "label": "C",
+      "text": "The sum of the areas of Square D and Square F is equal to the area of Square E."
+    },
+    {
+      "label": "D",
+      "text": "The sum of the areas of Square D and Square E is equal to the area of Square F."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with three squares labeled Square D, Square E, and Square F arranged at vertices to form a right triangle."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

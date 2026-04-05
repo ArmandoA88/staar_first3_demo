@@ -1,0 +1,30 @@
+{
+  "stem": "Which mapping represents y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x: 0.25, 0.35, 0.45, 0.55  y: 0.50, 0.70, 0.90, 1.10"
+    },
+    {
+      "label": "B",
+      "text": "x: 20, 40, 60, 80  y: 5, 10, 15, 20"
+    },
+    {
+      "label": "C",
+      "text": "x: 0, 4  y: -5, -9, -13, -17"
+    },
+    {
+      "label": "D",
+      "text": "x: -1.5, -1.0, -0.5, 0.5  y: 1.0, 1.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four oval diagrams with arrows mapping values of x to values of y labeled A, B, C, and D respectively."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

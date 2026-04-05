@@ -1,0 +1,32 @@
+{
+  "stem": "A pair of quadrilaterals are similar. Which statements about the quadrilaterals must be true?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "The corresponding sides of the quadrilaterals must be congruent."
+    },
+    {
+      "label": null,
+      "text": "The opposite sides of the quadrilaterals must be congruent."
+    },
+    {
+      "label": null,
+      "text": "The corresponding angles of the quadrilaterals must be congruent."
+    },
+    {
+      "label": null,
+      "text": "The corresponding angles of the quadrilaterals must each be right angles."
+    },
+    {
+      "label": null,
+      "text": "The corresponding side lengths of the quadrilaterals must be proportional."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiselect",
+  "confidence": 0.99,
+  "notes": null
+}

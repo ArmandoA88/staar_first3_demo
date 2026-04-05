@@ -1,0 +1,33 @@
+{
+  "stem": "What change needs to be made in sentence 28?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after as"
+    },
+    {
+      "label": "B",
+      "text": "Change one to One"
+    },
+    {
+      "label": "C",
+      "text": "Change historys' to history's"
+    },
+    {
+      "label": "D",
+      "text": "Change incredible to incredable"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A Insert a comma after as",
+    "B Change one to One",
+    "C Change historys' to history's",
+    "D Change incredible to incredable"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

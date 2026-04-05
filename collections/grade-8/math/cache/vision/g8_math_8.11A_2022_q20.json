@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the relationship between the number of nights spent in a hotel and the total cost for the hotel.\n\nWhich conclusion is best supported by the scatterplot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "As the number of nights spent in a hotel increases, the total cost for the hotel increases."
+    },
+    {
+      "label": "G",
+      "text": "As the number of nights spent in a hotel increases, the total cost for the hotel decreases."
+    },
+    {
+      "label": "H",
+      "text": "As the number of nights spent in a hotel increases, the total cost for the hotel remains the same."
+    },
+    {
+      "label": "J",
+      "text": "There is no relationship between the number of nights spent in a hotel and the total cost for the hotel."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot labeled 'Hotel Costs' with x-axis 'Number of Nights' labeled from 0 to 6 and y-axis 'Total Cost (dollars)' labeled from 0 to 600. Points show a positive trend with increasing number of nights correlating to increasing total cost."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

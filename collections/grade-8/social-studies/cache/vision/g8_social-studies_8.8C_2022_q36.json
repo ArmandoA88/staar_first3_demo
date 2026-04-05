@@ -1,0 +1,31 @@
+{
+  "stem": "What made the battles at Antietam and Gettysburg different from the other battles illustrated on this map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They were victories for the Confederacy."
+    },
+    {
+      "label": "G",
+      "text": "They were battles fought in Union territory."
+    },
+    {
+      "label": "H",
+      "text": "They were attempts to keep Virginia in the Union."
+    },
+    {
+      "label": "J",
+      "text": "They were battles defending the Confederate capital."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Selected Battles of the Civil War map with locations: Gettysburg (X), Antietam (X), Baltimore (\u25cf), Washington, D.C. (\u25cf), Manassas (X), Chancellorsville (X), Fredericksburg (X), Richmond (\u25cf), Seven Days (X)",
+    "Key: X = Battles, \u25cf = Cities"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

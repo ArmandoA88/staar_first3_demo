@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following best completes this illustration?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Free Enterprise System"
+    },
+    {
+      "label": "G",
+      "text": "Mercantile System"
+    },
+    {
+      "label": "H",
+      "text": "Federalism"
+    },
+    {
+      "label": "J",
+      "text": "Republicanism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "An illustration of a building with five pillars labeled from left to right: Entrepreneurship, Competition, Private Property, Profit Motive, Consumer Choice. The top rectangular part above the pillars has a question mark (?)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

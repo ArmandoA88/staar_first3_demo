@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change should have been giving to should give"
+    },
+    {
+      "label": "B",
+      "text": "Change earlier to earliest"
+    },
+    {
+      "label": "C",
+      "text": "Insert a comma after chance"
+    },
+    {
+      "label": "D",
+      "text": "Change themselves to themselfs"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

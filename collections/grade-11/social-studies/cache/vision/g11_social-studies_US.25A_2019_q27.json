@@ -1,0 +1,30 @@
+{
+  "stem": "What was the main purpose of this executive order?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To expand protections in hiring decisions"
+    },
+    {
+      "label": "B",
+      "text": "To guarantee a minimum wage for employees"
+    },
+    {
+      "label": "C",
+      "text": "To provide corporate tax cuts to companies"
+    },
+    {
+      "label": "D",
+      "text": "To provide on-the-job training for new workers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The contractor will take affirmative action to ensure that applicants are employed, and that employees are treated during employment, without regard to their race, color, religion, sex, sexual orientation, gender identity, or national origin.\n\n\u2014Executive Order 11246 as amended, September 24, 1965"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "The amount of fertilizer in a landscaping company\u2019s warehouse decreases at a rate of 3% per week. The amount of fertilizer in the warehouse was originally 78,000 cubic yards.\n\nWhich function models the amount of fertilizer in cubic yards left after w weeks?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "f(w) = 0.97(78,000)^w"
+    },
+    {
+      "label": "B",
+      "text": "f(w) = 1.03(78,000)^w"
+    },
+    {
+      "label": "C",
+      "text": "f(w) = 78,000(0.97)^w"
+    },
+    {
+      "label": "D",
+      "text": "f(w) = 78,000(1.03)^w"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

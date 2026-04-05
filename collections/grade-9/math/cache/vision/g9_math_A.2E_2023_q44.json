@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation best represents the slope-intercept form of the line that passes through point P and is parallel to line m?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = \\frac{3}{2}x - 5"
+    },
+    {
+      "label": "B",
+      "text": "y = -\\frac{2}{3}x + \\frac{2}{3}"
+    },
+    {
+      "label": "C",
+      "text": "y = \\frac{3}{2}x + 5"
+    },
+    {
+      "label": "D",
+      "text": "y = -\\frac{2}{3}x - \\frac{2}{3}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing point P at (-2, 2) and line m with slope 3/2 through (0,-3)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

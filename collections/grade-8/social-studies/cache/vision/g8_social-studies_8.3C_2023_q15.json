@@ -1,0 +1,20 @@
+{
+  "stem": "The First Great Awakening of the 1730s and 1740s focused on the [blank_1]. This movement contributed to the spread of [blank_2] throughout the colonies.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [],
+  "choice_pool": [
+    "religious faith",
+    "political independence",
+    "individual piety",
+    "economic growth",
+    "democratic ideals",
+    "loyalty to the British crown"
+  ],
+  "response_template": "The First Great Awakening of the 1730s and 1740s focused on the [blank_1]. This movement contributed to the spread of [blank_2] throughout the colonies.",
+  "visual_elements": [
+    "drop-down menu"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": "Reconstructed from fill-in-the-blank with two drop-down menus; choices inferred from common US history knowledge of the First Great Awakening."
+}

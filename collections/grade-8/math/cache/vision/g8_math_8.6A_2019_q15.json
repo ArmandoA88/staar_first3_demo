@@ -1,0 +1,30 @@
+{
+  "stem": "A silo is a building shaped like a cylinder used to store grain. The diameter of a particular silo is 6.5 meters, and the height of the silo is 12 meters.\n\nWhich equation can be used to find V, the volume of this silo in cubic meters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "V = \\pi(3.25)^2(12)"
+    },
+    {
+      "label": "B",
+      "text": "V = \\pi(6.5)^2(12)"
+    },
+    {
+      "label": "C",
+      "text": "V = \\pi(12)^2(3.25)"
+    },
+    {
+      "label": "D",
+      "text": "V = \\pi(6)^2(6.5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cylindrical silo diagram with height 12 m and diameter 6.5 m"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "A bus travels two different routes: the Green Route and the Blue Route. The routes are different lengths.\n\n\u2022 On Monday the bus traveled the Green Route 6 times and the Blue Route 5 times, traveling a total of 52 miles.\n\u2022 On Tuesday the bus traveled the Green Route 12 times and the Blue Route 13 times, traveling a total of 119 miles.\n\nWhat is the length of the Green Route in miles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "4.4 mi"
+    },
+    {
+      "label": "G",
+      "text": "4.5 mi"
+    },
+    {
+      "label": "H",
+      "text": "6.4 mi"
+    },
+    {
+      "label": "J",
+      "text": "6.8 mi"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

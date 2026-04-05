@@ -1,0 +1,30 @@
+{
+  "stem": "Which ordered pair represents a solution to both equations?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(-4, 0)"
+    },
+    {
+      "label": "B",
+      "text": "(-2, 1)"
+    },
+    {
+      "label": "C",
+      "text": "(0, -4)"
+    },
+    {
+      "label": "D",
+      "text": "(1, -2)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing two lines intersecting at a point, labeled with points (-4, 6), (-8, -2), (0, 2), and (0, -4)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

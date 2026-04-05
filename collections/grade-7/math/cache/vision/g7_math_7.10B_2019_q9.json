@@ -1,0 +1,30 @@
+{
+  "stem": "Which number line represents the solution to the inequality 125x + 200 \u2265 1,200?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number line with a filled circle at 8 and shading to the right"
+    },
+    {
+      "label": "B",
+      "text": "Number line with a filled circle at 8 and shading to the left"
+    },
+    {
+      "label": "C",
+      "text": "Number line with an open circle at 8 and shading to the right"
+    },
+    {
+      "label": "D",
+      "text": "Number line with an open circle at 8 and shading to the left"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number lines labeled A, B, C, D with shaded regions around the number 8 on the line from -10 to 10"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

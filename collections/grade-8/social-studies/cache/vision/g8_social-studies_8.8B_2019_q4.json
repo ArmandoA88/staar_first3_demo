@@ -1,0 +1,33 @@
+{
+  "stem": "Which outcome best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "American Revolution"
+    },
+    {
+      "label": "G",
+      "text": "Popular Sovereignty"
+    },
+    {
+      "label": "H",
+      "text": "Manifest Destiny"
+    },
+    {
+      "label": "J",
+      "text": "Civil War"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Sectionalism",
+    "States' rights",
+    "Slavery",
+    "Diagram with arrows from 'Sectionalism', 'States' rights', and 'Slavery' pointing to '?'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

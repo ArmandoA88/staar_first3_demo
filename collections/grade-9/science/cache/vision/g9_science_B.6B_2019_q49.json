@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following best explains why cells that contain the same genetic material do not develop into the same types of cells?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Because internal or external stimuli can trigger the activation of specific genes in the DNA of cells"
+    },
+    {
+      "label": "B",
+      "text": "Because random mutations can occur in the DNA of cells during early embryonic development"
+    },
+    {
+      "label": "C",
+      "text": "Because messenger RNA is converted to transfer RNA when cell differentiation begins"
+    },
+    {
+      "label": "D",
+      "text": "Because chemical signals that are released during the cell cycle can result in the linking of similar genes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing Totipotent Stem Cells, Pluripotent Stem Cells, and Specialized Stem Cells developing into Specialized Cells with descriptions for each cell type."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

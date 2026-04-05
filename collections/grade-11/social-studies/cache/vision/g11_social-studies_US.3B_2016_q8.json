@@ -1,0 +1,34 @@
+{
+  "stem": "Which statement best completes this list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Congress passed legislation imposing tariffs on imported beef."
+    },
+    {
+      "label": "G",
+      "text": "Most of the cowboys on cattle drives were European immigrants."
+    },
+    {
+      "label": "H",
+      "text": "The cattle industry was nationalized under the Department of Agriculture."
+    },
+    {
+      "label": "J",
+      "text": "The need to process large amounts of cattle made meatpacking a major industry."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bullet list: Wild cattle multiplied for centuries in the Southwest.",
+    "Growing cities created more demand for beef.",
+    "Cowboys rounded up cattle and drove them to shipping centers on railroad lines.",
+    "The introduction of barbed wire and windmills led to large fenced ranches.",
+    "Missing statement indicated by question mark."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Standard: US.3(B), year: 2016, question_number: 8."
+}

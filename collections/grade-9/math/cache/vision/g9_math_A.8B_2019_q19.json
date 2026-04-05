@@ -1,0 +1,30 @@
+{
+  "stem": "A company collected data for the number of text messages sent and received using a text-message application since October 2011. The table shows the number of text messages sent and received in billions over time. The data can be modeled by a quadratic function.\n\nText Messages\n\n| Number of Months since October 2011, t | Number of Text Messages, n(t) (billions) |\n|-----------------------------------------|------------------------------------------|\n| 5                                       | 3                                        |\n| 10                                      | 10                                       |\n| 15                                      | 17                                       |\n| 20                                      | 27                                       |\n| 25                                      | 44                                       |\n| 30                                      | 64                                       |\n| 35                                      | 86                                       |\n| 40                                      | 112                                      |\n\nWhich function best models the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "n(t) = -0.002t^2 + 0.55t + 5.02"
+    },
+    {
+      "label": "B",
+      "text": "n(t) = 0.072t^2 - 0.15t + 2.73"
+    },
+    {
+      "label": "C",
+      "text": "n(t) = -0.002t^2 + 5.02"
+    },
+    {
+      "label": "D",
+      "text": "n(t) = 0.072t^2 + 2.73"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with text messages data"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

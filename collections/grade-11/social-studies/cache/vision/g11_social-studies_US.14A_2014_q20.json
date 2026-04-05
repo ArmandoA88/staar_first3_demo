@@ -1,0 +1,30 @@
+{
+  "stem": "Which numbered pair of phrases best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(1) Increased urban decay; (2) Increased leisure time"
+    },
+    {
+      "label": "G",
+      "text": "(1) Increased demand for housing; (2) Increased deforestation"
+    },
+    {
+      "label": "H",
+      "text": "(1) Increased demand for automobiles; (2) Increased labor union membership"
+    },
+    {
+      "label": "J",
+      "text": "(1) Increased immigration; (2) Increased racial tension"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Post-World War II baby boom \u2192 1 \u2192 Expansion of population into suburban areas \u2192 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

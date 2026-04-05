@@ -1,0 +1,45 @@
+{
+  "stem": "The graph of a linear function is shown on the grid.\n\nCreate an equation that represents the relationship shown on the graph.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "-4"
+    },
+    {
+      "label": null,
+      "text": "-\\frac{3}{2}"
+    },
+    {
+      "label": null,
+      "text": "-\\frac{2}{3}"
+    },
+    {
+      "label": null,
+      "text": "\\frac{2}{3}"
+    },
+    {
+      "label": null,
+      "text": "\\frac{3}{2}"
+    },
+    {
+      "label": null,
+      "text": "6"
+    }
+  ],
+  "choice_pool": [
+    "-4",
+    "-\\frac{3}{2}",
+    "-\\frac{2}{3}",
+    "\\frac{2}{3}",
+    "\\frac{3}{2}",
+    "6"
+  ],
+  "response_template": "y = [blank_1] x + [blank_2]",
+  "visual_elements": [
+    "graph of linear function on a grid showing a line passing through points (-6,-9) and (3,6)"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

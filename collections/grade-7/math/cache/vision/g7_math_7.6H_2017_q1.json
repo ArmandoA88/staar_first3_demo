@@ -1,0 +1,30 @@
+{
+  "stem": "Mari bought 6 packets of tomato seeds. Each packet contained 24 seeds. She planted 1 packet of the seeds, and 15 seeds sprouted.\n\nWhich statement about the seeds in the remaining packets is best supported by this information?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "No more than 50 seeds will sprout."
+    },
+    {
+      "label": "B",
+      "text": "Between 50 and 100 seeds will sprout."
+    },
+    {
+      "label": "C",
+      "text": "At least 100 but no more than 120 seeds will sprout."
+    },
+    {
+      "label": "D",
+      "text": "All 120 seeds will sprout."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "A deck of cards contains 12 cards with letters and 16 cards with numbers. A card is pulled from the deck at random and replaced. This process is carried out 14 times.\n\nWhat is a reasonable prediction for the number of times a card with a letter should be chosen?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10"
+    },
+    {
+      "label": "B",
+      "text": "2"
+    },
+    {
+      "label": "C",
+      "text": "6"
+    },
+    {
+      "label": "D",
+      "text": "12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A circle with the letter A next to the choice 10",
+    "A circle with the letter B next to the choice 2",
+    "A circle with the letter C next to the choice 6",
+    "A circle with the letter D next to the choice 12"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

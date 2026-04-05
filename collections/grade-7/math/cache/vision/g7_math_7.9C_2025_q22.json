@@ -1,0 +1,30 @@
+{
+  "stem": "A composite figure is made up of two rectangles. The figure and its dimensions in meters are shown in the diagram.\n\nWhat is the area of the composite figure in square meters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "52 m\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "113 m\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "134 m\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "143 m\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Composite figure made of two rectangles with dimensions: top rectangle length 13 m, right side length 6 m; lower rectangle width 8 m, height 7 m."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

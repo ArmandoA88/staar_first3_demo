@@ -1,0 +1,30 @@
+{
+  "stem": "Why did Congress honor this woman by putting her on a coin?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Because she was an influential First Lady"
+    },
+    {
+      "label": "G",
+      "text": "Because she designed the nation\u2019s first flag"
+    },
+    {
+      "label": "H",
+      "text": "Because she fought for women\u2019s suffrage"
+    },
+    {
+      "label": "J",
+      "text": "Because she was the first woman elected to Congress"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Susan B. Anthony Dollar coin image"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": "Question about historical recognition of Susan B. Anthony on a coin."
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *campaigns* to campaign's"
+    },
+    {
+      "label": "B",
+      "text": "Change *advertisements* to advertizements"
+    },
+    {
+      "label": "C",
+      "text": "Change *realized* to realizing"
+    },
+    {
+      "label": "D",
+      "text": "Delete the comma after *qualifications*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

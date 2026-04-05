@@ -1,0 +1,30 @@
+{
+  "stem": "An exponential function has these characteristics:\n\n\u2022 The y-intercept is 2.\n\n\u2022 The function increases at a rate of 50%.\n\nWhich graph best represents this function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph of a curve that passes near y=1 at x=0 and increases gradually upwards."
+    },
+    {
+      "label": "B",
+      "text": "Graph of a curve starting high on y-axis and decreasing rapidly towards x-axis."
+    },
+    {
+      "label": "C",
+      "text": "Graph of a curve passing y=2 at x=0 and increasing gradually upwards."
+    },
+    {
+      "label": "D",
+      "text": "Graph of a curve starting high on y-axis and decreasing rapidly towards x-axis."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graphs A, B, C, and D each showing exponential-like curves on coordinate grids with x ranging -4 to 4 and y ranging 0 to 8."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Stem and options preserve wording and math as shown. Graph C shows y-intercept at 2 and an increasing curve, best matching criteria."
+}

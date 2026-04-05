@@ -1,0 +1,31 @@
+{
+  "stem": "Which situation can be represented by this equation?\n\n18x = 19 + 12x",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Krystal reads 12 pages per hour. Jondo reads 18 pages per hour. How many hours, x, would it take for Krystal and Jondo to read the same number of pages?"
+    },
+    {
+      "label": "G",
+      "text": "Krystal paid a deposit of $19 plus $18 per hour to rent a dining room at a restaurant. Jondo paid $12 per hour to rent a dining room at a restaurant. How many hours, x, would it take for Krystal and Jondo to pay the same amount of money?"
+    },
+    {
+      "label": "H",
+      "text": "Krystal installs 12 tiles per hour. Jondo installs 19 tiles per hour and started with 18 tiles already installed. How many hours, x, would it take for Krystal and Jondo to install the same number of tiles?"
+    },
+    {
+      "label": "J",
+      "text": "Krystal can make $18 per hour by tutoring. Jondo can make $12 per hour by tutoring. Jondo already has $19. How many hours, x, would Krystal and Jondo need to tutor for them to have the same amount of money?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "18x = 19 + 12x",
+    "Choices: F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

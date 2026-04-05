@@ -1,0 +1,40 @@
+{
+  "stem": "The altitude of an airplane is changing at a constant rate. The table shows the linear relationship between y, the altitude of the airplane in feet, and x, the time in minutes.\n\nAirplane's Altitude\n\n| Time, x (minutes) | Altitude, y (feet) |\n|-------------------|--------------------|\n| 1.5               | 25,500             |\n| 3.25              | 20,250             |\n| 6                 | 12,000             |",
+  "instruction": "Complete the statement that describes the rate of change of the altitude of the airplane with respect to time.\n\nChoose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [
+    {
+      "label": null,
+      "text": "increasing"
+    },
+    {
+      "label": null,
+      "text": "decreasing"
+    },
+    {
+      "label": null,
+      "text": "4,000"
+    },
+    {
+      "label": null,
+      "text": "5,000"
+    },
+    {
+      "label": null,
+      "text": "7,000"
+    }
+  ],
+  "choice_pool": [
+    "increasing",
+    "decreasing",
+    "4,000",
+    "5,000",
+    "7,000"
+  ],
+  "response_template": "The altitude of the airplane [blank_1] at a rate of [blank_2] feet per minute.",
+  "visual_elements": [
+    "table with headings Time, x (minutes) and Altitude, y (feet) with values (1.5, 25,500), (3.25, 20,250), (6, 12,000)"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.98,
+  "notes": "Drop-down menus correspond to words describing direction (increasing/decreasing) and numeric rate of change in feet per minute."
+}

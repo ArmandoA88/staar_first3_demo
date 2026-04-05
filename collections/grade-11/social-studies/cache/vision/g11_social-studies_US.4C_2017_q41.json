@@ -1,0 +1,30 @@
+{
+  "stem": "This cartoon depicts President Woodrow Wilson calling on Congress to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "ratify the Treaty of Versailles"
+    },
+    {
+      "label": "B",
+      "text": "issue a declaration of war against Germany"
+    },
+    {
+      "label": "C",
+      "text": "authorize the use of funds to support Russian revolutionaries"
+    },
+    {
+      "label": "D",
+      "text": "enact trade sanctions against Germany"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cartoon of Woodrow Wilson seated, writing a paper titled 'CONGRESS CALLED TO CONVENE APRIL 2' with a document on his knee titled 'AMERICAN SHIPS SUNK WITHOUT WARNING\u2014AMERICAN LINES LOSE'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Melissa is saving $25 that she earned for washing her mom\u2019s car. She earns $10 every week for doing chores, which she also saves.\n\nWhich function can be used to find t, the amount of money Melissa will have saved at the end of n weeks of doing chores?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "t = 10n + 25"
+    },
+    {
+      "label": "B",
+      "text": "t = 25n + 10"
+    },
+    {
+      "label": "C",
+      "text": "t = 35n"
+    },
+    {
+      "label": "D",
+      "text": "t = 15n"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

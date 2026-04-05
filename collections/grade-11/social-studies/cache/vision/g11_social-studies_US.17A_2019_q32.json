@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence completes this cause-and-effect diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The government reduces its use of propaganda."
+    },
+    {
+      "label": "G",
+      "text": "The level of industrial production increases."
+    },
+    {
+      "label": "H",
+      "text": "The government reduces its use of rationing programs."
+    },
+    {
+      "label": "J",
+      "text": "The unemployment rate increases."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The United States enters World War II. -> National defense spending increases. -> ?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which headline provides the best example of a civic duty?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Jurors Return Verdict in Robbery Case"
+    },
+    {
+      "label": "B",
+      "text": "Company Donates $1 Million to Japan Relief Effort"
+    },
+    {
+      "label": "C",
+      "text": "Flight Attendants to Vote Next Month on Strike"
+    },
+    {
+      "label": "D",
+      "text": "Parents Boycott City Public Schools"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four newspaper headlines labeled A, B, C, and D respectively with dates from 2008 to 2011."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

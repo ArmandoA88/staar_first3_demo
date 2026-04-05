@@ -1,0 +1,30 @@
+{
+  "stem": "The number of stores opened by a coffee company can be modeled by the exponential function graphed on the grid, where x is the number of years since 1992.\n\nBased on the graph, which statement does not appear to be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The coffee company had opened 400 stores by the end of 1992."
+    },
+    {
+      "label": "G",
+      "text": "The coffee company opened 100 stores in one year."
+    },
+    {
+      "label": "H",
+      "text": "Every year the number of stores the coffee company opened increased by 25%."
+    },
+    {
+      "label": "J",
+      "text": "Since 1992 the coffee company has opened 250 stores each year."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with x-axis labeled 'Number of Years Since 1992' ranging from 0 to 10 and y-axis labeled 'Number of Stores' ranging from 0 to 2400, showing an exponential curve starting near 400 when x=0 and rising steeply as x increases."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Which statement about the function \\(n(x) = 5x^2 - 20x + 12\\) is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The domain of the function is x \\geq 2."
+    },
+    {
+      "label": "B",
+      "text": "The range of the function is \\(n(x) \\geq -8\\)."
+    },
+    {
+      "label": "C",
+      "text": "The domain of the function is x \\geq 0."
+    },
+    {
+      "label": "D",
+      "text": "The range of the function is \\(n(x) \\leq 12\\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "function formula n(x) = 5x^2 - 20x + 12",
+    "inequality symbols \\geq and \\leq"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

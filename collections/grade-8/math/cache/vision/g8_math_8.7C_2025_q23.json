@@ -1,0 +1,22 @@
+{
+  "stem": "Wood pieces that were used to build the frame of a kite are shown.\n\nWhat are the measures of the missing vertical length, v, and the missing side length, p, in inches?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "5",
+    "6",
+    "13",
+    "17",
+    "18",
+    "23",
+    "33",
+    "36"
+  ],
+  "response_template": "The measure of the missing vertical length, v, is [blank_1] inches, and the measure of the missing side length, p, is [blank_2] inches.",
+  "visual_elements": [
+    "kite frame diagram with lengths 10 in, 8 in, 15 in, missing v and p labeled"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

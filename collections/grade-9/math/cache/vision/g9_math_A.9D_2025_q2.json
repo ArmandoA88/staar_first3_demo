@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement is best represented by the graph of the function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The equation of the asymptote of the graph is \\( x = 4 \\)."
+    },
+    {
+      "label": "B",
+      "text": "The function is increasing on the interval \\( x > 0 \\) and decreasing on the interval \\( x < 0 \\)."
+    },
+    {
+      "label": "C",
+      "text": "The x-intercept of the graph of the function is \\( (8, 0) \\)."
+    },
+    {
+      "label": "D",
+      "text": "The y-intercept of the graph of the function is \\( (0, 3) \\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of an exponential function with vertical asymptote at x=0, decreasing from y=13 at x=-1 down to near y=0 as x approaches positive 4."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 0.95,
+  "notes": "Options preserved with visible math; asymptote is vertical line x=0, none of the options states this correctly."
+}

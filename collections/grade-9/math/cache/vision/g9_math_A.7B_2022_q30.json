@@ -1,0 +1,28 @@
+{
+  "stem": "Given f(x) = x^2 - 36, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The only zero, 6 , can be found when 0 = (x - 6)(x - 6)."
+    },
+    {
+      "label": "G",
+      "text": "The only zero, 18, can be found when 0 = (x - 18)(x - 18)."
+    },
+    {
+      "label": "H",
+      "text": "The zeros, -6 and 6, can be found when 0 = (x + 6)(x - 6)."
+    },
+    {
+      "label": "J",
+      "text": "The zeros, -18 and 18, can be found when 0 = (x + 18)(x - 18)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

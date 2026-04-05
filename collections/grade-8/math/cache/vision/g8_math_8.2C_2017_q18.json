@@ -1,0 +1,35 @@
+{
+  "stem": "The mass of a textbook is approximately 0.00165 metric ton. How is this number written in scientific notation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "165 \\times 10^{-5}"
+    },
+    {
+      "label": "G",
+      "text": "1.65 \\times 10^{-3}"
+    },
+    {
+      "label": "H",
+      "text": "16.5 \\times 10^{-4}"
+    },
+    {
+      "label": "J",
+      "text": "0.165 \\times 10^{-2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 - Q18",
+    "18",
+    "F  165 \\times 10^{-5}",
+    "G  1.65 \\times 10^{-3}",
+    "H  16.5 \\times 10^{-4}",
+    "J  0.165 \\times 10^{-2}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

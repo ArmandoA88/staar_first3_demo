@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 27?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change privilage to **privilege**"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma"
+    },
+    {
+      "label": "H",
+      "text": "Change it to **they**"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bold text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

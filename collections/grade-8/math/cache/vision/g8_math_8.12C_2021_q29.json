@@ -1,0 +1,30 @@
+{
+  "stem": "A teacher opened an investment account at a bank. At the end of each year, the bank paid 6.4% annual simple interest on the money in the account. The table shows the activity in the account for three years.\n\nInvestment Account Activity\n\n| Year | Beginning Balance for Year | Amount Deposited at Beginning of Year | New Balance | Interest Rate | Interest Earned | Ending Balance for Year |\n|-------|----------------------------|--------------------------------------|-------------|---------------|-----------------|-------------------------|\n| 1     | $0.00                      | $500.00                              | $500.00     | 6.4%          | $32.00          | $532.00                 |\n| 2     | $532.00                    | $500.00                              | $1,032.00   | 6.4%          | $66.05          | $1,098.05               |\n| 3     | $1,098.05                  | $500.00                              | $1,598.05   | 6.4%          | $102.28         | $1,700.33               |",
+  "instruction": "Which statement explains why the balance in this account has grown?",
+  "options": [
+    {
+      "label": "A",
+      "text": "The balance in the account has grown only because regular deposits were made to the account."
+    },
+    {
+      "label": "B",
+      "text": "The balance in the account has grown because regular deposits were made to the account and interest was earned on the previous year's balance."
+    },
+    {
+      "label": "C",
+      "text": "The balance in the account has grown only because interest was earned on the account."
+    },
+    {
+      "label": "D",
+      "text": "There is not enough information to determine why the balance in the account has grown."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing investment activity with columns Year, Beginning Balance for Year, Amount Deposited at Beginning of Year, New Balance, Interest Rate, Interest Earned, Ending Balance for Year"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

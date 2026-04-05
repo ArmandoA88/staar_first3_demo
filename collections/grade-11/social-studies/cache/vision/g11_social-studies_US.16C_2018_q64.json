@@ -1,0 +1,30 @@
+{
+  "stem": "Which action completes this cause-and-effect diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Banks lower interest rates"
+    },
+    {
+      "label": "G",
+      "text": "Elected leaders lower tariff rates"
+    },
+    {
+      "label": "H",
+      "text": "Companies lay off employees"
+    },
+    {
+      "label": "J",
+      "text": "Labor unions demand higher wages"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Consumers are unable to continue making payments on installment plans \u2192 Demand for consumer goods declines \u2192 Manufacturers reduce production \u2192 ?"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

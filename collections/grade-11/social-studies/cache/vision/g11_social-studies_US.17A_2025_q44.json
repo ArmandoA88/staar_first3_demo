@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the poster and your knowledge of U.S. history, which factor explains the decreased availability of certain foods during this time period?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The conversion of most U.S. farm tractors into tanks and other military vehicles"
+    },
+    {
+      "label": "B",
+      "text": "The enforcement of rationing to ensure that the U.S. military was properly supplied"
+    },
+    {
+      "label": "C",
+      "text": "The suspension of U.S. trade with Japan following the attack on Pearl Harbor"
+    },
+    {
+      "label": "D",
+      "text": "The destruction of U.S. farms and agricultural storage facilities by German bombers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Poster with text: 'We'll have lots to eat this winter, won't we Mother?' and 'Grow your own Can your own' showing a woman and child with jars of canned food."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 0.99,
+  "notes": null
+}

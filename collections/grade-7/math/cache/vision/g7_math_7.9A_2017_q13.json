@@ -1,0 +1,30 @@
+{
+  "stem": "Two identical number cubes are shown in the picture. The edge length of these number cubes is 3 centimeters.\n\nWhat is the combined volume of the two number cubes in cubic centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "54 cm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "18 cm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "9 cm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "27 cm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two identical number cubes with visible dots"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

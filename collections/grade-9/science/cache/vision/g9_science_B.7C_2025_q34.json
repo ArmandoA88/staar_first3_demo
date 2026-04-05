@@ -1,0 +1,31 @@
+{
+  "stem": "A base sequence of the DNA from a gene is shown.\n\nATC GGC TA\n\nDue to a mutation, the base sequence was changed as shown.\n\nATT GGC TA\n\nWhich type of mutation has occurred in the gene?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Deletion"
+    },
+    {
+      "label": "B",
+      "text": "Substitution"
+    },
+    {
+      "label": "C",
+      "text": "Insertion"
+    },
+    {
+      "label": "D",
+      "text": "Translocation"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "ATC GGC TA",
+    "ATT GGC TA"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

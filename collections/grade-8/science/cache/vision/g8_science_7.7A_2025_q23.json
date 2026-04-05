@@ -1,0 +1,28 @@
+{
+  "stem": "A car traveled a distance of 100 kilometers in 1 hour. The car stopped for 1 h and then traveled an additional 140 km in 2 h.\n\nWhat was the average speed of the car in kilometers per hour over the course of the entire trip, including when the car was stopped?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "60 km/h"
+    },
+    {
+      "label": "B",
+      "text": "80 km/h"
+    },
+    {
+      "label": "C",
+      "text": "85 km/h"
+    },
+    {
+      "label": "D",
+      "text": "120 km/h"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

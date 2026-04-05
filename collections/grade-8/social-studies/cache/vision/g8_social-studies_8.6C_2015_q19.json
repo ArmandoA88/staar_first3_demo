@@ -1,0 +1,32 @@
+{
+  "stem": "Which map shows the boundaries of the United States just after the Treaty of Guadalupe Hidalgo?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Map with United States, Foreign territory, and Disputed area keyed; western part shaded as Foreign territory and Disputed area."
+    },
+    {
+      "label": "B",
+      "text": "Map with United States, Foreign territory, and Disputed area keyed; western part shaded mostly as Foreign territory."
+    },
+    {
+      "label": "C",
+      "text": "Map with United States and Foreign territory keyed; western part mixed but not showing Disputed area."
+    },
+    {
+      "label": "D",
+      "text": "Map showing only United States with all states shaded as such."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four maps labeled A, B, C, D showing different boundary demarcations of the United States.",
+    "Each map includes a compass rose for orientation (N, W, E, S).",
+    "Legends with key for United States, Foreign territory, and Disputed area as applicable."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Wording and math preserved exactly; map details summarized for options as text due to visual nature."
+}

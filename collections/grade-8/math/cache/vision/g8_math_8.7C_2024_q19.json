@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram represents a side view of a roof in the shape of a right triangle.\n\nWhich measurement is closest to the length of the roof in feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5.1 ft"
+    },
+    {
+      "label": "B",
+      "text": "16.1 ft"
+    },
+    {
+      "label": "C",
+      "text": "26.0 ft"
+    },
+    {
+      "label": "D",
+      "text": "19.7 ft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "right triangle with base labeled 18 ft, height labeled 8 ft, hypotenuse labeled Roof"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

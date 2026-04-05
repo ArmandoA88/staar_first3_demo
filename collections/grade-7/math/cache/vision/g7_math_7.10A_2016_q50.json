@@ -1,0 +1,28 @@
+{
+  "stem": "Jeff bought a bottle of water for $2. He also bought some hot dogs for $3 each. Jeff did not spend more than $14 on the hot dogs and the bottle of water. Which inequality can be used to find h, the number of hot dogs that Jeff could have bought?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3h - 2 \\u2264 14"
+    },
+    {
+      "label": "G",
+      "text": "3h + 2 \\u2264 14"
+    },
+    {
+      "label": "H",
+      "text": "3h - 2 \\u2265 14"
+    },
+    {
+      "label": "J",
+      "text": "3h + 2 \\u2265 14"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

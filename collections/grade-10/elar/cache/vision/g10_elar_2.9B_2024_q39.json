@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence can BEST follow and support sentence 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He suddenly realized that his phone was still on his grandfather\u2019s kitchen table."
+    },
+    {
+      "label": "B",
+      "text": "His other pockets were usually full, with items such as change, paper clips, and rubber bands."
+    },
+    {
+      "label": "C",
+      "text": "Amir began to wonder if the street signs in this town would be large and clear."
+    },
+    {
+      "label": "D",
+      "text": "His phone had the latest version of a navigation app, and he was quite eager to try it out."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the range of y = -x^2 - 2x + 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x \\leq 4"
+    },
+    {
+      "label": "B",
+      "text": "x \\geq -4"
+    },
+    {
+      "label": "C",
+      "text": "y \\leq 4"
+    },
+    {
+      "label": "D",
+      "text": "y \\geq -4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = -x^2 - 2x + 3"
+  ],
+  "item_type_inferred": "mcq",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A genetic cross involving two unlinked genes is represented.\n\nAaGG x aaGg\n\nWhich genotype is NOT possible in the offspring produced by the cross?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "AaGG"
+    },
+    {
+      "label": "B",
+      "text": "Aagg"
+    },
+    {
+      "label": "C",
+      "text": "aaGg"
+    },
+    {
+      "label": "D",
+      "text": "aaGG"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "AaGG x aaGg"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

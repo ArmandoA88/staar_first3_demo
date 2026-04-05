@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution to the equation 4 + \\frac{1}{2}x - 8 = 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = 4"
+    },
+    {
+      "label": "B",
+      "text": "x = 8"
+    },
+    {
+      "label": "C",
+      "text": "x = 16"
+    },
+    {
+      "label": "D",
+      "text": "x = 32"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation 4 + \\frac{1}{2}x - 8 = 12"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

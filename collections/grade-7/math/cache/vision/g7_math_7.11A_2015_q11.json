@@ -1,0 +1,33 @@
+{
+  "stem": "The model represents an equation. What value of x makes the equation true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3"
+    },
+    {
+      "label": "B",
+      "text": "8"
+    },
+    {
+      "label": "C",
+      "text": "6"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two long rectangles equal x",
+    "Small squares equal 1",
+    "Equation model with 2 x's and 5 ones on left side",
+    "Equation model with 14 ones on right side"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after large"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after artwork"
+    },
+    {
+      "label": "C",
+      "text": "Change to be to will be"
+    },
+    {
+      "label": "D",
+      "text": "Change appreciated to apreciated"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

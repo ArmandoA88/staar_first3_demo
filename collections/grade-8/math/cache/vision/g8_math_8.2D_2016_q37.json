@@ -1,0 +1,30 @@
+{
+  "stem": "Which list shows the numbers below in order from least to greatest?\n\n5.78, -5.9, 58%, -\\frac{23}{4}",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-5.9, -\\frac{23}{4}, 5.78, 58%"
+    },
+    {
+      "label": "B",
+      "text": "-\\frac{23}{4}, -5.9, 58%, 5.78"
+    },
+    {
+      "label": "C",
+      "text": "-5.9, -\\frac{23}{4}, 58%, 5.78"
+    },
+    {
+      "label": "D",
+      "text": "58%, -\\frac{23}{4}, 5.78, -5.9"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-\\frac{23}{4}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

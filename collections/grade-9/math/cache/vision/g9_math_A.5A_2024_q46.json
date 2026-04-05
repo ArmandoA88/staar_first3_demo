@@ -1,0 +1,34 @@
+{
+  "stem": "What is the solution to the equation 7w - 2(w - 9) = 4 - 8(w + 2)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "w = -\\frac{26}{9}"
+    },
+    {
+      "label": "B",
+      "text": "w = -\\frac{10}{9}"
+    },
+    {
+      "label": "C",
+      "text": "w = \\frac{15}{13}"
+    },
+    {
+      "label": "D",
+      "text": "w = -\\frac{30}{13}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Equation: 7w - 2(w - 9) = 4 - 8(w + 2)",
+    "Option A: w = -26/9",
+    "Option B: w = -10/9",
+    "Option C: w = 15/13",
+    "Option D: w = -30/13"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

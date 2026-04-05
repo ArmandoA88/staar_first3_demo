@@ -1,0 +1,30 @@
+{
+  "stem": "This painting shares a common theme with which literary work?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\"The Tell-Tale Heart,\" by Edgar Allan Poe"
+    },
+    {
+      "label": "B",
+      "text": "The Scarlet Letter, by Nathaniel Hawthorne"
+    },
+    {
+      "label": "C",
+      "text": "\"Paul Revere's Ride,\" by Henry Wadsworth Longfellow"
+    },
+    {
+      "label": "D",
+      "text": "Nature, by Ralph Waldo Emerson"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Niagara Falls, Thomas Cole, 1830 - painting image"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

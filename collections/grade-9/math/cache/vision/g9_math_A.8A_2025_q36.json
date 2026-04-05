@@ -1,0 +1,22 @@
+{
+  "stem": "What are the solutions to the equation \\((2x + 1)^2 = 25\\)?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "-5",
+    "-3",
+    "-2",
+    "2",
+    "3",
+    "5"
+  ],
+  "response_template": "x = [blank_1]\nx = [blank_2]",
+  "visual_elements": [
+    "(2x + 1)^2 = 25",
+    "x = _____",
+    "x = _____"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

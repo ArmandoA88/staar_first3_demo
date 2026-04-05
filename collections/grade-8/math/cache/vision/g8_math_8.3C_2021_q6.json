@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle TRW is shown on the coordinate grid.\n\nTriangle TRW will be dilated by a scale factor of n with the origin as the center of dilation to create triangle T'R'W'. Which ordered pair best represents the location of point R'?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\left(-\\frac{3}{n}, -\\frac{5}{n}\\right)"
+    },
+    {
+      "label": "G",
+      "text": "(-3n, -5n)"
+    },
+    {
+      "label": "H",
+      "text": "(-3 + n, -5 + n)"
+    },
+    {
+      "label": "J",
+      "text": "(-3 - n, -5 - n)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid showing triangle with vertices T(-3,6), R(-3,-5), and W(4,-5)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

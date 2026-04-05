@@ -1,0 +1,30 @@
+{
+  "stem": "Which rule describes the transformation applied to quadrilateral \\( TUVW \\) to create quadrilateral \\( T' U' V' W' \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\((x, y) \\to (x + 6, y + 2)\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\((x, y) \\to (x - 6, y + 2)\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\((x, y) \\to (x + 6, y - 2)\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\((x, y) \\to (x - 6, y - 2)\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing quadrilaterals TUVW and T'U'V'W' on coordinate grid with labeled vertices."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

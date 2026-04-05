@@ -1,0 +1,31 @@
+{
+  "stem": "Which quadratic function in vertex form can be represented by the graph that has a vertex at \\( (1, 46) \\) and passes through the point \\( (3, 10) \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( y = 9(x - 3)^{2} + 10 \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( y = 9(x - 1)^{2} + 46 \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( y = -9(x - 3)^{2} + 10 \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( y = -9(x - 1)^{2} + 46 \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "vertex at (1, 46)",
+    "passes through the point (3, 10)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

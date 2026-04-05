@@ -1,0 +1,30 @@
+{
+  "stem": "A function is shown.\n\nf(x) = 7 - 4x\n\nWhat is the value of f(-5)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "27"
+    },
+    {
+      "label": "B",
+      "text": "-13"
+    },
+    {
+      "label": "C",
+      "text": "-15"
+    },
+    {
+      "label": "D",
+      "text": "140"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "f(x) = 7 - 4x"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

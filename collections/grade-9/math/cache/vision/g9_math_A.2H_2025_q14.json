@@ -1,0 +1,28 @@
+{
+  "stem": "A baker wants to order apples and blueberries to make pies. Apples cost $2.50 per pound, and blueberries cost $3.00 per pound. The baker does not want to spend more than $75.00.\n\nWhich inequality represents all possible combinations of x, the number of pounds of apples, and y, the number of pounds of blueberries, that the baker can order?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5.5x + 5.5y \u2265 75"
+    },
+    {
+      "label": "B",
+      "text": "2.5x + 3y \u2264 75"
+    },
+    {
+      "label": "C",
+      "text": "3x + 2.5y \u2264 75"
+    },
+    {
+      "label": "D",
+      "text": "2.5x + 3y \u2265 75"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

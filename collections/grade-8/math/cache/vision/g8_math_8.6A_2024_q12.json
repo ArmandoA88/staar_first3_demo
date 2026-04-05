@@ -1,0 +1,28 @@
+{
+  "stem": "A cylindrical swimming pool has a radius of 9 feet and a height of 4 ft. Which equation can be used to find V, the volume of the swimming pool in cubic feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "V = 2 (9) (4)"
+    },
+    {
+      "label": "B",
+      "text": "V = (9)^{2} (4)"
+    },
+    {
+      "label": "C",
+      "text": "V = \\pi (9)^{2} (4)"
+    },
+    {
+      "label": "D",
+      "text": "V = 2\\pi (9) (4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

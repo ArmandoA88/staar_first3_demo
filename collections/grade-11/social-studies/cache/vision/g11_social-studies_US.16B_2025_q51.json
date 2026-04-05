@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt and your knowledge of U.S. history, how did this practice lead to the stock-market crash of 1929?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Investors withdrew their stock sale profits from banks, causing multiple failures."
+    },
+    {
+      "label": "B",
+      "text": "Investors bought shares in small companies, which encouraged business spending."
+    },
+    {
+      "label": "C",
+      "text": "Investors paid taxes to the government based on the number of shares sold."
+    },
+    {
+      "label": "D",
+      "text": "Investors created a false sense of prosperity before selling their stocks at inflated prices."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "At the start of the business day, [Michael J.] Meehan sold 200 shares of Radio stock at its opening price of $94.50 (94 1/2). His friend sold the same 200 shares to another friend at $95 a share. The next sale of the same stocks was at $96.00, followed by $97.50, before Meehan bought back his original shares at $98.25 each. . . .\n\n. . . By the end of March, [Radio] was selling for $195.00\u2014a gain of $100 from the opening price of March 3rd. Now, Meehan and his friends sold their shares of [Radio] and split a profit of $10 million between them.\n\n\u2014Thomas Ladenburg, Digital History"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Quadrilateral PRST is transformed according to the rule \\((x, y) \\to (x + 9, y + 4)\\) to create quadrilateral \\(P'R'S'T'\\). Which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The side lengths of quadrilateral \\(P'R'S'T'\\) are twice the corresponding side lengths of quadrilateral \\(PRST\\)."
+    },
+    {
+      "label": "B",
+      "text": "The angle measures of quadrilateral \\(P'R'S'T'\\) are equal to the corresponding angle measures of quadrilateral \\(PRST\\)."
+    },
+    {
+      "label": "C",
+      "text": "The side lengths of quadrilateral \\(P'R'S'T'\\) are 9 units longer than the corresponding side lengths of quadrilateral \\(PRST\\)."
+    },
+    {
+      "label": "D",
+      "text": "The angle measures of quadrilateral \\(P'R'S'T'\\) are greater than the corresponding angle measures of quadrilateral \\(PRST\\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with quadrilateral PRST plotted on coordinate plane with vertices at P(-5,4), R(-2,3), S(0,0), and T(-6,0)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

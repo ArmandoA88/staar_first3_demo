@@ -1,0 +1,30 @@
+{
+  "stem": "This 1917 illustration was published as a commentary on a proposed piece of legislation. Which of the following best replaces the question mark in the illustration?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sundry Civil Bill"
+    },
+    {
+      "label": "G",
+      "text": "Dyer Anti-Lynching Bill"
+    },
+    {
+      "label": "H",
+      "text": "Standard Time Act"
+    },
+    {
+      "label": "J",
+      "text": "Espionage Act"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1917 illustration with Statue of Liberty holding a torch labeled 'ENLIGHTENMENT' and a question mark over the arm holding the torch"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

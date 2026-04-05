@@ -1,0 +1,32 @@
+{
+  "stem": "Maya has 120 caramel apples to sell. Each caramel apple is covered with one topping.\n\n\u2022 \\(\\frac{1}{5}\\) of the caramel apples are covered with peanuts.\n\u2022 \\(\\frac{1}{3}\\) are covered with chocolate chips.\n\u2022 \\(\\frac{3}{10}\\) are covered with coconut.\n\u2022 The rest are covered with sprinkles.\n\nHow many caramel apples are covered with sprinkles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "100"
+    },
+    {
+      "label": "B",
+      "text": "33"
+    },
+    {
+      "label": "C",
+      "text": "25"
+    },
+    {
+      "label": "D",
+      "text": "20"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\(\\frac{1}{5}\\)",
+    "\\(\\frac{1}{3}\\)",
+    "\\(\\frac{3}{10}\\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

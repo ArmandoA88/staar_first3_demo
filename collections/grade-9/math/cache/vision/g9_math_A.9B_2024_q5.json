@@ -1,0 +1,30 @@
+{
+  "stem": "An investor deposited money into an investment account that earns interest compounded annually. The function shown models the amount of money in the account in dollars after t years.\n\nA(t) = 1,550(1.02)^t\n\nWhich statement best interprets one value in the function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The initial deposit in the investment account was $1,581."
+    },
+    {
+      "label": "B",
+      "text": "The amount of money in the investment account increases 102% each year."
+    },
+    {
+      "label": "C",
+      "text": "The initial deposit in the investment account was $1,550."
+    },
+    {
+      "label": "D",
+      "text": "The amount of money in the investment account decreases 2% each year."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A(t) = 1,550(1.02)^t"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

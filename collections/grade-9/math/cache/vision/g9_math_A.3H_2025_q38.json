@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents the solution set for the system of inequalities?\n\n\\[ y < x + 4 \\]\n\n\\[ y \\leq -2x - 2 \\]",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with shaded area below the line y = x + 4 and above the line y = -2x - 2, shaded area in lower left quadrant"
+    },
+    {
+      "label": "B",
+      "text": "Graph with shaded area above the line y = x + 4 and above the line y = -2x - 2, shaded area in upper left quadrant"
+    },
+    {
+      "label": "C",
+      "text": "Graph with shaded area below the line y = x + 4 and below the line y = -2x - 2, shaded area in lower left quadrant"
+    },
+    {
+      "label": "D",
+      "text": "Graph with shaded area above the line y = x + 4 and below the line y = -2x - 2, shaded area in upper right quadrant"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled A, B, C, and D, each with lines and shaded regions corresponding to the inequalities"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Graphs show different regions shaded according to the system of inequalities; option A looks to be the correct representation."
+}

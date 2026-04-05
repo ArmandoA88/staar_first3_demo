@@ -1,0 +1,36 @@
+{
+  "stem": "A family makes homemade pickles. They pack the pickles at a rate of 80 pickles per 5 jars.\n\nWhich answer choices best represent packing y pickles in x jars at that rate?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "y = 16x"
+    },
+    {
+      "label": null,
+      "text": "y = \\frac{1}{16}x"
+    },
+    {
+      "label": null,
+      "text": "Homemade Pickles\n\n| Number of Jars, x | Number of Pickles, y |\n|-------------------|---------------------|\n| 6                 | 160                 |\n| 7                 | 240                 |\n| 8                 | 320                 |"
+    },
+    {
+      "label": null,
+      "text": "[Graph: Homemade Pickles\n y-axis labeled Number of Pickles from 0 to 80 in increments of 10\n x-axis labeled Number of Jars from 0 to 6\n Line plotted starting just after 3 on x to 5 on x and about 60 to 80 on y]"
+    },
+    {
+      "label": null,
+      "text": "[Graph: Homemade Pickles\n y-axis labeled Number of Pickles from 0 to 80 in increments of 10\n x-axis labeled Number of Jars from 0 to 6\n Line plotted from origin (0,0) to (6, 80)]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table",
+    "graph",
+    "graph"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 0.99,
+  "notes": null
+}

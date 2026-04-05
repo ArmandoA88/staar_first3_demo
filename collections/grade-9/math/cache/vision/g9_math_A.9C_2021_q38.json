@@ -1,0 +1,30 @@
+{
+  "stem": "The table represents some points on the graph of an exponential function.\n\n| x | f(x)  |\n|---|-------|\n| 2 | 36    |\n| 3 | 54    |\n| 4 | 81    |\n| 5 | 121.5 |\n| 6 | 182.25|\n\nWhich function represents this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "f(x) = 16 \\left( \\frac{3}{2} \\right)^x"
+    },
+    {
+      "label": "G",
+      "text": "f(x) = 16 \\left( \\frac{2}{3} \\right)^x"
+    },
+    {
+      "label": "H",
+      "text": "f(x) = 36 \\left( \\frac{3}{2} \\right)^x"
+    },
+    {
+      "label": "J",
+      "text": "f(x) = 36 \\left( \\frac{2}{3} \\right)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with x and f(x) values: (2,36), (3,54), (4,81), (5,121.5), (6,182.25)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

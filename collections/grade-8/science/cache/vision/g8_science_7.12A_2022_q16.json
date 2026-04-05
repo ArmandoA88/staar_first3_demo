@@ -1,0 +1,30 @@
+{
+  "stem": "A Texas Gulf Coast energy pyramid is shown with representative organisms at each trophic level.\n\nWhich statement best describes the flow of energy through this pyramid?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The trophic level represented by catfish and gobies receives energy directly from the producers."
+    },
+    {
+      "label": "G",
+      "text": "The trophic level represented by shrimp and copepods receives energy directly from the tertiary consumers."
+    },
+    {
+      "label": "H",
+      "text": "The trophic level represented by redfish and flounder receives energy directly from the secondary consumers."
+    },
+    {
+      "label": "J",
+      "text": "The trophic level represented by wire grass and phytoplankton receives energy directly from the primary consumers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Energy pyramid with four levels: \nTop level: Redfish and flounder\nSecond level: Catfish and gobies\nThird level: Shrimp and copepods\nBottom level: Wire grass and phytoplankton"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

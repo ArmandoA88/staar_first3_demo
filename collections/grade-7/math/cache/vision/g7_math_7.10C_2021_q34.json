@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation can be represented by this equation?\n\n250 + 65x = 575",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Jeremy is traveling to a location that is 575 miles away. He has already traveled 250 miles. What is x, the number of hours that Jeremy will need to travel at a speed of 65 miles per hour to reach the location?"
+    },
+    {
+      "label": "G",
+      "text": "Jeremy is traveling to a location that is 575 miles away. He has already traveled 250 miles. What is x, the number of additional miles that Jeremy will need to travel to reach the location?"
+    },
+    {
+      "label": "H",
+      "text": "Jeremy is reading a book with 575 pages. He has already read 65 pages and will read 250 pages per day. What is x, the number of days that Jeremy will need to read to finish the book?"
+    },
+    {
+      "label": "J",
+      "text": "Jeremy is reading a book with 575 pages. He has already read 315 pages. What is x, the number of pages Jeremy has left to read to finish the book?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: 250 + 65x = 575"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

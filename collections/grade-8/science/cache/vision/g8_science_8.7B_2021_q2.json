@@ -1,0 +1,30 @@
+{
+  "stem": "According to Newton\u2019s first law, what happens to the steel ball just after the box stops?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Because of friction, the ball continues rolling forward at the same speed."
+    },
+    {
+      "label": "G",
+      "text": "Because of friction, the ball rolls forward at an increased speed."
+    },
+    {
+      "label": "H",
+      "text": "Because of inertia, the ball continues rolling forward at the same speed."
+    },
+    {
+      "label": "J",
+      "text": "Because of inertia, the ball rolls forward at an increased speed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A steel ball in a rectangular box being held by two hands, an arrow pointing forward to indicate the box moving forward"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

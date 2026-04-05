@@ -1,0 +1,30 @@
+{
+  "stem": "How did President Abraham Lincoln react to the idea expressed in Jefferson Davis\u2019s inaugural address?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Lincoln stated that the argument by the South to leave the Union was unjustified."
+    },
+    {
+      "label": "G",
+      "text": "Lincoln called on the U.S. Supreme Court to make a ruling on the legality of secession."
+    },
+    {
+      "label": "H",
+      "text": "Lincoln believed the reasoning to leave the Union was protected by the Constitution."
+    },
+    {
+      "label": "J",
+      "text": "Lincoln prepared to amend the Constitution in order to appease the Southern states."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The declared purpose of the compact of Union from which we have withdrawn was \u201cto establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessing of liberty to ourselves and our posterity;\u201d and when, in the judgment of the sovereign States now composing this Confederacy, it had . . . ceased to answer the ends for which it was established, a peaceful appeal to the ballot-box declared that so far as they were concerned, the government created by that compact should cease to exist.\n\n\u2014President Jefferson Davis, inaugural address, February 18, 1861"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of 0.5x - 2y = 3 is shown on the grid.\n\nWhich ordered pair is in the solution set of 0.5x - 2y \\u2265 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(-2, 0.5)"
+    },
+    {
+      "label": "B",
+      "text": "(2, 1)"
+    },
+    {
+      "label": "C",
+      "text": "(2, -1)"
+    },
+    {
+      "label": "D",
+      "text": "(-2, -0.5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing the line 0.5x - 2y = 3 plotted on the coordinate grid"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

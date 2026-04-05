@@ -1,0 +1,30 @@
+{
+  "stem": "Shakira has an investment account that she deposits $200.00 into each year. The table shows the amount of interest she earns in dollars and the ending balance each year.\n\nShakira continues to deposit $200.00 each year and earns the same interest rate for several years. Which statement about the ending balance each year is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The balance increases by 2% of the sum of $200.00 and $204.00 every year."
+    },
+    {
+      "label": "B",
+      "text": "The balance increases by 2% of $200.00 every year."
+    },
+    {
+      "label": "C",
+      "text": "The balance increases by 2% of the prior year's ending balance."
+    },
+    {
+      "label": "D",
+      "text": "The balance increases by 2% of the sum of the prior year's ending balance and $200.00."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: Shakira's Investment Account\n| Year | Deposit (dollars) | Interest Earned (2%) (dollars) | Ending Balance (dollars) |\n|-------|------------------|-------------------------------|-------------------------|\n| 1     | 200.00           | 4.00                          | 204.00                  |\n| 2     | 200.00           | 8.08                          | 412.08                  |"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

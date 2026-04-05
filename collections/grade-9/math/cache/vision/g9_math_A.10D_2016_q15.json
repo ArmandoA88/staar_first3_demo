@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to \\(9q^2 - \\frac{2}{3}(3q - 7) + 5q^2\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "9q^2 - \\frac{5}{3} q - 3"
+    },
+    {
+      "label": "B",
+      "text": "9q^2 - 2q - 3"
+    },
+    {
+      "label": "C",
+      "text": "14q^2 - 2q + \\frac{14}{3}"
+    },
+    {
+      "label": "D",
+      "text": "14q^2 - \\frac{5}{3} q - \\frac{14}{3}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "9q^2 - \\frac{2}{3}(3q - 7) + 5q^2",
+    "A  9q^2 - \\frac{5}{3} q - 3",
+    "B  9q^2 - 2q - 3",
+    "C  14q^2 - 2q + \\frac{14}{3}",
+    "D  14q^2 - \\frac{5}{3} q - \\frac{14}{3}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

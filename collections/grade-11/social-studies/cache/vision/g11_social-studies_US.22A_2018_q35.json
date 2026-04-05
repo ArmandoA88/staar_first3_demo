@@ -1,0 +1,32 @@
+{
+  "stem": "Which of the following was implemented in 1913 to solve these problems?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Each state held party conventions in order to select senators."
+    },
+    {
+      "label": "B",
+      "text": "A national referendum was held to standardize the procedures for selecting senators."
+    },
+    {
+      "label": "C",
+      "text": "Open primaries were used to limit the choices of senators who could be confirmed by state legislatures."
+    },
+    {
+      "label": "D",
+      "text": "A constitutional amendment was ratified that required senators to be elected directly by popular vote."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\u2022 All senators were chosen by state legislatures, but states used different procedures to select them.",
+    "\u2022 Intimidation and bribery of state legislators were often used to influence the selection of senators.",
+    "\u2022 Deadlocked legislatures were often unable to select senators, leaving vacancies for several years."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

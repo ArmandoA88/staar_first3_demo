@@ -1,0 +1,30 @@
+{
+  "stem": "Julie started with 20 pieces of gum and gave away x pieces. Conrad started with 35 pieces of gum and gave away twice as many pieces as Julie did.\n\nHow many pieces of gum did Julie give away if they had the same number of pieces of gum left?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "18"
+    },
+    {
+      "label": "G",
+      "text": "5"
+    },
+    {
+      "label": "H",
+      "text": "15"
+    },
+    {
+      "label": "J",
+      "text": "8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with math expressions: 20 pieces, x pieces, 35 pieces, twice as many pieces"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

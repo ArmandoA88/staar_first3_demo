@@ -1,0 +1,30 @@
+{
+  "stem": "Which Soviet action led to the threat illustrated on this map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The signing of an arms limitations treaty"
+    },
+    {
+      "label": "G",
+      "text": "Blockading foreign supply ships from entering the Caribbean"
+    },
+    {
+      "label": "H",
+      "text": "Closing the border between East and West Berlin"
+    },
+    {
+      "label": "J",
+      "text": "The placement of nuclear weapons installations in Cuba"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A black and white map showing the United States, surrounding countries, and three circles centered on Cuba with radii of 630 NM, 1020 NM, and 2200 NM, illustrating the reach of a threat from Cuba."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "The map clearly illustrates a missile threat range originating from Cuba, related to the Cuban Missile Crisis."
+}

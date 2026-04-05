@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement describes the roles of George McClellan and Ulysses S. Grant during the Civil War?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They were Confederate generals who captured Fort Sumter."
+    },
+    {
+      "label": "B",
+      "text": "They were Union generals who commanded the Army of the Potomac."
+    },
+    {
+      "label": "C",
+      "text": "They were Confederate generals who surrendered at the Battle of Vicksburg."
+    },
+    {
+      "label": "D",
+      "text": "They were Union generals who committed war crimes at the Battle of Gettysburg."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text question with multiple choice answers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

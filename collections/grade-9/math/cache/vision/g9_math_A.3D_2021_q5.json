@@ -1,0 +1,30 @@
+{
+  "stem": "Which ordered pair is in the solution set of 8x + 16y > 32?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(0, 2)"
+    },
+    {
+      "label": "B",
+      "text": "(-3, 5)"
+    },
+    {
+      "label": "C",
+      "text": "(-1, 1)"
+    },
+    {
+      "label": "D",
+      "text": "(4, 0)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with x and y axes ranging from -7 to 7"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

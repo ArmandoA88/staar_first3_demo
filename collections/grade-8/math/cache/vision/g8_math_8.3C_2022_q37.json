@@ -1,0 +1,30 @@
+{
+  "stem": "The coordinates of the vertices of triangle XYZ are X(-2, -1), Y(6, 8) and Z(8, 4). Triangle XYZ is dilated by a scale factor of \\( \\frac{3}{2} \\) with the origin as the center of dilation to create triangle X'Y'Z'. If \\( (x, y) \\) represents the location of any point on triangle XYZ, which ordered pair represents the location of the corresponding point on triangle X'Y'Z'?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\left( \\frac{3}{2} x, \\frac{3}{2} y \\right) \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( (x + \\frac{3}{2}, y + \\frac{3}{2}) \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\left( \\frac{2}{3} x, \\frac{2}{3} y \\right) \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( (x + \\frac{2}{3}, y + \\frac{2}{3}) \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane with x and y axes from -9 to 9"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Math formatting preserved exactly; scale factor identified as 3/2 dilation from origin."
+}

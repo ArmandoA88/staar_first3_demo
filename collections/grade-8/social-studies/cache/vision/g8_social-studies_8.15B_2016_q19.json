@@ -1,0 +1,30 @@
+{
+  "stem": "This information was included in a slide-show presentation to a high school history class.\n\nStrengths\n\n\u2022 Ability to declare war\n\u2022 Ability to make treaties\n\u2022 Authority to operate post offices\n\nWhich document was the focus of this presentation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Mayflower Compact"
+    },
+    {
+      "label": "B",
+      "text": "The Articles of Confederation"
+    },
+    {
+      "label": "C",
+      "text": "The Virginia Declaration of Rights"
+    },
+    {
+      "label": "D",
+      "text": "The Declaration of Independence"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box with bulleted list: Ability to declare war, Ability to make treaties, Authority to operate post offices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

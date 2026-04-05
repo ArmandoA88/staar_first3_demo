@@ -1,0 +1,33 @@
+{
+  "stem": "A bus travels 25 miles in 30 minutes. Which graph has a slope that best represents the number of miles per minute the bus travels?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph labeled Bus Speed with axes Distance (mi) and Time (min), line increasing with points near 0,0 and 50,50)"
+    },
+    {
+      "label": "B",
+      "text": "(Graph labeled Bus Speed with axes Distance (mi) and Time (min), line increasing with points near 0,0 and 40,50)"
+    },
+    {
+      "label": "C",
+      "text": "(Graph labeled Bus Speed with axes Distance (mi) and Time (min), line increasing with points near 0,0 and 50,40)"
+    },
+    {
+      "label": "D",
+      "text": "(Graph labeled Bus Speed with axes Distance (mi) and Time (min), line increasing steeply to near 20,50)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Bus Speed with Distance (mi) on y-axis and Time (min) on x-axis, line through (0,0) and (50,50).",
+    "Graph B: Bus Speed with Distance (mi) on y-axis and Time (min) on x-axis, line through (0,0) and about (40,50).",
+    "Graph C: Bus Speed with Distance (mi) on y-axis and Time (min) on x-axis, line through (0,0) and about (50,40).",
+    "Graph D: Bus Speed with Distance (mi) on y-axis and Time (min) on x-axis, steep line through (0,0) and about (20,50)."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

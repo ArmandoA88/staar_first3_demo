@@ -1,0 +1,30 @@
+{
+  "stem": "A figure is graphed on a coordinate grid as shown.\n\nThe figure is rotated 180\u00b0 clockwise with the origin as the center of rotation to create a new figure. Which rule describes this transformation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(x, y) \u2192 (-x, -y)"
+    },
+    {
+      "label": "B",
+      "text": "(x, y) \u2192 (x, -y)"
+    },
+    {
+      "label": "C",
+      "text": "(x, y) \u2192 (-y, -x)"
+    },
+    {
+      "label": "D",
+      "text": "(x, y) \u2192 (-x, y)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with points and lines forming a figure in the fourth quadrant"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

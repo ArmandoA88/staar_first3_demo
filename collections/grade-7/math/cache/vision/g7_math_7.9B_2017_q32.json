@@ -1,0 +1,30 @@
+{
+  "stem": "A rotating lawn sprinkler sprays water in a circular area of grass, as shown in the picture. The diameter of the circular area of grass is 16 ft.",
+  "instruction": "Which measurement is closest to the area in square feet that this sprinkler sprays with water?",
+  "options": [
+    {
+      "label": "F",
+      "text": "100.48 ft\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "50.24 ft\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "200.96 ft\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "803.84 ft\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circle with sprinkler in center and water spray patterns"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

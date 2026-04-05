@@ -1,0 +1,33 @@
+{
+  "stem": "The graph of quadratic parent function f was transformed to create the graph of g(x) = f(x + 2) - 5. Which graph best represents g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": null
+    },
+    {
+      "label": "H",
+      "text": null
+    },
+    {
+      "label": "G",
+      "text": null
+    },
+    {
+      "label": "J",
+      "text": null
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph F with vertex near (-4, 6)",
+    "Graph H with vertex near (-3, -6)",
+    "Graph G with vertex near (4, -6)",
+    "Graph J with vertex near (1, 6)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

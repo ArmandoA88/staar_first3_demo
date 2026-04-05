@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution to 4(y - 3) + 19 = 8(2y + 3) + 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-\\frac{1}{2}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{1}{2}"
+    },
+    {
+      "label": "H",
+      "text": "-2"
+    },
+    {
+      "label": "J",
+      "text": "2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4(y - 3) + 19 = 8(2y + 3) + 7"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

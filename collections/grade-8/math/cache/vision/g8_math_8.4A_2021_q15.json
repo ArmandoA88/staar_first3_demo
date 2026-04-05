@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle \\(KLM\\) and triangle \\(PRS\\) are similar right triangles.\n\nWhich proportion can be used to show that the slope of \\(\\overline{KM}\\) is equal to the slope of \\(\\overline{PS}\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{KL}{LM} = \\frac{PR}{RS} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{RS}{SP} = \\frac{LM}{MK} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{ML}{LK} = \\frac{SP}{RP} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{PS}{PR} = \\frac{KM}{KL} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with coordinates and points K, L, M, P, R, S labeled"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

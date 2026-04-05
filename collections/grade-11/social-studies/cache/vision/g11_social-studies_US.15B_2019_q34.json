@@ -1,0 +1,30 @@
+{
+  "stem": "What was the purpose of the Pure Food and Drugs Act of 1906?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To protect consumers by regulating the food and drug industry"
+    },
+    {
+      "label": "G",
+      "text": "To lower the cost of essential foods and drugs for consumers"
+    },
+    {
+      "label": "H",
+      "text": "To prevent shortages by regulating the supply of food and drugs"
+    },
+    {
+      "label": "J",
+      "text": "To reduce production costs for food and drug manufacturers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What was the purpose of the Pure Food and Drugs Act of 1906?\n\nF  To protect consumers by regulating the food and drug industry\n\nG  To lower the cost of essential foods and drugs for consumers\n\nH  To prevent shortages by regulating the supply of food and drugs\n\nJ  To reduce production costs for food and drug manufacturers"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

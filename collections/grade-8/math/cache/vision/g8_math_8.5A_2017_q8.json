@@ -1,0 +1,30 @@
+{
+  "stem": "The approximate volume in milliliters, \\( m \\), for a volume of \\( f \\) fluid ounces is equal to 29.57 times the value of \\( f \\). Which table represents this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Fluid Ounces, \\( f \\) | Milliliters, \\( m \\)\n29.57 | 1\n59.14 | 2\n88.71 | 3\n118.28 | 4"
+    },
+    {
+      "label": "H",
+      "text": "Fluid Ounces, \\( f \\) | Milliliters, \\( m \\)\n0 | 29.57\n1 | 59.14\n2 | 88.71\n3 | 118.28"
+    },
+    {
+      "label": "G",
+      "text": "Fluid Ounces, \\( f \\) | Milliliters, \\( m \\)\n29.57 | 0\n59.14 | 1\n88.71 | 2\n118.28 | 3"
+    },
+    {
+      "label": "J",
+      "text": "Fluid Ounces, \\( f \\) | Milliliters, \\( m \\)\n1 | 29.57\n2 | 59.14\n3 | 88.71\n4 | 118.28"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled F, H, G, and J showing Fluid Ounces and Milliliters values"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

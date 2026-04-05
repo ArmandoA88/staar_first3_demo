@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, should be made in sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change whose to who\u2019s"
+    },
+    {
+      "label": "G",
+      "text": "Change brought to bringing"
+    },
+    {
+      "label": "H",
+      "text": "Delete the comma after try"
+    },
+    {
+      "label": "J",
+      "text": "No change is needed in sentence 18."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

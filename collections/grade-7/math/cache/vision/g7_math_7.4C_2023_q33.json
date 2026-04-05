@@ -1,0 +1,30 @@
+{
+  "stem": "A table of x- and y-values is shown.\n\n| x | y  |\n|---|----|\n| 3 | 12 |\n| 5 | 20 |\n| 7 | 28 |\n\nWhat is the constant of proportionality that relates y to x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{4} \\)"
+    },
+    {
+      "label": "B",
+      "text": "4"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{8} \\)"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns x and y, rows: (3,12), (5,20), (7,28)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

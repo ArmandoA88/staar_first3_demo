@@ -1,0 +1,30 @@
+{
+  "stem": "The dot plot shows the number of points scored by each player on a basketball team during a game.\n\nWhich statement is NOT supported by the information shown in the dot plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Exactly 20% of the players scored 6 points during the game."
+    },
+    {
+      "label": "B",
+      "text": "Exactly 40% of the players scored 3 points during the game."
+    },
+    {
+      "label": "C",
+      "text": "Less than \\(\\frac{1}{3}\\) of the players scored 4 points during the game."
+    },
+    {
+      "label": "D",
+      "text": "More than \\(\\frac{1}{10}\\) of the players scored 8 points during the game."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Dot plot titled 'Basketball Game' showing points scored 0 to 8 along a horizontal axis with dots above each number representing players. The dot counts are: 2 dots above 0, 1 dot above 2, 6 dots above 3, 3 dots above 4, 0 dots above 5, 3 dots above 6, 0 dots above 7, and 1 dot above 8. Note states: Each dot represents 1 player."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

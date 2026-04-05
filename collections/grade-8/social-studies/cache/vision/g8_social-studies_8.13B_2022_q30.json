@@ -1,0 +1,30 @@
+{
+  "stem": "Which title best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Innovations in the Cottage Industry"
+    },
+    {
+      "label": "G",
+      "text": "Causes of Rural Development"
+    },
+    {
+      "label": "H",
+      "text": "Expansion of Employees\u2019 Rights"
+    },
+    {
+      "label": "J",
+      "text": "Reasons for Urbanization"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with a question mark at the top and two boxes below: 'Some factories offer housing for workers with families.' and 'Factories offer jobs for people.'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

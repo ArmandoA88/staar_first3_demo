@@ -1,0 +1,30 @@
+{
+  "stem": "What was one effect of the event described in this headline?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Increased support for gender equality in labor union membership"
+    },
+    {
+      "label": "G",
+      "text": "Decreased support for socialism by labor union members"
+    },
+    {
+      "label": "H",
+      "text": "Increased federal government involvement in labor union activities"
+    },
+    {
+      "label": "J",
+      "text": "Decreased federal government surveillance of labor union leaders"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "PULLMAN STRIKE ON, 2,000 Palace-Car Company Employees Walk Out. They Said the Whole 4,300 Would Quit Before Night. Officers Surprised at the Suddenness of the Movement."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

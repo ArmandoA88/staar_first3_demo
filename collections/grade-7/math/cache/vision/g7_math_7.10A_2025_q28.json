@@ -1,0 +1,30 @@
+{
+  "stem": "The employee offices and break room in an office building cover an area of 7,000 square feet. Each employee office takes up 125 square feet, and the break room takes up 750 square feet.\n\nWhich equation can be used to find x, the number of employee offices?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "125x + 750 = 7,000"
+    },
+    {
+      "label": "B",
+      "text": "750x + 125 = 7,000"
+    },
+    {
+      "label": "C",
+      "text": "125x - 750 = 7,000"
+    },
+    {
+      "label": "D",
+      "text": "750x - 125 = 7,000"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equations"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following expresses a goal of the Reconstruction Acts of 1867?",
+  "instruction": "Read the passage and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "To restore the Democratic Party to power in the South"
+    },
+    {
+      "label": "G",
+      "text": "To rebuild the plantation economy of the South"
+    },
+    {
+      "label": "H",
+      "text": "To protect the rights of African Americans in the South"
+    },
+    {
+      "label": "J",
+      "text": "To encourage former slaves to leave the South"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In 1867 Congress passed the Reconstruction Acts of 1867. These acts temporarily divided the South into five military districts, outlined how governments based on universal male suffrage would be organized, and required southern states to ratify the Fourteenth Amendment."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A customer will borrow $12,000 to buy a car. Which loan option would allow the customer to pay the least amount of interest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A 4-year loan with a 5.2% annual simple interest rate"
+    },
+    {
+      "label": "G",
+      "text": "A 5-year loan with a 4.2% annual simple interest rate"
+    },
+    {
+      "label": "H",
+      "text": "A 6-year loan with a 4.7% annual simple interest rate"
+    },
+    {
+      "label": "J",
+      "text": "A 3-year loan with an 8.4% annual simple interest rate"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

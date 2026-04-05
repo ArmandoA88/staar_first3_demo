@@ -1,0 +1,30 @@
+{
+  "stem": "A heat shield material designed to act as an insulating barrier is now used to protect high-rise buildings from fires.\n\nThis technology was originally developed primarily to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "give rockets greater boost during takeoff"
+    },
+    {
+      "label": "G",
+      "text": "protect the space shuttle on reentry"
+    },
+    {
+      "label": "H",
+      "text": "provide astronauts with improved navigational equipment"
+    },
+    {
+      "label": "J",
+      "text": "slow down space capsules as they landed in the ocean"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A text box containing the sentence: \"A heat shield material designed to act as an insulating barrier is now used to protect high-rise buildings from fires.\""
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

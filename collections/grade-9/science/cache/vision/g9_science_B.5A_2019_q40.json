@@ -1,0 +1,34 @@
+{
+  "stem": "A table of four types of carbohydrates is shown.\n\n| Type of Carbohydrate | Description                                                                 |\n|----------------------|-----------------------------------------------------------------------------|\n| Cellulose            | Major component of plant cell walls                                          |\n| Chitin               | Major component of fungal cell walls and arthropod exoskeletons              |\n| Glycogen             | Stored in liver and muscle cells, broken down to glucose when blood glucose levels decrease |\n| Starch               | Stored in plant roots and seeds, provides food for seeds to germinate or for animal consumption |\n\nWhich list correctly matches the functions to the types of carbohydrates?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Energy: glycogen and starch\nStructure: cellulose and chitin"
+    },
+    {
+      "label": "G",
+      "text": "Energy: cellulose and chitin\nStructure: glycogen and starch"
+    },
+    {
+      "label": "H",
+      "text": "Energy: chitin and glycogen\nStructure: cellulose and starch"
+    },
+    {
+      "label": "J",
+      "text": "Energy: cellulose and starch\nStructure: chitin and glycogen"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table of four types of carbohydrates with two columns labeled 'Type of Carbohydrate' and 'Description' and four rows:",
+    "Row 1: Cellulose - Major component of plant cell walls",
+    "Row 2: Chitin - Major component of fungal cell walls and arthropod exoskeletons",
+    "Row 3: Glycogen - Stored in liver and muscle cells, broken down to glucose when blood glucose levels decrease",
+    "Row 4: Starch - Stored in plant roots and seeds, provides food for seeds to germinate or for animal consumption"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

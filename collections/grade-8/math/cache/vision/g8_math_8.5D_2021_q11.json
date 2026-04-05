@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the height in centimeters and weight in kilograms of several students.\n\nBased on the scatterplot, which is the best prediction of the height in centimeters of a student with a weight of 64 kilograms?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "152 cm"
+    },
+    {
+      "label": "B",
+      "text": "160 cm"
+    },
+    {
+      "label": "C",
+      "text": "162 cm"
+    },
+    {
+      "label": "D",
+      "text": "156 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled 'Student Height and Weight' with x-axis labeled 'Height (cm)' ranging from 134 to 158 and y-axis labeled 'Weight (kg)' ranging from 28 to 64. Points plotted showing positive correlation."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

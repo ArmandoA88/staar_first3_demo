@@ -1,0 +1,25 @@
+{
+  "stem": "Scientists can use the fossil record to determine changes in an environment. What does the abrupt appearance of new organisms show?",
+  "instruction": "Move the correct answer to each box.",
+  "options": [],
+  "choice_pool": [
+    "the age of fossils",
+    "an increase in biodiversity",
+    "stasis",
+    "transitional fossils",
+    "gradualism",
+    "an unstable environment"
+  ],
+  "response_template": "The abrupt appearance of new organisms is evidence of [blank_1] and [blank_2].",
+  "visual_elements": [
+    "the age of fossils",
+    "an increase in biodiversity",
+    "stasis",
+    "transitional fossils",
+    "gradualism",
+    "an unstable environment"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

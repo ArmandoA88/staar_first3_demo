@@ -1,0 +1,30 @@
+{
+  "stem": "Which reason explains the population increase shown in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Gadsden Purchase established new states in the West."
+    },
+    {
+      "label": "B",
+      "text": "Farmers left northern cities for rural plains in the West."
+    },
+    {
+      "label": "C",
+      "text": "The Louisiana Purchase opened up settlement in the West."
+    },
+    {
+      "label": "D",
+      "text": "Gold was discovered in the West."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: California Population, 1850\u20131880\nYear | Resident Population\n1850 | 92,597\n1860 | 379,994\n1870 | 560,247\n1880 | 864,694"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

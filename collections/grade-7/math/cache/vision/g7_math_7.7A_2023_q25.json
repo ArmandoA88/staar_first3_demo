@@ -1,0 +1,47 @@
+{
+  "stem": "The table shows a linear relationship between x and y.\n\nCreate an equation that describes the relationship shown in the table.\n\nMove the correct answer to each box. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "-9"
+    },
+    {
+      "label": null,
+      "text": "-3"
+    },
+    {
+      "label": null,
+      "text": "-\\frac{1}{3}"
+    },
+    {
+      "label": null,
+      "text": "\\frac{1}{3}"
+    },
+    {
+      "label": null,
+      "text": "3"
+    },
+    {
+      "label": null,
+      "text": "9"
+    }
+  ],
+  "choice_pool": [
+    "-9",
+    "-3",
+    "-\\frac{1}{3}",
+    "\\frac{1}{3}",
+    "3",
+    "9"
+  ],
+  "response_template": "y = [blank_1] x + [blank_2]",
+  "visual_elements": [
+    "Table with columns x and y, values: (-6, -1), (0, -3), (3, -4), (9, -6)",
+    "Answer choices: -9, -3, -1/3, 1/3, 3, 9",
+    "Equation template: y = [ ] x + [ ]"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Two numbers are shown on the number line.\n\n\\( \\frac{\\sqrt{9}}{3} \\)                                             \\( 2\\pi \\)\n\nWhich value is NOT located between these two numbers on the number line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\pi \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\sqrt{9} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{\\pi}{9} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{\\pi^2}{9} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line with marks labeled \\( \\frac{\\sqrt{9}}{3} \\) and \\( 2\\pi \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

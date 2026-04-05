@@ -1,0 +1,38 @@
+{
+  "stem": "A circular pool has a radius of 30 feet and a circumference of approximately 188.4 feet. Complete the sentence to best represent \u03c0.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "30"
+    },
+    {
+      "label": null,
+      "text": "60"
+    },
+    {
+      "label": null,
+      "text": "188.4"
+    },
+    {
+      "label": null,
+      "text": "900"
+    },
+    {
+      "label": null,
+      "text": "3,600"
+    }
+  ],
+  "choice_pool": [
+    "30",
+    "60",
+    "188.4",
+    "900",
+    "3,600"
+  ],
+  "response_template": "The value of \u03c0 is approximately [blank_1] divided by [blank_2].",
+  "visual_elements": [],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

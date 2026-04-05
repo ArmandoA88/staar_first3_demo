@@ -1,0 +1,28 @@
+{
+  "stem": "Which statement about the zeros of \\(h(x) = 3(x - 5)(x + 7)\\) is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The zeros are 15 and -21 because \\(h(15) = 0\\) and \\(h(-21) = 0\\)."
+    },
+    {
+      "label": "B",
+      "text": "The zeros are -15 and 21 because \\(h(-15) = 0\\) and \\(h(21) = 0\\)."
+    },
+    {
+      "label": "C",
+      "text": "The zeros are 5 and -7 because \\(h(5) = 0\\) and \\(h(-7) = 0\\)."
+    },
+    {
+      "label": "D",
+      "text": "The zeros are -5 and 7 because \\(h(-5) = 0\\) and \\(h(7) = 0\\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

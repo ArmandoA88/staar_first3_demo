@@ -1,0 +1,32 @@
+{
+  "stem": "This list refers to the contributions of which Founding Father?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "John Adams"
+    },
+    {
+      "label": "B",
+      "text": "Benjamin Franklin"
+    },
+    {
+      "label": "C",
+      "text": "James Madison"
+    },
+    {
+      "label": "D",
+      "text": "John Jay"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Responsibility: Second President of the United States",
+    "Courage: Defending Redcoats at the Boston Massacre Trial",
+    "Perseverance: Negotiating the Treaty of Paris"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

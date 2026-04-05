@@ -1,0 +1,28 @@
+{
+  "stem": "The daily cost of hiring a plumber, y, to work x hours on a repair project can be modeled using a linear function. The plumber charges a fixed cost of $80 plus an additional cost of $45 per hour. The plumber works a maximum of 8 hours per day.\n\nFor one day of work, what is the range of the function for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0 \u2264 x \u2264 8"
+    },
+    {
+      "label": "B",
+      "text": "80 \u2264 y \u2264 440"
+    },
+    {
+      "label": "C",
+      "text": "0 \u2264 x \u2264 10"
+    },
+    {
+      "label": "D",
+      "text": "45 \u2264 y \u2264 685"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

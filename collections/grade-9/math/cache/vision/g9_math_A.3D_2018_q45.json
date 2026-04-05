@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of 2x - 5y = 10 is shown on the grid.\n\nWhich ordered pair is in the solution set of 2x - 5y \\u2265 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(0, 5)"
+    },
+    {
+      "label": "B",
+      "text": "(5, 0)"
+    },
+    {
+      "label": "C",
+      "text": "(-2, 5)"
+    },
+    {
+      "label": "D",
+      "text": "(-5, 2)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing the line 2x - 5y = 10 on a coordinate grid with x and y axes labeled from -10 to 10"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

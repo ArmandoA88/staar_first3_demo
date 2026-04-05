@@ -1,0 +1,34 @@
+{
+  "stem": "Actin is a protein that helps the cell maintain its shape and polarity. It also plays a major role in muscle contraction. A table summarizing the cellular functions of different types of proteins is shown.\n\nBased on this information, actin is most likely \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "an enzyme protein"
+    },
+    {
+      "label": "B",
+      "text": "a structural protein"
+    },
+    {
+      "label": "C",
+      "text": "a messenger protein"
+    },
+    {
+      "label": "D",
+      "text": "a transport protein"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Protein Type | Function",
+    "Enzyme proteins | Increase the rate of chemical reactions",
+    "Structural proteins | Provide structure and support for cells; on a larger scale, allow the body to move",
+    "Messenger proteins | Transmit signals to coordinate biological processes between different cells, tissues, and organs",
+    "Transport proteins | Bind and carry atoms and small molecules within cells and throughout the body"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

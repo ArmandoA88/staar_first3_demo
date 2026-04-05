@@ -1,0 +1,33 @@
+{
+  "stem": "Which of these properties is found only in cancer cells?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Unregulated cell division"
+    },
+    {
+      "label": "B",
+      "text": "Regulated gene expression"
+    },
+    {
+      "label": "C",
+      "text": "Response to signals outside of the cell"
+    },
+    {
+      "label": "D",
+      "text": "Presence of mitochondria"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A circle with A inside",
+    "A circle with B inside",
+    "A circle with C inside",
+    "A circle with D inside"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

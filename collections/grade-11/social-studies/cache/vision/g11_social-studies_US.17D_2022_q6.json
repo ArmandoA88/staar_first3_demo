@@ -1,0 +1,30 @@
+{
+  "stem": "According to the excerpt, which goal was the focus of the Great Society?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To increase taxation"
+    },
+    {
+      "label": "G",
+      "text": "To privatize education"
+    },
+    {
+      "label": "H",
+      "text": "To expand voting rights"
+    },
+    {
+      "label": "J",
+      "text": "To fight social inequality"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Great Society rests on abundance and liberty for all. It demands an end to poverty and racial injustice. . . .  The Great Society is a place where every child can find knowledge to enrich his mind and to enlarge his talents. . . .  It is a place where man can renew contact with nature. It is a place which honors creation for its own sake and for what it adds to the understanding of the race. It is a place where men are more concerned with the quality of their goals than the quantity of their goods."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Extracted the multiple choice question and answer options exactly as visible, preserved the excerpt as visual element for context."
+}

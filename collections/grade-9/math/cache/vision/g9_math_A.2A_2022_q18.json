@@ -1,0 +1,30 @@
+{
+  "stem": "A florist is making bouquets of flowers for a wedding. Each bouquet will have 9 flowers. The graph shows the linear relationship between y, the number of flowers used, and x, the number of bouquets.\n\nThe florist will use no more than 8 bouquets for the wedding. Which set best represents the domain of the function for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "{0, 2, 4, 6, 8, 10}"
+    },
+    {
+      "label": "G",
+      "text": "{0, 1, 2, 3, 4, 5, 6, 7, 8}"
+    },
+    {
+      "label": "H",
+      "text": "{0, 18, 36, 54, 72, 90}"
+    },
+    {
+      "label": "J",
+      "text": "{0, 9, 18, 27, 36, 45, 54, 63, 72}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A graph with x-axis labeled 'Number of Bouquets' going from 0 to 10 and y-axis labeled 'Number of Flowers' from 0 to 90. Points are plotted in a line at (1,9), (2,18), (3,27), (4,36), (5,45), (6,54), (7,63), (8,72)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

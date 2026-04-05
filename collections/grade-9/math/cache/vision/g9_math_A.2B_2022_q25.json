@@ -1,0 +1,30 @@
+{
+  "stem": "Two points are plotted on the grid.\n\nWhich equation in slope-intercept form best represents the line that passes through these two points?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = -\\frac{2}{3}x - \\frac{11}{3}"
+    },
+    {
+      "label": "B",
+      "text": "y = -\\frac{11}{3}x - \\frac{2}{3}"
+    },
+    {
+      "label": "C",
+      "text": "y = -\\frac{2}{3}x - \\frac{10}{3}"
+    },
+    {
+      "label": "D",
+      "text": "y = -\\frac{10}{3}x - \\frac{2}{3}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Grid with points at (-3,6) and (1,-4)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

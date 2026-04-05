@@ -1,0 +1,31 @@
+{
+  "stem": "Which effect did these innovations have on life in the United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Natural fertilizer became more effective."
+    },
+    {
+      "label": "G",
+      "text": "Harvesting season could last longer."
+    },
+    {
+      "label": "H",
+      "text": "Finding water to irrigate crops became easier."
+    },
+    {
+      "label": "J",
+      "text": "Crop production became more efficient."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Farmer Using a Steel Plow",
+    "Farmer Using a Mechanical Reaper"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

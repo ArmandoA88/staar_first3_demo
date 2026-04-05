@@ -1,0 +1,13 @@
+{
+  "stem": "The top of a table is made up of triangles and rectangles. The table and its dimensions in inches are shown in the diagram.\n\nWhat is the area of the top of the table in square inches?",
+  "instruction": "Enter your answer in the box provided.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram with dimensions: two right triangles each with legs 30 in by 30 in, rectangles with 30 in width and total length 100 in"
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 0.99,
+  "notes": null
+}

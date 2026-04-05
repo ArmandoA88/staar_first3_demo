@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows Earth in its orbit around the sun when very little light is visible at Earth's South Pole.\n\nWhich statement is true when Earth is in the position shown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It is August in the Northern Hemisphere.\nIt is April in the Southern Hemisphere."
+    },
+    {
+      "label": "G",
+      "text": "It is summer in the Northern Hemisphere.\nIt is winter in the Southern Hemisphere."
+    },
+    {
+      "label": "H",
+      "text": "The number of hours of daylight is greater in the Southern Hemisphere than in the Northern Hemisphere."
+    },
+    {
+      "label": "J",
+      "text": "Spring begins earlier in the year in the Southern Hemisphere than it does in the Northern Hemisphere."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing Earth orbiting the Sun in a position where the South Pole is mostly shaded and labeled north (N) on the top"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

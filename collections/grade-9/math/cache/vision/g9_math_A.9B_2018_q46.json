@@ -1,0 +1,28 @@
+{
+  "stem": "Scientists are studying a bacteria sample. The function f(x) = 245(1.12)^x gives the number of bacteria in the sample at the end of x days.\n\nWhich statement is the best interpretation of one of the values in this function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The initial number of bacteria is 12."
+    },
+    {
+      "label": "G",
+      "text": "The initial number of bacteria decreases at a rate of 88% each day."
+    },
+    {
+      "label": "H",
+      "text": "The number of bacteria increases at a rate of 12% each day."
+    },
+    {
+      "label": "J",
+      "text": "The number of bacteria at the end of one day is 245."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

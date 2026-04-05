@@ -1,0 +1,30 @@
+{
+  "stem": "The angle measures of a triangle are shown in the diagram.",
+  "instruction": "What is the value of x?",
+  "options": [
+    {
+      "label": "F",
+      "text": "25"
+    },
+    {
+      "label": "G",
+      "text": "20"
+    },
+    {
+      "label": "H",
+      "text": "10"
+    },
+    {
+      "label": "J",
+      "text": "28"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle with angles labeled 50\u00b0, (2x)\u00b0, and (3x - 10)\u00b0"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

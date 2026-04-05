@@ -1,0 +1,30 @@
+{
+  "stem": "The length of a football field is 120 yards. There are approximately 55 meters in 60 yards.\n\nComplete the sentences to create true statements about the measurement closest to the length of a football field in meters.  \n\nMove the correct answer to each box. Not all answers will be used.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "60/120",
+    "55/60",
+    "60/55",
+    "120/60",
+    "60",
+    "110",
+    "131",
+    "240"
+  ],
+  "response_template": "To find x, the approximate length of a football field in meters, solve the proportion x/120 = [blank_1].\n\nThe length of a football field is approximately [blank_2] meters.",
+  "visual_elements": [
+    "60/120",
+    "55/60",
+    "60/55",
+    "120/60",
+    "60",
+    "110",
+    "131",
+    "240",
+    "x/120"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A fair spinner is divided into sections of equal size. Each section contains the picture of a diamond, a star, or a triangle.\n\nWhich statement about the result of spinning the arrow is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It is more likely to land on a diamond than on a star."
+    },
+    {
+      "label": "B",
+      "text": "It is equally likely to land on a triangle, a star, or a diamond."
+    },
+    {
+      "label": "C",
+      "text": "It is 4 times as likely to land on a diamond as it is to land on a star."
+    },
+    {
+      "label": "D",
+      "text": "It is less likely to land on a diamond than on a star."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "spinner with 8 sections: 3 diamonds, 3 stars, 1 triangle, 1 triangle"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

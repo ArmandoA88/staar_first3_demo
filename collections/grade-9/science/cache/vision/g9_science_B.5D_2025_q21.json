@@ -1,0 +1,33 @@
+{
+  "stem": "Which statement BEST describes how viruses disrupt normal cellular processes to cause disease?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Viruses use cell machinery to build products the virus needs."
+    },
+    {
+      "label": "B",
+      "text": "Viruses release large amounts of energy into the cell, causing increased growth rates."
+    },
+    {
+      "label": "C",
+      "text": "Viruses release antibiotics that destroy the cell membrane so more viral particles can be released."
+    },
+    {
+      "label": "D",
+      "text": "Viruses block gene expression and prevent host cell DNA replication."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A inside circle",
+    "B inside circle",
+    "C inside circle",
+    "D inside circle"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

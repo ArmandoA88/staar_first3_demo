@@ -1,0 +1,30 @@
+{
+  "stem": "Many of the U.S. soldiers involved in the event mentioned in this headline \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "remained in trenches and resisted the Japanese invasion"
+    },
+    {
+      "label": "G",
+      "text": "were exchanged for Japanese prisoners of war"
+    },
+    {
+      "label": "H",
+      "text": "escaped and were redeployed to the European theater"
+    },
+    {
+      "label": "J",
+      "text": "died during a forced march to a prison camp in the Philippines"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A newspaper titled 'The Daily Star' dated April 9, 1942 with the headline 'Japanese Forces Occupy Bataan Peninsula'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

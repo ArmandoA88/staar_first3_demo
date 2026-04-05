@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement describes the impact of this presidential address?",
+  "instruction": "This excerpt is from a presidential address.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The United States sent military forces into South American countries."
+    },
+    {
+      "label": "B",
+      "text": "The United States started a policy of territorial expansion to the Pacific Ocean."
+    },
+    {
+      "label": "C",
+      "text": "The United States assumed a role as protector of countries in the Western Hemisphere."
+    },
+    {
+      "label": "D",
+      "text": "The United States developed a reliance on military assistance from European countries."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The American continents, by the free and independent condition which they have assumed and maintain, are henceforth not to be considered as subjects for future colonization by any European power.\n\n\u2014President James Monroe, Address to Congress, December 2, 1823"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

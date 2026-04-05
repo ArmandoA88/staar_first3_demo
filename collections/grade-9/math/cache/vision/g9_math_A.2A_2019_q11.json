@@ -1,0 +1,30 @@
+{
+  "stem": "A student worked out at a gym continuously for 50 minutes. The graph shows the remaining percentage of the workout as a linear function of x, the time in minutes.\n\nWhich answer choice best describes the domain and range of the function for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Domain: All real numbers greater than or equal to 0 and less than or equal to 100\nRange: All real numbers greater than or equal to 0 and less than or equal to 50"
+    },
+    {
+      "label": "B",
+      "text": "Domain: \\{\u20132\\}\nRange: \\{100\\}"
+    },
+    {
+      "label": "C",
+      "text": "Domain: All real numbers greater than or equal to 0 and less than or equal to 50\nRange: All real numbers greater than or equal to 0 and less than or equal to 100"
+    },
+    {
+      "label": "D",
+      "text": "Domain: \\{100\\}\nRange: \\{\u20132\\}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Student's Workout' with y-axis labeled 'Percentage Remaining' from 0 to 100, x-axis labeled 'Minutes' from 0 to 50, showing a linear decreasing line from (0,100) to (50,0)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

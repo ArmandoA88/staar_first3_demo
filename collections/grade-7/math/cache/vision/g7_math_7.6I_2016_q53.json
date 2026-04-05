@@ -1,0 +1,31 @@
+{
+  "stem": "On Roberto\u2019s shelf are:\n\n\u2022 6 mystery books\n\u2022 5 science books\n\u2022 4 history books\n\u2022 3 adventure books\n\nRoberto will randomly choose 1 book to read. What is the probability that he will choose an adventure book?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{3} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{18} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{5} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{1}{6} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bulleted list of book types and counts: 6 mystery, 5 science, 4 history, 3 adventure",
+    "fraction choices in A, B, C, D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

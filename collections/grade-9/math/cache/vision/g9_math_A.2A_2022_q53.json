@@ -1,0 +1,30 @@
+{
+  "stem": "A coach has 96 golf balls for the school's golf team. The coach will give each player on the team 8 golf balls. The graph shows the linear relationship between y, the number of golf balls remaining for the team, and x, the number of players on the team.\n\nThe coach will use no more than 6 players on the school's golf team. Which set best represents the range of the function for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "{96, 84, 72, 60, 48, 36, 24}"
+    },
+    {
+      "label": "B",
+      "text": "{8, 9, 10, 11, 12, 13, 14}"
+    },
+    {
+      "label": "C",
+      "text": "{96, 88, 80, 72, 64, 56, 48}"
+    },
+    {
+      "label": "D",
+      "text": "{0, 1, 2, 3, 4, 5, 6}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled Golf Team with y-axis labeled Number of Golf Balls Remaining and x-axis labeled Number of Players. Data points plotted for players 1 to 6 and respective golf balls remaining at 88, 80, 72, 60, 56, and 48 approximately."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

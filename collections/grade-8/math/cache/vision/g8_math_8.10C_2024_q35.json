@@ -1,0 +1,31 @@
+{
+  "stem": "Triangle \\(RST\\) is rotated 270\u00b0 counterclockwise about the origin of a coordinate plane to create triangle \\(R'S'T'\\). Which rule describes this transformation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\((x, y) \\to (x, -y)\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\((x, y) \\to (-x, y)\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\((x, y) \\to (-y, x)\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\((x, y) \\to (y, -x)\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text",
+    "math"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

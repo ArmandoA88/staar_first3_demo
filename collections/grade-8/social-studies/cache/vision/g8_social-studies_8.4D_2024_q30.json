@@ -1,0 +1,30 @@
+{
+  "stem": "How did the Three-Fifths Compromise support slavery?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It established that enslaved people were not equal to free people when determining representation."
+    },
+    {
+      "label": "B",
+      "text": "It confirmed that the federal government would be the authority on issues relating to slavery."
+    },
+    {
+      "label": "C",
+      "text": "It allowed states to lower their tax rate by adding up the total of all persons living in the state."
+    },
+    {
+      "label": "D",
+      "text": "It determined that enslaved people could not be taxed by the states."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Representatives . . . shall be [distributed] among the several States . . . according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons . . . three fifths of all other Persons.  \u2014U.S. Constitution, Article I, Section 2"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

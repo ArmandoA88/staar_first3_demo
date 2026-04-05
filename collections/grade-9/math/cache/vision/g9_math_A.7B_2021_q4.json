@@ -1,0 +1,31 @@
+{
+  "stem": "Given g(x) = x^2 - 6x - 16, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The zeros are -8 and 2, because the factors of g are (x + 8) and (x - 2)."
+    },
+    {
+      "label": "G",
+      "text": "The zeros are -8 and -2, because the factors of g are (x + 8) and (x + 2)."
+    },
+    {
+      "label": "H",
+      "text": "The zeros are -2 and 8, because the factors of g are (x + 2) and (x - 8)."
+    },
+    {
+      "label": "J",
+      "text": "The zeros are 2 and 8, because the factors of g are (x - 2) and (x - 8)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "g(x) = x^2 - 6x - 16",
+    "Zeros and factors expressions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

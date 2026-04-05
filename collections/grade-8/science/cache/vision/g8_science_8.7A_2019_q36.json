@@ -1,0 +1,33 @@
+{
+  "stem": "The diagrams show forces acting on a toy car as it moves to the right. Which diagram shows the toy car that will most likely accelerate to the right based on these conditions?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "6 N (left) and 8 N (right)"
+    },
+    {
+      "label": "G",
+      "text": "10 N (left) and 8 N (right)"
+    },
+    {
+      "label": "H",
+      "text": "10 N (left) and 10 N (right)"
+    },
+    {
+      "label": "J",
+      "text": "13 N (left) and 10 N (right)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram F shows forces 6 N to the left and 8 N to the right.",
+    "Diagram G shows forces 10 N to the left and 8 N to the right.",
+    "Diagram H shows forces 10 N to the left and 10 N to the right.",
+    "Diagram J shows forces 13 N to the left and 10 N to the right."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

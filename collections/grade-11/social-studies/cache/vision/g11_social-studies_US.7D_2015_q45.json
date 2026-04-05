@@ -1,0 +1,30 @@
+{
+  "stem": "Soldiers, Sailors, and Airmen of the Allied Expeditionary Force!\n\nYou are about to embark upon the Great Crusade, toward which we have striven these many months. The eyes of the world are upon you. The hopes and prayers of liberty-loving people everywhere march with you. In company with our brave Allies and brothers-in-arms on other Fronts, you will bring about the destruction of the German war machine, the elimination of Nazi tyranny over the oppressed peoples of Europe, and security for ourselves in a free world.\n\nThis 1944 order was addressed to U.S. troops sent to\u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "capture the Italian mainland"
+    },
+    {
+      "label": "B",
+      "text": "transport weapons to Great Britain"
+    },
+    {
+      "label": "C",
+      "text": "invade the beaches at Normandy"
+    },
+    {
+      "label": "D",
+      "text": "repel an attack on Stalingrad"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text box containing the given order text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

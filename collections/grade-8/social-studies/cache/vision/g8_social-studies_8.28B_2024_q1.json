@@ -1,0 +1,38 @@
+{
+  "stem": "Which factor BEST explains the trend shown in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Favorable living conditions in cities"
+    },
+    {
+      "label": "B",
+      "text": "Decreasing land prices in rural areas"
+    },
+    {
+      "label": "C",
+      "text": "Industrial working opportunities in cities"
+    },
+    {
+      "label": "D",
+      "text": "Decreasing agricultural output in rural areas"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This table shows population changes in the United States during the mid-nineteenth century.",
+    "Urban Population in the United States, 1830\u20131860",
+    "| Year | Urban Population |",
+    "|------|------------------|",
+    "| 1830 | 1,127,247        |",
+    "| 1840 | 1,845,055        |",
+    "| 1850 | 3,547,496        |",
+    "| 1860 | 6,216,518        |",
+    "Source: U.S. Census Bureau"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

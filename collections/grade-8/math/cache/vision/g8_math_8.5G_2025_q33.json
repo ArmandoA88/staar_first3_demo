@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a relation is shown.\n\nWhich statement best describes this graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The graph represents y as a function of x, because each x-value corresponds to exactly one y-value."
+    },
+    {
+      "label": "B",
+      "text": "The graph represents y as a function of x, because each x-value corresponds to multiple y-values."
+    },
+    {
+      "label": "C",
+      "text": "The graph does not represent y as a function of x, because each x-value corresponds to exactly one y-value."
+    },
+    {
+      "label": "D",
+      "text": "The graph does not represent y as a function of x, because each x-value corresponds to multiple y-values."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A graph showing a line decreasing from top left to bottom right passing through quadrants II, I, and IV with x-axis ranging from -6 to 6 and y-axis from -6 to 6."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Two solutions are mixed and react to produce the solid precipitate AgCl. The chemical reaction is shown by the balanced chemical equation.\n\nAgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083\n\nWhat happens to the total mass as the reaction takes place?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The mass increases."
+    },
+    {
+      "label": "B",
+      "text": "The mass decreases."
+    },
+    {
+      "label": "C",
+      "text": "The mass remains constant."
+    },
+    {
+      "label": "D",
+      "text": "The mass first decreases and then increases."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "chemical equation: AgNO3 + NaCl -> AgCl + NaNO3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

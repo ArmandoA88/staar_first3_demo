@@ -1,0 +1,28 @@
+{
+  "stem": "Enzymes are proteins that have a three-dimensional shape that is specific to a particular substrate. Environmental conditions can change the shape of the protein.\n\nWhat is the most likely result if the shape of the enzyme changes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The substrate will change its shape to match the enzyme."
+    },
+    {
+      "label": "G",
+      "text": "The enzyme will no longer be able to catalyze the reaction with the substrate."
+    },
+    {
+      "label": "H",
+      "text": "The products made from the enzyme and the substrate will be changed."
+    },
+    {
+      "label": "J",
+      "text": "The enzyme will be able to bind to more diverse substrates than before."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

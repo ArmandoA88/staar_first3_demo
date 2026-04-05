@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to 9n^{2} - 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(3n - 5)^{2}"
+    },
+    {
+      "label": "G",
+      "text": "(3n + 5)(3n - 5)"
+    },
+    {
+      "label": "H",
+      "text": "9(n - 4)^{2}"
+    },
+    {
+      "label": "J",
+      "text": "9(n + 4)(n - 4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "9n^{2} - 25",
+    "(3n - 5)^{2}",
+    "(3n + 5)(3n - 5)",
+    "9(n - 4)^{2}",
+    "9(n + 4)(n - 4)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

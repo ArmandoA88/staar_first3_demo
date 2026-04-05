@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution to this equation? \n\n            -4(2m - 7) = 3(52 - 4m)",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "32"
+    },
+    {
+      "label": "G",
+      "text": "46"
+    },
+    {
+      "label": "H",
+      "text": "-6.4"
+    },
+    {
+      "label": "J",
+      "text": "-40.75"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-4(2m - 7) = 3(52 - 4m)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

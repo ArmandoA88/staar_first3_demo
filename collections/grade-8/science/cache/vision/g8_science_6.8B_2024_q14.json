@@ -1,0 +1,30 @@
+{
+  "stem": "A group of students was conducting an investigation with plants. One group of plants was placed inside a closet. The other group of plants was placed next to a window. After two weeks, the plants next to the window were taller and healthier than the plants in the closet.\n\nWhich statement BEST explains the difference in plant growth?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The plants next to the window were able to convert more light energy into chemical energy."
+    },
+    {
+      "label": "B",
+      "text": "The plants next to the window were able to convert more thermal energy into light energy."
+    },
+    {
+      "label": "C",
+      "text": "The plants next to the window were able to convert more thermal energy into mechanical energy."
+    },
+    {
+      "label": "D",
+      "text": "The plants next to the window were able to convert more light energy into electrical energy."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The image shows a multiple-choice question with four options labeled A, B, C, and D."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "An inequality is shown.\n\n\\( \\frac{1}{8} < x < 18\\% \\)\n\nWhich value of \\( x \\) makes the inequality true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{5} \\)"
+    },
+    {
+      "label": "B",
+      "text": "1.6"
+    },
+    {
+      "label": "C",
+      "text": "0.09"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\sqrt{0.02} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{1}{8} < x < 18\\% \\)",
+    "\\( \\frac{1}{5} \\)",
+    "1.6",
+    "0.09",
+    "\\( \\sqrt{0.02} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

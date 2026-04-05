@@ -1,0 +1,30 @@
+{
+  "stem": "How did the military innovation shown in this photograph affect the course of World War I?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It helped transport large numbers of troops to the battlefield."
+    },
+    {
+      "label": "B",
+      "text": "It helped break the stalemate of trench warfare."
+    },
+    {
+      "label": "C",
+      "text": "It made communications with officers on the front lines possible."
+    },
+    {
+      "label": "D",
+      "text": "It made the use of land mines obsolete."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "black and white photograph of an early tank moving on a dirt path in an urban area with a soldier in the tank and another man crouching nearby"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

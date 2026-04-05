@@ -1,0 +1,40 @@
+{
+  "stem": "The graph of f(x) = x is transformed to create the graph of g(x) = \\frac{1}{2}f(x) + 3. Complete the statement to compare the graphs of f and g.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [
+    {
+      "label": "A",
+      "text": "is half as steep as"
+    },
+    {
+      "label": "B",
+      "text": "is twice as steep as"
+    },
+    {
+      "label": "C",
+      "text": "is 3 units higher than"
+    },
+    {
+      "label": "D",
+      "text": "has the same steepness as"
+    },
+    {
+      "label": "E",
+      "text": "3 units lower than"
+    }
+  ],
+  "choice_pool": [
+    "is half as steep as",
+    "is twice as steep as",
+    "3 units higher than",
+    "3 units lower than",
+    "has the same steepness as"
+  ],
+  "response_template": "The graph of g is [blank_1] the graph of f and has a y-intercept that is [blank_2] that of f.",
+  "visual_elements": [
+    "drop-down menus"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.99,
+  "notes": null
+}

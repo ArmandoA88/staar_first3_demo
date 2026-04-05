@@ -1,0 +1,34 @@
+{
+  "stem": "Based on the information, which star is most like the sun?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Star 1"
+    },
+    {
+      "label": "G",
+      "text": "Star 2"
+    },
+    {
+      "label": "H",
+      "text": "Star 3"
+    },
+    {
+      "label": "J",
+      "text": "Star 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The spectral classes of four stars are shown in comparison with a Hertzsprung-Russell diagram.",
+    "A Hertzsprung-Russell diagram with Luminosity (L_sun) on the vertical axis from 10^-4 to 10^6 and Temperature (K) on the horizontal axis from 25,000 to 3,000.",
+    "Spectral classes along horizontal axis: O, B, A, F, G, K, M.",
+    "Clusters labeled: Supergiants (top right), Giants (middle right), Main-sequence stars (middle diagonal band), White dwarfs (bottom left).",
+    "Below the diagram is a line with 4 star icons located at spectral classes: Star 1 at O, Star 2 at A, Star 3 at G, Star 4 at M."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

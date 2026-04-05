@@ -1,0 +1,28 @@
+{
+  "stem": "Which expression is equivalent to \\((15a^0b^2c^{34})(3a^{16}b^{-29}c^0)\\) for all values of \\(a\\), \\(b\\), and \\(c\\) where the expression is defined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\frac{18}{b^{58}}\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\frac{45}{b^{58}}\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\frac{18a^{16}c^{34}}{b^{27}}\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\(\\frac{45a^{16}c^{34}}{b^{27}}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

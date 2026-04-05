@@ -1,0 +1,28 @@
+{
+  "stem": "What is a PRIMARY reason why Hurricane Katrina caused major destruction to New Orleans in 2005?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Levees surrounding the city collapsed under pressure from floodwaters."
+    },
+    {
+      "label": "G",
+      "text": "Crude oil from offshore drilling platforms sparked fires across the city."
+    },
+    {
+      "label": "H",
+      "text": "Citywide pavement prevented floodwaters from soaking into the ground."
+    },
+    {
+      "label": "J",
+      "text": "Mass evacuations left the city without enough volunteers to build a seawall."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

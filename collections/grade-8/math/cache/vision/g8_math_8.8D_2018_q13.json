@@ -1,0 +1,30 @@
+{
+  "stem": "In each diagram, line \\( k \\) is parallel to line \\( l \\), and line \\( t \\) intersects lines \\( k \\) and \\( l \\). Based on the diagrams, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The value of \\( x \\) is 79, because the two angles shown in each diagram are congruent."
+    },
+    {
+      "label": "B",
+      "text": "The value of \\( x \\) is 101, because the two angles shown in each diagram are supplementary."
+    },
+    {
+      "label": "C",
+      "text": "The value of \\( x \\) is greater than 90, because the two angles shown in each diagram are obtuse angles."
+    },
+    {
+      "label": "D",
+      "text": "The value of \\( x \\) is 11, because the two angles shown in each diagram are complementary."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with 4 pairs of parallel lines labeled k and l, line t intersects both k and l. Angles marked 113\u00b0, 127\u00b0, 79\u00b0, and x\u00b0 as shown in the image."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

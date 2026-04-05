@@ -1,0 +1,30 @@
+{
+  "stem": "Which era in U.S. history correctly replaces the question mark for the title of this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Reconstruction"
+    },
+    {
+      "label": "B",
+      "text": "Sectionalism"
+    },
+    {
+      "label": "C",
+      "text": "The Revolutionary Period"
+    },
+    {
+      "label": "D",
+      "text": "The Early Republic"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with question mark at top connecting to three boxes: \"People protested the passage of the Intolerable Acts.\", \"Civilians were forced to house soldiers.\", \"People tried to expand self-government.\""
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

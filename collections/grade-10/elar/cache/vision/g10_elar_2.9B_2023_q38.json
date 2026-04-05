@@ -1,0 +1,28 @@
+{
+  "stem": "Raul wants to add a supporting sentence to the second paragraph (sentences 6-13). Which sentence should be added after sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Most of the fish species in Big Bend are the size of minnows, but there are also large catfish."
+    },
+    {
+      "label": "B",
+      "text": "Nearly a quarter of the animal species native to North America can be found in Big Bend."
+    },
+    {
+      "label": "C",
+      "text": "If actions are not soon taken, many endangered species will be lost forever."
+    },
+    {
+      "label": "D",
+      "text": "Tropical rain forests, which are not found in North America, would have more animal species."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "A customer purchases an electronic device for $650. Each year the value of the electronic device decreases by 30%.\n\nWhich statement is true about the graph that represents the relationship between the value of the device in dollars, y, and the number of years, x, since the device was purchased?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The y-intercept of the graph is 650."
+    },
+    {
+      "label": "B",
+      "text": "The y-intercept of the graph is 455."
+    },
+    {
+      "label": "C",
+      "text": "The graph has a vertical asymptote at x = 0."
+    },
+    {
+      "label": "D",
+      "text": "The graph has a horizontal asymptote at y = 30."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

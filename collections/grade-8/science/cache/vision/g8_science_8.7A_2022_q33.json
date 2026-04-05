@@ -1,0 +1,30 @@
+{
+  "stem": "Four students designed and built air propelled rockets that were launched into the air. Their data are recorded in the table.\n\nData Table\n\n| Rocket | Mass (kg) | Net Force (N) |\n|-------|------------|---------------|\n| 1     | 0.528      | 12.0          |\n| 2     | 0.426      | 8.0           |\n| 3     | 0.515      | 12.0          |\n| 4     | 0.477      | 8.0           |\n\nWhich rocket had the greatest acceleration?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Rocket 1"
+    },
+    {
+      "label": "B",
+      "text": "Rocket 2"
+    },
+    {
+      "label": "C",
+      "text": "Rocket 3"
+    },
+    {
+      "label": "D",
+      "text": "Rocket 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Data Table"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

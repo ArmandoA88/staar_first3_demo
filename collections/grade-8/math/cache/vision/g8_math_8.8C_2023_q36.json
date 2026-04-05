@@ -1,0 +1,30 @@
+{
+  "stem": "Jessica baked 72 cookies and sold x cookies. Max baked 36 cookies and sold half as many cookies as Jessica did. How many cookies did Jessica sell if they each had the same number of cookies left over?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "18"
+    },
+    {
+      "label": "B",
+      "text": "36"
+    },
+    {
+      "label": "C",
+      "text": "24"
+    },
+    {
+      "label": "D",
+      "text": "72"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "icons"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

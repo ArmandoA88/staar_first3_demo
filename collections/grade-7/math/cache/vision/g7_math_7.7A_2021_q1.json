@@ -1,0 +1,28 @@
+{
+  "stem": "George started a coin collection. His dad gave him 75 coins. Each month he will add 20 coins to the collection.\n\nWhich equation can be used to find y, the total number of coins in George's collection after x months?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 75x + 20"
+    },
+    {
+      "label": "B",
+      "text": "y = 20x + 75"
+    },
+    {
+      "label": "C",
+      "text": "y = 75x - 20"
+    },
+    {
+      "label": "D",
+      "text": "y = 20x - 75"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

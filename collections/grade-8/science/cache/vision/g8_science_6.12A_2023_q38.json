@@ -1,0 +1,30 @@
+{
+  "stem": "Which change would most likely cause a decrease in the frog population?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An increase in the ladybird population"
+    },
+    {
+      "label": "B",
+      "text": "An increase in the snake population"
+    },
+    {
+      "label": "C",
+      "text": "An increase in the butterfly population"
+    },
+    {
+      "label": "D",
+      "text": "An increase in the number of producers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "forest food web diagram with arrows connecting: Berries to Greenfly, Butterfly, Grasshopper; Greenfly to Ladybird; Ladybird to Dragonfly; Butterfly to Chickadee and Frog; Dragonfly to Frog; Grasshopper to Chickadee and Butterfly; Chickadee to Snake, Buzzard, Mouse; Snake to Buzzard; Mouse to Fox; Rabbit to Buzzard and Fox; Plantain to Grasshopper, Mouse, Rabbit"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

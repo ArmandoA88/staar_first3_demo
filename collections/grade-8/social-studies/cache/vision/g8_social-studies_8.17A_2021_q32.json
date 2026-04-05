@@ -1,0 +1,32 @@
+{
+  "stem": "Which group would have made these arguments in 1787?",
+  "instruction": "Study the image and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Free-Soilers"
+    },
+    {
+      "label": "G",
+      "text": "Anti-Federalists"
+    },
+    {
+      "label": "H",
+      "text": "Loyalists"
+    },
+    {
+      "label": "J",
+      "text": "Federalists"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Constitution does not protect individual liberties.",
+    "The Constitution should give more power to the states.",
+    "Image of three men in 18th-century clothing having a discussion"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

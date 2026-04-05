@@ -1,0 +1,35 @@
+{
+  "stem": "What is the correct way to write sentence 26?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Freeze drying is frequently used in preserving coffee and making it \"instant.\""
+    },
+    {
+      "label": "G",
+      "text": "Making it \"instant,\" freeze drying is frequently used in preserving coffee."
+    },
+    {
+      "label": "H",
+      "text": "Frequently used in preserving coffee is freeze drying and it makes it \"instant.\""
+    },
+    {
+      "label": "J",
+      "text": "Preserving coffee and making it \"instant,\" freeze drying is frequently used."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q4 Passage #1",
+    "4 What is the correct way to write sentence 26?",
+    "F Freeze drying is frequently used in preserving coffee and making it \u201cinstant.\u201d",
+    "G Making it \u201cinstant,\u201d freeze drying is frequently used in preserving coffee.",
+    "H Frequently used in preserving coffee is freeze drying and it makes it \u201cinstant.\u201d",
+    "J Preserving coffee and making it \u201cinstant,\u201d freeze drying is frequently used."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

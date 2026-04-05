@@ -1,0 +1,34 @@
+{
+  "stem": "Leila lives in Austin and visited another city in Texas that is 146 miles away. The map shown uses a scale where 0.5 inch represents 25 miles.\n\nUse the map to select the name of the city that Leila visited.",
+  "instruction": "Select ONE correct answer.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Odessa"
+    },
+    {
+      "label": "B",
+      "text": "Fort Worth"
+    },
+    {
+      "label": "C",
+      "text": "Waco"
+    },
+    {
+      "label": "D",
+      "text": "Houston"
+    },
+    {
+      "label": "E",
+      "text": "San Antonio"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map of Texas showing distances from Austin to Odessa (5.90 in.), Fort Worth (3.46 in.), Waco (1.90 in.), Houston (2.92 in.), San Antonio (1.46 in.) with labels and scale note 'Not drawn to scale'"
+  ],
+  "item_type_inferred": "Hot Spot",
+  "confidence": 1,
+  "notes": null
+}

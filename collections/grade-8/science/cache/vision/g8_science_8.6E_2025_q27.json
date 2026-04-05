@@ -1,0 +1,32 @@
+{
+  "stem": "A student measures the mass of a tarnished silver ring and 50 mL of a baking soda solution. The student puts the ring in a pan, adds the baking soda solution to the pan, and stirs it well. After 30 minutes, the student removes the ring from the pan, and it appears shiny and new. The student observes tiny, yellow flakes in the solution at the bottom of the pan.\n\nWhat is the student MOST LIKELY to discover about the mass of the ring and solution after the ring is removed from the pan?",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once.",
+  "options": [
+    {
+      "label": null,
+      "text": "increase"
+    },
+    {
+      "label": null,
+      "text": "decrease"
+    },
+    {
+      "label": null,
+      "text": "remain the same"
+    }
+  ],
+  "choice_pool": [
+    "increase",
+    "decrease",
+    "remain the same"
+  ],
+  "response_template": "The mass of the ring will [blank_1]. The mass of the solution will [blank_2]. The total mass of the ring and the solution will [blank_3].",
+  "visual_elements": [
+    "box_1",
+    "box_2",
+    "box_3"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.98,
+  "notes": null
+}

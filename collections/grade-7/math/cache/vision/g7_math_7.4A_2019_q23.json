@@ -1,0 +1,33 @@
+{
+  "stem": "Which answer choice represents a person burning 90 calories by climbing 18 flights of stairs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\nCalories Burned per\nFlight of Stairs Climbed\n\nNumber of\nFlights of Stairs\nClimbed, f\nNumber of\nCalories\nBurned, c\n\n1\n5\n3\n15\n5\n25\n7\n35\n"
+    },
+    {
+      "label": "B",
+      "text": "c = f + 5, where c represents the number of calories burned and f represents the number of flights of stairs climbed"
+    },
+    {
+      "label": "C",
+      "text": "Graph with vertical axis labeled Number of Calories Burned, c, and horizontal axis labeled Number of Flights of Stairs Climbed, f. Points shown on line from (0,0) to (5,90) with grid lines for 18, 36, 54, 72, and 90 calories."
+    },
+    {
+      "label": "D",
+      "text": "A person who climbs 5 flights of stairs will burn 1 calorie."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A: Table with flights of stairs climbed 1, 3, 5, 7 and calories burned 5, 15, 25, 35",
+    "B: Equation c = f + 5",
+    "C: Graph showing linear relationship between flights climbed (f) and calories burned (c) to 90 calories at 5 flights",
+    "D: Statement about calories burned for 5 flights"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

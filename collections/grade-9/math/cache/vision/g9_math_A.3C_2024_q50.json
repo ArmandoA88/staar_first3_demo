@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a linear function is shown on the grid.\n\nWhat value best represents the y-intercept of the line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-2"
+    },
+    {
+      "label": "B",
+      "text": "-\\frac{3}{2}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{2}{3}"
+    },
+    {
+      "label": "D",
+      "text": "3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of a linear function showing a line passing through the origin at (0,0) and points extending from quadrant III to quadrant I on the coordinate plane with x-axis from -5 to 5 and y-axis from -5 to 5"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

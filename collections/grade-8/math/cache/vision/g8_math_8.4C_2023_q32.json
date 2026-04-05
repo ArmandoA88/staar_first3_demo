@@ -1,0 +1,30 @@
+{
+  "stem": "Josh is saving money to buy a computer. He put the initial amount he has saved into a jar. Each month he puts an additional amount of money into the jar. The table shows the linear relationship between the number of months Josh has added money to the jar, x, and the total amount of money in the jar, y.",
+  "instruction": "Which statement is true?",
+  "options": [
+    {
+      "label": "A",
+      "text": "The initial amount Josh put in the jar was $225."
+    },
+    {
+      "label": "B",
+      "text": "The initial amount Josh put in the jar was $75."
+    },
+    {
+      "label": "C",
+      "text": "The amount of money Josh adds to the jar each month is $45."
+    },
+    {
+      "label": "D",
+      "text": "The amount of money Josh adds to the jar each month is $60."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns: Number of Months, x and Total Amount in Jar, y (dollars). Rows: (5,225), (7,285), (11,405), (15,525)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

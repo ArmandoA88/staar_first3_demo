@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the net revenue in millions of dollars of a company every three months for two years. An exponential function can be used to model the data.\n\nCompany\n\n| Time, x (months) | Net Revenue, r(x) (millions of dollars) |\n|------------------|-----------------------------------------|\n| 3                | 274                                     |\n| 6                | 389                                     |\n| 9                | 467                                     |\n| 12               | 560                                     |\n| 15               | 960                                     |\n| 18               | 1,100                                   |\n| 21               | 1,320                                   |\n| 24               | 1,584                                   |\n\nWhich function best models the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "r(x) = 223.06(1.09)^x"
+    },
+    {
+      "label": "G",
+      "text": "r(x) = 1.09(223.06)^x"
+    },
+    {
+      "label": "H",
+      "text": "r(x) = 2,232.91(0.92)^x"
+    },
+    {
+      "label": "J",
+      "text": "r(x) = 0.92(2,232.91)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table of data: Time, x (months) vs Net Revenue, r(x) (millions of dollars)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

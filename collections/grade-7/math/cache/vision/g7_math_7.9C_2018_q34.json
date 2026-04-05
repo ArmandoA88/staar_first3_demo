@@ -1,0 +1,30 @@
+{
+  "stem": "The figure shown was created by placing the vertices of a square on the circle. Use the ruler provided to measure the dimensions of the square and the circle to the nearest centimeter.",
+  "instruction": "Which measurement is closest to the area of the shaded region of the figure in square centimeters?",
+  "options": [
+    {
+      "label": "F",
+      "text": "17.6 cm\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "265.0 cm\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "29.5 cm\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "127.5 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circle with inscribed square, shaded region outside the square but inside the circle, dotted horizontal diameter line"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

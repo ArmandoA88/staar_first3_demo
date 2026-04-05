@@ -1,0 +1,34 @@
+{
+  "stem": "What are the solutions to 2(x - 7)^{2} = 32?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = 7 \u00b1 \u221a32"
+    },
+    {
+      "label": "B",
+      "text": "x = \u00b1 \u221a65"
+    },
+    {
+      "label": "C",
+      "text": "x = 3 and x = 11"
+    },
+    {
+      "label": "D",
+      "text": "x = -1 and x = 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2(x - 7)^{2} = 32",
+    "x = 7 \u00b1 \u221a32",
+    "x = \u00b1 \u221a65",
+    "x = 3 and x = 11",
+    "x = -1 and x = 15"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

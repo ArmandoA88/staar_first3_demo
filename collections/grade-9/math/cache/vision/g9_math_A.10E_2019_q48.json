@@ -1,0 +1,31 @@
+{
+  "stem": "Which function is equivalent to \\( q(x) = 9x^{2} - 24x + 16 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( q(x) = (9x - 4)(x - 4) \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( q(x) = (3x + 4)^{2} \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( q(x) = (9x + 4)(x + 4) \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( q(x) = (3x - 4)^{2} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation q(x) = 9x^2 - 24x + 16",
+    "answer choices with labels F, G, H, J"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

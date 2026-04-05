@@ -1,0 +1,32 @@
+{
+  "stem": "What is one way to describe the developments shown above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Effects of programs to monitor national security"
+    },
+    {
+      "label": "B",
+      "text": "Conclusions from research conducted by the Environmental Protection Agency"
+    },
+    {
+      "label": "C",
+      "text": "Program results of the Federal Civil Defense Administration"
+    },
+    {
+      "label": "D",
+      "text": "Practical applications of technologies developed for spaceflight"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Special fabrics that keep the wearer cool \u2192 Fabrics that block harmful ultraviolet rays",
+    "High-strength textiles made for reentry parachutes \u2192 Bulletproof vests for law enforcement agents",
+    "Sensors to detect biological traces on planets \u2192 Devices to monitor the presence of contaminants in water"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A teacher asks students to make a model of a transform plate boundary. The students use blocks to represent tectonic plates and slide the blocks past each other in the directions of the arrows as shown.",
+  "instruction": "Which event can the students best demonstrate with their model?",
+  "options": [
+    {
+      "label": "A",
+      "text": "An earthquake"
+    },
+    {
+      "label": "B",
+      "text": "A volcanic eruption"
+    },
+    {
+      "label": "C",
+      "text": "Formation of a rift valley"
+    },
+    {
+      "label": "D",
+      "text": "Building up of a mountain"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of two rectangular blocks labeled Plate with arrows showing opposite horizontal directions, titled Transform Plate Boundary"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

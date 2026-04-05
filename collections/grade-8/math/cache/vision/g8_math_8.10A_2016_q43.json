@@ -1,0 +1,30 @@
+{
+  "stem": "Pentagon ABCDE is rotated 180\u00b0 clockwise about the origin to form pentagon A'B'C'D'E'.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Pentagon ABCDE is congruent to pentagon A'B'C'D'E'."
+    },
+    {
+      "label": "B",
+      "text": "The sum of the angle measures of pentagon A'B'C'D'E' is 180\u00b0 more than the sum of the angle measures of pentagon ABCDE."
+    },
+    {
+      "label": "C",
+      "text": "Each side length of pentagon A'B'C'D'E' is 2 times the corresponding side length of pentagon ABCDE."
+    },
+    {
+      "label": "D",
+      "text": "Each side length of pentagon A'B'C'D'E' is \\( \\frac{1}{2} \\) the corresponding side length of pentagon ABCDE."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of pentagon ABCDE on coordinate plane with points A, B, C, D, E labeled"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

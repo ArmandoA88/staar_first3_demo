@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle \\( MNP \\) and triangle \\( JKL \\) are similar right triangles.\n\n[graph: coordinate plane with points M(-10,8), N(-4,8), J(-7,4), K(-1,4), L(-4,0), P(-2,-4) plotted and triangles MNP, JKL shown]",
+  "instruction": "Which proportion can be used to show that the slope of \\( JL \\) is equal to the slope of \\( MP \\)?",
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( \\frac{0 - (-7)}{4 - (-4)} = \\frac{-4 - (-10)}{8 - (-1)} \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( \\frac{0 - 4}{-4 - (-7)} = \\frac{-4 - 8}{-1 - (-10)} \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( \\frac{0 - (-4)}{4 - (-7)} = \\frac{-4 - (-1)}{8 - (-10)} \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( \\frac{-4 - (-7)}{0 - 4} = \\frac{-1 - (-10)}{-4 - 8} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane with labeled points M(-10,8), N(-4,8), J(-7,4), K(-1,4), L(-4,0), P(-2,-4) and plotted triangles MNP and JKL"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

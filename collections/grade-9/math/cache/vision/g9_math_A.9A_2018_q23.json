@@ -1,0 +1,30 @@
+{
+  "stem": "What appears to be the domain of the part of the exponential function graphed on the grid?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-1 \\leq x \\leq 3"
+    },
+    {
+      "label": "B",
+      "text": "-1 \\leq y \\leq 3"
+    },
+    {
+      "label": "C",
+      "text": "5.3 \\leq x \\leq 27"
+    },
+    {
+      "label": "D",
+      "text": "5.3 \\leq y \\leq 27"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of an exponential function with points shown from x = -1 to x = 3 and y from about 5.3 to 27"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

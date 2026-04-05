@@ -1,0 +1,30 @@
+{
+  "stem": "A coach is ordering shirts for a team.\n\n\u2022 The coach pays a one-time fee of $24.\n\u2022 The coach also pays $8 for each shirt ordered.\n\nWhich function can be used to find c, the total amount the coach pays in dollars when k shirts are ordered?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "c = 8k + 32"
+    },
+    {
+      "label": "G",
+      "text": "c = 8k + 24"
+    },
+    {
+      "label": "H",
+      "text": "c = 32k + 8"
+    },
+    {
+      "label": "J",
+      "text": "c = 24k + 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The image shows a math problem with text describing a scenario where a coach orders shirts and pays a one-time fee and a per-shirt cost. Four answer choices are given with functions representing the total amount paid based on the number of shirts."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

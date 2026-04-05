@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph appears to show a proportional relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with a line through the origin slanting downward from left to right"
+    },
+    {
+      "label": "H",
+      "text": "Graph with a vertical line at x=4"
+    },
+    {
+      "label": "G",
+      "text": "Graph with a line through the origin slanting upward from left to right"
+    },
+    {
+      "label": "J",
+      "text": "Graph with a horizontal line at y=-1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph F: line through origin slanting downward",
+    "Graph H: vertical line at x=4",
+    "Graph G: line through origin slanting upward",
+    "Graph J: horizontal line at y=-1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

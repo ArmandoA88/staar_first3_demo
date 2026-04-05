@@ -1,0 +1,30 @@
+{
+  "stem": "A student bounces a basketball off the gym floor.\n\nWhich statement correctly describes the action-reaction force pair that causes the ball to bounce?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The gym floor pushes up on the ball as the ball pushes down on the floor with an equal amount of force."
+    },
+    {
+      "label": "B",
+      "text": "The gym floor pushes up on the ball with a greater amount of force than the ball pushes down on the floor."
+    },
+    {
+      "label": "C",
+      "text": "The gym floor pushes up on the ball as gravity pulls down on the ball with an equal amount of force."
+    },
+    {
+      "label": "D",
+      "text": "The gym floor pushes up on the ball with a greater amount of force than gravity pulls down on the ball."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice options labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

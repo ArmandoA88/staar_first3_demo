@@ -1,0 +1,30 @@
+{
+  "stem": "This World War II poster publicizes a national campaign aimed at \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "creating agricultural projects to relieve an economic depression"
+    },
+    {
+      "label": "B",
+      "text": "encouraging a healthy diet for future soldiers"
+    },
+    {
+      "label": "C",
+      "text": "lowering the cost of living by creating a surplus of food"
+    },
+    {
+      "label": "D",
+      "text": "supporting the war effort by reducing demand for commercially grown food"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "An image of a World War II poster showing people planting a garden with the text 'PLANT A VICTORY GARDEN' at the top and 'OUR FOOD IS FIGHTING' on a basket of vegetables."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "Question references a specific historical poster theme related to World War II victory gardens."
+}

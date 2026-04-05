@@ -1,0 +1,19 @@
+{
+  "stem": "The water level in a tank is changing at a constant rate. The graph shows the relationship between time in hours, x, and the water level in meters, y.\n\nComplete the statement that describes the rate of change of the water level with respect to time.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "decreases",
+    "increases",
+    "0.25",
+    "1",
+    "4"
+  ],
+  "response_template": "The water level [blank_1] at a rate of [blank_2] m/h.",
+  "visual_elements": [
+    "graph of water level (m) versus time (h) with a downward sloping line from about (0,9) to (6,7.5)"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

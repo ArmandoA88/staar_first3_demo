@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Fortunately, the power of imagination that Shae and her dad shared gave them an unusual ability to reorient in the face of an obstacle."
+    },
+    {
+      "label": "B",
+      "text": "Fortunately, the power of imagination that Shae and her dad shared. It gave them an unusual ability to reorient in the face of an obstacle."
+    },
+    {
+      "label": "C",
+      "text": "Fortunately, the power of imagination that Shae and her dad shared which gave them an unusual ability to reorient in the face of an obstacle."
+    },
+    {
+      "label": "D",
+      "text": "Fortunately, the power of imagination that Shae and her dad shared gave them an unusual ability to reorient. In the face of an obstacle."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

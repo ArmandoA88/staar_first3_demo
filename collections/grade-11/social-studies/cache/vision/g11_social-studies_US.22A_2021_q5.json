@@ -1,0 +1,32 @@
+{
+  "stem": "How were these rights formally obtained?",
+  "instruction": "Read the list and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "By granting citizenship to immigrants"
+    },
+    {
+      "label": "B",
+      "text": "By passing antitrust legislation"
+    },
+    {
+      "label": "C",
+      "text": "By ratifying constitutional amendments"
+    },
+    {
+      "label": "D",
+      "text": "By engaging in an international conflict"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Suffrage for African American men",
+    "Suffrage for women",
+    "Suffrage for 18-year-old men and women"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

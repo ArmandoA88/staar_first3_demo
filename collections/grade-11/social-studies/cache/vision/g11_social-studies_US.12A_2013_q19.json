@@ -1,0 +1,31 @@
+{
+  "stem": "Which outcome was an important effect of the 1898 event illustrated by this map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Increased U.S. foreign aid to the developing countries in South America"
+    },
+    {
+      "label": "B",
+      "text": "Increased U.S. public support for the construction of a canal through Central America"
+    },
+    {
+      "label": "C",
+      "text": "Decreased U.S. economic influence in the Western Hemisphere"
+    },
+    {
+      "label": "D",
+      "text": "Decreased U.S. naval presence in the Caribbean Sea"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map showing voyage of the USS Oregon from San Francisco, California in March 1898 to Jupiter Inlet, Florida in May 1898",
+    "Compass rose with N, E, S, W directions"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.9,
+  "notes": "The question relates to the 1898 voyage of the USS Oregon and its impact; answer choices relate to U.S. influence and naval presence."
+}

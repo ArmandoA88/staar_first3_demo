@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the number of games in which a basketball team\u2019s total score was within each of five ranges of points.\n\nBasketball Team Scores\n| Total Score | Number of Games |\n|-------------|----------------|\n| 96\u2013105      | 19             |\n| 106\u2013115     | 21             |\n| 116\u2013125     | 17             |\n| 126\u2013135     | 10             |\n| 136\u2013145     | 3              |\n\nUsing the data in the table, complete the predictions about the number of points the team will score in its next game.\n\nMove the correct answer to each box. Each answer may be used more than once. Not all answers will be used.",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "more likely than"
+    },
+    {
+      "label": null,
+      "text": "less likely than"
+    },
+    {
+      "label": null,
+      "text": "equally likely as"
+    }
+  ],
+  "choice_pool": [
+    "more likely than",
+    "less likely than",
+    "equally likely as"
+  ],
+  "response_template": "Scoring 96\u2013105 points in the next game is [blank_1] scoring 136\u2013145 points in the next game.\n\nScoring 116\u2013125 points in the next game is [blank_2] scoring 106\u2013115 points in the next game.",
+  "visual_elements": [
+    "Basketball Team Scores table"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.98,
+  "notes": null
+}

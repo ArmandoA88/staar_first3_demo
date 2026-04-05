@@ -1,0 +1,30 @@
+{
+  "stem": "A square is shown on the coordinate grid. Which transformation does NOT produce a square with vertices at the same set of coordinate pairs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( (x,y) \\to (-x,y) \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( (x,y) \\to (x-2,y-2) \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( (x,y) \\to (-x,-y) \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( (x,y) \\to (-y,x) \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with a square with vertices at (-2, 2), (2, 2), (-2, -2), and (2, -2)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

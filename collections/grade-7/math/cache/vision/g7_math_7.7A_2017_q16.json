@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the distance, y, a cheetah can travel in feet in x seconds.\n\nSpeed of a Cheetah\n\n| Time, x (seconds) | Distance, y (feet) |\n|-------------------|--------------------|\n| 5                 | 470                |\n| 10                | 940                |\n| 15                | 1,410              |\n| 20                | 1,880              |\n| 25                | 2,350              |\n\nBased on the information in the table, which equation can be used to model the relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = 5x"
+    },
+    {
+      "label": "G",
+      "text": "y = x + 5"
+    },
+    {
+      "label": "H",
+      "text": "y = x + 470"
+    },
+    {
+      "label": "J",
+      "text": "y = 94x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns: Time, x (seconds) and Distance, y (feet) showing values (5,470), (10,940), (15,1410), (20,1880), (25,2350)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

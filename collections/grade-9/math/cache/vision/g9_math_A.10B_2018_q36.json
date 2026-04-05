@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to \\( (h^2 + 9h - 1)(-4h + 3) \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-4h^3 - 33h^2 + 31h - 3"
+    },
+    {
+      "label": "G",
+      "text": "4h^3 + 39h^2 - 23h - 3"
+    },
+    {
+      "label": "H",
+      "text": "-4h^3 - 39h^2 + 23h + 3"
+    },
+    {
+      "label": "J",
+      "text": "4h^3 + 33h^2 - 31h + 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(h^2 + 9h - 1)(-4h + 3)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

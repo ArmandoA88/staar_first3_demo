@@ -1,0 +1,25 @@
+{
+  "stem": "Scientists observe the traits of cells on four microscope slides and record their observations in a table. Based on the scientists' observations, identify the cell type for each microscope slide in the table.",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once.",
+  "options": [
+    {
+      "label": null,
+      "text": "Eukaryotic cells"
+    },
+    {
+      "label": null,
+      "text": "Prokaryotic cells"
+    }
+  ],
+  "choice_pool": [
+    "Eukaryotic cells",
+    "Prokaryotic cells"
+  ],
+  "response_template": "Slide 1: [blank_1]\nSlide 2: [blank_2]\nSlide 3: [blank_3]\nSlide 4: [blank_4]",
+  "visual_elements": [
+    "Table with four slides and observations:\nSlide 1: Are single-celled, Have no nucleus, Have flagella\nSlide 2: Reproduce through mitosis, Have linear DNA, Have endoplasmic reticulum\nSlide 3: Have a membrane-bound nucleus, Have membrane-bound organelles, Are multicellular\nSlide 4: Have mitochondria, Are larger than 10 micrometers, Have complex structure"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What was the significance of the event depicted in the photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The U.S government officially desegregated the armed forces."
+    },
+    {
+      "label": "B",
+      "text": "The U.S. government extended veterans benefits to African Americans."
+    },
+    {
+      "label": "C",
+      "text": "The U.S. government honored an African American veteran for bravery during World War II."
+    },
+    {
+      "label": "D",
+      "text": "The U.S. government created a new military commendation for veterans of foreign wars."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph showing President Bill Clinton awarding the Medal of Honor to Vernon Baker, January 1997"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

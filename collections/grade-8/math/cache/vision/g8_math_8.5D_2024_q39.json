@@ -1,0 +1,30 @@
+{
+  "stem": "A catering company recorded the total number of cookies that were eaten at events with different numbers of guests. The scatterplot shows the results.\n\nBased on the scatterplot, approximately how many cookies would be eaten at an event with 45 guests?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "41"
+    },
+    {
+      "label": "B",
+      "text": "39"
+    },
+    {
+      "label": "C",
+      "text": "48"
+    },
+    {
+      "label": "D",
+      "text": "44"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot with x-axis labeled 'Number of Guests' ranging roughly 20 to 42 and y-axis labeled 'Number of Cookies' ranging roughly 20 to 44, displaying points clustered between 22 to 40 guests and 22 to 41 cookies eaten"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

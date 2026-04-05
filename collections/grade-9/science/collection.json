@@ -1,0 +1,19 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-9-science",
+  "label": "Biology Science",
+  "grade": 9,
+  "subject": "Science",
+  "status": "ready",
+  "root": "collections/grade-9/science",
+  "source_pdf": "collections/grade-9/science/source/sciencebiology.pdf",
+  "catalog": "collections/grade-9/science/data/staar_catalog.json",
+  "reports": {
+    "coverage_csv": "collections/grade-9/science/reports/pdf_coverage_report.csv",
+    "coverage_md": "collections/grade-9/science/reports/pdf_coverage_report.md",
+    "coverage_summary_json": "collections/grade-9/science/reports/pdf_coverage_summary.json"
+  },
+  "images_dir": "collections/grade-9/science/images/extracted",
+  "stimulus_images_dir": "collections/grade-9/science/images/stimuli",
+  "vision_cache_dir": "collections/grade-9/science/cache/vision"
+}

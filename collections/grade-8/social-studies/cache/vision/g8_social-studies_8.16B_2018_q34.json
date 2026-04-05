@@ -1,0 +1,30 @@
+{
+  "stem": "How did President Lincoln succeed in permanently abolishing the practice represented by the tree in this cartoon?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "By ordering the use of popular sovereignty to decide the issue of slavery"
+    },
+    {
+      "label": "G",
+      "text": "By encouraging an armed rebellion of slaves in the South"
+    },
+    {
+      "label": "H",
+      "text": "By promoting the passage and ratification of the Thirteenth Amendment"
+    },
+    {
+      "label": "J",
+      "text": "By helping abolitionists fund the Underground Railroad"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A man with an ax is about to cut a tree labeled 'SLAVERY.' A Black person is hiding in the branches of the tree."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

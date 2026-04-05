@@ -1,0 +1,30 @@
+{
+  "stem": "The table represents some points on the graph of linear function f.\n\nx  -3   2   5   11\nf(x)  -130  0  78  234\n\nWhich function represents f?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "f(x) = 26(x - 2)"
+    },
+    {
+      "label": "G",
+      "text": "f(x) = -26(2x - 1)"
+    },
+    {
+      "label": "H",
+      "text": "f(x) = 13(x - 2)"
+    },
+    {
+      "label": "J",
+      "text": "f(x) = -2(26x - 1)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with x values -3, 2, 5, 11 and f(x) values -130, 0, 78, 234"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The canals shown on this map caused \u2014",
+  "instruction": "Study the map and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "a decline in farming in areas far from the canal routes"
+    },
+    {
+      "label": "G",
+      "text": "increased competition among cotton producers in the South"
+    },
+    {
+      "label": "H",
+      "text": "a decline in international trade going through Atlantic port cities"
+    },
+    {
+      "label": "J",
+      "text": "the rapid growth of urban centers along the canal routes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "map of Principal Canals Built by 1860 showing dashed lines for canals across northeastern and midwestern US states"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

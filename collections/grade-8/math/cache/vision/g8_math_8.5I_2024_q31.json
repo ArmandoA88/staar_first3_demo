@@ -1,0 +1,28 @@
+{
+  "stem": "A bakery delivers cookies to offices.\n\n\u2022 The bakery charges a $5 delivery fee.\n\n\u2022 The bakery charges a total of $20.00 for delivering 12 cookies.\n\n\u2022 The bakery charges a total of $27.50 for delivering 18 cookies.\n\nWhich equation represents the total charge in dollars, y, for a delivery of x cookies?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 1.25x + 5"
+    },
+    {
+      "label": "B",
+      "text": "y = 5x + 1.25"
+    },
+    {
+      "label": "C",
+      "text": "y = 1.25x + 6"
+    },
+    {
+      "label": "D",
+      "text": "y = 5x + 7.50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

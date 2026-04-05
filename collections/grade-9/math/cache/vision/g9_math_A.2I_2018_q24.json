@@ -1,0 +1,30 @@
+{
+  "stem": "The tables of ordered pairs represent some points on the graphs of lines q and v.\n\nLine q      Line v\n x  -9  -3  2      x  -4  0  10\n y   0  18 33      y  10  8   3\n\nWhich system of equations is represented by lines q and v?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "21x - y = 9\n5x + 6y = 40"
+    },
+    {
+      "label": "G",
+      "text": "3x - y = -27\nx + 2y = 16"
+    },
+    {
+      "label": "H",
+      "text": "21x - y = 9\n5x + 6y = 20"
+    },
+    {
+      "label": "J",
+      "text": "9x - y = -27\nx + 2y = 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two tables showing x and y values for lines q and v"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

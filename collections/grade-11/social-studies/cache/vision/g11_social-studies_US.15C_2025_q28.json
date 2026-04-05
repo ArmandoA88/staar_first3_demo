@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement explains the governmental action being portrayed by this political cartoon?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The passage of the Open Door Policy"
+    },
+    {
+      "label": "B",
+      "text": "The refusal to join the League of Nations"
+    },
+    {
+      "label": "C",
+      "text": "The passage of immigration quotas"
+    },
+    {
+      "label": "D",
+      "text": "The refusal to enter foreign military conflicts"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Political cartoon with a large funnel labeled EUROPE, people coming through the funnel, and a figure with a top hat holding a sign that has '3/1' on it."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

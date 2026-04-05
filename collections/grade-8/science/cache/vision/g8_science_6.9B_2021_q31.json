@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram models four lunar phases.\n\nDuring which lunar phase is the tide highest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Phase 1"
+    },
+    {
+      "label": "B",
+      "text": "Phase 2"
+    },
+    {
+      "label": "C",
+      "text": "Phase 3"
+    },
+    {
+      "label": "D",
+      "text": "Phase 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four lunar phase images numbered 1 to 4 showing different illumination of the moon"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

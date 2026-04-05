@@ -1,0 +1,40 @@
+{
+  "stem": "Researchers at a zoo recorded the number of hours that the gorillas in two groups slept at night. The dot plots show the results.\n\nCompare the data in the dot plots.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [
+    {
+      "label": null,
+      "text": "symmetrical"
+    },
+    {
+      "label": null,
+      "text": "skewed left"
+    },
+    {
+      "label": null,
+      "text": "skewed right"
+    },
+    {
+      "label": null,
+      "text": "mean"
+    },
+    {
+      "label": null,
+      "text": "median"
+    }
+  ],
+  "choice_pool": [
+    "symmetrical",
+    "skewed left",
+    "skewed right",
+    "mean",
+    "median"
+  ],
+  "response_template": "The distribution of the data for both groups is [blank_1], and both groups have the same [blank_2].",
+  "visual_elements": [
+    "Two dot plots labeled Group 1 and Group 2 showing number of hours of sleep for gorillas, dots representing gorillas."
+  ],
+  "item_type_inferred": "Inline Choice (2 pts)",
+  "confidence": 0.98,
+  "notes": "Two drop-down blanks require one choice each from distribution types (symmetrical, skewed left, skewed right) and summary statistics (mean, median)."
+}

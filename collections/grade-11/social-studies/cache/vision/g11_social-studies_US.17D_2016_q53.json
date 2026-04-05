@@ -1,0 +1,30 @@
+{
+  "stem": "Which pair of goals best completes this table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1: Ensure the availability of affordable housing  2: Provide health insurance for senior citizens"
+    },
+    {
+      "label": "B",
+      "text": "1: Increase turnout of minority voters  2: Increase federal funds for public universities"
+    },
+    {
+      "label": "C",
+      "text": "1: Create an urban renewal movement  2: Increase the number of volunteers for community projects"
+    },
+    {
+      "label": "D",
+      "text": "1: Enforce equal access to public education  2: Provide programs to assist with food purchases"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Great Society Programs Head Start Provide early childhood education Job Corps Improve employment opportunities for young people HUD 1 Medicare 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

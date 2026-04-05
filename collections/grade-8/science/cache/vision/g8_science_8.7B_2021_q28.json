@@ -1,0 +1,30 @@
+{
+  "stem": "A skater pushes off a wall and skates backward for a few meters before stopping.\n\nWhich statement best describes an action\u2013reaction force pair in this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The wall pushes on the skater when the skater pushes on the wall."
+    },
+    {
+      "label": "G",
+      "text": "The wheels slow down, and the skater stops."
+    },
+    {
+      "label": "H",
+      "text": "The skater exerts a force on the wall, and the wheels exert a force on the floor and begin to turn."
+    },
+    {
+      "label": "J",
+      "text": "The friction of the floor decreases when the wheels roll on the floor."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "illustration of a person on roller skates pushing on a wall"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

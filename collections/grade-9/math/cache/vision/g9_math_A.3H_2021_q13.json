@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents the solution set to this system of inequalities?\\n\\n\\nx + y < 1\\nx - y \\u2264 2",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with shaded region in the top left quadrant bounded by dashed line x + y = 1 and solid line x - y = 2"
+    },
+    {
+      "label": "B",
+      "text": "Graph with shaded region in the bottom right quadrant bounded by dashed line x + y = 1 and solid line x - y = 2"
+    },
+    {
+      "label": "C",
+      "text": "Graph with shaded region in the top right quadrant bounded by solid line x + y = 1 and dashed line x - y = 2"
+    },
+    {
+      "label": "D",
+      "text": "Graph with shaded region in the bottom left quadrant bounded by solid line x + y = 1 and dashed line x - y = 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A",
+    "Graph B",
+    "Graph C",
+    "Graph D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1.0,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "A system of linear equations is represented by line h and line j. A table representing some points on line h and the graph of line j are shown.\n\nLine h\n\n| x  | -16 | -8 | -4 | 12  |\n| y  | 7   | 1  | -2 | -14 |\n\nWhich system of equations is best represented by lines h and j?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = \\frac{4}{3}x - 5\n\ny = \\frac{4}{5}x + 1"
+    },
+    {
+      "label": "G",
+      "text": "y = \\frac{3}{4}x - 5\n\ny = \\frac{5}{4}x + 1"
+    },
+    {
+      "label": "H",
+      "text": "y = -\\frac{4}{3}x - 5\n\ny = -\\frac{4}{5}x + 1"
+    },
+    {
+      "label": "J",
+      "text": "y = -\\frac{3}{4}x - 5\n\ny = -\\frac{5}{4}x + 1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing points on line h: x values -16, -8, -4, 12; y values 7, 1, -2, -14",
+    "Graph of line j on coordinate grid with points visible"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

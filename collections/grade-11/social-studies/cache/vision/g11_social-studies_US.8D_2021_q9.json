@@ -1,0 +1,32 @@
+{
+  "stem": "Why was the United States concerned about Agreement 2?",
+  "instruction": "Study the table and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Officials believed the election would lead to a civil war and revolution."
+    },
+    {
+      "label": "B",
+      "text": "Congress members feared foreign policy decisions would lead to criticism at home."
+    },
+    {
+      "label": "C",
+      "text": "The administration opposed the creation of regional alliances."
+    },
+    {
+      "label": "D",
+      "text": "Leaders feared communist officials would win the election and take over the country."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Agreements within the Geneva Accords, 1954",
+    "Agreement 1: The French government and the North Vietnamese forces agreed to a cease-fire and a temporary division of Vietnam along the 17th parallel.",
+    "Agreement 2: Neither North Vietnam nor South Vietnam would join alliances with outside parties, and general elections to unify the country were scheduled for 1956."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

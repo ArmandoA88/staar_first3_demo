@@ -1,0 +1,30 @@
+{
+  "stem": "At a restaurant 600 customers were served during a 10-hour period of time. Which graph has a slope that best represents the number of customers that were served per hour at this restaurant?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with y-axis labeled Number of Customers (0 to 700), x-axis Time (hours) 0 to 7, horizontal line at y=600"
+    },
+    {
+      "label": "H",
+      "text": "Graph with y-axis labeled Number of Customers (60 to 540), x-axis Time (hours) 0 to 7, line increasing diagonally from (0,0) to approximately (7,480)"
+    },
+    {
+      "label": "G",
+      "text": "Graph with y-axis labeled Number of Customers (0 to 70), x-axis Time (hours) 0 to 7, horizontal line at y=60"
+    },
+    {
+      "label": "J",
+      "text": "Graph with y-axis labeled Number of Customers (60 to 540), x-axis Time (hours) 0 to 7, line increasing diagonally from (0,0) to (7,540)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, G, H, J with y-axis Number of Customers and x-axis Time (hours). F and G have horizontal lines; H and J have increasing diagonal lines."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

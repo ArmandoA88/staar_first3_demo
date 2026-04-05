@@ -1,0 +1,28 @@
+{
+  "stem": "Which function is equivalent to \\( f(x) = -4(x + 7)^2 - 6 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( f(x) = -4x^2 - 56x - 202 \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( f(x) = -4x^2 + 14x + 43 \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( f(x) = -4x^2 - 56x - 172 \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( f(x) = -4x^2 + 190 \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

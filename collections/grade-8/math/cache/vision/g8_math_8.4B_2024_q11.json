@@ -1,0 +1,30 @@
+{
+  "stem": "A printing store used 24 ounces of ink in 18 minutes. Which graph has a slope that best represents the average number of ounces of ink used per minute?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Printer Ink Used in a Store (graph showing slope about 0.8 oz/min)"
+    },
+    {
+      "label": "B",
+      "text": "Printer Ink Used in a Store (graph showing slope about 1.4 oz/min)"
+    },
+    {
+      "label": "C",
+      "text": "Printer Ink Used in a Store (graph showing slope about 1.6 oz/min)"
+    },
+    {
+      "label": "D",
+      "text": "Printer Ink Used in a Store (graph showing slope about 2.2 oz/min)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, D each titled 'Printer Ink Used in a Store' with y-axis 'Amount of Ink (oz)' and x-axis 'Time (min)'. Each graph shows a line starting at (0,0) with different slopes."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

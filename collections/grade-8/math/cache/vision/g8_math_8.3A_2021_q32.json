@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle ABC and triangle DEF are similar.\n\nWhich proportion must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{7}{x} = \\frac{4}{6}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{4}{6} = \\frac{x}{7}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{6}{4} = \\frac{x}{7}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{4}{x} = \\frac{7}{6}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two similar triangles labeled ABC and DEF with sides: AB = 6 in., BC = 7 in., DE = 4 in., EF = x in."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

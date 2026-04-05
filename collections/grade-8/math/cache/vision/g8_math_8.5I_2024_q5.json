@@ -1,0 +1,50 @@
+{
+  "stem": "The table shows several pairs of x- and y-values for a linear relationship.\n\nCreate an equation in slope-intercept form that can be used to model this relationship.\n\nMove the correct answer to each box. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "-2"
+    },
+    {
+      "label": null,
+      "text": "-1"
+    },
+    {
+      "label": null,
+      "text": "-\\frac{3}{4}"
+    },
+    {
+      "label": null,
+      "text": "\\frac{3}{4}"
+    },
+    {
+      "label": null,
+      "text": "\\frac{4}{3}"
+    },
+    {
+      "label": null,
+      "text": "2"
+    },
+    {
+      "label": null,
+      "text": "8"
+    }
+  ],
+  "choice_pool": [
+    "-2",
+    "-1",
+    "-\\frac{3}{4}",
+    "\\frac{3}{4}",
+    "\\frac{4}{3}",
+    "2",
+    "8"
+  ],
+  "response_template": "y = [blank_1] x + [blank_2]",
+  "visual_elements": [
+    "Table with columns x and y and rows: (-4, -1), (4, 5), (8, 8), (12, 11)"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

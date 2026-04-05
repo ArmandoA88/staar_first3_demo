@@ -1,0 +1,30 @@
+{
+  "stem": "New Orleans is surrounded by water\u2014Lake Pontchartrain, the Mississippi River, and the nearby Gulf of Mexico. Resting an average of six feet (two meters) below _____1_____, the city\u2019s safety has long depended on one of the world\u2019s most extensive _____2_____.\n\u2014Brian Handwerk, National Geographic News, September 2, 2005",
+  "instruction": "Which pair of phrases correctly completes this quote?",
+  "options": [
+    {
+      "label": "A",
+      "text": "1) the earth\u2019s surface 2) highway systems"
+    },
+    {
+      "label": "B",
+      "text": "1) fault lines 2) earthquake alarm systems"
+    },
+    {
+      "label": "C",
+      "text": "1) sea level 2) levee systems"
+    },
+    {
+      "label": "D",
+      "text": "1) high tide 2) canal systems"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Box with quote by Brian Handwerk, National Geographic News"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

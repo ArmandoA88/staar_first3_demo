@@ -1,0 +1,28 @@
+{
+  "stem": "The diameter of a cylinder is 2.5 inches, and the height is 7.5 inches. Which equation can be used to find V, the volume of the cylinder in cubic inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "V = \u03c0(2.5)^{2}(7.5)"
+    },
+    {
+      "label": "G",
+      "text": "V = \u03c0(7.5)^{2}(2.5)"
+    },
+    {
+      "label": "H",
+      "text": "V = \u03c0(1.25)^{2}(7.5)"
+    },
+    {
+      "label": "J",
+      "text": "V = \u03c0(3.75)^{2}(2.5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

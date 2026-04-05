@@ -1,0 +1,30 @@
+{
+  "stem": "Parker conducted a random survey at the mall to determine the number of songs in each genre that were downloaded by 40 students. The results are shown in the bar graph.\n\nMusic Downloads\n\nBased on the information in the graph, which inference about the general population of students is valid?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Girls like country music more than all other genres combined."
+    },
+    {
+      "label": "G",
+      "text": "More girls than boys like rock music."
+    },
+    {
+      "label": "H",
+      "text": "Boys like country music more than rock music."
+    },
+    {
+      "label": "J",
+      "text": "Boys like rock music more than girls like rap music."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bar graph with title 'Music Downloads', x-axis labeled 'Genre' with categories 'Country', 'Rap', 'Rock', y-axis labeled 'Number of Songs' with scale from 0 to 10, two bars per genre: light gray for Girls, dark gray for Boys. Country: Girls=10, Boys=3. Rap: Girls=4, Boys=11. Rock: Girls=6, Boys=6. Key showing light gray for Girls, dark gray for Boys."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

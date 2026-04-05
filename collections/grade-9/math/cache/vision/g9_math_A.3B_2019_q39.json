@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows a linear relationship between x and y.\n\nWhat is the rate of change of y with respect to x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-\\frac{9}{2}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{2}{9}"
+    },
+    {
+      "label": "C",
+      "text": "-\\frac{2}{9}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{9}{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns labeled x and y, rows: (-20, 96), (-12, 60), (-6, 33), (-2, 15)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A chemical equation is shown.\n\n2H\u2082O\u2082  \u27f6  2H\u2082O + O\u2082\nLiquid Liquid Oxygen\nhydrogen water gas\nperoxide\n\nWhich statement correctly compares the number of atoms in the reactant and in the products?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of atoms in each molecule of liquid water is equal to the number of atoms in each molecule of oxygen gas."
+    },
+    {
+      "label": "B",
+      "text": "The number of atoms in each molecule of hydrogen peroxide is equal to the number of atoms in each molecule of oxygen gas."
+    },
+    {
+      "label": "C",
+      "text": "The total number of atoms in the hydrogen peroxide molecules is equal to the total number of atoms in the liquid water and oxygen gas molecules."
+    },
+    {
+      "label": "D",
+      "text": "The total number of atoms in the hydrogen peroxide molecules is equal to the total number of atoms in each molecule of liquid water."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2H\u2082O\u2082  \u27f6  2H\u2082O + O\u2082\nLiquid hydrogen peroxide   Liquid water   Oxygen gas"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

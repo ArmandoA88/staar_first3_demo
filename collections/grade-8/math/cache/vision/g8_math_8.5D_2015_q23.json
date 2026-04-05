@@ -1,0 +1,30 @@
+{
+  "stem": "Mrs. Collins made a scatterplot to show the relationship between the number of absences a student in her class has and the student\u2019s final exam score.\n\nAbsences vs. Exam Scores",
+  "instruction": "Based on this scatterplot, approximately what score should a student with 6 absences expect to receive on the final exam?",
+  "options": [
+    {
+      "label": "A",
+      "text": "65"
+    },
+    {
+      "label": "B",
+      "text": "92"
+    },
+    {
+      "label": "C",
+      "text": "67"
+    },
+    {
+      "label": "D",
+      "text": "76"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot with 'Number of Absences' on the x-axis from 0 to 10 and 'Exam Score' on the y-axis from 50 to 100. Points show a general decreasing trend."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

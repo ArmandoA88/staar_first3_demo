@@ -1,0 +1,30 @@
+{
+  "stem": "What was one DIRECT effect of the business practice discussed in this excerpt?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Employees were prevented from buying stock."
+    },
+    {
+      "label": "B",
+      "text": "There was decreased competition among producers."
+    },
+    {
+      "label": "C",
+      "text": "Consumers were denied access to goods."
+    },
+    {
+      "label": "D",
+      "text": "There was a lack of employment opportunities for immigrants."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Other industrialists, including John D. Rockefeller, merged the operations of many large companies to form a trust. Rockefeller's Standard Oil Trust came to monopolize 90% of the industry. . . .  \u2014\"The Industrial Revolution in the United States,\" Library of Congress, www.loc.gov (accessed August 25, 2017)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

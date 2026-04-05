@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *that* to it"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after *mainland*"
+    },
+    {
+      "label": "C",
+      "text": "Change *is now submerged* to *was now submerged*"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

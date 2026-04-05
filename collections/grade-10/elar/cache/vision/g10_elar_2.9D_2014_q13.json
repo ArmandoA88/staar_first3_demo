@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 9 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change noticed to notices"
+    },
+    {
+      "label": "B",
+      "text": "Change for to it was for"
+    },
+    {
+      "label": "C",
+      "text": "Change pony express to Pony Express"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 9 does not need to be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

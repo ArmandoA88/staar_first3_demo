@@ -1,0 +1,16 @@
+{
+  "stem": "Mr. Jim\u00e9nez wants to borrow $6,850.00 from a bank to buy new furniture.\n\n\u2022 Bank X offers a 5-year loan at 3.5% simple interest.\n\n\u2022 Bank Y offers a 3-year loan at 4.75% simple interest.\n\nAt which bank will Mr. Jim\u00e9nez pay less interest over the life of the loan, and how much less interest will he pay?\n\nChoose the correct answer from each drop-down menu to complete the statements.",
+  "instruction": null,
+  "options": [],
+  "choice_pool": [
+    "Bank X",
+    "Bank Y",
+    "$686.88",
+    "$823.13"
+  ],
+  "response_template": "Mr. Jim\u00e9nez will pay less interest at [blank_1].\n\nHe will pay [blank_2] less interest over the life of the loan.",
+  "visual_elements": [],
+  "item_type_inferred": "inline choice",
+  "confidence": 1,
+  "notes": null
+}

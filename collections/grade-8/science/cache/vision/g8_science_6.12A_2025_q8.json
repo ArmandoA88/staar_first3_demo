@@ -1,0 +1,31 @@
+{
+  "stem": "How would an increase in the shrimp population MOST LIKELY affect organisms in the partial food web?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The small fish population would decrease, and the algae population would increase."
+    },
+    {
+      "label": "B",
+      "text": "The algae and plankton populations would decrease."
+    },
+    {
+      "label": "C",
+      "text": "The eel population would decrease, and the small fish population would increase."
+    },
+    {
+      "label": "D",
+      "text": "The plankton and eel populations would increase."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A partial ocean food web is shown.",
+    "Diagram with 'Algae' pointing to 'Plankton', 'Plankton' pointing to 'Small fishes' and 'Shrimps', 'Shrimps' pointing to 'Small fishes', and 'Small fishes' pointing to 'Eels'."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

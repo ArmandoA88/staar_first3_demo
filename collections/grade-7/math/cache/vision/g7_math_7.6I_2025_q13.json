@@ -1,0 +1,30 @@
+{
+  "stem": "A box contains 5 colors of key chains. Kayden randomly selects a key chain from the box, records its color, and then returns the key chain to the box. He does this 40 times. The results are shown in the table.\n\nKey Chains\n\n| Color  | Frequency |\n|--------|-----------|\n| Red    | 7         |\n| Orange | 9         |\n| Yellow | 5         |\n| Green  | 8         |\n| Blue   | 11        |\n\nBased on Kayden's results, what is the experimental probability that the next key chain he selects will be yellow or green?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1/5"
+    },
+    {
+      "label": "B",
+      "text": "13/40"
+    },
+    {
+      "label": "C",
+      "text": "2/5"
+    },
+    {
+      "label": "D",
+      "text": "3/40"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Color and Frequency: Red 7, Orange 9, Yellow 5, Green 8, Blue 11"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

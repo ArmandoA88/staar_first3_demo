@@ -1,0 +1,38 @@
+{
+  "stem": "Which numbers have a value greater than \\(\\pi\\)?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "\\( \\frac{8}{3} \\)"
+    },
+    {
+      "label": null,
+      "text": "3.14"
+    },
+    {
+      "label": null,
+      "text": "\\( \\frac{23}{7} \\)"
+    },
+    {
+      "label": null,
+      "text": "\\( \\sqrt{9} \\)"
+    },
+    {
+      "label": null,
+      "text": "\\( \\sqrt{10} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{8}{3} \\)",
+    "3.14",
+    "\\( \\frac{23}{7} \\)",
+    "\\( \\sqrt{9} \\)",
+    "\\( \\sqrt{10} \\)"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

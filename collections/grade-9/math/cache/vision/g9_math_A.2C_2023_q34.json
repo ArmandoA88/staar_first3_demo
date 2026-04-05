@@ -1,0 +1,28 @@
+{
+  "stem": "Printer ink costs $18.99 per cartridge. The company that sells the ink cartridges charges a flat rate shipping fee of $7.95, no matter the number of cartridges purchased in a single order.\n\nWhich linear function models the total cost, t, for a single order of c cartridges?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "c = 26.94t"
+    },
+    {
+      "label": "B",
+      "text": "c = 18.99t + 7.95"
+    },
+    {
+      "label": "C",
+      "text": "t = 26.94c"
+    },
+    {
+      "label": "D",
+      "text": "t = 18.99c + 7.95"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

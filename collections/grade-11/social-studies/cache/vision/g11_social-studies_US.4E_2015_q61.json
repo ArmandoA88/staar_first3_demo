@@ -1,0 +1,30 @@
+{
+  "stem": "What caused the scene described in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A tank attacking soldiers on a battlefield"
+    },
+    {
+      "label": "B",
+      "text": "An aerial bombing of an infantry unit"
+    },
+    {
+      "label": "C",
+      "text": "A poison gas attack on soldiers in the trenches"
+    },
+    {
+      "label": "D",
+      "text": "A submarine attacking a docked ship"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "It was at first impossible for any one to realize what had actually happened. The smoke and fumes hid everything from sight, and hundreds of men were thrown into a comatose or dying condition, and within an hour the whole position had to be abandoned, together with about fifty guns. \u2014British Field Marshal Sir John French, report on the second battle of Ypres, 1915"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shows a relationship between x and y.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The graph shows a non-proportional relationship because the graph has a negative slope."
+    },
+    {
+      "label": "B",
+      "text": "The graph shows a non-proportional relationship because the graph does not contain the origin."
+    },
+    {
+      "label": "C",
+      "text": "The graph shows a proportional relationship because the x and y intercepts both contain 7."
+    },
+    {
+      "label": "D",
+      "text": "The graph shows a proportional relationship because the graph passes through 3 different quadrants."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with line crossing y-axis at 7 and x-axis at 7 with negative slope passing through quadrants I, II, and IV"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

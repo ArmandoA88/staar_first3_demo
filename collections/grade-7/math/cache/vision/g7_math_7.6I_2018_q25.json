@@ -1,0 +1,30 @@
+{
+  "stem": "A number cube with faces labeled from 1 to 6 was rolled 20 times. Each time the number cube was rolled, the number showing on the top face was recorded. The table shows the results.\n\nResults\n\nNumber Showing on Top Face | Frequency\n1 | 0\n2 | 3\n3 | 3\n4 | 6\n5 | 3\n6 | 5\n\nBased on these results, what is the experimental probability that the next time the number cube is rolled it will land with 5 or 6 showing on the top face?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{2}{5}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{3}{20}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{1}{3}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{3}{5}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing Number Showing on Top Face and Frequency: 1->0, 2->3, 3->3, 4->6, 5->3, 6->5"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which ordered pair is in the solution set of y \\geq \\frac{1}{3}x + 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(-6, 1)"
+    },
+    {
+      "label": "B",
+      "text": "(-1, 6)"
+    },
+    {
+      "label": "C",
+      "text": "(6, -1)"
+    },
+    {
+      "label": "D",
+      "text": "(1, -6)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with x and y axis showing grid from -9 to 9"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

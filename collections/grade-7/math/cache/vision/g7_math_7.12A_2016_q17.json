@@ -1,0 +1,30 @@
+{
+  "stem": "Mrs. Kelso and Mr. Bonham gave each of their students a small bag of colored tiles. The students each counted the number of purple tiles they received. The box plots display the data for both classes.\n\nWhich statement is best supported by the information in the box plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The range of the data for Mr. Bonham\u2019s class is less than the range of the data for Mrs. Kelso\u2019s class."
+    },
+    {
+      "label": "B",
+      "text": "The data for Mrs. Kelso\u2019s class are more symmetrical than the data for Mr. Bonham\u2019s class."
+    },
+    {
+      "label": "C",
+      "text": "The median number of the data for Mr. Bonham\u2019s class is less than the median number of the data for Mrs. Kelso\u2019s class."
+    },
+    {
+      "label": "D",
+      "text": "The interquartile range of the data for Mrs. Kelso\u2019s class is greater than the interquartile range of the data for Mr. Bonham\u2019s class."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plots showing number of purple tiles for Mrs. Kelso\u2019s class and Mr. Bonham\u2019s class with a number line from 5 to 20"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

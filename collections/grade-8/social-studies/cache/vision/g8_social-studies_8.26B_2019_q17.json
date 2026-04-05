@@ -1,0 +1,32 @@
+{
+  "stem": "What is one reason this song has endured for so many years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The song was inspired by religious revivals."
+    },
+    {
+      "label": "B",
+      "text": "The song celebrates a patriotic act from the past."
+    },
+    {
+      "label": "C",
+      "text": "The song is about protecting the rights of people."
+    },
+    {
+      "label": "D",
+      "text": "The song was a theme for civil rights activism."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Francis Scott Key wrote a poem titled \u201cThe Defence of Fort McHenry\u201d during the War of 1812.",
+    "The poem was combined with music and became a popular song known as \u201cThe Star-Spangled Banner.\u201d",
+    "\u201cThe Star-Spangled Banner\u201d was adopted as the national anthem of the United States in 1931."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

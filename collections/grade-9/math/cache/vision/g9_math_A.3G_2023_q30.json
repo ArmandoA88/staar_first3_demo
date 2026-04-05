@@ -1,0 +1,30 @@
+{
+  "stem": "The two types of tickets sold at a baseball game are standard tickets and discounted tickets. The price of a discounted ticket was 80% of the price of a standard ticket.\n\n\u2022 There were 153 standard tickets sold at the baseball game.\n\n\u2022 There were 47 discounted tickets sold at the baseball game.\n\n\u2022 The total amount of ticket sales from the standard and discounted tickets was $2,649.34.\n\nThe line graphed on the grid represents the first equation in a system of linear equations for this situation.\n\nIf the second equation in the system is y = 0.80x, what is the best estimate of the price of a discounted ticket?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$13.95"
+    },
+    {
+      "label": "B",
+      "text": "$14.55"
+    },
+    {
+      "label": "C",
+      "text": "$13.25"
+    },
+    {
+      "label": "D",
+      "text": "$11.15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled Baseball Game with x-axis labeled Price of Standard Ticket (dollars) from 0 to 17, y-axis labeled Price of Discounted Ticket (dollars) from 0 to 55, and a line starting near y=55 at x=0 slanting down to near y=0 at x=17."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

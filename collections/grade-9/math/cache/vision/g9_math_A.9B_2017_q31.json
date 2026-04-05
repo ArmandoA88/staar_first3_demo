@@ -1,0 +1,30 @@
+{
+  "stem": "A student used f(x) = 5.00(1.012)^x to show how the balance in a savings account will increase over time. What does the 5.00 represent?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The interest the savings account earned for the first year"
+    },
+    {
+      "label": "B",
+      "text": "The annual interest rate of the savings account"
+    },
+    {
+      "label": "C",
+      "text": "The number of years the savings account has earned interest"
+    },
+    {
+      "label": "D",
+      "text": "The starting balance of the savings account"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "f(x) = 5.00(1.012)^x"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows the height of a cone that holds ice cream. The cone has a volume of 1.5\\pi cubic inches.\n\nWhich measurement is closest to the radius of the cone in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "0.6 in."
+    },
+    {
+      "label": "G",
+      "text": "1.4 in."
+    },
+    {
+      "label": "H",
+      "text": "1.0 in."
+    },
+    {
+      "label": "J",
+      "text": "0.5 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cone labeled with height 4.5 in."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

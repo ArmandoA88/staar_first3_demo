@@ -1,0 +1,31 @@
+{
+  "stem": "What is the equation of the line that passes through the point (\u20132, 7) and has a slope of zero?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x = 7"
+    },
+    {
+      "label": "G",
+      "text": "y = \u20132"
+    },
+    {
+      "label": "H",
+      "text": "x = \u20132"
+    },
+    {
+      "label": "J",
+      "text": "y = 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "point (\u20132, 7)",
+    "equations with variables and numbers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

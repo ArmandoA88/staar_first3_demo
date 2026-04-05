@@ -1,0 +1,30 @@
+{
+  "stem": "The two parallelograms below are similar.\n\nWhat is the length in inches of \\( \\overline{PQ} \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "40 in."
+    },
+    {
+      "label": "G",
+      "text": "34 in."
+    },
+    {
+      "label": "H",
+      "text": "38 in."
+    },
+    {
+      "label": "J",
+      "text": "14 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two parallelograms side by side, labeled with sides: smaller with 12 inches and 16 inches, larger with 30 inches and \\( \\overline{PQ} \\) labeled."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

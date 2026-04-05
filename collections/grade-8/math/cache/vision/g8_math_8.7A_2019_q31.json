@@ -1,0 +1,33 @@
+{
+  "stem": "The height of a cylinder is 5 centimeters. The circumference of the base of the cylinder is 16\\pi centimeters.\n\nWhich measurement is closest to the volume of the cylinder in cubic centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "251.3 cm\\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "4,021.2 cm\\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "1,005.3 cm\\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "628.3 cm\\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circumference",
+    "16\\pi",
+    "height",
+    "5"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

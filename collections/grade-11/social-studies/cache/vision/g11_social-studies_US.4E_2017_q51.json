@@ -1,0 +1,30 @@
+{
+  "stem": "This photograph shows a military tactic that \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "made troops more vulnerable to long-range missiles, resulting in heavy casualties"
+    },
+    {
+      "label": "B",
+      "text": "required highly skilled soldiers, resulting in lengthy training periods"
+    },
+    {
+      "label": "C",
+      "text": "made frontal assaults difficult, resulting in long periods of stalemate"
+    },
+    {
+      "label": "D",
+      "text": "required the ability to attack quickly, resulting in a reliance on cavalry forces"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Black and white photograph titled 'U.S. Soldiers During World War I' showing soldiers in trenches with smoke in the background."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

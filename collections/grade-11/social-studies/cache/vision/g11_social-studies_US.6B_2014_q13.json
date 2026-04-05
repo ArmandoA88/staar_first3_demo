@@ -1,0 +1,30 @@
+{
+  "stem": "This excerpt illustrates Harding's campaign promise to be a president who would \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "help the country recover from the turmoil of the previous decade"
+    },
+    {
+      "label": "B",
+      "text": "refuse to allow the continuation of laissez-faire economic policies"
+    },
+    {
+      "label": "C",
+      "text": "use diplomacy to establish alliances with other countries"
+    },
+    {
+      "label": "D",
+      "text": "improve economic growth by promoting unrestricted immigration"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "America's present need is not heroics but healing; . . . not revolution but restoration; . . . not submergence in internationality but sustainment in triumphant nationality. \u2014Warren G. Harding, presidential campaign speech, 1920"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

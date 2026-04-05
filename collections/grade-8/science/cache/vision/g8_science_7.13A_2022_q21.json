@@ -1,0 +1,31 @@
+{
+  "stem": "Students jump rope for one minute to determine changes in heart rate and breathing rate. Their data are shown in the table.\n\n| Observation     | Heart Rate (beats per minute) | Breathing Rate (breaths per minute) |\n|-----------------|--------------------------------|--------------------------------------|\n| Before jumping  | 60                             | 15                                   |\n| After jumping   | 120                            | 35                                   |\n\nWhich table explains the functions of the two body systems that the students investigated?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Circulatory system - To add oxygen gas to blood and remove carbon dioxide gas\nSkeletal system - To sense and respond to changes in the body and environment"
+    },
+    {
+      "label": "B",
+      "text": "Circulatory system - To pump blood around the body to carry nutrients, oxygen, and wastes\nRespiratory system - To add oxygen to and remove carbon dioxide from the blood"
+    },
+    {
+      "label": "C",
+      "text": "Nervous system - To support the muscles and protect organs\nRespiratory system - To pump blood around the body to carry nutrients, oxygen, and wastes"
+    },
+    {
+      "label": "D",
+      "text": "Skeletal system - To protect organs, support body, and attach to muscles for movement\nNervous system - To sense and respond to changes in the body and environment"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with Observation, Heart Rate (beats per minute), Breathing Rate (breaths per minute)",
+    "Four body systems tables labeled A, B, C, D with different body systems and functions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

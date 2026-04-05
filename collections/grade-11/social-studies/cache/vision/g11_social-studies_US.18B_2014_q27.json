@@ -1,0 +1,30 @@
+{
+  "stem": "Which constitutional amendment did the Supreme Court use as a basis of this ruling?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "First"
+    },
+    {
+      "label": "B",
+      "text": "Tenth"
+    },
+    {
+      "label": "C",
+      "text": "Fourteenth"
+    },
+    {
+      "label": "D",
+      "text": "Twenty-sixth"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "We are not now required to ascertain the scope of the phrase \u201cgeneral welfare of the United States\u201d or to determine whether an appropriation in aid of agriculture falls within it. Wholly apart from that question, another principle embedded in our Constitution prohibits the enforcement of the Agricultural Adjustment Act. . . . It is a statutory plan to regulate and control agricultural production, a matter beyond the powers delegated to the federal government. \n\n\u2014United States v. Butler, 1936"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

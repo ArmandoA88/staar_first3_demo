@@ -1,0 +1,31 @@
+{
+  "stem": "Which of these is the most likely result of the process shown in the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Chromosome replication will cease to avoid errors that result in mutations."
+    },
+    {
+      "label": "G",
+      "text": "Offspring will no longer express traits from previous generations."
+    },
+    {
+      "label": "H",
+      "text": "Gametes will contain new allele combinations."
+    },
+    {
+      "label": "J",
+      "text": "Chromatids will have less genetic variety."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A cellular process is shown.",
+    "Diagram showing chromosomes undergoing a process."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A student makes a Venn diagram to compare the functions of carbohydrates and lipids.\n\nWhich cellular function of carbohydrates and lipids should be placed in the shared section of the Venn diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Hormone production"
+    },
+    {
+      "label": "B",
+      "text": "Structural support of cell walls"
+    },
+    {
+      "label": "C",
+      "text": "Energy storage"
+    },
+    {
+      "label": "D",
+      "text": "Catalyst for chemical reactions"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with two overlapping circles labeled 'Carbohydrates' and 'Lipids' and a question mark in the intersection"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

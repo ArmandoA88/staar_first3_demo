@@ -1,0 +1,32 @@
+{
+  "stem": "What was the fundamental question addressed in each of these congressional acts?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Should the U.S. expand westward?"
+    },
+    {
+      "label": "G",
+      "text": "Should states be allowed to nullify federal laws?"
+    },
+    {
+      "label": "H",
+      "text": "Should slave labor be allowed in new states?"
+    },
+    {
+      "label": "J",
+      "text": "Should states be able to secede from the Union?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Missouri Compromise",
+    "The Compromise of 1850",
+    "The Kansas-Nebraska Act"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

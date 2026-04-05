@@ -1,0 +1,35 @@
+{
+  "stem": "The spinner shown is divided into 10 sections of equal size:\n\n\u2022 Each section contains a number.\n\n\u2022 The arrow is spun 150 times during a game.\n\nComplete the sentences to best predict the results of the spins during the game.\n\nChoose the correct answer from each drop-down menu to complete the sentences.\n\nThe arrow will land on 20 about [blank_1].\n\nThe arrow will land on either 0 or 5 about [blank_2].",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "1 time"
+    },
+    {
+      "label": null,
+      "text": "3 times"
+    },
+    {
+      "label": null,
+      "text": "15 times"
+    },
+    {
+      "label": null,
+      "text": "30 times"
+    }
+  ],
+  "choice_pool": [
+    "1 time",
+    "3 times",
+    "15 times",
+    "30 times"
+  ],
+  "response_template": "The arrow will land on 20 about [blank_1].\n\nThe arrow will land on either 0 or 5 about [blank_2].",
+  "visual_elements": [
+    "spinner with sections labeled 0, 5, 20, 0, 10, 15, 5, 0, 10, 15 and arrow pointing to 0"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.98,
+  "notes": "The problem requires choosing correct probabilities from drop-down menus; options appear identical for both blanks in the provided choices, repeated for both blanks in actual use."
+}

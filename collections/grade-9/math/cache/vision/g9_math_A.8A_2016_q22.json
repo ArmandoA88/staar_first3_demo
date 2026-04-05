@@ -1,0 +1,30 @@
+{
+  "stem": "The sum of the first n consecutive even numbers can be found using S = n^2 + n, where n \\u2265 2. What is the value of n when the sum is 156?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "6"
+    },
+    {
+      "label": "G",
+      "text": "39"
+    },
+    {
+      "label": "H",
+      "text": "26"
+    },
+    {
+      "label": "J",
+      "text": "12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "S = n^2 + n"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

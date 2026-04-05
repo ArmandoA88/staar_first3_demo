@@ -1,0 +1,33 @@
+{
+  "stem": "A college student has two different jobs. Her combined work schedules consist of no more than 48 hours in one week.\n\nWhich graph best represents the solution set for all possible combinations of x, the number of hours she worked at her first job, and y, the number of hours she worked at her second job, in one week?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph shows shaded region below and including the line connecting (48,0) to (0,48))"
+    },
+    {
+      "label": "B",
+      "text": "(Graph shows shaded region above and including the line connecting (48,0) to (0,48))"
+    },
+    {
+      "label": "C",
+      "text": "(Graph shows shaded region above and including the line from the origin to the point (54,54))"
+    },
+    {
+      "label": "D",
+      "text": "(Graph shows shaded region below and including the line from the origin to the point (54,54))"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Work Schedule with shaded area below and on the line connecting (48,0) to (0,48); x-axis label 'Number of Hours Worked at First Job', y-axis label 'Number of Hours Worked at Second Job'",
+    "Graph B: Work Schedule with shaded area above and on the line connecting (48,0) to (0,48); same axis labels as A",
+    "Graph C: Work Schedule with shaded area above and on the diagonal line from origin to (54,54); same axis labels",
+    "Graph D: Work Schedule with shaded area below and on the diagonal line from origin to (54,54); same axis labels"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

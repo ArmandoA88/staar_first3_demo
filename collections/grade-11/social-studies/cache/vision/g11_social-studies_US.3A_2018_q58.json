@@ -1,0 +1,30 @@
+{
+  "stem": "This legislation affected how federal employees were hired. The law now required government jobs to be \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "based on the political party affiliation of the applicant"
+    },
+    {
+      "label": "G",
+      "text": "determined by a merit system based on civil service examinations"
+    },
+    {
+      "label": "H",
+      "text": "based on the approval of lawmakers"
+    },
+    {
+      "label": "J",
+      "text": "set aside for business executives of large corporations"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Newspapers with headline 'Congress Passes Pendleton Act'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "A rectangle has a length of \\( (5 + 2x) \\) inches and a width of 10 inches. A triangle has a base of 30 inches and a height of \\( (4x - 10) \\) inches. The area in square inches of the rectangle is equal to the area in square inches of the triangle.\n\nWhat is the value of \\( x \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2.5"
+    },
+    {
+      "label": "B",
+      "text": "3"
+    },
+    {
+      "label": "C",
+      "text": "7.5"
+    },
+    {
+      "label": "D",
+      "text": "5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Based on the excerpt and your knowledge of U.S. history, what did President Roosevelt want Congress to do?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He wanted Congress to replace progressive Supreme Court justices with conservative ones."
+    },
+    {
+      "label": "B",
+      "text": "He wanted Congress to rewrite legislation to make it agreeable to the Supreme Court justices."
+    },
+    {
+      "label": "C",
+      "text": "He wanted Congress to increase the number of Supreme Court justices from nine to fifteen."
+    },
+    {
+      "label": "D",
+      "text": "He wanted Congress to increase the number of clerks assigned to the Supreme Court justices."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Constitution vests in the Congress direct responsibility in the creation of courts and judicial offices and in the formulation of rules of practice and procedure. . . .",
+    "The simple fact is that today . . . the personnel of the Federal Judiciary is insufficient to meet the business before them. . . .",
+    "It is obvious . . . that some provision must be adopted, which will operate automatically to supplement the work of older judges and accelerate the work of the court.",
+    "\u2014President Franklin D. Roosevelt, message to Congress on the reorganization of the judicial branch of the government, February 5, 1937"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

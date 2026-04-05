@@ -1,0 +1,30 @@
+{
+  "stem": "An amusement park charges $44.95 per person for admission and $20.00 per car for parking. For purchases of at least 1 ticket, the table shows the relationship between p, the number of people in a car, and c, the total cost in dollars.\n\nAmusement Park Costs\n\n| Number of People, p | Total Cost, c (dollars) |\n|---------------------|-----------------------|\n| 1                   | 64.95                 |\n| 2                   | 109.90                |\n| 3                   | 154.85                |\n| 4                   | 199.80                |\n\nThe amusement park states that at most 4 tickets can be purchased. What is the range of the function in this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1 \u2264 p \u2264 4"
+    },
+    {
+      "label": "B",
+      "text": "64.95 \u2264 c \u2264 199.80"
+    },
+    {
+      "label": "C",
+      "text": "{1, 2, 3, 4}"
+    },
+    {
+      "label": "D",
+      "text": "{64.95, 109.90, 154.85, 199.80}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Amusement Park Costs' with two columns: Number of People, p and Total Cost, c (dollars), containing rows (1, 64.95), (2, 109.90), (3, 154.85), (4, 199.80)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

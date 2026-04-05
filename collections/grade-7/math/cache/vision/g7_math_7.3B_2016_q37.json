@@ -1,0 +1,31 @@
+{
+  "stem": "There are 40 houses in a neighborhood.\n\n\u2022 Company X provides electricity to \\( \\frac{1}{8} \\) of the houses.\n\n\u2022 Company Y provides electricity to \\( \\frac{2}{5} \\) of the houses.\n\n\u2022 Company Z provides electricity to the remaining houses.\n\nIn this neighborhood, Company Z provides electricity to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "21 houses"
+    },
+    {
+      "label": "B",
+      "text": "24 houses"
+    },
+    {
+      "label": "C",
+      "text": "16 houses"
+    },
+    {
+      "label": "D",
+      "text": "19 houses"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{1}{8} \\)",
+    "\\( \\frac{2}{5} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

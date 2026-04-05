@@ -1,0 +1,40 @@
+{
+  "stem": "This table lists select important historical figures.\n\nWhich accomplishment correctly completes the table?\n\nMove the correct answer to the box in the table. Not all answers will be used.",
+  "instruction": "Move the correct answer to the box in the table. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "The first woman to argue a case in front of a federal judge"
+    },
+    {
+      "label": null,
+      "text": "The first woman to serve as a justice on the Supreme Court"
+    },
+    {
+      "label": null,
+      "text": "The first woman to be considered for the vice presidency"
+    },
+    {
+      "label": null,
+      "text": "The first woman to lead the Office of the Attorney General"
+    },
+    {
+      "label": null,
+      "text": "The first woman to issue a legal ruling as an appellate judge"
+    }
+  ],
+  "choice_pool": [
+    "The first woman to argue a case in front of a federal judge",
+    "The first woman to serve as a justice on the Supreme Court",
+    "The first woman to be considered for the vice presidency",
+    "The first woman to lead the Office of the Attorney General",
+    "The first woman to issue a legal ruling as an appellate judge"
+  ],
+  "response_template": "Sandra Day O'Connor: [blank_1]",
+  "visual_elements": [
+    "table with Historical Figure and Accomplishment columns, with an empty accomplishment box for Sandra Day O'Connor, and accomplishments listed for Sally Ride and Ileana Ros-Lehtinen"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

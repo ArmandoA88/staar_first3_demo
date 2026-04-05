@@ -1,0 +1,30 @@
+{
+  "stem": "Where did the events shown in this painting occur?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A private home in Appomattox County, Virginia"
+    },
+    {
+      "label": "B",
+      "text": "The U.S. Capitol building"
+    },
+    {
+      "label": "C",
+      "text": "A public church near Ford\u2019s Theatre"
+    },
+    {
+      "label": "D",
+      "text": "The Governor\u2019s mansion in Richmond, Virginia"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "black and white painting of General Robert E. Lee surrendering to General Ulysses S. Grant with other soldiers"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

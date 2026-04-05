@@ -1,0 +1,37 @@
+{
+  "stem": "Based on the table and your knowledge of U.S. history, which statement explains the population trends shown in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The harsh climate in northern states made it hard for people to live there."
+    },
+    {
+      "label": "B",
+      "text": "Southern states primarily consisted of urban hubs because of new transportation networks."
+    },
+    {
+      "label": "C",
+      "text": "The warm climate in southern states was good for agriculture and led to urbanization."
+    },
+    {
+      "label": "D",
+      "text": "Northern states had economic and social opportunities that attracted immigrants."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This table shows population data from the 1800s.",
+    "Total Population of Select States, 1810-1850",
+    "State 1810 1830 1850",
+    "New York 959,049 1,918,608 3,097,394",
+    "Pennsylvania 810,091 1,348,233 2,311,786",
+    "South Carolina 415,115 581,185 668,507",
+    "Mississippi 40,352 136,621 606,526",
+    "Source: U.S. Census Bureau"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

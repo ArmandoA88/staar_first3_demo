@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows a model of the moon, Earth, and the sun forming a right angle.\n\nBased on the position of the moon in the diagram, which of these is occurring in the ocean?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A neap tide, which results in the smallest difference between the high and low tide"
+    },
+    {
+      "label": "B",
+      "text": "A spring tide, which results in the greatest difference between the high and low tide"
+    },
+    {
+      "label": "C",
+      "text": "A neap tide, which results in the greatest difference between the high and low tide"
+    },
+    {
+      "label": "D",
+      "text": "A spring tide, which results in the smallest difference between the high and low tide"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of Sun, Earth, and Moon forming a right angle, with labels 'Sun', 'Earth', and 'Moon'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "stem": "Which views were argued by either Alexander Hamilton or Thomas Jefferson while debating the establishment of a national bank? Move the correct answer to each box in the chart.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "The Constitution does not give the government the power to set up a national bank."
+    },
+    {
+      "label": null,
+      "text": "A national bank would help maintain public credit."
+    },
+    {
+      "label": null,
+      "text": "A national bank would favor manufacturing at the expense of agriculture."
+    },
+    {
+      "label": null,
+      "text": "Holding public funds and paying government debts requires a national bank."
+    }
+  ],
+  "choice_pool": [
+    "The Constitution does not give the government the power to set up a national bank.",
+    "A national bank would help maintain public credit.",
+    "A national bank would favor manufacturing at the expense of agriculture.",
+    "Holding public funds and paying government debts requires a national bank."
+  ],
+  "response_template": "Views Regarding a National Bank\nAlexander Hamilton: [blank_1]\nAlexander Hamilton: [blank_2]\nThomas Jefferson: [blank_3]\nThomas Jefferson: [blank_4]",
+  "visual_elements": [
+    "Views Regarding a National Bank chart with 2 columns labeled Alexander Hamilton and Thomas Jefferson and 2 empty rows for answers"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

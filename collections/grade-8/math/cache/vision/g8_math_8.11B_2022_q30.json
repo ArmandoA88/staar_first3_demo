@@ -1,0 +1,30 @@
+{
+  "stem": "The list shows the weight in pounds of 6 puppies at birth. 3, 1.6, 2.8, 2.5, 1.7, 2.8 What is the mean absolute deviation of these numbers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "0.5"
+    },
+    {
+      "label": "G",
+      "text": "2.4"
+    },
+    {
+      "label": "H",
+      "text": "1.9"
+    },
+    {
+      "label": "J",
+      "text": "14.4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3, 1.6, 2.8, 2.5, 1.7, 2.8"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents -5y = -6x + 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph with line downward from top-left to bottom-right passing through (3,3))"
+    },
+    {
+      "label": "B",
+      "text": "(Graph with line downward from top-left to bottom-right passing through (-3,-3))"
+    },
+    {
+      "label": "C",
+      "text": "(Graph with line upward from bottom-left to top-right passing through (3,3))"
+    },
+    {
+      "label": "D",
+      "text": "(Graph with line upward from bottom-left to top-right passing through (-3,-3))"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, D each with a grid and a single diagonal line"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Graphs labeled with letters A-D, four line graphs showing different slopes and intercepts. Exact coordinates on lines not fully specified beyond visual pattern; options given as labels with description of orientation."
+}

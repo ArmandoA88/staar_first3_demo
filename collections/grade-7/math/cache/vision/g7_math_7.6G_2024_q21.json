@@ -1,0 +1,34 @@
+{
+  "stem": "The dot plot shows the number of points a player scored in each of 30 turns in a game.\n\nWhich statements are best supported by the data in the dot plot?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "Exactly 9% of the turns were 2 points."
+    },
+    {
+      "label": null,
+      "text": "Exactly \\( \\frac{1}{6} \\) of the turns were 5 points."
+    },
+    {
+      "label": null,
+      "text": "Exactly half of the turns were 3 points or more."
+    },
+    {
+      "label": null,
+      "text": "Exactly \\( \\frac{1}{10} \\) of the turns were 1 point or fewer."
+    },
+    {
+      "label": null,
+      "text": "Exactly 50% of the turns were 2 or 3 points."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot showing points scored from 0 to 5 with each dot representing 1 turn"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 0.98,
+  "notes": "Includes all answer options exactly as shown, fractional math preserved, no labels on choices."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The coordinate grid shows \\overline{XY}. Which measurement is closest to the length of \\overline{XY} in units?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "7.8 units"
+    },
+    {
+      "label": "G",
+      "text": "16.0 units"
+    },
+    {
+      "label": "H",
+      "text": "13.0 units"
+    },
+    {
+      "label": "J",
+      "text": "11.7 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with points X at (6,6) and Y at (-5,0), line segment \\overline{XY}"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

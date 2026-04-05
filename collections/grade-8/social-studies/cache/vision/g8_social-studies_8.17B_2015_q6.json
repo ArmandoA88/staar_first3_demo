@@ -1,0 +1,30 @@
+{
+  "stem": "Which constitutional issue was President Lincoln addressing in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The right of citizens to choose representatives"
+    },
+    {
+      "label": "G",
+      "text": "The power of states to organize militias"
+    },
+    {
+      "label": "H",
+      "text": "The unalienable rights of citizens"
+    },
+    {
+      "label": "J",
+      "text": "The legal ability of states to secede"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The States have their status in the Union, and they have no other legal status. . . . The Union, and not themselves separately, procured their independence and their liberty. \u2014President Abraham Lincoln, message to Congress, July 4, 1861"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

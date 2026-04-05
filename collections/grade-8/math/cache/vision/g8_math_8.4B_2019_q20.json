@@ -1,0 +1,33 @@
+{
+  "stem": "A bottle contains 30 fluid ounces of orange juice and 18 fluid ounces of pineapple juice. Which graph has a slope that best represents the ratio of orange juice to pineapple juice in this bottle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph F: x-axis labeled 'Amount of Pineapple Juice (fl oz)', y-axis labeled 'Amount of Orange Juice (fl oz)', line with shallow positive slope.",
+    "Graph H: x-axis labeled 'Amount of Pineapple Juice (fl oz)', y-axis labeled 'Amount of Orange Juice (fl oz)', line with steep positive slope.",
+    "Graph G: x-axis labeled 'Amount of Pineapple Juice (fl oz)', y-axis labeled 'Amount of Orange Juice (fl oz)', line with slope passing at (10, 20).",
+    "Graph J: x-axis labeled 'Amount of Pineapple Juice (fl oz)', y-axis labeled 'Amount of Orange Juice (fl oz)', line with moderate positive slope."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

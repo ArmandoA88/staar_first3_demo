@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a linear function is shown on the grid.\n\nWhat is the rate of change of y with respect to x for this function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{7}{9}"
+    },
+    {
+      "label": "B",
+      "text": "-\\frac{7}{9}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{3}{4}"
+    },
+    {
+      "label": "D",
+      "text": "-\\frac{3}{4}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of a linear function showing a line passing through points (-7, 8) and (5, -4) with x and y axes"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

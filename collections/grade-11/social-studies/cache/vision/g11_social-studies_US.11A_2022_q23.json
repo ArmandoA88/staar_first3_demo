@@ -1,0 +1,30 @@
+{
+  "stem": "Which option contributed to the trend shown on this graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A military response to a terrorist attack"
+    },
+    {
+      "label": "B",
+      "text": "A desire to stop the spread of communism"
+    },
+    {
+      "label": "C",
+      "text": "The development of weapons of mass destruction"
+    },
+    {
+      "label": "D",
+      "text": "The resurgence of ethnic cleansing policies"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Average Monthly Number of U.S. Soldiers in Afghanistan, 2002\u20132008' with x-axis labeled 'Year' and y-axis labeled 'Number of Soldiers'. Four bars correspond to years 2002 (~6000 soldiers), 2004 (~15000 soldiers), 2006 (~21000 soldiers), and 2008 (~30000 soldiers). Source: Congressional Research Service"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

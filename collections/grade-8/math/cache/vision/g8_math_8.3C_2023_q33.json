@@ -1,0 +1,38 @@
+{
+  "stem": "The table describes two dilations with the center of dilation at the origin. Which rule describes each dilation? Move the correct answer to each box in the table. Not all answers will be used.",
+  "instruction": "Move the correct answer to each box in the table. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "(x, y) \\rightarrow (2x, 2y)"
+    },
+    {
+      "label": null,
+      "text": "(x, y) \\rightarrow \\left(\\frac{1}{2}x, \\frac{1}{2}y\\right)"
+    },
+    {
+      "label": null,
+      "text": "(x, y) \\rightarrow (x + 2, y + 2)"
+    },
+    {
+      "label": null,
+      "text": "(x, y) \\rightarrow \\left(x - \\frac{1}{2}, y - \\frac{1}{2}\\right)"
+    }
+  ],
+  "choice_pool": [
+    "(x, y) \\rightarrow (2x, 2y)",
+    "(x, y) \\rightarrow \\left(\\frac{1}{2}x, \\frac{1}{2}y\\right)",
+    "(x, y) \\rightarrow (x + 2, y + 2)",
+    "(x, y) \\rightarrow \\left(x - \\frac{1}{2}, y - \\frac{1}{2}\\right)"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "Description of Shape Dilated on a Coordinate Plane",
+    "Rule of Dilation",
+    "A triangle is dilated by a scale factor of \\frac{1}{2}.",
+    "A square is dilated by a scale factor of 2."
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

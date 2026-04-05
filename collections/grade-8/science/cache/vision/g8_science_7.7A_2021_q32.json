@@ -1,0 +1,13 @@
+{
+  "stem": "A horse trainer records the distance a horse travels during three different trials.\n\nHorse\u2019s Traveling Times and Distances\n\n| Trial | Time (minutes) | Distance (kilometers) |\n|-------|----------------|----------------------|\n| 1     | 15             | 4.5                  |\n| 2     | 30             | 9.0                  |\n| 3     | 45             | 13.5                 |\n\nWhat is the horse\u2019s average speed in kilometers per minute?",
+  "instruction": null,
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with data on trial number, time in minutes, and distance in kilometers"
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 1,
+  "notes": null
+}

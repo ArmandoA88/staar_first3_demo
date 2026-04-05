@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these best explains the change in money spent at the movies from 1946 to 1965?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An increase in unemployment"
+    },
+    {
+      "label": "B",
+      "text": "The popularity of television"
+    },
+    {
+      "label": "C",
+      "text": "A decrease in urban population"
+    },
+    {
+      "label": "D",
+      "text": "The resurgence of fundamentalism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Money Spent at Motion Picture Theaters, 1931\u20131970' with y-axis labeled 'Consumer Expenditures (billions of dollars)' and x-axis labeled 'Years' showing data bars for intervals: 1931-1935 (about 2.7), 1936-1940 (about 3.3), 1941-1945 (about 5.8), 1946-1950 (about 7.6), 1951-1955 (about 6.3), 1956-1960 (about 5.4), 1961-1965 (about 4.5), 1966-1970 (about 5.3)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

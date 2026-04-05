@@ -1,0 +1,30 @@
+{
+  "stem": "Squares X, Y, and Z are joined at two vertices each to create the right triangle shown in the diagram.\n\nThe area of Square X is 441 square centimeters, and the area of Square Y is 400 square centimeters. Which measurement is closest to the side length of Square Z in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "29 cm"
+    },
+    {
+      "label": "B",
+      "text": "41 cm"
+    },
+    {
+      "label": "C",
+      "text": "421 cm"
+    },
+    {
+      "label": "D",
+      "text": "841 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of three squares labeled X, Y, and Z joined at vertices forming a right triangle with a right angle indicated."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

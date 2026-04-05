@@ -1,0 +1,34 @@
+{
+  "stem": "How did the U.S. Supreme Court interpret this article in Gibbons v. Ogden (1824)?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "States may control commerce within their borders that involves foreign countries."
+    },
+    {
+      "label": null,
+      "text": "States may be subject to federal regulation in matters of commerce."
+    },
+    {
+      "label": null,
+      "text": "States may possess the power to regulate interstate commerce."
+    },
+    {
+      "label": null,
+      "text": "States may pass legislation that restricts interstate commerce."
+    },
+    {
+      "label": null,
+      "text": "States may regulate commerce within their own borders."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Congress shall have Power . . . To regulate Commerce with foreign Nations, and among the several States. \u2014U.S. Constitution, Article I, Section 8, Clause 3"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

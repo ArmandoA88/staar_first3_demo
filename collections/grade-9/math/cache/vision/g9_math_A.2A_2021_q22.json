@@ -1,0 +1,30 @@
+{
+  "stem": "A part of linear function g is graphed on the grid.\n\nWhich inequalities best describe the domain and range of the part shown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Domain: -4 < x < 5\nRange: -7 < g(x) < 6"
+    },
+    {
+      "label": "G",
+      "text": "Domain: -7 < x < 6\nRange: -4 < g(x) < 5"
+    },
+    {
+      "label": "H",
+      "text": "Domain: -4 \u2264 x \u2264 5\nRange: -7 \u2264 g(x) \u2264 6"
+    },
+    {
+      "label": "J",
+      "text": "Domain: -7 \u2264 x \u2264 6\nRange: -4 \u2264 g(x) \u2264 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with endpoints (-7,-4) and (6,5) connected by a line segment on coordinate grid with labeled axes x and y"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

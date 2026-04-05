@@ -1,0 +1,30 @@
+{
+  "stem": "Which factor prompted the passage of this legislation?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Denial of labor union membership for unskilled workers"
+    },
+    {
+      "label": "G",
+      "text": "Increased nativism and anti-immigrant attitudes"
+    },
+    {
+      "label": "H",
+      "text": "Wage increases for workers in manufacturing positions"
+    },
+    {
+      "label": "J",
+      "text": "Increased U.S. involvement in foreign wars and conflicts"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In the opinion of the Government of the United States the coming of Chinese laborers to this country endangers the good order of certain localities. . . . Therefore, Be it enacted . . . That . . . the coming of Chinese laborers to the United States be . . . suspended. . . . \u2014Chinese Exclusion Act, 1882"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

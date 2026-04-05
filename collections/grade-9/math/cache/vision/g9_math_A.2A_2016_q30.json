@@ -1,0 +1,30 @@
+{
+  "stem": "The total cost in dollars to buy uniforms for the players on a volleyball team can be found using the function c = 34.95u + 6.25, where u is the number of uniforms bought. If there are at least 8 players but not more than 12 players on the volleyball team, what is the domain of the function for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "0 < u \\leq 12"
+    },
+    {
+      "label": "G",
+      "text": "0 < c \\leq 425.65"
+    },
+    {
+      "label": "H",
+      "text": "{8, 9, 10, 11, 12}"
+    },
+    {
+      "label": "J",
+      "text": "{285.85, 320.80, 355.75, 390.70, 425.65}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: c = 34.95u + 6.25"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

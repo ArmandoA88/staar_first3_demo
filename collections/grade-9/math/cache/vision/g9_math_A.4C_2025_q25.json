@@ -1,0 +1,34 @@
+{
+  "stem": "A restaurant owner experimented with different prices for the lunch special. The table shows the linear relationship between the price of the lunch special in dollars and the number of lunch specials sold on six different days.\n\nLunch Special\n\nPrice (dollars) | Number Sold\n6.50            | 107\n9.50            | 78\n7.25            | 99\n11.00           | 65\n8.75            | 87\n9.35            | 80\n\nBased on the line of best fit, which predictions are true?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "Approximately 82 lunch specials would be sold if the price were $5.00."
+    },
+    {
+      "label": null,
+      "text": "Approximately 111 lunch specials would be sold if the price were $6.00."
+    },
+    {
+      "label": null,
+      "text": "Approximately 102 lunch specials would be sold if the price were $7.50."
+    },
+    {
+      "label": null,
+      "text": "Approximately 74 lunch specials would be sold if the price were $12.50."
+    },
+    {
+      "label": null,
+      "text": "Approximately 28 lunch specials would be sold if the price were $15.00."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Price (dollars) and Number Sold showing values: (6.50, 107), (9.50, 78), (7.25, 99), (11.00, 65), (8.75, 87), (9.35, 80)"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": "Exact text and table values preserved from the image; question involves line of best fit predictions."
+}

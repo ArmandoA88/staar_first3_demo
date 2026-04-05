@@ -1,0 +1,30 @@
+{
+  "stem": "Linear function f(x) = x is graphed on a coordinate plane. The graph of a new line is formed by changing the slope of the original line to \\( \\frac{2}{3} \\) and the y-intercept to 4. Which statement about the relationship between these two graphs is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The graph of the new line is steeper than the graph of the original line, and the y-intercept has been translated down."
+    },
+    {
+      "label": "B",
+      "text": "The graph of the new line is less steep than the graph of the original line, and the y-intercept has been translated up."
+    },
+    {
+      "label": "C",
+      "text": "The graph of the new line is steeper than the graph of the original line, and the y-intercept has been translated up."
+    },
+    {
+      "label": "D",
+      "text": "The graph of the new line is less steep than the graph of the original line, and the y-intercept has been translated down."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{2}{3} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

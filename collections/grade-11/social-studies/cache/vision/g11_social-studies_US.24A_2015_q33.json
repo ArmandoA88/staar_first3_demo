@@ -1,0 +1,30 @@
+{
+  "stem": "Which event is commonly associated with the type of music described in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The March on Washington"
+    },
+    {
+      "label": "B",
+      "text": "The Freedom Rides"
+    },
+    {
+      "label": "C",
+      "text": "Woodstock"
+    },
+    {
+      "label": "D",
+      "text": "The California grape boycott"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In the songs of rock 'n' roll, if indeed they can be called songs, I noticed the advent of much protest music stemming in a direct line from ballads like Nat King Cole's success of 1951, \"They Tried to Tell Us We're Too Young.\" In one song ... the musicians lament the fate of the world.... One song which gained enthusiastic approval told of how a boy was refused admission to high school because his hair was too long. Terrell explained, \"Rock is being married to folk music and the offspring is protest.\" \n   \u2014James Michener, New York Times, 1965"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

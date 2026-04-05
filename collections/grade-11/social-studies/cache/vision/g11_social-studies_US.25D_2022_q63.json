@@ -1,0 +1,30 @@
+{
+  "stem": "This is a time line of events in U.S. history.\n\nRosa Parks's Activism\n\n1943 \u2014 Secretary of NAACP in Montgomery, Alabama\n1955 \u2014 Arrested for violating bus segregation laws\n1956 \u2014 Arrested for violating anti-boycott laws\n1963 \u2014 Participated in March on Washington, D.C.\n1964 \u2014 Part of Freedom Summer voter registration drive\n\nWhat does this time line imply about Rosa Parks's activism during the Civil Rights era?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Rosa Parks acted independently from civil rights organizations."
+    },
+    {
+      "label": "B",
+      "text": "Rosa Parks continued her activism after the Montgomery bus boycott."
+    },
+    {
+      "label": "C",
+      "text": "Rosa Parks completed a large portion of her activism while awaiting trial."
+    },
+    {
+      "label": "D",
+      "text": "Rosa Parks learned of civil rights issues following the Montgomery bus boycott."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Timeline with arrow labeled 'Rosa Parks's Activism' showing: 1943 - Secretary of NAACP in Montgomery, Alabama; 1955 - Arrested for violating bus segregation laws; 1956 - Arrested for violating anti-boycott laws; 1963 - Participated in March on Washington, D.C.; 1964 - Part of Freedom Summer voter registration drive"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

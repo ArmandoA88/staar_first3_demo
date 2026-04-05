@@ -1,0 +1,34 @@
+{
+  "stem": "The government issued ration books during World War II in order to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "provide financial security for uninsured citizens"
+    },
+    {
+      "label": "G",
+      "text": "safeguard the profits of struggling businesses"
+    },
+    {
+      "label": "H",
+      "text": "ensure the fair distribution of scarce goods"
+    },
+    {
+      "label": "J",
+      "text": "allow consumers to buy imported goods at discounted rates"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The government issued ration books during World War II in order to \u2014",
+    "F provide financial security for uninsured citizens",
+    "G safeguard the profits of struggling businesses",
+    "H ensure the fair distribution of scarce goods",
+    "J allow consumers to buy imported goods at discounted rates"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

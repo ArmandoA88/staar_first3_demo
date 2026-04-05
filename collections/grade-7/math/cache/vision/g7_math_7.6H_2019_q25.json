@@ -1,0 +1,30 @@
+{
+  "stem": "Justin has 50 pictures in an album. Of these pictures, 30 show his friends, 12 show his family, and 8 show only Justin. Justin is in \\(\\frac{1}{2}\\) of the pictures that show his friends and \\(\\frac{1}{2}\\) of the pictures that show his family.\n\nBased on this information, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The probability of randomly selecting a picture that shows Justin with his friends is greater than the probability of randomly selecting a picture that shows Justin with his family."
+    },
+    {
+      "label": "B",
+      "text": "The probability of randomly selecting a picture that shows Justin is 8%."
+    },
+    {
+      "label": "C",
+      "text": "The probability of randomly selecting a picture that shows Justin with his family is 5 times the probability of randomly selecting a picture that shows only his friends."
+    },
+    {
+      "label": "D",
+      "text": "The probability of randomly selecting a picture that does not show Justin is 21%."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "math fractions \\(\\frac{1}{2}\\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

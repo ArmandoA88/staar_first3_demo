@@ -1,0 +1,30 @@
+{
+  "stem": "What was the main reason the federal government built this dam?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To provide resources for a growing population"
+    },
+    {
+      "label": "B",
+      "text": "To facilitate the transportation of goods in the region"
+    },
+    {
+      "label": "C",
+      "text": "To increase tourism in the region"
+    },
+    {
+      "label": "D",
+      "text": "To prevent the Colorado River from drying up"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of Hoover Dam"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "This political cartoon comments on events that occurred during the \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Reconstruction era"
+    },
+    {
+      "label": "B",
+      "text": "Age of Jackson"
+    },
+    {
+      "label": "C",
+      "text": "Second Great Awakening"
+    },
+    {
+      "label": "D",
+      "text": "War of 1812"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A political cartoon showing a man carrying two bags labeled 'Carpet-Bag from Mississippi to Missouri' and 'Carpet Bagger South.'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

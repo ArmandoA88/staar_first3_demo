@@ -1,0 +1,26 @@
+{
+  "stem": "What is the solution set that best represents the inequality \\( y \\geq \\frac{1}{2}x - 2 \\)?",
+  "instruction": "Graph the solution set of the linear inequality in the coordinate plane.\n\n\u2022 First, select the Graph button to graph the line and choose the line style. To graph a line, select two points in the coordinate plane. A line will connect the points.\n\n\u2022 Then select the Solution Set button to select the desired region.",
+  "options": [
+    {
+      "label": null,
+      "text": "Graph"
+    },
+    {
+      "label": null,
+      "text": "Solution Set"
+    }
+  ],
+  "choice_pool": [
+    "solid",
+    "dashed"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane with x and y axes labeled from -4 to 4 on x and -4 to 4 on y, marked with grid lines and pink arrows on axes",
+    "Graph interface box with 'Line Type' dropdown showing 'solid' selected"
+  ],
+  "item_type_inferred": "Graphing",
+  "confidence": 1,
+  "notes": "The problem asks to graph the inequality and select the solution region; no answer choices to select except line type and solution set selection buttons."
+}

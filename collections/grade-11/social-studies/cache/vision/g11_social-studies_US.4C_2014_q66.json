@@ -1,0 +1,31 @@
+{
+  "stem": "What was one result of the events reported in the excerpt above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Germany financed the Mexican army\u2019s attempted invasion of the United States."
+    },
+    {
+      "label": "G",
+      "text": "The U.S. government abandoned its official policy of neutrality."
+    },
+    {
+      "label": "H",
+      "text": "Germany\u2019s navy blockaded several Mexican seaports."
+    },
+    {
+      "label": "J",
+      "text": "The U.S. government boycotted goods imported from Europe."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Militant Americanism was dominant in Washington today\u2014in those quarters of the capital where action counts in this perilous time. By one bold strike President Wilson had emboldened the timid, scattered his enemies, and brought honest critics to his side.",
+    "The exposure of the German Government\u2019s attempt to line up Japan and Mexico with Germany in a war against the United States caused hesitating Senators and Representatives to come out in the open with declarations of support of the President and his method of dealing with the German submarine menace. While the international situation is more critical, the atmosphere has been cleared of doubt and misunderstanding, and Germany\u2019s enmity is now clearly revealed."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

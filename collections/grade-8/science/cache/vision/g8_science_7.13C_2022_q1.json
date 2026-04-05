@@ -1,0 +1,30 @@
+{
+  "stem": "Even though these puppies have the same parents, they do not all look alike because \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "they were produced by asexual cloning"
+    },
+    {
+      "label": "B",
+      "text": "some of the puppies have genetic material from only one of the parents"
+    },
+    {
+      "label": "C",
+      "text": "each puppy has a different combination of genetic material as a result of sexual reproduction"
+    },
+    {
+      "label": "D",
+      "text": "all the puppies developed from the same fertilized egg"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A photograph of a litter of six-week-old bulldog puppies shows that the puppies are not identical."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

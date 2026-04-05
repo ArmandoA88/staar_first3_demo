@@ -1,0 +1,34 @@
+{
+  "stem": "Which statement correctly completes this time line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Centers for Disease Control petitioned Congress to eliminate waste treatment plants."
+    },
+    {
+      "label": "B",
+      "text": "The federal government created the Environmental Protection Agency to oversee environmental issues."
+    },
+    {
+      "label": "C",
+      "text": "The automobile industry began researching alternative energy sources."
+    },
+    {
+      "label": "D",
+      "text": "The president ordered the Public Health Service to deal with environmental pollution."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Timeline: 1962 - In her book Silent Spring, Rachel Carson warned the public of the consequences of widespread pesticide use.",
+    "1970 - Twenty million Americans celebrated the first Earth Day. ?",
+    "The Clean Air Act was passed, regulating air emissions from all sources.",
+    "1972 - The Clean Water Act was passed, regulating the quality of surface waters.",
+    "1973 - The Endangered Species Act was passed, protecting threatened wildlife."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

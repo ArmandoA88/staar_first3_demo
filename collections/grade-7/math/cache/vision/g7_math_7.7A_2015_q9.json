@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation represents the relationship between the x-values and the y-values in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 2x + 12"
+    },
+    {
+      "label": "B",
+      "text": "y = 4x + 6"
+    },
+    {
+      "label": "C",
+      "text": "y = 2x + 4"
+    },
+    {
+      "label": "D",
+      "text": "y = 6x + 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns x and y values: (0,4), (2,16), (4,28), (6,40), (10,64)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "stem": "One attempt to resolve this issue without violence involved which action?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Cherokee Nation challenged Georgia's anti-Cherokee laws before the U.S. Supreme Court."
+    },
+    {
+      "label": "G",
+      "text": "Georgia asked the federal government for funds to purchase Cherokee land."
+    },
+    {
+      "label": "H",
+      "text": "The Cherokee Nation asked President Andrew Jackson to negotiate with Georgia."
+    },
+    {
+      "label": "J",
+      "text": "Georgia offered to grant U.S. citizenship to the Cherokees."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Gold was discovered on Cherokee land.",
+    "Georgia annexed Cherokee land and abolished the Cherokee government and its laws.",
+    "The Cherokees refused to move from their land."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

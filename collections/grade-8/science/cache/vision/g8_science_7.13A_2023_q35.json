@@ -1,0 +1,30 @@
+{
+  "stem": "A system in the human body is shown.\n\nThe main function of this system is to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "excrete hormones throughout the body"
+    },
+    {
+      "label": "B",
+      "text": "defend against infections entering the body"
+    },
+    {
+      "label": "C",
+      "text": "send signals back and forth from the brain to the body"
+    },
+    {
+      "label": "D",
+      "text": "circulate blood, nutrients, and gases throughout the body"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "human nervous system diagram showing brain, spinal cord, and nerves extending throughout the body"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt and your knowledge of U.S. history, what was the MAIN purpose of this film?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To instruct immigrants about technology"
+    },
+    {
+      "label": "B",
+      "text": "To promote the cultures of immigrants"
+    },
+    {
+      "label": "C",
+      "text": "To encourage immigrants to assimilate"
+    },
+    {
+      "label": "D",
+      "text": "To inspire the creativity of immigrants"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "An Italian immigrant arrives in America unable to speak English. Following disappointments and misfortunes, he takes language classes and ascends the ladder of success. Created as an education tool directed at industrial workers, this short drama was intended to help . . . immigrants. \u2014 \"The Making of an American,\" Library of Congress"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents a system of equations that has no solution?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph with two intersecting lines, one steep and the other moderate slope, crossing at one point in the coordinate plane)"
+    },
+    {
+      "label": "B",
+      "text": "(Graph with two parallel lines with different slopes, one decreasing and one increasing)"
+    },
+    {
+      "label": "C",
+      "text": "(Graph with two lines intersecting at one point, one line descending from left to right, the other ascending)"
+    },
+    {
+      "label": "D",
+      "text": "(Graph with two lines parallel, both ascending at same slope but different y-intercepts)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: lines intersecting",
+    "Graph B: parallel lines with different slopes",
+    "Graph C: intersecting lines",
+    "Graph D: parallel lines with same slope"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "Option B shows lines with different slopes that are not equal, so they are not parallel hence they intersect; option A and C show intersecting lines; option D shows parallel lines with same slope but different intercepts, indicating no solution."
+}

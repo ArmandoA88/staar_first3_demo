@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents a function with a range of all real numbers greater than or equal to -6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with vertex at (-6,0) opening upwards starting near y=0"
+    },
+    {
+      "label": "B",
+      "text": "Graph with vertex at (0,-9) opening downwards"
+    },
+    {
+      "label": "C",
+      "text": "Graph with vertex at (0,-6) opening upwards"
+    },
+    {
+      "label": "D",
+      "text": "Graph with vertex at (-6,0) opening downwards"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Parabola opening upward with vertex near (-6, 0)",
+    "Graph B: Parabola opening downward with vertex near (0, -9)",
+    "Graph C: Parabola opening upward with vertex near (0, -6)",
+    "Graph D: Parabola opening downward with vertex near (-6, 0)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Graphs are approximated by their vertices and opening direction since exact coordinates are not labeled right on the parabola. Only visible question and graph shapes used."
+}

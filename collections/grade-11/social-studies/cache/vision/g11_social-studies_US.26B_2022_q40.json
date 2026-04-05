@@ -1,0 +1,30 @@
+{
+  "stem": "Which military need contributed to development of the technology described in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Faster, more accurate responses during combat"
+    },
+    {
+      "label": "G",
+      "text": "Stronger, more dependable weapons for soldiers"
+    },
+    {
+      "label": "H",
+      "text": "Lighter, more fuel-efficient cargo planes"
+    },
+    {
+      "label": "J",
+      "text": "Larger, more powerful nuclear submarines"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Navstar GPS is a satellite-based radio navigation system developed and operated by the US Department of Defense (DOD)... It consists of a constellation of orbiting satellites, a ground control system and thousands of GPS information receiver units in aircraft, ships, [and] land vehicles.... \u2014\u201cU.S. Military GPS,\u201d www.army-technology.com (accessed May 7, 2018)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

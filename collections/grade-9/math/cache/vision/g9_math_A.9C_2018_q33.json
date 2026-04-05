@@ -1,0 +1,28 @@
+{
+  "stem": "In the year 1900, the total number of metric tons of copper produced in the world was 495,000. Each year since 1900, the total number of metric tons of copper produced has increased on average by about 3.25% over the amount produced the previous year.\n\nWhich function models the total number of metric tons of copper produced in the year that is x years since 1900?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "c(x) = 495,000(1.0325)^x"
+    },
+    {
+      "label": "B",
+      "text": "c(x) = 495,000(0.9675)^x"
+    },
+    {
+      "label": "C",
+      "text": "c(x) = 495,000x^{1.0325}"
+    },
+    {
+      "label": "D",
+      "text": "c(x) = 495,000x^{0.9675}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

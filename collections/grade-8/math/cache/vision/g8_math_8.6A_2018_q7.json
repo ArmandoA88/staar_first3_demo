@@ -1,0 +1,28 @@
+{
+  "stem": "In a museum there is a sculpture in the shape of a cylinder. The cylinder has a diameter of 12 feet and a height of h feet. Which equation can be used to find V, the volume of the cylinder in cubic feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "V = \\pi(6)^2h"
+    },
+    {
+      "label": "B",
+      "text": "V = \\pi(6h)^2"
+    },
+    {
+      "label": "C",
+      "text": "V = \\pi(12)^2h"
+    },
+    {
+      "label": "D",
+      "text": "V = \\pi(12h)^2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

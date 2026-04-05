@@ -1,0 +1,30 @@
+{
+  "stem": "A part of quadratic function \\(g\\) is graphed on the grid.\n\nWhat is the domain of the part of the function shown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "All real numbers greater than or equal to \\(-4\\) and less than or equal to 5"
+    },
+    {
+      "label": "B",
+      "text": "All real numbers greater than or equal to \\(-1\\) and less than or equal to 3"
+    },
+    {
+      "label": "C",
+      "text": "All real numbers greater than or equal to \\(-6\\) and less than or equal to 6"
+    },
+    {
+      "label": "D",
+      "text": "All real numbers greater than or equal to \\(-2\\) and less than or equal to 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane with points at (-2,5) and (3,1) connected by segment of a parabola"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

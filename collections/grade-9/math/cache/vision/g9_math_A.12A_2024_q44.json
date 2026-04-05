@@ -1,0 +1,33 @@
+{
+  "stem": "Which relation best represents y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\n\\nx\\ty\\n-2\t-4\\n1\t-2\\n-2\t4\\n2\t0\\n\\n"
+    },
+    {
+      "label": "B",
+      "text": "[Graph with two lines forming a 'V' shape, vertices at (1,1), one line passing through (-5,5), other line through (-5,-5)]"
+    },
+    {
+      "label": "C",
+      "text": "\\n\\nx\\ty\\n-4\t-3\\n-1\t0\\n2\t-5\\n6\t7\\n\\n"
+    },
+    {
+      "label": "D",
+      "text": "[Graph of an ellipse centered roughly at (1,0)]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table A with values of x and y",
+    "Graph B showing two lines forming a 'V' shape",
+    "Table C with values of x and y",
+    "Graph D showing an ellipse"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

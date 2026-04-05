@@ -1,0 +1,33 @@
+{
+  "stem": "Sentence 5 is written incorrectly. Select the response that corrects this sentence.\n\nTen years later the Panama Canal was [blank_1] and travel for the entire world.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "built"
+    },
+    {
+      "label": "B",
+      "text": "has built"
+    },
+    {
+      "label": "C",
+      "text": "builds"
+    },
+    {
+      "label": "D",
+      "text": "is building"
+    }
+  ],
+  "choice_pool": [
+    "built",
+    "has built",
+    "builds",
+    "is building"
+  ],
+  "response_template": "Ten years later the Panama Canal was [blank_1] and travel for the entire world.",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "How have industrial robots affected the American workplace?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "By minimizing the difference in pay between employees"
+    },
+    {
+      "label": null,
+      "text": "By automating the assembly of a wide range of consumer products"
+    },
+    {
+      "label": null,
+      "text": "By reducing employer demand for certain types of workers"
+    },
+    {
+      "label": null,
+      "text": "By providing a way for employees to work shorter hours"
+    },
+    {
+      "label": null,
+      "text": "By eliminating the need for machines in manufacturing processes"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Industrial robot: A programmable, multi-function [worker] designed to move material, parts, tools, or specialized devices through variable programmed motions for the performance of a variety of tasks.\n\u2014\"A Glossary of Terms for Robotics,\" U.S. Department of Commerce"
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A company advertises on two websites. Each website charges a different amount based on the number of clicks on the advertisement. The table shows the number of clicks on each website and the total cost for each of two days.\n\nCost of Website Advertisements\n\n| Day    | Number of Clicks on Website 1 | Number of Clicks on Website 2 | Total Cost (dollars) |\n|--------|-------------------------------|-------------------------------|----------------------|\n| Monday | 15                            | 29                            | 94.15                |\n| Tuesday| 25                            | 29                            | 121.15               |\n\nWhat is the cost per click on Website 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$1.85"
+    },
+    {
+      "label": "B",
+      "text": "$5.38"
+    },
+    {
+      "label": "C",
+      "text": "$2.20"
+    },
+    {
+      "label": "D",
+      "text": "$2.70"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

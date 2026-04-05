@@ -1,0 +1,30 @@
+{
+  "stem": "Which U.S. government action is MOST CLOSELY based on this idea?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The federal government passes laws to protect individual liberties."
+    },
+    {
+      "label": "B",
+      "text": "The Supreme Court votes to approve the appointment of presidential cabinet members."
+    },
+    {
+      "label": "C",
+      "text": "The Electoral College votes to approve the winner of congressional elections."
+    },
+    {
+      "label": "D",
+      "text": "The federal government passes laws to regulate businesses."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Hence arises the maxim that everyone is the best and the sole judge of his own private interest, and that society has no right to control a man's actions, unless they are prejudicial to the common weal [good] or unless the common weal [good] demands his co-operation. This doctrine is universally admitted in the United States. \u2014Alexis de Tocqueville, Democracy in America"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

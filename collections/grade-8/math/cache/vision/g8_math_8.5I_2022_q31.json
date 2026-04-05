@@ -1,0 +1,30 @@
+{
+  "stem": "A company is drilling a water well. The graph models the linear relationship between the depth of the well and the time spent drilling.\n\n[Graph titled \"Well Drilling\" with axes labeled y (Depth in feet) and x (Time in hours). The graph shows a line passing through the origin (0,0) and approximately at (5, 35).]\n\nWhich function best represents the relationship between y and x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 6x"
+    },
+    {
+      "label": "B",
+      "text": "y = 30x"
+    },
+    {
+      "label": "C",
+      "text": "y = 5x + 30"
+    },
+    {
+      "label": "D",
+      "text": "y = 6x + 30"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Well Drilling' with y-axis labeled 'Depth (feet)', x-axis labeled 'Time (hours)', with a line passing through (0,0) and (5,35) approx."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

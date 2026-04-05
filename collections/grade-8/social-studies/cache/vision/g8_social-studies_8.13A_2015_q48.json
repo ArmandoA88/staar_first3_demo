@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best completes the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The supply of British goods decreases."
+    },
+    {
+      "label": "G",
+      "text": "Congress ends the European embargo."
+    },
+    {
+      "label": "H",
+      "text": "Exports to Great Britain increase."
+    },
+    {
+      "label": "J",
+      "text": "Congress reduces tariffs."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing three boxes connected with arrows: First box says 'The War of 1812 begins.' Second box shows a question mark '?'. Third box says 'U.S. manufacturing expands.'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Joseph ran a 6-mile race in 48 minutes. Which graph has a slope that best represents Joseph's average rate of speed during the race?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with y from 0 to 10, x from 0 to 10, a steep line from about (0,0) to (1,10)"
+    },
+    {
+      "label": "H",
+      "text": "Graph with y from 0 to 10, x from 0 to 10, a steep line from about (0,0) to (2,10)"
+    },
+    {
+      "label": "G",
+      "text": "Graph with y from 0 to 10, x from 0 to 10, a gentle line from about (0,0) to (10,1)"
+    },
+    {
+      "label": "J",
+      "text": "Graph with y from 0 to 10, x from 0 to 10, a vertical line at x=8 from (8,0) to (8,10)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, J each titled Joseph's Rate, y axis Distance (miles), x axis Time (minutes)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

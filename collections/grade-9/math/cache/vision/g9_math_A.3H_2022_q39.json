@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents the solution set for this system of inequalities?\n\nx + 2y < -2\ny - x < 3",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph with solid lines, shaded below both lines in the bottom-left region)"
+    },
+    {
+      "label": "B",
+      "text": "(Graph with dashed lines, shaded in the top-right region)"
+    },
+    {
+      "label": "C",
+      "text": "(Graph with dashed lines, shaded in the bottom-left region)"
+    },
+    {
+      "label": "D",
+      "text": "(Graph with solid lines, shaded in the top-right region)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled A, B, C, and D, each showing two lines and a shaded region"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": "Math inequalities and shading regions preserved. Exact graph details summarized due to complexity of image."
+}

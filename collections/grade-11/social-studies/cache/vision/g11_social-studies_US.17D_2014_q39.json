@@ -1,0 +1,30 @@
+{
+  "stem": "The primary objective of the executive order excerpted here was to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "establish a time line for eliminating segregated facilities in government buildings"
+    },
+    {
+      "label": "B",
+      "text": "reduce the fines paid by corporations for discriminatory hiring practices"
+    },
+    {
+      "label": "C",
+      "text": "promote fair employment practices in government agencies"
+    },
+    {
+      "label": "D",
+      "text": "establish hiring quotas for female workers in private corporations"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The President\u2019s Committee on Equal Employment Opportunity established by this order is directed immediately to scrutinize and study employment practices of the Government of the United States, and to consider and recommend additional affirmative steps which should be taken by executive departments and agencies to realize more fully the national policy of nondiscrimination within the executive branch of the Government. \u2014President John F. Kennedy, Executive Order 10925, 1961"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

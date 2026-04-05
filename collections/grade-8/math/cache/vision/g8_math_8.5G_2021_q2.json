@@ -1,0 +1,33 @@
+{
+  "stem": "Which representation shows y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "graph of an ellipse"
+    },
+    {
+      "label": "G",
+      "text": "graph of a triangle"
+    },
+    {
+      "label": "H",
+      "text": "function mapping with x-values: -11, -14, -17, -20 and y-values: 21, 34, 47, 60"
+    },
+    {
+      "label": "J",
+      "text": "function mapping with x-values: 16, 18, 20, 22 and y-values: 19, 21, 23, 25, 27"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph ellipse centered around origin between x = -3 and 3, y= -2 to 2",
+    "graph triangle spanning x from -5 to 2 and y from -4 to 3",
+    "mapping H with arrows: -11 \u2192 34, -14 \u2192 21, -17 \u2192 47, -20 \u2192 60",
+    "mapping J with arrows: 16 \u2192 19, 18 \u2192 21, 20 \u2192 23, 22 \u2192 27"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

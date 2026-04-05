@@ -1,0 +1,30 @@
+{
+  "stem": "Polygon A has an area of 27r square meters. Polygon A is dilated by a scale factor of 3 to create Polygon B. What is the area in square meters of Polygon B?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "243r square meters"
+    },
+    {
+      "label": "B",
+      "text": "9r square meters"
+    },
+    {
+      "label": "C",
+      "text": "729r square meters"
+    },
+    {
+      "label": "D",
+      "text": "81r square meters"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q35"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

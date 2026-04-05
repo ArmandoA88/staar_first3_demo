@@ -1,0 +1,30 @@
+{
+  "stem": "Which components bond with adenine in a section of double-stranded DNA?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1, 3, 5, and 6 only"
+    },
+    {
+      "label": "B",
+      "text": "3 and 5 only"
+    },
+    {
+      "label": "C",
+      "text": "2 and 4 only"
+    },
+    {
+      "label": "D",
+      "text": "3, 4, 7, and 8 only"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Components of Nucleic Acids\n1. Phosphate\n2. Ribose sugar\n3. Deoxyribose sugar\n4. Uracil\n5. Thymine\n6. Adenine\n7. Guanine\n8. Cytosine"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

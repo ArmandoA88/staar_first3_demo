@@ -1,0 +1,20 @@
+{
+  "stem": "Julia Butterfly Hill used [blank_1] to draw attention to environmental issues caused by increased [blank_2].",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [],
+  "choice_pool": [
+    "a tree sitter",
+    "a protester",
+    "a volunteer",
+    "logging",
+    "pollution",
+    "deforestation"
+  ],
+  "response_template": "Julia Butterfly Hill used [blank_1] to draw attention to environmental issues caused by increased [blank_2].",
+  "visual_elements": [
+    "Excerpt from a newspaper article about Julia Butterfly Hill's tree sitting to prevent clear-cutting of giant redwoods."
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "stem": "Which list shows the rectangles in order by their diagonal lengths from shortest to longest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Rectangle T, Rectangle S, Rectangle P"
+    },
+    {
+      "label": "B",
+      "text": "Rectangle T, Rectangle P, Rectangle S"
+    },
+    {
+      "label": "C",
+      "text": "Rectangle S, Rectangle T, Rectangle P"
+    },
+    {
+      "label": "D",
+      "text": "Rectangle S, Rectangle P, Rectangle T"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangle P with diagonal labeled 6.7 cm",
+    "Rectangle S with diagonal labeled 34/5 cm",
+    "Rectangle T with diagonal labeled \u221a36.5 cm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

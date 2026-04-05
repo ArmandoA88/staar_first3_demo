@@ -1,0 +1,30 @@
+{
+  "stem": "Maribel surveyed 55 people to find out their favorite types of music. The results are shown in the bar graph.\n\nBased on the information in the graph, which types of music were chosen by 40% of the people surveyed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Country and opera"
+    },
+    {
+      "label": "B",
+      "text": "Jazz and opera"
+    },
+    {
+      "label": "C",
+      "text": "Jazz, opera, and rock"
+    },
+    {
+      "label": "D",
+      "text": "Country, jazz, and rock"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled Favorite Types of Music with y-axis labeled Number of People from 0 to 18, and x-axis labeled Type of Music with categories Country (15 people), Jazz (12 people), Opera (10 people), Rock (18 people)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

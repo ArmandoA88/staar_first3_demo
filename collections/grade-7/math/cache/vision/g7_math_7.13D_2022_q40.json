@@ -1,0 +1,30 @@
+{
+  "stem": "A monthly budget for a small family is shown.\n\nFamily Budget\n\n| Item               | Amount |\n|--------------------|--------|\n| Mortgage payment   | $800   |\n| Food               | $600   |\n| Transportation     | $360   |\n| Childcare          | $540   |\n| Health insurance   | $750   |\n| Miscellaneous      | $580   |\n\nWhich equation can be used to find b, the minimum amount of money the family must earn annually in order to meet this budget?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "b = $3,630 \\times 12"
+    },
+    {
+      "label": "G",
+      "text": "b = $3,630 \\times 52"
+    },
+    {
+      "label": "H",
+      "text": "b = $43,560 \\div 52"
+    },
+    {
+      "label": "J",
+      "text": "b = $43,560 \\div 365"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Family Budget Table"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

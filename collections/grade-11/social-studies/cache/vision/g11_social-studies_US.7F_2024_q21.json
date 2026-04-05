@@ -1,0 +1,43 @@
+{
+  "stem": "Which images show issues directly affecting civilians on the home front during World War II?\n\nSelect THREE correct answers.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Image with large guns labeled UNITED we are strong, UNITED we will win"
+    },
+    {
+      "label": null,
+      "text": "Image with men in military uniforms seated and standing"
+    },
+    {
+      "label": null,
+      "text": "Poster that reads GROW IT YOURSELF PLAN A FARM GARDEN NOW with plants"
+    },
+    {
+      "label": null,
+      "text": "Image of children putting items in a barrel labeled SCRAP METALS"
+    },
+    {
+      "label": null,
+      "text": "Poster with soldiers and planes with the words BUY WAR BONDS"
+    },
+    {
+      "label": null,
+      "text": "Image of two soldiers sitting and eating in a jungle"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image with large guns labeled UNITED we are strong, UNITED we will win",
+    "Image with men in military uniforms seated and standing",
+    "Poster that reads GROW IT YOURSELF PLAN A FARM GARDEN NOW with plants",
+    "Image of children putting items in a barrel labeled SCRAP METALS",
+    "Poster with soldiers and planes with the words BUY WAR BONDS",
+    "Image of two soldiers sitting and eating in a jungle"
+  ],
+  "item_type_inferred": "Multiple Selection",
+  "confidence": 0.99,
+  "notes": "Images correspond to World War II home front issues such as scrap metal collection, victory gardens, and war bond drives affecting civilians."
+}

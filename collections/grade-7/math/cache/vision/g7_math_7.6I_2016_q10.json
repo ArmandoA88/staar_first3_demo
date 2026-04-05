@@ -1,0 +1,33 @@
+{
+  "stem": "Gabriel has these cans of soup in his kitchen cabinet.\n\n\u2022 2 cans of tomato soup\n\u2022 3 cans of chicken soup\n\u2022 2 cans of cheese soup\n\u2022 2 cans of potato soup\n\u2022 1 can of beef soup\n\nGabriel will randomly choose one can of soup. Then he will put it back and randomly choose another can of soup. What is the probability that he will choose a can of tomato soup and then a can of cheese soup?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{2}{5}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{2}{45}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{1}{25}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{1}{5}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction: 2 over 5",
+    "fraction: 2 over 45",
+    "fraction: 1 over 25",
+    "fraction: 1 over 5"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

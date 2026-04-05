@@ -1,0 +1,28 @@
+{
+  "stem": "Researchers in Antarctica discovered a warm sea current under a glacier that is causing the glacier to melt. The ice shelf of the glacier had a thickness of approximately 450 m when it was first discovered. The thickness of the ice shelf is decreasing at an average rate of 0.06 m per day.\n\nWhich function can be used to find the thickness of the ice shelf in meters x days since the discovery?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "t(x) = 450 - 0.06x"
+    },
+    {
+      "label": "B",
+      "text": "t(x) = -0.06(x + 450)"
+    },
+    {
+      "label": "C",
+      "text": "t(x) = 450 + 0.06x"
+    },
+    {
+      "label": "D",
+      "text": "t(x) = 0.06(x + 450)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

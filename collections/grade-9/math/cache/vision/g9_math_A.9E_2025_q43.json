@@ -1,0 +1,30 @@
+{
+  "stem": "A student drops a ball and measures the height of the ball while it is bouncing. The table shows the height of the ball in inches, y, after it has bounced x times.\n\nBouncing Ball\n\n| Number of Bounces, x | Height of Ball, y (inches) |\n|---------------------|-------------------------------|\n| 0                   | 72                            |\n| 1                   | 43.2                          |\n| 2                   | 25.9                          |\n| 3                   | 15.6                          |\n| 4                   | 9.3                           |\n\nWhich exponential function best models the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 72(0.6)^x"
+    },
+    {
+      "label": "B",
+      "text": "y = 43.2(0.6)^x"
+    },
+    {
+      "label": "C",
+      "text": "y = 72(0.4)^x"
+    },
+    {
+      "label": "D",
+      "text": "y = 43.2(0.4)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with values for number of bounces x and height of ball y"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

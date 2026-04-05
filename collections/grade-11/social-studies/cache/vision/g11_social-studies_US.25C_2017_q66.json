@@ -1,0 +1,30 @@
+{
+  "stem": "These murals were painted during the 1970s in California.\n\nThis artistic movement demonstrates the contributions of which culture to U.S. art?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Hispanic American"
+    },
+    {
+      "label": "G",
+      "text": "Chinese American"
+    },
+    {
+      "label": "H",
+      "text": "Irish American"
+    },
+    {
+      "label": "J",
+      "text": "African American"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photo of murals painted on concrete pillars under a highway, showing colorful designs and faces"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

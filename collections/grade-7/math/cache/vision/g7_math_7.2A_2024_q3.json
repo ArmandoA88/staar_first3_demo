@@ -1,0 +1,30 @@
+{
+  "stem": "Complete the Venn diagram to show the relationship among integers, rational numbers, natural numbers, and whole numbers.",
+  "instruction": "Move the correct answer to each box.",
+  "options": [
+    {
+      "label": null,
+      "text": "Rational numbers"
+    },
+    {
+      "label": null,
+      "text": "Natural numbers"
+    },
+    {
+      "label": null,
+      "text": "Whole numbers"
+    }
+  ],
+  "choice_pool": [
+    "Rational numbers",
+    "Natural numbers",
+    "Whole numbers"
+  ],
+  "response_template": "[blank_1]\nIntegers\n[blank_2]\n[blank_3]",
+  "visual_elements": [
+    "Venn diagram with three nested ovals labeled 'Integers' in the middle, and three blank boxes inside the nested ovals."
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": "The question involves placing given number sets into appropriate sections of a nested Venn diagram with integers in the middle ring."
+}

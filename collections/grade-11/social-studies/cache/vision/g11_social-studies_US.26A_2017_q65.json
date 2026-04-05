@@ -1,0 +1,28 @@
+{
+  "stem": "Which of the following is an example of using a renewable resource to generate electricity?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Building pipelines to maximize the efficiency of transporting oil and gas"
+    },
+    {
+      "label": "B",
+      "text": "Placing large wind turbines in areas with strong, steady winds"
+    },
+    {
+      "label": "C",
+      "text": "Using hydraulic fracturing with water and sand to release oil and gas"
+    },
+    {
+      "label": "D",
+      "text": "Conducting open-pit mining in areas where coal is found near the surface"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

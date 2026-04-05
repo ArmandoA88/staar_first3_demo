@@ -1,0 +1,30 @@
+{
+  "stem": "How did this ruling affect black people in the United States before the Civil War?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It gave free blacks a route to citizenship but denied that right to enslaved people."
+    },
+    {
+      "label": "B",
+      "text": "It denied rights for enslaved people but allowed free blacks the right to sue."
+    },
+    {
+      "label": "C",
+      "text": "It restricted enslaved people and free blacks from having a voice in federal courts."
+    },
+    {
+      "label": "D",
+      "text": "It gave enslaved people and free blacks their freedom in the United States."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A free negro of the African race, whose ancestors were brought to this country and sold as slaves, is not a \u201ccitizen\u201d within the meaning of the Constitution of the United States. . . .  \n. . . Consequently, the special rights and immunities [guaranteed] to citizens do not apply to them. And not being \u201ccitizens\u201d within the meaning of the Constitution, they are not entitled to sue in that character in a court of the United States.  \n\u2014Dred Scott v. Sandford"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

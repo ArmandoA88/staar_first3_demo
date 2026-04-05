@@ -1,0 +1,33 @@
+{
+  "stem": "Which Venn diagram correctly describes the relationship between whole numbers and integers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Whole numbers  Integers, because whole numbers and integers have no numbers in common"
+    },
+    {
+      "label": "B",
+      "text": "Whole numbers  Integers, because some whole numbers are not integers"
+    },
+    {
+      "label": "C",
+      "text": "Whole numbers  Integers, because all integers are whole numbers"
+    },
+    {
+      "label": "D",
+      "text": "Integers  Whole numbers, because all whole numbers are integers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram A: Two separate circles labeled 'Whole numbers' and 'Integers'.",
+    "Diagram B: Two intersecting circles labeled 'Whole numbers' and 'Integers'.",
+    "Diagram C: One circle labeled 'Whole numbers' containing a smaller circle labeled 'Integers'.",
+    "Diagram D: One circle labeled 'Integers' containing a smaller circle labeled 'Whole numbers'."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

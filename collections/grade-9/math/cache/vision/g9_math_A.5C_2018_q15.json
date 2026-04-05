@@ -1,0 +1,30 @@
+{
+  "stem": "Two customers went to a post office to buy postcards and large envelopes. Each postcard costs the same amount, and each large envelope costs the same amount.\n\n\u2022 The first customer paid $12 for 14 postcards and 5 large envelopes.\n\u2022 The second customer paid $24.80 for 10 postcards and 15 large envelopes.\n\nWhat was the cost in dollars of each large envelope?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$1.42"
+    },
+    {
+      "label": "B",
+      "text": "$0.35"
+    },
+    {
+      "label": "C",
+      "text": "$1.15"
+    },
+    {
+      "label": "D",
+      "text": "$0.63"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two customers went to a post office to buy postcards and large envelopes. Each postcard costs the same amount, and each large envelope costs the same amount. The first customer paid $12 for 14 postcards and 5 large envelopes. The second customer paid $24.80 for 10 postcards and 15 large envelopes. What was the cost in dollars of each large envelope? Options: A $1.42, B $0.35, C $1.15, D $0.63"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Which government poster is directly related to the Civil Rights Act of 1964?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "UNITED STATES ENVIRONMENTAL PROTECTION AGENCY"
+    },
+    {
+      "label": "G",
+      "text": "Access for All\nSource: Texas Department of Licensing and Regulation and The Governor\u2019s Committee on People with Disabilities"
+    },
+    {
+      "label": "H",
+      "text": "EMPLOYMENT DISCRIMINATION IS ILLEGAL"
+    },
+    {
+      "label": "J",
+      "text": "TRANSPORTATION SECURITY ADMINISTRATION\nU.S. DEPARTMENT OF TRANSPORTATION"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "F: Environmental Protection Agency logo",
+    "G: Access for All poster with wheelchair symbol and Texas map",
+    "H: Employment Discrimination Is Illegal poster with No symbol",
+    "J: Transportation Security Administration (TSA) logo"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

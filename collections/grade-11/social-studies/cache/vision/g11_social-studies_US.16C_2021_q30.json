@@ -1,0 +1,30 @@
+{
+  "stem": "Study the diagram and answer the question that follows.\n\nEvents of the Great Depression\n\n[Diagram showing three boxes pointing to a circle with a question mark: Collapse of the stock market, Decline in corporate capital, Increased protective tariffs]\n\nWhich phrase correctly replaces the question mark in this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Increase in minimum wage"
+    },
+    {
+      "label": "G",
+      "text": "Growth of immigration"
+    },
+    {
+      "label": "H",
+      "text": "Increase in unemployment"
+    },
+    {
+      "label": "J",
+      "text": "Growth in consumer spending"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with three boxes labeled 'Collapse of the stock market', 'Decline in corporate capital', and 'Increased protective tariffs' with arrows pointing to a circle containing a question mark."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the equation in slope-intercept form of the line that crosses the x-axis at 36 and is perpendicular to the line represented by y = -\\frac{4}{9}x + 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = \\frac{4}{9}x + 16"
+    },
+    {
+      "label": "G",
+      "text": "y = \\frac{4}{9}x - 16"
+    },
+    {
+      "label": "H",
+      "text": "y = \\frac{9}{4}x + 81"
+    },
+    {
+      "label": "J",
+      "text": "y = \\frac{9}{4}x - 81"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = -\\frac{4}{9}x + 5"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

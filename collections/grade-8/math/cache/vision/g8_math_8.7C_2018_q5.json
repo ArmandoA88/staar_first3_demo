@@ -1,0 +1,30 @@
+{
+  "stem": "Natasha walked from the library to the grocery store and then to her house. The diagram shows the top view of the locations of these three places and their distances from each other.\n\nWhich measurement is closest to the shortest distance in miles from Natasha's house to the library?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2.6 mi"
+    },
+    {
+      "label": "B",
+      "text": "1.9 mi"
+    },
+    {
+      "label": "C",
+      "text": "1.4 mi"
+    },
+    {
+      "label": "D",
+      "text": "2.3 mi"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of three points labeled Library, Grocery store, and Natasha's house.\n- Distance between Library and Grocery store is 1.7 mi.\n- Distance between Grocery store and Natasha's house is 0.9 mi.\n- A right angle is indicated at Grocery store."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

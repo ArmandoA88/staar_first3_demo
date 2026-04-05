@@ -1,0 +1,31 @@
+{
+  "stem": "What is the quotient represented by the expression \\( \\frac{8w^2 - 20w - 12}{2w + 1} \\) for all values of \\( w \\) where the expression is defined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4w + 12"
+    },
+    {
+      "label": "B",
+      "text": "4w - 12"
+    },
+    {
+      "label": "C",
+      "text": "w - 3"
+    },
+    {
+      "label": "D",
+      "text": "w + 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "8w^2 - 20w - 12",
+    "2w + 1"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

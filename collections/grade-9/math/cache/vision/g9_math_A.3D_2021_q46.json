@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents the solution set of y \\u2264 \\u00bd 3\\u20444 x - 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph F: Solid line with positive slope shading below",
+    "Graph H: Solid line with positive slope shading above",
+    "Graph G: Dashed line with positive slope shading below",
+    "Graph J: Dashed line with positive slope shading above"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

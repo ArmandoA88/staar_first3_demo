@@ -1,0 +1,28 @@
+{
+  "stem": "A student rode a bicycle fewer than 30 miles during a period of 5 days. The student rode 8 miles on Monday and m miles each day from Tuesday through Friday.\n\nWhich inequality represents all possible values of m?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8 + 4m < 30"
+    },
+    {
+      "label": "B",
+      "text": "8 + 4m > 30"
+    },
+    {
+      "label": "C",
+      "text": "8 - 4m > 30"
+    },
+    {
+      "label": "D",
+      "text": "8 - 4m < 30"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

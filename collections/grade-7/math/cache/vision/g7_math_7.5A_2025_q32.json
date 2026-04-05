@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle \\( KLM \\) is similar to triangle \\( TLV \\). Which statement about the triangles must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{KL}{LM} = \\frac{LV}{TL} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{ML}{MK} = \\frac{VL}{VT} \\)"
+    },
+    {
+      "label": "C",
+      "text": "Angle \\( K \\) is congruent to angle \\( V \\)."
+    },
+    {
+      "label": "D",
+      "text": "Angle \\( T \\) is congruent to angle \\( M \\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle diagram with points labeled K, L, M on one triangle and T, L, V on the other triangle as shown"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A teacher recorded the typing speeds of her students on Monday and Tuesday. The results are shown in the box plots.\n\nTyping Speeds\nMonday\nTuesday\n\nWhich statement is best supported by the information in the box plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The median typing speed on Monday was less than the median typing speed on Tuesday."
+    },
+    {
+      "label": "B",
+      "text": "The maximum typing speed on Monday was greater than the maximum typing speed on Tuesday."
+    },
+    {
+      "label": "C",
+      "text": "The range of the typing speeds on Monday was equal to the range of the typing speeds on Tuesday."
+    },
+    {
+      "label": "D",
+      "text": "The interquartile range of the typing speeds on Monday was equal to the interquartile range of the typing speeds on Tuesday."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plots for Monday and Tuesday showing typing speeds with scale from 20 to 100 words per minute"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

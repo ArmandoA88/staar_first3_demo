@@ -1,0 +1,30 @@
+{
+  "stem": "Which box lists some results of improved steamboat technology in the United States as of the mid-1830s?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\u2022 The price of fares decreased.\n\u2022 The tourist industry developed.\n\u2022 The cost to transport goods decreased."
+    },
+    {
+      "label": "B",
+      "text": "\u2022 The price of coal increased.\n\u2022 Roads were built to connect rivers.\n\u2022 The need for Conestoga wagons was eliminated."
+    },
+    {
+      "label": "C",
+      "text": "\u2022 Traffic on the Mississippi River increased.\n\u2022 Canals stopped being built in the Northeast.\n\u2022 More goods were shipped from the North to the South."
+    },
+    {
+      "label": "D",
+      "text": "\u2022 New states were added to the Union.\n\u2022 The population of major cities decreased.\n\u2022 Support for Manifest Destiny grew stronger."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Three rectangular boxes each containing three bulleted statements, labeled A, B, C, D accordingly."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

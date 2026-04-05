@@ -1,0 +1,35 @@
+{
+  "stem": "What is the solution set for each inequality?\n\nMove the correct answer to each box in the table. Each answer may be used more than once. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "x < -3"
+    },
+    {
+      "label": null,
+      "text": "x > -3"
+    },
+    {
+      "label": null,
+      "text": "x < 9"
+    },
+    {
+      "label": null,
+      "text": "x > 9"
+    }
+  ],
+  "choice_pool": [
+    "x < -3",
+    "x > -3",
+    "x < 9",
+    "x > 9"
+  ],
+  "response_template": "\u22123x + 9 < 18 [blank_1]\n4x - 24 > 12 [blank_2]",
+  "visual_elements": [
+    "table with columns 'Inequality' and 'Solution', rows with inequalities \u22123x + 9 < 18 and 4x - 24 > 12 and empty solution boxes"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

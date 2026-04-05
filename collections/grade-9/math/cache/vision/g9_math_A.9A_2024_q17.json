@@ -1,0 +1,38 @@
+{
+  "stem": "Which statements are true about the domain and range of the part of the function shown?",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "The domain is the set of all real numbers greater than or equal to 1 and less than or equal to 8."
+    },
+    {
+      "label": null,
+      "text": "The domain is the set of all real numbers greater than or equal to 2 and less than or equal to 5."
+    },
+    {
+      "label": null,
+      "text": "The domain is the set of all real numbers."
+    },
+    {
+      "label": null,
+      "text": "The range is the set of all real numbers greater than or equal to 1 and less than or equal to 8."
+    },
+    {
+      "label": null,
+      "text": "The range is the set of all real numbers greater than or equal to 2 and less than or equal to 5."
+    },
+    {
+      "label": null,
+      "text": "The range is the set of all real numbers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A graph of an exponential function segment from point (2,1) to point (5,8) plotted on a grid."
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 0.99,
+  "notes": null
+}

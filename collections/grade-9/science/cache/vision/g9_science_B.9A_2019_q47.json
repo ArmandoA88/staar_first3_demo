@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement is supported by this cladogram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Hippopotamuses are more closely related to cows than to javelinas."
+    },
+    {
+      "label": "B",
+      "text": "Toothed whales are more closely related to mouse deer than to hippopotamuses."
+    },
+    {
+      "label": "C",
+      "text": "Javelinas and pigs are more closely related than baleen whales and toothed whales."
+    },
+    {
+      "label": "D",
+      "text": "Cows and mouse deer are more closely related than javelinas and pigs."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cladogram showing relationships: Baleen whale and Toothed whale branch together; Hippopotamus branches next; Cow and Mouse deer branch together; Javelina and Pig branch together."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

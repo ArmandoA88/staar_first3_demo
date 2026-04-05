@@ -1,0 +1,30 @@
+{
+  "stem": "The model represents an inequality.\n\nWhat is the solution set for the inequality?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x \\leq -5"
+    },
+    {
+      "label": "G",
+      "text": "x \\leq 5"
+    },
+    {
+      "label": "H",
+      "text": "x \\leq 1"
+    },
+    {
+      "label": "J",
+      "text": "x \\leq -14"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A model showing on the left box: 4 vertical bars and 10 small white squares, inequality sign \\leq, right box showing 8 small gray squares; a KEY indicating one vertical bar = x, a white square = 1, and a gray square = -1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

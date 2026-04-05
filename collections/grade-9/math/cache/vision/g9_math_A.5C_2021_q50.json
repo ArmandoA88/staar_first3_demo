@@ -1,0 +1,31 @@
+{
+  "stem": "What is the value of y in the solution to this system of equations?\n\n6y + x = -59\nx = -2y + 9",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "8.5"
+    },
+    {
+      "label": "G",
+      "text": "-17"
+    },
+    {
+      "label": "H",
+      "text": "43"
+    },
+    {
+      "label": "J",
+      "text": "-12.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "6y + x = -59",
+    "x = -2y + 9"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

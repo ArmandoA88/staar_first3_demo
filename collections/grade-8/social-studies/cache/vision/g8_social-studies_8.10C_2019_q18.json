@@ -1,0 +1,30 @@
+{
+  "stem": "Which human geographic factor most likely prompted this observation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The number of Quakers living in British colonies"
+    },
+    {
+      "label": "G",
+      "text": "The Caribbean slave trade with British colonies"
+    },
+    {
+      "label": "H",
+      "text": "The number of religious sects in the British colonies"
+    },
+    {
+      "label": "J",
+      "text": "The Spanish land claims close to the British colonies"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "As towns are established . . . along the rivers Savannah and Alatamaha, they will make such a barrier as will render the southern frontier of the British Colonies on the Continent of America, safe from Indian and other enemies. \u2014General James Oglethorpe, 1733"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

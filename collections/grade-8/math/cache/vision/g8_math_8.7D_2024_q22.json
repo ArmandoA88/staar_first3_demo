@@ -1,0 +1,30 @@
+{
+  "stem": "Two points are shown on a coordinate grid.\n\n[Graph with points labeled K at (2,7) and L at (7,2)]\n\nWhich measurement is closest to the distance between points K and L?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "7 units"
+    },
+    {
+      "label": "B",
+      "text": "5 units"
+    },
+    {
+      "label": "C",
+      "text": "10 units"
+    },
+    {
+      "label": "D",
+      "text": "20 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with points K (2,7) and L (7,2) on a coordinate plane"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

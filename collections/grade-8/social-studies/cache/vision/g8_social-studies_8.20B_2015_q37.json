@@ -1,0 +1,32 @@
+{
+  "stem": "Which of these completes this graphic organizer?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Parliament repeals the Stamp and Sugar Acts."
+    },
+    {
+      "label": "B",
+      "text": "King George III allows colonists to petition Parliament for tax relief."
+    },
+    {
+      "label": "C",
+      "text": "Parliament passes the Intolerable Acts."
+    },
+    {
+      "label": "D",
+      "text": "King George III appoints colonial representatives to Parliament."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Parliament passes the Tea Act of 1773.",
+    "Colonists dump tea into Boston Harbor.",
+    "?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

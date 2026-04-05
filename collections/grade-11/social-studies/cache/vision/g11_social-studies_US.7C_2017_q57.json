@@ -1,0 +1,32 @@
+{
+  "stem": "In this excerpt, President Clinton is apologizing for \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the passage of the Chinese Exclusion Act"
+    },
+    {
+      "label": "B",
+      "text": "the verdict of the Sacco and Vanzetti trial"
+    },
+    {
+      "label": "C",
+      "text": "the hearings of the House Un-American Activities Committee"
+    },
+    {
+      "label": "D",
+      "text": "the internment of Japanese Americans"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Today, on behalf of your fellow Americans, I offer a sincere apology to you for the actions that unfairly denied . . . families fundamental liberties during World War II.",
+    "In passing the Civil Liberties Act of 1988, we acknowledged the wrongs of the past and offered redress to those who endured such grave injustice. In retrospect, we understand that the nation\u2019s actions were rooted deeply in racial prejudice, wartime hysteria, and a lack of political leadership.",
+    "\u2014President Bill Clinton, letter of apology, October 1, 1993"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

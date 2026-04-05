@@ -1,0 +1,30 @@
+{
+  "stem": "Set A represents rational numbers. Set B represents integers. Which diagram shows the numbers placed in the correct sets?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Set A: 3, 1.5; Set B: -12"
+    },
+    {
+      "label": "B",
+      "text": "Set A: -\\frac{2}{3}, 7.1; Set B: -3.4"
+    },
+    {
+      "label": "C",
+      "text": "Set A: 3.1, \\frac{1}{10}; Set B: -2"
+    },
+    {
+      "label": "D",
+      "text": "Set A: -\\frac{10}{2}, -\\frac{3}{8}; Set B: -6.8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four Venn diagrams labeled A, B, C, D showing sets labeled Set A and Set B with numbers inside them."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Why was this congressional structure created by the framers of the Constitution?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To follow the plan outlined in the Articles of Confederation"
+    },
+    {
+      "label": "B",
+      "text": "To reach a compromise between large and small states"
+    },
+    {
+      "label": "C",
+      "text": "To reach a compromise between slave states and non-slave states"
+    },
+    {
+      "label": "D",
+      "text": "To implement the outcome of a popular vote"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Representation in the U.S. Senate\nEqual number of seats for all states",
+    "Representation in the U.S. House of Representatives\nNumber of seats based on state population"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

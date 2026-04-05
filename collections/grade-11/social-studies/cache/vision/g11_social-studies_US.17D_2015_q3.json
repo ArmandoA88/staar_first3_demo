@@ -1,0 +1,32 @@
+{
+  "stem": "The passage of the pieces of legislation in this list resulted in \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the regulation of cabinet-level agencies"
+    },
+    {
+      "label": "B",
+      "text": "federal guarantees of income"
+    },
+    {
+      "label": "C",
+      "text": "limitations on government expenditures"
+    },
+    {
+      "label": "D",
+      "text": "the creation of programs to alleviate poverty"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Food Stamp Act of 1964",
+    "Housing and Urban Development Act of 1965",
+    "Child Nutrition Act of 1966"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

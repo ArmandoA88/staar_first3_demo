@@ -1,0 +1,33 @@
+{
+  "stem": "Four triangles are shown. One side of each triangle lies on a ray, and the triangles are not drawn to scale.\n\nBased on these triangles, which statement about x is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x = 160, because 180 - (130 + 30) = 20 and 180 - 20 = 160"
+    },
+    {
+      "label": "G",
+      "text": "x = 20, because 130 + 30 = 160 and 180 - 160 = 20"
+    },
+    {
+      "label": "H",
+      "text": "x = 80, because 180 - 130 = 50 and 50 + 30 = 80"
+    },
+    {
+      "label": "J",
+      "text": "x = 340, because 130 + 30 = 160 and 160 + 180 = 340"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle with angles 35\u00b0, 56\u00b0, 91\u00b0 on a ray",
+    "Triangle with angles 60\u00b0, 60\u00b0, 120\u00b0 on a ray",
+    "Triangle with angles 20\u00b0, 120\u00b0, 140\u00b0 on a ray",
+    "Triangle with angles 30\u00b0, 130\u00b0, x\u00b0 on a ray"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

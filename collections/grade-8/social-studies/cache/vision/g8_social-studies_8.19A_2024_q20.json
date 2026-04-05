@@ -1,0 +1,30 @@
+{
+  "stem": "This diagram shows a political idea that John Locke wrote about during the seventeenth century.\n\n[Diagram: Natural rights at top, with three branches down to Life, Liberty, and ?]",
+  "instruction": "Which right completes the diagram?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Justice"
+    },
+    {
+      "label": "B",
+      "text": "Privilege"
+    },
+    {
+      "label": "C",
+      "text": "Property"
+    },
+    {
+      "label": "D",
+      "text": "Education"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram: Natural rights at top, with three branches down to Life, Liberty, and ?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

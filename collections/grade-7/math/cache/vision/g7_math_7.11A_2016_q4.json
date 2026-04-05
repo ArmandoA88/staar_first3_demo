@@ -1,0 +1,30 @@
+{
+  "stem": "An equation is modeled. What value of x makes the equation true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "1"
+    },
+    {
+      "label": "G",
+      "text": "7"
+    },
+    {
+      "label": "H",
+      "text": "-5"
+    },
+    {
+      "label": "J",
+      "text": "-1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "x x x x x \u00d7 1 1 1 = 1"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

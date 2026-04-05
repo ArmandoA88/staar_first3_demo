@@ -1,0 +1,30 @@
+{
+  "stem": "The chemical formula for acetic acid is CH\u2083COOH. How many hydrogen atoms are in one molecule of acetic acid?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3"
+    },
+    {
+      "label": "B",
+      "text": "4"
+    },
+    {
+      "label": "C",
+      "text": "5"
+    },
+    {
+      "label": "D",
+      "text": "6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "CH\u2083COOH"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

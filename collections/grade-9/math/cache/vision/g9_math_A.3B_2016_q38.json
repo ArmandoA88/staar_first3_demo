@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shows how the volume of a gas sample changes as the temperature changes and the pressure remains constant.\n\nWhich of these best represents the rate of change in the volume of the gas sample with respect to the temperature?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{7}{100} \\text{ mL/}^\\circ \\text{C}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{1}{12} \\text{ mL/}^\\circ \\text{C}"
+    },
+    {
+      "label": "H",
+      "text": "12 \\text{ mL/}^\\circ \\text{C}"
+    },
+    {
+      "label": "J",
+      "text": "22\\frac{2}{5} \\text{ mL/}^\\circ \\text{C}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Gas Sample' with x-axis labeled 'Temperature (\u00b0C)' from 0 to 100 and y-axis labeled 'Volume of Gas (mL)' from 20 to 35. The graph shows a line increasing from about (0,22) to (100,30)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

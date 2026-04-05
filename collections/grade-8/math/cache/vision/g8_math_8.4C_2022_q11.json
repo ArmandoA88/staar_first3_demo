@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a linear function is shown on the coordinate grid.\n\nWhat is the y-intercept of the graph of this function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{3}{2}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{4}{5}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{5}{3}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{4}{3}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with line through points (-5, -7) and (4, 8) labeled"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

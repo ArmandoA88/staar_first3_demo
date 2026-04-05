@@ -1,0 +1,41 @@
+{
+  "stem": "The dot plots show the number of goals scored in each game of the season by two soccer teams.\n\nTeam P\n\n[dot plot]\n\nTeam R\n\n[dot plot]\n\nEach \u25cf represents 1 game.\n\nChoose the correct answer from each drop-down menu to complete the sentences.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Team P"
+    },
+    {
+      "label": null,
+      "text": "Team R"
+    },
+    {
+      "label": null,
+      "text": "mean"
+    },
+    {
+      "label": null,
+      "text": "median"
+    },
+    {
+      "label": null,
+      "text": "mode"
+    }
+  ],
+  "choice_pool": [
+    "Team P",
+    "Team R",
+    "mean",
+    "median",
+    "mode"
+  ],
+  "response_template": "The median is greater for [blank_1].\nThe [blank_2] is the same for the two sets of numbers.",
+  "visual_elements": [
+    "Dot plot for Team P showing goals per game: 0(2), 1(1), 2(3), 3(4), 4(2), 5(0)",
+    "Dot plot for Team R showing goals per game: 0(2), 1(4), 2(2), 3(4), 4(1), 5(1)"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

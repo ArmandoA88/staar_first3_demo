@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt and your knowledge of U.S. history, how was General Washington able to save the Continental Army?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He relied on superior transportation technology to overtake the British."
+    },
+    {
+      "label": "B",
+      "text": "Weather conditions hid his escape from the British."
+    },
+    {
+      "label": "C",
+      "text": "Swift-moving waterways allowed him to escape from the British."
+    },
+    {
+      "label": "D",
+      "text": "He relied on shouted commands to confuse the British."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt describing General George Washington's evacuation during the American Revolution."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "This is a multiple-choice history question about an event in 1776 involving General Washington's strategic retreat."
+}

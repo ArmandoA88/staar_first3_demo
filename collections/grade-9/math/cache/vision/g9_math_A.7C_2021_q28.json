@@ -1,0 +1,33 @@
+{
+  "stem": "The graph of f(x) = x^2 is reflected over the x-axis and is stretched horizontally to create the graph of function g. Which graph could represent g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph labeled F: upward parabola, vertex at origin",
+    "Graph labeled H: narrow upward parabola, vertex at origin",
+    "Graph labeled G: narrow downward parabola, vertex at origin",
+    "Graph labeled J: wide downward parabola, vertex at origin"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

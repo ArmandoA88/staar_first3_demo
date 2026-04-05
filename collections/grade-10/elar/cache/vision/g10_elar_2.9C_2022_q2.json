@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 8 and 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Early attempts to provide provisions to troops left them weakened and troops were also left malnourished and susceptible to disease, which could be fatal."
+    },
+    {
+      "label": "G",
+      "text": "Early attempts to provide provisions to troops left them weakened, malnourished, and susceptible to disease, which could be fatal."
+    },
+    {
+      "label": "H",
+      "text": "Early attempts to provide provisions to troops left them weakened; troops were also left malnourished and susceptible to disease, which could be fatal."
+    },
+    {
+      "label": "J",
+      "text": "Early attempts to provide provisions to troops left them weakened, and were also malnourished and susceptible to disease, which could be fatal."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

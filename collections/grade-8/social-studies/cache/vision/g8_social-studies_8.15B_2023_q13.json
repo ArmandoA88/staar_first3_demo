@@ -1,0 +1,40 @@
+{
+  "stem": "Which weaknesses are associated with the Articles of Confederation?",
+  "instruction": "Move the correct answers to the box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "All states had to approve amendments."
+    },
+    {
+      "label": null,
+      "text": "The one-house legislature was based on population."
+    },
+    {
+      "label": null,
+      "text": "The central government held too much power."
+    },
+    {
+      "label": null,
+      "text": "States coined their own money."
+    },
+    {
+      "label": null,
+      "text": "Slavery was banned in the Northwest Territory."
+    }
+  ],
+  "choice_pool": [
+    "All states had to approve amendments.",
+    "The one-house legislature was based on population.",
+    "The central government held too much power.",
+    "States coined their own money.",
+    "Slavery was banned in the Northwest Territory."
+  ],
+  "response_template": "Weaknesses of the Articles of Confederation\n[blank_1]\n\n[blank_2]",
+  "visual_elements": [
+    "Weaknesses of the Articles of Confederation table with two blank spaces"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

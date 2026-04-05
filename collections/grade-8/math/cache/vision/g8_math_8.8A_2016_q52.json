@@ -1,0 +1,28 @@
+{
+  "stem": "Veronica is ordering trophies for her school. Company P charges $3.50 for each trophy and a one-time engraving fee of $25. Company R charges $7.50 for each trophy and a one-time engraving fee of $17. Which inequality can be used to find x, the minimum number of trophies that can be ordered so that the total charge at Company P is less than the total charge at Company R?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3.5 + 25x < 7.5 + 17x"
+    },
+    {
+      "label": "G",
+      "text": "3.5 + 25x > 7.5 + 17x"
+    },
+    {
+      "label": "H",
+      "text": "3.5x + 25 < 7.5x + 17"
+    },
+    {
+      "label": "J",
+      "text": "3.5x + 25 > 7.5x + 17"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

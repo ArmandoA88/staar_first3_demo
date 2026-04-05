@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following best replaces the question mark in the diagram above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Created a general council to manage the colonies"
+    },
+    {
+      "label": "B",
+      "text": "Experienced strict control by Parliament"
+    },
+    {
+      "label": "C",
+      "text": "Established their own representative institutions"
+    },
+    {
+      "label": "D",
+      "text": "Appointed governors who reported to the king"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with three boxes pointing to an oval labeled 'American colonists ?'. The boxes are: 'Distance from Great Britain', 'Need for lawmaking structure', 'Traditional rights of Englishmen'."
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

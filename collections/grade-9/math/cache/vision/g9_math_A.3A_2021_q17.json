@@ -1,0 +1,30 @@
+{
+  "stem": "The table of values shows a linear relationship between x and y.\n\nWhat is the slope of the line represented by the table of values?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-\\frac{8}{5}"
+    },
+    {
+      "label": "B",
+      "text": "-\\frac{5}{8}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{8}{5}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{5}{8}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: x, y\n-7, 9\n-2, 1\n3, -7\n8, -15"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

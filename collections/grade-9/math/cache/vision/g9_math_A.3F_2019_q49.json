@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents this system of equations and its solution?\n\n8x - 4y = -16\n3x + 15y = -6",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(graph with lines shown in top-left quadrant with intersections around (2,3))"
+    },
+    {
+      "label": "B",
+      "text": "(graph with lines shown in bottom-left quadrant with intersections around (-2,1))"
+    },
+    {
+      "label": "C",
+      "text": "(graph with lines shown in top-right quadrant with intersections around (1,-2))"
+    },
+    {
+      "label": "D",
+      "text": "(graph with lines shown in bottom-right quadrant with intersections around (-1,-2))"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graphs showing four different pairs of intersecting lines labeled A, B, C, D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

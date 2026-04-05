@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement describes an effect of this executive order?",
+  "instruction": "This excerpt is about a presidential order issued during the 1960s.",
+  "options": [
+    {
+      "label": "A",
+      "text": "More economic possibilities were created for women and minorities."
+    },
+    {
+      "label": "B",
+      "text": "Fewer revenues were generated from fines for policy violations."
+    },
+    {
+      "label": "C",
+      "text": "More private businesses were able to contribute money to political campaigns."
+    },
+    {
+      "label": "D",
+      "text": "Fewer resources were assigned to fighting harassment and discrimination."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Executive Order prohibits federal contractors . . . from discriminating in employment decisions on the basis of race, color, religion, sex, sexual orientation, gender identity or national origin. The Executive Order also requires Government contractors to take affirmative action to ensure that equal opportunity is provided in all aspects of their employment.\n\n\u2014\u201cExecutive Order 11246\u2014Equal Employment Opportunity,\u201d U.S. Department of Labor"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

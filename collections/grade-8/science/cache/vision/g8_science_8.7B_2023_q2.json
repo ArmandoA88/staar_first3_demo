@@ -1,0 +1,34 @@
+{
+  "stem": "A plastic tube is arranged on a lab tabletop as shown. A small sphere enters one end of the tube with enough speed to come out the other end of the tube.\n\nWhich diagram shows where the sphere will go first when it leaves the tube?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Image of tube with a dot near the inside curve near the tube end) "
+    },
+    {
+      "label": "B",
+      "text": "(Image of tube with a dot near the inside curve near the start of the tube) "
+    },
+    {
+      "label": "C",
+      "text": "(Image of tube with a dot near the outside curve near the start of the tube) "
+    },
+    {
+      "label": "D",
+      "text": "(Image of tube with a dot near the outside curve near the middle of the tube) "
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Overhead View of Tabletop with plastic tube spiral and sphere entering",
+    "Diagram A with sphere near inside curve near tube end",
+    "Diagram B with sphere near inside curve near start",
+    "Diagram C with sphere near outside curve near start",
+    "Diagram D with sphere near outside curve near middle"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": "Images described for answer choices; original images contain circle representations with dots indicating sphere position after exit."
+}

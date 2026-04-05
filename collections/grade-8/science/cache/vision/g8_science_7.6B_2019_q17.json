@@ -1,0 +1,30 @@
+{
+  "stem": "A compound secreted by honeybees to paralyze intruders in their hive is known as 2-heptanone. The formula for this compound is shown.\n\nCH\u2083 C\u2084H\u2088 COCH\u2083\n\nHow many atoms of each element are in one molecule of 2-heptanone?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4 carbon atoms, 11 hydrogen atoms, and 1 oxygen atom"
+    },
+    {
+      "label": "B",
+      "text": "7 carbon atoms, 14 hydrogen atoms, and 1 oxygen atom"
+    },
+    {
+      "label": "C",
+      "text": "7 carbon atoms, 11 hydrogen atoms, and 8 oxygen atoms"
+    },
+    {
+      "label": "D",
+      "text": "6 carbon atoms, 14 hydrogen atoms, and 3 oxygen atoms"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "CH\u2083 C\u2084H\u2088 COCH\u2083"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following best replaces the question mark in the diagram above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Former Mexican territory"
+    },
+    {
+      "label": "B",
+      "text": "Dependent on slavery"
+    },
+    {
+      "label": "C",
+      "text": "Settled by Mormons"
+    },
+    {
+      "label": "D",
+      "text": "Large coal deposits"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with two overlapping circles labeled Texas and California. Texas circle contains: Texas Revolution, Cotton cultivation, U.S. statehood, 1845. California circle contains: Bear Flag Revolt, Gold mining, U.S. statehood, 1850. Overlapping area has a question mark."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

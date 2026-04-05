@@ -1,0 +1,34 @@
+{
+  "stem": "Which statement describes a factor that MOST contributed to the population difference shown in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The South had a society that relied on wage labor."
+    },
+    {
+      "label": "B",
+      "text": "The South had an economy that relied on cotton."
+    },
+    {
+      "label": "C",
+      "text": "The South had a variety of natural resources."
+    },
+    {
+      "label": "D",
+      "text": "The South had an abundance of large cities."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "U.S. Enslaved Population by Select Region, 1840",
+    "Region | Enslaved Population",
+    "Northeast | 765",
+    "South | 2,427,986",
+    "Source: U.S. Census Bureau"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

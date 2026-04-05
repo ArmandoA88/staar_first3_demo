@@ -1,0 +1,30 @@
+{
+  "stem": "The graph models the linear relationship between the temperature of Earth's atmosphere and the altitude above sea level.\n\nWhich of these best represents the rate of change of the temperature with respect to altitude?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-6.5\u00b0C/km"
+    },
+    {
+      "label": "G",
+      "text": "-3.5\u00b0C/km"
+    },
+    {
+      "label": "H",
+      "text": "-0.29\u00b0C/km"
+    },
+    {
+      "label": "J",
+      "text": "-0.15\u00b0C/km"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing linear decrease in temperature from about 10\u00b0C at 1 km to about -50\u00b0C at 9 km altitude with axes labeled 'Temperature (\u00b0C)' and 'Altitude (km)'."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

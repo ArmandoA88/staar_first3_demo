@@ -1,0 +1,30 @@
+{
+  "stem": "Which measurement is closest to the lateral surface area in square centimeters of the cylinder?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "164.9 cm\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "277.0 cm\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "138.5 cm\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "191.3 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a cylinder with a diameter of 5.8 cm and a height of 7.6 cm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

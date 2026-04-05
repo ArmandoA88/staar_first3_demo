@@ -1,0 +1,30 @@
+{
+  "stem": "A contractor's total earnings from a job include a fixed amount plus an amount based on the number of hours worked. The values in the table represent the linear relationship between the number of hours worked and the contractor's total earnings in dollars.\n\nContractor\n\n| Number of Hours Worked | Total Earnings |\n|------------------------|----------------|\n| 0                      | $20.00         |\n| 5                      | $63.75         |\n| 15                     | $151.25        |\n| 25                     | $238.75        |\n| 35                     | $326.25        |\n| 40                     | $370.00        |\n\nWhat is the rate of change of the contractor's total earnings in dollars with respect to the number of hours worked?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$8.75 per hour worked"
+    },
+    {
+      "label": "G",
+      "text": "$9.25 per hour worked"
+    },
+    {
+      "label": "H",
+      "text": "$10.00 per hour worked"
+    },
+    {
+      "label": "J",
+      "text": "$20.00 per hour worked"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with hours worked and total earnings"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

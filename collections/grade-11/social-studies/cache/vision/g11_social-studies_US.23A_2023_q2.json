@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the time line and your knowledge of U.S. history, why did John Lewis receive the Presidential Medal of Freedom?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He used activism and government legislation to support conservative causes."
+    },
+    {
+      "label": "B",
+      "text": "He used court cases and lobbyist activities to extend social segregation."
+    },
+    {
+      "label": "C",
+      "text": "He used citizen petitions and armed protests to increase suffrage rights."
+    },
+    {
+      "label": "D",
+      "text": "He used peaceful protest and political action to expand civil rights."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Select Events in the Life of John Lewis\n1961 Participates in the Freedom Rides movement\n1963 Represents the Student Nonviolent Coordinating Committee at the March on Washington\n1965 Leads a voting rights march from Selma to Montgomery, Alabama\n1987-2020 Member of the U.S. House of Representatives\n2011 Presented with the Presidential Medal of Freedom by President Obama"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

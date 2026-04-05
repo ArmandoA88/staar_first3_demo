@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows Earth in four positions in its orbit around the sun.\n\nIn which position is it summer in the Southern Hemisphere?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Position 1"
+    },
+    {
+      "label": "B",
+      "text": "Position 2"
+    },
+    {
+      "label": "C",
+      "text": "Position 3"
+    },
+    {
+      "label": "D",
+      "text": "Position 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with the Sun in the center and Earth shown in four positions labeled 1 through 4 with arrows indicating orbit direction. Positions 2 and 4 show Earth half shaded with opposite halves shaded. Position 3 shows Earth fully shaded."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

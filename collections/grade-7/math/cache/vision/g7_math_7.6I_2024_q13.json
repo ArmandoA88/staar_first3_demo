@@ -1,0 +1,31 @@
+{
+  "stem": "Spinner X is divided into 4 equal sections, and Spinner Y is divided into 3 equal sections. The possible outcomes for each spinner are shown in the tree diagrams.\n\nSpinner X\n1   2   3   4\n\nSpinner Y\nRed   Green   Blue\n\nBoth spinners are spun at the same time. What is the probability that Spinner X will land on 2 and Spinner Y will land on blue?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{7}{12}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{1}{12}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{2}{7}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{1}{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Spinner X tree diagram with branches to 1, 2, 3, 4",
+    "Spinner Y tree diagram with branches to Red, Green, Blue"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

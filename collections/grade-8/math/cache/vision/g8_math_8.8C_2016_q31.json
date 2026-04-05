@@ -1,0 +1,15 @@
+{
+  "stem": "The model represents an equation. What value of x makes the equation true?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "left side: 3 gray triangles labeled '-x' and 10 white circles labeled '1' arranged in two rows (5 in each row)",
+    "right side: 5 white triangles labeled 'x' and 10 gray circles labeled '-1' arranged in two rows (5 in top row, 5 in bottom row)",
+    "equal sign between the two boxed groups"
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 0.99,
+  "notes": null
+}

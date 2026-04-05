@@ -1,0 +1,30 @@
+{
+  "stem": "This confrontation centered around \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "disagreement over the use of taxes to fund public education"
+    },
+    {
+      "label": "B",
+      "text": "the refusal of federal courts to hear cases concerning civil rights violations"
+    },
+    {
+      "label": "C",
+      "text": "the denial of First and Fifth Amendment freedoms by southern state legislatures"
+    },
+    {
+      "label": "D",
+      "text": "resistance by state and local governments to the Brown v. Board of Education ruling"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "An angry mob of over 1,000 whites gathers in front of Central High School, while nine African American students are escorted inside. The Little Rock police remove the nine children for their safety.\n\n\u2014Little Rock Central High School National Historic Site, National Park Service, www.nps.gov (accessed December 2, 2013)"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Cassie wants to buy a pair of shoes for $26.50 and a shirt for $9.50. If the sales tax rate is 8.25%, what will be the amount of sales tax on Cassie's purchase?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$2.89"
+    },
+    {
+      "label": "B",
+      "text": "$2.97"
+    },
+    {
+      "label": "C",
+      "text": "$3.06"
+    },
+    {
+      "label": "D",
+      "text": "$3.13"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

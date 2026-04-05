@@ -1,0 +1,40 @@
+{
+  "stem": "According to the diagram, which four body systems are interacting to maintain blood calcium homeostasis?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Respiratory, digestive, muscular, skeletal"
+    },
+    {
+      "label": "B",
+      "text": "Respiratory, immune, reproductive, endocrine"
+    },
+    {
+      "label": "C",
+      "text": "Endocrine, excretory, integumentary, muscular"
+    },
+    {
+      "label": "D",
+      "text": "Endocrine, digestive, excretory, skeletal"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The feedback loop for blood calcium homeostasis is shown.",
+    "The thyroid gland responds.",
+    "The kidneys slow calcium absorption.",
+    "The bones take up calcium.",
+    "Blood calcium homeostasis.",
+    "The blood calcium level rises.",
+    "The blood calcium level decreases.",
+    "The parathyroid glands respond.",
+    "The kidneys absorb calcium.",
+    "The intestines take up calcium.",
+    "The bones release calcium."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

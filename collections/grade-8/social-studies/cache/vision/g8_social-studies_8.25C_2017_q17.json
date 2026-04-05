@@ -1,0 +1,33 @@
+{
+  "stem": "Which amendment prohibits federal and state governments from carrying out these actions?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The First Amendment"
+    },
+    {
+      "label": "B",
+      "text": "The Second Amendment"
+    },
+    {
+      "label": "C",
+      "text": "The Fifth Amendment"
+    },
+    {
+      "label": "D",
+      "text": "The Tenth Amendment"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Passing laws to aid a religious institution",
+    "Requiring individuals to attend religious services",
+    "Punishing individuals for their religious beliefs",
+    "Levying taxes to support religious institutions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

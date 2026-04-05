@@ -1,0 +1,30 @@
+{
+  "stem": "The net of a rectangular prism and its dimensions in centimeters are shown.\n\nWhat is the total surface area of the rectangular prism in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "208 cm\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "192 cm\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "144 cm\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "160 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A net of a rectangular prism with faces labeled with these dimensions: three faces of 8 cm by 6 cm, two faces of 6 cm by 4 cm, and one face of 8 cm by 4 cm."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

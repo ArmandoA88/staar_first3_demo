@@ -1,0 +1,30 @@
+{
+  "stem": "Which value represents the rate of change of y with respect to x for this function?\n\nx + 7y = -14",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-7"
+    },
+    {
+      "label": "B",
+      "text": "7"
+    },
+    {
+      "label": "C",
+      "text": "-\\frac{1}{7}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{1}{7}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "x + 7y = -14"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "An aquarium is being filled with water. The graph shows the height of the water over time as the aquarium is being filled.",
+  "instruction": "Which statement best describes the rate of change for this situation?",
+  "options": [
+    {
+      "label": "A",
+      "text": "The height of the water increases 20 inches per second."
+    },
+    {
+      "label": "B",
+      "text": "The height of the water increases 1 inch per second."
+    },
+    {
+      "label": "C",
+      "text": "The height of the water increases 5 inches per second."
+    },
+    {
+      "label": "D",
+      "text": "The height of the water increases 2.5 inches per second."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled Aquarium with x-axis labeled Time (seconds) from 0 to 9 and y-axis labeled Height (inches) from 0 to 25, showing a straight line from (0,0) to (9,22.5)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Which expression is equivalent to \\( \\frac{16k^{9}m^{7}}{4k^{3}m^{14}} \\) for all values of \\( k \\) and \\( m \\) where the expression is defined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{12k^{6}}{m^{7}} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{4k^{6}}{m^{7}} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{12k^{3}}{m^{2}} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{4k^{3}}{m^{2}} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction",
+    "exponents",
+    "variables",
+    "letters"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

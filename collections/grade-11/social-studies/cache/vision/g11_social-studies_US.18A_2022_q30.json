@@ -1,0 +1,38 @@
+{
+  "stem": "How did the new program described in the poster affect the role of the federal government?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It provided the federal government with a role in administering a retirement fund for workers."
+    },
+    {
+      "label": "G",
+      "text": "It limited the federal government\u2019s power to enforce minimum wage requirements."
+    },
+    {
+      "label": "H",
+      "text": "It provided the federal government with a role in managing workers\u2019 bank accounts."
+    },
+    {
+      "label": "J",
+      "text": "It limited the federal government\u2019s power to assist workers in manufacturing plants."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A monthly check to you\u2014",
+    "FOR THE REST OF YOUR LIFE \u2022\u2022 BEGINNING WHEN YOU ARE 65",
+    "GET YOUR SOCIAL SECURITY ACCOUNT NUMBER promptly",
+    "APPLICATIONS ARE BEING DISTRIBUTED AT ALL WORK PLACES",
+    "Your monthly Social Security check",
+    "WHO IS ELIGIBLE \u2022 EVERYBODY WORKING FOR SHARE OF SOCIAL SECURITY PAY CONTRIBUTIONS, SUCH AS AGRICULTURE, DOMESTIC SERVICE AND GOVERNMENT WORK. APPLICATIONS FOR SOCIAL SECURITY ACCOUNTS ARE AVAILABLE THROUGH EMPLOYERS. IF YOU DO NOT GET ONE FROM YOUR EMPLOYER, ASK FOR ONE AT THE POST OFFICE.",
+    "HOW TO RETURN APPLICATION 1. DROP IT INTO YOUR LOCAL POST OFFICE MAIL DROP. 2. MAIL IT ON ANY MAIL SCHEDULE. 3. DO NOT PAY FOR ANY MAILING POSTAGE. 4. HAND IT TO YOUR RURAL CARRIER, OR 5. DELIVER IT PERSONALLY TO THE POST OFFICE OR SOCIAL SECURITY BOARD OFFICE WHERE YOU WORK OR LIVE.",
+    "Social Security Board",
+    "INFORMATION MAY BE OBTAINED AT ANY POST OFFICE"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

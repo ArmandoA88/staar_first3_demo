@@ -1,0 +1,43 @@
+{
+  "stem": "Carson practices each day to prepare for an upcoming race. He starts the day by running 2 miles and then walking at a rate of 4 miles per hour.\n\nWhich representations show the relationship between the total number of miles he covers in a day, y, and the number of hours he walks, x?\n\nSelect THREE correct answers.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Carson\u2019s Practice\nNumber of Hours Walked, x | Total Number of Miles, y\n1 | 6\n1.5 | 8\n2 | 10\n2.5 | 12"
+    },
+    {
+      "label": null,
+      "text": "Carson\u2019s Practice\nNumber of Hours Walked, x | Total Number of Miles, y\n1 | 6\n1.5 | 7\n2 | 8\n2.5 | 9"
+    },
+    {
+      "label": null,
+      "text": "y = 2x + 4"
+    },
+    {
+      "label": null,
+      "text": "y = 4x + 2"
+    },
+    {
+      "label": null,
+      "text": "Carson\u2019s Practice (graph with line passing through points (1,6) and (2,10))"
+    },
+    {
+      "label": null,
+      "text": "Carson\u2019s Practice (graph with line passing through points (1,4) and (3,10))"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with values 1 to 2.5 for hours walked and 6 to 12 for total miles",
+    "table with values 1 to 2.5 for hours walked and 6 to 9 for total miles",
+    "equation y = 2x + 4",
+    "equation y = 4x + 2",
+    "graph with y axis labeled total number of miles from 0 to 9, x axis labeled number of hours walked from 1 to 3, line through (1,6) and (2,10)",
+    "graph with y axis labeled total number of miles from 0 to 9, x axis labeled number of hours walked from 1 to 3, line through (1,4) and (3,10)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

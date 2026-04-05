@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the information in the table, what is Emily's net worth?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$107,550"
+    },
+    {
+      "label": "G",
+      "text": "$87,025"
+    },
+    {
+      "label": "H",
+      "text": "$20,525"
+    },
+    {
+      "label": "J",
+      "text": "$128,075"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Net Worth Statement table with Assets and Liabilities values"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

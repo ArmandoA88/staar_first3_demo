@@ -1,0 +1,30 @@
+{
+  "stem": "Four students are each trying to raise the same amount of money for a class trip. The table below shows how much of each student\u2019s goal has been met.\n\nFund-Raiser Progress\n\n| Student | Part of Goal Met |\n|---------|------------------|\n| Chelsea | 0.7              |\n| Devon   | 2/3              |\n| Huang   | 5/8              |\n| Marcela | 65%              |\n\nWhich list shows the numbers in the table in order from least to greatest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.7, 65%, 5/8, 2/3"
+    },
+    {
+      "label": "B",
+      "text": "0.7, 5/8, 65%, 2/3"
+    },
+    {
+      "label": "C",
+      "text": "5/8, 65%, 2/3, 0.7"
+    },
+    {
+      "label": "D",
+      "text": "5/8, 2/3, 65%, 0.7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

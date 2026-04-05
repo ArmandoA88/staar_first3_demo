@@ -1,0 +1,32 @@
+{
+  "stem": "Which technological advancement was developed in installations near these cities during World War II?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Long-range submarines"
+    },
+    {
+      "label": "G",
+      "text": "Radio navigation"
+    },
+    {
+      "label": "H",
+      "text": "Atomic bombs"
+    },
+    {
+      "label": "J",
+      "text": "Jet engines"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Hanford, Washington",
+    "Oak Ridge, Tennessee",
+    "Los Alamos, New Mexico"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

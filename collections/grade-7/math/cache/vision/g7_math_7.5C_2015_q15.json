@@ -1,0 +1,32 @@
+{
+  "stem": "In the scale used on a blueprint, \\( \\frac{1}{4} \\) inch represents 2 feet. On the blueprint what is the length of a room with an actual length of 20 feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10 in."
+    },
+    {
+      "label": "B",
+      "text": "5 in."
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{2} \\) in."
+    },
+    {
+      "label": "D",
+      "text": "2\\( \\frac{1}{2} \\) in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{1}{4} \\)",
+    "\\( \\frac{1}{2} \\)",
+    "2\\( \\frac{1}{2} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

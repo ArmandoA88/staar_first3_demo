@@ -1,0 +1,30 @@
+{
+  "stem": "Which number line best represents the solution to the inequality 3.3w - 9 > -22.2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Number line with open circle at -9 and arrow pointing right starting just after -9"
+    },
+    {
+      "label": "G",
+      "text": "Number line with open circle at -4 and arrow pointing right starting just after -4"
+    },
+    {
+      "label": "H",
+      "text": "Number line with open circle at -8 and arrow pointing right starting just after -8"
+    },
+    {
+      "label": "J",
+      "text": "Number line with open circle at -4 and arrow pointing left starting just before -4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "four number lines labeled F, G, H, J with ticks from -10 to 10, each with an open circle and arrow in different positions and directions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

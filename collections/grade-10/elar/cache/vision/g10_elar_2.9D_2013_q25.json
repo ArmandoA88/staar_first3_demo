@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Several to Severel"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after Civitavecchia"
+    },
+    {
+      "label": "C",
+      "text": "Change teach to teaches"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

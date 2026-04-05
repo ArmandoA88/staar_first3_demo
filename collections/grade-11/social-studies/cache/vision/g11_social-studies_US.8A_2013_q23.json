@@ -1,0 +1,30 @@
+{
+  "stem": "This is a cross-sectional diagram of a major operation ordered by President Harry S. Truman in 1948. The flight pattern illustrated in the diagram was designed to allow an airplane to land every three minutes. Why was this operation undertaken?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To enable a rapid withdrawal of troops from a war-torn city"
+    },
+    {
+      "label": "B",
+      "text": "To deploy substantial invasion forces"
+    },
+    {
+      "label": "C",
+      "text": "To provide supplies to a blockaded city"
+    },
+    {
+      "label": "D",
+      "text": "To rescue thousands of stranded political refugees"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cross-sectional diagram showing airplanes spaced 500 feet apart vertically, 3 minutes apart horizontally, with 15 minutes total duration and 5000 feet distance between Rhein-Main and Berlin."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Based on historical context, the operation is the Berlin Airlift to provide supplies to a blockaded city."
+}

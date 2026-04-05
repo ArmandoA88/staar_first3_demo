@@ -1,0 +1,35 @@
+{
+  "stem": "Triangle UVW and triangle PQR are transformed on a coordinate plane. Complete each rule with the coordinates of the image of the transformation.",
+  "instruction": "Move the correct answer into each box in the table. Each answer may be used more than once. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "(-x, -y)"
+    },
+    {
+      "label": null,
+      "text": "(y, -x)"
+    },
+    {
+      "label": null,
+      "text": "(-x, y)"
+    },
+    {
+      "label": null,
+      "text": "(x, -y)"
+    }
+  ],
+  "choice_pool": [
+    "(-x, -y)",
+    "(y, -x)",
+    "(-x, y)",
+    "(x, -y)"
+  ],
+  "response_template": "Triangle UVW reflected across the y-axis\n(x, y) \u2192 [blank_1]\n\nTriangle PQR rotated 90\u00b0 clockwise about the origin\n(x, y) \u2192 [blank_2]",
+  "visual_elements": [
+    "table showing Transformation and Rule with two rows for transformations and blank lines for rules"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

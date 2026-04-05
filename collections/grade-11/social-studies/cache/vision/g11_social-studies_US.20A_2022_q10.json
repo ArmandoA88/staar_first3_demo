@@ -1,0 +1,30 @@
+{
+  "stem": "Which previous Supreme Court decision had protected the practice described in this excerpt?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Sweatt v. Painter"
+    },
+    {
+      "label": "G",
+      "text": "Hernandez v. Texas"
+    },
+    {
+      "label": "H",
+      "text": "Plessy v. Ferguson"
+    },
+    {
+      "label": "J",
+      "text": "Wisconsin v. Yoder"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "We conclude that, in the field of public education, the doctrine of \u201cseparate but equal\u201d has no place. Separate educational facilities are inherently unequal. Therefore, we hold that the plaintiffs . . . are . . . deprived of the equal protection of the laws guaranteed by the Fourteenth Amendment. \u2014Chief Justice Earl Warren, Brown v. Board of Education, May 17, 1954"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Kenny spends the same amount of money from his bank account each week. The equation shown can be used to represent y, the amount of money in Kenny's bank account, and x, the number of weeks that Kenny has been spending money.\n\ny = -35x + 500\n\nWhich statement best describes Kenny's bank account?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "From a beginning balance of $500, Kenny's account decreases by $35 per week."
+    },
+    {
+      "label": "B",
+      "text": "From a beginning balance of $500, Kenny's account increases by $35 per week."
+    },
+    {
+      "label": "C",
+      "text": "From a beginning balance of $35, Kenny's account decreases by $500 per week."
+    },
+    {
+      "label": "D",
+      "text": "From a beginning balance of $35, Kenny's account increases by $500 per week."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = -35x + 500"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

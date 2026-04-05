@@ -1,0 +1,28 @@
+{
+  "stem": "A circle is graphed on a coordinate grid with its center at (-4, 7). The circle will be translated p units to the right and v units down.\n\nWhich rule describes the center of the new circle after this translation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(x, y) \\rightarrow (-4 + p, 7 + v)"
+    },
+    {
+      "label": "G",
+      "text": "(x, y) \\rightarrow (-4 + p, 7 - v)"
+    },
+    {
+      "label": "H",
+      "text": "(x, y) \\rightarrow (-4 - p, 7 - v)"
+    },
+    {
+      "label": "J",
+      "text": "(x, y) \\rightarrow (-4 - p, 7 + v)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

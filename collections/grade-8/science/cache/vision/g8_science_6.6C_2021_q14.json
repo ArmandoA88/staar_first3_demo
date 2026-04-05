@@ -1,0 +1,30 @@
+{
+  "stem": "Which statements correctly compare metals and nonmetals?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Metals tend to be good conductors of thermal energy.\nNonmetals tend to be good insulators of thermal energy."
+    },
+    {
+      "label": "G",
+      "text": "Metals are dull and brittle.\nNonmetals are shiny and malleable."
+    },
+    {
+      "label": "H",
+      "text": "Metals are good insulators of electricity.\nNonmetals tend to be good conductors of electricity."
+    },
+    {
+      "label": "J",
+      "text": "Metals cannot be stretched into thin wires.\nNonmetals can be stretched into thin wires."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

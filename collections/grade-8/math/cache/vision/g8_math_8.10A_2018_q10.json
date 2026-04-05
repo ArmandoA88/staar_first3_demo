@@ -1,0 +1,30 @@
+{
+  "stem": "Trapezoid \\(PQRS\\) is rotated 180\u00b0 about the origin to form trapezoid \\(P'Q'R'S'\\). Which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The sum of the angle measures of trapezoid \\(PQRS\\) is 180\u00b0 less than the sum of the angle measures of trapezoid \\(P'Q'R'S'\\)."
+    },
+    {
+      "label": "G",
+      "text": "Trapezoid \\(PQRS\\) is not congruent to trapezoid \\(P'Q'R'S'\\)."
+    },
+    {
+      "label": "H",
+      "text": "The area of trapezoid \\(PQRS\\) is less than the area of trapezoid \\(P'Q'R'S'\\)."
+    },
+    {
+      "label": "J",
+      "text": "The angle measures of trapezoid \\(PQRS\\) are equal to the corresponding angle measures of trapezoid \\(P'Q'R'S'\\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with trapezoid PQRS placed with points P(-5,4), Q(3,4), R(4,-2), S(-7,-2)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "The function y = 3.75 + 1.5(x - 1) can be used to determine the cost in dollars for a taxi ride of x miles. What is the rate of change of the cost in dollars with respect to the number of miles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$1.50 per mile"
+    },
+    {
+      "label": "G",
+      "text": "$3.75 per mile"
+    },
+    {
+      "label": "H",
+      "text": "$4.25 per mile"
+    },
+    {
+      "label": "J",
+      "text": "$5.25 per mile"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

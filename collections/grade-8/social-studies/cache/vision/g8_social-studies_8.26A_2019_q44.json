@@ -1,0 +1,30 @@
+{
+  "stem": "Where would a history student most likely find this image?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "In a biography of early Spanish explorers"
+    },
+    {
+      "label": "G",
+      "text": "In a museum exhibit about the Civil War"
+    },
+    {
+      "label": "H",
+      "text": "In an academic presentation about Manifest Destiny"
+    },
+    {
+      "label": "J",
+      "text": "In a textbook about European immigration"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "American Progress painting showing westward expansion"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

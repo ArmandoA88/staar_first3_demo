@@ -1,0 +1,30 @@
+{
+  "stem": "Which economic principle is President Jefferson showing support for in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Protective tariffs"
+    },
+    {
+      "label": "B",
+      "text": "Limited competition"
+    },
+    {
+      "label": "C",
+      "text": "Minimal government regulation"
+    },
+    {
+      "label": "D",
+      "text": "Taxes to fund internal improvements"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Agriculture, manufactures, commerce, and navigation, the four pillars of our prosperity, are the most thriving when left most free to individual enterprise. \u2014President Thomas Jefferson, first annual message, December 8, 1801"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

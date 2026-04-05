@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to x^2 - 17x - 60?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(x - 20)(x + 3)"
+    },
+    {
+      "label": "B",
+      "text": "(x - 5)(x - 12)"
+    },
+    {
+      "label": "C",
+      "text": "(x - 20)(x - 3)"
+    },
+    {
+      "label": "D",
+      "text": "(x + 5)(x - 12)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Equation: x^2 - 17x - 60"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

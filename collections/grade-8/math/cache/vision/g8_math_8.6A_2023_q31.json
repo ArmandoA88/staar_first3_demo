@@ -1,0 +1,28 @@
+{
+  "stem": "The volume of a cylinder is 87.35 cubic inches, and the radius is 5.17 inches. Which equation can be used to find h, the height of the cylinder in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "h = \\frac{87.35}{(5.17)^2}"
+    },
+    {
+      "label": "B",
+      "text": "h = \\frac{(5.17)^2}{87.35}"
+    },
+    {
+      "label": "C",
+      "text": "h = \\frac{\\pi (5.17)^2}{87.35}"
+    },
+    {
+      "label": "D",
+      "text": "h = \\frac{87.35}{\\pi (5.17)^2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

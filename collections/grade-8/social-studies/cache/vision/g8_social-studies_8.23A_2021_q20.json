@@ -1,0 +1,30 @@
+{
+  "stem": "Which reason BEST explains why many Swedish people settled in the American Midwest?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "They wanted to work in steel mills."
+    },
+    {
+      "label": "G",
+      "text": "They wanted to participate in the abolitionist movement."
+    },
+    {
+      "label": "H",
+      "text": "They wanted to settle in large cities."
+    },
+    {
+      "label": "J",
+      "text": "They wanted to find fertile farmland."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In accordance with our promise on our departure from Sweden we are sending you a few lines to tell you how and where we are situated at present. . . . We decided to settle in Iowa. . . . It has an abundance of water power, contains metals, marble, and several other natural resources, and only a very small part of this extensive territory is settled. . . . If only half of the work expended on the soil in the fatherland were utilized here, the yield would reach the wildest imagination. . . .  \u2014Peter Cassel, letter to his father in Sweden, February 9, 1846"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

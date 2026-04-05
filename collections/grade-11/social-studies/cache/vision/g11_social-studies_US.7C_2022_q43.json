@@ -1,0 +1,30 @@
+{
+  "stem": "Which nationalities correctly replace the three question marks on this notice?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Polish, Romanian, Russian"
+    },
+    {
+      "label": "B",
+      "text": "Mexican, Spanish, Portuguese"
+    },
+    {
+      "label": "C",
+      "text": "Irish, Israeli, Turkish"
+    },
+    {
+      "label": "D",
+      "text": "German, Italian, Japanese"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "UNITED STATES DEPARTMENT OF JUSTICE NOTICE TO ALIENS OF ENEMY NATIONALITIES * The United States Government requires all aliens of ?, ?, or ? nationality to apply at post offices nearest to their place of residence for a Certificate of Identification. Applications must be filed between the period February 9 through February 28, 1942. Go to your postmaster today for printed directions."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

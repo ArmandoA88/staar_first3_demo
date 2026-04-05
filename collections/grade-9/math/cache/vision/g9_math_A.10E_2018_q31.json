@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is a factor of 21x^2 + 13x - 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3x - 4"
+    },
+    {
+      "label": "B",
+      "text": "7x - 5"
+    },
+    {
+      "label": "C",
+      "text": "7x + 4"
+    },
+    {
+      "label": "D",
+      "text": "3x + 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "21x^2 + 13x - 20"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

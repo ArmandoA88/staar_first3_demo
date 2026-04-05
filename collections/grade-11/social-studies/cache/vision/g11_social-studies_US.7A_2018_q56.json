@@ -1,0 +1,32 @@
+{
+  "stem": "Which action replaces the question mark on this cause-and-effect diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "implements an embargo against Japan"
+    },
+    {
+      "label": "G",
+      "text": "sends ground troops to fight the Chinese"
+    },
+    {
+      "label": "H",
+      "text": "bans the sale of weapons to China"
+    },
+    {
+      "label": "J",
+      "text": "appeases Japanese demands for new territory"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Japan threatens to invade Southeast Asia.",
+    "The United States ?",
+    "Japan attacks Pearl Harbor."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

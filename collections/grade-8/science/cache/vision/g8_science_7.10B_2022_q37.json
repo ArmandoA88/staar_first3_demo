@@ -1,0 +1,30 @@
+{
+  "stem": "Two oceanic plates are shown in the image.\n\nWhich type of boundary results in the spreading of the oceanic ridge?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Convergent boundary"
+    },
+    {
+      "label": "B",
+      "text": "Subduction boundary"
+    },
+    {
+      "label": "C",
+      "text": "Transform boundary"
+    },
+    {
+      "label": "D",
+      "text": "Divergent boundary"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing two oceanic plates with arrows pointing away from each other and labels: Oceanic ridge, Lithosphere, Asthenosphere."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

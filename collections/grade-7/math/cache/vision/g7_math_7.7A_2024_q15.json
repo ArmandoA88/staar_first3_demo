@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents a line where each value of y is 3 more than \\( \\frac{1}{2} \\) the value of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[Graph with a line slanting upward crossing y-axis near 0]"
+    },
+    {
+      "label": "B",
+      "text": "[Graph with a steep upward slanting line crossing y-axis near 0]"
+    },
+    {
+      "label": "C",
+      "text": "[Graph with a line slanting upward crossing y-axis near 3]"
+    },
+    {
+      "label": "D",
+      "text": "[Graph with a line slanting downward crossing y-axis near 3]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A shows a line slanting upward crossing y near 0",
+    "Graph B shows a very steep upward line crossing y near 0",
+    "Graph C shows a line slanting upward crossing y near 3",
+    "Graph D shows a line slanting downward crossing y near 3"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Option text simplified as descriptions because image graphs cannot be conveyed exactly in text; the question is multiple choice with labeled options A-D."
+}

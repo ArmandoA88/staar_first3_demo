@@ -1,0 +1,30 @@
+{
+  "stem": "An athlete ran at a constant speed for 12 seconds. The part of the linear function shown represents the distance the athlete ran in yards, y, as a function of the time in seconds, x.\n\nAthlete's Run",
+  "instruction": "What is the domain of the function for this situation?",
+  "options": [
+    {
+      "label": "A",
+      "text": "0 \u2264 x \u2264 14"
+    },
+    {
+      "label": "B",
+      "text": "0 \u2264 x \u2264 12"
+    },
+    {
+      "label": "C",
+      "text": "0 \u2264 y \u2264 110"
+    },
+    {
+      "label": "D",
+      "text": "0 \u2264 y \u2264 100"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing a line from (0,0) to (11,100) with Distance (yd) on the y-axis and Time (sec) on the x-axis"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

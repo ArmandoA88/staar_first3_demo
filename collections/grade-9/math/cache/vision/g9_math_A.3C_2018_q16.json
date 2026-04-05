@@ -1,0 +1,30 @@
+{
+  "stem": "The water level of a river was measured each day during a two-week period. The graph models the linear relationship between the water level of the river in feet and the number of days the water level was measured.\n\nWhich statement best describes the y-intercept of the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The water level increased by 0.25 ft per day."
+    },
+    {
+      "label": "G",
+      "text": "The maximum water level was 19.5 ft."
+    },
+    {
+      "label": "H",
+      "text": "The initial water level was 16 ft."
+    },
+    {
+      "label": "J",
+      "text": "The water level was measured for 14 days."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Water Level of River' with x-axis labeled 'Number of Days' ranging from 0 to 14 and y-axis labeled 'Water Level (ft)' ranging from 0 to 28. A line starts at (0,16) and ends at (14, 19.5)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

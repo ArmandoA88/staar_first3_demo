@@ -1,0 +1,31 @@
+{
+  "stem": "How did the process shown in this photograph enhance the automobile industry?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By speeding up production of automobiles at lower costs"
+    },
+    {
+      "label": "B",
+      "text": "By requiring only licensed workers to produce the automobiles"
+    },
+    {
+      "label": "C",
+      "text": "By ensuring high-quality automobiles for consumers at higher prices"
+    },
+    {
+      "label": "D",
+      "text": "By developing new designs to test automobile safety standards"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Magneto Assembly Line at Ford Motor Company, 1913",
+    "Black and white photo of assembly line with automobile parts and workers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

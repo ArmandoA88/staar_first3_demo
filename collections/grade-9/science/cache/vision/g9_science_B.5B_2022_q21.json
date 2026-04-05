@@ -1,0 +1,31 @@
+{
+  "stem": "A prokaryotic cell and a eukaryotic cell are shown.\n\nWhich characteristic best distinguishes these cells as either prokaryotic or eukaryotic?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The organization of the genetic material"
+    },
+    {
+      "label": "B",
+      "text": "The location of the cytoplasm"
+    },
+    {
+      "label": "C",
+      "text": "The role of the cell membrane"
+    },
+    {
+      "label": "D",
+      "text": "The function of the flagella"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two labeled cell diagrams: one eukaryotic cell with arrows pointing to Genetic material, Cytoplasm, Cell membrane, and Flagella; one prokaryotic cell with arrows pointing to Genetic material, Cytoplasm, Cell membrane, and Flagella",
+    "Note: The drawings are not to scale."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "The problem is from 2022 STAAR B.5(B) standard, question 21."
+}

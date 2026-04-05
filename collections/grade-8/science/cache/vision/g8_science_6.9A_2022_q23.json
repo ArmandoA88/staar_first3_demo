@@ -1,0 +1,30 @@
+{
+  "stem": "The model shows Earth in four different positions in its orbit around the sun.\n\nWhich statement correctly explains which position of Earth represents summer in the United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Position 1, because the Western Hemisphere is facing the sun"
+    },
+    {
+      "label": "B",
+      "text": "Position 2, because the Northern Hemisphere tilts toward the sun"
+    },
+    {
+      "label": "C",
+      "text": "Position 3, because Earth is at its closest point to the sun in its orbit"
+    },
+    {
+      "label": "D",
+      "text": "Position 4, because Earth is traveling at its fastest rate in its orbit"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram labeled Orbit of Earth Around the Sun showing four Earth positions numbered 1, 2, 3, 4 around a circle with the Sun in the middle, with arrows indicating the orbit direction."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

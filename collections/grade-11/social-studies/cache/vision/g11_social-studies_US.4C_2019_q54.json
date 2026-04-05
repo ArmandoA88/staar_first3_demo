@@ -1,0 +1,30 @@
+{
+  "stem": "Which action was an immediate consequence of the event described in this headline?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Austria-Hungary declared war on Serbia."
+    },
+    {
+      "label": "G",
+      "text": "Great Britain intercepted the Zimmermann telegram."
+    },
+    {
+      "label": "H",
+      "text": "The United States refused to join the League of Nations."
+    },
+    {
+      "label": "J",
+      "text": "The Russian monarchy was overthrown."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Daily News June 28, 1914 Archduke Franz Ferdinand Assassinated in Sarajevo"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement BEST explains the data shown in the graphs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Hares with seasonal changes in fur color have a survival advantage and are more likely to successfully reproduce."
+    },
+    {
+      "label": "B",
+      "text": "Hares change their fur color as a result of mating choice during the spring months."
+    },
+    {
+      "label": "C",
+      "text": "Natural selection allows for mutations to occur during seasonal changes when food is abundant."
+    },
+    {
+      "label": "D",
+      "text": "Hare fur color changes when sexual maturity occurs in the fall months."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four line graphs showing Percentage of White Hares over Time and Snow Coverage over Time with dates and percentages."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 0.98,
+  "notes": null
+}

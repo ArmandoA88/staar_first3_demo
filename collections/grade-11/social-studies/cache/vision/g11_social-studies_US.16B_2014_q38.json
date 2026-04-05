@@ -1,0 +1,34 @@
+{
+  "stem": "Which of the following best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Led to a decrease in U.S. international trade"
+    },
+    {
+      "label": "G",
+      "text": "Helped stabilize the U.S. economy"
+    },
+    {
+      "label": "H",
+      "text": "Strengthened U.S. relationships overseas"
+    },
+    {
+      "label": "J",
+      "text": "Led to a decline in U.S. unemployment"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Smoot-Hawley Tariff",
+    "Purpose",
+    "To protect U.S. agriculture and industry from foreign competition",
+    "Outcome",
+    "?"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

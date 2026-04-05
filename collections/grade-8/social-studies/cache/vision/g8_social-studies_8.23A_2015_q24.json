@@ -1,0 +1,30 @@
+{
+  "stem": "Which quotation from this letter reveals the main reason for the surge in Irish immigration to the United States in the mid-nineteenth century?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\u201cI am exceedingly well pleased at coming to this land of plenty.\u201d"
+    },
+    {
+      "label": "G",
+      "text": "\u201cI would advise all my friends to quit Ireland. . . .\u201d"
+    },
+    {
+      "label": "H",
+      "text": "\u201cWhat you labour for is sweetened by contentment and happiness. . . .\u201d"
+    },
+    {
+      "label": "J",
+      "text": "\u201cThere is no failure in the potato crop. . . .\u201d"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Letter from an Irish immigrant to The Times of London, May 14, 1850"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

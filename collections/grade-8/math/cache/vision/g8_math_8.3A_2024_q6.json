@@ -1,0 +1,30 @@
+{
+  "stem": "Quadrilateral PQRT and quadrilateral KLMN are similar.\n\nWhich proportion must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{x}{9} = \\frac{4.28}{8.91}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{x}{8.91} = \\frac{4.12}{9}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{y}{4.28} = \\frac{9}{3}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{y}{4.12} = \\frac{9}{3}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two quadrilaterals PQRT and KLMN are shown with side lengths and angles marked. PQRT has sides labeled x ft, 4.28 ft, 4.12 ft, and 3 ft. KLMN has sides labeled 9 ft, 8.91 ft, 12.84 ft, and y ft."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

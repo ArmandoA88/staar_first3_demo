@@ -1,0 +1,28 @@
+{
+  "stem": "Which situation is best represented by the following equation?\n\n45w + 123.95 = 753.95",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Erica paid $753.95 for dance classes. She paid a $123.95 registration fee and $45 for each week she was enrolled in the classes. What is w, the number of weeks Erica was enrolled in dance classes?"
+    },
+    {
+      "label": "B",
+      "text": "Erica paid $753.95 for dance classes. She paid a $45 registration fee and $123.95 for each week she was enrolled in the classes. What is w, the number of weeks Erica was enrolled in dance classes?"
+    },
+    {
+      "label": "C",
+      "text": "Erica and her sister paid $753.95 for dance classes. Erica paid $123.95 for each week she was enrolled in the classes, and her sister paid $45 for each week she was enrolled in the classes. What is w, the number of weeks Erica and her sister were enrolled in dance classes?"
+    },
+    {
+      "label": "D",
+      "text": "Erica paid $753.95 for dance classes. She paid $123.95 for each week she was enrolled in the classes after using a coupon that gave her $45 off the price per week. What is w, the number of weeks Erica was enrolled in dance classes?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

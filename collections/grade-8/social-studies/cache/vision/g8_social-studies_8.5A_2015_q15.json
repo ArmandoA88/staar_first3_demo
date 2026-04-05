@@ -1,0 +1,33 @@
+{
+  "stem": "This list provides examples of \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "topics discussed during the Second Constitutional Convention"
+    },
+    {
+      "label": "B",
+      "text": "domestic issues faced by the leaders of the new republic"
+    },
+    {
+      "label": "C",
+      "text": "weaknesses of the government under the Articles of Confederation"
+    },
+    {
+      "label": "D",
+      "text": "issues leading to the ratification of the first constitutional amendments"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Whiskey Rebellion",
+    "The Bank of the United States",
+    "The Alien and Sedition Acts",
+    "Marbury v. Madison"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

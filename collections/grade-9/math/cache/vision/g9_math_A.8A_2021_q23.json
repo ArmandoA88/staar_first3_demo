@@ -1,0 +1,30 @@
+{
+  "stem": "Which value of x is a solution to this equation? 3x^2 - 30x - 72 = 0",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = -12"
+    },
+    {
+      "label": "B",
+      "text": "x = -4"
+    },
+    {
+      "label": "C",
+      "text": "x = -2"
+    },
+    {
+      "label": "D",
+      "text": "x = -6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3x^2 - 30x - 72 = 0"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

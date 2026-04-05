@@ -1,0 +1,30 @@
+{
+  "stem": "Ursula surveyed 50 classmates about their favorite ice cream flavors. Each classmate chose one flavor. The results are shown in the circle graph.\n\nFavorite Ice Cream Flavors\n\nHow many more of Ursula's classmates chose chocolate than chose vanilla?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "8"
+    },
+    {
+      "label": "G",
+      "text": "6"
+    },
+    {
+      "label": "H",
+      "text": "34"
+    },
+    {
+      "label": "J",
+      "text": "16"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circle graph labeled 'Favorite Ice Cream Flavors' with sections: Chocolate 42%, Strawberry 18%, Vanilla (percentage not visible), Coffee 14%"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

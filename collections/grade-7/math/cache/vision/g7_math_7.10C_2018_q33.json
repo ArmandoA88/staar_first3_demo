@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation can be represented by this inequality?\n\n120 \\u2264 12k + 29",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Felicia has 12 buttons in her collection. She will collect 29 new buttons every year. Felicia collects buttons for k years. For what values of k will Felicia have at least 120 buttons?"
+    },
+    {
+      "label": "B",
+      "text": "Felicia has 29 buttons in her collection. She will collect 12 new buttons every year. Felicia collects buttons for k years. For what values of k will Felicia have at least 120 buttons?"
+    },
+    {
+      "label": "C",
+      "text": "Felicia has 29 buttons in her collection. She will collect 12 new buttons every year. Felicia collects buttons for k years. For what values of k will Felicia have at most 120 buttons?"
+    },
+    {
+      "label": "D",
+      "text": "Felicia has 12 buttons in her collection. She will collect 29 new buttons every year. Felicia collects buttons for k years. For what values of k will Felicia have at most 120 buttons?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "inequality: 120 \\u2264 12k + 29"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

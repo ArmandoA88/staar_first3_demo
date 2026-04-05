@@ -1,0 +1,28 @@
+{
+  "stem": "What is the BEST revision to make in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The air was cool, the views were phenomenal, and some amazing wildlife pictures\u2014a black bear ambling across a beach along the Rio Grande and a mountain lion sitting high up on a rock ledge\u2014Jessie managed to capture."
+    },
+    {
+      "label": "B",
+      "text": "The air was cool, the views were phenomenal, and Jessie managed to capture some amazing wildlife pictures\u2014a black bear ambling across a beach along the Rio Grande and a mountain lion sitting high up on a rock ledge."
+    },
+    {
+      "label": "C",
+      "text": "The air was cool, and the views were phenomenal\u2014a black bear ambling across a beach along the Rio Grande and a mountain lion was sitting high up on a rock ledge\u2014as some amazing wildlife pictures that Jessie managed to capture."
+    },
+    {
+      "label": "D",
+      "text": "The air was cool, the views were phenomenal, and what Jessie managed to capture were some amazing wildlife pictures\u2014a black bear ambling across a beach along the Rio Grande and a mountain lion that was sitting high up on a rock ledge."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

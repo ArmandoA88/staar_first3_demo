@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these best represents the domain of f?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-3 \\leq x \\leq 2"
+    },
+    {
+      "label": "G",
+      "text": "All real numbers"
+    },
+    {
+      "label": "H",
+      "text": "y \\geq 5.5"
+    },
+    {
+      "label": "J",
+      "text": "All real numbers less than -3 or greater than 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of quadratic function f on a coordinate grid with x-axis labeled -7 to 7 and y-axis labeled -7 to 7 with a parabola opening upward having vertex near (0, -5)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Domain of any quadratic function is all real numbers unless otherwise restricted."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "This figure is composed of a parallelogram and a trapezoid.\n\nWhat is the area of the figure in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "1,056 cm\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "1,360 cm\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "944 cm\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "528 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Parallelogram and trapezoid figure with dimensions: height of parallelogram 32 cm, base 40 cm, top base of trapezoid 26 cm, height of trapezoid 16 cm."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

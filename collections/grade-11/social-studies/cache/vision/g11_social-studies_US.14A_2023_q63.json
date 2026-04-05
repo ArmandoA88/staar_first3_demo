@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt, how might population growth affect the environment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Less farming will lead to cleaner waterways."
+    },
+    {
+      "label": "B",
+      "text": "Extensive reforestation will lead to cleaner air."
+    },
+    {
+      "label": "C",
+      "text": "Alternative fuel usage will pollute the air."
+    },
+    {
+      "label": "D",
+      "text": "Habitat destruction will disrupt ecosystems."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The total number of people and their distribution on the landscape can affect the condition of the environment in many ways. Increasing population often means increased urbanization, including conversion of forest, farm, and other lands for housing, transportation, and commercial purposes. In recent years, many communities in the U.S. have seen an increase in developed land (residential, commercial, industrial, and transportation uses) that outpaces population growth. --\"Report on the Environment: Urbanization and Population Change,\" U.S. Environmental Protection Agency, 2016"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

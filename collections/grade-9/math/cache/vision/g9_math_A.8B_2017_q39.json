@@ -1,0 +1,30 @@
+{
+  "stem": "A projectile is launched into the air from the ground. The table shows the height of the projectile, \\( h(t) \\), at different times.\n\n\\nProjectile Height\\n\\n\\n| Time (seconds) | Height (meters) |\n|----------------|-----------------|\n| 5              | 1,353           |\n| 10             | 2,460           |\n| 15             | 3,323           |\n| 20             | 3,940           |\n| 25             | 4,313           |\n| 30             | 4,440           |\n| 35             | 4,323           |\n\nBased on the table, which function can best be used to model this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( h(t) = 99t^{2} + 858 \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( h(t) = -4.9t^{2} + 295t + 0.6 \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( h(t) = -4.9t^{2} + 295t + 2 \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( h(t) = 99t^{2} + 1,470.3 \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing two columns labeled 'Time (seconds)' and 'Height (meters)' with values for time 5,10,15,20,25,30,35 and corresponding heights 1,353,2,460,3,323,3,940,4,313,4,440,4,323"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

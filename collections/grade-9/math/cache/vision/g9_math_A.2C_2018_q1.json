@@ -1,0 +1,28 @@
+{
+  "stem": "At a restaurant jars of tomato sauce are stored in boxes in the pantry. Each box contains 8 jars of tomato sauce. A cook uses 2 jars from 1 of the boxes.\n\nWhich function shows the relationship between y, the total number of jars of tomato sauce remaining in the pantry, and x, the number of boxes in the pantry?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 8x + 6"
+    },
+    {
+      "label": "B",
+      "text": "y = 8x"
+    },
+    {
+      "label": "C",
+      "text": "y = 8x - 2"
+    },
+    {
+      "label": "D",
+      "text": "y = 6x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

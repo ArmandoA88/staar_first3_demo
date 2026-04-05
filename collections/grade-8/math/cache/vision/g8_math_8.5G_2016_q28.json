@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement describes the mapping?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The mapping represents y as a function of x, because each y-value corresponds to exactly one x-value."
+    },
+    {
+      "label": "G",
+      "text": "The mapping does not represent y as a function of x, because two of the x-values correspond to the same y-value."
+    },
+    {
+      "label": "H",
+      "text": "The mapping represents y as a function of x, because each x-value corresponds to exactly one y-value."
+    },
+    {
+      "label": "J",
+      "text": "The mapping does not represent y as a function of x, because there are more x-values than different corresponding y-values."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of two ovals labeled x and y. In oval x are values: -1, 0, 2, 3. Arrows go from: -1 to 1 in oval y; 0 to 4 in oval y; 2 to 7 in oval y; 3 to 7 in oval y. Oval y contains values: 1, 4, 7."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a linear relationship is shown on the coordinate grid.\n\n[Graph with points labeled (-6, 3) and (6, -1)]\n\nWhat are the slope and the y-intercept of the line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "slope = -3\ny-intercept = 1"
+    },
+    {
+      "label": "B",
+      "text": "slope = -\\frac{1}{3}\ny-intercept = 1"
+    },
+    {
+      "label": "C",
+      "text": "slope = -3\ny-intercept = 3"
+    },
+    {
+      "label": "D",
+      "text": "slope = -\\frac{1}{3}\ny-intercept = 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with labeled points (-6, 3) and (6, -1) on coordinate plane"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which issue is this cartoon addressing?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Political corruption"
+    },
+    {
+      "label": "G",
+      "text": "Temperance"
+    },
+    {
+      "label": "H",
+      "text": "Civil-service reform"
+    },
+    {
+      "label": "J",
+      "text": "Segregation"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Political cartoon titled \"Hard Times\" showing Uncle Sam distributing pies labeled 'Long Term Franchise' and 'Special Privilege' to businessmen labeled 'Public Service Corporation,' 'Public Land Thief,' and 'Predatory Wealth'."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which event prompted this speech by President Bush?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The attacks on the World Trade Center and the Pentagon"
+    },
+    {
+      "label": "G",
+      "text": "The attack on the USS Cole"
+    },
+    {
+      "label": "H",
+      "text": "The mail-bombing campaign of the Unabomber"
+    },
+    {
+      "label": "J",
+      "text": "The bombing of a federal building in Oklahoma City"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The attack took place on American soil, but it was an attack on the heart and soul of the civilized world. And the world has come together to fight a new and different war, the first, and we hope the only one, of the 21st century. A war against all those who seek to export terror, and a war against those governments that support or shelter them.\n\n\u2014President George W. Bush, news conference, October 11, 2001"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

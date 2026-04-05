@@ -1,0 +1,34 @@
+{
+  "stem": "Based on the excerpt, how does the Tennessee Valley Authority continue to affect the lives of U.S. citizens? Select TWO correct answers.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Provides economic development to the region"
+    },
+    {
+      "label": null,
+      "text": "Protects workers' right to form labor unions"
+    },
+    {
+      "label": null,
+      "text": "Provides crop subsidies to farmers"
+    },
+    {
+      "label": null,
+      "text": "Provides retirement funds for older Americans"
+    },
+    {
+      "label": null,
+      "text": "Protects against natural disasters"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Tennessee Valley Authority in center with lines to five boxes: Provides economic development to the region, Protects workers' right to form labor unions, Provides crop subsidies to farmers, Provides retirement funds for older Americans, Protects against natural disasters"
+  ],
+  "item_type_inferred": "Multiple Choice, Multiple Answer",
+  "confidence": 1,
+  "notes": "Question about the effects of the TVA with 5 answer options, instructing to select two."
+}

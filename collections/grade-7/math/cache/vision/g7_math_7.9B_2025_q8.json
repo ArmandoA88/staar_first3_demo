@@ -1,0 +1,43 @@
+{
+  "stem": "A circular sign has a diameter of 20 inches. Determine the measurements that are closest to the area of the sign in square inches and the circumference of the sign in inches.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "31"
+    },
+    {
+      "label": null,
+      "text": "63"
+    },
+    {
+      "label": null,
+      "text": "126"
+    },
+    {
+      "label": null,
+      "text": "314"
+    },
+    {
+      "label": null,
+      "text": "628"
+    },
+    {
+      "label": null,
+      "text": "1,256"
+    }
+  ],
+  "choice_pool": [
+    "31",
+    "63",
+    "126",
+    "314",
+    "628",
+    "1,256"
+  ],
+  "response_template": "Area of sign: [blank_1] in.\u00b2\nCircumference of sign: [blank_2] in.",
+  "visual_elements": [],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

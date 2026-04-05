@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows the major stages of the cell cycle and the percentage of time spent in each phase.",
+  "instruction": "Which statement best describes why a cell spends the majority of its time in interphase?",
+  "options": [
+    {
+      "label": "A",
+      "text": "The cell is growing and carrying out processes such as metabolism and DNA replication."
+    },
+    {
+      "label": "B",
+      "text": "The cell is aging and processes are stopping as lysosomes clear dead cell matter away."
+    },
+    {
+      "label": "C",
+      "text": "The cell needs time to synthesize spindle fibers to complete mitosis."
+    },
+    {
+      "label": "D",
+      "text": "The cell needs time to complete cytokinesis."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Pie chart labeled 'Percentage of Time in Each Major Stage of the Cell Cycle' with sections 'M phase' and 'Interphase'."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

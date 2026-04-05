@@ -1,0 +1,30 @@
+{
+  "stem": "The dot plots show the numbers of apples picked by members of two different tour groups at an orchard.\n\nTour Group 1                                                Tour Group 2\n\n[Dot plots showing the number of apples picked from 1 to 10]\n\nWhich statement correctly compares these two data sets?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The median of the data is the same for both data sets."
+    },
+    {
+      "label": "G",
+      "text": "The mode of the data is the same for both data sets."
+    },
+    {
+      "label": "H",
+      "text": "The range of the data is the same for both data sets."
+    },
+    {
+      "label": "J",
+      "text": "The distribution of the data is symmetrical for both data sets."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plots"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

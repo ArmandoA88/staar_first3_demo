@@ -1,0 +1,30 @@
+{
+  "stem": "A graph of a quadratic function is shown on the grid.\n\nWhich coordinates best represent the vertex of the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(2.4, 0)"
+    },
+    {
+      "label": "G",
+      "text": "(0, -1)"
+    },
+    {
+      "label": "H",
+      "text": "(-0.4, 0)"
+    },
+    {
+      "label": "J",
+      "text": "(1, -2)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with parabola opening upwards, vertex at (1, -2)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

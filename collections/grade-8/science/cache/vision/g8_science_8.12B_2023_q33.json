@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the predominant plant types on a piece of land in the years following a disturbance.\n\n| Plant Type                  | Time          |\n|-----------------------------|--------------|\n| Annual plants               | 1\u20132 years     |\n| Grasses and biennial herbs  | 3\u20134 years     |\n| Perennial herbs and shrubs  | 4\u201315 years    |\n| Pines                       | 5\u201315 years    |\n| Young oak and hickory trees | 10\u201330 years   |\n| Mature oak and hickory forest| 30\u201375 years |\n\nBased on the data in the table, which disturbance most likely led to this progression?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A glacier retreated."
+    },
+    {
+      "label": "B",
+      "text": "A volcanic island formed."
+    },
+    {
+      "label": "C",
+      "text": "A plowed field was abandoned."
+    },
+    {
+      "label": "D",
+      "text": "A new sand dune was formed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with plant types and times"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

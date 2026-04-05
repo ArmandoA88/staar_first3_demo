@@ -1,0 +1,30 @@
+{
+  "stem": "Figure I and Figure II are similar pentagons.\n\nFigure I                  Figure II\n\n[Image of two pentagons with side lengths and variables labeled as shown] \n\nWhich proportion must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{y}{x} = \\frac{4.2}{3.15}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{6}{x} = \\frac{5.25}{7}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{y}{6} = \\frac{7}{5.25}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{x}{4} = \\frac{3}{6}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two pentagons labeled Figure I and Figure II with sides measurements and right angle markers as shown in the image"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

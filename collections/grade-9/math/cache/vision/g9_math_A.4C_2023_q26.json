@@ -1,0 +1,30 @@
+{
+  "stem": "Which function best models the data in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "f(x) = 296 - 41x"
+    },
+    {
+      "label": "B",
+      "text": "f(x) = 337 - 41x"
+    },
+    {
+      "label": "C",
+      "text": "f(x) = 317 - 38x"
+    },
+    {
+      "label": "D",
+      "text": "f(x) = 296 - 38x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Online Sale', with columns 'Hours after the Sale Began, x' and 'Number of Customers, f(x)' showing values: (1,296), (2,256), (3,215), (4,170), (5,133), (6,89), (7,51)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Wording and math preserved exactly; labels preserved as visible."
+}

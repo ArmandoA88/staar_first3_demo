@@ -1,0 +1,30 @@
+{
+  "stem": "What revision, if any, should be made in sentence 18?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "David watched his sons head out toward a hike that offered majestic views of the mountains and the Rio Grande River that was the Hot Springs Canyon Trail."
+    },
+    {
+      "label": "B",
+      "text": "David watched his sons head out and toward the Hot Springs Canyon Trail and a hike that offered majestic views of the mountains and the Rio Grande River."
+    },
+    {
+      "label": "C",
+      "text": "David watched his sons head out on a hike and offered them majestic views of the mountains, the Rio Grande River, and the Hot Springs Canyon Trail."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The question text and four answer choices labeled A, B, C, and D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

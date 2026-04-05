@@ -1,0 +1,30 @@
+{
+  "stem": "Which movement is taking place at the same time that this ridge is forming?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The North American and Eurasian plates are moving toward each other."
+    },
+    {
+      "label": "B",
+      "text": "The North American plate is moving on top of the Eurasian plate."
+    },
+    {
+      "label": "C",
+      "text": "The North American and Eurasian plates are moving away from each other."
+    },
+    {
+      "label": "D",
+      "text": "The North American and Eurasian plates are sliding past each other."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map showing Mid-Atlantic Ridge running between North American plate and Eurasian plate with Iceland near the ridge."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Sadie used a container shaped like a cylinder to catch rainwater. The dimensions of the container are shown below.\n\nWhich measurement is closest to the volume of the container in cubic centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1,527 cm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "4,072 cm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "1,018 cm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "3,054 cm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cylinder with diameter labeled 12 cm and height labeled 9 cm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is being described in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Spinning jenny and the textile industry"
+    },
+    {
+      "label": "G",
+      "text": "Interchangeable parts and mass production"
+    },
+    {
+      "label": "H",
+      "text": "Cotton gin and the plantation system"
+    },
+    {
+      "label": "J",
+      "text": "Steam engine and railroad commerce"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Whitney\u2019s world provided a time for innovation in manufacturing systems. His factory would change the precision craft of gun making into routine. The machines would change the role of the worker and the meaning of skill. With a limited American labor supply, his system favored the use of small numbers of unskilled workers.\n\n\u2014\u201cThe Factory,\u201d Eli Whitney Museum and Workshop, www.eliwhitney.org (accessed January 13, 2017)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

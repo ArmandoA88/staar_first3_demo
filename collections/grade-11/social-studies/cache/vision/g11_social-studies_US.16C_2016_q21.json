@@ -1,0 +1,30 @@
+{
+  "stem": "Which headline describes the primary issue faced by the federal government at the onset of the Great Depression?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Unemployment Rates Reach Record High"
+    },
+    {
+      "label": "B",
+      "text": "Consumer Price Index Skyrockets"
+    },
+    {
+      "label": "C",
+      "text": "Consumer Markets Saturated with Foreign Imports"
+    },
+    {
+      "label": "D",
+      "text": "Banks Face Oversupply of Currency"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "images of four newspaper front pages with headlines"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

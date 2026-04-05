@@ -1,0 +1,28 @@
+{
+  "stem": "A bookstore offered mystery bags each containing 12 books. The quantity of each type of book was the same in each mystery bag. A shopper bought 3 mystery bags and found that 6 books were spy novels.\n\nBased on this information, which prediction can the shopper make about buying mystery bags in the future?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "There will be 4 more spy novels in 8 bags than in 6 bags."
+    },
+    {
+      "label": "G",
+      "text": "There will be 2 more spy novels in 6 bags than in 4 bags."
+    },
+    {
+      "label": "H",
+      "text": "There will be 1 more spy novel in 9 bags than in 8 bags."
+    },
+    {
+      "label": "J",
+      "text": "There will be 6 more spy novels in 10 bags than in 8 bags."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

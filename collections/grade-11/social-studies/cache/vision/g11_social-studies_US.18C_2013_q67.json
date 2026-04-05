@@ -1,0 +1,30 @@
+{
+  "stem": "The incident illustrated by this cartoon increased cynicism toward the U.S. government because \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the press secretary failed to keep the public informed of national policy changes"
+    },
+    {
+      "label": "B",
+      "text": "the president directed a conspiracy to mislead the nation"
+    },
+    {
+      "label": "C",
+      "text": "the Supreme Court overruled federal statutes that defined confidentiality"
+    },
+    {
+      "label": "D",
+      "text": "Congress failed to pass legislation enforcing protection of privacy rights"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A person hanging between two gears holds torn signs that read 'I AM' and 'A CROOK' with a label on their chest reading 'NOT'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

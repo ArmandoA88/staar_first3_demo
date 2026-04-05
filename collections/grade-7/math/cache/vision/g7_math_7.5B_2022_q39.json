@@ -1,0 +1,28 @@
+{
+  "stem": "The circumference of a circle is C inches. The diameter of the circle is 19 inches.\n\nWhich expression best represents the value of \u03c0?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{C}{19}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{19}{C}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{C}{9.5}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{9.5}{C}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

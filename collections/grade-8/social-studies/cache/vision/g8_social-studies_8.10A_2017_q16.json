@@ -1,0 +1,30 @@
+{
+  "stem": "What was the result of the events shown on the map above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "General Lee\u2019s troops received necessary reinforcements."
+    },
+    {
+      "label": "G",
+      "text": "General Grant\u2019s supply lines were completely cut off."
+    },
+    {
+      "label": "H",
+      "text": "General Lee surrendered to General Grant."
+    },
+    {
+      "label": "J",
+      "text": "General Grant and General Lee combined forces."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map titled 'Virginia, Spring 1865' showing movements of Grant's forces (solid line), Lee's forces (dashed line) and locations of battles (star icon) near Richmond, Petersburg, and Appomattox Court House."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

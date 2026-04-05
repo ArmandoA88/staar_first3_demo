@@ -1,0 +1,30 @@
+{
+  "stem": "A customer is buying bath towels and hand towels and can spend no more than $100. Each bath towel costs $8, and each hand towel costs $5. The inequality 8x + 5y \\u2264 100 represents all possible combinations of x, the number of bath towels, and y, the number of hand towels the customer can buy.\n\nWhich graph best represents the solution set for this inequality?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, G, H, and J with axes labeled 'Number of Bath Towels' (x-axis) and 'Number of Hand Towels' (y-axis). Each graph shows a line and shaded regions representing the inequality solutions. F and J have dashed lines, G and H have solid lines. F and J shaded region is above line, G and H shaded region is below line."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

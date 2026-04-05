@@ -1,0 +1,30 @@
+{
+  "stem": "Maria's monthly income is $2,000. The table displays the different categories in Maria's monthly budget and the amount of money she spends in each category.\n\nMonthly Budget\n\n| Category         | Rent | Utilities | Cable | Cell phone | Savings | Groceries | Other expenses |\n|------------------|------|-----------|-------|------------|---------|-----------|----------------|\n| Amount of Money  | $900 | $120      | $80   | $100       | $300    | $320      | $180           |\n\nWhich statement is not supported by the information in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "More than \\( \\frac{1}{2} \\) of Maria's monthly income is spent on rent."
+    },
+    {
+      "label": "B",
+      "text": "Maria puts 15% of her monthly income into savings."
+    },
+    {
+      "label": "C",
+      "text": "More than \\( \\frac{1}{4} \\) of Maria's monthly income is spent on utilities, cable, and groceries."
+    },
+    {
+      "label": "D",
+      "text": "Maria spends 14% of her monthly income on her cell phone and other expenses."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with categories: Rent $900, Utilities $120, Cable $80, Cell phone $100, Savings $300, Groceries $320, Other expenses $180"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

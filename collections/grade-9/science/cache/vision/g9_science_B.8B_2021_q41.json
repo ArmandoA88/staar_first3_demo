@@ -1,0 +1,30 @@
+{
+  "stem": "Some angelfish colors are determined by codominance. Possible phenotypes and genotypes of angelfish colors are shown.\n\nWhich table shows the expected phenotypes of offspring resulting from a cross between a black angelfish and a black-lace angelfish?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Phenotype Silver Black Black Lace\nPhenotypic probability of offspring \u2014 50% 50%"
+    },
+    {
+      "label": "B",
+      "text": "Phenotype Silver Black Black Lace\nPhenotypic probability of offspring 50% 50% \u2014"
+    },
+    {
+      "label": "C",
+      "text": "Phenotype Silver Black Black Lace\nPhenotypic probability of offspring 25% 25% 50%"
+    },
+    {
+      "label": "D",
+      "text": "Phenotype Silver Black Black Lace\nPhenotypic probability of offspring 25% 50% 25%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: Phenotype and Genotype\nSilver LL\nBlack BB\nBlack lace BL"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

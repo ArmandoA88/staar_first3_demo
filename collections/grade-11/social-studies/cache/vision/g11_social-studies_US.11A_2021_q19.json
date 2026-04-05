@@ -1,0 +1,30 @@
+{
+  "stem": "Read the list and answer the question that follows.\n\nU.S. Responses to the Terrorist Attacks on September 11, 2001\n\n\u2022 Obtained a pledge of support from NATO and the United Nations\n\u2022 Passed the USA PATRIOT Act to improve counter-terrorism efforts\n\u2022 ______ ?",
+  "instruction": "Which response correctly replaces the question mark on this list?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Imposed economic sanctions on Israel"
+    },
+    {
+      "label": "B",
+      "text": "Provided humanitarian support to Iran"
+    },
+    {
+      "label": "C",
+      "text": "Conducted military operations in Afghanistan"
+    },
+    {
+      "label": "D",
+      "text": "Declared war against Pakistan"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "U.S. Responses list box"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "A swimming pool can be rented for $110 per hour. The pool can be rented for either 1 hour or 2 hours. The cost in dollars to rent the pool is a function of the number of hours the pool is rented.\n\nWhat are the domain and range of the function for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Domain: {110, 220}\nRange: {1, 2}"
+    },
+    {
+      "label": "B",
+      "text": "Domain: {1, 2}\nRange: {110, 220}"
+    },
+    {
+      "label": "C",
+      "text": "Domain: all real numbers\nRange: all real numbers"
+    },
+    {
+      "label": "D",
+      "text": "Domain: all integers greater than or equal to zero\nRange: all integers greater than or equal to zero"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

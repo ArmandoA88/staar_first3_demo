@@ -1,0 +1,30 @@
+{
+  "stem": "A line contains the points \\((-2,-2)\\) and \\((4,2)\\).\n\nWhat is the slope of the line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(-\\frac{2}{3}\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\frac{3}{2}\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\frac{2}{3}\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\(-\\frac{3}{2}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with x and y axes from -5 to 5"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

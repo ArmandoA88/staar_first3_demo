@@ -1,0 +1,30 @@
+{
+  "stem": "Which graphic organizer best compares the energy inputs and outputs of cellular respiration and photosynthesis?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy \u2192 Cellular respiration \u2192 Thermal energy \u2192 Photosynthesis \u2192 Light energy"
+    },
+    {
+      "label": "B",
+      "text": "Light energy \u2192 Photosynthesis \u2192 Chemical energy \u2192 Cellular respiration \u2192 Chemical energy"
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy \u2192 Photosynthesis \u2192 Thermal energy \u2192 Cellular respiration \u2192 Chemical energy"
+    },
+    {
+      "label": "D",
+      "text": "Light energy \u2192 Cellular respiration \u2192 Chemical energy \u2192 Photosynthesis \u2192 Thermal energy"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four flowchart diagrams labeled A, B, C, and D each showing different energy inputs and outputs for cellular respiration and photosynthesis processes."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

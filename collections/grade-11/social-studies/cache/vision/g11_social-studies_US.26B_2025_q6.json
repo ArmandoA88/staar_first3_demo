@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt, which statement describes the inventions of George Washington Carver?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They diversified the uses for agricultural products."
+    },
+    {
+      "label": "B",
+      "text": "They expanded research efforts to prevent diseases."
+    },
+    {
+      "label": "C",
+      "text": "They led to improvements in weapons technology."
+    },
+    {
+      "label": "D",
+      "text": "They identified needed changes to dietary guidelines."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Professor [George Washington] Carver has made almost everything from the [common] peanut except dynamite. And those who have seen him at work and know the wonders he has performed would not be surprised if he did that in a pinch. By the way, he helped win . . . World War [I], not by manufacturing explosives to destroy the lives of human beings, but by converting sweet potatoes into flour, so as to provide food for them and save them."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

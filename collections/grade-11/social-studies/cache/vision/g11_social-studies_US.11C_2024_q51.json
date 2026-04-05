@@ -1,0 +1,32 @@
+{
+  "stem": "This table shows the results of the 2000 presidential election.\n\n2000 Presidential Election Results\n\n| Candidate               | Total Popular Vote | Popular Vote | Electoral Vote |\n|-------------------------|--------------------|--------------|----------------|\n| George W. Bush          | 50,456,002         | 47.87%       | 271            |\n| (Republican)            |                    |              |                |\n| Al Gore (Democrat)      | 50,999,897         | 48.38%       | 266            |\n| Ralph Nader (Green)     | 2,882,955          | 2.74%        | 0              |\n\nSource: Federal Election Commission\n\nBased on the table and your knowledge of U.S. history, identify how Ralph Nader\u2019s third-party candidacy affected the outcome of this election.",
+  "instruction": "Move the correct answer to the box in the table. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "Loss of votes for major party nominees"
+    },
+    {
+      "label": null,
+      "text": "Greater voter oversight of campaign spending"
+    },
+    {
+      "label": null,
+      "text": "Guaranteed vote recounts in swing states"
+    }
+  ],
+  "choice_pool": [
+    "Loss of votes for major party nominees",
+    "Greater voter oversight of campaign spending",
+    "Guaranteed vote recounts in swing states"
+  ],
+  "response_template": "Interest in appealing to voters on a specific set of issues [blank_1]",
+  "visual_elements": [
+    "Table: 2000 Presidential Election Results with vote numbers and percentages",
+    "Table: Third-Party Candidate in 2000 Election Cause and Effect chart with empty effect box",
+    "Draggable answer choices below instructions"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

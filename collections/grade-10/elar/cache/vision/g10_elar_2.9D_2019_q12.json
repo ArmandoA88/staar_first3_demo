@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 8 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Insert a comma after grass"
+    },
+    {
+      "label": "G",
+      "text": "Change reminds to reminding"
+    },
+    {
+      "label": "H",
+      "text": "Change playing to to play"
+    },
+    {
+      "label": "J",
+      "text": "Change Soccer to soccer"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

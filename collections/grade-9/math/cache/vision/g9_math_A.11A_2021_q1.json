@@ -1,0 +1,32 @@
+{
+  "stem": "Which expression is equivalent to \\(\\sqrt{184}\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "92"
+    },
+    {
+      "label": "B",
+      "text": "2\\(\\sqrt{46}\\)"
+    },
+    {
+      "label": "C",
+      "text": "4\\(\\sqrt{23}\\)"
+    },
+    {
+      "label": "D",
+      "text": "4\\(\\sqrt{46}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\(\\sqrt{184}\\)",
+    "\\(\\sqrt{46}\\)",
+    "\\(\\sqrt{23}\\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

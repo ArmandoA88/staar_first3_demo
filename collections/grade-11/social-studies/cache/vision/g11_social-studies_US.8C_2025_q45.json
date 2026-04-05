@@ -1,0 +1,35 @@
+{
+  "stem": "Which factors led to U.S. involvement in the Korean War, and which situations were outcomes of the war?",
+  "instruction": "Move the correct answer to each box in the table.",
+  "options": [
+    {
+      "label": null,
+      "text": "Communist takeover of mainland China"
+    },
+    {
+      "label": null,
+      "text": "Long-term presence of the U.S. military in South Korea"
+    },
+    {
+      "label": null,
+      "text": "Invasion of South Korea by the North Korean military"
+    },
+    {
+      "label": null,
+      "text": "Military stalemate along North Korean\u2013South Korean border"
+    }
+  ],
+  "choice_pool": [
+    "Communist takeover of mainland China",
+    "Long-term presence of the U.S. military in South Korea",
+    "Invasion of South Korea by the North Korean military",
+    "Military stalemate along North Korean\u2013South Korean border"
+  ],
+  "response_template": "| Factors Leading to U.S. Involvement | Outcomes of the War |\n|------------------------------------|--------------------|\n| [blank_1]                         | [blank_2]           |\n| [blank_3]                         | [blank_4]           |",
+  "visual_elements": [
+    "table with two columns labeled 'Factors Leading to U.S. Involvement' and 'Outcomes of the War' with two rows of empty boxes for answers"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

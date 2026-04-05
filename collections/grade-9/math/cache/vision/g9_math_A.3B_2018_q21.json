@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shows the linear relationship between the maximum area in square feet that can be painted and the number of gallons of paint used.\n\nWhich of these best represents the rate of change of the maximum area painted with respect to the number of gallons of paint used?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "200 ft\u00b2/gal"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{1}{200} ft\u00b2/gal"
+    },
+    {
+      "label": "C",
+      "text": "400 ft\u00b2/gal"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{1}{400} ft\u00b2/gal"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with x-axis labeled 'Number of Gallons of Paint' and y-axis labeled 'Area Painted (ft\u00b2)'. The graph shows a linear line passing through (0,0) and (4,1800)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

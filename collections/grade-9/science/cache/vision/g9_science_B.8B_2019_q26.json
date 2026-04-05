@@ -1,0 +1,30 @@
+{
+  "stem": "Based on this pedigree, what are the most likely genotypes of individuals I-1 and I-2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "I-1: aa\nI-2: Aa"
+    },
+    {
+      "label": "G",
+      "text": "I-1: AA\nI-2: Aa"
+    },
+    {
+      "label": "H",
+      "text": "I-1: Aa\nI-2: aa"
+    },
+    {
+      "label": "J",
+      "text": "I-1: aa\nI-2: AA"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "pedigree chart with shaded and unshaded symbols representing individuals I-1 through III-9"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "The question relates to genotypes based on autosomal dominant inheritance shown in the pedigree."
+}

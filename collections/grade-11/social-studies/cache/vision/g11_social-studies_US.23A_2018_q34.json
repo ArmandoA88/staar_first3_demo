@@ -1,0 +1,30 @@
+{
+  "stem": "Who is the recipient of this award?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Frances Perkins"
+    },
+    {
+      "label": "G",
+      "text": "Hillary Clinton"
+    },
+    {
+      "label": "H",
+      "text": "Sandra Day O\u2019Connor"
+    },
+    {
+      "label": "J",
+      "text": "Barbara Jordan"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Newspaper headline: 'President Barack Obama Awards Presidential Medal of Freedom to First Female Supreme Court Justice'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

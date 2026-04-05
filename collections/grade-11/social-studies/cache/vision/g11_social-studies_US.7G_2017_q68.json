@@ -1,0 +1,30 @@
+{
+  "stem": "The U.S. Army distributed posters like this one with the goal of encouraging \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the sale of war bonds"
+    },
+    {
+      "label": "G",
+      "text": "young men to voluntarily enlist"
+    },
+    {
+      "label": "H",
+      "text": "the creation of a selective service"
+    },
+    {
+      "label": "J",
+      "text": "young men to return to school"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of U.S. Army Poster, 1942 with soldiers running forward, airplanes above, and text 'ACTION!'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

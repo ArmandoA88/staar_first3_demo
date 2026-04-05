@@ -1,0 +1,31 @@
+{
+  "stem": "The tables of ordered pairs represent some points on the graphs of two different lines.\n\nLine a\n\n| x | -11 | -6 | -1 | 4 |\n| y | 81  | 51 | 21 | -9 |\n\nLine b\n\n| x | -9 | -4 | 1 | 6 |\n| y | 18 | 3 | -12 | -27 |\n\nWhich system of equations represents the graph of these two lines?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x - 6y = -90\nx - 3y = 27"
+    },
+    {
+      "label": "B",
+      "text": "x + 6y = 90\nx + 3y = -27"
+    },
+    {
+      "label": "C",
+      "text": "6x - y = -15\n3x - y = 9"
+    },
+    {
+      "label": "D",
+      "text": "6x + y = 15\n3x + y = -9"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Line a table: x values: -11, -6, -1, 4 | y values: 81, 51, 21, -9",
+    "Line b table: x values: -9, -4, 1, 6 | y values: 18, 3, -12, -27"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

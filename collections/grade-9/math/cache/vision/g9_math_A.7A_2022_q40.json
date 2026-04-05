@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents h(x) = (x + 1)(x - 3)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, G, H, and J each showing different parabolas on a coordinate grid with x-axis range from -6 to 6 and y-axis range from -6 to 6."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the main function of the Federal Deposit Insurance Corporation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Assisting banks in recovering unpaid loans"
+    },
+    {
+      "label": "B",
+      "text": "Providing monetary aid to struggling banks"
+    },
+    {
+      "label": "C",
+      "text": "Guaranteeing job security for bank employees"
+    },
+    {
+      "label": "D",
+      "text": "Protecting personal savings in the event of bank failure"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

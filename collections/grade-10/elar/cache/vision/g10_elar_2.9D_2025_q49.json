@@ -1,0 +1,33 @@
+{
+  "stem": "Select the response that corrects the error in sentence 5.\n\nThe ____ when she and her dad crossed over to the island that morning, was cresting high.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "sea"
+    },
+    {
+      "label": null,
+      "text": "seas"
+    },
+    {
+      "label": null,
+      "text": "seas's"
+    },
+    {
+      "label": null,
+      "text": "sea's"
+    }
+  ],
+  "choice_pool": [
+    "sea",
+    "seas",
+    "seas's",
+    "sea's"
+  ],
+  "response_template": "The [blank_1] when she and her dad crossed over to the island that morning, was cresting high.",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 1,
+  "notes": null
+}

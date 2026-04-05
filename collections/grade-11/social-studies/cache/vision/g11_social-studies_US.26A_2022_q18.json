@@ -1,0 +1,30 @@
+{
+  "stem": "The image supports which statement about U.S. society during the early 1900s?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "New technologies made daily life easier for consumers."
+    },
+    {
+      "label": "G",
+      "text": "Consumers resisted change in favor of traditional products."
+    },
+    {
+      "label": "H",
+      "text": "Harmful economic cycles caused consumers to resist new technology."
+    },
+    {
+      "label": "J",
+      "text": "The manufacture of new products encouraged consumers to stay home."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Advertisement for the Potomac Electric Power Company showing electric household items: coffee pot, clock, radio, iron, and refrigerator."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

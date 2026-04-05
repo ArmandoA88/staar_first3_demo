@@ -1,0 +1,30 @@
+{
+  "stem": "The graphs of lines k_1 and k_2 are shown on the grid.\n\nWhich system of equations is best represented by this graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3x - y = 2\n4x + 9y = 36"
+    },
+    {
+      "label": "G",
+      "text": "3x - y = 6\n4x + 9y = 4"
+    },
+    {
+      "label": "H",
+      "text": "x - 3y = -18\n9x + 4y = 9"
+    },
+    {
+      "label": "J",
+      "text": "x + y = 10\n9x + 4y = 13"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing two lines labeled k1 and k2 on a coordinate grid"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

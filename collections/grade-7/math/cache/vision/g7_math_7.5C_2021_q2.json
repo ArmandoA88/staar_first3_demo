@@ -1,0 +1,28 @@
+{
+  "stem": "A building has a height of 125 meters and a length of 80 meters. On a scale drawing of the building, the height is 25 centimeters.\n\nWhat is the length of the building on the scale drawing in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "55 cm"
+    },
+    {
+      "label": "G",
+      "text": "16 cm"
+    },
+    {
+      "label": "H",
+      "text": "20 cm"
+    },
+    {
+      "label": "J",
+      "text": "64 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which action is prohibited under provisions of Title IX of the Education Amendments of 1972?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A principal refuses to organize athletic events and programs for female sports teams."
+    },
+    {
+      "label": "B",
+      "text": "The funding for a music program is cut because of declining tax revenues."
+    },
+    {
+      "label": "C",
+      "text": "A teacher attempts to organize a charity basketball game for faculty and students."
+    },
+    {
+      "label": "D",
+      "text": "The staffing for a foreign language class is reduced due to lack of interest."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

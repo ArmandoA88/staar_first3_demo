@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a quadratic function is shown on the grid.\n\nWhich statement appears to be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The function has 3 zeros."
+    },
+    {
+      "label": "B",
+      "text": "The maximum value of the function is 3."
+    },
+    {
+      "label": "C",
+      "text": "The vertex of the graph of the function is \\(4, 1\\)."
+    },
+    {
+      "label": "D",
+      "text": "The equation of the axis of symmetry of the graph of the function is \\(x = 1\\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of quadratic function showing a parabola opening downward with vertex at (1,4), zeros approximately at x = -1 and x = 3"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

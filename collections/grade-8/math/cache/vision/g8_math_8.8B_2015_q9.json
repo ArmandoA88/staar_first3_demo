@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation can be represented by this equation? 340 + 5x = 650 - 8x",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sierra has a bucket that originally contained 340 fl oz of water and is being filled at a rate of 5 fl oz per minute. Brian has a bucket that originally contained 650 fl oz of water and is being drained at a rate of 8 fl oz per minute. What is x, the number of minutes that need to pass in order for the two buckets to contain the same amount of water?"
+    },
+    {
+      "label": "B",
+      "text": "Sierra started with savings of $340 and spends $8 of her savings every week. Brian started with savings of $650 and adds $5 to his savings every week. What is x, the number of weeks that need to pass in order for Sierra and Brian to have the same amount of savings?"
+    },
+    {
+      "label": "C",
+      "text": "Sierra started with 340 cans of food for a food drive. She collects 5 more cans every day. Brian started with 650 cans of food for the food drive. He collects 8 more cans every day. What is x, the number of days that need to pass in order for Sierra and Brian to have the same number of cans of food?"
+    },
+    {
+      "label": "D",
+      "text": "Sierra earns 345 points on each level of a video game. Brian earns 642 points on each level of the same video game. What is x, the number of levels that Sierra and Brian would have to play in order for them to have an equal number of points?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Equation: 340 + 5x = 650 - 8x"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

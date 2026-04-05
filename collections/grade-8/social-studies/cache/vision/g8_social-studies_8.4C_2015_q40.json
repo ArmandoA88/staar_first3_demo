@@ -1,0 +1,30 @@
+{
+  "stem": "Here in the autumn of 1777, American forces met, defeated and forced a major British army to surrender. This crucial American victory in the Battle of ______?______ renewed patriots\u2019 hopes for independence, secured essential foreign recognition and support, and forever changed the face of the world.\n\n\u2014\"A Crucial American Victory,\" U.S. National Park Service, www.nps.gov (accessed May 17, 2012)",
+  "instruction": "Which of the following best completes this excerpt?",
+  "options": [
+    {
+      "label": "F",
+      "text": "Saratoga"
+    },
+    {
+      "label": "G",
+      "text": "Concord"
+    },
+    {
+      "label": "H",
+      "text": "Trenton"
+    },
+    {
+      "label": "J",
+      "text": "Yorktown"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text box containing historical excerpt with a blank and a question mark"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

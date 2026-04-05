@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change has owned to had owned"
+    },
+    {
+      "label": "B",
+      "text": "Change the comma after rodents to a semicolon"
+    },
+    {
+      "label": "C",
+      "text": "Change I to they"
+    },
+    {
+      "label": "D",
+      "text": "Change caretaker to Caretaker"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Multiple choice options with label: A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

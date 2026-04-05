@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a line is represented by the equation 5x - 8y = 40. Which value represents the rate of change of y with respect to x for the equation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "- \\frac{8}{5}"
+    },
+    {
+      "label": "B",
+      "text": "- \\frac{5}{8}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{5}{8}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{8}{5}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: 5x - 8y = 40"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

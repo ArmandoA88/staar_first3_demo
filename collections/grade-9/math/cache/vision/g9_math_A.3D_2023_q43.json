@@ -1,0 +1,25 @@
+{
+  "stem": "What is the solution set for the linear inequality y \\u2265 -x + 2?",
+  "instruction": "Graph the solution set of the linear inequality in the coordinate plane.\n\n\u2022 First, select the Graph button to graph the line and choose the line style. To graph a line, select two points in the coordinate plane. A line will automatically connect the points.\n\n\u2022 Then, select the Solution Set button and select the desired region to be shaded.",
+  "options": [
+    {
+      "label": null,
+      "text": "Line Type solid"
+    },
+    {
+      "label": null,
+      "text": "Solution Set"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane with x and y axes spanning from -5 to 5 with grid lines",
+    "Graph button",
+    "Line Type dropdown with 'solid' selected",
+    "Solution Set button"
+  ],
+  "item_type_inferred": "Graphing",
+  "confidence": 1,
+  "notes": null
+}

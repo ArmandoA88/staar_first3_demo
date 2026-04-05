@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents a function with a domain of all real numbers less than or equal to 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with line from x = -9 to 6 with closed dot at (6, -2)"
+    },
+    {
+      "label": "B",
+      "text": "Graph with line from x = 0 to 9 with closed dot at (0, 7)"
+    },
+    {
+      "label": "C",
+      "text": "Graph with line from x = 3 to 9 with closed dot at (3, -4)"
+    },
+    {
+      "label": "D",
+      "text": "Graph with line from x = 1 to 6 with closed dot at (6, 6)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate grid graphs labeled A through D, each with lines and dots showing domain endpoints"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

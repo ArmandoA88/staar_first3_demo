@@ -1,0 +1,33 @@
+{
+  "stem": "Which motive best completes the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To promote free enterprise"
+    },
+    {
+      "label": "B",
+      "text": "To extend democracy"
+    },
+    {
+      "label": "C",
+      "text": "To expand empires"
+    },
+    {
+      "label": "D",
+      "text": "To found utopian communities"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Primary Motives for European Exploration of the Americas",
+    "To increase wealth",
+    "?",
+    "To spread Christianity"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

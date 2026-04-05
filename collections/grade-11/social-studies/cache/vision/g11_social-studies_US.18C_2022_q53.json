@@ -1,0 +1,31 @@
+{
+  "stem": "Read the information in the table and answer the question that follows.\n\nWhich statement explains one effect of these two events?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They reduced government regulation of the economy."
+    },
+    {
+      "label": "B",
+      "text": "They led to an increase in the size of the executive branch."
+    },
+    {
+      "label": "C",
+      "text": "They reduced public confidence in the federal government."
+    },
+    {
+      "label": "D",
+      "text": "They led the president to increase the use of the veto power."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Teapot Dome: In 1922, President Warren Harding's Interior Secretary Albert Fall was caught taking bribes from private oil companies related to oil leases. In 1929, Fall was sentenced to prison.",
+    "Watergate: On June 17, 1972, five men broke into the Democratic National Committee headquarters at the Watergate hotel. It was later discovered that President Richard Nixon had participated in covering up the White House connections to the break-in. Nixon resigned the presidency on August 9, 1974."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

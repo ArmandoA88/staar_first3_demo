@@ -1,0 +1,30 @@
+{
+  "stem": "What is the significance of this 1978 mural?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It is representative of artistic expressions of the Beat Generation."
+    },
+    {
+      "label": "G",
+      "text": "It was commissioned by the federal government through the National Endowment for the Arts (NEA)."
+    },
+    {
+      "label": "H",
+      "text": "It is an example of cultural pride among Mexican Americans."
+    },
+    {
+      "label": "J",
+      "text": "It was painted by artists employed under the Works Progress Administration (WPA)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Black-and-white photo of a mural on a concrete support, featuring images of people, a snake coiled around a tree trunk, an eagle, and architectural elements."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

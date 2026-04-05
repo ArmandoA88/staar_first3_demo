@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows a door that has a window in it. The front faces of the door and the window are similar rectangles that have the dimensions shown.\n\nWhat is h, the height of the window in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "66 cm"
+    },
+    {
+      "label": "G",
+      "text": "186 cm"
+    },
+    {
+      "label": "H",
+      "text": "150 cm"
+    },
+    {
+      "label": "J",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram showing a door with height 210 cm and width 84 cm; inside the door is a window with width 60 cm and height h"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

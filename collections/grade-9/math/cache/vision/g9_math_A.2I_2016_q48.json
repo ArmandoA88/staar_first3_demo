@@ -1,0 +1,28 @@
+{
+  "stem": "A bag contains 18 coins consisting of quarters and dimes. The total value of the coins is $2.85. Which system of equations can be used to determine the number of quarters, q, and the number of dimes, d, in the bag?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "0.10q + 0.25d = 2.85\nq + d = 18"
+    },
+    {
+      "label": "G",
+      "text": "0.10q + 0.25d = 18\nq + d = 2.85"
+    },
+    {
+      "label": "H",
+      "text": "0.25q + 0.10d = 2.85\nq + d = 18"
+    },
+    {
+      "label": "J",
+      "text": "0.25q + 0.10d = 18\nq + d = 2.85"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

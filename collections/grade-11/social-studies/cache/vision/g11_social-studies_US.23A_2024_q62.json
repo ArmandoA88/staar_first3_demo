@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt, why were Muhammad Ali\u2019s actions significant?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He discouraged ordinary citizens from taking a stance against the war."
+    },
+    {
+      "label": "B",
+      "text": "He used controversies about the war to draw attention to sporting events he was involved in."
+    },
+    {
+      "label": "C",
+      "text": "He brought attention to the anti-war movement at great personal risk."
+    },
+    {
+      "label": "D",
+      "text": "He encouraged other athletes to boycott their sport as a form of protest against the war."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The [draftee] drawing such intense interest was Muhammad Ali, the undefeated heavyweight champion of the world. Over the past three years, Ali had become a national [outcast] for his views on race, religion, and especially the Vietnam War. . . . . . He was tried and convicted of draft evasion in federal district court and sentenced to the maximum penalty. He was stripped of his [boxing] titles and suspended from boxing during the peak of his career, losing millions of dollars in the process. . . . In response, Ali and his legal team launched a lengthy challenge against his conviction that ended with victory in the Supreme Court of the United States in 1971. \u2014Winston Bowman, \"United States v. Clay: Muhammad Ali\u2019s Fight against the Vietnam Draft,\" 2018"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

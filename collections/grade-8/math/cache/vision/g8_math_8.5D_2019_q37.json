@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the time spent playing a video game and the number of points scored by several students.\n\nBased on the scatterplot, which is the best prediction of the number of points scored by a student who spends 45 minutes playing the video game?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1,200"
+    },
+    {
+      "label": "B",
+      "text": "920"
+    },
+    {
+      "label": "C",
+      "text": "1,060"
+    },
+    {
+      "label": "D",
+      "text": "1,300"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot with x-axis labeled 'Time (minutes)' from 0 to 45 in increments of 5, y-axis labeled 'Number of Points Scored' from 0 to 1,350 in increments of 150, points clustered from about 5 to 30 minutes"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

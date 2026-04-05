@@ -1,0 +1,30 @@
+{
+  "stem": "Read the list and answer the question that follows.\n\n\u2022 Mexican American Legal Defense and Educational Fund\n\u2022 American-Arab Anti-Discrimination Committee\n\u2022 National Asian Pacific American Legal Consortium\n\nWhich action is a goal of all these groups?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Promoting nativist policies"
+    },
+    {
+      "label": "B",
+      "text": "Protecting civil liberties"
+    },
+    {
+      "label": "C",
+      "text": "Supporting segregation"
+    },
+    {
+      "label": "D",
+      "text": "Organizing labor unions"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "list of 3 groups: Mexican American Legal Defense and Educational Fund, American-Arab Anti-Discrimination Committee, National Asian Pacific American Legal Consortium"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

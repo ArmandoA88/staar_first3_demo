@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following best replaces the question mark in this list of information about Puerto Rico?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Became a U.S. state during the Reconstruction era"
+    },
+    {
+      "label": "G",
+      "text": "Was ceded to the United States as a result of the Spanish-American War"
+    },
+    {
+      "label": "H",
+      "text": "Signed an annexation treaty with the United States after World War I"
+    },
+    {
+      "label": "J",
+      "text": "Was promised U.S. military protection as part of Woodrow Wilson's Fourteen Points"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "List with bullet points: \u2022 ?  \u2022 Residents granted U.S. citizenship in 1917 \u2022 Governors have been elected by popular vote since 1948 \u2022 Adopted both a constitution and commonwealth status in 1952"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "The perimeter of a rectangular garden is 48 meters. The length of the garden, y, is 6 meters more than twice the width, x.\n\nWhich system of equations can be used to find the length and width of the garden in meters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2x + 2y = 48\ny = 6x + 2"
+    },
+    {
+      "label": "B",
+      "text": "x + y = 48\ny = 2x + 6"
+    },
+    {
+      "label": "C",
+      "text": "2x + 2y = 48\ny = 2x + 6"
+    },
+    {
+      "label": "D",
+      "text": "x + y = 48\ny = 6x + 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

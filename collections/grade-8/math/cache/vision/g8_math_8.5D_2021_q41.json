@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the low temperature and high temperature each day for a two-week period of time.\n\nBased on the scatterplot, which is the best prediction of the high temperature in degrees Fahrenheit on a day when the low temperature is 71 \u00b0F?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "92 \u00b0F"
+    },
+    {
+      "label": "B",
+      "text": "101 \u00b0F"
+    },
+    {
+      "label": "C",
+      "text": "88 \u00b0F"
+    },
+    {
+      "label": "D",
+      "text": "100 \u00b0F"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot with x-axis labeled Low Temperature (\u00b0F) ranging from 71 to 80 and y-axis labeled High Temperature (\u00b0F) ranging from 86 to 100 with points clustered roughly from (71, 92) to (79, 100)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

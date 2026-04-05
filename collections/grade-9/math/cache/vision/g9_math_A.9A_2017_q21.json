@@ -1,0 +1,30 @@
+{
+  "stem": "The population of Center City is modeled by exponential function f, where x is the number of years after the year 2015. The graph of f is shown on the grid.\n\nWhich inequality best represents the range of f in this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x \\geq 0"
+    },
+    {
+      "label": "B",
+      "text": "y \\geq 250,000"
+    },
+    {
+      "label": "C",
+      "text": "0 \\leq x \\leq 110"
+    },
+    {
+      "label": "D",
+      "text": "250,000 \\leq y \\leq 1,000,000"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph labeled 'Center City' with y-axis labeled 'Population' ranging from 0 to 900,000 in increments of 100,000, and x-axis labeled 'Time After 2015 (years)' from 0 to 100 in increments of 20, showing an upward curve starting near 250,000 at x=0 and increasing exponentially."
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 0.99,
+  "notes": null
+}

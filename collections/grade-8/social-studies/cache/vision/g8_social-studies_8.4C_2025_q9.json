@@ -1,0 +1,30 @@
+{
+  "stem": "This list describes a battle during the Revolutionary War.\n\nThe Battle of Yorktown\n\n\u2022 General Washington led troops against British General Cornwallis.\n\n\u2022 French and American forces surrounded British troops on a peninsula.\n\n\u2022 ?",
+  "instruction": "Which description of the battle correctly completes the list?",
+  "options": [
+    {
+      "label": "A",
+      "text": "It was the second battle in the fight for independence."
+    },
+    {
+      "label": "B",
+      "text": "It was the first battle fought with the help of foreign forces."
+    },
+    {
+      "label": "C",
+      "text": "It was the last major battle of the war."
+    },
+    {
+      "label": "D",
+      "text": "It was the battle that helped prolong the war."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Battle of Yorktown box with bullet points: General Washington led troops against British General Cornwallis, French and American forces surrounded British troops on a peninsula, one bullet with '?'."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

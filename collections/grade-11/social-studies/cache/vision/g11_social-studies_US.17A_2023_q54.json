@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt and your knowledge of U.S. history, how did World War II affect the workforce?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Women remained unemployed for the duration."
+    },
+    {
+      "label": "B",
+      "text": "Women gained more opportunities in industry."
+    },
+    {
+      "label": "C",
+      "text": "Employers prioritized experience in manufacturing."
+    },
+    {
+      "label": "D",
+      "text": "Employers provided access to opportunities in higher education."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "With several million unemployed workers and no widespread labor shortage as yet, it will be some time before women are employed on a large scale everywhere. The unemployed and workers temporarily displaced by the conversion of industries to war work will have first consideration in employment. Where local labor shortages exist, increased efforts must be made to induce employers and labor to adopt policies that will ensure the full utilization of female labor. Jobs must be broken down into unit skills, workers will have to be upgraded, and women will need to be trained to fill the new jobs. \u2014\"Employment of Women in War Production,\" Bulletin, Social Security Administration, July 1942"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "Two-part question, extracted only Part A as requested."
+}

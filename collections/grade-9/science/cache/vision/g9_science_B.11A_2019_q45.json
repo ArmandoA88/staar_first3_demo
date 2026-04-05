@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement accurately describes the energy needs for photosynthesis and cellular respiration?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Solar energy is needed for cellular respiration but not for photosynthesis."
+    },
+    {
+      "label": "B",
+      "text": "Chemical energy in the form of glucose is needed for both cellular respiration and photosynthesis."
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy in the form of glucose is needed for photosynthesis, and solar energy is needed for cellular respiration."
+    },
+    {
+      "label": "D",
+      "text": "Solar energy is needed for photosynthesis, and chemical energy in the form of glucose is needed for cellular respiration."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

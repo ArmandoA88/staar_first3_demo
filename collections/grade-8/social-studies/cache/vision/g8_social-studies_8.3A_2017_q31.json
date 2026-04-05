@@ -1,0 +1,32 @@
+{
+  "stem": "Which factor most contributed to the creation of the documents in this list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The opportunity for trade with American Indians"
+    },
+    {
+      "label": "B",
+      "text": "The distance of the colonies from Great Britain"
+    },
+    {
+      "label": "C",
+      "text": "The doctrine of the Church of England"
+    },
+    {
+      "label": "D",
+      "text": "The economic system of mercantilism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Mayflower Compact",
+    "The charter establishing the Virginia House of Burgesses",
+    "The Fundamental Orders of Connecticut"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

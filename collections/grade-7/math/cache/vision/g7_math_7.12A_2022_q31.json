@@ -1,0 +1,30 @@
+{
+  "stem": "The box plots summarize the number of semester hours students enrolled in a university and a community college completed during the fall semester.\n\nWhich statement is best supported by the data in the box plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The median of the data for the university is greater than the median of the data for the community college."
+    },
+    {
+      "label": "B",
+      "text": "The range of the data for the university is greater than the range of the data for the community college."
+    },
+    {
+      "label": "C",
+      "text": "The interquartile range of the data for the community college is greater than the interquartile range of the data for the university."
+    },
+    {
+      "label": "D",
+      "text": "The third quartile of the data for the community college is greater than the third quartile of the data for the university."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Box plot comparing university and community college semester hours with a scale from 2 to 18."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

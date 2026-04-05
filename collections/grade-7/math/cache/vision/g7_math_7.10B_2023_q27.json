@@ -1,0 +1,30 @@
+{
+  "stem": "Which number line best represents the solution to the inequality \\(-4x + 29 > 19\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number line with open circle at -2 and arrow to the left"
+    },
+    {
+      "label": "B",
+      "text": "Number line with open circle at -3 and arrow to the left"
+    },
+    {
+      "label": "C",
+      "text": "Number line with open circle at 3 and arrow to the left"
+    },
+    {
+      "label": "D",
+      "text": "Number line with open circle at 3 and arrow to the right"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number lines labeled A, B, C, D with open circles and arrows indicating inequality ranges"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

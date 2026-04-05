@@ -1,0 +1,31 @@
+{
+  "stem": "An illustration of how a particular DNA mutation will most likely affect the polypeptide produced is shown.\n\nOriginal DNA strand\n3' G T A G T A G T A G T A G T A G T A G T A 5'\nHis His His His His His His\n\nMutated DNA strand\n3' G T A G T A G T A G G A G T A G T A G T A 5'\nHis His His Pro His His His\n\nWhat type of mutation is illustrated?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insertion"
+    },
+    {
+      "label": "B",
+      "text": "Translocation"
+    },
+    {
+      "label": "C",
+      "text": "Substitution"
+    },
+    {
+      "label": "D",
+      "text": "Deletion"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Original DNA strand sequence and polypeptide His sequence",
+    "Mutated DNA strand sequence and polypeptide sequence with Pro replacing His at one position"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

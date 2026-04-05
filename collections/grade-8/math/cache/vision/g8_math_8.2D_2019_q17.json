@@ -1,0 +1,31 @@
+{
+  "stem": "The table shows the completion times of four runners in a race.\n\nRace Times\n\n| Runner | Time (seconds) |\n|--------|----------------|\n| Joe    | 12 1/2         |\n| Ellen  | 12.09          |\n| Steve  | 12 2/5         |\n| Patty  | 12.8           |\n\nWhich list shows the runners in order by their completion times from fastest to slowest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Patty, Joe, Steve, Ellen"
+    },
+    {
+      "label": "B",
+      "text": "Ellen, Joe, Steve, Patty"
+    },
+    {
+      "label": "C",
+      "text": "Ellen, Steve, Joe, Patty"
+    },
+    {
+      "label": "D",
+      "text": "Patty, Steve, Joe, Ellen"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with runner names and times",
+    "Four answer choices labeled A, B, C, D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

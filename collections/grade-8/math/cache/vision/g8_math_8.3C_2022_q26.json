@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the coordinates of the vertices of pentagon \\( ABCDE \\).\n\nThe table:\n\\[\n\\begin{array}{c|c}\nx & y \\\\\\hline\n-1 & 1 \\\\\n1 & 6 \\\\\n4 & 1 \\\\\n2 & -5 \\\\\n-6 & -2 \n\\end{array}\n\\]\n\nPentagon \\( ABCDE \\) is dilated by a scale factor of \\( \\frac{7}{3} \\) with the origin as the center of dilation to create pentagon \\( A'B'C'D'E' \\). If \\( (x, y) \\) represents the location of any point on pentagon \\( ABCDE \\), which ordered pair represents the location of the corresponding point on pentagon \\( A'B'C'D'E' \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( \\left( \\frac{3}{7} x, \\frac{3}{7} y \\right) \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( (x + \\frac{7}{3}, y + \\frac{7}{3}) \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( (x + \\frac{3}{7}, y + \\frac{3}{7}) \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( \\left( \\frac{7}{3} x, \\frac{7}{3} y \\right) \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with header row 'x' and 'y' columns and values: (-1,1), (1,6), (4,1), (2,-5), (-6,-2)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

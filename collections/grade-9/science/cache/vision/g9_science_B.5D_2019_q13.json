@@ -1,0 +1,30 @@
+{
+  "stem": "A student produces a labeled drawing of a virus for a presentation. The student states that the capsid has a function similar to the nuclear membrane found in animal cells.\n\nWhich of these describes the similar functions of capsids and nuclear membranes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Both transport proteins throughout the structures."
+    },
+    {
+      "label": "B",
+      "text": "Both provide energy for activities in the structures."
+    },
+    {
+      "label": "C",
+      "text": "Both protect genetic information for the structures."
+    },
+    {
+      "label": "D",
+      "text": "Both code for the proteins needed for reproduction of the structures."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Virus Structure diagram with labels Capsid and DNA"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

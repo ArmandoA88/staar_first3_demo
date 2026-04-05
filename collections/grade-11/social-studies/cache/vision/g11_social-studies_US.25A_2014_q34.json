@@ -1,0 +1,30 @@
+{
+  "stem": "How did the person named in this 1909 handbill work to improve the lives of African Americans?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "By organizing voter-registration drives for African Americans"
+    },
+    {
+      "label": "G",
+      "text": "By supporting the formation of labor unions by African American workers"
+    },
+    {
+      "label": "H",
+      "text": "By promoting vocational training for African Americans"
+    },
+    {
+      "label": "J",
+      "text": "By organizing boycotts of businesses that refused service to African Americans"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "handbill with NOTICE! BOOKER T. WASHINGTON and details of his tour of Virginian Railway stopping at various stations"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

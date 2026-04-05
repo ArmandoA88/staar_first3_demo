@@ -1,0 +1,31 @@
+{
+  "stem": "A shoe store manager ordered various sizes of running shoes. The dot plots show the sizes of women\u2019s shoes and men\u2019s shoes that the manager ordered. Each \u25cf represents 1 pair of running shoes.\n\nWhich statement is best supported by the information in the dot plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The distributions of the data for both the women\u2019s and the men\u2019s shoes are symmetric."
+    },
+    {
+      "label": "B",
+      "text": "The distribution of the data for the men\u2019s shoes is symmetric, but the distribution for the women\u2019s shoes is not."
+    },
+    {
+      "label": "C",
+      "text": "The distribution of the data for the women\u2019s shoes is symmetric, but the distribution for the men\u2019s shoes is not."
+    },
+    {
+      "label": "D",
+      "text": "The distribution of the data for neither the women\u2019s nor the men\u2019s shoes is symmetric."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Dot plot labeled Women\u2019s Shoes showing shoe sizes from 6 to 12.5 with dot clusters around 7.5 to 9.5",
+    "Dot plot labeled Men\u2019s Shoes showing shoe sizes from 6 to 12.5 with dot clusters around 9 to 11.5"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

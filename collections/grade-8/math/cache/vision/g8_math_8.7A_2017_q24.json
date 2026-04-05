@@ -1,0 +1,30 @@
+{
+  "stem": "A cone and its dimensions are shown in the diagram.\n\nWhich measurement is closest to the volume of the cone in cubic inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "186.38 in.\u00b3"
+    },
+    {
+      "label": "G",
+      "text": "248.50 in.\u00b3"
+    },
+    {
+      "label": "H",
+      "text": "745.51 in.\u00b3"
+    },
+    {
+      "label": "J",
+      "text": "62.13 in.\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cone diagram with height labeled as 7 1/2 in. and diameter labeled as 5 5/8 in."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

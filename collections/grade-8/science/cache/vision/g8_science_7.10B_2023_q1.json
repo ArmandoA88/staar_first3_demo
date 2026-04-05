@@ -1,0 +1,30 @@
+{
+  "stem": "Which table correctly compares features of divergent plate boundaries and convergent plate boundaries?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\nDivergent | Convergent\nType of Motion | Plates move away from each other | Plates move toward each other\nLandforms | Ridges and rifts | Trenches and mountains\nVolcanic Activity | Yes | Yes\n"
+    },
+    {
+      "label": "B",
+      "text": "\nDivergent | Convergent\nType of Motion | Plates move toward each other | Plates move away from each other\nLandforms | Ridges and rifts | Trenches and mountains\nVolcanic Activity | No | Yes\n"
+    },
+    {
+      "label": "C",
+      "text": "\nDivergent | Convergent\nType of Motion | Plates move away from each other | Plates move toward each other\nLandforms | Trenches and mountains | Ridges and rifts\nVolcanic Activity | No | No\n"
+    },
+    {
+      "label": "D",
+      "text": "\nDivergent | Convergent\nType of Motion | Plates move toward each other | Plates move away from each other\nLandforms | Trenches and mountains | Ridges and rifts\nVolcanic Activity | Yes | No\n"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, and D comparing divergent and convergent plate boundaries by Type of Motion, Landforms, and Volcanic Activity."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

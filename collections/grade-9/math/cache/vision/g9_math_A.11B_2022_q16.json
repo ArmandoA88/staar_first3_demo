@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to \\( \\frac{c^{8} (d^{6})^{3}}{c^{2}} \\) for all values of \\( c \\) for which the expression is defined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( c^{4} d^{9} \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( c^{4} d^{18} \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( c^{6} d^{9} \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( c^{6} d^{18} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "c^{8} (d^{6})^{3} / c^{2}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

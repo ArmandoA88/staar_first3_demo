@@ -1,0 +1,31 @@
+{
+  "stem": "What is the x-value of the solution to this system of equations?\n\nx = 2y - 4\n7x + 5y = -66",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-2"
+    },
+    {
+      "label": "G",
+      "text": "-\\frac{19}{7}"
+    },
+    {
+      "label": "H",
+      "text": "-8"
+    },
+    {
+      "label": "J",
+      "text": "-\\frac{62}{19}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "x = 2y - 4",
+    "7x + 5y = -66"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt, what did Ulysses S. Grant fear might happen after the assassination of President Lincoln?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The government would impose strict requirements on the Southern states."
+    },
+    {
+      "label": "B",
+      "text": "The Southern states would deny equal rights to those in the Northern states."
+    },
+    {
+      "label": "C",
+      "text": "The Southern states would be welcomed back into the Union."
+    },
+    {
+      "label": "D",
+      "text": "The government would favor the Southern states over the Northern states."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt from General Ulysses S. Grant\u2019s memoirs stating fears after President Lincoln's assassination about Southern people being repelled and made unwilling citizens due to Mr. Johnson's speeches against them."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

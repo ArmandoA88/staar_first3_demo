@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to \\( \\sqrt{147} \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3 \\( \\sqrt{7} \\)"
+    },
+    {
+      "label": "B",
+      "text": "7 \\( \\sqrt{3} \\)"
+    },
+    {
+      "label": "C",
+      "text": "21 \\( \\sqrt{7} \\)"
+    },
+    {
+      "label": "D",
+      "text": "49 \\( \\sqrt{3} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\sqrt{147} \\)",
+    "A 3 \\( \\sqrt{7} \\)",
+    "B 7 \\( \\sqrt{3} \\)",
+    "C 21 \\( \\sqrt{7} \\)",
+    "D 49 \\( \\sqrt{3} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

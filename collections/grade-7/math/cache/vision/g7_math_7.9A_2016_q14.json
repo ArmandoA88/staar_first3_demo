@@ -1,0 +1,30 @@
+{
+  "stem": "The dimensions of a triangular prism are shown in the diagram.\n\nWhat is the volume of the triangular prism in cubic centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "480 cm\u00b3"
+    },
+    {
+      "label": "G",
+      "text": "192 cm\u00b3"
+    },
+    {
+      "label": "H",
+      "text": "240 cm\u00b3"
+    },
+    {
+      "label": "J",
+      "text": "384 cm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangular prism diagram with dimensions: base = 6 cm, height of triangle = 4 cm, prism length = 16 cm, other side labeled 5 cm."
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

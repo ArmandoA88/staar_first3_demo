@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 40?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change *Occasionaly* to *Occasionally*"
+    },
+    {
+      "label": "G",
+      "text": "Delete the comma after *want*"
+    },
+    {
+      "label": "H",
+      "text": "Change *even better* to even more better"
+    },
+    {
+      "label": "J",
+      "text": "No change needs to be made."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

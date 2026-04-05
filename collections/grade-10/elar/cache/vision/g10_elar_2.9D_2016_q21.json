@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 30?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after Malala"
+    },
+    {
+      "label": "B",
+      "text": "Change amplified to amplified"
+    },
+    {
+      "label": "C",
+      "text": "Change global hero to Global Hero"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2016 \u2013 Q21 Passage #4"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

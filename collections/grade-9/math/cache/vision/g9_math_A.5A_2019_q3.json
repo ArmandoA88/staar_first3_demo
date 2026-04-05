@@ -1,0 +1,30 @@
+{
+  "stem": "Which value of x makes the equation 1.25(4x - 10) = 7.5 true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3.5"
+    },
+    {
+      "label": "B",
+      "text": "-1"
+    },
+    {
+      "label": "C",
+      "text": "-0.5"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: 1.25(4x - 10) = 7.5"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

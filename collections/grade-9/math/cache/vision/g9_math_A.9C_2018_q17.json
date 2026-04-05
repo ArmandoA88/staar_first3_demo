@@ -1,0 +1,28 @@
+{
+  "stem": "There are 1,024 players in a tennis tournament. In each round, half the players are eliminated. Which function can be used to find the number of players remaining in the tournament at the end of x rounds?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "f(x)=1,024(1.50)^x"
+    },
+    {
+      "label": "B",
+      "text": "f(x)=1,024(0.50)^x"
+    },
+    {
+      "label": "C",
+      "text": "f(x)=1,024(1.05)^x"
+    },
+    {
+      "label": "D",
+      "text": "f(x)=1,024(0.05)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

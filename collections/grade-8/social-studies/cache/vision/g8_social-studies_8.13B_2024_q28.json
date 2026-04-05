@@ -1,0 +1,34 @@
+{
+  "stem": "What was one effect of the trend shown on this graph on the U.S. economy?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It created widespread unemployment."
+    },
+    {
+      "label": "B",
+      "text": "It increased the prices of imported goods."
+    },
+    {
+      "label": "C",
+      "text": "It slowed westward expansion and growth."
+    },
+    {
+      "label": "D",
+      "text": "It provided a large labor force for manufacturing."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This graph shows immigration to the United States in the mid-nineteenth century.",
+    "Immigration to the United States, 1820-1850",
+    "Number of Immigrants (thousands)",
+    "Year",
+    "Source: U.S. Senate"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

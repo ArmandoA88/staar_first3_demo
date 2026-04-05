@@ -1,0 +1,28 @@
+{
+  "stem": "A student is ordering a flower arrangement. She can choose any combination of roses and carnations for her flower arrangement, and she does not want to spend more than $30.\n\nIf roses cost $3 each and carnations cost $2 each, which inequality represents all possible combinations of x roses and y carnations?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3x + 2y < 30"
+    },
+    {
+      "label": "B",
+      "text": "3x + 2y \u2264 30"
+    },
+    {
+      "label": "C",
+      "text": "2x + 3y > 30"
+    },
+    {
+      "label": "D",
+      "text": "2x + 3y \u2264 30"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

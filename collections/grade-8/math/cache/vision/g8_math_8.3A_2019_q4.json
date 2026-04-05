@@ -1,0 +1,30 @@
+{
+  "stem": "Figure I and Figure II are similar figures.\n\nFigure I\n\n[hexagon labeled with vertices R, S, T, U, V, W]\n\nFigure II\n\n[hexagon labeled with vertices A, B, C, D, E, F]\n\nWhich proportion must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{RS}{AB} = \\frac{TU}{CD}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{TU}{AB} = \\frac{UV}{AF}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{ST}{EF} = \\frac{WR}{CD}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{WV}{AB} = \\frac{ST}{EF}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two hexagons labeled with vertices and marked angles indicating similarity"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the food web, which types of organisms would the grasshopper mouse most likely compete with for food sources?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Producers and carnivores"
+    },
+    {
+      "label": "B",
+      "text": "Producers and decomposers"
+    },
+    {
+      "label": "C",
+      "text": "Herbivores and carnivores"
+    },
+    {
+      "label": "D",
+      "text": "Herbivores and decomposers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Food web showing arrows between: Red-tailed hawk, Grasshopper mouse, Elf owl, Collared lizard, Wood rat, Pallid-winged grasshopper, Prickly pear cactus, Brittlebrush."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

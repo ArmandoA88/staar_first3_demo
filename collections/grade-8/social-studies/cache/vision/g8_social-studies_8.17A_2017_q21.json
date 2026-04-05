@@ -1,0 +1,30 @@
+{
+  "stem": "What assurance did this argument give to those who opposed ratifying the Constitution?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The amendment process would allow state governments to nullify federal law."
+    },
+    {
+      "label": "B",
+      "text": "Making the federal government superior to state governments would ensure greater stability."
+    },
+    {
+      "label": "C",
+      "text": "The rights of citizens would be better protected by having both federal and state levels of government."
+    },
+    {
+      "label": "D",
+      "text": "Giving greater power to the federal government would allow it to assist states in times of crisis."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In the . . . republic of America, the power surrendered by the people is first divided between two distinct governments, and then the portion allotted to each subdivided among distinct and separate departments. Hence a double security arises to the rights of the people. The different governments will control each other, at the same time that each will be controlled by itself. \u2014Federalist No. 51"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

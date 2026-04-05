@@ -1,0 +1,30 @@
+{
+  "stem": "Which table contains only corresponding x-values and y-values where the value of y is 3 more than the quotient of x and 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x | y\n7 | 5\n10 | 6.5\n14 | 8.5\n17 | 10"
+    },
+    {
+      "label": "H",
+      "text": "x | y\n7 | 3.5\n10 | 5\n14 | 7\n17 | 8.5"
+    },
+    {
+      "label": "G",
+      "text": "x | y\n7 | 6.5\n10 | 8\n14 | 10\n17 | 11.5"
+    },
+    {
+      "label": "J",
+      "text": "x | y\n7 | 0.5\n10 | 2\n14 | 4\n17 | 5.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4 tables each with columns x and y showing different values."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

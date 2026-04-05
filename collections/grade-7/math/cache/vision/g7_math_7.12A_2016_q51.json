@@ -1,0 +1,31 @@
+{
+  "stem": "The number of pets per household for Mrs. Anderson's class and Mrs. Murphy's class are shown in the dot plots. Here are three statements about the number of pets per household for these two classes. I. The range of the number of pets per household for Mrs. Murphy's class is greater than the range of the number of pets per household for Mrs. Anderson's class. II. The distribution of the data is approximately symmetrical in both sets of data. III. The mode of the number of pets per household for Mrs. Anderson's class is equal to the mode of the number of pets per household for Mrs. Murphy's class. Which of these three statements appear to be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I only"
+    },
+    {
+      "label": "B",
+      "text": "I and III"
+    },
+    {
+      "label": "C",
+      "text": "II and III"
+    },
+    {
+      "label": "D",
+      "text": "III only"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Dot plot for Mrs. Anderson's Class with number of pets per household from 0 to 8 where most dots cluster between 0 to 4",
+    "Dot plot for Mrs. Murphy's Class with number of pets per household from 0 to 8 where most dots cluster between 1 to 5"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Problem involves comparing dot plots for range, symmetry, and mode."
+}

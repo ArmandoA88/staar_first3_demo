@@ -1,0 +1,30 @@
+{
+  "stem": "A classroom is arranged with 8 seats in the front row, 10 seats in the middle row, and 12 seats in the back row. The teacher randomly assigns seats to students as they enter the classroom.\n\nWhat is the probability that the first student who enters the classroom will be assigned a seat in the front row?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{2}{5} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{2}{3} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{4}{11} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{4}{15} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction expressions for answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

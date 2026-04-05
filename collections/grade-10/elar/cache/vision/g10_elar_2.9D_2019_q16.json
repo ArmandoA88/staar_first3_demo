@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 11?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete since"
+    },
+    {
+      "label": "G",
+      "text": "Change accustomed to acustomed"
+    },
+    {
+      "label": "H",
+      "text": "Change to trying to to try"
+    },
+    {
+      "label": "J",
+      "text": "No change is needed in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

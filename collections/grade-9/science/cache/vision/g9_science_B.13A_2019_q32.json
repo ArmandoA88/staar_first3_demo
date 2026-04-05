@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the two diagrams, which list correctly identifies the relationships Glyptapanteles wasp larvae have with other organisms?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Competition: stinkbugs\nParasitism: geometrid moths"
+    },
+    {
+      "label": "G",
+      "text": "Competition: geometrid moths\nCommensalism: stinkbugs\nMutualism: guava and eucalyptus trees"
+    },
+    {
+      "label": "H",
+      "text": "Competition: stinkbugs and geometrid moths\nCommensalism: guava and eucalyptus trees"
+    },
+    {
+      "label": "J",
+      "text": "Parasitism: geometrid moths\nCommensalism: stinkbugs\nMutualism: guava and eucalyptus trees"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Partial Food Web diagram showing arrows:\nGuava fruit -> Geometrid moth caterpillars\nEucalyptus leaves -> Geometrid moth caterpillars\nGeometrid moth caterpillars -> Glyptapanteles wasp larvae\nGeometrid moth caterpillars -> Stinkbug"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": "The problem explicitly asks which list identifies relationships based on the diagrams shown."
+}

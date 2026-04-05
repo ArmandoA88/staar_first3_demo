@@ -1,0 +1,35 @@
+{
+  "stem": "What change should be made in sentence 12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after guidebook"
+    },
+    {
+      "label": "B",
+      "text": "Change informed to informing"
+    },
+    {
+      "label": "C",
+      "text": "Delete the colon after composed of"
+    },
+    {
+      "label": "D",
+      "text": "Change shells to shell"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q46 Passage #6",
+    "What change should be made in sentence 12?",
+    "(A) Insert a comma after guidebook",
+    "(B) Change informed to informing",
+    "(C) Delete the colon after composed of",
+    "(D) Change shells to shell"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

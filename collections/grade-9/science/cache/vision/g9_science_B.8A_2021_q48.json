@@ -1,0 +1,30 @@
+{
+  "stem": "A cellular process is shown.\n\nWhich statement best describes the significance of this process?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The process allows organisms to grow and heal."
+    },
+    {
+      "label": "G",
+      "text": "The process produces clones of the parent organism."
+    },
+    {
+      "label": "H",
+      "text": "The process copies DNA before cell division."
+    },
+    {
+      "label": "J",
+      "text": "The process creates genetic variation in the resulting cells."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of chromosomes showing a process of crossing over or recombination"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

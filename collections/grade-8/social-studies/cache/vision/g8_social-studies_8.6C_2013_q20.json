@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these best completes the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "California"
+    },
+    {
+      "label": "G",
+      "text": "Nevada"
+    },
+    {
+      "label": "H",
+      "text": "Texas"
+    },
+    {
+      "label": "J",
+      "text": "Florida"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with three boxes connected by arrows: 1. 'U.S. annexation of ?' 2. 'Border disputes between the United States and Mexico' 3. 'U.S.-Mexican War'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

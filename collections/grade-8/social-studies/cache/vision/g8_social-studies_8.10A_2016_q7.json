@@ -1,0 +1,30 @@
+{
+  "stem": "Which shaded state was the main destination of American Indians forced to relocate as part of the Trail of Tears?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Washington"
+    },
+    {
+      "label": "B",
+      "text": "California"
+    },
+    {
+      "label": "C",
+      "text": "Oklahoma"
+    },
+    {
+      "label": "D",
+      "text": "Texas"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four maps of western United States with one state shaded per map: A (Washington), B (California), C (Oklahoma), D (Texas)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

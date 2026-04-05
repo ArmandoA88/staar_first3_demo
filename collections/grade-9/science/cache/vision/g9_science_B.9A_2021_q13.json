@@ -1,0 +1,30 @@
+{
+  "stem": "A cladogram of five species is shown.\n\nBased on the cladogram, the ancestral species most likely had \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "a vertebral column"
+    },
+    {
+      "label": "B",
+      "text": "a vertebral column and hair"
+    },
+    {
+      "label": "C",
+      "text": "sharp teeth and retractable claws"
+    },
+    {
+      "label": "D",
+      "text": "the ability to purr"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cladogram with Turtle, Horse, Wolf, Tiger, House cat\nVertebral column, Four limbs, Hair, Sharp teeth, Retractable claws, Ability to purr"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

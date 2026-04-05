@@ -1,0 +1,28 @@
+{
+  "stem": "An isosceles triangle has base angles that each measure 42\u00b0. Which equation can be used to find z, the measure of the third angle of this isosceles triangle in degrees?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "84 + 2z = 180"
+    },
+    {
+      "label": "B",
+      "text": "84 + z = 180"
+    },
+    {
+      "label": "C",
+      "text": "42 + 2z = 180"
+    },
+    {
+      "label": "D",
+      "text": "42 + z = 180"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

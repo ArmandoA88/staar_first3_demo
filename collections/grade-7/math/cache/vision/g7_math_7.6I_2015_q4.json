@@ -1,0 +1,28 @@
+{
+  "stem": "Mildred has a bag of coins. The bag contains 10 dimes, 5 nickels, and 1 penny. She will randomly select 2 coins from the bag one at a time without replacement. What is the probability that Mildred will select a dime first and then a penny?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{83}{120}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{11}{16}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{5}{128}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{1}{24}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

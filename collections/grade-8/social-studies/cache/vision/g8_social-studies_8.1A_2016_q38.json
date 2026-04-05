@@ -1,0 +1,32 @@
+{
+  "stem": "A historian is writing an article for a history website. The article is divided into the following topics:\n\n\u2022 The division of the South into military districts\n\u2022 The impeachment of the president\n\u2022 The ratification of the Fourteenth and Fifteenth Amendments\n\nWhich era in U.S. history is the focus of this article?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Jacksonian era"
+    },
+    {
+      "label": "G",
+      "text": "The antebellum era"
+    },
+    {
+      "label": "H",
+      "text": "The Federalist era"
+    },
+    {
+      "label": "J",
+      "text": "The Reconstruction era"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The division of the South into military districts",
+    "The impeachment of the president",
+    "The ratification of the Fourteenth and Fifteenth Amendments"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

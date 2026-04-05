@@ -1,0 +1,30 @@
+{
+  "stem": "Which action completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Submarines attacked unarmed ships."
+    },
+    {
+      "label": "B",
+      "text": "Armored tanks crossed fortified lines."
+    },
+    {
+      "label": "C",
+      "text": "The use of machine guns resulted in massive casualties."
+    },
+    {
+      "label": "D",
+      "text": "Airplanes conducted reconnaissance missions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with three boxes: One box labeled \"Soldiers dug trenches.\" pointing to \"A stalemate developed along the western front.\" Another box labeled \"?\" pointing to \"A stalemate developed along the western front.\""
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

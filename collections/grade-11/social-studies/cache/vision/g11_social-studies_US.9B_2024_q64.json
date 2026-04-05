@@ -1,0 +1,30 @@
+{
+  "stem": "Which action did the Ku Klux Klan MOST commonly use?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They used violence to intimidate voters from participating in elections."
+    },
+    {
+      "label": "B",
+      "text": "They used legal means to file lawsuits to discriminate against religious groups."
+    },
+    {
+      "label": "C",
+      "text": "They used petitions to influence school authorities to segregate educational facilities."
+    },
+    {
+      "label": "D",
+      "text": "They used local ordinances to prohibit immigration from undesirable countries."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "multiple choice answer bubbles labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

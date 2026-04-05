@@ -1,0 +1,30 @@
+{
+  "stem": "A bowling alley charges $6.50 per game played and $4.00 for shoe rental. Which table shows the cost, c, of renting shoes and playing g games of bowling?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Bowling Cost\nGames, g | Cost, c (dollars)\n1 | 10.50\n3 | 18.50\n5 | 26.50"
+    },
+    {
+      "label": "B",
+      "text": "Bowling Cost\nGames, g | Cost, c (dollars)\n1 | 10.50\n3 | 23.50\n5 | 36.50"
+    },
+    {
+      "label": "C",
+      "text": "Bowling Cost\nGames, g | Cost, c (dollars)\n1 | 6.50\n3 | 10.50\n5 | 14.50"
+    },
+    {
+      "label": "D",
+      "text": "Bowling Cost\nGames, g | Cost, c (dollars)\n1 | 6.50\n3 | 19.50\n5 | 32.50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, D showing games (g) and cost (c) in dollars for values 1, 3, and 5 games"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

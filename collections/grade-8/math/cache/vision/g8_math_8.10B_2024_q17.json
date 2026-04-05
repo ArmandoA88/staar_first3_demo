@@ -1,0 +1,26 @@
+{
+  "stem": "A figure on the coordinate plane is transformed to create a new figure.\n\nDetermine whether each transformation preserves or does not preserve congruence.\n\nSelect the correct answer in each row.",
+  "instruction": null,
+  "options": [
+    {
+      "label": "Preserves Congruence",
+      "text": ""
+    },
+    {
+      "label": "Does Not Preserve Congruence",
+      "text": ""
+    }
+  ],
+  "choice_pool": [
+    "A reflection across the y-axis",
+    "A rotation of 180\u00b0 counterclockwise with the origin as the center of rotation",
+    "A dilation by a scale factor of 0.5 with the origin as the center of dilation"
+  ],
+  "response_template": "[blank_1] [blank_2]",
+  "visual_elements": [
+    "Table with 3 rows and 2 answer columns"
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 0.98,
+  "notes": null
+}

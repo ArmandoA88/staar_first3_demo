@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to \\((xy^{-6})^2\\) for all values of \\(x\\) and \\(y\\) where the expression is defined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "xy^{36}"
+    },
+    {
+      "label": "G",
+      "text": "x y^{36}"
+    },
+    {
+      "label": "H",
+      "text": "x^{2} y^{-12}"
+    },
+    {
+      "label": "J",
+      "text": "x^{2} y^{12}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(xy^{-6})^{2}",
+    "xy^{36}",
+    "x y^{36}",
+    "x^{2} y^{-12}",
+    "x^{2} y^{12}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

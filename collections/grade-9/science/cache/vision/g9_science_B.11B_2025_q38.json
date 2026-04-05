@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement describes what will most likely happen during Step 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The substrates will bind together to form a product, and the enzyme will be unchanged."
+    },
+    {
+      "label": "B",
+      "text": "The substrates will bind together to form a product, and the enzyme will be denatured."
+    },
+    {
+      "label": "C",
+      "text": "The enzymes and substrates will all bind together to form one product."
+    },
+    {
+      "label": "D",
+      "text": "The enzyme will become the product and both substrates will be released."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The diagram illustrates a biological process.\nStep 1: Two substrate pieces approach the enzyme.\nStep 2: Substrates fit into the enzyme active site.\nStep 3: Substrates are bound tightly in the active site of the enzyme.\nStep 4: ?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

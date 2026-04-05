@@ -1,0 +1,30 @@
+{
+  "stem": "An exponential function is graphed on the grid.\n\nWhich function is best represented by the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "p(x) = (0.25)^x"
+    },
+    {
+      "label": "B",
+      "text": "p(x) = 2(0.5)^x"
+    },
+    {
+      "label": "C",
+      "text": "p(x) = (1.25)^x"
+    },
+    {
+      "label": "D",
+      "text": "p(x) = (25)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with x-axis labeled from -4 to 4 and y-axis from -1 to 17 showing a decreasing exponential curve starting near y=16 at x=-4, rapidly decreasing toward y=0 as x increases to 4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

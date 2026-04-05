@@ -1,0 +1,30 @@
+{
+  "stem": "A grocery store manager randomly surveyed 100 customers about their favorite vegetable. The results are displayed in the table.\n\nFavorite Vegetable\n\nVegetable | Frequency\nPotatoes | 24\nBroccoli | 16\nCorn     | 36\nGreen beans | 24\n\nIf the manager surveys another 50 customers, which prediction is supported by the information in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Customers will choose broccoli \\(\\frac{1}{4}\\) of the time."
+    },
+    {
+      "label": "B",
+      "text": "Customers will choose corn 1\\frac{1}{2} times as often as green beans."
+    },
+    {
+      "label": "C",
+      "text": "The number of customers who choose potatoes will be 8 times the number who choose broccoli."
+    },
+    {
+      "label": "D",
+      "text": "The number of customers who choose corn will be 6 less than the number who choose potatoes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Favorite Vegetable Table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

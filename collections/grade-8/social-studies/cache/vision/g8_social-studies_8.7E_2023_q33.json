@@ -1,0 +1,33 @@
+{
+  "stem": "Which statement correctly matches a historical event with one of its immediate results?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Nullification Crisis led to South Carolina seceding from the United States over slavery."
+    },
+    {
+      "label": "B",
+      "text": "The Missouri Compromise led to Missouri being admitted to the union as a free state."
+    },
+    {
+      "label": "C",
+      "text": "The Kansas-Nebraska Act led to Kansas being allowed to decide whether it would permit slavery."
+    },
+    {
+      "label": "D",
+      "text": "The Compromise of 1850 led to California being admitted to the union as a slave state."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Nullification Crisis led to South Carolina seceding from the United States over slavery.",
+    "The Missouri Compromise led to Missouri being admitted to the union as a free state.",
+    "The Kansas-Nebraska Act led to Kansas being allowed to decide whether it would permit slavery.",
+    "The Compromise of 1850 led to California being admitted to the union as a slave state."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

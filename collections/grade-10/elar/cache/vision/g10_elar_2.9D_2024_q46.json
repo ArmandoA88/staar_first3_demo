@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 24?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *after* to **there was**"
+    },
+    {
+      "label": "B",
+      "text": "Change *rigirous* to **rigorous**"
+    },
+    {
+      "label": "C",
+      "text": "Change the comma after *program* to a colon"
+    },
+    {
+      "label": "D",
+      "text": "Change *opened* to **opens**"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

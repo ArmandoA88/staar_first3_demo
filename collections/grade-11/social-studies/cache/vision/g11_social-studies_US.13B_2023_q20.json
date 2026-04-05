@@ -1,0 +1,35 @@
+{
+  "stem": "Based on this table and your knowledge of U.S. history, which conclusion could be made about U.S. immigration between 1960 and 2000?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "International trade agreements banned migration from certain regions."
+    },
+    {
+      "label": "B",
+      "text": "Military conflicts prevented migration from certain regions."
+    },
+    {
+      "label": "C",
+      "text": "Immigration law changes allowed more migration from certain regions."
+    },
+    {
+      "label": "D",
+      "text": "Changes in climate influenced migration from certain regions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This table shows the country of origin for immigrants in 1960 and 2000.",
+    "U.S. Immigrant Population Origins, 1960 and 2000",
+    "Country of Origin: China, 1960: 99,735, 2000: 988,857",
+    "Country of Origin: Italy, 1960: 1,256,999, 2000: 473,338",
+    "Country of Origin: Mexico, 1960: 575,902, 2000: 9,177,487",
+    "Source: U.S. Census Bureau"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shows the height in feet of an object above the ground t seconds after it was launched from the ground.\n\nWhich function is best represented by the graph of this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "h(t) = -16t^2 - 64t"
+    },
+    {
+      "label": "B",
+      "text": "h(t) = -16t^2 + 128t - 256"
+    },
+    {
+      "label": "C",
+      "text": "h(t) = -16t^2 + 64t"
+    },
+    {
+      "label": "D",
+      "text": "h(t) = -16t^2 - 128t - 256"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Launched Object' with y-axis labeled 'Height Above Ground (ft)' ranging from 0 to 64 and x-axis labeled 'Time (s)' ranging from 0 to 4. The graph shows a parabola starting at (0,0), peaking near (2,64), and returning to the x-axis near (4,0)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

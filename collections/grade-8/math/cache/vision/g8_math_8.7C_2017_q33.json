@@ -1,0 +1,30 @@
+{
+  "stem": "A right triangle and two of its side lengths are shown in the diagram. Which measurement is closest to the value of x in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "37.1 cm"
+    },
+    {
+      "label": "B",
+      "text": "40.8 cm"
+    },
+    {
+      "label": "C",
+      "text": "27 cm"
+    },
+    {
+      "label": "D",
+      "text": "51 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A right triangle with one leg labeled 12 cm, hypotenuse labeled 39 cm, and the other leg labeled x cm."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

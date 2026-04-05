@@ -1,0 +1,30 @@
+{
+  "stem": "Which table contains only values that satisfy the equation y = 0.5x + 14?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x | y\n0 | 0\n5 | 35\n10 | 70\n15 | 105\n20 | 140"
+    },
+    {
+      "label": "B",
+      "text": "x | y\n0 | 14\n5 | 39\n10 | 64\n15 | 89\n20 | 114"
+    },
+    {
+      "label": "C",
+      "text": "x | y\n0 | 14\n5 | 16.5\n10 | 19\n15 | 21.5\n20 | 24"
+    },
+    {
+      "label": "D",
+      "text": "x | y\n0 | 14\n5 | 14.5\n10 | 15\n15 | 15.5\n20 | 16"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, D. Each table has columns x and y with different number pairs."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

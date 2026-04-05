@@ -1,0 +1,30 @@
+{
+  "stem": "President Roosevelt issued this statement in response to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the construction of a canal in Panama"
+    },
+    {
+      "label": "B",
+      "text": "the threat of European intervention in Latin America"
+    },
+    {
+      "label": "C",
+      "text": "Spanish efforts to suppress a rebellion in Cuba"
+    },
+    {
+      "label": "D",
+      "text": "public outcry regarding war between Russia and Japan"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Chronic wrongdoing, . . . which results in a general loosening of the ties of civilized society, may in America, as elsewhere, ultimately require intervention by some civilized nation, and in the Western Hemisphere the adherence of the United States to the Monroe Doctrine may force the United States, however reluctantly, in flagrant cases of such wrongdoing . . . to the exercise of an international police power.  \u2014President Theodore Roosevelt, 1904"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle \\( QRS \\) and its dimensions are shown.\n\nWhich measurements in centimeters represent the dimensions of a triangle that is similar to triangle \\( QRS \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8 cm, 14 cm, 17 cm"
+    },
+    {
+      "label": "B",
+      "text": "10 cm, 20 cm, 25 cm"
+    },
+    {
+      "label": "C",
+      "text": "4 cm, 10 cm, 13 cm"
+    },
+    {
+      "label": "D",
+      "text": "12 cm, 24 cm, 36 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle QRS with sides labeled 6 cm (QS), 12 cm (SR), and 15 cm (QR)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

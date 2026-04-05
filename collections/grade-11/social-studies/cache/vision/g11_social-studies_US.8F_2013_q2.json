@@ -1,0 +1,30 @@
+{
+  "stem": "The demonstration described in this article was most likely prompted by \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "renewed diplomatic relations with communist China"
+    },
+    {
+      "label": "G",
+      "text": "escalated deployment of military forces to Vietnam"
+    },
+    {
+      "label": "H",
+      "text": "the signing of the Strategic Arms Limitation Treaty"
+    },
+    {
+      "label": "J",
+      "text": "the formation of the North Atlantic Treaty Organization"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The participants in this week's antidraft demonstration . . . are . . . students or young men . . . who are working within a coalition . . . which calls itself the Stop the Draft Week Committee. . . . \u2014Douglas Robinson, New York Times, December 6, 1967"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

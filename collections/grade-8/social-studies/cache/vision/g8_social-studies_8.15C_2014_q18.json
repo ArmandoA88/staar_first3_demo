@@ -1,0 +1,30 @@
+{
+  "stem": "Which provision of the U.S. Constitution reflects this grievance?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The president can appoint justices with the advice and consent of the Senate."
+    },
+    {
+      "label": "G",
+      "text": "Congress has the power to establish federal courts."
+    },
+    {
+      "label": "H",
+      "text": "The commerce clause allows Congress to regulate trade among the states."
+    },
+    {
+      "label": "J",
+      "text": "Congress can override a presidential veto with a two-thirds majority vote in both houses."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "He has refused his Assent to Laws, the most wholesome and necessary for the public good.  \u2014Declaration of Independence, 1776"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "The quadratic function f(x) = x\u00b2 with vertex (0, 0) has been transformed to create g(x) = f(x + 8.7). What is the vertex of g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(0, 8.7)"
+    },
+    {
+      "label": "B",
+      "text": "(0, -8.7)"
+    },
+    {
+      "label": "C",
+      "text": "(8.7, 0)"
+    },
+    {
+      "label": "D",
+      "text": "(-8.7, 0)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to \\(\\left(\\frac{3}{2}p + 1\\right)\\left(\\frac{1}{2}p + 3\\right)\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2p^{2} + 3"
+    },
+    {
+      "label": "B",
+      "text": "4p^{2} + 3"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{3}{4}p^{2} + 5p + 3"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{3}{4}p^{2} + 10p + 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\left(\\frac{3}{2}p + 1\\right)\\left(\\frac{1}{2}p + 3\\right)",
+    "2p^{2} + 3",
+    "4p^{2} + 3",
+    "\\frac{3}{4}p^{2} + 5p + 3",
+    "\\frac{3}{4}p^{2} + 10p + 3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

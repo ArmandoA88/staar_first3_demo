@@ -1,0 +1,28 @@
+{
+  "stem": "A customer paid a total of $6.00 for 68 copies at a print shop. Some of the copies were black-and-white copies, and the rest were color copies.\n\n\u2022 Each black-and-white copy cost $0.08.\n\u2022 Each color copy cost $0.15.\n\nWhich system of equations can be used to find b, the number of black-and-white copies, and c, the number of color copies that the customer paid for at the print shop?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "b + c = 6.00\n0.08b + 0.15c = 68"
+    },
+    {
+      "label": "B",
+      "text": "b + c = 68\n0.15b + 0.08c = 6.00"
+    },
+    {
+      "label": "C",
+      "text": "b + c = 6.00\n0.15b + 0.08c = 68"
+    },
+    {
+      "label": "D",
+      "text": "b + c = 68\n0.08b + 0.15c = 6.00"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "The total cost for a company to make a product includes fixed costs of $3,050 plus $15.25 per product. Which function can be used to find c, the total cost in dollars to make p products?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "c = 200p + 3,050"
+    },
+    {
+      "label": "B",
+      "text": "c = 15.25p + 200"
+    },
+    {
+      "label": "C",
+      "text": "c = 3,050p + 15.25"
+    },
+    {
+      "label": "D",
+      "text": "c = 15.25p + 3,050"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

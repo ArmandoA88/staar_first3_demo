@@ -1,0 +1,28 @@
+{
+  "stem": "A sports magazine prints 12 issues per year, and a technology magazine prints 10 issues per year. The total number of pages in all the issues of the sports magazine for one year is 32 more than the total number of pages in all the issues of the technology magazine for one year. Each issue of the sports magazine has 18 fewer pages than each issue of the technology magazine. Which system of equations can be used to find s, the number of pages in each issue of the sports magazine, and t, the number of pages in each issue of the technology magazine?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "s = t - 18\n12s = 10t + 32"
+    },
+    {
+      "label": "B",
+      "text": "t = s - 18\n10t = 12s + 32"
+    },
+    {
+      "label": "C",
+      "text": "s = t - 18\n10s = 12t + 32"
+    },
+    {
+      "label": "D",
+      "text": "t = s - 18\n12t = 10s + 32"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

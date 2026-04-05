@@ -1,0 +1,31 @@
+{
+  "stem": "How was the event depicted in this image significant to the Civil War?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Confederate defense of the besieged fort lengthened the war."
+    },
+    {
+      "label": "B",
+      "text": "The Union victory divided the Confederacy along the Mississippi River."
+    },
+    {
+      "label": "C",
+      "text": "The invasion of the Confederate capital resulted in the surrender of the Confederacy."
+    },
+    {
+      "label": "D",
+      "text": "The Confederate attack upon the Union fort initiated the war."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bombardment of Fort Sumter",
+    "black and white image showing cannons firing with soldiers around them and thick smoke"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

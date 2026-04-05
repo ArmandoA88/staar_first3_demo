@@ -1,0 +1,31 @@
+{
+  "stem": "Waldo and Freddy caught fish one weekend. The dot plots show the lengths of the fish they caught.\n\nWhich statement about the lengths of the fish caught by Waldo and Freddy appears to be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The data for Waldo's fish and the data for Freddy's fish are skewed to the right."
+    },
+    {
+      "label": "B",
+      "text": "The median length of the fish caught by Waldo is greater than the median length of the fish caught by Freddy."
+    },
+    {
+      "label": "C",
+      "text": "The range of the length of the fish caught by Freddy is greater than the range of the length of the fish caught by Waldo."
+    },
+    {
+      "label": "D",
+      "text": "The data for Waldo's fish and the data for Freddy's fish are approximately symmetrical."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Length of Waldo\u2019s Fish dot plot",
+    "Length of Freddy\u2019s Fish dot plot"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

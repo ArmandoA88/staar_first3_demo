@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following was the primary reason for the trends in public confidence from 1973 to 1976?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The normalization of relations with China"
+    },
+    {
+      "label": "B",
+      "text": "The explosion aboard Apollo 13"
+    },
+    {
+      "label": "C",
+      "text": "The Watergate scandal"
+    },
+    {
+      "label": "D",
+      "text": "The nuclear-power accident at Three Mile Island"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Line graph titled 'Trends in Confidence in Government, 1973\u20131983' with lines for 'Executive Office' and 'Congress' showing percentage of responses indicating a 'Great Deal of Confidence' from 0% to 40% over years 1973 to 1983."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Question references public confidence trend data; answer options relate to historical events within given timeframe."
+}

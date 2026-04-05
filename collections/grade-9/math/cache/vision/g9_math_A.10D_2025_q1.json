@@ -1,0 +1,28 @@
+{
+  "stem": "Which expression is equivalent to 1.5(4j - 10k) - 2.5(8j + 6k)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "- 12j + 4k"
+    },
+    {
+      "label": "B",
+      "text": "- 26j"
+    },
+    {
+      "label": "C",
+      "text": "- 14j - 30k"
+    },
+    {
+      "label": "D",
+      "text": "- 14j"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

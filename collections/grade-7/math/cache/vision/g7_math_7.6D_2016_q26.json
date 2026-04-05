@@ -1,0 +1,28 @@
+{
+  "stem": "A bag contains:\n\n\u2022 5 red marbles\n\u2022 6 blue marbles\n\u2022 3 green marbles\n\u2022 4 black marbles\n\u2022 2 yellow marbles\n\nA marble will be drawn from the bag and replaced 100 times. What is a reasonable prediction for the number of times a green or black marble will be drawn?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "14"
+    },
+    {
+      "label": "G",
+      "text": "65"
+    },
+    {
+      "label": "H",
+      "text": "7"
+    },
+    {
+      "label": "J",
+      "text": "35"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

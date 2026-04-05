@@ -1,0 +1,30 @@
+{
+  "stem": "The net of a rectangular prism and its dimensions are shown in the diagram.\n\nWhat is the total surface area of the rectangular prism in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "143.25 in.\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "241.5 in.\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "258.75 in.\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "286.5 in.\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a net of a rectangular prism with dimensions labeled: height sides 7.5 in., lengths 11.5 in., widths 3 in."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

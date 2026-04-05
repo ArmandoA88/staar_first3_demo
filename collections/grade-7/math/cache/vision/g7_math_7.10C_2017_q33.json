@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation can be represented by this inequality?\n\n1.25x - 6.50 > 50",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Stefan spends $6.50 on supplies for a lemonade stand and sells each cup of lemonade for $1.25. What is x, the number of cups of lemonade Stefan must sell to earn a profit of more than $50?"
+    },
+    {
+      "label": "B",
+      "text": "Stefan has a balance of $6.50 in his savings account and deposits $1.25 each week. What is x, the number of weeks Stefan must deposit $1.25 in order to have a balance of more than $50 in his savings account?"
+    },
+    {
+      "label": "C",
+      "text": "Stefan earns 1.25% interest on the balance in his checking account and has to pay a monthly charge of $6.50. What is x, the balance that Stefan must have in his checking account in order to have an ending balance greater than $50 after interest and fees?"
+    },
+    {
+      "label": "D",
+      "text": "Stefan charges $1.25 for gasoline plus $6.50 per hour for mowing lawns. What is x, the number of hours he has to mow lawns to earn more than $50?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Inequality: 1.25x - 6.50 > 50"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "A store manager receives a delivery of 2 boxes of lightbulbs. Each box contains 25 lightbulbs. The store manager tests all the lightbulbs and finds that 2 of them are defective. Based on these results, what can the store manager predict about the next delivery of lightbulbs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "A delivery of 3 boxes will contain 3 more defective lightbulbs than a delivery of 2 boxes."
+    },
+    {
+      "label": "G",
+      "text": "A delivery of 4 boxes will contain 2 more defective lightbulbs than a delivery of 2 boxes."
+    },
+    {
+      "label": "H",
+      "text": "A delivery of 5 boxes will contain 10 more defective lightbulbs than a delivery of 2 boxes."
+    },
+    {
+      "label": "J",
+      "text": "A delivery of 6 boxes will contain 3 more defective lightbulbs than a delivery of 2 boxes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

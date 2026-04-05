@@ -1,0 +1,28 @@
+{
+  "stem": "Which action was a goal of President Barack Obama\u2019s administration?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Introducing reforms to health care insurance"
+    },
+    {
+      "label": "G",
+      "text": "Easing restrictions for gun ownership"
+    },
+    {
+      "label": "H",
+      "text": "Reducing regulations for offshore drilling"
+    },
+    {
+      "label": "J",
+      "text": "Requiring women to register for the draft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

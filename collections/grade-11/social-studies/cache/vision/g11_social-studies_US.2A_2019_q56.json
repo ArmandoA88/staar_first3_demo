@@ -1,0 +1,30 @@
+{
+  "stem": "Which era is most associated with the type of event shown in this photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Roaring Twenties"
+    },
+    {
+      "label": "G",
+      "text": "The Cold War"
+    },
+    {
+      "label": "H",
+      "text": "The Great Depression"
+    },
+    {
+      "label": "J",
+      "text": "The Industrial Revolution"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photograph of a large mushroom cloud from an atomic explosion"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

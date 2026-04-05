@@ -1,0 +1,33 @@
+{
+  "stem": "Which of the following best completes this graphic organizer?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Increase in consumer spending"
+    },
+    {
+      "label": "B",
+      "text": "Overspeculation in the stock market"
+    },
+    {
+      "label": "C",
+      "text": "Decrease in military spending"
+    },
+    {
+      "label": "D",
+      "text": "Government subsidization of agriculture"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Decline in worldwide trade",
+    "?",
+    "Bank failures",
+    "Great Depression"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "The image shows a graphic organizer missing a cause of the Great Depression represented by a question mark."
+}

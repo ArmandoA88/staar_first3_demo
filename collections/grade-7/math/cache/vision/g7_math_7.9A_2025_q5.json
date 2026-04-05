@@ -1,0 +1,30 @@
+{
+  "stem": "A chocolate bar in the shape of a triangular prism is shown with its dimensions in centimeters.\n\nWhat is the volume of the chocolate bar in cubic centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1,300 cm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "2,600 cm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "2,400 cm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "1,200 cm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A triangular prism labeled with 13 cm, 20 cm, 10 cm base, and 12 cm height for the triangular face."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

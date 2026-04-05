@@ -1,0 +1,21 @@
+{
+  "stem": "A store sells 12 pairs of socks for $15. What is the price per pair of socks?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "divide",
+    "multiply",
+    "0.80",
+    "1.25",
+    "12",
+    "15"
+  ],
+  "response_template": "To calculate the price per pair of socks, [blank_1] the number [blank_2] by the number [blank_3].\n\nThe price is $ [blank_4] per pair of socks.",
+  "visual_elements": [
+    "a box around each blank spot for answers",
+    "separate boxes around each choice in the pool"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

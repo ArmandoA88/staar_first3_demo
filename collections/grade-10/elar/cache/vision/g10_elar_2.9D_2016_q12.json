@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "As I watched friends find dates for homecoming, I was initially a little discouraged. Because it looked as though my first homecoming dance would be missing a key character."
+    },
+    {
+      "label": "G",
+      "text": "As I watched friends find dates for homecoming, I was initially a little discouraged. It looked as though my first homecoming dance would be missing a key character."
+    },
+    {
+      "label": "H",
+      "text": "As I watched friends find dates for homecoming. I was initially a little discouraged because it looked as though my first homecoming dance would be missing a key character."
+    },
+    {
+      "label": "J",
+      "text": "Sentence 4 is written correctly."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

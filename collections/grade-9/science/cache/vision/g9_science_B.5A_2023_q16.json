@@ -1,0 +1,30 @@
+{
+  "stem": "Which table correctly identifies the function of each type of RNA?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Type of RNA               Function\nTransfer RNA         Carries genetic information from DNA to ribosomes\nRibosomal RNA       A component of ribosomes that helps catalyze protein synthesis\nMessenger RNA    Brings amino acids to growing polypeptides in ribosomes"
+    },
+    {
+      "label": "B",
+      "text": "Type of RNA               Function\nTransfer RNA          A component of ribosomes that helps catalyze protein synthesis\nRibosomal RNA       Brings amino acids to growing polypeptides in ribosomes\nMessenger RNA    Carries genetic information from DNA to ribosomes"
+    },
+    {
+      "label": "C",
+      "text": "Type of RNA               Function\nTransfer RNA         Brings amino acids to growing polypeptides in ribosomes\nRibosomal RNA       A component of ribosomes that helps catalyze protein synthesis\nMessenger RNA    Carries genetic information from DNA to ribosomes"
+    },
+    {
+      "label": "D",
+      "text": "Type of RNA               Function\nTransfer RNA         Carries genetic information from DNA to ribosomes\nRibosomal RNA       Brings amino acids to growing polypeptides in ribosomes\nMessenger RNA    A component of ribosomes that helps catalyze protein synthesis"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, and D each with two columns titled 'Type of RNA' and 'Function' listing Transfer RNA, Ribosomal RNA, and Messenger RNA with varying corresponding functions."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

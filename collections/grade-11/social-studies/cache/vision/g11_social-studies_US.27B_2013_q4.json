@@ -1,0 +1,32 @@
+{
+  "stem": "What do these advertisements suggest to consumers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Government regulation of the cell phone industry is increasing."
+    },
+    {
+      "label": "G",
+      "text": "Personal computers are replacing cell phones."
+    },
+    {
+      "label": "H",
+      "text": "Free enterprise promotes competition among cell phone providers."
+    },
+    {
+      "label": "J",
+      "text": "Cell phone users have limited choices in the marketplace."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Company A \u2605 Special \u2605 Text messaging plans starting at 25\u00a2 per text",
+    "Company B Special Add a family text message plan $29.99 for 1,000 text messages per month",
+    "Company C \u2605 Special \u2605 Upgrade to a monthly unlimited data plan for $49.99"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 0.99,
+  "notes": null
+}

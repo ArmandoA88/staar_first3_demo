@@ -1,0 +1,30 @@
+{
+  "stem": "This photograph shows an example of \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "U.S. citizens contributing to the war effort"
+    },
+    {
+      "label": "G",
+      "text": "the effects of trade sanctions on enemy nations"
+    },
+    {
+      "label": "H",
+      "text": "U.S. citizens attempting to follow new dietary guidelines"
+    },
+    {
+      "label": "J",
+      "text": "the effects of allowing farmland to go unused while farmers were at war"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "black and white photo of people buying seeds, sign reads 'Victory Garden Seeds'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

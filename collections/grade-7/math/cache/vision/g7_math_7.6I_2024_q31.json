@@ -1,0 +1,30 @@
+{
+  "stem": "A deck of cards contains red, blue, orange, and yellow cards. A card is drawn and then replaced. This process is carried out 40 times. The results are shown in the table.\n\nBased on these results, what is the experimental probability that the next card drawn is red or orange?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{13}{40} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{2} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{11}{20} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{9}{40} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Color and Frequency:\nRed 9\nBlue 8\nOrange 13\nYellow 10"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

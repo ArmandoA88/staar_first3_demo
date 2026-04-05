@@ -1,0 +1,30 @@
+{
+  "stem": "A toy is made up of cylindrical rings stacked on a base, as shown in the diagram. The diameter of Ring 1 is 87% of the diameter of the base. For Ring 2 through Ring 7, the diameter of each ring is 87% of the diameter of the ring directly below it.\n\nThe diameter of the base is 5 inches. Which function can be used to find the diameter in inches of Ring r, where 1 \\( \\leq r \\leq \\) 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( d(r) = 5(0.87)^r \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( d(r) = 0.87(r - 5) \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( d(r) = 0.87(5)^r \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( d(r) = 5(r - 0.87) \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Stacked cylindrical rings labeled base, 1, 2, 3, 4, 5, 6, 7"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

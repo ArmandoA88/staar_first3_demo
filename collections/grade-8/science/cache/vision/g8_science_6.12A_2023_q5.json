@@ -1,0 +1,30 @@
+{
+  "stem": "Students are investigating the characteristics of different plants. They record the characteristics in a table.\n\n| Plant          | 1                         | 2                           | 3                          | 4                                  |\n|----------------|---------------------------|-----------------------------|----------------------------|------------------------------------|\n| Characteristic | Produces thick stems      | Grows taller than nearby plants | Produces small purple flowers | Grows thorny leaves that conserve water |\n\nWhich plant would best compete for sunlight in a rain forest environment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Plant 1"
+    },
+    {
+      "label": "B",
+      "text": "Plant 2"
+    },
+    {
+      "label": "C",
+      "text": "Plant 3"
+    },
+    {
+      "label": "D",
+      "text": "Plant 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with plant characteristics: Plant 1 - Produces thick stems; Plant 2 - Grows taller than nearby plants; Plant 3 - Produces small purple flowers; Plant 4 - Grows thorny leaves that conserve water"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

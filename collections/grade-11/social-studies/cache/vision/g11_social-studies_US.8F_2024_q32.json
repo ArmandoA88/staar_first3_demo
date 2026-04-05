@@ -1,0 +1,30 @@
+{
+  "stem": "How did media coverage of the attack described in this headline influence the Vietnam War?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By increasing Allied approval of using atomic weapons in Vietnam"
+    },
+    {
+      "label": "B",
+      "text": "By weakening international support for North Vietnam"
+    },
+    {
+      "label": "C",
+      "text": "By weakening public support for U.S. participation in Vietnam"
+    },
+    {
+      "label": "D",
+      "text": "By increasing demands for South Vietnam to sign an alliance with China"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Daily Star newspaper headline: Communist Forces Attack South Vietnam During Tet Holiday Many Casualties Reported"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

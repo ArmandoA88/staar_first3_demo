@@ -1,0 +1,34 @@
+{
+  "stem": "Which factor **BEST** describes the change in this population of finches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An increase in resource availability"
+    },
+    {
+      "label": "B",
+      "text": "A change in the reproductive success of one individual bird"
+    },
+    {
+      "label": "C",
+      "text": "A decrease in fitness that increased survival rates"
+    },
+    {
+      "label": "D",
+      "text": "A change in phenotype distribution because of an environmental factor"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The bar graph shows the average beak depth (distance from the top of the beak to the bottom) of a population of finches. The data were collected in 1976 and in 1978, after a drought occurred in 1977 in the area.",
+    "Finch Beak Depth",
+    "y-axis labeled \"Average Beak Depth (mm)\" with values 0, 8, 9, 10",
+    "Bars for 1976 (similar to the previous 3 years) about 8.9 mm and 1978 (after a drought) about 9.8 mm",
+    "Source: Grant, Rosemary and Peter, BioScience, 2003"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

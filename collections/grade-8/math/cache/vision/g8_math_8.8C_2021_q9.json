@@ -1,0 +1,13 @@
+{
+  "stem": "A college has two classrooms of students.\n\n\u2022 Classroom A had 70 students.\n\u2022 Classroom B had 30 students.\n\u2022 Classroom A sent groups of 4 students to Classroom B until both classrooms had the same number of students.\n\nThe equation shown can be used to find the number of groups that Classroom A sent to Classroom B so each classroom had the same number of students.\n\n70 - 4x = 30 + 4x\n\nHow many groups did Classroom A send to Classroom B?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Equation: 70 - 4x = 30 + 4x"
+  ],
+  "item_type_inferred": "numeric_response",
+  "confidence": 0.99,
+  "notes": null
+}

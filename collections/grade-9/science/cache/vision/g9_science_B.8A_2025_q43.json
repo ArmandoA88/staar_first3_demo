@@ -1,0 +1,30 @@
+{
+  "stem": "A tetrad of homologous chromosomes is shown.\n\nHomologous Chromosomes",
+  "instruction": "Which new gene combinations could result from crossing over?",
+  "options": [
+    {
+      "label": "A",
+      "text": "RrTt and RrTt"
+    },
+    {
+      "label": "B",
+      "text": "RRTT and RRTt"
+    },
+    {
+      "label": "C",
+      "text": "rrtt and rrtt"
+    },
+    {
+      "label": "D",
+      "text": "RrTT and rrTt"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A diagram of homologous chromosomes labeled R, R, T, T on one chromosome and r, r, t, t on the other chromosome."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

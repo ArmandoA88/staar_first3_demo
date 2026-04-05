@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these identifies the part of the DNA segment labeled X?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Nucleotide"
+    },
+    {
+      "label": "B",
+      "text": "Phosphate group"
+    },
+    {
+      "label": "C",
+      "text": "Hydrogen bond"
+    },
+    {
+      "label": "D",
+      "text": "Deoxyribose"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "DNA Segment diagram with labels and X pointing to one part"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

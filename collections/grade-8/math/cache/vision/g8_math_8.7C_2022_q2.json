@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows a right triangle and the lengths of two of its sides in inches.\n\n[Diagram: Right triangle with one leg labeled 11.9 in., the other leg labeled 7.9 in., and the hypotenuse labeled d.]\n\nWhich measurement is closest to the value of d in inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "6.3 in."
+    },
+    {
+      "label": "G",
+      "text": "4.0 in."
+    },
+    {
+      "label": "H",
+      "text": "14.3 in."
+    },
+    {
+      "label": "J",
+      "text": "19.8 in."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Right triangle with one leg labeled 11.9 in., the other leg labeled 7.9 in., and the hypotenuse labeled d."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

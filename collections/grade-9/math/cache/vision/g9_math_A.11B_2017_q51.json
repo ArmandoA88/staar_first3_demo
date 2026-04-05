@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to \\((7x^3)^2 (x^8)^{\\frac{1}{2}}\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "14x^{10}"
+    },
+    {
+      "label": "B",
+      "text": "49x^{10}"
+    },
+    {
+      "label": "C",
+      "text": "14x^{7}"
+    },
+    {
+      "label": "D",
+      "text": "49x^{7}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(7x^3)^2 (x^8)^{1/2}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

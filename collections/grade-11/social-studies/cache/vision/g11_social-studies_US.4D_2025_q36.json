@@ -1,0 +1,30 @@
+{
+  "stem": "This timeline provides information about selected events of World War I.\n\nFebruary 1, 1917  Germany starts using unrestricted submarine warfare again.\nApril 6, 1917  The United States declares war on Germany.\nOctober 1917\u2013November 1918  ?\n\nWhich event correctly replaces the question mark on this timeline?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The U.S. Air Force uses long-range bombers to destroy Berlin."
+    },
+    {
+      "label": "B",
+      "text": "Germany seizes U.S. territories in the Pacific."
+    },
+    {
+      "label": "C",
+      "text": "Germany surrenders before U.S. troops arrive in Europe."
+    },
+    {
+      "label": "D",
+      "text": "The American Expeditionary Forces help end the stalemate on the western front."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "timeline with events: February 1, 1917 - Germany starts using unrestricted submarine warfare again; April 6, 1917 - The United States declares war on Germany; October 1917\u2013November 1918 - question mark"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Jack tossed a coin three times. Which tree diagram shows all the possible outcomes of the coin landing heads up or tails up?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Heads\n Heads Heads\n Tails Heads\n Tails\n Tails"
+    },
+    {
+      "label": "G",
+      "text": "Tails\n Heads Heads\n Tails Heads\n Tails\n Tails"
+    },
+    {
+      "label": "H",
+      "text": "Heads\n Heads Heads\n Tails Heads\n Tails\n Tails"
+    },
+    {
+      "label": "J",
+      "text": "Heads\n Tails Heads\n Heads Tails\n Tails"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Tree diagrams labeled F, G, H, J showing branching heads or tails outcomes, some missing branches or starting incorrectly"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": "The question is from 2018 TEKS standard 7.6(A), question number 8, type unknown but appears as multiple choice from image."
+}

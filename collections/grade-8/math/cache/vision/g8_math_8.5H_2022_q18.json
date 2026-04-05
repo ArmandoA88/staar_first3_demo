@@ -1,0 +1,33 @@
+{
+  "stem": "Which situation describes a non-proportional relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The circumference of a circle with a radius of x units can be represented by y = 2\u03c0x."
+    },
+    {
+      "label": "G",
+      "text": "The perimeter of an equilateral triangle with a side length of x units can be represented by y = 3x."
+    },
+    {
+      "label": "H",
+      "text": "The total surface area of a cylinder with a radius of 1 unit and height of x units can be represented by y = 2\u03c0x + 2\u03c0."
+    },
+    {
+      "label": "J",
+      "text": "The radius of a circle with a diameter of x units can be represented by y = \u00bd x."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = 2\u03c0x",
+    "y = 3x",
+    "y = 2\u03c0x + 2\u03c0",
+    "y = \u00bd x"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

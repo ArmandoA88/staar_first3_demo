@@ -1,0 +1,33 @@
+{
+  "stem": "Which statement best describes the influence of this document?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It helped establish the tradition of self-government."
+    },
+    {
+      "label": "G",
+      "text": "It was the first attempt to combine political and religious laws."
+    },
+    {
+      "label": "H",
+      "text": "It established the concept of unalienable rights."
+    },
+    {
+      "label": "J",
+      "text": "It outlined a plan for independence from British rule."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Fundamental Orders of Connecticut",
+    "Defined and limited the powers of government",
+    "Created a general assembly",
+    "Granted government the right to levy and collect taxes"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

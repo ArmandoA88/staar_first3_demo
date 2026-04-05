@@ -1,0 +1,30 @@
+{
+  "stem": "This excerpt supports the conclusion that Jefferson disagreed with \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the congressional power of impeachment"
+    },
+    {
+      "label": "B",
+      "text": "the presidential power to veto bills"
+    },
+    {
+      "label": "C",
+      "text": "the states\u2019 power to amend the Constitution"
+    },
+    {
+      "label": "D",
+      "text": "the Supreme Court\u2019s power of judicial review"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "That instrument [the Constitution] meant that its co-ordinate branches should be checks on each other. But the opinion which gives to the judges the right to decide what laws are constitutional, and what not, not only for themselves in their own sphere of action, but for the legislature & executive also in their spheres, would make the judiciary a despotic branch.  \u2014Letter from Thomas Jefferson to Abigail Adams, September 11, 1804"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

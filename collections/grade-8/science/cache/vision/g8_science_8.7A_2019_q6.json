@@ -1,0 +1,34 @@
+{
+  "stem": "Immediately after they push away from each other, how does the motion of the mother and daughter change?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The mother moves forward, and the daughter moves backward with a greater acceleration."
+    },
+    {
+      "label": "G",
+      "text": "Both move forward, but the mother moves with a greater acceleration."
+    },
+    {
+      "label": "H",
+      "text": "The mother moves backward, and the daughter moves forward with a greater acceleration."
+    },
+    {
+      "label": "J",
+      "text": "Both move backward, but the daughter moves with a greater acceleration."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A mother and daughter press their hands together and then push apart while ice skating.",
+    "Mother 100 kg",
+    "Daughter 50 kg",
+    "15 N \u2192",
+    "15 N \u2190"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

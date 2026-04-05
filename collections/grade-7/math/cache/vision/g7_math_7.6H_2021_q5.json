@@ -1,0 +1,30 @@
+{
+  "stem": "A survey of visitors at a national park was conducted to determine the preferred activity of each visitor to the park. Each visitor chose one activity. The survey results are shown in the table.\n\nPreferred Activities\n\n| Activity       | Number of Visitors |\n|----------------|--------------------|\n| Camping        | 28                 |\n| Hiking Trails  | 22                 |\n| Water Sports   | 14                 |\n| Biking Trails  | 16                 |\n\nBased on this information, which prediction about the preferred activity for the next 200 visitors to the park is the most reasonable?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of visitors who prefer water sports will be 5 more than the number of visitors who prefer biking trails."
+    },
+    {
+      "label": "B",
+      "text": "The number of visitors who prefer hiking trails will be 8 more than the number of visitors who prefer water sports."
+    },
+    {
+      "label": "C",
+      "text": "The number of visitors who prefer camping will be 15 times the number of visitors who prefer hiking trails."
+    },
+    {
+      "label": "D",
+      "text": "The number of visitors who prefer camping will be 2 times the number of visitors who prefer water sports."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table Preferred Activities with columns Activity and Number of Visitors, rows: Camping 28, Hiking Trails 22, Water Sports 14, Biking Trails 16"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

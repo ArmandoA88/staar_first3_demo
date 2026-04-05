@@ -1,0 +1,30 @@
+{
+  "stem": "A circular railroad-crossing sign has a diameter of 30 inches.",
+  "instruction": "Which measurement is closest to the area of the sign in square inches?",
+  "options": [
+    {
+      "label": "A",
+      "text": "94.2 in.\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "188.4 in.\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "706.5 in.\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "286.6 in.\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A circular sign with two intersecting diagonal lines forming an X, with the letter R on each side of the lines inside the circle."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "What was the main purpose of this World War II poster?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To persuade citizens to enlist in the armed forces"
+    },
+    {
+      "label": "B",
+      "text": "To inform citizens about the wartime dangers facing the nation"
+    },
+    {
+      "label": "C",
+      "text": "To encourage citizens to volunteer to help support the war"
+    },
+    {
+      "label": "D",
+      "text": "To notify citizens of mandatory programs for national security"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "SERVICE ON THE HOME FRONT\n\u2605 CITIZENS DEFENSE CORPS\n\u2605 CITIZENS SERVICE CORPS\n\u2605 AMERICAN UNITY\n\u2605 SALVAGE PROGRAM\n\u2605 VICTORY GARDENS\nThere's a job for every Pennsylvanian in these CIVILIAN DEFENSE EFFORTS\nPENNSYLVANIA STATE COUNCIL OF DEFENSE\nCAPITOL BUILDING, HARRISBURG, PENNA.",
+    "Image of a man, woman, and child with factory smokestacks in background"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "The circumference of a circle is C centimeters. The diameter of the circle is 13 centimeters. Which expression best represents the value of \\( \\pi \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( \\frac{C}{6.5} \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( \\frac{6.5}{C} \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( \\frac{C}{13} \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( \\frac{13}{C} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

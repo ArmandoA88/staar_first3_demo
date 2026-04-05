@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation can be represented by this equation?\n\n7x + 1 = 10x",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Brody ran at a constant rate of 7 miles per hour in a race. Candice ran at a constant rate of 10 miles per hour in a race and started 1 mile in front of the starting point. What is x, the number of hours that Brody and Candice would have to run in order for their distance to be the same?"
+    },
+    {
+      "label": "G",
+      "text": "Brody played a game where he scored 8 points per hour. Candice played the game and scored 10 points per hour. What is x, the number of hours that Brody and Candice would each have to play the game in order for their scores to be the same?"
+    },
+    {
+      "label": "H",
+      "text": "Brody went to two different amusement parks. The first park charged $7 per hour and gave a 1% discount for showing a student ID. The other park charged $10 per hour. What is x, the number of hours that Brody would have to stay at each park to have to pay the same amount?"
+    },
+    {
+      "label": "J",
+      "text": "Brody rode his bicycle on two different days. The first day he rode 7 miles per hour and started 1 mile from his house. The second day he started from his house and rode 10 miles per hour. What is x, the number of hours that Brody would have to ride his bicycle to travel the same distance on both days?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "7x + 1 = 10x"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "How did each of these amendments contribute to the development of civil rights in the United States?",
+  "instruction": "Select the correct answer in each row.",
+  "options": [
+    {
+      "label": "Increased political power for women",
+      "text": "Increased political power for women"
+    },
+    {
+      "label": "Increased political participation for men",
+      "text": "Increased political participation for men"
+    },
+    {
+      "label": "Met goals of the suffragist movement",
+      "text": "Met goals of the suffragist movement"
+    },
+    {
+      "label": "Met goals of the abolitionist movement",
+      "text": "Met goals of the abolitionist movement"
+    }
+  ],
+  "choice_pool": [
+    "Fifteenth Amendment",
+    "Nineteenth Amendment"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "Two text boxes with excerpts of amendments: 1) Fifteenth Amendment: The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.  2) Nineteenth Amendment: The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex."
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 1,
+  "notes": null
+}

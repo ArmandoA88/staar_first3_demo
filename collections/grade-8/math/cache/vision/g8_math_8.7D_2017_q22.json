@@ -1,0 +1,30 @@
+{
+  "stem": "Point J (\u22124, \u22126) and point K (4, 4) are located on a coordinate grid.\n\nWhich measurement is closest to the distance between point J and point K in units?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "18 units"
+    },
+    {
+      "label": "G",
+      "text": "6 units"
+    },
+    {
+      "label": "H",
+      "text": "13 units"
+    },
+    {
+      "label": "J",
+      "text": "9 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with x-axis from -9 to 9 and y-axis from -9 to 9"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

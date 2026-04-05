@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution to 0.3(12x - 16) = 0.4(12 - 3x)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-2"
+    },
+    {
+      "label": "G",
+      "text": "4"
+    },
+    {
+      "label": "H",
+      "text": "2"
+    },
+    {
+      "label": "J",
+      "text": "-4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "0.3(12x - 16) = 0.4(12 - 3x)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

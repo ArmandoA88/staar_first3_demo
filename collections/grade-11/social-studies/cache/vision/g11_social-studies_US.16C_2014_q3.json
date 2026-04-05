@@ -1,0 +1,30 @@
+{
+  "stem": "The creator of this political cartoon was expressing his concerns about \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the Senate confirmation hearings of Supreme Court nominee Clarence Thomas"
+    },
+    {
+      "label": "B",
+      "text": "the U.S. declaration of war on Japan after the bombing of Pearl Harbor"
+    },
+    {
+      "label": "C",
+      "text": "the expansion of executive power during the Great Depression"
+    },
+    {
+      "label": "D",
+      "text": "the involvement of U.S. government officials in the Iran-Contra scandal"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A political cartoon showing a figure labeled 'FDR' stepping up stairs labeled 'GOVERNMENT REORGANIZATION', then 'SUPREME COURT REVISION', toward a chair labeled 'DICTATOR'."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

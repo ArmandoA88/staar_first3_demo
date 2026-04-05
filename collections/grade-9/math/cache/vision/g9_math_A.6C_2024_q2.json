@@ -1,0 +1,30 @@
+{
+  "stem": "Which function is best represented by the graph of h?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "h(x) = -x\u00b2 - 8x - 15"
+    },
+    {
+      "label": "B",
+      "text": "h(x) = -x\u00b2 + 8x - 15"
+    },
+    {
+      "label": "C",
+      "text": "h(x) = x\u00b2 + 8x + 15"
+    },
+    {
+      "label": "D",
+      "text": "h(x) = x\u00b2 - 8x + 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of quadratic function h with vertex at (-4, 2) opening downward"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

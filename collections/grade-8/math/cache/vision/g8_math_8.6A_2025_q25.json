@@ -1,0 +1,22 @@
+{
+  "stem": "A swimming pool is in the shape of a cylinder:\n\n\u2022 The diameter of the swimming pool is 15 feet.\n\n\u2022 The height of the swimming pool is 4.5 feet.\n\nComplete the equation that represents V, the volume of the swimming pool in cubic feet.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "2.25",
+    "4.5",
+    "7.5",
+    "15",
+    "2.25\u00b2",
+    "4.5\u00b2",
+    "7.5\u00b2",
+    "15\u00b2"
+  ],
+  "response_template": "V = \u03c0([blank_1])([blank_2])",
+  "visual_elements": [
+    "equation with blanks: V = \u03c0( )( )"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "Standard formula for volume of a cylinder is V=\u03c0r\u00b2h, where radius = diameter/2 = 7.5 and height = 4.5. Choices reflect these numbers and squares."
+}

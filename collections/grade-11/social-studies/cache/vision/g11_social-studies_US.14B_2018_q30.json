@@ -1,0 +1,31 @@
+{
+  "stem": "What was the most likely topic of discussion between these men?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Limiting the power of major railroad companies"
+    },
+    {
+      "label": "G",
+      "text": "Creating alternative maritime shipping routes"
+    },
+    {
+      "label": "H",
+      "text": "Designating additional land as national parks"
+    },
+    {
+      "label": "J",
+      "text": "Reducing the influence of environmental lobbyists"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "President Theodore Roosevelt and John Muir on Glacier Point, Yosemite Valley, California, 1903",
+    "photograph of two men standing on a rocky overlook with a waterfall and mountains in the background"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

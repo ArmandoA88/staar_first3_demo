@@ -1,0 +1,30 @@
+{
+  "stem": "A worker is packing items in boxes. The table shows the linear relationship between the number of items the worker has packed in boxes after different amounts of time.\n\nItems Packed in Boxes\n\n| Number of Minutes | Number of Items Packed |\n|-------------------|-----------------------|\n| 5                 | 20                    |\n| 7                 | 28                    |\n| 11                | 44                    |\n| 14                | 56                    |\n\nWhich statement describes the rate of change of the number of items the worker packed in boxes with respect to the number of minutes the worker has been packing items in boxes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The worker packed 8 items in boxes per minute."
+    },
+    {
+      "label": "G",
+      "text": "The worker packed 37 items in boxes per minute."
+    },
+    {
+      "label": "H",
+      "text": "The worker packed 4 items in boxes per minute."
+    },
+    {
+      "label": "J",
+      "text": "The worker packed 15 items in boxes per minute."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with Number of Minutes and Number of Items Packed columns with values 5->20, 7->28, 11->44, 14->56"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "In Oscar\u2019s monthly budget, each category is assigned a certain percentage of his monthly income. Oscar\u2019s monthly income is $2,250.\n\nMonthly Budget\nCategory | Percentage\nSavings | 16%\nHouse payment | 35%\nTelephone | 5%\nUtilities | 6%\nCar payment | 17.5%\nCar insurance | 6.5%\nLife insurance | 3%\nEmergencies | 11%\n\nWhich statement is NOT supported by the information in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Oscar puts $360 of his monthly income into savings."
+    },
+    {
+      "label": "G",
+      "text": "Less than $900 of Oscar\u2019s monthly income is for his house payment and life insurance."
+    },
+    {
+      "label": "H",
+      "text": "Oscar budgets $485 of his monthly income for telephone, utilities, and emergencies."
+    },
+    {
+      "label": "J",
+      "text": "More than $530 of Oscar\u2019s monthly income is for his car payment and car insurance."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with categories and percentages: Savings 16%, House payment 35%, Telephone 5%, Utilities 6%, Car payment 17.5%, Car insurance 6.5%, Life insurance 3%, Emergencies 11%"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

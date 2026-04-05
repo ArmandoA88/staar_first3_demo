@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the information in the statement, what is Phillip's net worth?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$184,500"
+    },
+    {
+      "label": "B",
+      "text": "$41,500"
+    },
+    {
+      "label": "C",
+      "text": "-$71,500"
+    },
+    {
+      "label": "D",
+      "text": "-$41,500"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Net Worth Statement table:\nAssets          | Value\nHouse (current value) | $85,000\nChecking account      | $2,500\nAutomobile            | $18,500\nInvestments           | $7,000\nTotal Assets          | $113,000\n\nLiabilities     | \nMortgage       | $62,000\nCredit card debt | $9,500\nTotal Liabilities | $71,500"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

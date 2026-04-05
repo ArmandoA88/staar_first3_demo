@@ -1,0 +1,33 @@
+{
+  "stem": "Which president established these traditions for the executive branch?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "John Adams"
+    },
+    {
+      "label": "G",
+      "text": "Thomas Jefferson"
+    },
+    {
+      "label": "H",
+      "text": "James Madison"
+    },
+    {
+      "label": "J",
+      "text": "George Washington"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "First to appoint cabinet members",
+    "Recommended the title \"Mr. President\"",
+    "First to serve two terms",
+    "?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

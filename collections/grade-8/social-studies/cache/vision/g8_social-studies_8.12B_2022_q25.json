@@ -1,0 +1,30 @@
+{
+  "stem": "This map shows a trade system that emerged in the 1500s and reached its height in the 1700s.\n\nWhich factor was a reason for the trade system illustrated on this map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Labor demands of the factory system"
+    },
+    {
+      "label": "B",
+      "text": "Invention of the steamboat"
+    },
+    {
+      "label": "C",
+      "text": "Labor demands of the plantation system"
+    },
+    {
+      "label": "D",
+      "text": "Invention of the mechanical loom"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "map labeled 'Transatlantic Slave Trade' showing arrows from Africa to Americas"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents the solution set of 3y - 2x \\leq -6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with solid line passing through (-3,0) and (0,-2) with shaded area above the line."
+    },
+    {
+      "label": "B",
+      "text": "Graph with solid line passing through (-3,0) and (0,-2) with shaded area below the line."
+    },
+    {
+      "label": "C",
+      "text": "Graph with dashed line passing through (-3,0) and (0,-2) with shaded area above the line."
+    },
+    {
+      "label": "D",
+      "text": "Graph with dashed line passing through (-3,0) and (0,-2) with shaded area below the line."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled A, B, C, and D with lines and shaded regions representing inequality solutions."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

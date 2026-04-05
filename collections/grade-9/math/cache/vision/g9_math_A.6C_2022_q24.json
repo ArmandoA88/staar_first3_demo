@@ -1,0 +1,28 @@
+{
+  "stem": "The solutions to p(x) = 0 are x = -7 and x = 7. Which quadratic function could represent p?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "p(x) = x^2 - 49"
+    },
+    {
+      "label": "G",
+      "text": "p(x) = x^2 + 49"
+    },
+    {
+      "label": "H",
+      "text": "p(x) = x^2 - 14"
+    },
+    {
+      "label": "J",
+      "text": "p(x) = x^2 + 14"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

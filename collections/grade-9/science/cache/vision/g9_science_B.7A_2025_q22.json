@@ -1,0 +1,31 @@
+{
+  "stem": "A DNA sequence is shown.\n\n         5' A T C G C T A G 3'\n\nWhich strand represents the complementary DNA sequence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5' T A C G G A T C 3'"
+    },
+    {
+      "label": "B",
+      "text": "5' A T C G C T A G 3'"
+    },
+    {
+      "label": "C",
+      "text": "3' T A G C G A T C 5'"
+    },
+    {
+      "label": "D",
+      "text": "3' G A T C G C T A 5'"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "DNA sequence 5' A T C G C T A G 3'",
+    "Answer choices with complementary DNA sequences"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Reese wants to improve the clarity of sentence 12. How should sentence 12 be revised?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Running along the brain\u2019s blood vessels, the team determined is a fluid that carries waste away from the brain."
+    },
+    {
+      "label": "G",
+      "text": "The team determined that fluid running along the brain\u2019s blood vessels carries waste away from the brain."
+    },
+    {
+      "label": "H",
+      "text": "Waste by a fluid that is running along the brain\u2019s blood vessels is carried away from the brain, the team determined."
+    },
+    {
+      "label": "J",
+      "text": "Along the side of the brain\u2019s blood vessels is a fluid, the team determined, and this carries away from the brain waste."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the MOST effective way to revise sentence 30?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Within an hour, their dad appeared with more water and a park ranger."
+    },
+    {
+      "label": "B",
+      "text": "Their dad appeared with more water within an hour and a park ranger."
+    },
+    {
+      "label": "C",
+      "text": "Within an hour appeared a park ranger, with their dad and more water."
+    },
+    {
+      "label": "D",
+      "text": "Their dad appeared within an hour, more water, and a park ranger."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

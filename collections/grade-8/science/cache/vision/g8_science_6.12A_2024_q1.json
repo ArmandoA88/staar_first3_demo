@@ -1,0 +1,30 @@
+{
+  "stem": "What is the total number of organisms that eat primary consumers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Five"
+    },
+    {
+      "label": "B",
+      "text": "Six"
+    },
+    {
+      "label": "C",
+      "text": "Seven"
+    },
+    {
+      "label": "D",
+      "text": "Eight"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Food web diagram with arrows indicating: Grasses eaten by Mice and Beetles; Mice eaten by Hawks, Owls, and Raccoons; Beetles eaten by Bats and Dragonflies; Raccoons eaten by Bats; Bats eaten by Hawks; Dragonflies eaten by Bats"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

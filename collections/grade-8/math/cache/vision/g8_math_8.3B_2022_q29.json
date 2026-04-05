@@ -1,0 +1,30 @@
+{
+  "stem": "Quadrilateral PQRS is dilated with the origin as the center of dilation to create quadrilateral P'Q'R'S'. The coordinates of each vertex are integers.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Each side length of quadrilateral PQRS is \\frac{1}{2} the corresponding side length of quadrilateral P'Q'R'S'."
+    },
+    {
+      "label": "B",
+      "text": "Quadrilateral P'Q'R'S' is congruent to quadrilateral PQRS."
+    },
+    {
+      "label": "C",
+      "text": "Each angle measure of quadrilateral PQRS is \\frac{1}{2} the corresponding angle measure of quadrilateral P'Q'R'S'."
+    },
+    {
+      "label": "D",
+      "text": "Quadrilateral P'Q'R'S' is similar to quadrilateral PQRS."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing quadrilateral PQRS and its dilation quadrilateral P'Q'R'S' with vertices labeled."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

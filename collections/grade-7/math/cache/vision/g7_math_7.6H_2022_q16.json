@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the numbers of different colors of pencils in a pencil case. A student will randomly select one pencil from the pencil case.\n\nColored Pencils\n\n| Color  | Number of Pencils |\n|--------|-------------------|\n| Red    | 2                 |\n| Purple | 8                 |\n| Blue   | 4                 |\n| Green  | 5                 |\n\nBased on the information in the table, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The pencil is least likely to be blue."
+    },
+    {
+      "label": "G",
+      "text": "The pencil is 4 times as likely to be purple as it is to be red."
+    },
+    {
+      "label": "H",
+      "text": "The pencil is equally likely to be blue or green."
+    },
+    {
+      "label": "J",
+      "text": "The pencil is more likely to be purple than all other colors combined."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table colored pencils with columns Color and Number of Pencils showing Red 2, Purple 8, Blue 4, Green 5"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

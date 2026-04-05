@@ -1,0 +1,30 @@
+{
+  "stem": "In each diagram, line g is parallel to line k, and line t intersects lines g and k.\n\nBased on the diagrams, which statement about x is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The value of x is 180, because the labeled angles in each diagram are supplementary and the sum of the measures of supplementary angles is 180 degrees."
+    },
+    {
+      "label": "B",
+      "text": "The value of x is 90, because the labeled angles in each diagram are complementary and the sum of the measures of complementary angles is 90 degrees."
+    },
+    {
+      "label": "C",
+      "text": "The value of x is 44, because the sum of the measures of the labeled angles in each diagram is 180 degrees."
+    },
+    {
+      "label": "D",
+      "text": "The value of x is 136, because the labeled angles in each diagram are congruent."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four diagrams showing parallel lines g and k cut by transversal t.\nFirst diagram: angles marked 61\u00b0 on lines g and k.\nSecond diagram: angles marked 123\u00b0 on lines g and k.\nThird diagram: angles marked 42\u00b0 on lines g and k.\nFourth diagram: angles marked 136\u00b0 on line g and x\u00b0 on line k."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

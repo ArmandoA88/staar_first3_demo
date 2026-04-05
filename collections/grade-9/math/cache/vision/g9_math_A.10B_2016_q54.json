@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows the floor plan of a storage facility. All dimensions are given in feet.\n\n[Rectangle diagram with length labeled as 5x + 4 and width labeled as 4x - 4]\n\nWhich expression represents the area of the storage facility in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "20x^2 + 36x - 16"
+    },
+    {
+      "label": "G",
+      "text": "20x^2 - 4x - 16"
+    },
+    {
+      "label": "H",
+      "text": "16x^2 - 16"
+    },
+    {
+      "label": "J",
+      "text": "9x^2 - 16"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangle with dimensions 5x + 4 (length) and 4x - 4 (width)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

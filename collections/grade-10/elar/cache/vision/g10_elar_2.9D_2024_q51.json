@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete the comma after *spoke*"
+    },
+    {
+      "label": "B",
+      "text": "Change *she* to *they*"
+    },
+    {
+      "label": "C",
+      "text": "Change *are* to *were*"
+    },
+    {
+      "label": "D",
+      "text": "Insert a comma after *bruised*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

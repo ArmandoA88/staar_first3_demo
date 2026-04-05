@@ -1,0 +1,31 @@
+{
+  "stem": "A student read 24 books in 15 weeks. Which graph has a slope that best models this rate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Books\nNumber of Books on y-axis\nTime (weeks) on x-axis\nA horizontal line at y = 24"
+    },
+    {
+      "label": "B",
+      "text": "Books\nNumber of Books on y-axis\nTime (weeks) on x-axis\nA line from (0,0) to approximately (20, 30)"
+    },
+    {
+      "label": "C",
+      "text": "Books\nNumber of Books on y-axis\nTime (weeks) on x-axis\nA line from (0,0) to (50, 35)"
+    },
+    {
+      "label": "D",
+      "text": "Books\nNumber of Books on y-axis\nTime (weeks) on x-axis\nA vertical line at x = 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, D",
+    "Each graph with x-axis labeled Time (weeks) from 0 to 50 and y-axis labeled Number of Books from 0 to 30"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Descriptions of the graphs given in text due to inability to embed images."
+}

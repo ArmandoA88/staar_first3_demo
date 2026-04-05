@@ -1,0 +1,33 @@
+{
+  "stem": "Which sentence completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "People cannot be forced to be witnesses against themselves."
+    },
+    {
+      "label": "G",
+      "text": "Cruel and unusual punishment cannot be inflicted."
+    },
+    {
+      "label": "H",
+      "text": "Warrants cannot be issued unless probable cause is established."
+    },
+    {
+      "label": "J",
+      "text": "A defendant cannot be denied a speedy and public trial."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Eighth Amendment",
+    "Excessive fines cannot be imposed.",
+    "Excessive bail cannot be required.",
+    "?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following identifies two effects of the Harlem Renaissance?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Increased geographic concentration of African Americans\nIncreased popularity of venues featuring African American artists"
+    },
+    {
+      "label": "B",
+      "text": "Founding of colleges for African Americans\nFounding of the Socialist Party"
+    },
+    {
+      "label": "C",
+      "text": "Founding of Tuskegee University\nMigration of African Americans to western states"
+    },
+    {
+      "label": "D",
+      "text": "Ratification of constitutional amendments ensuring rights for African Americans\nIncreased support for the prohibition of alcoholic beverages"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "boxes around each answer choice with bullet points"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

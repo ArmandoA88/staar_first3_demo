@@ -1,0 +1,36 @@
+{
+  "stem": "The table lists the characteristics of four stars.\n\nStar Characteristics\n\n|               | Aldebaran | Altair | Betelgeuse | Sirius B |\n|---------------|-----------|--------|------------|----------|\n| Luminosity    | 10^2      | 1      | 10^4       | 10^{-3}  |\n| (Sun = 1)     |           |        |            |          |\n| Temperature   | 4,200 K   | 8,500 K| 3,000 K    | 30,000 K |\n\nHow is each star categorized in the Hertzsprung-Russell diagram?\n\nMove the correct answer to each box.",
+  "instruction": "Move the correct answer to each box.",
+  "options": [
+    {
+      "label": "Aldebaran",
+      "text": "Aldebaran"
+    },
+    {
+      "label": "Altair",
+      "text": "Altair"
+    },
+    {
+      "label": "Betelgeuse",
+      "text": "Betelgeuse"
+    },
+    {
+      "label": "Sirius B",
+      "text": "Sirius B"
+    }
+  ],
+  "choice_pool": [
+    "Aldebaran",
+    "Altair",
+    "Betelgeuse",
+    "Sirius B"
+  ],
+  "response_template": "Supergiants: [blank_1]\nGiants: [blank_2]\nMain sequence: [blank_3]\nWhite dwarfs: [blank_4]",
+  "visual_elements": [
+    "Star Characteristics table",
+    "Hertzsprung-Russell diagram showing Luminosity vs Temperature with labeled regions: Supergiants, Giants, Main sequence, White dwarfs and four empty boxes overlaid"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

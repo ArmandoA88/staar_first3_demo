@@ -1,0 +1,30 @@
+{
+  "stem": "A teacher bought sets of books at a cost of $17.95 per set. The teacher also paid a one-time shipping fee of $22.\n\nWhich table shows the relationship between the total cost of the books and the number of sets of books the teacher bought?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Sets of Books | Total Cost (dollars)\n16 | 369.95\n20 | 457.95\n24 | 545.95\n28 | 633.95"
+    },
+    {
+      "label": "H",
+      "text": "Sets of Books | Total Cost (dollars)\n16 | 682.10\n20 | 753.90\n24 | 825.70\n28 | 897.50"
+    },
+    {
+      "label": "G",
+      "text": "Sets of Books | Total Cost (dollars)\n16 | 746.90\n20 | 834.90\n24 | 922.90\n28 | 1,010.90"
+    },
+    {
+      "label": "J",
+      "text": "Sets of Books | Total Cost (dollars)\n16 | 309.20\n20 | 381.00\n24 | 452.80\n28 | 524.60"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables with columns 'Sets of Books' and 'Total Cost (dollars)', labeled F, H, G, J."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

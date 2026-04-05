@@ -1,0 +1,30 @@
+{
+  "stem": "The coordinates of the endpoints of \\( \\overline{QR} \\) are \\( Q (8, 2) \\) and \\( R (5, 7) \\). Which measurement is closest to the length of \\( \\overline{QR} \\) in units?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5.8 units"
+    },
+    {
+      "label": "B",
+      "text": "5 units"
+    },
+    {
+      "label": "C",
+      "text": "4 units"
+    },
+    {
+      "label": "D",
+      "text": "3.9 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with points Q at (8,2) and R at (5,7) labeled, line segment QR"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

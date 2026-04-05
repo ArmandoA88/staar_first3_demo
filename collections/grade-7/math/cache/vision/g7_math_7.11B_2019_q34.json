@@ -1,0 +1,30 @@
+{
+  "stem": "Which values from the set \\{ -6, -4, -3, -1, 0, 2 \\} satisfy this inequality?\n\n\\[-\\frac{1}{2} x + 3 \\geq 5\\]",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-4, -3, -1, 0, and 2 only"
+    },
+    {
+      "label": "G",
+      "text": "-1, 0, and 2 only"
+    },
+    {
+      "label": "H",
+      "text": "-6, -4, -3, and -1 only"
+    },
+    {
+      "label": "J",
+      "text": "-6 and -4 only"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-\\frac{1}{2} x + 3 \\geq 5"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

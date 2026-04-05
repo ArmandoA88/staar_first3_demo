@@ -1,0 +1,28 @@
+{
+  "stem": "Function k is defined as k(x) = x^2 + 32x + 248. What are the solutions to k(x) = 0?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = -16 + 2\\sqrt{2} and x = -16 - 2\\sqrt{2}"
+    },
+    {
+      "label": "B",
+      "text": "x = 16 + 2\\sqrt{2} and x = 16 - 2\\sqrt{2}"
+    },
+    {
+      "label": "C",
+      "text": "x = -32 + 4\\sqrt{2} and x = -32 - 4\\sqrt{2}"
+    },
+    {
+      "label": "D",
+      "text": "x = 32 + 4\\sqrt{2} and x = 32 - 4\\sqrt{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

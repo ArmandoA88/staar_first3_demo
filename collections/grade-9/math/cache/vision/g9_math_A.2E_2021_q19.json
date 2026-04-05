@@ -1,0 +1,30 @@
+{
+  "stem": "What is the equation in standard form of the line that passes through the point (6, -1) and is parallel to the line represented by 8x + 3y = 15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8x + 3y = -45"
+    },
+    {
+      "label": "B",
+      "text": "8x - 3y = -51"
+    },
+    {
+      "label": "C",
+      "text": "8x + 3y = 45"
+    },
+    {
+      "label": "D",
+      "text": "8x - 3y = 51"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "8x + 3y = 15"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

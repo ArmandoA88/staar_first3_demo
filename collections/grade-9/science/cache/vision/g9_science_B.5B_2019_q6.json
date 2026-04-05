@@ -1,0 +1,30 @@
+{
+  "stem": "Which cell that was viewed is most likely a prokaryote?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Cell W"
+    },
+    {
+      "label": "G",
+      "text": "Cell X"
+    },
+    {
+      "label": "H",
+      "text": "Cell Y"
+    },
+    {
+      "label": "J",
+      "text": "Cell Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Cell W, Cell X, Cell Y, Cell Z and rows Cell Membrane, Cell Wall, Chloroplasts, DNA, Nucleus showing X marks in respective cells."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

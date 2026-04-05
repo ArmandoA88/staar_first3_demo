@@ -1,0 +1,30 @@
+{
+  "stem": "Which value of x makes the equation 0.75(x + 20) = 2 + 0.5(x - 2) true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "64"
+    },
+    {
+      "label": "G",
+      "text": "-64"
+    },
+    {
+      "label": "H",
+      "text": "56"
+    },
+    {
+      "label": "J",
+      "text": "-56"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: 0.75(x + 20) = 2 + 0.5(x - 2)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

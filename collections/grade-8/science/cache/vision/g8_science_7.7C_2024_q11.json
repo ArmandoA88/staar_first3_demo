@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph represents a baseball player accelerating away from a base located at the origin?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Position vs. Time\nDistance from Base \n0 Time"
+    },
+    {
+      "label": "B",
+      "text": "Position vs. Time\nDistance from Base \n0 Time"
+    },
+    {
+      "label": "C",
+      "text": "Position vs. Time\nDistance from Base \n0 Time"
+    },
+    {
+      "label": "D",
+      "text": "Position vs. Time\nDistance from Base \n0 Time"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: A straight line with negative slope from top left to bottom right.",
+    "Graph B: A curved line starting high and steep, curving down to zero.",
+    "Graph C: A straight line with positive slope from bottom left to top right.",
+    "Graph D: A curved line starting at zero and curving upward steeply to the right."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Graphs described with position vs. time axes as labeled. Options represent various curves representing motion relative to base at origin."
+}

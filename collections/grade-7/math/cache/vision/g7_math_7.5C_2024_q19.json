@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle KLM is similar to triangle RTU. The triangles are shown with side lengths in centimeters.\n\nWhat is the length of side RU in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2\\tfrac{11}{12} cm"
+    },
+    {
+      "label": "B",
+      "text": "11\\tfrac{2}{3} cm"
+    },
+    {
+      "label": "C",
+      "text": "6\\tfrac{1}{2} cm"
+    },
+    {
+      "label": "D",
+      "text": "3\\tfrac{1}{2} cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two triangles labeled KLM and RTU with respective side lengths: KLM sides - 14 cm, 10 cm, 12 cm; RTU sides - 2\\tfrac{1}{2} cm, 3 cm, RU unknown."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

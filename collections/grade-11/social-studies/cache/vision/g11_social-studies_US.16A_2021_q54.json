@@ -1,0 +1,30 @@
+{
+  "stem": "Which reason BEST explains the change in the number of cars sold between 1910 and 1925?",
+  "instruction": "Study the graph and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Cars became more available because of the passage of antitrust laws."
+    },
+    {
+      "label": "G",
+      "text": "Cars became more affordable because of the removal of wartime price controls."
+    },
+    {
+      "label": "H",
+      "text": "Cars became more affordable because of the introduction of the assembly line."
+    },
+    {
+      "label": "J",
+      "text": "Cars became more available because of the removal of tariffs after a global conflict."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled Number of Cars Sold in the United States, 1910\u20131930 (millions) with a line chart showing an increase from 0.2 million cars in 1910 to around 3.8 million cars in 1925."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

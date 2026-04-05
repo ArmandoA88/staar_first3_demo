@@ -1,0 +1,31 @@
+{
+  "stem": "Scientists studied the evolution of ancient organisms known as trilobites. An image of a trilobite is shown, and some of its body structures are labeled.\n\nScientists collected fossils of one species of trilobite that were determined to have lived during a 2-million-year span. The scientists observed that, over time, the number of rings in the trilobites\u2019 tails changed. The graph shows the results of this investigation.\n\nWhich labeled section of the graph represents a time when the environment where trilobites lived was changing rapidly?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Section W"
+    },
+    {
+      "label": "B",
+      "text": "Section X"
+    },
+    {
+      "label": "C",
+      "text": "Section Y"
+    },
+    {
+      "label": "D",
+      "text": "Section Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of trilobite with labeled parts: Rings, Eye, Tail, and Head",
+    "Graph titled 'Average Number of Rings on Tail' vs. 'Time (millions of years)' labeled with points W, X, Y, Z"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

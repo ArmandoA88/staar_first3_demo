@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph does NOT represent y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with two arrows starting at (0,0), one going up-right and one down-right"
+    },
+    {
+      "label": "B",
+      "text": "Graph with two line segments with filled endpoints at (2,-1) and (5,4)"
+    },
+    {
+      "label": "C",
+      "text": "Graph with a V shape and arrow endpoints starting at (1,4) and going down-left and down-right"
+    },
+    {
+      "label": "D",
+      "text": "Graph with two line segments with filled endpoints at (-3,6) and (5,1)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graphs labeled A, B, C, D each with xy-coordinate grid and line segments or arrows showing graphs."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": "Problem asks to identify which graph does NOT represent y as a function of x; requires understanding of vertical line test."
+}

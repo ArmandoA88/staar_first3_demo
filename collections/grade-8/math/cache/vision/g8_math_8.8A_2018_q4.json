@@ -1,0 +1,28 @@
+{
+  "stem": "Jerry has a new job and earns a salary of $45,000. Victoria has a new job and earns a salary of $54,000. Jerry will receive a salary increase of $2,500 per year, and Victoria will receive a salary increase of $1,500 per year.\n\nWhich equation can be used to find x, the number of years it will take Jerry to earn the same salary as Victoria?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "45,000x + 2,500x = 54,000x + 1,500x"
+    },
+    {
+      "label": "G",
+      "text": "45,000x + 2,500 = 54,000x + 1,500"
+    },
+    {
+      "label": "H",
+      "text": "45,000 + 2,500x = 54,000 + 1,500x"
+    },
+    {
+      "label": "J",
+      "text": "45,000x + 2,500x = 54,000x + 1,500"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

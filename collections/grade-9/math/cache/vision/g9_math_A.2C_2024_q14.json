@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a linear function is shown. Which function best represents the relationship shown in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = -\\frac{3}{5}x - 5"
+    },
+    {
+      "label": "B",
+      "text": "y = -\\frac{3}{5}x - 3"
+    },
+    {
+      "label": "C",
+      "text": "y = -\\frac{5}{3}x - 5"
+    },
+    {
+      "label": "D",
+      "text": "y = -\\frac{5}{3}x - 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with line passing through points (-5,6) and (0,-5)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

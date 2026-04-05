@@ -1,0 +1,31 @@
+{
+  "stem": "Regina has three number cubes. The faces of each number cube are numbered from 1 to 6. Regina will roll each number cube one time.\n\nWhat is the probability that all three number cubes will land on an odd number?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{1}{2}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{1}{6}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{1}{3}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{1}{8}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number cubes",
+    "fractions in answer choices"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

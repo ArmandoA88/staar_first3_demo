@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation is equivalent to \\( S = Ph + 2B \\) when solved for \\( B \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( B = \\frac{S - Ph}{2} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( B = \\frac{2S}{Ph} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( B = \\frac{SPh}{2} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( B = \\frac{S - 2}{Ph} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Equation: S = Ph + 2B"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

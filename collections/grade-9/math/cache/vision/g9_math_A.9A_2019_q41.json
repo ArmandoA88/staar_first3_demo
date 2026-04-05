@@ -1,0 +1,30 @@
+{
+  "stem": "A part of an exponential function is graphed on the grid.\n\nWhich inequality best represents the domain of the part shown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x \\geq -2"
+    },
+    {
+      "label": "B",
+      "text": "y \\geq 4.5"
+    },
+    {
+      "label": "C",
+      "text": "x \\geq 4.5"
+    },
+    {
+      "label": "D",
+      "text": "y \\geq -2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph of exponential function with a solid point at (-2, 5) continuing upwards to the right."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

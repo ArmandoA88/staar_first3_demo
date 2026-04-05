@@ -1,0 +1,30 @@
+{
+  "stem": "Study the diagram and answer the question that follows.\n\nNew England During the Colonial Period\n\n\u2022 Depended on shipbuilding\n\u2022 Had excellent harbors\n\nThe Mid-Atlantic During the Colonial Period\n\n\u2022 Depended on farming\n\u2022 Had rich, fertile soil\n\nWhich effects correctly replace the numbers in this cause-and-effect diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(1) Used slave labor\n(2) Used Chinese laborers"
+    },
+    {
+      "label": "H",
+      "text": "(1) Established plantations\n(2) Established textile factories"
+    },
+    {
+      "label": "G",
+      "text": "(1) Exported dried fish\n(2) Exported agricultural goods"
+    },
+    {
+      "label": "J",
+      "text": "(1) Imported lumber\n(2) Imported cattle"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with two cause-effect boxes:\nBox 1: New England During the Colonial Period - bullets: Depended on shipbuilding, Had excellent harbors -> blank labeled 1\nBox 2: The Mid-Atlantic During the Colonial Period - bullets: Depended on farming, Had rich fertile soil -> blank labeled 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

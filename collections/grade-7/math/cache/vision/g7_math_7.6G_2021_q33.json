@@ -1,0 +1,30 @@
+{
+  "stem": "Ms. Gonzales gathered data on the number of vowels in the first and last names of each of her students. The data are shown in the dot plot.",
+  "instruction": "What percentage of the students have 5 or more vowels in their first and last names?",
+  "options": [
+    {
+      "label": "A",
+      "text": "21%"
+    },
+    {
+      "label": "B",
+      "text": "63%"
+    },
+    {
+      "label": "C",
+      "text": "37%"
+    },
+    {
+      "label": "D",
+      "text": "70%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot showing number of vowels from 2 to 9 with varying dot counts"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

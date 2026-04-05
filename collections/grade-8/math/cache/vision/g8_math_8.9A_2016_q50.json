@@ -1,0 +1,30 @@
+{
+  "stem": "The graph models the linear relationship between the charge for a trip and the number of miles driven for two taxis.",
+  "instruction": "Based on the graph, which statement appears to be true?",
+  "options": [
+    {
+      "label": "F",
+      "text": "The charge for a trip with a distance of 5 miles is $5 greater for Taxi 1 than for Taxi 2."
+    },
+    {
+      "label": "G",
+      "text": "The charge for a trip with a distance of 5 miles is $5 less for Taxi 1 than for Taxi 2."
+    },
+    {
+      "label": "H",
+      "text": "The charge for a trip with a distance of 5 miles is $20 for both Taxi 1 and Taxi 2."
+    },
+    {
+      "label": "J",
+      "text": "The charge for a trip with a distance of 5 miles cannot be determined for either Taxi 1 or Taxi 2."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A graph titled 'Taxi Charges' with y-axis labeled 'Charge (dollars)' ranging from 0 to 30, and x-axis labeled 'Distance (miles driven)' ranging from 0 to 9. Two lines are plotted: 'Taxi 1' starting at about $15 and rising to $30 at 9 miles, and 'Taxi 2' starting at about $10 and rising to $25 at 9 miles."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which constitutional right was most directly violated by this executive order?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Freedom of speech"
+    },
+    {
+      "label": "G",
+      "text": "Right to equal protection"
+    },
+    {
+      "label": "H",
+      "text": "Right to bear arms"
+    },
+    {
+      "label": "J",
+      "text": "Freedom of religion"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Now, therefore, by virtue of the authority vested in me as President of the United States, and Commander in Chief of the Army and Navy, I hereby authorize and direct the Secretary of War, and the Military Commanders whom he may from time to time designate, whenever he or any designated Commander deems such action necessary or desirable, to prescribe military areas in such places and of such extent as he or the appropriate Military Commander may determine, from which any or all persons may be excluded. . . .\n\n\u2014President Franklin D. Roosevelt, Executive Order 9066, February 19, 1942"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

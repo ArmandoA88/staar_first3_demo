@@ -1,0 +1,30 @@
+{
+  "stem": "The names on this map best reflect which of the following?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Family names of early pioneers in the West"
+    },
+    {
+      "label": "G",
+      "text": "The impact of American Indian culture on southwestern states"
+    },
+    {
+      "label": "H",
+      "text": "The influence of Spanish colonial heritage on the United States"
+    },
+    {
+      "label": "J",
+      "text": "Religious beliefs brought by immigrants to the United States"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map of Continental United States with cities: San Francisco, Los Angeles, Las Cruces, El Paso, Santa Fe, Durango, Pueblo, San Antonio, Corpus Christi"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

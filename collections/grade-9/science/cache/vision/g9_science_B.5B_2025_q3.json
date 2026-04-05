@@ -1,0 +1,30 @@
+{
+  "stem": "Which conclusion is shared by BOTH theories to explain cell complexity?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Membrane-bound organelles like the Golgi body are less complex than mitochondria."
+    },
+    {
+      "label": "B",
+      "text": "Cells became less complex by joining together with other cells."
+    },
+    {
+      "label": "C",
+      "text": "Mitochondria developed before chloroplasts in complex eukaryotic cells."
+    },
+    {
+      "label": "D",
+      "text": "Complex eukaryotic cells developed from simpler prokaryotic cells."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Cell Complexity Theories' comparing 'Endosymbiotic Theory' and 'Autogenous Theory'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

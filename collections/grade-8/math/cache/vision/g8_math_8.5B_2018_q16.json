@@ -1,0 +1,33 @@
+{
+  "stem": "Rudolfo has 15 toys in his toy box, and he adds 2 new toys every month. Based on this information, which representation best shows this relationship between the number of toys Rudolfo has in his toy box, y, and the number of months that have passed, x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Rudolfo's Toys\nx  y\n4  8\n6  12\n11 22\n13 26"
+    },
+    {
+      "label": "H",
+      "text": "Rudolfo's Toys\nx   y\n1  17\n4  68\n7  119\n11 187"
+    },
+    {
+      "label": "G",
+      "text": "Graph with x-axis labeled \"Number of Months\" from 0 to 10, y-axis labeled \"Number of Toys\" from 0 to 50, line starting near (0, 15) and increasing to about (10, 35)."
+    },
+    {
+      "label": "J",
+      "text": "Graph with x-axis labeled \"Number of Months\" from 0 to 10, y-axis labeled \"Number of Toys\" from 0 to 100, line starting near (0, 0) and increasing to about (10, 100)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table F",
+    "Table H",
+    "Graph G",
+    "Graph J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

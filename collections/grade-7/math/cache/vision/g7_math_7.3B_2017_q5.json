@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the prices of some breakfast items at a restaurant. Sara ordered 2 eggs, a slice of bacon, and a glass of orange juice for breakfast. The sales tax for the order was $0.48. She paid for her breakfast with a $10 bill.\n\nBreakfast Menu\n\n| Item               | Price  |\n|--------------------|--------|\n| One egg            | $1.69  |\n| Slice of bacon     | $1.49  |\n| Glass of orange juice | $1.09  |\n\nHow much change should Sara receive from the $10 bill?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$3.56"
+    },
+    {
+      "label": "B",
+      "text": "$6.44"
+    },
+    {
+      "label": "C",
+      "text": "$5.25"
+    },
+    {
+      "label": "D",
+      "text": "$4.75"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table: Breakfast Menu with columns Item and Price; One egg $1.69, Slice of bacon $1.49, Glass of orange juice $1.09"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "The speaker quoted above was a supporter of the movement to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "end the international slave trade"
+    },
+    {
+      "label": "B",
+      "text": "establish strict limits on immigration"
+    },
+    {
+      "label": "C",
+      "text": "expose corruption in the federal government"
+    },
+    {
+      "label": "D",
+      "text": "discourage the consumption of alcoholic beverages"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "We have only to look about us in this great city, to observe the traces of the deadly influence of intemperance. Everywhere, we face crime, disease and death, all testify to the necessity of the prosecution of the cause, of steadfast and unwavering effort and prompt action to lead to complete success.",
+    "\u2014Charles C. Burleigh, address to the Whole World\u2019s Temperance Convention, 1853"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

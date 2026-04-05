@@ -1,0 +1,30 @@
+{
+  "stem": "Use the ruler provided to measure the radius of the circle to the nearest half centimeter.\n\nWhich measurement is closest to the area of the circle in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "153.86 cm\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "43.96 cm\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "21.98 cm\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "38.47 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circle with a dashed radius line from center to edge"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

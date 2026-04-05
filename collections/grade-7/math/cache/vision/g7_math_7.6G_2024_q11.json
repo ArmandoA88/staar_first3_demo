@@ -1,0 +1,30 @@
+{
+  "stem": "A survey of 150 employees at a company asked which type of transportation the employee uses to get to work. The types of transportation and some of their percentages are shown on the circle graph.\n\nTypes of Transportation\n\nCar 38%\nBicycle\nTrain 32%\nBus 20%\n\nHow many more people use a car than ride a bicycle to get to work?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "15"
+    },
+    {
+      "label": "B",
+      "text": "28"
+    },
+    {
+      "label": "C",
+      "text": "42"
+    },
+    {
+      "label": "D",
+      "text": "57"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Pie chart showing types of transportation: Car 38%, Bicycle (percentage not shown), Train 32%, Bus 20%"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "Bicycle percentage is not labeled but can be inferred as 10% since total must be 100%."
+}

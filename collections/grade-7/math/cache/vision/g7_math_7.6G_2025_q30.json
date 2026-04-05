@@ -1,0 +1,30 @@
+{
+  "stem": "What part of the campers were young adults, teens, or children?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{11}{20} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{3}{5} \\)"
+    },
+    {
+      "label": "C",
+      "text": "45%"
+    },
+    {
+      "label": "D",
+      "text": "90%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Age Groups of Campers' with vertical axis labeled 'Number of Campers' and horizontal axis labeled 'Age Group'. Bars representing camper numbers: Senior citizens: 50, Adults: 60, Young adults: 5, Teens: 25, Children: 60."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

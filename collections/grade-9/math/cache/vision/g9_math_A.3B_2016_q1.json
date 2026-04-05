@@ -1,0 +1,30 @@
+{
+  "stem": "A savings account balance can be modeled by the graph of the linear function shown on the grid.\n\nWhat is the rate of change of the balance with respect to the number of deposits?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$100 per deposit"
+    },
+    {
+      "label": "B",
+      "text": "$50 per deposit"
+    },
+    {
+      "label": "C",
+      "text": "$0.50 per deposit"
+    },
+    {
+      "label": "D",
+      "text": "$2 per deposit"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Savings Account' with x-axis labeled 'Number of Deposits' ranging from 0 to 9, and y-axis labeled 'Balance (dollars)' ranging from 0 to 450 in increments of 50. The graph shows a linear function passing through points consistent with the values (1,100), (2,200), (3,300), and (4,400)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

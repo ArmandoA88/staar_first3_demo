@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement is best supported by the information in the box plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The range of the data for men 20\u201340 years old is less than the range of the data for men 50\u201370 years old."
+    },
+    {
+      "label": "B",
+      "text": "The median of the data for men 20\u201340 years old is less than the median of the data for men 50\u201370 years old."
+    },
+    {
+      "label": "C",
+      "text": "The minimum target heart rate for men 20\u201340 years old is less than the minimum target heart rate for men 50\u201370 years old."
+    },
+    {
+      "label": "D",
+      "text": "The interquartile range of the data for men 20\u201340 years old is greater than the interquartile range of the data for men 50\u201370 years old."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Box plots titled Target Heart Rates of Men comparing 20\u201340 years old and 50\u201370 years old with beats per minute scale from 70 to 170."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which accomplishment could be added to this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Commanded the U.S. military in the West during the Indian Wars"
+    },
+    {
+      "label": "G",
+      "text": "Led the Radical Republicans in Congress during Reconstruction"
+    },
+    {
+      "label": "H",
+      "text": "Was appointed general in chief of the Union army during the Civil War"
+    },
+    {
+      "label": "J",
+      "text": "Became Andrew Johnson's vice president after Abraham Lincoln's assassination"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with \"Ulysses S. Grant\" at top connected to four boxes: \"Graduated from the U.S. Military Academy at West Point\", \"Served in the army during the U.S.-Mexican War\", \"?\", \"Served as the eighteenth president of the United States\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

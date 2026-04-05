@@ -1,0 +1,33 @@
+{
+  "stem": "What is one way the Progressive Era reform outlined in this diagram has affected U.S. politics?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "More women have been elected to Congress."
+    },
+    {
+      "label": "B",
+      "text": "Citizens have a more direct influence on lawmaking."
+    },
+    {
+      "label": "C",
+      "text": "Corrupt officials can be removed from office."
+    },
+    {
+      "label": "D",
+      "text": "Primary elections are prohibited in several states."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Steps in the Ballot Initiative Process",
+    "The proposed initiative is filed with and reviewed by the state.",
+    "The proposed initiative is circulated to obtain the required number of signatures of registered voters.",
+    "The proposed initiative is verified and placed on the ballot."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

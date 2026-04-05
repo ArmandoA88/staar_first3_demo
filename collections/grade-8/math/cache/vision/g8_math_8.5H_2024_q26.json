@@ -1,0 +1,28 @@
+{
+  "stem": "Which equation represents a proportional relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = x + 15"
+    },
+    {
+      "label": "B",
+      "text": "y = \\frac{x}{2}"
+    },
+    {
+      "label": "C",
+      "text": "y = 2(x + 4)"
+    },
+    {
+      "label": "D",
+      "text": "y = 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

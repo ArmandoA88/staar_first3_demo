@@ -1,0 +1,30 @@
+{
+  "stem": "The event reported in this dispatch led directly to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the implementation of sanctions against Japan"
+    },
+    {
+      "label": "G",
+      "text": "U.S. entry into World War II"
+    },
+    {
+      "label": "H",
+      "text": "the establishment of the Truman Doctrine"
+    },
+    {
+      "label": "J",
+      "text": "U.S. annexation of Hawaii"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This naval dispatch reads \u201cAIR RAID ON PEARL HARBOR X THIS IS NOT DRILL.\u201d"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

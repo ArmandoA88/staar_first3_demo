@@ -1,0 +1,31 @@
+{
+  "stem": "The side lengths in yards of a triangle and a square are shown in the diagram.\n\nThe perimeter of the triangle is equal to the perimeter of the square. What is the value of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-4"
+    },
+    {
+      "label": "G",
+      "text": "\\(\\frac{2}{3}\\)"
+    },
+    {
+      "label": "H",
+      "text": "6"
+    },
+    {
+      "label": "J",
+      "text": "\\(\\frac{5}{2}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle with sides labeled 2x yd, (4x - 2) yd, and 2(x + 7) yd",
+    "Square with each side labeled 2.5x yd"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

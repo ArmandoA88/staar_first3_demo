@@ -1,0 +1,30 @@
+{
+  "stem": "This diagram describes a political issue during Andrew Jackson's presidency.\n\nOpposition to President Andrew Jackson's policies grows. (arrow) ?",
+  "instruction": "Which effect correctly completes the diagram?",
+  "options": [
+    {
+      "label": "A",
+      "text": "The Supreme Court's power is expanded."
+    },
+    {
+      "label": "B",
+      "text": "The First National Bank is established."
+    },
+    {
+      "label": "C",
+      "text": "The Missouri Compromise is reached."
+    },
+    {
+      "label": "D",
+      "text": "The Whig Party is formed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Opposition to President Andrew Jackson's policies grows. \u2192 ?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

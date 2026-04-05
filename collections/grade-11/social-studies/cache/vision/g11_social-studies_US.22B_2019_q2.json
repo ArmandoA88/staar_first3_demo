@@ -1,0 +1,30 @@
+{
+  "stem": "Which caption best replaces the question mark in this photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Abolish the Poll Tax and the Literacy Test"
+    },
+    {
+      "label": "G",
+      "text": "Demand the Direct Election of Senators"
+    },
+    {
+      "label": "H",
+      "text": "Come in and Learn Why Women Ought to Vote"
+    },
+    {
+      "label": "J",
+      "text": "Lower the Voting Age for Women to Eighteen"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph of a group of women standing outside a building with a sign that reads \"WOMAN SUFFRAGE HEADQUARTERS. MEN OF OHIO! GIVE THE WOMEN A SQUARE DEAL.\" A question mark is placed where a caption is missing."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

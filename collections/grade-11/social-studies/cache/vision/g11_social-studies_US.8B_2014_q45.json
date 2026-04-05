@@ -1,0 +1,30 @@
+{
+  "stem": "Which group later investigated the political ideology and actions of many people associated with this film?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Senate Committee on Foreign Relations"
+    },
+    {
+      "label": "B",
+      "text": "The Bureau of Citizenship and Immigration Services"
+    },
+    {
+      "label": "C",
+      "text": "The House Un-American Activities Committee"
+    },
+    {
+      "label": "D",
+      "text": "The Motion Picture Association of America"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The 1943 Hollywood movie Song of Russia was produced with the encouragement of the Office of War Information (OWI). At the time the movie was made, the United States and the Soviet Union were allies in the fight against Nazi Germany. The movie tells the story of an American conductor who falls in love with a Russian pianist just before World War II. Together they spend time in an idealized version of the Soviet Union. When the Nazis invade, they join Soviet villagers in the resistance."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which numbered state did the United States acquire from Spain in 1819?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "1"
+    },
+    {
+      "label": "G",
+      "text": "2"
+    },
+    {
+      "label": "H",
+      "text": "3"
+    },
+    {
+      "label": "J",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map of contiguous United States with 4 numbered states: 1 in northwest, 2 in southwest, 3 in midwest, 4 in southeast."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

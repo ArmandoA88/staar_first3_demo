@@ -1,0 +1,28 @@
+{
+  "stem": "Tara has two bags of marbles. The first bag contains 6 red marbles, 5 blue marbles, and 4 green marbles. The second bag contains 3 red marbles, 2 blue marbles, and 4 green marbles. Tara will randomly select 1 marble from each bag.\n\nWhat is the probability that Tara will select a blue marble from each bag?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{5}{9} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{135} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{1}{6} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{2}{27} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

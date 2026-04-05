@@ -1,0 +1,30 @@
+{
+  "stem": "An equation for a chemical reaction is shown.\n\nNaOH + HCl \u2192 NaCl + H\u2082O\n\nWhich statement provides evidence that mass is conserved in the reaction?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Two new substances are formed in the products."
+    },
+    {
+      "label": "B",
+      "text": "Water is one of the products, but not one of the reactants."
+    },
+    {
+      "label": "C",
+      "text": "Two hydrogen atoms are in the reactants, and two hydrogen atoms are in the products."
+    },
+    {
+      "label": "D",
+      "text": "One chlorine atom pairs with one sodium atom in the products, and one chlorine atom pairs with one hydrogen atom in the reactants."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "NaOH + HCl \u2192 NaCl + H\u2082O"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

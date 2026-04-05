@@ -1,0 +1,30 @@
+{
+  "stem": "Which problem did George Washington encounter when he became president?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Southern states were threatening to secede from the Union."
+    },
+    {
+      "label": "G",
+      "text": "The United States had large debts from the American Revolution."
+    },
+    {
+      "label": "H",
+      "text": "Great Britain was refusing to trade with the United States."
+    },
+    {
+      "label": "J",
+      "text": "The Articles of Confederation needed to be replaced with a stronger constitution."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text question with multiple choice answer options labeled F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

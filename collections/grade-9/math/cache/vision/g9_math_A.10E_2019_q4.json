@@ -1,0 +1,28 @@
+{
+  "stem": "Which function is equivalent to g(x) = x^2 + 15x - 54?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "g(x) = (x + 9)(x - 6)"
+    },
+    {
+      "label": "G",
+      "text": "g(x) = (x + 18)(x - 3)"
+    },
+    {
+      "label": "H",
+      "text": "g(x) = (x - 9)(x + 6)"
+    },
+    {
+      "label": "J",
+      "text": "g(x) = (x - 18)(x + 3)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

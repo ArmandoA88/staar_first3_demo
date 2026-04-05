@@ -1,0 +1,31 @@
+{
+  "stem": "This excerpt is from the U.S. Constitution.\n\nSECTION 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.\n\nSECTION 2. The Congress shall have the power to enforce this article by appropriate legislation.\n\n\u2014Fifteenth Amendment to the U.S. Constitution",
+  "instruction": "Part A\nWhat was the PRIMARY purpose of this amendment?",
+  "options": [
+    {
+      "label": "A",
+      "text": "To allow American Indian men to vote for the first time"
+    },
+    {
+      "label": "B",
+      "text": "To offer voting rights to all citizens"
+    },
+    {
+      "label": "C",
+      "text": "To conduct voting through the electoral college system"
+    },
+    {
+      "label": "D",
+      "text": "To extend voting rights to African American men"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt box containing SECTION 1 and SECTION 2 of the Fifteenth Amendment to the U.S. Constitution",
+    "Part A question with four answer choices labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "The problem has two parts, but only Part A is returned here as one STAAR problem per instructions."
+}

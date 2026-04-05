@@ -1,0 +1,38 @@
+{
+  "stem": "The function f(x) = x^2 was transformed to create the function g(x) = f (x - 3) - 9. What are the coordinates of the vertex of the graph of g?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "-9"
+    },
+    {
+      "label": null,
+      "text": "-3"
+    },
+    {
+      "label": null,
+      "text": "0"
+    },
+    {
+      "label": null,
+      "text": "3"
+    },
+    {
+      "label": null,
+      "text": "9"
+    }
+  ],
+  "choice_pool": [
+    "-9",
+    "-3",
+    "0",
+    "3",
+    "9"
+  ],
+  "response_template": "( [blank_1] , [blank_2] )",
+  "visual_elements": [],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.98,
+  "notes": null
+}

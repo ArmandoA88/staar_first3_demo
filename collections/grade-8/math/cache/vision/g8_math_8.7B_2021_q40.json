@@ -1,0 +1,30 @@
+{
+  "stem": "Which two cylinders have the same lateral surface area in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Cylinders W and Y"
+    },
+    {
+      "label": "G",
+      "text": "Cylinders W and X"
+    },
+    {
+      "label": "H",
+      "text": "Cylinders X and Y"
+    },
+    {
+      "label": "J",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing Cylinder dimensions:\nCylinder | Radius (inches) | Height (inches)\nW        | 3              | 9\nX        | 4              | 2\nY        | 4.5            | 6"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

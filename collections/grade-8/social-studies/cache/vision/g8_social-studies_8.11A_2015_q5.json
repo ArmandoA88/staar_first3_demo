@@ -1,0 +1,30 @@
+{
+  "stem": "Which characteristic is correctly matched with a number in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1: Indigo"
+    },
+    {
+      "label": "B",
+      "text": "2: Moderate"
+    },
+    {
+      "label": "C",
+      "text": "3: Rocky soil"
+    },
+    {
+      "label": "D",
+      "text": "4: Ships"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing Characteristics of American Colonies with columns: Colonies, Resource, Climate, Product. Northern: Deep harbors, Cold, 1. Middle: Rich farmland, 2, Livestock. Southern: 3, Warm, 4."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

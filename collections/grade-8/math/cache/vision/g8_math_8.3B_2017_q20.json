@@ -1,0 +1,30 @@
+{
+  "stem": "Pentagon MNPQR is shown on the coordinate grid. Pentagon MNPQR is dilated with the origin as the center of dilation using the rule \\((x,y) \\to \\left(\\frac{1}{4}x, \\frac{1}{4}y\\right)\\) to create pentagon M'N'P'Q'R'.",
+  "instruction": "Which statement is true?",
+  "options": [
+    {
+      "label": "F",
+      "text": "Pentagon M'N'P'Q'R' is larger than pentagon MNPQR, because the scale factor is greater than 1."
+    },
+    {
+      "label": "G",
+      "text": "Pentagon M'N'P'Q'R' is smaller than pentagon MNPQR, because the scale factor is less than 1."
+    },
+    {
+      "label": "H",
+      "text": "Pentagon M'N'P'Q'R' is smaller than pentagon MNPQR, because the scale factor is greater than 1."
+    },
+    {
+      "label": "J",
+      "text": "Pentagon M'N'P'Q'R' is larger than pentagon MNPQR, because the scale factor is less than 1."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate grid with pentagon MNPQR plotted with points approximately at M(-8,-7), N(-7,-3), P(-5,5), Q(-3,8), and R(11,2)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

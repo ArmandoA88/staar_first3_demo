@@ -1,0 +1,32 @@
+{
+  "stem": "The graph shows the relationship between the cost of some pecans and the weight of the pecans in pounds.",
+  "instruction": "Which function best represents the relationship shown in the graph?",
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 5x"
+    },
+    {
+      "label": "B",
+      "text": "y = \\frac{1}{5} x"
+    },
+    {
+      "label": "C",
+      "text": "y = 2x"
+    },
+    {
+      "label": "D",
+      "text": "y = \\frac{1}{2} x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph labeled Pecans with x-axis labeled Weight (pounds) from 0 to 5",
+    "y-axis labeled Cost (dollars) from 0 to 30",
+    "Line showing a relationship starting from origin (0,0) to (5,30)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

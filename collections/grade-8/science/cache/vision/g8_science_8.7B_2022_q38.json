@@ -1,0 +1,28 @@
+{
+  "stem": "When a coin is tossed in the air, it travels upward, gradually slows down, momentarily reaches zero speed, then moves back downward with increasing speed. Which statement best explains this change in the coin's motion?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The force of gravity causes the coin to change its velocity."
+    },
+    {
+      "label": "G",
+      "text": "The coin's inertia decreases on the way up and increases on the way down."
+    },
+    {
+      "label": "H",
+      "text": "The action-reaction force pair of gravity and the applied force cancel each other."
+    },
+    {
+      "label": "J",
+      "text": "The coin remains in its state of upward motion until the force of friction acts upon it."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

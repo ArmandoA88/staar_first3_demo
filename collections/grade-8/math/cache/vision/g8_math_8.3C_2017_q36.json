@@ -1,0 +1,30 @@
+{
+  "stem": "Quadrilateral FGHJ was dilated with the origin as the center of dilation to create quadrilateral F'G'H'J'. Which rule best represents the dilation that was applied to quadrilateral FGHJ to create quadrilateral F'G'H'J'?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(x, y) \\rightarrow \\left(\\frac{5}{7}x, \\frac{5}{7}y\\right)"
+    },
+    {
+      "label": "G",
+      "text": "(x, y) \\rightarrow (x + 1, y + 2)"
+    },
+    {
+      "label": "H",
+      "text": "(x, y) \\rightarrow (1.4x, 1.4y)"
+    },
+    {
+      "label": "J",
+      "text": "(x, y) \\rightarrow (x - 2, y + 1)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate plane with quadrilaterals FGHJ and their dilation F'G'H'J' plotted, showing points labeled F, G, H, J and their corresponding dilated points F', G', H', J' on the grid oriented with x and y axes labeled."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

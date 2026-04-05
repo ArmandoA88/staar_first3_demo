@@ -1,0 +1,45 @@
+{
+  "stem": "Triangle PQR is dilated with the origin as the center of dilation to create triangle P'Q'R'.\n\nComplete the rule to represent the dilation from triangle PQR to triangle P'Q'R'.\n\nMove the correct answer to each box. Not all answers will be used.",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "2x"
+    },
+    {
+      "label": null,
+      "text": "3x"
+    },
+    {
+      "label": null,
+      "text": "6x"
+    },
+    {
+      "label": null,
+      "text": "2y"
+    },
+    {
+      "label": null,
+      "text": "3y"
+    },
+    {
+      "label": null,
+      "text": "6y"
+    }
+  ],
+  "choice_pool": [
+    "2x",
+    "3x",
+    "6x",
+    "2y",
+    "3y",
+    "6y"
+  ],
+  "response_template": "(x, y) \u2192 ([blank_1], [blank_2])",
+  "visual_elements": [
+    "graph of triangles PQR and P'Q'R' on coordinate plane"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

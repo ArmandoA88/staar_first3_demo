@@ -1,0 +1,33 @@
+{
+  "stem": "A circle has a radius of 10 inches. The circumference of the circle is c inches.\n\nWhich expression best represents the value of \\( \\pi \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10c"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\frac{c}{10}\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\frac{c}{20}\\)"
+    },
+    {
+      "label": "D",
+      "text": "20c"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A 10c",
+    "B \\(\\frac{c}{10}\\)",
+    "C \\(\\frac{c}{20}\\)",
+    "D 20c"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

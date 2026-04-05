@@ -1,0 +1,30 @@
+{
+  "stem": "What is the range of the function \\( f(x) = -x^2 + 60x \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "All real numbers that are greater than or equal to 0 and less than or equal to 30"
+    },
+    {
+      "label": "B",
+      "text": "All real numbers that are greater than or equal to 0 and less than or equal to 60"
+    },
+    {
+      "label": "C",
+      "text": "All real numbers that are greater than or equal to 900"
+    },
+    {
+      "label": "D",
+      "text": "All real numbers that are less than or equal to 900"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "f(x) = - x^2 + 60x"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

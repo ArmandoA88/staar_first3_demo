@@ -1,0 +1,30 @@
+{
+  "stem": "The first six terms in a geometric sequence are shown, where \\(a_1 = -4\\).  \n\n\\(-4 \\quad -16 \\quad -64 \\quad -256 \\quad -1,024 \\quad -4,096 \\dots\\)\n\nBased on this information, which equation can be used to find the \\(n^{th}\\) term in the sequence, \\(a_n\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(a_n = -4n\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\(a_n= -(4)^n\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(a_n= -n^2\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\(a_n = (-4)^n\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-4  -16  -64  -256  -1,024  -4,096"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

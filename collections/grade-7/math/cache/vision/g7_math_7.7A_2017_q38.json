@@ -1,0 +1,28 @@
+{
+  "stem": "A pilot takes a taxi from the airport to a hotel. The taxi driver charges a $2.50 initial charge plus $2.65 per mile. Which equation can be used to find y, the total cost of the trip, if x represents the number of miles of the trip?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = 2.50x + 2.65"
+    },
+    {
+      "label": "G",
+      "text": "y = 2.65(x + 2.50)"
+    },
+    {
+      "label": "H",
+      "text": "y = 2.65x - 2.50"
+    },
+    {
+      "label": "J",
+      "text": "y = 2.65x + 2.50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

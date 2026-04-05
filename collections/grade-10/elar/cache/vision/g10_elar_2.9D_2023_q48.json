@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The ad said that you are looking for a responsible individual who has pet care experience, excellent communication skills, and great compassion for animals."
+    },
+    {
+      "label": "B",
+      "text": "The ad said that you are looking for a responsible individual. Who has pet care experience, excellent communication skills, and great compassion for animals."
+    },
+    {
+      "label": "C",
+      "text": "The ad said that you are looking for a responsible individual who has pet care experience. Plus a person who has excellent communication skills and great compassion for animals."
+    },
+    {
+      "label": "D",
+      "text": "The ad said that you are looking for a responsible individual who has pet care experience and excellent communication skills this person also has a great compassion for animals."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

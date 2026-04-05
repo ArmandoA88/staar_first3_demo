@@ -1,0 +1,30 @@
+{
+  "stem": "Which event is MOST associated with the change in American life shown in this sketch?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The adoption of the Great Compromise"
+    },
+    {
+      "label": "B",
+      "text": "The establishment of a two-party political system"
+    },
+    {
+      "label": "C",
+      "text": "The ratification of the Fourteenth Amendment"
+    },
+    {
+      "label": "D",
+      "text": "The election of more qualified judges"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This sketch titled \u201cJury of Whites and Blacks\u201d appeared in Frank Leslie\u2019s Illustrated Newspaper in 1867."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

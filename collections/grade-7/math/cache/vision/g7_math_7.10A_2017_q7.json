@@ -1,0 +1,28 @@
+{
+  "stem": "Lawrence's father gave him 200 baseball cards. Each week, Lawrence purchases 25 baseball cards to add to his collection.\n\nWhich inequality can be used to find w, the number of weeks after starting his collection when Lawrence will have more than 750 baseball cards in his collection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "200w + 25 < 750"
+    },
+    {
+      "label": "B",
+      "text": "25w + 200 < 750"
+    },
+    {
+      "label": "C",
+      "text": "200w + 25 > 750"
+    },
+    {
+      "label": "D",
+      "text": "25w + 200 > 750"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

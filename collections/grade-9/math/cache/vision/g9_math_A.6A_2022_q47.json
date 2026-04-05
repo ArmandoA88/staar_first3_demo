@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents part of a quadratic function with a domain of all real numbers less than -4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph of a parabola opening downwards with domain x < -4 and point at (-4, -4) open circle)"
+    },
+    {
+      "label": "B",
+      "text": "(Graph of a parabola opening upwards with domain x < -4 and point at (-4, 0) open circle)"
+    },
+    {
+      "label": "C",
+      "text": "(Graph of a parabola opening downwards with domain x < -4 and point at (-4, 0) open circle)"
+    },
+    {
+      "label": "D",
+      "text": "(Graph of a parabola opening upwards with domain x > -4 and point at (-4, -4) open circle)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled A, B, C, D each showing part of a parabola with an open circle at x = -4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

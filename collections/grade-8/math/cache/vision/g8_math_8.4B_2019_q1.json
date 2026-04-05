@@ -1,0 +1,30 @@
+{
+  "stem": "Oscar buys his lunch in the school cafeteria. The cost of 15 school lunches is $33.75.\n\nWhich graph has a slope that best represents the average cost of the lunches in dollars per lunch?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph showing points increasing approximately from (1,2) to (8,18) with linear trend."
+    },
+    {
+      "label": "B",
+      "text": "Graph showing points at scattered locations low on the y-axis, increasing slowly."
+    },
+    {
+      "label": "C",
+      "text": "Graph showing points at (1,14) and (2,7) and (0,0)."
+    },
+    {
+      "label": "D",
+      "text": "Graph showing two points at (4,1) and (8,2)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate graphs labeled A, B, C, D with y-axis labeled Total Cost (dollars) and x-axis labeled Number of School Lunches, each showing data points as described in options."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "The problem involves interpreting slope from four graph options; data points and axes have been described for clarity."
+}

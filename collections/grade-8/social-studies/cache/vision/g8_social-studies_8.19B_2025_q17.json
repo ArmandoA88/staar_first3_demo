@@ -1,0 +1,42 @@
+{
+  "stem": "Which amendment BEST applies to each circumstance described in the table?\n\nMove the correct answer to each box in the table. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "The First Amendment\u2014protects the freedoms of speech, assembly, religion, and the press"
+    },
+    {
+      "label": null,
+      "text": "The Fourth Amendment\u2014prevents law enforcement from conducting an unreasonable search"
+    },
+    {
+      "label": null,
+      "text": "The Fifth Amendment\u2014provides legal protections to citizens accused of crimes"
+    },
+    {
+      "label": null,
+      "text": "The Seventh Amendment\u2014preserves the right of the accused to a trial in federal civil cases"
+    },
+    {
+      "label": null,
+      "text": "The Ninth Amendment\u2014reserves rights not specifically listed in the Constitution to the people"
+    }
+  ],
+  "choice_pool": [
+    "The First Amendment\u2014protects the freedoms of speech, assembly, religion, and the press",
+    "The Fourth Amendment\u2014prevents law enforcement from conducting an unreasonable search",
+    "The Fifth Amendment\u2014provides legal protections to citizens accused of crimes",
+    "The Seventh Amendment\u2014preserves the right of the accused to a trial in federal civil cases",
+    "The Ninth Amendment\u2014reserves rights not specifically listed in the Constitution to the people"
+  ],
+  "response_template": "Being frisked by police without probable cause [blank_1]\nProtesting the use of the death penalty [blank_2]\nDefendant refuses to testify in court [blank_3]",
+  "visual_elements": [
+    "Table with two columns: Circumstance and Constitutional Amendment That Applies",
+    "Three rows with circumstances: Being frisked by police without probable cause, Protesting the use of the death penalty, Defendant refuses to testify in court",
+    "Five draggable answer option boxes listing amendments and their descriptions"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.98,
+  "notes": null
+}

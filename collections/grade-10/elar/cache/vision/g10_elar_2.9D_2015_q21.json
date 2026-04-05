@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentences 24 and 25?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "For example, when I misfiled an important realty document, I reminded myself. Of all the other documents I had filed correctly."
+    },
+    {
+      "label": "B",
+      "text": "For example, I misfiled an important realty document, I reminded myself of all the other documents I had filed correctly."
+    },
+    {
+      "label": "C",
+      "text": "For example, when I misfiled an important realty document and reminded myself of all the other documents I had filed correctly."
+    },
+    {
+      "label": "D",
+      "text": "For example, when I misfiled an important realty document, I reminded myself of all the other documents I had filed correctly."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A golfer hit a golf ball from a tee box that is 6 yards above the ground. The graph shows the height in yards of the golf ball above the ground as a quadratic function of x, the horizontal distance in yards of the golf ball from the tee box. What is the domain of the function for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "0 \u2264 x \u2264 230"
+    },
+    {
+      "label": "G",
+      "text": "6 \u2264 y \u2264 36"
+    },
+    {
+      "label": "H",
+      "text": "0 \u2264 y \u2264 36"
+    },
+    {
+      "label": "J",
+      "text": "6 \u2264 x \u2264 230"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph of a parabolic path of a golf ball starting at (0, 6), peaking at (110, 36), and landing at (230, 0). Axes labeled x (horizontal distance) and y (height)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

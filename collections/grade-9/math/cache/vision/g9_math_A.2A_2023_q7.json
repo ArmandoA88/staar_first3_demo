@@ -1,0 +1,35 @@
+{
+  "stem": "What is the range of the part of the linear function shown?",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [
+    {
+      "label": null,
+      "text": "less than or equal to"
+    },
+    {
+      "label": null,
+      "text": "less than"
+    },
+    {
+      "label": null,
+      "text": "greater than or equal to"
+    },
+    {
+      "label": null,
+      "text": "greater than"
+    }
+  ],
+  "choice_pool": [
+    "less than or equal to",
+    "less than",
+    "greater than or equal to",
+    "greater than"
+  ],
+  "response_template": "The range is the set of all real numbers [blank_1] and [blank_2].",
+  "visual_elements": [
+    "graph showing a line segment from point (-2,2) with a closed dot to point (4,-4) with an open circle on coordinate axes labeled x and y"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.99,
+  "notes": null
+}

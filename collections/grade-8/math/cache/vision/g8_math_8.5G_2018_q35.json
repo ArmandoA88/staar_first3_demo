@@ -1,0 +1,33 @@
+{
+  "stem": "Which representation shows y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x: -2, 0, 8, 9 mapped to y: -7, 1, 1, 18"
+    },
+    {
+      "label": "B",
+      "text": "x: 0, 1 mapped to y: -5, 0, 1, 12"
+    },
+    {
+      "label": "C",
+      "text": "Table with columns x and y: (-1, 0), (-1, 5), (-1, 10), (-1, 15)"
+    },
+    {
+      "label": "D",
+      "text": "Table with columns x and y: (-4, -8), (0, 3), (1, 2), (-4, 10)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Mapping A: x in ellipse with -2, 0, 8, 9 mapped to y in ellipse with -7, 1, 18 by arrows",
+    "Mapping B: x in ellipse with 0, 1 mapped to y in ellipse with -5, 0, 1, 12 by arrows",
+    "Table C with columns x and y containing rows (-1, 0), (-1, 5), (-1, 10), (-1, 15)",
+    "Table D with columns x and y containing rows (-4, -8), (0, 3), (1, 2), (-4, 10)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

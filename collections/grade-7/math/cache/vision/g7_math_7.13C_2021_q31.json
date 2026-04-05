@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows Avery\u2019s net worth statement.\n\nNet Worth Statement\n\n| Item             | Value    |\n|------------------|----------|\n| Bank accounts    | $3,900   |\n| Car (current value) | ?      |\n| Credit card debt | -$2,950  |\n| Real estate     | $37,425  |\n| Student loans   | -$1,700  |\n| Investments     | $4,600   |\n\nAvery\u2019s net worth is $53,755. Based on the information in the table, what is the current value of Avery\u2019s car?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$3,180"
+    },
+    {
+      "label": "B",
+      "text": "$13,580"
+    },
+    {
+      "label": "C",
+      "text": "$7,830"
+    },
+    {
+      "label": "D",
+      "text": "$12,480"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: Net Worth Statement with columns Item and Value listing Bank accounts $3,900, Car (current value) ?, Credit card debt -$2,950, Real estate $37,425, Student loans -$1,700, Investments $4,600"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

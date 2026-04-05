@@ -1,0 +1,32 @@
+{
+  "stem": "This chart shows events related to World War I.\n\n[?]\n  \u2199            \u2198\nThe United States trades with European nations.\nU.S. banks make loans to European nations.",
+  "instruction": "Which title correctly replaces the question mark in this chart?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Benefits of U.S. Expansionism"
+    },
+    {
+      "label": "B",
+      "text": "Benefits of U.S. Neutrality"
+    },
+    {
+      "label": "C",
+      "text": "Benefits of U.S. Militarism"
+    },
+    {
+      "label": "D",
+      "text": "Benefits of U.S. Nationalism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "chart with a question mark in the top box",
+    "left box: The United States trades with European nations.",
+    "right box: U.S. banks make loans to European nations."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A scientist measured the weights of squirrels in two populations. The dot plots display data from each population.\n\nPopulation 1\n\nPopulation 2\n\nWhich statement is best supported by the information in the dot plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The two populations have different mode weights."
+    },
+    {
+      "label": "G",
+      "text": "The two populations have different median weights."
+    },
+    {
+      "label": "H",
+      "text": "The data for the two populations have different skews."
+    },
+    {
+      "label": "J",
+      "text": "The data for the two populations have different ranges."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two dot plots showing weights of squirrels in ounces from 11 to 20, one for Population 1 and one for Population 2."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

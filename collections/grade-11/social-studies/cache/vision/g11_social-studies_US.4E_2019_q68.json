@@ -1,0 +1,30 @@
+{
+  "stem": "What was the primary reason for these masks during World War I?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To hide the identities of soldiers from approaching enemies"
+    },
+    {
+      "label": "G",
+      "text": "To protect soldiers from spreading contagious diseases"
+    },
+    {
+      "label": "H",
+      "text": "To help soldiers use night vision technology to find the enemy"
+    },
+    {
+      "label": "J",
+      "text": "To protect soldiers from the effects of poison gas"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "photo of soldiers wearing protective masks and helmets in a wartime setting"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the equation in slope-intercept form of the line that passes through the point (5, 0) and is parallel to the line represented by y = 1.2x + 3.8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 1.2x - 6"
+    },
+    {
+      "label": "B",
+      "text": "y = -1.2x + 6"
+    },
+    {
+      "label": "C",
+      "text": "y = 1.2x + 5"
+    },
+    {
+      "label": "D",
+      "text": "y = -1.2x - 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

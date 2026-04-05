@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best explains how bank failures contributed to the Great Depression?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "People lost their savings because the government did not insure bank deposits."
+    },
+    {
+      "label": "B",
+      "text": "Business could not be done when President Franklin Roosevelt declared a bank holiday."
+    },
+    {
+      "label": "C",
+      "text": "The interest rates on bank loans were too high."
+    },
+    {
+      "label": "D",
+      "text": "Foreign investors did not invest enough in U.S. banks."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text with multiple choice options"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

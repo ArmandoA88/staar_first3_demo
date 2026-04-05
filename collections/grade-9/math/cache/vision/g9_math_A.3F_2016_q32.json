@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph can be used to find the solution to the system of equations below?\n\n2x + y = -4\n-3y = 2x + 12",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph showing two lines intersecting with coordinates including (-4,4) and (4,-4)"
+    },
+    {
+      "label": "H",
+      "text": "Graph showing two lines intersecting with coordinates including (1,2) and (-2,-4)"
+    },
+    {
+      "label": "G",
+      "text": "Graph showing two lines intersecting with coordinates including (-3,4) and (4,-2)"
+    },
+    {
+      "label": "J",
+      "text": "Graph showing two lines intersecting with coordinates including (-4,-1) and (3,5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph labeled F with two lines intersecting",
+    "Graph labeled H with two lines intersecting",
+    "Graph labeled G with two lines intersecting",
+    "Graph labeled J with two lines intersecting"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Wording and math preserved exactly. Options labeled as in image."
+}

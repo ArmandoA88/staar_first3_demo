@@ -1,0 +1,30 @@
+{
+  "stem": "The line graphed on the coordinate grid can be used to determine the number of inches of water added to a swimming pool after different numbers of hours.\n\nWhich statement best describes the slope of the graphed line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The water is being added at a rate of 0.42 inch per hour."
+    },
+    {
+      "label": "G",
+      "text": "The water is being added at a rate of 0.80 inch per hour."
+    },
+    {
+      "label": "H",
+      "text": "The water is being added at a rate of 2.40 inches per hour."
+    },
+    {
+      "label": "J",
+      "text": "The water is being added at a rate of 1.25 inches per hour."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A coordinate grid titled Swimming Pool with x-axis labeled 'Number of Hours' from 0 to 10 and y-axis labeled 'Water Added (inches)' from 0 to 30, with a line rising from origin (0,0) to (10, 30)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

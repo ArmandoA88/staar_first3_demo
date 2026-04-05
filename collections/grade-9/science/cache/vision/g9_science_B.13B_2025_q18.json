@@ -1,0 +1,30 @@
+{
+  "stem": "An environmental change that harms which organism would cause the **MOST** instability in the aquifer ecosystem?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Texas cave shrimp"
+    },
+    {
+      "label": "B",
+      "text": "Seborgias"
+    },
+    {
+      "label": "C",
+      "text": "Texas blind salamanders"
+    },
+    {
+      "label": "D",
+      "text": "Bacteria"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Food web diagram showing: Texas blind salamanders and Texas cave shrimp at the top; arrows from Texiwecks and Seborgias pointing to Texas cave shrimp; arrows from Bacteria pointing to Texiwecks and Seborgias; arrows from Fungi pointing to Seborgias and Texiwecks"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "stem": "Which organization\u2019s name correctly completes this table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Nation of Islam"
+    },
+    {
+      "label": "B",
+      "text": "Black Panther Party"
+    },
+    {
+      "label": "C",
+      "text": "Congress of Racial Equality"
+    },
+    {
+      "label": "D",
+      "text": "NAACP"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Civil Rights Organizations' with three rows: Important Leader, Name of Organization, Basic Philosophy.",
+    "First column under Important Leader: Martin Luther King, Jr.",
+    "Second column under Important Leader: Huey P. Newton.",
+    "First column under Name of Organization: Southern Christian Leadership Conference.",
+    "Second column under Name of Organization: ? (empty)",
+    "First column under Basic Philosophy: Use nonviolent resistance to eliminate racial segregation and discrimination.",
+    "Second column under Basic Philosophy: Use all necessary means to defend the community and provide for community needs."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

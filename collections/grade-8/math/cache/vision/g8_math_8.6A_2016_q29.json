@@ -1,0 +1,30 @@
+{
+  "stem": "A cylinder and its dimensions are shown below.\n\nOne equation for calculating the volume of a cylinder is \\(V = Bh\\), where \\(B\\) represents the area of the base of the cylinder. Which expression can be used to find the value of \\(B\\), in square centimeters, for this cylinder?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\pi(12.1){^2}\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\(2\\pi(12.1)\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\pi(3.8){^2}\\)"
+    },
+    {
+      "label": "D",
+      "text": "None of these"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cylinder dimensions 12.1 cm (radius), 3.8 cm (height)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

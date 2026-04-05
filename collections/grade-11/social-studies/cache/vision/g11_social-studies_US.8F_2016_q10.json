@@ -1,0 +1,30 @@
+{
+  "stem": "The event described in this headline resulted in \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "decreased federal funding of student loans"
+    },
+    {
+      "label": "G",
+      "text": "increased support for the antiwar movement"
+    },
+    {
+      "label": "H",
+      "text": "the reinstatement of the draft"
+    },
+    {
+      "label": "J",
+      "text": "an end to federal investigations of student organizations"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The New York Times May 4, 1970 Four Kent State University Students Killed by Ohio National Guardsmen"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

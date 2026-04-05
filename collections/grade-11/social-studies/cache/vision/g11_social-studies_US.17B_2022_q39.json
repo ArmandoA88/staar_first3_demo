@@ -1,0 +1,30 @@
+{
+  "stem": "Which government action directly contributed to these changes?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Passage of the Federal Reserve Act"
+    },
+    {
+      "label": "B",
+      "text": "Passage of the National Security Act of 1947"
+    },
+    {
+      "label": "C",
+      "text": "Passage of the Servicemen's Readjustment Act of 1944"
+    },
+    {
+      "label": "D",
+      "text": "Passage of the Central Intelligence Agency Act"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Under the act, approximately 2,300,000 attended colleges and universities, 3,500,000 received school training, and 3,400,000 received on-the-job training. The number of degrees awarded by U.S. colleges and universities more than doubled between 1940 and 1950. \u2014The U.S. National Archives and Records Administration, www.ourdocuments.gov (accessed September 21, 2017)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which section of the diagram includes the coolest, brightest stars?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Section 1"
+    },
+    {
+      "label": "B",
+      "text": "Section 2"
+    },
+    {
+      "label": "C",
+      "text": "Section 3"
+    },
+    {
+      "label": "D",
+      "text": "Section 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Hertzsprung-Russell Diagram with sections 1, 2, 3, and 4 labeled on a graph with Temperature (\\times 10^{2} K) on the x-axis and Luminosity (L_{Sun}) on the y-axis"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Exact phrasing and labels preserved; math notation kept as in image."
+}

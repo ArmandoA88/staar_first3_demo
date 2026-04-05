@@ -1,0 +1,30 @@
+{
+  "stem": "The values in the table represent a linear relationship between x and y.\n\n| x   | -8.5 | -6.5 | -2.5 | -1   |\n|-----|------|------|------|------|\n| y   | -92  | -72  | -32  | -17  |\n\nWhat is the rate of change of y with respect to x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10"
+    },
+    {
+      "label": "B",
+      "text": "17"
+    },
+    {
+      "label": "C",
+      "text": "-10"
+    },
+    {
+      "label": "D",
+      "text": "-17"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with two rows labeled x and y, and values for x: -8.5, -6.5, -2.5, -1, and for y: -92, -72, -32, -17"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "stem": "A company specializes in manufacturing and distributing automobile parts. Which use of computer technology would most enhance the productivity of this business?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Providing employees with remote access to the company\u2019s network"
+    },
+    {
+      "label": "G",
+      "text": "Using direct deposit for employee paychecks"
+    },
+    {
+      "label": "H",
+      "text": "Developing a website to advertise discounts on products"
+    },
+    {
+      "label": "J",
+      "text": "Using an automated tracking system for shipping and warehouse inventory"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 \u2013 Q60",
+    "60 A company specializes in manufacturing and distributing automobile parts. Which use of computer technology would most enhance the productivity of this business?",
+    "F Providing employees with remote access to the company\u2019s network",
+    "G Using direct deposit for employee paychecks",
+    "H Developing a website to advertise discounts on products",
+    "J Using an automated tracking system for shipping and warehouse inventory"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

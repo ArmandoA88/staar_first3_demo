@@ -1,0 +1,30 @@
+{
+  "stem": "This cartoon comments on tactics used to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "secure the southern border of California"
+    },
+    {
+      "label": "G",
+      "text": "protect shipping lanes in the Great Lakes"
+    },
+    {
+      "label": "H",
+      "text": "create a defensive alliance with France"
+    },
+    {
+      "label": "J",
+      "text": "obtain control of the Panama Canal Zone"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cartoon showing a man holding a big stick with the words 'THE BIG STICK' and sitting in a boat labeled 'PANAMA'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

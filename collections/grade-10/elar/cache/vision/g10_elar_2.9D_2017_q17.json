@@ -1,0 +1,31 @@
+{
+  "stem": "What change should be made in sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change its to it's"
+    },
+    {
+      "label": "B",
+      "text": "Change sugary to sugery"
+    },
+    {
+      "label": "C",
+      "text": "Change help pay to helped pay"
+    },
+    {
+      "label": "D",
+      "text": "Change the period to a question mark"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q17 Passage #4",
+    "17"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

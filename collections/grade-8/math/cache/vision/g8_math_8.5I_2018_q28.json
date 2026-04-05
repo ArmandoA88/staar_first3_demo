@@ -1,0 +1,30 @@
+{
+  "stem": "The ticket sales for a concert started at 4:00 P.M. The table shows the linear relationship between the number of tickets remaining and the number of hours since 4:00 P.M.\n\nTicket Sales\n\n| Hours Since 4 P.M. | Number of Tickets Remaining |\n|--------------------|-----------------------------|\n| 1                  | 12,000                      |\n| 2                  | 9,000                       |\n| 3                  | 6,000                       |\n| 4                  | 3,000                       |\n| 5                  | 0                           |\n\nWhich function can be used to find y, the number of tickets remaining x hours since 4:00 P.M.?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = 3,000x + 12,000"
+    },
+    {
+      "label": "G",
+      "text": "y = 3,000x + 15,000"
+    },
+    {
+      "label": "H",
+      "text": "y = \u22123,000x + 12,000"
+    },
+    {
+      "label": "J",
+      "text": "y = \u22123,000x + 15,000"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table of Ticket Sales: Hours Since 4 P.M. and Number of Tickets Remaining"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

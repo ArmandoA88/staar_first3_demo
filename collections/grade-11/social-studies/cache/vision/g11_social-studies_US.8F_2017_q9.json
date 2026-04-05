@@ -1,0 +1,32 @@
+{
+  "stem": "Which of the following is the best title for this list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Protests Against the Vietnam War"
+    },
+    {
+      "label": "B",
+      "text": "Opposition to the Arms Race"
+    },
+    {
+      "label": "C",
+      "text": "Support for Gender Equality"
+    },
+    {
+      "label": "D",
+      "text": "Demands to Stop Dumping Chemical Waste"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "College \u201cteach-ins\u201d",
+    "Burning draft cards",
+    "Mass demonstrations"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

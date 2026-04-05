@@ -1,0 +1,30 @@
+{
+  "stem": "The graphs of linear functions f and g are shown on the grid.\n\nWhich function is best represented by the graph of g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "g(x) = f(x) - 4"
+    },
+    {
+      "label": "B",
+      "text": "g(x) = \\frac{1}{3} f(x)"
+    },
+    {
+      "label": "C",
+      "text": "g(x) = f(x) - 2"
+    },
+    {
+      "label": "D",
+      "text": "g(x) = 3f(x)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing two linear functions labeled f and g on coordinate axes with f having a steeper positive slope and g having a less steep positive slope."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

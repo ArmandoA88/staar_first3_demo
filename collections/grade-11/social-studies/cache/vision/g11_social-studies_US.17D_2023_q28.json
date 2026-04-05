@@ -1,0 +1,16 @@
+{
+  "stem": "The Economic Opportunity Act of 1964 established the Office of Economic Opportunity to implement education, employment, and training programs as part of the Great Society initiative.\n\nThis act provided adult education and other benefits such as [blank_1].\n\nOne effect of this act was a [blank_2].",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [],
+  "choice_pool": [
+    "job corps",
+    "head start",
+    "higher wages",
+    "reduction in poverty"
+  ],
+  "response_template": "This act provided adult education and other benefits such as [blank_1].\n\nOne effect of this act was a [blank_2].",
+  "visual_elements": [],
+  "item_type_inferred": "inline choice",
+  "confidence": 0.98,
+  "notes": null
+}

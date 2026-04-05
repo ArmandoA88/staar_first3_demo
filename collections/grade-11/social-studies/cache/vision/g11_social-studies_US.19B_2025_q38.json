@@ -1,0 +1,35 @@
+{
+  "stem": "This excerpt describes the principle of [blank_1].",
+  "instruction": "Choose the correct answer from the drop-down menu to complete the sentence.",
+  "options": [
+    {
+      "label": null,
+      "text": "isolationism"
+    },
+    {
+      "label": null,
+      "text": "popular sovereignty"
+    },
+    {
+      "label": null,
+      "text": "institutions"
+    },
+    {
+      "label": null,
+      "text": "interventionism"
+    }
+  ],
+  "choice_pool": [
+    "isolationism",
+    "popular sovereignty",
+    "institutions",
+    "interventionism"
+  ],
+  "response_template": "This excerpt describes the principle of [blank_1].",
+  "visual_elements": [
+    "Excerpt from President Ronald Reagan's 1986 statement on Comprehensive Anti-Apartheid Act"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.99,
+  "notes": null
+}

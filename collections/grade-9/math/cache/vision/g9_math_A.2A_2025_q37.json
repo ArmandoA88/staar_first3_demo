@@ -1,0 +1,30 @@
+{
+  "stem": "The owner of a business purchased a delivery van for $62,500. For accounting purposes the owner identified a constant depreciation on the value of the van. The graph shows the linear relationship between y, the value in dollars of the delivery van, and x, the time in years.\n\nWhich inequality best represents the domain of the function for this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0 \u2264 y \u2264 10"
+    },
+    {
+      "label": "B",
+      "text": "0 \u2264 x \u2264 10"
+    },
+    {
+      "label": "C",
+      "text": "0 \u2264 y \u2264 62,500"
+    },
+    {
+      "label": "D",
+      "text": "0 \u2264 x \u2264 62,500"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph labeled Delivery Van with y-axis Value (dollars) from 0 to 65,000 and x-axis Time (years) from 0 to 10, showing a line starting near (0, 62,500) sloping downward to (10, 0)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

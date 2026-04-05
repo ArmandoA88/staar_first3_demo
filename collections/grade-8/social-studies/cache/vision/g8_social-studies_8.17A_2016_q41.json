@@ -1,0 +1,31 @@
+{
+  "stem": "Speaker 1: A strong central government will provide order and stability.\nSpeaker 2: We have just left the control of one tyrant; let us avoid an American tyrant.\nSpeaker 3: The strength of our union lies in the independence of our states.\nSpeaker 4: We were led into a war by a minority who desired independence.",
+  "instruction": "Which speaker is in favor of ratifying the Constitution?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Speaker 1"
+    },
+    {
+      "label": "B",
+      "text": "Speaker 2"
+    },
+    {
+      "label": "C",
+      "text": "Speaker 3"
+    },
+    {
+      "label": "D",
+      "text": "Speaker 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text box with four speaker statements",
+    "multiple choice question and answer options"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,25 @@
+{
+  "stem": "Two parallelograms are similar. The dimensions of the larger parallelogram are 8.4 times the corresponding dimensions of the smaller parallelogram.\n\nComplete the sentences about the area and perimeter of the two parallelograms.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [
+    {
+      "label": null,
+      "text": "70.56"
+    },
+    {
+      "label": null,
+      "text": "8.4"
+    }
+  ],
+  "choice_pool": [
+    "70.56",
+    "8.4"
+  ],
+  "response_template": "The area of the larger parallelogram is [blank_1] times the area of the smaller parallelogram.\n\nThe perimeter of the larger parallelogram is [blank_2] times the perimeter of the smaller parallelogram.",
+  "visual_elements": [
+    "two parallelograms similarity scale factor 8.4"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.9,
+  "notes": null
+}

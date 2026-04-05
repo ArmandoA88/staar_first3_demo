@@ -1,0 +1,30 @@
+{
+  "stem": "The initial value of a home is $200,000. The value of the home will increase at a rate of 6% each year.\n\nWhich graph best models this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with starting value at 200,000 and a moderate upward curve reaching near 900,000 by 27 years"
+    },
+    {
+      "label": "H",
+      "text": "Graph with starting value at 200,000 and a very steep upward curve reaching near 900,000 by 8 years"
+    },
+    {
+      "label": "G",
+      "text": "Graph with starting value at 100,000 and a very steep upward curve reaching near 900,000 by 8 years"
+    },
+    {
+      "label": "J",
+      "text": "Graph with starting value at 100,000 and a gradual upward curve reaching near 600,000 by 27 years"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4 line graphs labeled F, H, G, J with axes labeled 'Value (dollars)' vs 'Time (years)'. Graphs F and H both start at 200,000 on y-axis and Graphs G and J start at 100,000. Graph F shows gradual exponential growth, Graph H and G show very steep curve, Graph J shows slow growth."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": "Four graphs depict possible exponential growths. Only graphs F and H start at the given initial value $200,000; G and J start incorrectly at 100,000. The value increases by 6% per year, which is moderate growth, best modeled by graph F."
+}

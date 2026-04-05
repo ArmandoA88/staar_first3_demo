@@ -1,0 +1,30 @@
+{
+  "stem": "This model of the backboard of a basketball goal is composed of a rectangle and a semicircle. Use the ruler provided to measure the dimensions of the model to the nearest half inch.\n\nWhich measurement is closest to the area of the model of the backboard in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "18.56 in.^2"
+    },
+    {
+      "label": "B",
+      "text": "31.12 in.^2"
+    },
+    {
+      "label": "C",
+      "text": "12.28 in.^2"
+    },
+    {
+      "label": "D",
+      "text": "23.56 in.^2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A diagram showing a basketball backboard composed of a rectangle and a semicircle on top. The word 'Backboard' is written inside the shape. Below the rectangle is a basketball hoop with a net."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

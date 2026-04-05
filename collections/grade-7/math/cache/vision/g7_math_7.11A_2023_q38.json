@@ -1,0 +1,31 @@
+{
+  "stem": "An equation is modeled below.\n\n[image shows an equation with three tall rectangles and one small square on the left side, equal to seven small squares on the right side. A key shows the tall rectangle equals x and the small square equals 1]\n\nWhich value of x makes this equation true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{8}{3} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{7}{4} \\)"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram showing equation with 3 tall rectangles plus 1 small square equals 7 small squares",
+    "key showing tall rectangle = x and small square = 1"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Students examined the properties of five different elements and recorded observations about their properties in the table. Based on the students\u2019 observations, classify each sample as a metal, nonmetal, or metalloid.",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once.",
+  "options": [
+    {
+      "label": null,
+      "text": "Metal"
+    },
+    {
+      "label": null,
+      "text": "Nonmetal"
+    },
+    {
+      "label": null,
+      "text": "Metalloid"
+    }
+  ],
+  "choice_pool": [
+    "Metal",
+    "Nonmetal",
+    "Metalloid"
+  ],
+  "response_template": "Sample 1: [blank_1]\nSample 2: [blank_2]\nSample 3: [blank_3]\nSample 4: [blank_4]\nSample 5: [blank_5]",
+  "visual_elements": [
+    "Table with properties and sample data as shown in the image"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "Standard 6.6(C), year 2023, question number 24, declared item type Drag and Drop (2 pts)."
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete the comma after *skies*"
+    },
+    {
+      "label": "B",
+      "text": "Change *are* to is"
+    },
+    {
+      "label": "C",
+      "text": "Change *geology* to Geology"
+    },
+    {
+      "label": "D",
+      "text": "Change *unforgettable* to unforgettable"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

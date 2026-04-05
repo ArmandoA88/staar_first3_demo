@@ -1,0 +1,30 @@
+{
+  "stem": "Which point on the number line best represents the location of \\( \\sqrt{92} \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Point \\( M \\)"
+    },
+    {
+      "label": "G",
+      "text": "Point \\( N \\)"
+    },
+    {
+      "label": "H",
+      "text": "Point \\( P \\)"
+    },
+    {
+      "label": "J",
+      "text": "Point \\( Q \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Number line labeled from 8 to 10 with points M, N, P, Q between 9 and 10"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

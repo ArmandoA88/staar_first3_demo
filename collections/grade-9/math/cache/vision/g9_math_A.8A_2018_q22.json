@@ -1,0 +1,30 @@
+{
+  "stem": "What are the solutions to \\( (x+7)^2 = 81 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-74 and 88"
+    },
+    {
+      "label": "G",
+      "text": "-2 and 16"
+    },
+    {
+      "label": "H",
+      "text": "-88 and 74"
+    },
+    {
+      "label": "J",
+      "text": "-16 and 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(x + 7)^2 = 81"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

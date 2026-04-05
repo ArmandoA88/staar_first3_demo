@@ -1,0 +1,43 @@
+{
+  "stem": "Following World War II, some African American soldiers were motivated to settle overseas because of the racism they experienced living in the United States and the [blank_1] they found in European countries. A few chose to open restaurants that served the regional cuisine they were accustomed to back home, leading to [blank_2].",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [
+    {
+      "label": null,
+      "text": "less racism"
+    },
+    {
+      "label": null,
+      "text": "more racism"
+    },
+    {
+      "label": null,
+      "text": "cultural differences"
+    },
+    {
+      "label": null,
+      "text": "civil rights improvements"
+    },
+    {
+      "label": null,
+      "text": "success in business"
+    },
+    {
+      "label": null,
+      "text": "economic struggles"
+    }
+  ],
+  "choice_pool": [
+    "less racism",
+    "more racism",
+    "cultural differences",
+    "civil rights improvements",
+    "success in business",
+    "economic struggles"
+  ],
+  "response_template": "Following World War II, some African American soldiers were motivated to settle overseas because of the racism they experienced living in the United States and the [blank_1] they found in European countries. A few chose to open restaurants that served the regional cuisine they were accustomed to back home, leading to [blank_2].",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.98,
+  "notes": null
+}

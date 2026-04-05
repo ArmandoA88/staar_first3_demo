@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to \\( \\frac{10q^{5}w^{7}}{2w^{3}} \\cdot \\frac{4(q^{6})^{2}}{w^{-5}} \\) for all values of \\( q \\) and \\( w \\) where the expression is defined?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{32q^{7}}{w} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( 20q^{17}w^{9} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( 32q^{7}w^{9} \\)"
+    },
+    {
+      "label": "D",
+      "text": "20qw"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{10q^{5}w^{7}}{2w^{3}} \\cdot \\frac{4(q^{6})^{2}}{w^{-5}} \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

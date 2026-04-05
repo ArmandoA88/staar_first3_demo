@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the value in dollars of a motorcycle at the end of x years.\n\nMotorcycle\n\n| Number of Years, x | 0 | 1 | 2 | 3 |\n| Value, v(x) (dollars) | 9,000 | 8,100 | 7,290 | 6,561 |\n\nWhich exponential function models this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "v(x) = 9,000(1.1)^x"
+    },
+    {
+      "label": "G",
+      "text": "v(x) = 9,000(0.9)^x"
+    },
+    {
+      "label": "H",
+      "text": "v(x) = 8,100(1.1)^x"
+    },
+    {
+      "label": "J",
+      "text": "v(x) = 8,100(0.9)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns labeled Number of Years, x and Value, v(x) (dollars) showing values 0,1,2,3 and 9000,8100,7290,6561 respectively"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

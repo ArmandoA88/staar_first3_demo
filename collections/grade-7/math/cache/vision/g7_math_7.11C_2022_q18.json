@@ -1,0 +1,28 @@
+{
+  "stem": "Angle F and angle H are supplementary angles.\n\n\u2022 The measure of angle F is 77\u00b0.\n\n\u2022 The measure of angle H is (5x + 18)\u00b0.\n\nWhich equation can be used to find the value of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "77 = 5x + 18"
+    },
+    {
+      "label": "G",
+      "text": "77 + (5x + 18) = 180"
+    },
+    {
+      "label": "H",
+      "text": "77 + (5x + 18) = 90"
+    },
+    {
+      "label": "J",
+      "text": "77 + (5x + 18) = 360"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 31?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the comma after leaders"
+    },
+    {
+      "label": "G",
+      "text": "Change those to these"
+    },
+    {
+      "label": "H",
+      "text": "Insert a comma after issues"
+    },
+    {
+      "label": "J",
+      "text": "Change commited to committed"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

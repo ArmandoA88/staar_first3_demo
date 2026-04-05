@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence describes a result of the situation addressed by President Nixon?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The ongoing conflict in the Middle East led the U.S. government to focus on increasing foreign oil imports."
+    },
+    {
+      "label": "B",
+      "text": "The ongoing conflict in the Middle East led the U.S. government to begin taking over domestic energy companies."
+    },
+    {
+      "label": "C",
+      "text": "The actions of the Organization of Petroleum Exporting Countries (OPEC) led the U.S. government to focus on energy conservation."
+    },
+    {
+      "label": "D",
+      "text": "The actions of the Organization of Petroleum Exporting Countries (OPEC) led the U.S. government to begin exporting oil to the region."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Good evening: Three weeks ago, I spoke to you about the national energy crisis and our policy for meeting it. Tonight I want to talk with you again to report on our progress and to announce further steps we must take to carry out our energy policy. . . . In order to minimize disruptions in our economy, I asked on November 7 that all Americans adopt certain . . . measures to help meet the challenge of reduced energy supplies. These steps include reductions in home heating, reductions in driving speeds, elimination of unnecessary lighting. And American people, all of you, you have responded to this challenge with that spirit of sacrifice which has made this such a great nation. \u2014President Richard Nixon, Address to the Nation about National Energy Policy, November 25, 1973"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

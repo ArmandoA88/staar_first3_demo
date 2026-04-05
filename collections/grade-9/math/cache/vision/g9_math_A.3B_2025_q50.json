@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the graph, what is the rate of change of the student's distance from home in miles with respect to the time in minutes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Decrease of \\( \\frac{3}{4} \\) mi per minute"
+    },
+    {
+      "label": "B",
+      "text": "Decrease of \\( \\frac{4}{3} \\) mi per minute"
+    },
+    {
+      "label": "C",
+      "text": "Increase of \\( \\frac{3}{4} \\) mi per minute"
+    },
+    {
+      "label": "D",
+      "text": "Increase of \\( \\frac{4}{3} \\) mi per minute"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A graph titled 'Going Home' with x-axis labeled 'Time (min)' from 0 to 8 and y-axis labeled 'Distance from Home (mi)' from 0 to 6. A line descends from (0,6) to (8,0)."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

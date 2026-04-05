@@ -1,0 +1,30 @@
+{
+  "stem": "The bar graph shows a company\u2019s income and expenses over the last 5 years.\n\nWhich statement is supported by the information in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Expenses have increased $200,000 each year over the last 5 years."
+    },
+    {
+      "label": "B",
+      "text": "The income in Year 5 was twice the income in Year 1."
+    },
+    {
+      "label": "C",
+      "text": "The combined income in Years 1, 2, and 3 was equal to the combined expenses in Years 1, 2, and 3."
+    },
+    {
+      "label": "D",
+      "text": "The combined expenses in Years 3 and 4 were $300,000 more than the combined income in Years 3 and 4."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bar graph titled 'Income and Expenses' with Years 1 through 5 on x-axis and Amount ($) from 0 to 1,000,000 on y-axis; black bars represent Income, gray bars represent Expenses, with income and expense bars shown for each year"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

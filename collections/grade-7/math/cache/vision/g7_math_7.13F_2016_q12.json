@@ -1,0 +1,30 @@
+{
+  "stem": "Leo wants to buy some shoes. He found the shoes at three different stores for a price of $35. The stores are each having a sale.\n\n\u2022 Store X is offering 15% off the price of the shoes.\n\n\u2022 Store Y is offering $5 off the price of the shoes.\n\n\u2022 Store Z is offering a \\frac{1}{5} discount off the price of the shoes.\n\nWhich statement about the sale price of these shoes is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Store X has the best sale price of $20."
+    },
+    {
+      "label": "G",
+      "text": "Store Z has the best sale price of $28."
+    },
+    {
+      "label": "H",
+      "text": "Store Y has the best sale price of $30."
+    },
+    {
+      "label": "J",
+      "text": "Store Z has the best sale price of $7."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\frac{1}{5}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

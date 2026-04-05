@@ -1,0 +1,30 @@
+{
+  "stem": "These headlines refer to the decision in which Supreme Court case?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "McCulloch v. Maryland"
+    },
+    {
+      "label": "B",
+      "text": "Gibbons v. Ogden"
+    },
+    {
+      "label": "C",
+      "text": "Dred Scott v. Sandford"
+    },
+    {
+      "label": "D",
+      "text": "Worcester v. Georgia"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two newspaper front pages with headlines: one from New York Daily Times, March 7, 1857, titled 'Missouri Compromise Declared Unconstitutional'; the other from New York Daily Tribune, March 9, 1857, titled 'The Triumph of Slavery'."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

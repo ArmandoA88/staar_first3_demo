@@ -1,0 +1,33 @@
+{
+  "stem": "Which inference about the preferred study times of all students who attend these two colleges is best supported by this information?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There are more students who attend College X than students who attend College Y."
+    },
+    {
+      "label": "B",
+      "text": "The mode time preference for studying among students who attend College X is the morning."
+    },
+    {
+      "label": "C",
+      "text": "More students who attend College Y like to study in the evening than in the morning and afternoon combined."
+    },
+    {
+      "label": "D",
+      "text": "The percentage of students who prefer studying in the morning or afternoon is equal for students attending College X and College Y."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled Preferred Study Times with x-axis labeled Study Times showing Morning, Afternoon, Evening and y-axis labeled Number of Students from 0 to 9.",
+    "Key indicating black bars represent College X and gray bars represent College Y.",
+    "Bars for College X: Morning 8, Afternoon 3, Evening 2.",
+    "Bars for College Y: Morning 4, Afternoon 7, Evening 9."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

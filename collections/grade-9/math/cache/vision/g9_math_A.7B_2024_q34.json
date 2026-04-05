@@ -1,0 +1,50 @@
+{
+  "stem": "For quadratic function \\( h \\), \\( h\\left(-\\frac{3}{2}\\right) = 0 \\) and \\( h(5) = 0 \\). What is a possible equation for \\( h \\) in factored form?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "(x + 5)"
+    },
+    {
+      "label": null,
+      "text": "(x - 5)"
+    },
+    {
+      "label": null,
+      "text": "(2x - 3)"
+    },
+    {
+      "label": null,
+      "text": "(2x + 3)"
+    },
+    {
+      "label": null,
+      "text": "(3x - 2)"
+    },
+    {
+      "label": null,
+      "text": "(3x + 2)"
+    }
+  ],
+  "choice_pool": [
+    "(x + 5)",
+    "(x - 5)",
+    "(2x - 3)",
+    "(2x + 3)",
+    "(3x - 2)",
+    "(3x + 2)"
+  ],
+  "response_template": "h(x) = [blank_1] [blank_2]",
+  "visual_elements": [
+    "(x + 5)",
+    "(x - 5)",
+    "(2x - 3)",
+    "(2x + 3)",
+    "(3x - 2)",
+    "(3x + 2)"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

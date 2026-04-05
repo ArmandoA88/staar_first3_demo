@@ -1,0 +1,30 @@
+{
+  "stem": "A graph of a quadratic function is shown. Which location best represents the y-intercept of the function?",
+  "instruction": "Select ONE correct answer.",
+  "options": [
+    {
+      "label": "A",
+      "text": "(-4, 0)"
+    },
+    {
+      "label": "B",
+      "text": "(2, 0)"
+    },
+    {
+      "label": "C",
+      "text": "(-2, -4)"
+    },
+    {
+      "label": "D",
+      "text": "(0, 3)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate plane with a quadratic curve opening upwards, points circled at (-4, 0), (2, 0), (-2, -4), and (0, 3)."
+  ],
+  "item_type_inferred": "Hot Spot",
+  "confidence": 0.98,
+  "notes": "The problem is a standard graph interpretation question to identify the y-intercept, which is where the graph crosses the y-axis. The circled points are used as answer options."
+}

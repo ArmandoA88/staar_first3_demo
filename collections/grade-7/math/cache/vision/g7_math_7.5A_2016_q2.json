@@ -1,0 +1,30 @@
+{
+  "stem": "Figure JKLM is similar to figure PQRS.\n\nWhich proportion must be true for these figures?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{QR}{QP} = \\frac{JK}{LM}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{QR}{KL} = \\frac{RS}{JK}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{QR}{MJ} = \\frac{PQ}{LM}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{QR}{KL} = \\frac{PS}{JM}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two quadrilaterals JKLM and PQRS with vertices labeled as shown"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

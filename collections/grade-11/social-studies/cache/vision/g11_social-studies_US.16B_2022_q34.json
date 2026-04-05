@@ -1,0 +1,35 @@
+{
+  "stem": "Which action by the federal government was one cause of the Great Depression?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Failing to decrease the reserve requirement"
+    },
+    {
+      "label": "G",
+      "text": "Refusing to regulate the stock market"
+    },
+    {
+      "label": "H",
+      "text": "Abolishing the use of the gold standard"
+    },
+    {
+      "label": "J",
+      "text": "Eliminating tariffs on foreign trade"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q34",
+    "34 Which action by the federal government was one cause of the Great Depression?",
+    "F Failing to decrease the reserve requirement",
+    "G Refusing to regulate the stock market",
+    "H Abolishing the use of the gold standard",
+    "J Eliminating tariffs on foreign trade"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

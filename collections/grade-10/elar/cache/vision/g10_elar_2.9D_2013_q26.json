@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to write sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The school will train any type of dog that weighs at least 66 pounds and has a docile, obedient nature, but it favors Labradors, Newfoundlands, and golden retrievers."
+    },
+    {
+      "label": "G",
+      "text": "The school will train any type of dog that weighs at least 66 pounds and has a docile, obedient nature. But favors Labradors, Newfoundlands, and golden retrievers."
+    },
+    {
+      "label": "H",
+      "text": "The school will train any type of dog that weighs at least 66 pounds, has a docile, obedient nature, and favors Labradors, Newfoundlands, and golden retrievers."
+    },
+    {
+      "label": "J",
+      "text": "The sentence is written correctly in the paper."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

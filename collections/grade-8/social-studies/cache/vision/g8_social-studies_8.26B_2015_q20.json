@@ -1,0 +1,31 @@
+{
+  "stem": "This painting was completed in 1864, just before the end of the Civil War. At that time, what idea did the western frontier represent to many Americans?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The need to establish national parks"
+    },
+    {
+      "label": "G",
+      "text": "The threat of industrial pollution"
+    },
+    {
+      "label": "H",
+      "text": "The abundance of wildlife"
+    },
+    {
+      "label": "J",
+      "text": "The promise of a new beginning for the nation"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Valley of the Yosemite by Albert Bierstadt (1864)",
+    "black-and-white painting of a mountainous landscape with trees, water, and deer"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "An oil-well contractor drills a shaft 7 meters deeper into the ground every 2 hours. Which graph has a slope that best represents this rate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with slope from 0 to -20 meters over 10 hours"
+    },
+    {
+      "label": "H",
+      "text": "Graph with slope from 0 to -35 meters over 10 hours"
+    },
+    {
+      "label": "G",
+      "text": "Graph with slope from 0 to -70 meters over 10 hours"
+    },
+    {
+      "label": "J",
+      "text": "Graph with slope at constant -3.5 meters over 10 hours"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, J each titled 'Depth of Shaft over Time' with depth in meters on y-axis and time in hours on x-axis."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

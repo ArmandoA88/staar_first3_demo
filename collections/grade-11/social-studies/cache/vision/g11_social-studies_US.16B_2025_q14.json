@@ -1,0 +1,37 @@
+{
+  "stem": "Determine whether each action was a cause or an effect of bank failures during the Great Depression.",
+  "instruction": "Select the correct answer in each row.",
+  "options": [
+    {
+      "label": null,
+      "text": "Stock market speculation increased."
+    },
+    {
+      "label": null,
+      "text": "Many people lost their life savings."
+    },
+    {
+      "label": null,
+      "text": "Financial institutions were closed to determine their stability."
+    },
+    {
+      "label": null,
+      "text": "Financial institutions lacked cash reserves because they had invested deposits."
+    },
+    {
+      "label": null,
+      "text": "Businesses were unable to take out loans."
+    }
+  ],
+  "choice_pool": [
+    "Cause of Bank Failures",
+    "Effect of Bank Failures"
+  ],
+  "response_template": "Action: Stock market speculation increased. Cause of Bank Failures [blank_1] Effect of Bank Failures [blank_2]\nAction: Many people lost their life savings. Cause of Bank Failures [blank_3] Effect of Bank Failures [blank_4]\nAction: Financial institutions were closed to determine their stability. Cause of Bank Failures [blank_5] Effect of Bank Failures [blank_6]\nAction: Financial institutions lacked cash reserves because they had invested deposits. Cause of Bank Failures [blank_7] Effect of Bank Failures [blank_8]\nAction: Businesses were unable to take out loans. Cause of Bank Failures [blank_9] Effect of Bank Failures [blank_10]",
+  "visual_elements": [
+    "table with actions and columns labeled 'Cause of Bank Failures' and 'Effect of Bank Failures', each row with checkboxes"
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 0.98,
+  "notes": "The problem requires selecting cause or effect for each action; presented as a grid with two choices per row."
+}

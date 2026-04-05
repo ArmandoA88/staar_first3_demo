@@ -1,0 +1,30 @@
+{
+  "stem": "Which constitutional question was raised and debated because of the actions described in this excerpt?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Can states nullify federal laws?"
+    },
+    {
+      "label": "B",
+      "text": "Can the federal government take control of private property?"
+    },
+    {
+      "label": "C",
+      "text": "Can states apply full faith and credit to other states?"
+    },
+    {
+      "label": "D",
+      "text": "Can the federal government guarantee due process?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Whereas a convention, assembled in the State of South Carolina, have passed an ordinance, by which they declare that the several acts and parts of acts of the Congress of the United States . . . \"are . . . void, and no law,\" . . . , I, Andrew Jackson, President of the United States, have thought proper to issue this my PROCLAMATION, stating my views of the Constitution and laws applicable to the measures adopted by the Convention of South Carolina, and . . . warn them of the consequences that must inevitably result. . . . \u2014President Andrew Jackson, December 10, 1832"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "The meaning of sentence 2 is unclear. Which phrase should replace it in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "a strange smell"
+    },
+    {
+      "label": "B",
+      "text": "a problem"
+    },
+    {
+      "label": "C",
+      "text": "something else"
+    },
+    {
+      "label": "D",
+      "text": "the smoke"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

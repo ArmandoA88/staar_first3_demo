@@ -1,0 +1,28 @@
+{
+  "stem": "A circle has a radius of 6x^{9}y^{5} cm. The area of a circle can be found using A = \\pi r^{2}. What is the area of this circle in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "12\\pi x^{18}y^{10}"
+    },
+    {
+      "label": "B",
+      "text": "36\\pi x^{18}y^{10}"
+    },
+    {
+      "label": "C",
+      "text": "36\\pi x^{11}y^{7}"
+    },
+    {
+      "label": "D",
+      "text": "12\\pi x^{11}y^{7}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

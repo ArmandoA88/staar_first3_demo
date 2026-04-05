@@ -1,0 +1,30 @@
+{
+  "stem": "Which government principle is illustrated in this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Federalism"
+    },
+    {
+      "label": "G",
+      "text": "Popular sovereignty"
+    },
+    {
+      "label": "H",
+      "text": "Republicanism"
+    },
+    {
+      "label": "J",
+      "text": "Separation of powers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing U.S. Constitution branching into Article 1 Legislative Branch - Congress makes the laws, Article 2 Executive Branch - President enforces the laws, Article 3 Judicial Branch - Supreme Court interprets the laws."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

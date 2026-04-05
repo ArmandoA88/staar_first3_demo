@@ -1,0 +1,30 @@
+{
+  "stem": "What was the purpose of this World War II poster?",
+  "instruction": "Study the poster and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "To persuade women to purchase food ration coupons"
+    },
+    {
+      "label": "G",
+      "text": "To encourage families to put more money into bank savings accounts"
+    },
+    {
+      "label": "H",
+      "text": "To encourage citizens to help pay for the costs of the war"
+    },
+    {
+      "label": "J",
+      "text": "To persuade women to pay for the release of prisoners of war"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A World War II poster showing a woman holding a baby, with shadowy hands reaching toward them, one hand featuring a Nazi symbol, the other a Japanese symbol, and the text 'KEEP THESE HANDS OFF!' and 'BUY the New VICTORY BONDS'."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

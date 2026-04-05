@@ -1,0 +1,28 @@
+{
+  "stem": "Which situation does NOT show causation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "When the student population at a school increases, the number of teachers at the school increases."
+    },
+    {
+      "label": "B",
+      "text": "When the amount of sugar in a quart of apple juice is reduced, there are fewer calories in each serving."
+    },
+    {
+      "label": "C",
+      "text": "When there are more workers on a project, the project is completed in less time."
+    },
+    {
+      "label": "D",
+      "text": "When there is more protein in an athlete\u2019s diet, the athlete scores more points in a game."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

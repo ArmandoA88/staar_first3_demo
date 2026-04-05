@@ -1,0 +1,30 @@
+{
+  "stem": "Mr. Su\u00e1rez wants to paint his storage shed. He needs to calculate the lateral surface area of the shed so that he will know how much paint to buy. The shed is in the shape of a rectangular prism with the dimensions shown below.\n\nIncluding the doors, what is the lateral surface area of the storage shed in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "784 ft\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "266 ft\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "532 ft\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "336 ft\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A rectangular prism with length 14 ft, height 8 ft, and depth 7 ft, showing the front with double doors."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The graph shows the favorite colors chosen by some middle school students.\n\nFavorite Colors\nRed, Yellow, Orange, Blue, Green, Black, Pink, Purple\n\nWhich statement is supported by the information in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Fewer than 30% of the students chose red, yellow, or orange as their favorite color."
+    },
+    {
+      "label": "B",
+      "text": "More than \\frac{1}{10} of the students chose pink as their favorite color."
+    },
+    {
+      "label": "C",
+      "text": "Exactly 18% of the students chose blue as their favorite color."
+    },
+    {
+      "label": "D",
+      "text": "Exactly \\frac{2}{5} of the students chose green, black, or purple as their favorite color."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Favorite Colors' showing the number of students who chose each color. Red: 9, Yellow: 4, Orange: 3, Blue: 9, Green: 7, Black: 8, Pink: 4, Purple: 6."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Math fractions are preserved using LaTeX formatting for clarity."
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete the comma after ounces"
+    },
+    {
+      "label": "B",
+      "text": "Change uses to used"
+    },
+    {
+      "label": "C",
+      "text": "Change the comma after units to a colon"
+    },
+    {
+      "label": "D",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The speed of an object over time is shown in the graph.\n\n[Graph titled Speed vs. Time with vertical axis Speed (m/s) from 0 to 7 and horizontal axis Time (s) from 0 to 25. The graph line rises steeply from (0,0) to (3,7), remains constant at speed 7 from time 3 to 18, then decreases steeply back to 0 at time 23.]\n\nWhich table describes the object's motion?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\nTime Interval (s) | Description of the Motion\n0-3  | The object's speed is increasing.\n3-18 | The object's speed is constant.\n18-23| The object's speed is decreasing.\n"
+    },
+    {
+      "label": "H",
+      "text": "\nTime Interval (s) | Description of the Motion\n0-3  | The object's speed is increasing.\n3-18 | The object is at rest.\n18-23| The object's speed is decreasing.\n"
+    },
+    {
+      "label": "G",
+      "text": "\nTime Interval (s) | Description of the Motion\n0-3  | The object is moving in a positive direction.\n3-18 | The object is at rest.\n18-23| The object is moving in a negative direction.\n"
+    },
+    {
+      "label": "J",
+      "text": "\nTime Interval (s) | Description of the Motion\n0-3  | The object is moving at a constant speed.\n3-18 | The object is at rest.\n18-23| The object is moving at a constant speed.\n"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph Speed vs. Time with speed (m/s) on vertical axis and time (s) on horizontal axis with a line rising from 0 to 7 m/s between 0 and 3 s, constant at 7 m/s between 3 and 18 s, and descending from 7 to 0 m/s between 18 and 23 s."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

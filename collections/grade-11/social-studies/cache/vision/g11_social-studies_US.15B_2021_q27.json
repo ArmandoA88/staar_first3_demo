@@ -1,0 +1,30 @@
+{
+  "stem": "How did the concerns depicted in this cartoon affect the food industry?",
+  "instruction": "Study the cartoon and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The food industry increased the cost of products in order to pay for chemical additives."
+    },
+    {
+      "label": "B",
+      "text": "The federal government regulated the food industry in order to protect the health of the public."
+    },
+    {
+      "label": "C",
+      "text": "The food industry imported more goods from Europe in order to offer customers more choices."
+    },
+    {
+      "label": "D",
+      "text": "The federal government passed antitrust legislation in order to increase competition in the food industry."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The cartoon shows a man using various labeled devices testing food items labeled SAND EXTRACTOR, BUTTER TESTER, SUGAR, HASH, PURE ORANGE CO. MILK, MILK TESTER, CHEMISTRY, HIGH WATER MARK."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

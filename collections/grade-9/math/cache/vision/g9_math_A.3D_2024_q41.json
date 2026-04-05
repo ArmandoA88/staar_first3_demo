@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents the solution set of x + 2y \\geq 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with a solid line and shaded area above the line in the first quadrant"
+    },
+    {
+      "label": "B",
+      "text": "Graph with a dashed line and shaded area below the line in the fourth quadrant"
+    },
+    {
+      "label": "C",
+      "text": "Graph with a solid line and shaded area below the line in the third quadrant"
+    },
+    {
+      "label": "D",
+      "text": "Graph with a dashed line and shaded area below the line in the third quadrant"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graphs labeled A, B, C, D each showing a line and shaded area representing inequalities on the coordinate plane."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": "Answer choices described verbally to preserve detail; shading and line style correspond to inequality and boundary inclusiveness."
+}

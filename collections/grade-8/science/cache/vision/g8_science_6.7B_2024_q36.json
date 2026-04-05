@@ -1,0 +1,43 @@
+{
+  "stem": "The diagram shows two arrows that represent the directions of two forces acting on a 1-kilogram ball. The arrows do not represent amounts of force, they only represent the directions of the two forces. How should the diagram be labeled if the ball is accelerating to the west at a rate of 1 m/s\u00b2? Move the correct answer to each box. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "12 newtons"
+    },
+    {
+      "label": null,
+      "text": "10 newtons"
+    },
+    {
+      "label": null,
+      "text": "8 newtons"
+    },
+    {
+      "label": null,
+      "text": "7 newtons"
+    },
+    {
+      "label": null,
+      "text": "5 newtons"
+    }
+  ],
+  "choice_pool": [
+    "12 newtons",
+    "10 newtons",
+    "8 newtons",
+    "7 newtons",
+    "5 newtons"
+  ],
+  "response_template": "[blank_1] \u2192 ball \u2192 [blank_2]",
+  "visual_elements": [
+    "Image shows a compass with N, E, S, W directions at top right.",
+    "Image shows a large gray circle in the center representing the ball.",
+    "Two arrows point horizontally: one from left to right, one from right to left.",
+    "Each arrow has a rectangular box above it for labeling."
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.98,
+  "notes": null
+}

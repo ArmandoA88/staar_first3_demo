@@ -1,0 +1,30 @@
+{
+  "stem": "Which policy did Governor Orval Faubus of Arkansas most strongly support in the 1950s?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Segregation in public places and schools"
+    },
+    {
+      "label": "B",
+      "text": "Enforcement of civil rights legislation"
+    },
+    {
+      "label": "C",
+      "text": "Increases in the federal regulation of business"
+    },
+    {
+      "label": "D",
+      "text": "Elimination of the poll tax"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

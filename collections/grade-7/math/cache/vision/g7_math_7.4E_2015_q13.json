@@ -1,0 +1,30 @@
+{
+  "stem": "Teri ran 8 kilometers. One mile is approximately equal to 1.6 kilometers. Which measurement is closest to the number of miles Teri ran?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5 mi"
+    },
+    {
+      "label": "B",
+      "text": "12.8 mi"
+    },
+    {
+      "label": "C",
+      "text": "6.4 mi"
+    },
+    {
+      "label": "D",
+      "text": "9.6 mi"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

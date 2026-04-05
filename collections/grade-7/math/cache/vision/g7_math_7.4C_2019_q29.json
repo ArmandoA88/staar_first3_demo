@@ -1,0 +1,30 @@
+{
+  "stem": "What is the constant of proportionality that relates y, the total cost in dollars, to x, the number of tickets purchased?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4.00"
+    },
+    {
+      "label": "B",
+      "text": "0.25"
+    },
+    {
+      "label": "C",
+      "text": "1.00"
+    },
+    {
+      "label": "D",
+      "text": "0.10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "School Carnival table with Number of Tickets, x and Total Cost, y (dollars): 8 - 2.00, 12 - 3.00, 20 - 5.00, 30 - 7.50, 50 - 12.50"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

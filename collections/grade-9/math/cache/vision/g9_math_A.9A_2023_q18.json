@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement about \\(p(x) = -7(4)^x\\) is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The domain is all real numbers greater than or equal to 4."
+    },
+    {
+      "label": "B",
+      "text": "The range is all real numbers less than 0."
+    },
+    {
+      "label": "C",
+      "text": "The domain is all real numbers less than or equal to 0."
+    },
+    {
+      "label": "D",
+      "text": "The range is all real numbers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "p(x) = -7(4)^x"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

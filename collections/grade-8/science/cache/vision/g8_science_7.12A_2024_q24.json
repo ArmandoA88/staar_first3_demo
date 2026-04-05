@@ -1,0 +1,30 @@
+{
+  "stem": "An energy pyramid is shown.\n\nWhich statement BEST describes the flow of energy through this pyramid?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Producers provide energy directly to the organisms in all the trophic levels above them."
+    },
+    {
+      "label": "B",
+      "text": "Primary consumers transfer energy to the trophic level above them and the trophic level below them."
+    },
+    {
+      "label": "C",
+      "text": "Secondary consumers represent the most organisms, and they have the greatest amount of energy in their trophic level."
+    },
+    {
+      "label": "D",
+      "text": "Tertiary consumers do not receive all the energy from the trophic level below them, because some energy is lost to the environment."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Energy pyramid with four levels labeled from bottom to top: Phytoplankton, Zooplankton, Aquatic insects, Frogs"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

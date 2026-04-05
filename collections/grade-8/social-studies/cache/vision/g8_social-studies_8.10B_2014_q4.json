@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following best completes the diagram above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Slaveholding state"
+    },
+    {
+      "label": "G",
+      "text": "Bordered by the Pacific"
+    },
+    {
+      "label": "H",
+      "text": "Formerly part of Mexico"
+    },
+    {
+      "label": "J",
+      "text": "Dependent on heavy industry"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with two overlapping ovals labeled 'Texas' and 'California'. Texas side lists: 'Annexed by the United States in 1845' and 'Settlers attracted by free land'. California side lists: 'Ceded to the United States in 1848' and 'Settlers attracted by gold'. Intersection is marked with '?'."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

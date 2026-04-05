@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution set for 2x\u00b2 + 15 = -11x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\{-5, -1.5\\}"
+    },
+    {
+      "label": "B",
+      "text": "\\{2.5, 3\\}"
+    },
+    {
+      "label": "C",
+      "text": "\\{1.5, 5\\}"
+    },
+    {
+      "label": "D",
+      "text": "\\{-3, -2.5\\}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2x\u00b2 + 15 = -11x"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

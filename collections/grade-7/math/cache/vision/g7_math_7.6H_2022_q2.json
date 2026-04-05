@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the numbers of bags of different flavors of potato chips on a store shelf. A customer will randomly select one bag of potato chips from the shelf.\n\nPotato Chips\n\n| Flavor   | Number of Bags |\n|----------|----------------|\n| Plain    | 12             |\n| Jalape\u00f1o | 18             |\n| Ranch    | 8              |\n| Cheese   | 20             |\n\nWhich statement about the flavor of the potato chips chosen is best supported by the information in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The flavor is least likely to be plain."
+    },
+    {
+      "label": "G",
+      "text": "The flavor is twice as likely to be jalape\u00f1o as ranch."
+    },
+    {
+      "label": "H",
+      "text": "The flavor is equally likely to be plain, jalape\u00f1o, ranch, or cheese."
+    },
+    {
+      "label": "J",
+      "text": "The flavor is more than twice as likely to be cheese as it is to be ranch."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Flavor and Number of Bags: Plain 12, Jalape\u00f1o 18, Ranch 8, Cheese 20"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

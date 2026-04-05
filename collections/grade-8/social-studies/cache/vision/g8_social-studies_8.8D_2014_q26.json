@@ -1,0 +1,30 @@
+{
+  "stem": "In the excerpt above, what does \u201cthis interest\u201d refer to?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Confederate States of America"
+    },
+    {
+      "label": "G",
+      "text": "Protective tariffs"
+    },
+    {
+      "label": "H",
+      "text": "Slavery"
+    },
+    {
+      "label": "J",
+      "text": "The U.S. Constitution"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "All knew that this interest was, somehow, the cause of the war. To strengthen, perpetuate, and extend this interest, was the object for which the insurgents would rend the Union, even by war; while the government claimed no right to do more than to restrict the territorial enlargement of it.  \u2014President Abraham Lincoln, second inaugural address, 1865"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

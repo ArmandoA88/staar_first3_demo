@@ -1,0 +1,30 @@
+{
+  "stem": "The table represents some points on the graph of an exponential function.\n\n| x | g(x) |\n|---|-------|\n| 1 | 48    |\n| 2 | 72    |\n| 3 | 108   |\n| 4 | 162   |\n\nWhich function represents the relation shown in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "g(x) = 32 \\left(\\frac{2}{3}\\right)^x"
+    },
+    {
+      "label": "B",
+      "text": "g(x) = 48 \\left(\\frac{2}{3}\\right)^x"
+    },
+    {
+      "label": "C",
+      "text": "g(x) = 32 \\left(\\frac{3}{2}\\right)^x"
+    },
+    {
+      "label": "D",
+      "text": "g(x) = 48 \\left(\\frac{3}{2}\\right)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with values x:1,2,3,4 and corresponding g(x): 48, 72, 108, 162"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

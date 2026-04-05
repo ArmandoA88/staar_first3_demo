@@ -1,0 +1,30 @@
+{
+  "stem": "Which inequality is best represented by the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "4x + 7y \\leq 49"
+    },
+    {
+      "label": "G",
+      "text": "4x + 7y < 49"
+    },
+    {
+      "label": "H",
+      "text": "7x + 4y \\leq 28"
+    },
+    {
+      "label": "J",
+      "text": "7x + 4y < 28"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing a coordinate plane with a dashed line descending from approximately (0,7) to (4,0) with shading to the left side of the line."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Standard linear inequality graph with shaded region and dashed boundary line."
+}

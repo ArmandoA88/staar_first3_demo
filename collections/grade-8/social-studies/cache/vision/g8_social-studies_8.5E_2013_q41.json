@@ -1,0 +1,33 @@
+{
+  "stem": "Which of the following best completes the diagram above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Boston Tea Party"
+    },
+    {
+      "label": "B",
+      "text": "War of 1812"
+    },
+    {
+      "label": "C",
+      "text": "American Revolution"
+    },
+    {
+      "label": "D",
+      "text": "Civil War"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "British support of American Indians in the Northwest Territory",
+    "British impressment of American sailors",
+    "?",
+    "Treaty of Ghent"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

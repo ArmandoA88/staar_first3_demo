@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents y = -4(x + 3) - 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with line passing through (-3, -2) and slanting downwards steeply from left to right"
+    },
+    {
+      "label": "H",
+      "text": "Graph with line passing through (-3, -2) and slanting downwards less steeply from left to right"
+    },
+    {
+      "label": "G",
+      "text": "Graph with line passing through (-3, -2) and slanting upwards steeply from left to right"
+    },
+    {
+      "label": "J",
+      "text": "Graph with line passing through (-3, -2) and slanting downwards steeply from right to left"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph F showing a line through (-3, -2) slanting steeply downwards from left to right",
+    "Graph H showing a line through (-3, -2) slanting less steeply downwards from left to right",
+    "Graph G showing a line through (-3, -2) slanting steeply upwards from left to right",
+    "Graph J showing a line through (-3, -2) slanting steeply downwards from right to left"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

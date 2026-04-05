@@ -1,0 +1,33 @@
+{
+  "stem": "A dog eats 1.25 cups of dog food twice a day. Which graph best represents this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Line passing through points (0,0) to (4,5) labeled Dog Food Eaten, Number of Cups vs Number of Days",
+    "Graph B: Line passing through points (0,0) to (5,2.5) labeled Dog Food Eaten, Number of Cups vs Number of Days",
+    "Graph C: Line passing through points (0,0) to (2,5) labeled Dog Food Eaten, Number of Cups vs Number of Days",
+    "Graph D: Line passing through points (0,0) to (5,4.5) labeled Dog Food Eaten, Number of Cups vs Number of Days"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": "Answer choices are represented by labeled graphs. No additional text in answer choices."
+}

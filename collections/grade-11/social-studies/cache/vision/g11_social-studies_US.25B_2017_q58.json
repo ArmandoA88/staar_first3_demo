@@ -1,0 +1,30 @@
+{
+  "stem": "Which word best explains the changes shown in these photographs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Immigration"
+    },
+    {
+      "label": "G",
+      "text": "Assimilation"
+    },
+    {
+      "label": "H",
+      "text": "Nullification"
+    },
+    {
+      "label": "J",
+      "text": "Nativism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two black and white photographs side by side. The left photo shows a Native American man wearing traditional clothing and jewelry, labeled 'Tom Torlino, Navajo As He Entered the School in 1882'. The right photo shows the same man wearing a western-style suit and tie, labeled 'As He Appeared Three Years Later'."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

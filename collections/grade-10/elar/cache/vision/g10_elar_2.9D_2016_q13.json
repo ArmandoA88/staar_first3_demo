@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change that to something"
+    },
+    {
+      "label": "B",
+      "text": "Change situation to sitaution"
+    },
+    {
+      "label": "C",
+      "text": "Change High School to high school"
+    },
+    {
+      "label": "D",
+      "text": "Make no change"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

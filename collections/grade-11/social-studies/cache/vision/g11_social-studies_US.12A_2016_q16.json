@@ -1,0 +1,32 @@
+{
+  "stem": "Which sentence best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The levee system was unable to hold back floodwater."
+    },
+    {
+      "label": "G",
+      "text": "The Mississippi River was diverted."
+    },
+    {
+      "label": "H",
+      "text": "An outbreak of tornadoes felled numerous trees."
+    },
+    {
+      "label": "J",
+      "text": "The National Weather Service failed to provide adequate warning."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Hurricane Katrina moved inland with high winds, storm surges, and heavy rain.",
+    "?",
+    "Many residents were trapped in the city, while others were evacuated."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

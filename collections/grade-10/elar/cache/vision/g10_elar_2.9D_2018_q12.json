@@ -1,0 +1,30 @@
+{
+  "stem": "What is the best way to rewrite sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "I finally worked up the courage, my initial splash instantly put all my worries to rest, the experience was invigorating."
+    },
+    {
+      "label": "G",
+      "text": "I finally worked up the courage, and my initial splash instantly put all my worries to rest. The experience was invigorating."
+    },
+    {
+      "label": "H",
+      "text": "I finally worked up the courage. My initial splash instantly put all my worries to rest, the experience was invigorating."
+    },
+    {
+      "label": "J",
+      "text": "I finally worked up the courage, and my initial splash, instantly, put all my worries to rest and the experience was invigorating."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

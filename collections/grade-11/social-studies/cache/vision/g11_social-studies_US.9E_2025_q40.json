@@ -1,0 +1,30 @@
+{
+  "stem": "Which factor correctly replaces the question mark in this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Used civil lawsuits to overturn the \u201cseparate but equal\u201d doctrine"
+    },
+    {
+      "label": "B",
+      "text": "Used armed self-defense to protect neighborhoods"
+    },
+    {
+      "label": "C",
+      "text": "Used tax evasion to bring national attention to discrimination"
+    },
+    {
+      "label": "D",
+      "text": "Used church sermons to spread messages about justice"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This diagram compares two civil rights organizations.\n\nSouthern Christian Leadership Conference (SCLC)\n\u2022 Founded by Martin Luther King, Jr. in 1957\n\u2022 Used the Citizenship Education Program (CEP) to help African Americans register to vote\n\nBlack Panthers\n\u2022 Founded by Bobby Seale and Huey P. Newton in 1966\n\u2022 ?\n\nBoth:\n\u2022 Focused on obtaining civil rights"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

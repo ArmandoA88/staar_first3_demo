@@ -1,0 +1,32 @@
+{
+  "stem": "These acts contributed to the start of the Revolutionary War by \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "restricting colonial trade with American Indians"
+    },
+    {
+      "label": "G",
+      "text": "imposing regulations on colonial agriculture"
+    },
+    {
+      "label": "H",
+      "text": "angering colonists who believed that their civil liberties had been violated"
+    },
+    {
+      "label": "J",
+      "text": "punishing colonists for resisting the authority of Parliament"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Sugar Act",
+    "Quartering Act",
+    "Stamp Act"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "The problem is from 2015, question 8; standard 8.4(A). The formatting and labels are preserved exactly."
+}

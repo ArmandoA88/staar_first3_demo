@@ -1,0 +1,21 @@
+{
+  "stem": "This excerpt describes a system of government used in Virginia during the 1600s.\n\nMembership in the Council and . . . in the Assembly . . . was composed . . . both of members elected by the people and of members of the Council appointed by the authorities in England. . . .\nAt this first meeting of the General Assembly the Burgesses . . . and the members of the Council, with the governor, sat together as one body, in which each member had one vote, and questions were decided by the vote of the majority, the governor, however, having the power to veto any measure whatever.\n\n\u2014Journals of the House of Burgesses of Virginia, 1619",
+  "instruction": "Based on the excerpt and your knowledge of U.S. history, how did the House of Burgesses contribute to the democratic tradition of the United States?\n\nMove the correct answer to each box in the chart. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "Established a representative government",
+    "Established a strict authoritarian government",
+    "Established a judicial branch for the government",
+    "Established a method of checks and balances",
+    "Established a system centered around political parties"
+  ],
+  "response_template": "The Virginia House of Burgesses\u2019 Contributions\n\n[blank_1]\n\n[blank_2]",
+  "visual_elements": [
+    "Excerpt box containing the quoted text from the Journals of the House of Burgesses of Virginia, 1619",
+    "List of five answer choices in gray rounded rectangles",
+    "Two empty dotted boxes inside a two-row table titled 'The Virginia House of Burgesses\u2019 Contributions'"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "The problem is a drag-and-drop with a choice pool and two target boxes, matching the known metadata for question 18."
+}

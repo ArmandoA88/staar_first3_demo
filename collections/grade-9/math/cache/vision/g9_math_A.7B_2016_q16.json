@@ -1,0 +1,28 @@
+{
+  "stem": "Which statement about \\( k(x) = -x^2 - 2x + 15 \\) is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The zeros are \\(-3\\) and 5, because \\( k(x) = -(x + 3)(x - 5) \\)."
+    },
+    {
+      "label": "G",
+      "text": "The zeros are \\(-5\\) and 3, because \\( k(x) = -(x + 5)(x - 3) \\)."
+    },
+    {
+      "label": "H",
+      "text": "The zeros are \\(-5\\) and \\(-3\\), because \\( k(x) = -(x + 5)(x + 3) \\)."
+    },
+    {
+      "label": "J",
+      "text": "The zeros are 3 and 5, because \\( k(x) = -(x - 3)(x - 5) \\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

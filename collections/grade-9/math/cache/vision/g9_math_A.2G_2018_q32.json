@@ -1,0 +1,30 @@
+{
+  "stem": "What are the equation and slope of the line shown on the grid?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = 6; slope is -\\frac{1}{6}."
+    },
+    {
+      "label": "G",
+      "text": "x = 6; slope is zero."
+    },
+    {
+      "label": "H",
+      "text": "y = 6; slope is 6."
+    },
+    {
+      "label": "J",
+      "text": "x = 6; slope is undefined."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "grid with x and y axes from -9 to 9; vertical line at x=6"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

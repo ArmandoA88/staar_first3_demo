@@ -1,0 +1,30 @@
+{
+  "stem": "Figure S, the small arrow, was dilated with the origin as the center of dilation to create Figure T, the large arrow.\n\nWhich rule best represents the dilation that was applied to Figure S to create Figure T?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(x, y) \\rightarrow (2x, 2y)"
+    },
+    {
+      "label": "B",
+      "text": "(x, y) \\rightarrow (4x, 4y)"
+    },
+    {
+      "label": "C",
+      "text": "(x, y) \\rightarrow (\\frac{1}{2}x, \\frac{1}{2}y)"
+    },
+    {
+      "label": "D",
+      "text": "(x, y) \\rightarrow (\\frac{1}{4}x, \\frac{1}{4}y)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing two arrows labeled Figure S (small arrow) and Figure T (large arrow), positioned on a coordinate plane with x and y axes, with Figure S closer to the origin and Figure T farther away from the origin."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "The problem involves identifying the dilation rule from the graph and given transformations."
+}

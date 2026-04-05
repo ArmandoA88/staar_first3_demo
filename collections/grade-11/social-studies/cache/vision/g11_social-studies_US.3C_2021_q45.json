@@ -1,0 +1,30 @@
+{
+  "stem": "Why were people like those shown in this image hopeful about their future?",
+  "instruction": "Study the image and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Nativism and Social Darwinism were expanding in American cities."
+    },
+    {
+      "label": "B",
+      "text": "The U.S. social security system provided financial and medical benefits."
+    },
+    {
+      "label": "C",
+      "text": "There were many jobs and business opportunities in America."
+    },
+    {
+      "label": "D",
+      "text": "American cities had large and comfortable tenement apartment buildings."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "An Ocean Steamer Passing the Statue of Liberty, 1887 (black and white image of people on a ship looking at the Statue of Liberty)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

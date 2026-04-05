@@ -1,0 +1,30 @@
+{
+  "stem": "Which phrase best represents the U.S. principle of republicanism?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The creation of a Congress to carry out the will of the people"
+    },
+    {
+      "label": "G",
+      "text": "The establishment of courts to interpret laws and government actions"
+    },
+    {
+      "label": "H",
+      "text": "The division of power between a federal government and state governments"
+    },
+    {
+      "label": "J",
+      "text": "The power of a court to declare a law unconstitutional"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019 \u2013 Q10"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

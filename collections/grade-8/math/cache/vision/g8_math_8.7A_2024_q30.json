@@ -1,0 +1,34 @@
+{
+  "stem": "A cone has a radius of 12 centimeters and a height of 18 centimeters. What is the volume of the cone in cubic centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2,592\\pi cm^3"
+    },
+    {
+      "label": "B",
+      "text": "144\\pi cm^3"
+    },
+    {
+      "label": "C",
+      "text": "864\\pi cm^3"
+    },
+    {
+      "label": "D",
+      "text": "1,296\\pi cm^3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A cone has a radius of 12 centimeters and a height of 18 centimeters. What is the volume of the cone in cubic centimeters?",
+    "A  2,592\\pi cm^3",
+    "B  144\\pi cm^3",
+    "C  864\\pi cm^3",
+    "D  1,296\\pi cm^3"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

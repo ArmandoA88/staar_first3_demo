@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is a factor of x^2 + 7x - 30?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x + 15"
+    },
+    {
+      "label": "B",
+      "text": "x - 10"
+    },
+    {
+      "label": "C",
+      "text": "x + 5"
+    },
+    {
+      "label": "D",
+      "text": "x - 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "x^2 + 7x - 30"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Frank and Erica are selling ribbons to raise money for the football team. The graph shows the linear relationship between the number of ribbons each of them has left to sell and the number of days that they have been selling ribbons.\n\nOn which day does it appear that Frank and Erica will have the same number of ribbons left to sell?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Day 15"
+    },
+    {
+      "label": "G",
+      "text": "Day 48"
+    },
+    {
+      "label": "H",
+      "text": "Day 33"
+    },
+    {
+      "label": "J",
+      "text": "Day 18"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Ribbon Sales' with x-axis labeled 'Days' ranging from 0 to 48 in increments of 6 and y-axis labeled 'Number of Ribbons Left to Sell' ranging from 0 to 36 in increments of 3. Two lines labeled 'Frank' starting at 33 ribbons and 'Erica' starting at 24 ribbons showing ribbons left over days. Lines intersect between days 18 and 24."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

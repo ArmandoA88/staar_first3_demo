@@ -1,0 +1,34 @@
+{
+  "stem": "What revision, if any, is needed in sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Embarrassed by the debacle, Sophia decided to just open the windows for seeing if that would fix the problem."
+    },
+    {
+      "label": "B",
+      "text": "Embarrassed by the debacle, Sophia decided to just open the windows and see if that would fix the problem."
+    },
+    {
+      "label": "C",
+      "text": "Embarrassed by the debacle, Sophia decided to just fix that problem that would open the windows."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What revision, if any, is needed in sentence 20?",
+    "A Embarrassed by the debacle, Sophia decided to just open the windows for seeing if that would fix the problem.",
+    "B Embarrassed by the debacle, Sophia decided to just open the windows and see if that would fix the problem.",
+    "C Embarrassed by the debacle, Sophia decided to just fix that problem that would open the windows.",
+    "D No change is needed."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

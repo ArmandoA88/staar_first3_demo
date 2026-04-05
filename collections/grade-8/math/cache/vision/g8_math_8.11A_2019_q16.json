@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best describes the association between the energy and light output of these lightbulbs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "As the energy increases, the light output increases."
+    },
+    {
+      "label": "G",
+      "text": "As the energy increases, the light output decreases."
+    },
+    {
+      "label": "H",
+      "text": "As the energy increases, the light output remains the same."
+    },
+    {
+      "label": "J",
+      "text": "There is no apparent association between the energy and light output."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The scatterplot shows the energy in watts and the light output in lumens per watt of several lightbulbs. The plot's horizontal axis is labeled Energy (watts) from 0 to 120 and the vertical axis is labeled Light Output (lumens per watt) from 40 to 80. Points are scattered with no clear upward or downward trend"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

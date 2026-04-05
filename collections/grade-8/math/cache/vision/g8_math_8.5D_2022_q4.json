@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the relationship between the weight in pounds and the age in weeks of a certain dog breed.",
+  "instruction": "Based on the scatterplot, which is the best prediction of the weight in pounds of a dog that is 28 weeks old?",
+  "options": [
+    {
+      "label": "F",
+      "text": "12 lb"
+    },
+    {
+      "label": "G",
+      "text": "75 lb"
+    },
+    {
+      "label": "H",
+      "text": "45 lb"
+    },
+    {
+      "label": "J",
+      "text": "105 lb"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled 'Dog Weight' with x-axis labeled 'Age (weeks)' ranging from 0 to 38 and y-axis labeled 'Weight (pounds)' ranging from 0 to 110, showing multiple points indicating a positive correlation."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

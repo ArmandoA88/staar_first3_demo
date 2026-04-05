@@ -1,0 +1,30 @@
+{
+  "stem": "The numbered river on this map played a major role in \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "the defeat of British troops at the Battle of Saratoga"
+    },
+    {
+      "label": "G",
+      "text": "the exploration of new territory acquired from France"
+    },
+    {
+      "label": "H",
+      "text": "the defeat of British invaders at the Battle of Fort McHenry"
+    },
+    {
+      "label": "J",
+      "text": "the settlement of territory previously claimed by the Dutch"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A map of the United States with a river labeled '1' in the northern central region"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

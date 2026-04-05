@@ -1,0 +1,34 @@
+{
+  "stem": "On a map scale, 2 inches represents 60 miles. Which graph best shows the relationship between x, the number of inches on the map, and y, the actual distance in miles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with a line passing through (0,0) and (3,225)"
+    },
+    {
+      "label": "B",
+      "text": "Graph with a line passing through (2, 60) and (3, 225)"
+    },
+    {
+      "label": "C",
+      "text": "Graph with a line passing through (0,0) and (9,225)"
+    },
+    {
+      "label": "D",
+      "text": "Graph with a line passing through (1, 60) and (3, 225)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs titled 'Map Scale' each with x-axis labeled 'Number of Inches on Map' from 0 to 9 and y-axis labeled 'Actual Distance (miles)' from 0 to 225.",
+    "Graph A: Line from origin (0,0) to about (3, 225).",
+    "Graph B: Line starting between 2 and 3 inches at y about 60 to (3, 225).",
+    "Graph C: Line from origin (0,0) to (9, 225).",
+    "Graph D: Line starting at about 1 inch and 60 miles to (3, 225)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

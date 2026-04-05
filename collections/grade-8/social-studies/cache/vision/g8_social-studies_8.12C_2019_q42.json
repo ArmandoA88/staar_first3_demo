@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best completes this table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Prices for manufactured goods decreased."
+    },
+    {
+      "label": "G",
+      "text": "Factories closed as workers returned to farms."
+    },
+    {
+      "label": "H",
+      "text": "A decline in foreign trade damaged the commercial shipping industry."
+    },
+    {
+      "label": "J",
+      "text": "Fishing revenues decreased as a result of reduced demand."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Regional Impacts of the Embargo of 1807\nTable with three columns: New England, The West, The South\nNew England cell: ?\nThe West cell: Wheat and corn prices dropped as supplies flooded the domestic market.\nThe South cell: Planters suffered financial losses because surplus tobacco and cotton could not be exported."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

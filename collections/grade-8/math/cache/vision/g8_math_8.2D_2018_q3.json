@@ -1,0 +1,32 @@
+{
+  "stem": "Four plumbers estimated the length of the radius of a cylindrical pipe. The estimates made by the plumbers are listed.\n\n\u2022 Plumber W estimated that the radius had a length of \\( \\frac{3}{25} \\) inches.\n\n\u2022 Plumber X estimated that the radius had a length of \\( \\frac{\\sqrt{3}}{11} \\) inches.\n\n\u2022 Plumber Y estimated that the radius had a length of \\( \\frac{9}{100} \\) inches.\n\n\u2022 Plumber Z estimated that the radius had a length of \\( \\frac{\\pi}{24} \\) inches.\n\nWhich list shows these lengths in order from greatest to least?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{9}{100} , \\frac{\\pi}{24} , \\frac{3}{25} , \\frac{\\sqrt{3}}{11} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{\\sqrt{3}}{11} , \\frac{\\pi}{24} , \\frac{3}{25} , \\frac{9}{100} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{9}{100} , \\frac{3}{25} , \\frac{\\pi}{24} , \\frac{\\sqrt{3}}{11} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{\\sqrt{3}}{11} , \\frac{3}{25} , \\frac{\\pi}{24} , \\frac{9}{100} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fractions",
+    "square root",
+    "pi symbol"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

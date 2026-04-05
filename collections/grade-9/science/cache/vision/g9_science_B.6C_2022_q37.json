@@ -1,0 +1,30 @@
+{
+  "stem": "Normal cells have a contact inhibition feedback mechanism that prevents the cells from replicating when other cells are touched. A diagram of cells with contact inhibition and cells without contact inhibition is shown.\n\nWhich statement best describes what will happen to cells in an organism that lack contact inhibition?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The cells will continue to grow, causing a tumor in the body."
+    },
+    {
+      "label": "B",
+      "text": "The cells will replicate normally, replacing body cells that die."
+    },
+    {
+      "label": "C",
+      "text": "The cells will replicate until the food supply for each cell is used, causing each cell to die."
+    },
+    {
+      "label": "D",
+      "text": "The cells will stop replicating once one layer is produced, as other body cells will crowd them out."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram: Two petri dishes labeled 'Cells with Contact Inhibition' and 'Cells without Contact Inhibition'. Each has a top view and side view. The 'Cells with Contact Inhibition' dish shows a uniform single layer of cells. The 'Cells without Contact Inhibition' dish shows clumped cells piled above a single layer."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

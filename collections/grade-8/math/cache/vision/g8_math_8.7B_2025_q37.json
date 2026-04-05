@@ -1,0 +1,30 @@
+{
+  "stem": "What is the total surface area of the rectangular prism in square inches?",
+  "instruction": "The dimensions of a rectangular prism are shown in the diagram.",
+  "options": [
+    {
+      "label": "A",
+      "text": "864 in.\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "1,440 in.\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "1,152 in.\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "3,456 in.\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangular prism with dimensions 12 in., 12 in., and 24 in. labeled"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

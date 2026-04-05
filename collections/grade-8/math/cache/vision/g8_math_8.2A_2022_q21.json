@@ -1,0 +1,33 @@
+{
+  "stem": "Set Q and Set Z are subsets of the real number system.\n\nQ = {rational numbers}\nZ = {integers}\n\nWhich Venn diagram best represents the relationship between Set Q and Set Z?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": " , because all rational numbers are integers"
+    },
+    {
+      "label": "B",
+      "text": " , because some integers are not rational numbers"
+    },
+    {
+      "label": "C",
+      "text": " , because all integers are rational numbers"
+    },
+    {
+      "label": "D",
+      "text": " , because the rational numbers and the integers have no elements in common"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram A: Real numbers rectangle containing circle Z, which contains circle Q.",
+    "Venn diagram B: Real numbers rectangle containing two intersecting circles Q and Z.",
+    "Venn diagram C: Real numbers rectangle containing circle Q, which contains circle Z.",
+    "Venn diagram D: Real numbers rectangle containing two non-overlapping circles Q and Z."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

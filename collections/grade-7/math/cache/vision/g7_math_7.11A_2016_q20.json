@@ -1,0 +1,30 @@
+{
+  "stem": "Walter and Brian each have a CD collection.\n\n\u2022 The number of CDs in Walter's collection can be represented by x.\n\u2022 The number of CDs in Brian's collection is 3 times the number in Walter's collection.\n\u2022 The total number of CDs in both collections is 144.\n\nWhat is x, the number of CDs in Walter's collection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "108"
+    },
+    {
+      "label": "G",
+      "text": "48"
+    },
+    {
+      "label": "H",
+      "text": "72"
+    },
+    {
+      "label": "J",
+      "text": "36"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

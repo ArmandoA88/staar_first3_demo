@@ -1,0 +1,30 @@
+{
+  "stem": "What does the motto shown on this seal mean?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\u201cLiberty, Fraternity, Equality\u201d"
+    },
+    {
+      "label": "G",
+      "text": "\u201cJustice for All\u201d"
+    },
+    {
+      "label": "H",
+      "text": "\u201cAmerica First\u201d"
+    },
+    {
+      "label": "J",
+      "text": "\u201cOut of Many, One\u201d"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A close-up grayscale image of the Great Seal of the United States showing a bald eagle holding arrows in one talon and an olive branch in the other, and a banner with the motto 'E PLURIBUS UNUM'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

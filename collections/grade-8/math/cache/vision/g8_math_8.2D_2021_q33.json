@@ -1,0 +1,33 @@
+{
+  "stem": "Which list shows these numbers in order from least to greatest?\n\n\\(\\sqrt{38}, -6.35, 63\\%, -\\frac{19}{3}\\)",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-6.35, -\\frac{19}{3}, 63\\%, \\sqrt{38}"
+    },
+    {
+      "label": "B",
+      "text": "63\\%, \\sqrt{38}, -\\frac{19}{3}, -6.35"
+    },
+    {
+      "label": "C",
+      "text": "-6.35, -\\frac{19}{3}, \\sqrt{38}, 63\\%"
+    },
+    {
+      "label": "D",
+      "text": "-\\frac{19}{3}, -6.35, 63\\%, \\sqrt{38}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-6.35",
+    "-\\frac{19}{3}",
+    "63\\%",
+    "\\sqrt{38}"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

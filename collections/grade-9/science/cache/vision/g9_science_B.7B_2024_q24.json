@@ -1,0 +1,31 @@
+{
+  "stem": "What is the amino acid sequence that will be translated from the mRNA sequence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Threonine - Isoleucine - Serine - Tryptophan"
+    },
+    {
+      "label": "B",
+      "text": "Cysteine - Tyrosine - Arginine - Threonine"
+    },
+    {
+      "label": "C",
+      "text": "Serine - Methionine - Tyrosine - Tryptophan"
+    },
+    {
+      "label": "D",
+      "text": "Proline - Arginine - Histidine - Arginine"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "mRNA Sequence: 5' UGC UAC AGA ACC 3'",
+    "mRNA codon chart"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

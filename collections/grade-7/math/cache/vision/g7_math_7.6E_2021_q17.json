@@ -1,0 +1,28 @@
+{
+  "stem": "A teacher has a container of paper clips. She will randomly select one paper clip from the container.\n\n\u2022 The container has 8 pink paper clips.\n\u2022 The container has 14 purple paper clips.\n\u2022 The container has 12 yellow paper clips.\n\u2022 The container has 16 blue paper clips.\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The probability of selecting a purple paper clip is \\( \\frac{3}{4} \\), and the probability of selecting a paper clip that is not purple is \\( \\frac{1}{4} \\)."
+    },
+    {
+      "label": "B",
+      "text": "The probability of selecting a purple paper clip is \\( \\frac{1}{4} \\), and the probability of selecting a paper clip that is not purple is \\( \\frac{3}{4} \\)."
+    },
+    {
+      "label": "C",
+      "text": "The probability of selecting a purple paper clip is \\( \\frac{18}{25} \\), and the probability of selecting a paper clip that is not purple is \\( \\frac{7}{25} \\)."
+    },
+    {
+      "label": "D",
+      "text": "The probability of selecting a purple paper clip is \\( \\frac{7}{25} \\), and the probability of selecting a paper clip that is not purple is \\( \\frac{18}{25} \\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

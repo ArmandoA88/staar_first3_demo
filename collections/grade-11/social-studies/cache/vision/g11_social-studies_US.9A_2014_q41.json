@@ -1,0 +1,30 @@
+{
+  "stem": "What was the main result of the events referred to in these headlines?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The growth of insurance and welfare programs for elderly citizens"
+    },
+    {
+      "label": "B",
+      "text": "The growth of radical political parties on the East Coast"
+    },
+    {
+      "label": "C",
+      "text": "The expansion of political and economic opportunities for minority citizens"
+    },
+    {
+      "label": "D",
+      "text": "The expansion of economic cooperation between northern and southern states"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Three newspaper headlines: 1) Sit-in Protest at Woolworth's Lunch Counter in Greensboro, N.C., 1960 2) Freedom Rides Begin from Washington, D.C., 1961 3) 250,000 Participate in March on Washington, 1963"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1.0,
+  "notes": null
+}

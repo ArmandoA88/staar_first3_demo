@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The president authorizes a military strike against forces threatening the borders of Western Europe."
+    },
+    {
+      "label": "B",
+      "text": "Congress appropriates funding for nuclear arms facilities in Western Europe."
+    },
+    {
+      "label": "C",
+      "text": "The president signs a treaty requiring reparations to be paid to Western European countries."
+    },
+    {
+      "label": "D",
+      "text": "Congress passes a bill to provide financial assistance to Western European countries."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Post\u2013World War II Events diagram: Three boxes connected with right arrows from left to right. First box: 'World War II devastates Europe\u2019s infrastructure and economies.' Middle box titled 'U.S. Response' contains a question mark. Last box titled 'Effects on Western Europe' lists: 'Improved political stability', 'Closer ties with the United States', 'Recovering economies'."
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the number of people in each of 8 different households and the average amount of money each household spent on groceries.\n\nBased on the scatterplot, what is the best prediction of the average amount of money spent on groceries for a household that has 7 people?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$240"
+    },
+    {
+      "label": "G",
+      "text": "$190"
+    },
+    {
+      "label": "H",
+      "text": "$210"
+    },
+    {
+      "label": "J",
+      "text": "$300"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot with x-axis labeled 'Number of People in Household' from 0 to 8 and y-axis labeled 'Average Amount Spent on Groceries (dollars)' from 40 to 320 showing 8 points clustered on a positively increasing line from about (1, 50) to (5, 180)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

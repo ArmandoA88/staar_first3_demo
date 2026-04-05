@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of 0.45 - \\frac{2}{5}?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.05"
+    },
+    {
+      "label": "B",
+      "text": "0.20"
+    },
+    {
+      "label": "C",
+      "text": "0.40"
+    },
+    {
+      "label": "D",
+      "text": "0.07"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "0.45 - \\frac{2}{5}"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

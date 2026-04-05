@@ -1,0 +1,31 @@
+{
+  "stem": "Albumin is a protein that is secreted by liver cells and transported to the bloodstream. What factor most directly determines the amino acids that are combined to create albumin?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The temperature of the cell when translation is taking place"
+    },
+    {
+      "label": "B",
+      "text": "The number of chromosomes in a cell"
+    },
+    {
+      "label": "C",
+      "text": "The sequence of nucleotides in DNA"
+    },
+    {
+      "label": "D",
+      "text": "The amount of energy that is available in the cell"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q32",
+    "A B C D"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

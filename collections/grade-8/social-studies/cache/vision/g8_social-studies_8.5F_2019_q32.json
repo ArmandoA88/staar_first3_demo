@@ -1,0 +1,30 @@
+{
+  "stem": "What was the main reason President Monroe made this statement?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To strengthen political alliances with European allies"
+    },
+    {
+      "label": "G",
+      "text": "To address European competition for natural resources"
+    },
+    {
+      "label": "H",
+      "text": "To increase U.S. military readiness for European expansionism"
+    },
+    {
+      "label": "J",
+      "text": "To prevent European intervention in countries near the United States"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The American continents, by the free and independent condition which they have assumed and maintain, are henceforth not to be considered as subjects for future colonization by any European Power. \u2014President James Monroe, message to Congress, 1823"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

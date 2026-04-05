@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, is needed in sentence 22?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change *prolonged* to *prolonging*"
+    },
+    {
+      "label": "G",
+      "text": "Change *endeaver* to *endeavor*"
+    },
+    {
+      "label": "H",
+      "text": "Change *who* to *whom*"
+    },
+    {
+      "label": "J",
+      "text": "No change is necessary."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sentence 22"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

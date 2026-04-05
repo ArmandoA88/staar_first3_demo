@@ -1,0 +1,30 @@
+{
+  "stem": "What is the historical significance of this act?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It was the first time Congress voted to overrule a presidential veto."
+    },
+    {
+      "label": "B",
+      "text": "It represented a shift in federal power after the impeachment of President Johnson."
+    },
+    {
+      "label": "C",
+      "text": "It was the first time Congress passed a law that protected racial minorities."
+    },
+    {
+      "label": "D",
+      "text": "It represented the failure of northern abolitionists to influence Reconstruction policies."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Provisions of the Civil Rights Act of 1866\n\u2022 Designated all people born in the United States (except American Indians) as citizens\n\u2022 Granted all citizens certain rights under the law"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

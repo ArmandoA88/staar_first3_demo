@@ -1,0 +1,44 @@
+{
+  "stem": "Desmond wants to attend a college that costs $15,000 for the first year. Desmond\u2019s family has saved $6,000, and he has applied for a $1,500 scholarship. To have the full amount needed to pay for the year\u2019s tuition, his family will set aside a fixed amount of money each month for the next 12 months.\n\nHow much should Desmond\u2019s family save each month for the next 12 months to have enough money to pay for his first year of college?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "$500"
+    },
+    {
+      "label": null,
+      "text": "$625"
+    },
+    {
+      "label": null,
+      "text": "$750"
+    },
+    {
+      "label": null,
+      "text": "$1,125"
+    },
+    {
+      "label": null,
+      "text": "$1,250"
+    }
+  ],
+  "choice_pool": [
+    "$500",
+    "$625",
+    "$750",
+    "$1,125",
+    "$1,250"
+  ],
+  "response_template": "If Desmond wins the scholarship, his family will need to save a minimum of [blank_1] per month.\n\nIf Desmond does not win the scholarship, his family will need to save a minimum of [blank_2] per month.",
+  "visual_elements": [
+    "$500",
+    "$625",
+    "$750",
+    "$1,125",
+    "$1,250"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

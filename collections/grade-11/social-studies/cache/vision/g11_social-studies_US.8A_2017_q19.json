@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement correctly completes this time line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The Allied powers divide Germany and Berlin into four sectors."
+    },
+    {
+      "label": "B",
+      "text": "German citizens vote to reunite East and West Germany."
+    },
+    {
+      "label": "C",
+      "text": "The United States and Great Britain airlift supplies to West Berlin."
+    },
+    {
+      "label": "D",
+      "text": "The United Nations sends troops into Eastern Europe."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "East\u2013West Conflict in Europe During the Cold War\n1946\u20131949 The Soviet Union forms the communist Eastern Bloc.\n1947 The United States announces the Truman Plan.\n1948\u20131949 The Soviet Union enforces the Berlin Blockade.\n1948\u20131949 ?\n1949 Western Powers form the North Atlantic Treaty Organization.\n1955 The Soviet Union creates the Warsaw Pact."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

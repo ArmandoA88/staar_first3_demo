@@ -1,0 +1,30 @@
+{
+  "stem": "Section 215 of the USA PATRIOT Act of 2001 allowed investigators to obtain books, records, papers, documents and other items sought \u201cin connection with\u201d a terror investigation.\n\nArgument For Section 215  |  Argument Against Section 215\nIncreased investigative authority is needed to avert a future terrorist attack.  |  If investigators have these broad powers, the ________ ? __________ will be ignored.",
+  "instruction": "Which phrase correctly replaces the question mark in this table?",
+  "options": [
+    {
+      "label": "F",
+      "text": "right to privacy"
+    },
+    {
+      "label": "G",
+      "text": "right to bear arms"
+    },
+    {
+      "label": "H",
+      "text": "right to a speedy trial"
+    },
+    {
+      "label": "J",
+      "text": "right to an attorney"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with two columns: 'Argument For Section 215' and 'Argument Against Section 215'. Under For: 'Increased investigative authority is needed to avert a future terrorist attack.' Under Against: 'If investigators have these broad powers, the ________ ? __________ will be ignored.'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

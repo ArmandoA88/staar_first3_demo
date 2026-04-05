@@ -1,0 +1,36 @@
+{
+  "stem": "If x = -6, which inequality is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-5 - 3x > 10"
+    },
+    {
+      "label": "B",
+      "text": "-3 - 5x < -14"
+    },
+    {
+      "label": "C",
+      "text": "1 - 2x > 13"
+    },
+    {
+      "label": "D",
+      "text": "2 - x < -3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: \"2016 - Q23\"",
+    "Text: \"23\"",
+    "Text: \"If x = -6, which inequality is true?\"",
+    "Option A: \"-5 - 3x > 10\"",
+    "Option B: \"-3 - 5x < -14\"",
+    "Option C: \"1 - 2x > 13\"",
+    "Option D: \"2 - x < -3\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

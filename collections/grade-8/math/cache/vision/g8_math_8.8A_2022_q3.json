@@ -1,0 +1,30 @@
+{
+  "stem": "The perimeter of the triangle shown is 17x units. The dimensions of the triangle are given in units.\n\nWhich equation can be used to find the value of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "17x = 30 + 7x"
+    },
+    {
+      "label": "B",
+      "text": "17x = 15 + 22x"
+    },
+    {
+      "label": "C",
+      "text": "17x = 7 + 30x"
+    },
+    {
+      "label": "D",
+      "text": "17x = 22 + 15x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangle with two sides labeled 15 units, and one side labeled 7x units"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

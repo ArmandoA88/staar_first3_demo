@@ -1,0 +1,45 @@
+{
+  "stem": "The body sometimes needs to send messages long distances by releasing hormones into the bloodstream. The hormones are then carried to the target location.\n\nWhich body systems are involved in this interaction?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "digestive"
+    },
+    {
+      "label": null,
+      "text": "circulatory"
+    },
+    {
+      "label": null,
+      "text": "respiratory"
+    },
+    {
+      "label": null,
+      "text": "nervous"
+    },
+    {
+      "label": null,
+      "text": "endocrine"
+    },
+    {
+      "label": null,
+      "text": "immune"
+    }
+  ],
+  "choice_pool": [
+    "digestive",
+    "circulatory",
+    "respiratory",
+    "nervous",
+    "endocrine",
+    "immune"
+  ],
+  "response_template": "The [blank_1] system releases hormones into the bloodstream, and the [blank_2] system carries them to the target location.",
+  "visual_elements": [
+    "drag_and_drop_boxes"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

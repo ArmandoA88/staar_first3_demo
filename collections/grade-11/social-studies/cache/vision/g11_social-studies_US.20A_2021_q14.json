@@ -1,0 +1,30 @@
+{
+  "stem": "What was one way the decision described in this passage affected the United States in the first half of the twentieth century?",
+  "instruction": "Read the passage and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Minorities were not allowed to attend schools with whites."
+    },
+    {
+      "label": "G",
+      "text": "Poll taxes in federal elections were ruled unconstitutional."
+    },
+    {
+      "label": "H",
+      "text": "Affirmative action programs were ruled unconstitutional."
+    },
+    {
+      "label": "J",
+      "text": "Minorities were not allowed to join the military."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In the 1896 case of Plessy v. Ferguson, the Supreme Court decided that the Equal Protection Clause allowed state governments to apply the \u201cseparate but equal\u201d provision to public facilities."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

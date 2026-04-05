@@ -1,0 +1,30 @@
+{
+  "stem": "Which description belongs in the shaded area of the Venn diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change shape in order to function properly"
+    },
+    {
+      "label": "B",
+      "text": "Act as insulation to reduce heat loss"
+    },
+    {
+      "label": "C",
+      "text": "Provide organisms with energy"
+    },
+    {
+      "label": "D",
+      "text": "Encode genetic information"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Venn diagram with two overlapping circles labeled 'Carbohydrates' and 'Lipids'; the overlapping area is shaded."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

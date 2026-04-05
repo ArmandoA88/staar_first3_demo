@@ -1,0 +1,30 @@
+{
+  "stem": "What effect did the mining technique described in this excerpt have on the local environment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Rivers became filled with sediment."
+    },
+    {
+      "label": "B",
+      "text": "Reduced flooding led to an increased reliance on irrigation."
+    },
+    {
+      "label": "C",
+      "text": "Forests were clear-cut, and the timber was used to line tunnels and shafts."
+    },
+    {
+      "label": "D",
+      "text": "Farmland benefited from a change in soil composition."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt about Edward Matteson and partners using a three-foot tapered metal funnel and canvas hose to pump water at the hillside to extract gold from 'The Gold Rush's Impact on California\u2019s Landscape'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

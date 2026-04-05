@@ -1,0 +1,30 @@
+{
+  "stem": "Which excerpt from the Declaration of Independence best explains why colonists were unhappy about their lack of representation in the British parliament?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\u201cHe has refused to pass other Laws for the accommodation of large districts of people.\u201d"
+    },
+    {
+      "label": "B",
+      "text": "\u201cFor imposing Taxes on us without our Consent.\u201d"
+    },
+    {
+      "label": "C",
+      "text": "\u201cHe has refused his Assent to Laws, the most wholesome and necessary for the public good.\u201d"
+    },
+    {
+      "label": "D",
+      "text": "\u201cFor transporting us beyond Seas to be tried for pretended offences.\u201d"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

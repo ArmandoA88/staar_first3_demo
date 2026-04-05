@@ -1,0 +1,31 @@
+{
+  "stem": "The dot plots show the heights of the players on two basketball teams.\n\nTeam A\n\n[Dot plot with points plotted vertically above numbers 72 to 84 labeled as \"Height (inches)\". Heights cluster mostly between 74 and 83, with a mode near 78 inches.]\n\nTeam B\n\n[Dot plot with points plotted vertically above numbers 72 to 84 labeled as \"Height (inches)\". Heights cluster mostly between 74 and 84, with a mode near 80 inches.]\n\nWhich statement is best supported by these data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The distributions of the data for Team A and Team B are approximately symmetrical."
+    },
+    {
+      "label": "G",
+      "text": "The median height of the players on Team B is less than the median height of the players on Team A."
+    },
+    {
+      "label": "H",
+      "text": "Team B has a greater range in player heights than Team A has."
+    },
+    {
+      "label": "J",
+      "text": "The mode height of the players on Team B is less than the mode height of the players on Team A."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Dot plot Team A heights 72\u201384 inches",
+    "Dot plot Team B heights 72\u201384 inches"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

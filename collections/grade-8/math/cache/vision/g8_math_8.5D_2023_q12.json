@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the scatterplot, which of these is the best prediction for the number of servings of iced tea sold on a day where the food trailer has 80 customers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "53"
+    },
+    {
+      "label": "B",
+      "text": "62"
+    },
+    {
+      "label": "C",
+      "text": "40"
+    },
+    {
+      "label": "D",
+      "text": "30"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled 'Iced Tea Sales' with x-axis labeled 'Number of Customers' ranging from 24 to 88 and y-axis labeled 'Number of Servings of Iced Tea' ranging from 0 to 64. Data points are plotted roughly linearly increasing, with the point near 80 customers corresponding to servings between 56 and 64."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

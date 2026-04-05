@@ -1,0 +1,30 @@
+{
+  "stem": "A party hat is shaped like a cone. The dimensions of the party hat are shown in the diagram.",
+  "instruction": "Which measurement is closest to the volume of the party hat in cubic inches?",
+  "options": [
+    {
+      "label": "A",
+      "text": "84.82 in.\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "339.29 in.\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "254.47 in.\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "1,017.88 in.\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cone diagram with height labeled 9 in. and diameter labeled 6 in."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

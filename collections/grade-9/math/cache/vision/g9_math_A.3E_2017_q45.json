@@ -1,0 +1,28 @@
+{
+  "stem": "A student graphed f(x) = x and g(x) = f(x) + 3 on the same coordinate grid. Which statement describes how the graphs of f and g are related?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The graph of f is shifted 3 units up to create the graph of g."
+    },
+    {
+      "label": "B",
+      "text": "The graph of f is steeper than the graph of g."
+    },
+    {
+      "label": "C",
+      "text": "The graph of f is shifted 3 units down to create the graph of g."
+    },
+    {
+      "label": "D",
+      "text": "The graph of f is less steep than the graph of g."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

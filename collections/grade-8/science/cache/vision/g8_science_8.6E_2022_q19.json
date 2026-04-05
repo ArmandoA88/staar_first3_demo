@@ -1,0 +1,28 @@
+{
+  "stem": "Which of these observations is an indication that a chemical reaction has occurred?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Steam forms above boiling water."
+    },
+    {
+      "label": "B",
+      "text": "A solid forms when a clear solution is frozen."
+    },
+    {
+      "label": "C",
+      "text": "A solid forms when two clear solutions are mixed."
+    },
+    {
+      "label": "D",
+      "text": "Sugar crystals form on the sides of a boiling pot of sugar water."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

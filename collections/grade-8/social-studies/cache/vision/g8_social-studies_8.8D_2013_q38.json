@@ -1,0 +1,30 @@
+{
+  "stem": "Which idea does President Lincoln express in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Union exists only through the consent of sovereign states."
+    },
+    {
+      "label": "G",
+      "text": "The Union requires a nationwide decision on slavery."
+    },
+    {
+      "label": "H",
+      "text": "The Union matters more than current disagreements between states."
+    },
+    {
+      "label": "J",
+      "text": "The Union will be preserved through military force if necessary."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "We must not be enemies. Though passion may have strained, it must not break our bonds of affection. The mystic chords of memory, stretching from every battlefield and patriot grave, to every living heart and hearthstone, all over this broad land, will yet swell the chorus of the Union, when again touched, as surely they will be, by the better angels of our nature. \u2014 Abraham Lincoln, first inaugural address, 1861"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

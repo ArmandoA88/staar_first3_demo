@@ -1,0 +1,30 @@
+{
+  "stem": "Which effect is the result of the information shown in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A decreased need for computer automation"
+    },
+    {
+      "label": "B",
+      "text": "An increased need for human supervision"
+    },
+    {
+      "label": "C",
+      "text": "An increase in production efficiency"
+    },
+    {
+      "label": "D",
+      "text": "A decrease in consumer demand"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Global Industrial Robot Sales, 2006\u20132018' with years 2006, 2010, 2014, and 2018 on the x-axis and Number Sold (thousands) on the y-axis. Bars increase from about 110 in 2006, to about 130 in 2010, to about 220 in 2014, to about 390 in 2018."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

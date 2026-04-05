@@ -1,0 +1,30 @@
+{
+  "stem": "The quadratic function f(x) = x^2 is transformed to create g as shown in the graph.\n\nWhat is the equation for g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "g(x) = f(x + 3) - 2"
+    },
+    {
+      "label": "B",
+      "text": "g(x) = 2f(x + 3) - 2"
+    },
+    {
+      "label": "C",
+      "text": "g(x) = f(x - 3) + 2"
+    },
+    {
+      "label": "D",
+      "text": "g(x) = 2f(x - 3) + 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing quadratic function f(x) = x^2 with vertex at (0,0) and transformed function g with vertex at (-3,-2) and narrower shape"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

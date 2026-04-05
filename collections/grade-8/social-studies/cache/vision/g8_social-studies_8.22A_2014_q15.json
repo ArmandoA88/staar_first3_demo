@@ -1,0 +1,30 @@
+{
+  "stem": "Which action should be added to this list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Upheld the doctrine of states\u2019 rights"
+    },
+    {
+      "label": "B",
+      "text": "Supported the popular election of Supreme Court justices"
+    },
+    {
+      "label": "C",
+      "text": "Allowed slavery to extend into western territories"
+    },
+    {
+      "label": "D",
+      "text": "Wrote the Supreme Court decision that established the principle of judicial review"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "John Marshall\n\u2022 Promoted the public good\n\u2022 Maintained a strong sense of duty\n\u2022 Used clear language to discuss complex issues"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

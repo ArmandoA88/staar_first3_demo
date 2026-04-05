@@ -1,0 +1,30 @@
+{
+  "stem": "The manager of a music store surveyed a random sample of customers who shop in the store about their favorite type of music. The table shows the number of customers who selected each type of music.\n\nFavorite Type of Music\n\n| Rock | Country | Jazz | Classical | Rap | Pop |\n| 37   | 27      | 5    | 9         | 12  | 35  |\n\nBased on the information in the table, which inference about the favorite type of music of all the customers who shop in the music store appears to be valid?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They are certain to select rock or pop music."
+    },
+    {
+      "label": "G",
+      "text": "They are less likely to select country or rap music than rock music."
+    },
+    {
+      "label": "H",
+      "text": "They are more likely to select country music than jazz, classical, or rap music."
+    },
+    {
+      "label": "J",
+      "text": "They are certain to select any type of music other than jazz music."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with data on types of music and number of customers"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

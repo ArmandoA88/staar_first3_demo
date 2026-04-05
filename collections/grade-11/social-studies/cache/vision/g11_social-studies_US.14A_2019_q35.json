@@ -1,0 +1,30 @@
+{
+  "stem": "How have these shifts affected the physical environment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Water shortages occurred as more people moved to rural areas."
+    },
+    {
+      "label": "B",
+      "text": "Air pollution levels increased as the government decreased regulations."
+    },
+    {
+      "label": "C",
+      "text": "Cropland eroded as farmers used outdated agricultural techniques."
+    },
+    {
+      "label": "D",
+      "text": "Cities grew in size as previously used farmland was absorbed into urban areas."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Over the course of the 20th century, the composition of the labor force shifted from industries dominated by primary production occupations, such as farmers and foresters, to those dominated by professional, technical, and service workers.\n\n\u2014Donald M. Fisk, \"American Labor in the 20th Century,\" Fall 2001"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

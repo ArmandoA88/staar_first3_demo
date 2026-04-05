@@ -1,0 +1,28 @@
+{
+  "stem": "Helen had $330 in her savings account when Vince opened a savings account with zero dollars.\n\n\u2022 Helen deposited $30 into her account each week for x weeks.\n\u2022 Vince deposited $50 into his account each week for x weeks.\n\u2022 The accounts did not earn interest.\n\nWhich inequality represents this situation when the amount of money in Helen\u2019s account was greater than the amount of money in Vince\u2019s account?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "30x < 330 + 50x"
+    },
+    {
+      "label": "G",
+      "text": "50x > 330 + 30x"
+    },
+    {
+      "label": "H",
+      "text": "30x > 330 + 50x"
+    },
+    {
+      "label": "J",
+      "text": "50x < 330 + 30x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

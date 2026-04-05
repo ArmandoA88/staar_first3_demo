@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change signed to signs"
+    },
+    {
+      "label": "B",
+      "text": "Change Metre to metre"
+    },
+    {
+      "label": "C",
+      "text": "Change which to this"
+    },
+    {
+      "label": "D",
+      "text": "Change weights and measures to Weights and Measures"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

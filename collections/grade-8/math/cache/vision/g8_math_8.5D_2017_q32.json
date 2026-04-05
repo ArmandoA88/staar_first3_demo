@@ -1,0 +1,30 @@
+{
+  "stem": "Ben collected data from a group of 12 people. He measured each person's resting heart rate and recorded the average number of hours each person exercised per week. He created a scatterplot to show the data he collected.\n\nBased on the scatterplot, what is the best prediction of the resting heart rate, in beats per minute, of a person who exercises an average of 8 hours each week?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "30 beats per minute"
+    },
+    {
+      "label": "G",
+      "text": "50 beats per minute"
+    },
+    {
+      "label": "H",
+      "text": "55 beats per minute"
+    },
+    {
+      "label": "J",
+      "text": "60 beats per minute"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled 'Resting Heart Rate and Weekly Exercise' with y-axis labeled 'Resting Heart Rate (beats per minute)' ranging 0 to 100 and x-axis labeled 'Average Weekly Exercise (hours)' ranging 0 to 10. Data points show a downward trend from about (1,80) to (6,55)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

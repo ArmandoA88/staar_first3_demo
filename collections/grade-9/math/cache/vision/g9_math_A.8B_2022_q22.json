@@ -1,0 +1,30 @@
+{
+  "stem": "A person dives into a pool from its edge to swim to the other side. The table shows the depth in feet of the person from the surface of the water after x seconds. The data can be modeled by a quadratic function.\n\nTime, x (seconds) | Depth of Person from Surface of Water, d(x) (feet)\n1 | \u22122.85\n4 | \u22128.28\n6 | \u22129.3\n8.5 | \u22127.65\n10 | \u22125.1\n11.5 | \u22121.38\n\nWhich function best models the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "d(x) = 0.05x\u00b2 + 0.74x"
+    },
+    {
+      "label": "G",
+      "text": "d(x) = 0.05x\u00b2 + 0.74x + 9.17"
+    },
+    {
+      "label": "H",
+      "text": "d(x) = 0.26x\u00b2 \u2212 3.11x"
+    },
+    {
+      "label": "J",
+      "text": "d(x) = 0.26x\u00b2 \u2212 3.11x + 1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with time x and depth d(x) data"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

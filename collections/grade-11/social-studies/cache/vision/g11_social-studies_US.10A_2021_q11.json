@@ -1,0 +1,31 @@
+{
+  "stem": "What was one of President Nixon\u2019s goals for the meeting shown in this photograph?",
+  "instruction": "Study the photograph and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "To negotiate the withdrawal of U.S. and Chinese soldiers from Korea"
+    },
+    {
+      "label": "B",
+      "text": "To create a military alliance with China against the Soviet Union"
+    },
+    {
+      "label": "C",
+      "text": "To create an agreement limiting Chinese and Soviet development of nuclear weapons"
+    },
+    {
+      "label": "D",
+      "text": "To normalize relations between the United States and China"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Chairman of the Chinese Communist Party Mao Zedong Shakes Hands with U.S. President Richard Nixon, February 29, 1971",
+    "Black and white photograph of Mao Zedong and Richard Nixon shaking hands"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

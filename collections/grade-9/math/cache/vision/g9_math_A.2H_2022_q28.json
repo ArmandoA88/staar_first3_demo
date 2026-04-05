@@ -1,0 +1,30 @@
+{
+  "stem": "A university will spend at most $4,500 to buy monitors and keyboards for a computer lab. Each monitor will cost $250, and each keyboard will cost $50.\n\nWhich inequality represents all possible combinations of x, the number of monitors, and y, the number of keyboards, the university can buy for the computer lab?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "250x + 50y < 4,500"
+    },
+    {
+      "label": "G",
+      "text": "250x + 50y \u2264 4,500"
+    },
+    {
+      "label": "H",
+      "text": "50x + 250y < 4,500"
+    },
+    {
+      "label": "J",
+      "text": "50x + 250y \u2264 4,500"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,25 @@
+{
+  "stem": "Determine whether the triangle with each set of side lengths is a right triangle or not a right triangle.\n\nMove the correct answer to each box in the table. Each answer may be used more than once.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Right triangle"
+    },
+    {
+      "label": null,
+      "text": "Not a right triangle"
+    }
+  ],
+  "choice_pool": [
+    "Right triangle",
+    "Not a right triangle"
+  ],
+  "response_template": "Length 6, 8, 9 is a [blank_1]\nLength 10, 24, 26 is a [blank_2]\nLength 24, 45, 51 is a [blank_3]",
+  "visual_elements": [
+    "table with columns 'Lengths (centimeters)' and 'Type of Triangle' with rows: 6, 8, 9; 10, 24, 26; 24, 45, 51 and empty boxes for 'Type of Triangle'"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

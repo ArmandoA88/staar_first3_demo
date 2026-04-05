@@ -1,0 +1,30 @@
+{
+  "stem": "Which description of the energy conversions in this process is correct?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The chemical energy in the fuel-air mixture is converted to thermal energy, which is then converted to mechanical energy."
+    },
+    {
+      "label": "G",
+      "text": "The mechanical energy in the fuel-air mixture is converted to electrical energy, which is then converted to thermal energy."
+    },
+    {
+      "label": "H",
+      "text": "The electrical energy in the fuel-air mixture is converted to mechanical energy, which is then converted to thermal energy."
+    },
+    {
+      "label": "J",
+      "text": "The thermal energy in the fuel-air mixture is converted to electrical energy, which is then converted to mechanical energy."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing a cylinder in a car engine with four steps: Step 1 - A mixture of fuel and air enters the cylinder. Step 2 - The spark plug ignites the fuel-air mix. Step 3 - The hot, expanding gases push the piston down. Step 4 - The piston turns the crankshaft, which rotates the wheels."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": "Question about energy conversions in a car engine process with labeled steps and four answer choices."
+}

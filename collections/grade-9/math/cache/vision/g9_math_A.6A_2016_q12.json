@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows some ordered pairs that belong to quadratic function \\( h \\).\\n\\n\\n\\nx\\t-4\t-2\t0\t2\t3\t4\t6\\nh(x)\t41\t17\t1\t-7\t-8\t-7\t1",
+  "instruction": "What is the range of \\(h\\)?",
+  "options": [
+    {
+      "label": "F",
+      "text": "All real numbers"
+    },
+    {
+      "label": "G",
+      "text": "All real numbers greater than or equal to \\(-7\\)"
+    },
+    {
+      "label": "H",
+      "text": "All real numbers greater than or equal to \\(-8\\)"
+    },
+    {
+      "label": "J",
+      "text": "All real numbers greater than or equal to 0"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with values of x and h(x)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Which Venn diagram correctly describes the relationship between Set R and Set W?\n\nR = {real numbers}\nW = {whole numbers}",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": " , because all real numbers are whole numbers"
+    },
+    {
+      "label": "B",
+      "text": " , because all whole numbers are real numbers"
+    },
+    {
+      "label": "C",
+      "text": " , because some whole numbers are not real numbers"
+    },
+    {
+      "label": "D",
+      "text": " , because whole numbers and real numbers have no elements in common"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A: Venn diagram with circle W containing circle R",
+    "B: Venn diagram with circle R containing circle W",
+    "C: Venn diagram with circles R and W overlapping",
+    "D: Venn diagram with circles R and W separate"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

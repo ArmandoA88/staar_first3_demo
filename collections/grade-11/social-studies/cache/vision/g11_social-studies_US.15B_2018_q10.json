@@ -1,0 +1,30 @@
+{
+  "stem": "What was the most likely result of the publication of images such as this 1906 political cartoon?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The government passed the Sherman Antitrust Act."
+    },
+    {
+      "label": "G",
+      "text": "Private companies refused to import foreign foods."
+    },
+    {
+      "label": "H",
+      "text": "The government passed the Pure Food and Drug Act."
+    },
+    {
+      "label": "J",
+      "text": "Labor unions protested unsafe working conditions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "AN AWFUL CASE OF JUNE ODORS\nBy Maurice Ketten.\nCartoon showing two men smelling canned beef labeled with putrefied meat, beef trust scandals, and cholera."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

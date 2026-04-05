@@ -1,0 +1,33 @@
+{
+  "stem": "Which government entity is responsible for achieving these goals?\n\nGoal 1: Addressing Climate Change and Improving Air Quality\nGoal 2: Safeguarding America's Waters\nGoal 3: Cleaning Up Communities and Advancing Sustainable Development\nGoal 4: Ensuring the Safety of Chemicals and Preventing Pollution",
+  "instruction": "Read the list and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "National Park Service"
+    },
+    {
+      "label": "G",
+      "text": "Department of Homeland Security"
+    },
+    {
+      "label": "H",
+      "text": "Environmental Protection Agency"
+    },
+    {
+      "label": "J",
+      "text": "Federal Emergency Management Agency"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Goal 1: Addressing Climate Change and Improving Air Quality",
+    "Goal 2: Safeguarding America\u2019s Waters",
+    "Goal 3: Cleaning Up Communities and Advancing Sustainable Development",
+    "Goal 4: Ensuring the Safety of Chemicals and Preventing Pollution"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

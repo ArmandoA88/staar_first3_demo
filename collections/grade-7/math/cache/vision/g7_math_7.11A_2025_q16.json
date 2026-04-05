@@ -1,0 +1,28 @@
+{
+  "stem": "Arnold can spend no more than $450 on a party at a movie theater. The fee to rent the theater is $150, and the food will cost $12 per guest.\n\nWhat is the solution set that represents x, the number of guests that can attend the party?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x \\u2265 50"
+    },
+    {
+      "label": "B",
+      "text": "x \\u2264 50"
+    },
+    {
+      "label": "C",
+      "text": "x \\u2265 25"
+    },
+    {
+      "label": "D",
+      "text": "x \\u2264 25"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

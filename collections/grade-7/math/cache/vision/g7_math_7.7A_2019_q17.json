@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation best represents the relationship between x and y in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = -\\tfrac{3}{4} x - 3"
+    },
+    {
+      "label": "B",
+      "text": "y = -\\tfrac{4}{3} x - 3"
+    },
+    {
+      "label": "C",
+      "text": "y = -\\tfrac{3}{4} x - 4"
+    },
+    {
+      "label": "D",
+      "text": "y = -\\tfrac{4}{3} x - 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph depicting a line crossing points (-8, 3) and (6, -7) on an x-y coordinate plane with x and y axes labeled and grid lines shown."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

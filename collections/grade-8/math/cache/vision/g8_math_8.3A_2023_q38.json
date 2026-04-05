@@ -1,0 +1,30 @@
+{
+  "stem": "Quadrilateral \\(KLMN\\) is similar to quadrilateral \\(TUVW\\). Side lengths are given in centimeters.\n\nWhich proportion must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{y}{15} = \\frac{22.5}{28} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{y}{28} = \\frac{5}{22.5} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{20}{30} = \\frac{5}{x} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{15}{20} = \\frac{x}{30} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two quadrilaterals labeled KLMN and TUVW.\nQuadrilateral KLMN has side lengths: KN=15 cm, NM=20 cm, ML=5 cm, KL=y.\nQuadrilateral TUVW has side lengths: WT=22.5 cm, TU=28 cm, UV=x, VW=30 cm."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

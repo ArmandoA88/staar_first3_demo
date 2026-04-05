@@ -1,0 +1,35 @@
+{
+  "stem": "Why was the bill in this cartoon important to President Franklin D. Roosevelt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He wanted to strengthen the congressional power of impeachment."
+    },
+    {
+      "label": "G",
+      "text": "He wanted to strengthen federal judicial authority over state governments."
+    },
+    {
+      "label": "H",
+      "text": "He wanted to remove congressional leaders from office."
+    },
+    {
+      "label": "J",
+      "text": "He wanted to weaken the power of the judicial branch over the executive."
+    }
+  ],
+  "choice_pool": [
+    "F",
+    "G",
+    "H",
+    "J"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "Two men are depicted in front of a fireplace. One man, labeled 'OPPOSITION,' is holding a large rolled-up paper labeled 'SUPREME COURT BILL' and saying, 'I'M GOING TO TOSS IT IN!' The other man, labeled 'F.D.R.,' is pleading, 'JUST A MINUTE, MY FRIEND\u2013LET'S TALK THIS OVER!'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

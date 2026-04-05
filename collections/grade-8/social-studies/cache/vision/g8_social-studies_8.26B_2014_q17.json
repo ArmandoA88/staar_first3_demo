@@ -1,0 +1,30 @@
+{
+  "stem": "This painting of a Missouri scene was completed in 1852. Such scenes would look dramatically different after the \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "ratification of the Fifteenth Amendment"
+    },
+    {
+      "label": "B",
+      "text": "Second Great Awakening"
+    },
+    {
+      "label": "C",
+      "text": "emergence of Manifest Destiny"
+    },
+    {
+      "label": "D",
+      "text": "expansion of the factory system into the South"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "image of The County Election painting"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best applies to the reaction force?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The reaction force is not as large as the action force."
+    },
+    {
+      "label": "B",
+      "text": "The reaction force acts in the same direction as the action force."
+    },
+    {
+      "label": "C",
+      "text": "The reaction force is greater than the action force."
+    },
+    {
+      "label": "D",
+      "text": "The reaction force acts in the direction opposite to the action force."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The diagram shows a person applying an action force to a diving board with an arrow labeled 'Action force' pointing downward from the board."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

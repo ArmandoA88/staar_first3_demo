@@ -1,0 +1,30 @@
+{
+  "stem": "How did the legislation excerpted above affect the relationship between the U.S. government and its citizens?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It allowed the government to tax investment income."
+    },
+    {
+      "label": "B",
+      "text": "It allowed people to have more direct input in government decisions."
+    },
+    {
+      "label": "C",
+      "text": "It made most people distrust the power of the government."
+    },
+    {
+      "label": "D",
+      "text": "It made the government more responsible for the people\u2019s economic welfare."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "For the purpose of enabling each State to furnish financial assistance, as far as practicable under the conditions in such State, to aged needy individuals, there is hereby authorized to be appropriated . . . for each fiscal year a sum sufficient to carry out the purposes of this title. \u2014Social Security Act of 1935, Title 1, Section 1"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

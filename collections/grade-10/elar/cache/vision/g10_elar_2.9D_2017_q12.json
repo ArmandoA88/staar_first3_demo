@@ -1,0 +1,30 @@
+{
+  "stem": "What is the correct way to write sentence 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Attempting one shallow takeoff after another and each time banging itself against the glass."
+    },
+    {
+      "label": "G",
+      "text": "It attempted one shallow takeoff after another. Each time banging itself against the glass."
+    },
+    {
+      "label": "H",
+      "text": "Attempting one shallow takeoff after another. Each time it banged itself against the glass."
+    },
+    {
+      "label": "J",
+      "text": "It attempted one shallow takeoff after another, each time banging itself against the glass."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

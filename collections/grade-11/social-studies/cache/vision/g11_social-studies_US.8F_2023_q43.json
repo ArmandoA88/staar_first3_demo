@@ -1,0 +1,20 @@
+{
+  "stem": "In 1970, students at Kent State University gathered because of U.S. involvement in the [blank_1] War. Ohio National Guard troops fired on the crowd, and four students were shot. The incident at Kent State University [blank_2].",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [],
+  "choice_pool": [
+    "Vietnam",
+    "Korean",
+    "World War II",
+    "was widely publicized",
+    "led to protests nationwide",
+    "was quickly forgotten"
+  ],
+  "response_template": "In 1970, students at Kent State University gathered because of U.S. involvement in the [blank_1] War. Ohio National Guard troops fired on the crowd, and four students were shot. The incident at Kent State University [blank_2].",
+  "visual_elements": [
+    "Two drop-down menus indicated by gray boxes"
+  ],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

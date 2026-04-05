@@ -1,0 +1,30 @@
+{
+  "stem": "The Federal Housing Administration is a New Deal agency that continues to assist many Americans primarily by \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "providing them with money to pay for moving expenses"
+    },
+    {
+      "label": "B",
+      "text": "helping them obtain mortgage loans from banks"
+    },
+    {
+      "label": "C",
+      "text": "helping them choose a reputable home builder"
+    },
+    {
+      "label": "D",
+      "text": "offering incentives for them to invest in rental properties"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text: 2013 - Q31\nText: 31 The Federal Housing Administration is a New Deal agency that continues to assist many Americans primarily by \u2014\nA providing them with money to pay for moving expenses\nB helping them obtain mortgage loans from banks\nC helping them choose a reputable home builder\nD offering incentives for them to invest in rental properties"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

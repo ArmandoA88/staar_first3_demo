@@ -1,0 +1,34 @@
+{
+  "stem": "Which events in U.S. history are directly associated with this cartoon?\n\nSelect TWO correct answers.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Passage of the Northwest Ordinance"
+    },
+    {
+      "label": null,
+      "text": "Passage of the Navigation Acts"
+    },
+    {
+      "label": null,
+      "text": "Boston Tea Party"
+    },
+    {
+      "label": null,
+      "text": "Great Awakening"
+    },
+    {
+      "label": null,
+      "text": "Shays\u2019s Rebellion"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image: A cartoon showing a woman labeled 'MOTHER COUNTRY' seated at a table, with three women standing before her labeled 'COLONY' each holding a platter labeled 'GOLD & SILVER', 'FOODSTUFFS', and 'RAW MATERIALS'."
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 1,
+  "notes": null
+}

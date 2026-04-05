@@ -1,0 +1,30 @@
+{
+  "stem": "The two lines graphed on the coordinate grid each represent an equation.\n\nWhich ordered pair represents a solution to both equations?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(-4, 0)"
+    },
+    {
+      "label": "B",
+      "text": "(-3, 3)"
+    },
+    {
+      "label": "C",
+      "text": "(3, -3)"
+    },
+    {
+      "label": "D",
+      "text": "(0, 4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with two lines graphed, one passing through points (-2, 6) and (-6, -6), the other passing through points (-6, 2) and (3, 5)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

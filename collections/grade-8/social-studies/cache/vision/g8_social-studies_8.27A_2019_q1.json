@@ -1,0 +1,32 @@
+{
+  "stem": "What impact did this innovation have on daily life?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It increased the regional differences among various groups of people across the country."
+    },
+    {
+      "label": "B",
+      "text": "It became a major method of long-distance communication for many years."
+    },
+    {
+      "label": "C",
+      "text": "It allowed people to sign legal documents from across the country."
+    },
+    {
+      "label": "D",
+      "text": "It was the government\u2019s only method to negotiate with foreign leaders."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In 1844, Samuel Morse and Alfred Vail sent the first telegraph message between Washington, D.C., and Baltimore, Maryland.",
+    "In 1861, Western Union laid the first transcontinental telegraph line.",
+    "In 1866, the first permanent telegraph cable was laid across the Atlantic Ocean."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

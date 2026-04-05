@@ -1,0 +1,30 @@
+{
+  "stem": "The coordinates of the vertices of a rectangle are A (5, 3), B (5, -9), C (-1, -9), and D (-1, 3). Which measurement is closest to the distance between point B and point D in units?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5.8 units"
+    },
+    {
+      "label": "B",
+      "text": "13.4 units"
+    },
+    {
+      "label": "C",
+      "text": "10.4 units"
+    },
+    {
+      "label": "D",
+      "text": "9.1 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with points A(5,3), B(5,-9), C(-1,-9), D(-1,3) connected to form a rectangle"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

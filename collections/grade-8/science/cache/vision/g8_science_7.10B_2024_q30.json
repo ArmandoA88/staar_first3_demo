@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows different types of tectonic plate boundaries.\n\nWhich table accurately shows the surface features associated with each tectonic plate boundary?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Plate Boundary       Surface Features\n1                    Volcanoes and oceanic ridges\n2                    Trenches and continental rift valleys"
+    },
+    {
+      "label": "B",
+      "text": "Plate Boundary       Surface Features\n1                    Oceanic ridges and continental rift valleys\n2                    Trenches and volcanoes"
+    },
+    {
+      "label": "C",
+      "text": "Plate Boundary       Surface Features\n1                    Continental rift valleys and volcanoes\n2                    Oceanic ridges and trenches"
+    },
+    {
+      "label": "D",
+      "text": "Plate Boundary       Surface Features\n1                    Trenches and continental rift valleys\n2                    Volcanoes and oceanic ridges"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two diagrams labeled Boundary 1 and Boundary 2 showing tectonic plate boundaries"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

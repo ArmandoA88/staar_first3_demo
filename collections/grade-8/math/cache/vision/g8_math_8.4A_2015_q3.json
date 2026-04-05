@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle \\(DEF\\) and triangle \\(GHI\\) are similar right triangles.\n\nBased on this information, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The relationship between the slope of the hypotenuse of triangle \\(DEF\\) and the slope of the hypotenuse of triangle \\(GHI\\) cannot be determined."
+    },
+    {
+      "label": "B",
+      "text": "The slope of the hypotenuse of triangle \\(DEF\\) is greater than the slope of the hypotenuse of triangle \\(GHI\\)."
+    },
+    {
+      "label": "C",
+      "text": "The slope of the hypotenuse of triangle \\(DEF\\) is less than the slope of the hypotenuse of triangle \\(GHI\\)."
+    },
+    {
+      "label": "D",
+      "text": "The slope of the hypotenuse of triangle \\(DEF\\) is equal to the slope of the hypotenuse of triangle \\(GHI\\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with points D(-7,6), E(-4,6), F(-7,3), G(-3,2), H(5,2), I(5,-4) plotted, triangles DEF and GHI indicated as similar right triangles"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The dimensions of a rectangular pyramid are shown in the diagram.\n\nWhat is the volume of the rectangular pyramid in cubic millimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "15 mm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "120 mm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "60 mm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "40 mm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a rectangular pyramid with height 6 mm, base lengths 5 mm and 4 mm."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which number line represents the solution to the inequality \\(-7x - 13 \\geq 8\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Number line with a closed circle at -4 and shading to the left"
+    },
+    {
+      "label": "B",
+      "text": "Number line with a closed circle at 3 and shading to the left"
+    },
+    {
+      "label": "C",
+      "text": "Number line with a closed circle at -1 and shading to the right"
+    },
+    {
+      "label": "D",
+      "text": "Number line with a closed circle at 3 and shading to the right"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four number lines labeled A through D with markings from -10 to 10, each having a closed circle and shading representing inequalities."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

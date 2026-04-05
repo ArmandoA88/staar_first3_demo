@@ -1,0 +1,28 @@
+{
+  "stem": "Frankie bought a new computer. He made an initial payment of $50 to the store, and he will pay $30 each month until the computer is paid off. Which equation represents the relationship between m, the number of monthly payments Frankie has made, and t, the total amount that Frankie has paid the store?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "t = 50m + 30"
+    },
+    {
+      "label": "G",
+      "text": "t = 30m - 50"
+    },
+    {
+      "label": "H",
+      "text": "t = 50m - 30"
+    },
+    {
+      "label": "J",
+      "text": "t = 30m + 50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

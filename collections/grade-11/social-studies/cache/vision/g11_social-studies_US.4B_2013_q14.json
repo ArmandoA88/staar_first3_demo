@@ -1,0 +1,30 @@
+{
+  "stem": "What were these Hawaiian citizens protesting?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The forced annexation of the islands as a U.S. territory after the overthrow of the Hawaiian monarchy"
+    },
+    {
+      "label": "G",
+      "text": "The classification of the islands as a protectorate after the Hawaiian government signed a treaty with the United States"
+    },
+    {
+      "label": "H",
+      "text": "The granting of U.S. statehood to the islands after they were purchased from the Hawaiian monarch"
+    },
+    {
+      "label": "J",
+      "text": "The colonization of the islands by political refugees from the United States"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "To His Excellency William McKinley, President, and the Senate, of the United States of America . . .  We, the undersigned, native Hawaiian citizens . . . who are members of the Hawaiian Patriotic League of the Hawaiian Islands, and others who are in sympathy with the said League, earnestly protest against the . . . [addition] of the said Hawaiian Islands to the said United States of America in any form or shape. \u2014 Petition, 1897"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

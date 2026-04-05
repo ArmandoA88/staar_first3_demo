@@ -1,0 +1,30 @@
+{
+  "stem": "The reproduction rates of citrus rust mites are shown.\n\n| Average Number of Eggs Produced per Day | Temperature |\n|-----------------------------------------|-------------|\n| 4.20                                    | 30 \u00baC       |\n| 1.20                                    | 16 \u00baC       |\n\nBased on the information provided, which statement **BEST** describes the effect of temperature on the citrus rust mite?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Temperature can affect the size of its egg."
+    },
+    {
+      "label": "B",
+      "text": "Temperature can influence the gender of its offspring."
+    },
+    {
+      "label": "C",
+      "text": "Temperature can affect its rate of reproductive success."
+    },
+    {
+      "label": "D",
+      "text": "Temperature can influence the availability of nutrients."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with Average Number of Eggs Produced per Day and Temperature columns, values 4.20 at 30 \u00baC and 1.20 at 16 \u00baC"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

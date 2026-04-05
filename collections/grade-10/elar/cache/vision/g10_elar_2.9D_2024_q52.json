@@ -1,0 +1,33 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 10?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change rendered to rendering"
+    },
+    {
+      "label": "B",
+      "text": "Change it to them"
+    },
+    {
+      "label": "C",
+      "text": "Change too unappetizing to to unappetizing"
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A. Change rendered to rendering",
+    "B. Change it to them",
+    "C. Change too unappetizing to to unappetizing",
+    "D. No change is needed."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

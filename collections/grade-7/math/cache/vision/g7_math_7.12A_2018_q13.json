@@ -1,0 +1,31 @@
+{
+  "stem": "The dot plots show the numbers of miles Ian skated on several days in two different months.\n\nJuly\n\nAugust\n\nWhich statement is supported by the information in the dot plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The least number of miles Ian skated on a day in July is greater than the least number of miles Ian skated on a day in August."
+    },
+    {
+      "label": "B",
+      "text": "The median number of miles Ian skated each day in July is greater than the median number of miles Ian skated each day in August."
+    },
+    {
+      "label": "C",
+      "text": "The mode of the number of miles Ian skated each day in July is less than the mode of the number of miles Ian skated each day in August."
+    },
+    {
+      "label": "D",
+      "text": "The range of the number of miles Ian skated each day in July is less than the range of the number of miles Ian skated each day in August."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Dot plot for July showing number of miles skated each day from 0 to 15 with dots at: 1, 6, 7 (3 dots), 8, 9 (2 dots), 11, 13",
+    "Dot plot for August showing number of miles skated each day from 0 to 15 with dots at: 5 (2 dots), 6, 7, 8, 9 (2 dots), 10, 11 (3 dots), 12"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

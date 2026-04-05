@@ -1,0 +1,30 @@
+{
+  "stem": "The model shows a mutation to a partial sequence of bases in a gene.\n\n... CGT ATA TC ^ C TAT GCC CCT GAC ...\n                TATC",
+  "instruction": "Which type of mutation does the model demonstrate?",
+  "options": [
+    {
+      "label": "F",
+      "text": "Deletion"
+    },
+    {
+      "label": "G",
+      "text": "Insertion"
+    },
+    {
+      "label": "H",
+      "text": "Substitution"
+    },
+    {
+      "label": "J",
+      "text": "Translocation"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sequence with bases and insertion indicated by ^ and TATC"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

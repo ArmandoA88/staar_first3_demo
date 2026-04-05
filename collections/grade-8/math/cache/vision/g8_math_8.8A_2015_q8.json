@@ -1,0 +1,30 @@
+{
+  "stem": "Renting video games from Store S costs $2.50 per game plus a monthly fee of $5.00. Renting video games from Store T costs $5.00 per game with no monthly fee. The monthly cost to rent video games depends on the number of video games, v, rented. Which inequality represents the situation when the monthly cost at Store S is less than the monthly cost at Store T?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2.5v + 5 < 5v"
+    },
+    {
+      "label": "B",
+      "text": "2.5v + 5 > 5v"
+    },
+    {
+      "label": "C",
+      "text": "7.5v < 5v"
+    },
+    {
+      "label": "D",
+      "text": "7.5v > 5v"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

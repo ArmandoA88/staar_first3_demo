@@ -1,0 +1,28 @@
+{
+  "stem": "Alice has a loan of $24,820. This loan has a simple interest rate of 3.5% per year. No payments will be made on the loan until the end of one year.\n\nHow much interest will Alice pay on this loan at the end of one year?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$868.70"
+    },
+    {
+      "label": "G",
+      "text": "$72.39"
+    },
+    {
+      "label": "H",
+      "text": "$8,687.00"
+    },
+    {
+      "label": "J",
+      "text": "$25,688.70"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

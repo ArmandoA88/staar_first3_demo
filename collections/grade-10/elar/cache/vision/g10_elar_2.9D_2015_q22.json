@@ -1,0 +1,28 @@
+{
+  "stem": "What change should be made in sentence 32?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change Chemistry to chemistry"
+    },
+    {
+      "label": "G",
+      "text": "Change announced to annonunsed"
+    },
+    {
+      "label": "H",
+      "text": "Delete the comma after partner"
+    },
+    {
+      "label": "J",
+      "text": "Change the comma after shoes to a period"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Based on this excerpt, how did Ralph Nader\u2019s third-party candidacy affect the 2000 presidential election?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Nader\u2019s candidacy shifted the issues discussed by the major-party candidates."
+    },
+    {
+      "label": "B",
+      "text": "Nader\u2019s candidacy was unable to influence the outcome of the election."
+    },
+    {
+      "label": "C",
+      "text": "Nader\u2019s candidacy decreased the media coverage given to the major-party candidates."
+    },
+    {
+      "label": "D",
+      "text": "Nader\u2019s candidacy was able to attract a majority of voters in the election."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt about Nader's effect on the 2000 election: Nader has no doubt forced Al Gore to run a different kind of campaign than he would otherwise. In past elections, Gore chose to position himself as a New Democrat, championing a moderate agenda that included downsizing and reinventing the government. His rhetoric has taken on a more populist tone in this campaign, emphasizing the role of the government as a check on the excesses of corporate power. \u2014Naomi Schneidmill, \"Election 2000: Third Party May Swing Election,\" The GW Hatchet, November 6, 2000"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

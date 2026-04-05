@@ -1,0 +1,33 @@
+{
+  "stem": "Square ABCD is translated 3 units to the right on a coordinate grid to create square A'B'C'D'. Which rule describes this translation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(x, y) \u2192 (x, y - 3)"
+    },
+    {
+      "label": "B",
+      "text": "(x, y) \u2192 (x, y + 3)"
+    },
+    {
+      "label": "C",
+      "text": "(x, y) \u2192 (x + 3, y)"
+    },
+    {
+      "label": "D",
+      "text": "(x, y) \u2192 (x - 3, y)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(x, y) \u2192 (x, y - 3)",
+    "(x, y) \u2192 (x, y + 3)",
+    "(x, y) \u2192 (x + 3, y)",
+    "(x, y) \u2192 (x - 3, y)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

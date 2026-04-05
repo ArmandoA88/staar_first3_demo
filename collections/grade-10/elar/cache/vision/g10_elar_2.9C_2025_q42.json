@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, should be made in sentence 28?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It also served as a precursor to a still-active organization that was formed in 1946 to replace the league, the United Nations."
+    },
+    {
+      "label": "B",
+      "text": "A still-active organization that was formed in 1946 to replace the league is what is now the United Nations as a precursor."
+    },
+    {
+      "label": "C",
+      "text": "As a precursor to the United Nations, a still-active organization that was formed in 1946 to replace the league, it also served."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

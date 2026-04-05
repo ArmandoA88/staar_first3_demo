@@ -1,0 +1,30 @@
+{
+  "stem": "A baker determined the annual profit in dollars from selling pies using p(n) = 52n - 0.05n^2, where n is the number of pies sold. What is the annual profit if the baker sells 400 pies?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "$20,780"
+    },
+    {
+      "label": "G",
+      "text": "$12,800"
+    },
+    {
+      "label": "H",
+      "text": "$28,800"
+    },
+    {
+      "label": "J",
+      "text": "$20,760"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "p(n) = 52n - 0.05n^2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

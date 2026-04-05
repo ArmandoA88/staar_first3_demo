@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation best represents the relationship between x and y in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = 3x - 2"
+    },
+    {
+      "label": "G",
+      "text": "y = -\\frac{1}{2}x + 3"
+    },
+    {
+      "label": "H",
+      "text": "y = -2x + 3"
+    },
+    {
+      "label": "J",
+      "text": "y = 2x + \\frac{3}{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with labeled x and y axes showing a line with negative slope crossing y at 3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "This list presents the work of a civil rights advocate.\n\nSelected Accomplishments of Dolores Huerta\n\n\u2022 Secured disability insurance for California farmworkers\n\u2022 Directed a national grape boycott to protest the dangers of pesticides for farmworkers\n\u2022 ________________ ?",
+  "instruction": "Which accomplishment correctly completes this list?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Organized armed resistance to protest police brutality against farmworkers"
+    },
+    {
+      "label": "B",
+      "text": "Negotiated to secure better working conditions for farmworkers"
+    },
+    {
+      "label": "C",
+      "text": "Filed a federal lawsuit to fight segregation against farmworkers in public facilities"
+    },
+    {
+      "label": "D",
+      "text": "Seized corporate farmland to protest discrimination against farmworkers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Selected Accomplishments of Dolores Huerta box with two accomplishments and a blank line with question mark"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

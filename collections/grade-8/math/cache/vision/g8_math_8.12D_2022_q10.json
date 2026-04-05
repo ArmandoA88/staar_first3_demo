@@ -1,0 +1,31 @@
+{
+  "stem": "Monica wants to open a savings account with a deposit of $3,000. Monica will not make any additional deposits or withdrawals after she opens the account. Her bank offers two different savings accounts.\n\n\u2022 Account X pays 2.1% simple annual interest.\n\u2022 Account Y pays 2.4% interest compounded annually.\n\nWhich statement about these accounts at the end of 5 years is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Account X would earn Monica about $62.70 more interest than Account Y."
+    },
+    {
+      "label": "G",
+      "text": "Account Y would earn Monica about $62.70 more interest than Account X."
+    },
+    {
+      "label": "H",
+      "text": "Account X would earn Monica about $45.00 more interest than Account Y."
+    },
+    {
+      "label": "J",
+      "text": "Account Y would earn Monica about $45.00 more interest than Account X."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022 \u2013 Q10",
+    "10"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

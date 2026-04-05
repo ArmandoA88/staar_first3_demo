@@ -1,0 +1,30 @@
+{
+  "stem": "Which set of ordered pairs represents y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "{(0, 0.5), (2, 1.5), (-5.5, 5), (-5.5, -6)}"
+    },
+    {
+      "label": "B",
+      "text": "{(5, -7), (3, -7), (-9.2, -7), (9.2, -7)}"
+    },
+    {
+      "label": "C",
+      "text": "{(9.3, -1), (7.3, -2), (7.3, 2), (9.3, 1)}"
+    },
+    {
+      "label": "D",
+      "text": "{(8.1, 9), (9.1, 10), (10.1, 9), (9.1, 8)}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

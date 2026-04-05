@@ -1,0 +1,30 @@
+{
+  "stem": "Which school action represents a violation of the court\u2019s ruling?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A school soccer coach requires the team to say a religious prayer before practice."
+    },
+    {
+      "label": "B",
+      "text": "A student club meets before school for religious studies."
+    },
+    {
+      "label": "C",
+      "text": "A church rents a school\u2019s gymnasium for a weekend fundraising event."
+    },
+    {
+      "label": "D",
+      "text": "A student in school says a silent prayer prior to taking an exam."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt from a federal government website describing the Supreme Court case Engel v. Vitale (1962), including a boxed text explaining the New York State law on public schools opening with the Pledge of Allegiance and a non denominational prayer, a parent's lawsuit, and the Supreme Court majority's decision that school-sponsored prayer violates the Establishment Clause of the First Amendment."
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

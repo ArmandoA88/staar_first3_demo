@@ -1,0 +1,30 @@
+{
+  "stem": "These demonstrations led to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "a global energy crisis brought on by an OPEC oil embargo"
+    },
+    {
+      "label": "B",
+      "text": "the bombing of a Marine barracks, followed by retaliatory U.S. air strikes"
+    },
+    {
+      "label": "C",
+      "text": "a U.S. boycott of the Olympics in protest of events in Central Asia"
+    },
+    {
+      "label": "D",
+      "text": "a hostage crisis that severely damaged confidence in the Carter administration"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "MEMORANDUM\n\nTHE WHITE HOUSE\nWASHINGTON\n\nOctober 31, 1979\n\nMEMORANDUM FOR: THE PRESIDENT\nFROM: DAVID AARON\nSUBJECT: Iran Demonstrations\n\nThursday is a religious holiday in Tehran, and the authorities have called for a massive religious/political demonstration to protest U.S. policy and the presence of the Shah in the United States. Police in Tehran anticipate up to one million demonstrators. The program calls for public prayers and a rally in the working class district in South Tehran, followed by a march into town."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

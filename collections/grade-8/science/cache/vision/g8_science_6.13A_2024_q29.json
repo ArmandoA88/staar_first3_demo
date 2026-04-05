@@ -1,0 +1,38 @@
+{
+  "stem": "Students listed characteristics of some cells they had studied. Identify the characteristics that are part of the cell theory.",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "Are able to move freely"
+    },
+    {
+      "label": null,
+      "text": "Are the basic units of life"
+    },
+    {
+      "label": null,
+      "text": "Have similar structures"
+    },
+    {
+      "label": null,
+      "text": "Help fight diseases"
+    },
+    {
+      "label": null,
+      "text": "Can only come from other cells"
+    },
+    {
+      "label": null,
+      "text": "Use nutrients for growth"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with header 'Characteristics of Cells' and six rows with options"
+  ],
+  "item_type_inferred": "Multiple Selection",
+  "confidence": 0.95,
+  "notes": "This is a multiple selection item requiring two correct choices related to cell theory."
+}

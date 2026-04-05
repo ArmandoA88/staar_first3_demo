@@ -1,0 +1,30 @@
+{
+  "stem": "These data could be used to support which conclusion?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Gulf Coast states had to rely on steamboats to transport goods."
+    },
+    {
+      "label": "B",
+      "text": "States in the lower South had more land devoted to plantations."
+    },
+    {
+      "label": "C",
+      "text": "Border states had to import needed raw materials."
+    },
+    {
+      "label": "D",
+      "text": "States in the upper South were heavily industrialized."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1860 Census Results for Selected States table with columns: State, Total Population, Total Number of Slaves, Slaves as a Percentage of Population. Rows: Alabama, Georgia, Kentucky, Maryland, Mississippi, Virginia."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

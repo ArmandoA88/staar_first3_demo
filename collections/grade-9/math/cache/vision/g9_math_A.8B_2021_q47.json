@@ -1,0 +1,31 @@
+{
+  "stem": "The scatterplot and table show the weekly profit in dollars earned from the sale of pastries at seven different prices. The data can be modeled by a quadratic function.\n\nWhich function best models the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 0.001x^2 - 0.426x + 35.672"
+    },
+    {
+      "label": "B",
+      "text": "y = -60.4x^2 + 348.1x - 334.2"
+    },
+    {
+      "label": "C",
+      "text": "y = 0.001x^2 + 35.672"
+    },
+    {
+      "label": "D",
+      "text": "y = -60.4x^2 - 334.2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled Pastry Sales with x-axis labeled Price (dollars) ranging approx. 2.00 to 3.75 and y-axis labeled Weekly Profit (dollars) ranging approx. 100 to 170, showing 7 data points",
+    "Table with two columns labeled x and y with values:  2.25, 145; 2.50, 154; 2.75, 168; 3.00, 172; 3.25, 160; 3.50, 137; 3.75, 126"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

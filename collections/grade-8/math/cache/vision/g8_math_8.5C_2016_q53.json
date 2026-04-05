@@ -1,0 +1,30 @@
+{
+  "stem": "Which scatterplot suggests a linear relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Scatterplot labeled A with points clustered mostly vertical around x=4-6)"
+    },
+    {
+      "label": "B",
+      "text": "(Scatterplot labeled B with points increasing steadily from bottom left to top right)"
+    },
+    {
+      "label": "C",
+      "text": "(Scatterplot labeled C with points forming a curve, increasing then decreasing)"
+    },
+    {
+      "label": "D",
+      "text": "(Scatterplot labeled D with points scattered with no clear pattern)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four scatterplots labeled A, B, C, D with x and y axes from 0 to 8"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

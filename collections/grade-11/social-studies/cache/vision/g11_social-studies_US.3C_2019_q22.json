@@ -1,0 +1,30 @@
+{
+  "stem": "Which issue contributed most to the need for this permanent sanitation group?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Increased urban population"
+    },
+    {
+      "label": "G",
+      "text": "The passage of labor laws"
+    },
+    {
+      "label": "H",
+      "text": "Decreased regulation of urban rail systems"
+    },
+    {
+      "label": "J",
+      "text": "The establishment of immigration quotas"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Black and white image of two sanitation workers cleaning a street with horse-drawn cart in background, historical setting."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

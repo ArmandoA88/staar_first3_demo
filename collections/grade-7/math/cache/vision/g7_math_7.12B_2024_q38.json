@@ -1,0 +1,30 @@
+{
+  "stem": "The owner of a deli recorded the number of sandwiches in each order for a random sample of orders that were placed on Monday. The data are presented in the dot plot.\n\nThe deli owner uses this information to predict the number of sandwiches in each order that will be placed next Monday. Which inference about the number of sandwiches in each order is best supported by the information in the dot plot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Most orders will be for 10 sandwiches."
+    },
+    {
+      "label": "B",
+      "text": "Fewer than 50% of the orders will be for 1 to 5 sandwiches."
+    },
+    {
+      "label": "C",
+      "text": "More orders will be for 1 or 2 sandwiches than for 9 or 10 sandwiches."
+    },
+    {
+      "label": "D",
+      "text": "More than 50% of the orders will be for 6 or more sandwiches."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "dot plot titled 'Sandwich Orders' with each dot representing 1 order:\n1 sandwich: 7 dots\n2 sandwiches: 6 dots\n3 sandwiches: 5 dots\n4 sandwiches: 5 dots\n5 sandwiches: 3 dots\n6 sandwiches: 3 dots\n7 sandwiches: 2 dots\n8 sandwiches: 3 dots\n9 sandwiches: 0 dots\n10 sandwiches: 4 dots"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

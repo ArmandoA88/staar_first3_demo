@@ -1,0 +1,28 @@
+{
+  "stem": "What change needs to be made in sentence 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change Literature to literature"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after story"
+    },
+    {
+      "label": "H",
+      "text": "Change uses to use"
+    },
+    {
+      "label": "J",
+      "text": "Change animals to animal's"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

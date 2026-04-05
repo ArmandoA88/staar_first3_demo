@@ -1,0 +1,30 @@
+{
+  "stem": "A group of students formed a circle during a game. The circumference of the circle was about 43.96 feet, and the diameter of the circle was 14 feet.\n\nWhich expression best represents the value of \\(\\pi\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\frac{43.96}{7}\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\frac{43.96}{14}\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\frac{7}{43.96}\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\(\\frac{14}{43.96}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fraction expressions for each choice"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

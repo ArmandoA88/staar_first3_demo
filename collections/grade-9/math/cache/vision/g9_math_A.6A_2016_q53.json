@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph represents a function with a domain of all real numbers greater than or equal to -7 and less than 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Curve from x=-2 open circle to x=6 closed circle, parabola shape.",
+    "Graph B: Curve from x=-3 closed circle to x=2 open circle, parabola shape.",
+    "Graph C: Curve from x=-4 closed circle to x=1 open circle, parabola shape.",
+    "Graph D: Curve from x=-7 closed circle to x=2 open circle, parabola shape."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Answer choices are graphs labeled A, B, C, and D with various domain intervals indicated by open/closed endpoints."
+}

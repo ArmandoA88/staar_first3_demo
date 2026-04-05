@@ -1,0 +1,33 @@
+{
+  "stem": "What was one effect of these events on the 1828 presidential election?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Votes were cast by secret ballot."
+    },
+    {
+      "label": "B",
+      "text": "Property qualifications for voting were strengthened."
+    },
+    {
+      "label": "C",
+      "text": "Poll taxes were reduced."
+    },
+    {
+      "label": "D",
+      "text": "Voter participation increased."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Presidential Election of 1824",
+    "Andrew Jackson won the most votes in the Electoral College, but he did not have a majority.",
+    "Under the Twelfth Amendment, the decision was turned over to the House of Representatives, which elected John Quincy Adams.",
+    "Jackson's supporters called Adams's election the result of a \"corrupt bargain.\""
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

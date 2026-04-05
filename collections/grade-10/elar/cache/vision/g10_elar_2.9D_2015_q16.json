@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Delete the semicolon"
+    },
+    {
+      "label": "G",
+      "text": "Change stood to standing"
+    },
+    {
+      "label": "H",
+      "text": "Change they to it"
+    },
+    {
+      "label": "J",
+      "text": "Change past to passed"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2015 - Q16 Passage #3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

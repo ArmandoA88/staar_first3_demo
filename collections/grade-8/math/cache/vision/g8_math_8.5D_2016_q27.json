@@ -1,0 +1,30 @@
+{
+  "stem": "The manager of a restaurant recorded how many people were in different groups of customers and how much those groups spent on food and beverages. The scatterplot below shows the data she recorded.\n\nBased on this scatterplot, about how much money would a group of 10 people be expected to spend on food and beverages at this restaurant?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$135"
+    },
+    {
+      "label": "B",
+      "text": "$115"
+    },
+    {
+      "label": "C",
+      "text": "$105"
+    },
+    {
+      "label": "D",
+      "text": "$150"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot with x-axis labeled 'Number of People' and y-axis labeled 'Total Spent (dollars)'; data points plotted approximately linearly increasing from (1, 15) to (8, 105)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

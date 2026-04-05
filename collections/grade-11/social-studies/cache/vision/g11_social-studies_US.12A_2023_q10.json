@@ -1,0 +1,34 @@
+{
+  "stem": "How did levee failures affect New Orleans after Hurricane Katrina?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "High winds damaged the roofs of many homes and businesses."
+    },
+    {
+      "label": "B",
+      "text": "Flood waters entered many homes and businesses."
+    },
+    {
+      "label": "C",
+      "text": "Rising temperatures caused widespread power outages."
+    },
+    {
+      "label": "D",
+      "text": "The storm surge caused widespread destruction of ships."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "How did levee failures affect New Orleans after Hurricane Katrina?",
+    "A High winds damaged the roofs of many homes and businesses.",
+    "B Flood waters entered many homes and businesses.",
+    "C Rising temperatures caused widespread power outages.",
+    "D The storm surge caused widespread destruction of ships."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

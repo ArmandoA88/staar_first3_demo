@@ -1,0 +1,33 @@
+{
+  "stem": "A bookshelf contains 15 books that each have the same width. The combined width for all 15 books is 12 inches.\nWhich graph has a slope that best models the width of each book?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[Graph A shown]"
+    },
+    {
+      "label": "B",
+      "text": "[Graph B shown]"
+    },
+    {
+      "label": "C",
+      "text": "[Graph C shown]"
+    },
+    {
+      "label": "D",
+      "text": "[Graph D shown]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: y-axis labeled Total Width (inches) from 0 to 9, x-axis labeled Number of Books from 0 to 9 with line through approximately (5, 7)",
+    "Graph B: y-axis labeled Total Width (inches) from 0 to 9, x-axis labeled Number of Books from 0 to 9 with line through approximately (9, 8)",
+    "Graph C: y-axis labeled Total Width (inches) from 0 to 9, x-axis labeled Number of Books from 0 to 9 with line through approximately (9, 9)",
+    "Graph D: y-axis labeled Total Width (inches) from 0 to 9, x-axis labeled Number of Books from 0 to 9 with a horizontal line at y=1"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Each graph is labeled with letters A-D. The graphs show different slopes representing total width vs number of books."
+}

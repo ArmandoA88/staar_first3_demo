@@ -1,0 +1,31 @@
+{
+  "stem": "Read the list and answer the question that follows.\n\n\u2022 Japan invades Korea and China.\n\u2022 Germany invades Poland.\n\u2022 Japan attacks Pearl Harbor.\n\nWhich title correctly replaces the question mark?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Events That Encouraged the United States to Join NATO"
+    },
+    {
+      "label": "B",
+      "text": "Events That Inspired U.S. Nationalism during World War I"
+    },
+    {
+      "label": "C",
+      "text": "Events That Contributed to U.S. Rejection of the League of Nations"
+    },
+    {
+      "label": "D",
+      "text": "Events That Led to U.S. Involvement in World War II"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bullet list: Japan invades Korea and China, Germany invades Poland, Japan attacks Pearl Harbor",
+    "question mark as placeholder for title"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

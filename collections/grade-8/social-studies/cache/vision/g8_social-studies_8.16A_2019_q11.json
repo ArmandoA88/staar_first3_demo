@@ -1,0 +1,30 @@
+{
+  "stem": "This author is expressing her opinion about \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "recalling members of Congress"
+    },
+    {
+      "label": "B",
+      "text": "impeaching the President"
+    },
+    {
+      "label": "C",
+      "text": "disobeying the Supreme Court"
+    },
+    {
+      "label": "D",
+      "text": "amending the Constitution"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The great idea in Article V [of the Constitution] is that change requires two elements: . . . national agreement, as well as agreement in most of the states, that an urgent problem exists that cannot be remedied by the courts, legislatures or Congress.\n\n\u2014Mary Frances Berry, The New York Times, September 13, 1987"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

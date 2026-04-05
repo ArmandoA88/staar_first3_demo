@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt and your knowledge of U.S. history, which constitutional issue was raised by this legislation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The ability of state legislatures to regulate interstate commerce"
+    },
+    {
+      "label": "B",
+      "text": "The authority of Congress to pass laws necessary for the general welfare"
+    },
+    {
+      "label": "C",
+      "text": "The shifting of responsibilities between the branches of the federal government"
+    },
+    {
+      "label": "D",
+      "text": "The authority of Congress to pass laws that limit the size of the federal government"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt: The constitutional basis of the Social Security Act was uncertain. The basic problem is that under the \u201creserve clause\u201d of the Constitution (the 10th Amendment) powers not specifically granted to the federal government are reserved for the States or the people. When the federal government seeks to expand its influence in new areas it must find some basis in the Constitution to justify its action. \u2014Larry DeWitt, \"The 1937 Supreme Court Rulings on the Social Security Act,\" Social Security Administration, 1999"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

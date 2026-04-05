@@ -1,0 +1,30 @@
+{
+  "stem": "The data presented on this graph illustrate an economic effect of \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the rapid demobilization of U.S. defense industries after World War II"
+    },
+    {
+      "label": "B",
+      "text": "the federal domestic programs created as part of the Great Society"
+    },
+    {
+      "label": "C",
+      "text": "incentives offered under the Bracero Program to temporary laborers"
+    },
+    {
+      "label": "D",
+      "text": "assistance offered by the GI Bill to soldiers returning from World War II"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Line graph titled 'New Housing Units Started, Private Ownership, 1945-1962' with x-axis labeled 'Year' from 1945 to 1962 and y-axis labeled 'Number of Units (millions)' from 0 to 2.5. Data shows an increase in housing units started peaking around 1950, then fluctuating but generally stable around 1.4 to 1.6 million."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

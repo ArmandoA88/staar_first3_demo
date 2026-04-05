@@ -1,0 +1,30 @@
+{
+  "stem": "The coordinate grid shows parallelogram PQRS.\n\nParallelogram PQRS is rotated 90\u00b0 clockwise about the origin to create parallelogram P'Q'R'S'. Which rule describes this transformation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(x, y) \u2192 (x, \u2212y)"
+    },
+    {
+      "label": "G",
+      "text": "(x, y) \u2192 (\u2212x, y)"
+    },
+    {
+      "label": "H",
+      "text": "(x, y) \u2192 (y, x)"
+    },
+    {
+      "label": "J",
+      "text": "(x, y) \u2192 (y, \u2212x)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid showing parallelogram PQRS with points P(-6,3), Q(-4,8), R(-2,7), S(-3,2)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which course of action did President Carter propose in order to solve this problem for the next generation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Contract with foreign nations to build wind turbines"
+    },
+    {
+      "label": "B",
+      "text": "Reduce federal spending on solar cell energy research"
+    },
+    {
+      "label": "C",
+      "text": "Drill fewer offshore wells to conserve marine life"
+    },
+    {
+      "label": "D",
+      "text": "Develop alternative energy sources"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text box with excerpt from President Jimmy Carter, address to the nation, April 18, 1977"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

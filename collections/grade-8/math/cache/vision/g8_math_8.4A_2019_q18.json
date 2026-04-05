@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle HJK and triangle PMK are similar right triangles. The coordinates of all the vertices are integers.\n\nWhich statement is true about the slope of \\(\\overline{HK}\\) and the slope of \\(\\overline{PK}\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The slope of \\(\\overline{HK}\\) is less than the slope of \\(\\overline{PK}\\), because the ratio of the change in y-values of the endpoints to the change in x-values of the endpoints is less for \\(\\overline{HK}\\) than it is for \\(\\overline{PK}\\)."
+    },
+    {
+      "label": "G",
+      "text": "The slope of \\(\\overline{HK}\\) is equal to the slope of \\(\\overline{PK}\\), because the ratio of the change in y-values of the endpoints to the change in x-values of the endpoints is the same for \\(\\overline{HK}\\) as it is for \\(\\overline{PK}\\)."
+    },
+    {
+      "label": "H",
+      "text": "The slope of \\(\\overline{HK}\\) is greater than the slope of \\(\\overline{PK}\\), because the ratio of the change in y-values of the endpoints to the change in x-values of the endpoints is greater for \\(\\overline{HK}\\) than it is for \\(\\overline{PK}\\)."
+    },
+    {
+      "label": "J",
+      "text": "The relationship between the slope of \\(\\overline{HK}\\) and the slope of \\(\\overline{PK}\\) cannot be determined, because the triangles are congruent."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with points H, J, K, P, M on coordinate grid"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

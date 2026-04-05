@@ -1,0 +1,28 @@
+{
+  "stem": "Which list shows the numbers in order from least to greatest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "- \\frac{4}{3} \\quad -0.43 \\quad \\sqrt{3} \\quad \\frac{5}{2}"
+    },
+    {
+      "label": "B",
+      "text": "-0.43 \\quad -\\frac{4}{3} \\quad \\sqrt{3} \\quad \\frac{5}{2}"
+    },
+    {
+      "label": "C",
+      "text": "- \\frac{4}{3} \\quad -0.43 \\quad \\frac{5}{2} \\quad \\sqrt{3}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{5}{2} \\quad \\sqrt{3} \\quad -0.43 \\quad - \\frac{4}{3}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation best represents the relationship between x and y in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = 3x + 3"
+    },
+    {
+      "label": "B",
+      "text": "y = 3x - 1"
+    },
+    {
+      "label": "C",
+      "text": "y = \\frac{1}{3}x + 3"
+    },
+    {
+      "label": "D",
+      "text": "y = \\frac{1}{3}x - 1"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with x and y axes ranging from -9 to 9, showing a line with positive slope and y-intercept near -1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

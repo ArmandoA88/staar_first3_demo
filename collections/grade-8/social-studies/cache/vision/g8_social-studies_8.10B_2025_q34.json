@@ -1,0 +1,30 @@
+{
+  "stem": "Which characteristic was shared by the darker-shaded states on this map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They were states that joined the Confederacy before the firing on Ft. Sumter."
+    },
+    {
+      "label": "B",
+      "text": "They were slave states that remained in the Union during the Civil War."
+    },
+    {
+      "label": "C",
+      "text": "They were states that voted against declaring war on the Confederacy."
+    },
+    {
+      "label": "D",
+      "text": "They were slave states that supported Abraham Lincoln in the 1860 presidential election."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map of United States, 1861, showing state and territorial borders. Several states are shaded darker."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

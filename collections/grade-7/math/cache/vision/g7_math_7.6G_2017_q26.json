@@ -1,0 +1,30 @@
+{
+  "stem": "The circle graph shows how Tremaine divided his time on the computer last week.\n\nTremaine used the computer a total of 30 hours last week. How many more hours did Tremaine use the computer to play games than to do research?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "6 hours"
+    },
+    {
+      "label": "G",
+      "text": "20 hours"
+    },
+    {
+      "label": "H",
+      "text": "7.5 hours"
+    },
+    {
+      "label": "J",
+      "text": "1.5 hours"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circle graph labeled Tremaine's Computer Time with segments: Games 25%, Homework 20%, Research 5%, Other 10%, Social media 40%"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

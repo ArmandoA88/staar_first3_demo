@@ -1,0 +1,34 @@
+{
+  "stem": "The perimeter of a rectangle is 32 inches.\n\n\u2022 The rectangle has a width of 4 inches.\n\n\u2022 The rectangle has a length of 2.5x inches.\n\nWhich equation can be used to find the value of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4 + 2.5x = 32"
+    },
+    {
+      "label": "B",
+      "text": "8 + 5x = 32"
+    },
+    {
+      "label": "C",
+      "text": "4(2.5x) = 32"
+    },
+    {
+      "label": "D",
+      "text": "8(5x) = 32"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q22",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

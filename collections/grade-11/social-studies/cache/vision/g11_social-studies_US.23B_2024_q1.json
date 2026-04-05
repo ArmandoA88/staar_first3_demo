@@ -1,0 +1,31 @@
+{
+  "stem": "Why did Master Sergeant Benavidez earn the Medal of Honor?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He risked his career to leave the United States to train foreign troops."
+    },
+    {
+      "label": "B",
+      "text": "He risked his individual safety for the lives of other people in battle."
+    },
+    {
+      "label": "C",
+      "text": "He risked his personal reputation to serve his country in Vietnam."
+    },
+    {
+      "label": "D",
+      "text": "He risked his command to support demonstrations against the war."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "His fearless personal leadership, . . . devotion to duty, and extremely valorous actions in the face of overwhelming odds were in keeping with the highest traditions of the military service, and reflect the utmost credit on him and the United States Army.",
+    "\u2014President Ronald Reagan, February 24, 1981"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

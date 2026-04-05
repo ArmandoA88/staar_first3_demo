@@ -1,0 +1,30 @@
+{
+  "stem": "A polygon will be dilated on a coordinate grid to create a smaller polygon. The polygon is dilated using the origin as the center of dilation.\n\nWhich rule could represent this dilation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(x, y) \\rightarrow (0.5 - x, 0.5 - y)"
+    },
+    {
+      "label": "G",
+      "text": "(x, y) \\rightarrow (x - 7, y - 7)"
+    },
+    {
+      "label": "H",
+      "text": "(x, y) \\rightarrow \\left( \\frac{5}{4} x, \\frac{5}{4} y \\right)"
+    },
+    {
+      "label": "J",
+      "text": "(x, y) \\rightarrow (0.9x, 0.9y)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "mathematical notation"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

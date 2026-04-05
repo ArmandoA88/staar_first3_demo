@@ -1,0 +1,27 @@
+{
+  "stem": "The graph of a linear function is shown on the coordinate grid.\n\nWhat are the slope and the y-intercept of the function?",
+  "instruction": "Enter numbers in the boxes provided.",
+  "options": [],
+  "choice_pool": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "0",
+    ".",
+    "-",
+    "\u00f7"
+  ],
+  "response_template": "slope: [blank_1]\ny-intercept: ( [blank_2] , [blank_3] )",
+  "visual_elements": [
+    "coordinate grid with labeled points (-4, -3) and (4, -1) and plotted linear function"
+  ],
+  "item_type_inferred": "Equation Editor",
+  "confidence": 1,
+  "notes": null
+}

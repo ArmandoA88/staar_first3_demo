@@ -1,0 +1,30 @@
+{
+  "stem": "This table shows the number of votes received in the state of Florida by the three leading candidates in the 2000 presidential election.\n\nCandidate       Party          Votes Received\nGeorge W. Bush  Republican    2,912,790\nAl Gore         Democratic    2,912,253\nRalph Nader     Green        97,488\n\nWhich of the following best describes Ralph Nader's effect on the election in Florida?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "He contested the recounting of election ballots in federal court."
+    },
+    {
+      "label": "G",
+      "text": "His presence as a third-party candidate discouraged voter turnout."
+    },
+    {
+      "label": "H",
+      "text": "He persuaded state officials to abandon the punch-card method of voting."
+    },
+    {
+      "label": "J",
+      "text": "His candidacy drew crucial votes away from the other candidates."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table showing Candidate, Party, Votes Received with data for George W. Bush, Al Gore, Ralph Nader"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

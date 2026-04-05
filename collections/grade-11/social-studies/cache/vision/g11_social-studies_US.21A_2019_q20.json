@@ -1,0 +1,30 @@
+{
+  "stem": "Which constitutional provision did the most to advance the aspect of democracy Tocqueville describes?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\"The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated. . . .\""
+    },
+    {
+      "label": "G",
+      "text": "\"Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted shall exist within the United States, or any place subject to their jurisdiction.\""
+    },
+    {
+      "label": "H",
+      "text": "\"The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.\""
+    },
+    {
+      "label": "J",
+      "text": "\"Whenever there is a vacancy in the office of the Vice President, the President shall nominate a Vice President who shall take office upon confirmation by a majority vote of both Houses of Congress.\""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "block quote: The nation participates in the making of its laws by the choice of its legislators, and in the execution of them by the choice of the agents of the executive government; it may almost be said to govern itself. . . . \u2014Alexis de Tocqueville, Democracy in America, 1835"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

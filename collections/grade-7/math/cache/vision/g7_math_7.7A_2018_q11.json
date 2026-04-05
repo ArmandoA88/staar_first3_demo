@@ -1,0 +1,31 @@
+{
+  "stem": "The table shows the relationship between y, the cost to rent a boat, and x, the amount of time the boat is rented.\n\nBoat Rental Costs\n\n| Time, x (hours) | Cost, y (dollars) |\n|-----------------|-------------------|\n| 1               | 32                |\n| 3               | 56                |\n| 5               | 80                |\n| 7               | 104               |\n\nWhich graph best represents the relationship between x and y shown in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with x-axis 0 to 80, y-axis 0 to 5, line from origin ascending"
+    },
+    {
+      "label": "B",
+      "text": "Graph with x-axis 0 to 5, y-axis 32 to 152, line ascending through points"
+    },
+    {
+      "label": "C",
+      "text": "Graph with x-axis 32 to 152, y-axis 0 to 5, line ascending"
+    },
+    {
+      "label": "D",
+      "text": "Graph with x-axis 0 to 5, y-axis 0 to 80, line ascending"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with Time x (hours): 1, 3, 5, 7 and Cost y (dollars): 32, 56, 80, 104",
+    "Four graphs labeled A, B, C, and D each labeled 'Boat Rental' with x-axis 'Time (hours)' and y-axis 'Cost (dollars)' with different scales:"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

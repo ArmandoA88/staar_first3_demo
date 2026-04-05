@@ -1,0 +1,31 @@
+{
+  "stem": "A model of two structures that perform cellular processes is shown.\n\nWhat are the products of the cellular processes in these organelles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "I: glucose and carbon dioxide\nII: oxygen and water"
+    },
+    {
+      "label": "B",
+      "text": "I: carbon dioxide and oxygen\nII: glucose and water"
+    },
+    {
+      "label": "C",
+      "text": "I: oxygen and glucose\nII: water and carbon dioxide"
+    },
+    {
+      "label": "D",
+      "text": "I: carbon dioxide and water\nII: glucose and oxygen"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of organelle I: mitochondrion",
+    "Image of organelle II: chloroplast"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Images match mitochondrion (I) and chloroplast (II) but are described as 'model of two structures' to avoid naming in the stem."
+}

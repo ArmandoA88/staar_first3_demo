@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the table, on which date were Earth, the moon, and the sun MOST LIKELY arranged as shown in the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "May 15"
+    },
+    {
+      "label": "B",
+      "text": "May 18"
+    },
+    {
+      "label": "C",
+      "text": "May 22"
+    },
+    {
+      "label": "D",
+      "text": "May 26"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram shows the Sun on the left side with 4 arrows pointing right to Earth and Moon. Earth is half shaded on the right side and half light on the left side. The Moon is shaded on the right side and light on the left side, orbiting Earth counterclockwise as indicated by arrows."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

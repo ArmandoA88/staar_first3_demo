@@ -1,0 +1,33 @@
+{
+  "stem": "The quadratic function \\( f(x) = x^2 \\) is transformed to create the function \\( g(x) = f(x - 6) + 2 \\).",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
+  "options": [
+    {
+      "label": null,
+      "text": "left"
+    },
+    {
+      "label": null,
+      "text": "right"
+    },
+    {
+      "label": null,
+      "text": "up"
+    },
+    {
+      "label": null,
+      "text": "down"
+    }
+  ],
+  "choice_pool": [
+    "left",
+    "right",
+    "up",
+    "down"
+  ],
+  "response_template": "The graph of \\( f \\) is translated 6 units [blank_1] and 2 units [blank_2] to create the graph of function \\( g \\).",
+  "visual_elements": [],
+  "item_type_inferred": "Inline Choice",
+  "confidence": 0.95,
+  "notes": null
+}

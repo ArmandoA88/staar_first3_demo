@@ -1,0 +1,45 @@
+{
+  "stem": "The intestine is lined with many fingerlike structures called villi, which allow increased absorption of digested materials. The cells within a villus change position and migrate as they mature. Each cell then dies and is sloughed off. For each of three locations within villi, the table shows the number of cells that are undergoing a cellular change called apoptosis, or programmed cell death.\n\n| Location within Villi | Number of Cells Undergoing Apoptosis (per 200 Villi Samples) |\n|-----------------------|--------------------------------------------------------------|\n| Base                  | 0                                                            |\n| Middle                | 60                                                           |\n| Top                   | 80                                                           |\n\nHall, P. A., et al., Journal of Cell Science, 1994\n\nBased on the information in the table, how does apoptosis LIKELY affect cells?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used. Not all answers can be moved to all boxes.",
+  "options": [
+    {
+      "label": null,
+      "text": "repairs DNA in"
+    },
+    {
+      "label": null,
+      "text": "destroys"
+    },
+    {
+      "label": null,
+      "text": "before it produces DNA for new daughter cells"
+    },
+    {
+      "label": null,
+      "text": "at the end of its lifespan"
+    },
+    {
+      "label": null,
+      "text": "reduce its metabolism"
+    },
+    {
+      "label": null,
+      "text": "become cancerous"
+    }
+  ],
+  "choice_pool": [
+    "repairs DNA in",
+    "destroys",
+    "before it produces DNA for new daughter cells",
+    "at the end of its lifespan",
+    "reduce its metabolism",
+    "become cancerous"
+  ],
+  "response_template": "Apoptosis is a normal cellular process that [blank_1] cells. A cell may enter apoptosis [blank_2]. Without apoptosis, the cell may [blank_3].",
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

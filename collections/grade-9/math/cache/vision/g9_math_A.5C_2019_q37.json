@@ -1,0 +1,31 @@
+{
+  "stem": "What is the value of x in the solution to this system of equations?\n\n3x - 5y = 22\n\n   y = -5x + 32",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-6.5"
+    },
+    {
+      "label": "B",
+      "text": "0.5"
+    },
+    {
+      "label": "C",
+      "text": "6.5"
+    },
+    {
+      "label": "D",
+      "text": "-0.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3x - 5y = 22",
+    "y = -5x + 32"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

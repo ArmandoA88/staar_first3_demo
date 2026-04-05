@@ -1,0 +1,33 @@
+{
+  "stem": "Which quadratic function in vertex form can be represented by the graph that has a vertex at (3, -7) and passes through the point (1, -10)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = \\frac{3}{4}(x + 3)^2 + 7"
+    },
+    {
+      "label": "B",
+      "text": "y = -\\frac{3}{4}(x + 3)^2 - 7"
+    },
+    {
+      "label": "C",
+      "text": "y = \\frac{3}{4}(x - 3)^2 + 7"
+    },
+    {
+      "label": "D",
+      "text": "y = -\\frac{3}{4}(x - 3)^2 - 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\frac{3}{4}(x + 3)^2 + 7",
+    "-\\frac{3}{4}(x + 3)^2 - 7",
+    "\\frac{3}{4}(x - 3)^2 + 7",
+    "-\\frac{3}{4}(x - 3)^2 - 7"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "What change needs to be made in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Insert a comma after *process*"
+    },
+    {
+      "label": "B",
+      "text": "Change *due* to *do*"
+    },
+    {
+      "label": "C",
+      "text": "Change *testimonials* to *testimonial\u2019s*"
+    },
+    {
+      "label": "D",
+      "text": "Change *be* to *will be*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circular label A before 'Insert a comma after process'",
+    "Circular label B before 'Change due to do'",
+    "Circular label C before 'Change testimonials to testimonial\u2019s'",
+    "Circular label D before 'Change be to will be'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

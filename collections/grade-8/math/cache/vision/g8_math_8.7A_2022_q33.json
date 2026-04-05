@@ -1,0 +1,30 @@
+{
+  "stem": "Mount Fuji in Japan can be modeled as a cone with a diameter of 25 miles and a height of 2.35 miles. Which measurement is closest to the volume of Mount Fuji in cubic miles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1,154 mi\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "385 mi\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "1,538 mi\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "72 mi\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cone shape"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What value of x makes this equation true?\n\\( \\frac{x}{3} - 3 = \\frac{x}{9} + 3 \\)",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3"
+    },
+    {
+      "label": "G",
+      "text": "-9"
+    },
+    {
+      "label": "H",
+      "text": "-1"
+    },
+    {
+      "label": "J",
+      "text": "27"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\( \\frac{x}{3} - 3 = \\frac{x}{9} + 3 \\)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

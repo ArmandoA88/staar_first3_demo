@@ -1,0 +1,30 @@
+{
+  "stem": "What was the main effect of the changes shown in this graph on the western United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Immigration from Europe to western U.S. cities increased rapidly."
+    },
+    {
+      "label": "G",
+      "text": "Western U.S. businesses traded more efficiently with the East Coast and Europe."
+    },
+    {
+      "label": "H",
+      "text": "Asian businesses bypassed the West Coast to trade directly with the East Coast."
+    },
+    {
+      "label": "J",
+      "text": "Western states recruited guest workers from the Caribbean and South America."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled Differences in Maritime Shipping Distances Before and After the Panama Canal Opened, showing distances between Liverpool-San Francisco and New York-San Francisco via Panama Canal and via Magellan Straits, with distances in nautical miles."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

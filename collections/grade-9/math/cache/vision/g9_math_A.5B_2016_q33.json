@@ -1,0 +1,34 @@
+{
+  "stem": "Which inequality describes all the solutions to 5(3 - x) < -2x + 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x < -9"
+    },
+    {
+      "label": "B",
+      "text": "x > 3"
+    },
+    {
+      "label": "C",
+      "text": "x < -3"
+    },
+    {
+      "label": "D",
+      "text": "x > 7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "5(3 - x) < -2x + 6",
+    "x < -9",
+    "x > 3",
+    "x < -3",
+    "x > 7"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

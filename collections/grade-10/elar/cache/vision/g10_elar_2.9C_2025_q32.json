@@ -1,0 +1,28 @@
+{
+  "stem": "What is the most effective way to combine sentences 19, 20, and 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The idea of eating cereal for breakfast was promoted by the late 1800s by John Kellogg and Charles Post the two men we now recognize as big names in breakfast cereal."
+    },
+    {
+      "label": "B",
+      "text": "Although the idea of eating cereal for a healthy breakfast was being promoted in the late 1800s, John Kellogg and Charles Post were recognized as two of the biggest names in cereal."
+    },
+    {
+      "label": "C",
+      "text": "By the late 1800s, John Kellogg and Charles Post, who we now recognize as two of the biggest names in breakfast cereal, promoted the idea of eating cereal for health."
+    },
+    {
+      "label": "D",
+      "text": "The idea of eating healthy cereal was promoted by the late 1800s and John Kellogg and Charles Post promoted this idea so we now recognize them as the two biggest names in breakfast cereal."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

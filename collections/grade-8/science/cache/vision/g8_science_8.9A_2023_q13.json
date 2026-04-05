@@ -1,0 +1,35 @@
+{
+  "stem": "Label the characteristics of stars in each area of the Hertzsprung-Russell diagram.",
+  "instruction": "Move ONE correct answer to each box.",
+  "options": [
+    {
+      "label": null,
+      "text": "Cool, bright"
+    },
+    {
+      "label": null,
+      "text": "Cool, dim"
+    },
+    {
+      "label": null,
+      "text": "Hot, dim"
+    },
+    {
+      "label": null,
+      "text": "Hot, bright"
+    }
+  ],
+  "choice_pool": [
+    "Cool, bright",
+    "Cool, dim",
+    "Hot, dim",
+    "Hot, bright"
+  ],
+  "response_template": "Supergiants: [blank_1]\nGiants: [blank_2]\nMain-sequence stars: [blank_3]\nWhite dwarfs: [blank_4]",
+  "visual_elements": [
+    "Hertzsprung-Russell Diagram with labeled regions: Supergiants, Giants, Main-sequence stars, White dwarfs and temperature axis (25,000, 10,000, 6,000, 3,000 K) and luminosity axis (10^-4 to 10^6) with boxes to fill"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "An insect population after x months can be modeled by the function g(x) = 18(1.3)^x. Which statement is the best interpretation of one of the values in this function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The insect population increased by 13 insects each month."
+    },
+    {
+      "label": "G",
+      "text": "The insect population decreased by 13 insects each month."
+    },
+    {
+      "label": "H",
+      "text": "The insect population increased at a rate of 30% each month."
+    },
+    {
+      "label": "J",
+      "text": "The insect population decreased at a rate of 30% each month."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

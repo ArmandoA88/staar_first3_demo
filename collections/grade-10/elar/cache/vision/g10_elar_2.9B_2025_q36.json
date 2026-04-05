@@ -1,0 +1,30 @@
+{
+  "stem": "Lyle needs a more effective conclusion to his essay. Which concluding sentence best replaces sentence 35 to accomplish this task?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "If this upward trend continues, we may expect four, five, or even six meals a day in the future."
+    },
+    {
+      "label": "B",
+      "text": "Now you know the curious history of how breakfast, lunch, and dinner mealtime traditions began."
+    },
+    {
+      "label": "C",
+      "text": "I\u2019m glad breakfast was added since it's my favorite meal of the day, and sometimes my family even eats cereal for dinner."
+    },
+    {
+      "label": "D",
+      "text": "However, for most of us, the habit of having three meals a day won\u2019t be broken anytime soon."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "multiple choice answers labeled A, B, C, D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1.0,
+  "notes": null
+}

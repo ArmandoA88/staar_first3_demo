@@ -1,0 +1,31 @@
+{
+  "stem": "This World War I\u2013era poster was intended to persuade \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "farmers to consume fewer scarce goods during the war"
+    },
+    {
+      "label": "B",
+      "text": "women to work producing war materials"
+    },
+    {
+      "label": "C",
+      "text": "people to save money during the war"
+    },
+    {
+      "label": "D",
+      "text": "people to help finance the war"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Poster text: IF YOU CAN'T ENLIST = INVEST BUY LIBERTY BONDS See Your Bank Today",
+    "Image of Statue of Liberty holding torch"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

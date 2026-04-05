@@ -1,0 +1,28 @@
+{
+  "stem": "Clarissa needs a $2,500 loan in order to buy a car. Which loan option would allow her to pay the least amount of interest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An 18-month loan with a 4.75% annual simple interest rate"
+    },
+    {
+      "label": "B",
+      "text": "A 30-month loan with a 4.00% annual simple interest rate"
+    },
+    {
+      "label": "C",
+      "text": "A 24-month loan with a 4.25% annual simple interest rate"
+    },
+    {
+      "label": "D",
+      "text": "A 36-month loan with a 4.50% annual simple interest rate"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

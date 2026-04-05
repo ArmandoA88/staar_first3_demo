@@ -1,0 +1,13 @@
+{
+  "stem": "Two mutations of a genetic sequence are shown. A DNA codon chart is also shown.\n\nOriginal Sequence:\n3'-TAC CCG ATA GGC CAC-5'\n\nMutation 1:\n3'-TAC CCG AAA GGC CAC-5'\n\nMutation 2:\n3'-TAC CCG AA GGC CAC-5'\n\nWhich mutation would have the MOST significant impact on the gene product?\nWhy would the impact be so significant?",
+  "instruction": "Review the diagram carefully. Then enter your answer and your explanation in the box provided.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "DNA codon chart showing codons and corresponding amino acids"
+  ],
+  "item_type_inferred": "Short Constructed Response",
+  "confidence": 0.98,
+  "notes": "This is a short constructed response item requiring explanation about the genetic impact of mutations based on the codon chart."
+}

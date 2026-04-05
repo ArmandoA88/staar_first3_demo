@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement explains how the different cell types in the image are formed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Each cell type uses its own unique replication process."
+    },
+    {
+      "label": "B",
+      "text": "Each cell type expresses different genes at different times."
+    },
+    {
+      "label": "C",
+      "text": "Each cell type contains a different part of the original DNA."
+    },
+    {
+      "label": "D",
+      "text": "Each cell type has different enzymes to replicate genetic material."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "diagram showing a central cluster of cells differentiating into intestinal cells, muscle cells, liver cells, nerve cells, blood cells, and cardiac cells"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

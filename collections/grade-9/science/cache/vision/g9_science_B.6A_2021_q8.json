@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best explains how the cell cycle is important to the life cycle of the frog?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It enables frogs to produce tadpoles that are clones."
+    },
+    {
+      "label": "G",
+      "text": "It allows frogs to grow, develop, and reproduce."
+    },
+    {
+      "label": "H",
+      "text": "It prevents overproduction of frog offspring."
+    },
+    {
+      "label": "J",
+      "text": "It ensures the best adapted frogs survive and pass on traits to offspring."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram showing the life cycle of a frog in a circular flow: Adult frog -> Fertilized eggs -> Embryos -> Tadpoles with legs -> Young frog -> Adult frog"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

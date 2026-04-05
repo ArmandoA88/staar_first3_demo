@@ -1,0 +1,30 @@
+{
+  "stem": "Why would a company invest in a time-study analysis?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To diversify the workforce"
+    },
+    {
+      "label": "B",
+      "text": "To improve efficiency"
+    },
+    {
+      "label": "C",
+      "text": "To reduce the amount of goods in storage"
+    },
+    {
+      "label": "D",
+      "text": "To improve relations with inventory suppliers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A  B  C  D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

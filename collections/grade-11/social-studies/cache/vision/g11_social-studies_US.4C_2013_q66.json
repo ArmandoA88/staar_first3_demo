@@ -1,0 +1,30 @@
+{
+  "stem": "How did the Zimmermann telegram influence U.S. entry into World War I?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It announced the czar's overthrow in Russia."
+    },
+    {
+      "label": "G",
+      "text": "It revealed a proposed military alliance between Mexico and Germany."
+    },
+    {
+      "label": "H",
+      "text": "It contained orders for German U-boats to destroy British passenger ships."
+    },
+    {
+      "label": "J",
+      "text": "It described Romania's plan to abandon neutrality."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

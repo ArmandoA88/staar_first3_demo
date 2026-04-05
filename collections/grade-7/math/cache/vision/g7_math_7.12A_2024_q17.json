@@ -1,0 +1,30 @@
+{
+  "stem": "A company divided its salespeople into two teams and recorded the amount of each employee\u2019s sales in dollars for a week. The box plots display the results.\n\nAmounts of Sales\n\nSales Team X\nSales Team Y\n\nWhich statement is best supported by the information in the box plots?",
+  "instruction": "Choose the best statement supported by the box plots.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The range for Sales Team X is $10 more than the range for Sales Team Y."
+    },
+    {
+      "label": "B",
+      "text": "The interquartile range for Sales Team X is half the interquartile range for Sales Team Y."
+    },
+    {
+      "label": "C",
+      "text": "The mean for Sales Team X is $5 less than the mean for Sales Team Y."
+    },
+    {
+      "label": "D",
+      "text": "The interquartile range for Sales Team X is twice the interquartile range for Sales Team Y."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plots showing amounts of sales for Sales Team X and Sales Team Y with scales from 60 to 130 dollars"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

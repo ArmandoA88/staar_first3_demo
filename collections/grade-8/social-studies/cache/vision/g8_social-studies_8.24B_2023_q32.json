@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt and your knowledge of U.S. history, how did the Declaration of Sentiments affect U.S. history?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It highlighted inequalities that existed in society and called for changes in the system of suffrage."
+    },
+    {
+      "label": "B",
+      "text": "It presented facts about the dangers of alcohol consumption and called for immediate prohibition."
+    },
+    {
+      "label": "C",
+      "text": "It highlighted reasons why slavery was unethical and called for enslaved people to be freed."
+    },
+    {
+      "label": "D",
+      "text": "It presented problems caused by a lack of education and called for children to attend school."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "We hold these truths to be self-evident: that all men and women are created equal; that they are endowed by their Creator with certain inalienable rights. . . . It is the right of those who suffer . . . to insist upon the institution of a new government.\n\n\u2014 Declaration of Sentiments, 1848"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

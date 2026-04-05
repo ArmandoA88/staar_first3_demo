@@ -1,0 +1,30 @@
+{
+  "stem": "What percentage of the students surveyed selected \u201cBird\u201d as their favorite type of animal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "20%"
+    },
+    {
+      "label": "G",
+      "text": "5%"
+    },
+    {
+      "label": "H",
+      "text": "6%"
+    },
+    {
+      "label": "J",
+      "text": "80%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "bar graph titled 'Favorite Animals' with types of animals Fish (2 students), Lizard (4 students), Bird (6 students), Dog (10 students), Cat (8 students) on the y-axis and number of students on the x-axis"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation is true when k = -15?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3k - 11 = -34"
+    },
+    {
+      "label": "G",
+      "text": "-53 + 4k = 7"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{k}{3} + 17 = 12"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{k}{5} + 2.5 = 0.5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equations"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

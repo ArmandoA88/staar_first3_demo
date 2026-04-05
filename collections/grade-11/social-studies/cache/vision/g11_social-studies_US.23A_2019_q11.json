@@ -1,0 +1,28 @@
+{
+  "stem": "Which government positions were held by Hillary Clinton?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Supreme Court Justice\nPresident of the United States"
+    },
+    {
+      "label": "B",
+      "text": "First Lady of the United States\nSecretary of State"
+    },
+    {
+      "label": "C",
+      "text": "Speaker of the House of Representatives\nU.S. Senator from New York"
+    },
+    {
+      "label": "D",
+      "text": "U.S. Attorney General\nGovernor of Arkansas"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "A college student completed some courses worth 3 credits and some courses worth 4 credits. The student earned a total of 59 credits after completing 18 courses.\n\nHow many courses worth 3 credits did the student complete?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "13"
+    },
+    {
+      "label": "B",
+      "text": "5"
+    },
+    {
+      "label": "C",
+      "text": "20"
+    },
+    {
+      "label": "D",
+      "text": "39"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

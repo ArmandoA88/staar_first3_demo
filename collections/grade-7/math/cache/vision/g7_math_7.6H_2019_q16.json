@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the number of bottles of different kinds of juice sold at a cafeteria on Monday.\n\nJuice Sold\n\n| Kind of Juice | Number of Bottles Sold |\n|--------------|-----------------------|\n| Apple        | 11                    |\n| Cranberry    | 7                     |\n| Orange       | 18                    |\n| Pineapple    | 4                     |\n\nIf the cafeteria has 80 customers on Tuesday, which prediction for Tuesday is NOT supported by the data in the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The number of bottles of cranberry juice sold will be 6 more than the number of bottles of pineapple juice sold."
+    },
+    {
+      "label": "G",
+      "text": "The number of bottles of apple juice sold will be 6 times the number of bottles of cranberry juice sold."
+    },
+    {
+      "label": "H",
+      "text": "There will be a total of 50 bottles of orange and cranberry juice sold."
+    },
+    {
+      "label": "J",
+      "text": "The difference between the number of bottles of apple juice sold and the number of bottles of pineapple juice sold will be 14."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Juice Sold' with two columns: Kind of Juice and Number of Bottles Sold. Rows: Apple 11, Cranberry 7, Orange 18, Pineapple 4."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

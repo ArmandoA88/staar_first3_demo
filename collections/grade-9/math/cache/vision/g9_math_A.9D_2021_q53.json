@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents \\( y = 5 \\left( \\frac{1}{3} \\right)^x \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph showing an increasing exponential function."
+    },
+    {
+      "label": "B",
+      "text": "Graph showing a steeply increasing exponential function."
+    },
+    {
+      "label": "C",
+      "text": "Graph showing a decreasing exponential function with a steep decline at negative x values."
+    },
+    {
+      "label": "D",
+      "text": "Graph showing a decreasing exponential function with a less steep decline."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs each labeled A, B, C, D with axes and plotted curves as described in options."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

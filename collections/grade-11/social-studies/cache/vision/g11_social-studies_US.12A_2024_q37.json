@@ -1,0 +1,30 @@
+{
+  "stem": "How did the government respond to the situation shown on this map?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By eliminating federal farm subsidies to reduce the market prices of crops"
+    },
+    {
+      "label": "B",
+      "text": "By providing federal tax incentives to replace trees with wheat crops"
+    },
+    {
+      "label": "C",
+      "text": "By removing federal land restrictions to expand land available for cattle grazing"
+    },
+    {
+      "label": "D",
+      "text": "By directing federal agencies to create programs to promote soil conservation"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map labeled 'Area Affected by the Dust Bowl, 1935-1938' showing parts of Colorado, Nebraska, Kansas, New Mexico, Oklahoma, Texas with a shaded area indicating the affected region, KEY indicating 'Area affected'"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Quadrilateral \\(PQRT\\) is dilated with the origin as the center of dilation to create quadrilateral \\(P'Q'R'T'\\). Point \\(P\\) is located at \\((3, 6)\\), and point \\(P'\\) is located at \\((8, 16)\\).\nWhich rule best represents the dilation that was applied to quadrilateral \\(PQRT\\) to create quadrilateral \\(P'Q'R'T'\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "\\(A\\)",
+      "text": "\\((x, y) \\to (x + 5, y + 10)\\)"
+    },
+    {
+      "label": "\\(B\\)",
+      "text": "\\((x, y) \\to (x - 5, y - 10)\\)"
+    },
+    {
+      "label": "\\(C\\)",
+      "text": "\\((x, y) \\to \\left(\\frac{8}{3}x, \\frac{8}{3}y \\right)\\)"
+    },
+    {
+      "label": "\\(D\\)",
+      "text": "\\((x, y) \\to \\left(\\frac{3}{8}x, \\frac{3}{8}y \\right)\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a line passes through the points \\((-3, 1)\\) and \\((5, 8)\\). What is the slope of the line?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\(\\dfrac{9}{2}\\)"
+    },
+    {
+      "label": "G",
+      "text": "\\(\\dfrac{7}{8}\\)"
+    },
+    {
+      "label": "H",
+      "text": "\\(-\\dfrac{9}{2}\\)"
+    },
+    {
+      "label": "J",
+      "text": "\\(-\\dfrac{7}{8}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with x and y axes, grid lines, and numbers from -10 to 10 labeled"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

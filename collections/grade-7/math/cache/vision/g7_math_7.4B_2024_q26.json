@@ -1,0 +1,43 @@
+{
+  "stem": "A home printer prints 48 black-and-white pages in 1.5 minutes. The same printer prints 20 color pages in 2.5 minutes.\n\nWhat are the rates in pages per minute for black-and-white and color printing?",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [
+    {
+      "label": null,
+      "text": "32"
+    },
+    {
+      "label": null,
+      "text": "20"
+    },
+    {
+      "label": null,
+      "text": "30"
+    },
+    {
+      "label": null,
+      "text": "8"
+    },
+    {
+      "label": null,
+      "text": "12"
+    },
+    {
+      "label": null,
+      "text": "10"
+    }
+  ],
+  "choice_pool": [
+    "32",
+    "20",
+    "30",
+    "8",
+    "12",
+    "10"
+  ],
+  "response_template": "The printer prints [blank_1] pages per minute in black-and-white.\n\nThe printer prints [blank_2] pages per minute in color.",
+  "visual_elements": [],
+  "item_type_inferred": "inline choice",
+  "confidence": 0.95,
+  "notes": null
+}

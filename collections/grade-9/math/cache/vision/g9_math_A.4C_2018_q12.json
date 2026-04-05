@@ -1,0 +1,31 @@
+{
+  "stem": "A zookeeper recorded the feeding schedule for a baby rhinoceros for 20 weeks. The table and scatterplot show the percentage of the baby rhinoceros's body mass that was used to determine the amount of food given at each feeding as a linear function of its age in weeks.\n\nWhat is the best prediction of the percentage of the baby rhinoceros\u2019s body mass that should be used to determine the amount of food given at each feeding when it is 25 weeks old?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "8.5%"
+    },
+    {
+      "label": "G",
+      "text": "6%"
+    },
+    {
+      "label": "H",
+      "text": "2.5%"
+    },
+    {
+      "label": "J",
+      "text": "10%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Baby Rhinoceros Feeding Schedule' with two rows: 'Age (weeks)' with values 1, 2, 4, 7, 9, 12, 14, 15, 17, 20 and 'Percentage of Body Mass' with values 20, 19.5, 17, 15, 14, 13.5, 12.4, 11.6, 11, 9.",
+    "Scatter plot with y-axis labeled 'Percentage of Body Mass' from 0 to 20 and x-axis labeled 'Age (weeks)' from 0 to 20, with points roughly following the table data showing a decreasing linear trend."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

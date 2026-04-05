@@ -1,0 +1,32 @@
+{
+  "stem": "How did these events affect the United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They increased public support for cuts in U.S. defense spending."
+    },
+    {
+      "label": "G",
+      "text": "They prompted the end of Dollar Diplomacy in Latin America."
+    },
+    {
+      "label": "H",
+      "text": "They set a precedent of including territorial acquisitions in settlements."
+    },
+    {
+      "label": "J",
+      "text": "They helped establish the United States as an imperial power similar to European nations."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The USS Maine sinks in Havana Harbor.",
+    "The U.S. Congress declares war.",
+    "The Treaty of Paris is signed."
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 0.99,
+  "notes": null
+}

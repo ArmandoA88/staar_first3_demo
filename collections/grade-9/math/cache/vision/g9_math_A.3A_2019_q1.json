@@ -1,0 +1,30 @@
+{
+  "stem": "What is the slope of the graph of y = 12x - 19?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-19"
+    },
+    {
+      "label": "B",
+      "text": "-\\frac{12}{19}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{19}{12}"
+    },
+    {
+      "label": "D",
+      "text": "12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = 12x - 19"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

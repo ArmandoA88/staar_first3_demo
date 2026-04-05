@@ -1,0 +1,30 @@
+{
+  "stem": "A conservation agency tracks the sea turtle population by counting the number of nesting sites where the turtles lay their eggs. The table shows the numbers of nesting sites for several years since 2001. The data can be modeled by an exponential function.\n\nSea Turtles\n\n| Number of Years Since 2001, x | Number of Nesting Sites, n(x) |\n|-------------------------------|------------------------------|\n| 1                             | 46,125                       |\n| 2                             | 37,994                       |\n| 3                             | 40,513                       |\n| 4                             | 29,368                       |\n| 5                             | 34,082                       |\n| 6                             | 31,746                       |\n| 7                             | 27,691                       |",
+  "instruction": "Which function best models the data?",
+  "options": [
+    {
+      "label": "A",
+      "text": "n(x) = 25,956.80(1.08)^x"
+    },
+    {
+      "label": "B",
+      "text": "n(x) = 46,797.94(0.93)^x"
+    },
+    {
+      "label": "C",
+      "text": "n(x) = 1.08(25,956.80)^x"
+    },
+    {
+      "label": "D",
+      "text": "n(x) = 0.93(46,797.94)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns: Number of Years Since 2001, x and Number of Nesting Sites, n(x) with values 1 to 7 and corresponding nesting site counts."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,19 @@
+{
+  "stem": "Jana is ordering a one-topping pizza. She can choose pepperoni or sausage for her topping and can choose thin, thick, or stuffed crust.\n\nComplete the table to show all possible one-topping pizzas she can order.",
+  "instruction": "Move the correct answer to each box in the table. Each answer may be used more than once. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "Pepperoni",
+    "Sausage",
+    "Thin",
+    "Thick",
+    "Stuffed"
+  ],
+  "response_template": "| Pizza | Topping    | Crust   |\n|-------|------------|---------|\n| 1     | [blank_1]  | Thin    |\n| 2     | Sausage    | Thin    |\n| 3     | Pepperoni  | Stuffed |\n| 4     | [blank_2]  | Stuffed |\n| 5     | Pepperoni  | [blank_3] |\n| 6     | [blank_4]  | Thick   |",
+  "visual_elements": [
+    "table with pizza numbers 1 to 6 and columns for Topping and Crust, some cells blank indicated for drag and drop"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

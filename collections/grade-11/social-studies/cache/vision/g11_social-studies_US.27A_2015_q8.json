@@ -1,0 +1,30 @@
+{
+  "stem": "Which factor links all of these modern innovations?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "They are all products initially created for use in the U.S. communications industry."
+    },
+    {
+      "label": "G",
+      "text": "They each include material that was first grown on U.S. experimental farms in the late nineteenth century."
+    },
+    {
+      "label": "H",
+      "text": "They each include technology that was originally developed for use in the U.S. space exploration program."
+    },
+    {
+      "label": "J",
+      "text": "They are all special tools first created for U.S. transportation workers in the early twentieth century."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "freeze-dried ice cream, football helmet, sunglasses, firefighter, smoke detector"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

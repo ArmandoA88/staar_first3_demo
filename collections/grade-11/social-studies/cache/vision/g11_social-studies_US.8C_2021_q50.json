@@ -1,0 +1,30 @@
+{
+  "stem": "What was the PRIMARY goal of the foreign policy described in this excerpt?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "To increase U.S. colonization of Asia"
+    },
+    {
+      "label": "G",
+      "text": "To prevent the spread of communist influence in Asia"
+    },
+    {
+      "label": "H",
+      "text": "To end trade sanctions against Asian countries"
+    },
+    {
+      "label": "J",
+      "text": "To protect U.S. soldiers stationed in Asian countries"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Republic of Korea, and the freedom seeking people of North Korea . . . seek for themselves a united, self-governing and sovereign country, independent of foreign control and support and with membership in the United Nations. In their desire for unity and independence, they are supported by the United Nations. The United States has a deep interest in the continuing progress of the Korean people toward these objectives.\n\n\u2014President Harry S. Truman, special message to Congress, June 7, 1949"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

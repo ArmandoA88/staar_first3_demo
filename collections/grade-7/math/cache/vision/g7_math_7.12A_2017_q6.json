@@ -1,0 +1,32 @@
+{
+  "stem": "The box plots show data about the number of years that farmworkers have been employed at each of two farms.\n\nNumber of Years Workers Have Been Employed at Two Farms\n\nFarm X\nFarm Y\n\nWhich statement is best supported by the information in the box plots?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The range of the data for Farm Y is equal to the range of the data for Farm X."
+    },
+    {
+      "label": "G",
+      "text": "The third quartile of the data for Farm Y is less than the third quartile of the data for Farm X."
+    },
+    {
+      "label": "H",
+      "text": "The median of the data for Farm Y is greater than the median of the data for Farm X."
+    },
+    {
+      "label": "J",
+      "text": "The first quartile of the data for Farm Y is greater than the first quartile of the data for Farm X."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box plot for Farm X showing data from about 7 to 32 years, median about 18, interquartile range roughly 14 to 24",
+    "box plot for Farm Y showing data from about 3 to 30 years, median about 20, interquartile range roughly 12 to 27",
+    "number line labeled 0 to 35"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

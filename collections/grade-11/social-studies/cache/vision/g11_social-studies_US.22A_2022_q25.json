@@ -1,0 +1,31 @@
+{
+  "stem": "These photographs show protests at different times in U.S. history.\n\nWomen Picket Outside of the White House, 1917\tAfrican Americans Picket Outside of the White House, 1965\n\nWhat was one result of the activism shown in these photographs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It reduced the ability of the courts to decide the constitutionality of suffrage."
+    },
+    {
+      "label": "B",
+      "text": "It prompted lawmakers to reinstate poll taxes for voting."
+    },
+    {
+      "label": "C",
+      "text": "It reduced the influence of special interest groups devoted to expanding suffrage."
+    },
+    {
+      "label": "D",
+      "text": "It brought national attention to problems associated with voting."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Women Picket Outside of the White House, 1917 photograph",
+    "African Americans Picket Outside of the White House, 1965 photograph"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "What is the equation in slope-intercept form of the line that passes through the points (-4, 47) and (2, -16)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = -\\frac{21}{2} x + \\frac{979}{21}"
+    },
+    {
+      "label": "B",
+      "text": "y = -\\frac{2}{21} x + \\frac{979}{21}"
+    },
+    {
+      "label": "C",
+      "text": "y = -\\frac{21}{2} x + 5"
+    },
+    {
+      "label": "D",
+      "text": "y = -\\frac{2}{21} x + 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "points (-4, 47) and (2, -16)",
+    "answer choices A, B, C, D with fractions and slope-intercept line equations"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

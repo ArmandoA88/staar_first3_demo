@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation is true when x = -3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5x + 1 = 16"
+    },
+    {
+      "label": "B",
+      "text": "4x - 8 = 12"
+    },
+    {
+      "label": "C",
+      "text": "- 2x + 9 = - 12"
+    },
+    {
+      "label": "D",
+      "text": "3x - 6 = - 15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Equation choices"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,40 @@
+{
+  "stem": "Why did the federal government create this program in 1933?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To establish industrial centers in the region"
+    },
+    {
+      "label": "B",
+      "text": "To promote organic farming practices"
+    },
+    {
+      "label": "C",
+      "text": "To offset the effects of urbanization and rapid population growth"
+    },
+    {
+      "label": "D",
+      "text": "To provide jobs and improve the regional standard of living"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "AN INTEGRATED PROGRAM OF THE TENN. RIVER WATERSHED FOR NAVIGATION, FLOOD CONTROL & NATIONAL DEFENSE.",
+    "TVA WATER CONTROL ARTIFICIAL STORAGE RIVERS PUBLICLY OWNED NATURAL STORAGE LAND PRIVATELY OWNED",
+    "PHYSICAL & ECONOMIC REQUIREMENTS OF ARTIFICIAL WATER STORAGE",
+    "NAVIGATION RIVER FACILITIES & RELATED TRANSPORTATION PROBLEMS",
+    "ELECTRICITY A BYPRODUCT OF WATER CONTROL",
+    "SURVEYS OF SOCIAL AND ECONOMIC ADJUSTMENT",
+    "BACKGROUND FOR A NATIONAL PROGRAM",
+    "REPORTS & RECOMMENDATIONS TO CONGRESS",
+    "LAND & AGRICULTURAL REQUIREMENTS FOR NATURAL WATER STORAGE FARM MANAGEMENT SOILS, LIMING, FOREST PLANT ROOTS",
+    "NITRATE WORKS PLANT FOOD PRODUCTION AND NATIONAL DEFENSE",
+    "SERVICES AND INDUSTRIES FARM AND FARM PRODUCTS NATURAL WATER STORAGE AGRICULTURE, COAL MINES"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

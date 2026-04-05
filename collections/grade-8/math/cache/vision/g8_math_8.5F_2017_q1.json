@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph shows a non-proportional linear relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled A, B, C, and D with lines:\nGraph A: line crosses y-axis at 3, and slope downwards\nGraph B: line passes through origin with positive slope\nGraph C: line does not pass through origin, negative slope\nGraph D: line passes through origin with positive slope"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

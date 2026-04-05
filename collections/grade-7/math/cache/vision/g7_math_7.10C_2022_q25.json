@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation is best represented by the following equation?\n\n68.50x + 127.95 = 675.95",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An office manager paid $675.95 to build a web site. The office manager bought a software package for $68.50 and paid an employee $127.95 for each hour she worked on the website. What is x, the number of hours the employee worked on the website?"
+    },
+    {
+      "label": "B",
+      "text": "An office manager paid $675.95 for computer equipment. The office manager bought one monitor for $127.95 and hard drives for $68.50 each. What is x, the number of hard drives the office manager bought?"
+    },
+    {
+      "label": "C",
+      "text": "A sales manager paid $675.95 for advertising. The sales manager paid $127.95 per hour for consulting and received a $68.50 discount. What is x, the number of hours the manager paid for consulting?"
+    },
+    {
+      "label": "D",
+      "text": "A business owner paid a total of $675.95 for two employees to work the same number of days. The business owner paid one employee $68.50. The business paid a second employee $127.95 per day. What is x, the number of days the employees worked?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "68.50x + 127.95 = 675.95"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

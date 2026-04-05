@@ -1,0 +1,30 @@
+{
+  "stem": "Point Q is shown on the number line.\n\nWhich value is best represented by point Q?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\(\\sqrt{5.4}\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\(\\sqrt{29.5}\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\(\\sqrt{35.5}\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\(\\sqrt{5.9}\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "number line with points labeled 5, Q between 5 and 6, 6, 7"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

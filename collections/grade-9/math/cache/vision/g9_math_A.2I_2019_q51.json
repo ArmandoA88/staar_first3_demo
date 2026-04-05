@@ -1,0 +1,28 @@
+{
+  "stem": "A customer at a store paid $64 for 3 large candles and 4 small candles. At the same store, a second customer paid $4 more than the first customer for 1 large candle and 8 small candles. The price of each large candle is the same, and the price of each small candle is the same.\n\nWhich system of equations can be used to find the price in dollars of each large candle, x, and each small candle, y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "4y = 3x + 64\n8y = x + 68"
+    },
+    {
+      "label": "B",
+      "text": "4y = 3x + 64\n8y = x + 60"
+    },
+    {
+      "label": "C",
+      "text": "3x + 4y = 64\nx + 8y = 68"
+    },
+    {
+      "label": "D",
+      "text": "3x + 4y = 64\nx + 8y = 60"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

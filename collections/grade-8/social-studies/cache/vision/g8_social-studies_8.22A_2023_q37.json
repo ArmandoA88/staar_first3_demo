@@ -1,0 +1,34 @@
+{
+  "stem": "Which phrase from the excerpt demonstrates President Washington's recommendation that the United States should avoid permanent alliances?",
+  "instruction": "Select the correct answer.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The name of American, which belongs to you, in your national capacity,"
+    },
+    {
+      "label": "B",
+      "text": "habits which lead to political prosperity, Religion and morality are indispensable supports"
+    },
+    {
+      "label": "C",
+      "text": "Promote then as an object of primary importance, Institutions for the general diffusion of knowledge"
+    },
+    {
+      "label": "D",
+      "text": "As a very important source of strength & security, cherish public credit"
+    },
+    {
+      "label": "E",
+      "text": "history and experience prove that foreign influence is one of the most [harmful enemies] of Republican Government"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt from George Washington's Farewell Address in 1796 with highlighted phrases."
+  ],
+  "item_type_inferred": "Hot Text",
+  "confidence": 0.98,
+  "notes": null
+}

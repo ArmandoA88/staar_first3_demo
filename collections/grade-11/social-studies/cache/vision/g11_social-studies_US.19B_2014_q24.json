@@ -1,0 +1,30 @@
+{
+  "stem": "How does the pattern of distribution of political representation shown in these graphs affect relationships within the government?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Members of Congress compete to be majority leaders."
+    },
+    {
+      "label": "G",
+      "text": "The president must negotiate to get congressional support for the executive agenda."
+    },
+    {
+      "label": "H",
+      "text": "Leaders of Congress assign legislation through committees."
+    },
+    {
+      "label": "J",
+      "text": "The president determines which pieces of legislation are passed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Three pie charts labeled House of Representatives, Senate, and President, showing party representation from 1995-1997. The House of Representatives pie chart is about half Republican (dark gray) and half Democrat (light gray). The Senate pie chart is about half Republican and half Democrat. The President pie chart is entirely Democrat. Below the charts is a key with the colors: Republican (dark gray), Democrat (light gray), Independent (white)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

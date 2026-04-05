@@ -1,0 +1,34 @@
+{
+  "stem": "Jack plans to deposit $500 into a new bank account that earns 2% interest compounded annually. He will make no more deposits or withdrawals.\n\nOver a period of 2 years, how much more will he earn in interest on this account than he would if he earned simple interest at a 2% annual rate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.20"
+    },
+    {
+      "label": "B",
+      "text": "$10.20"
+    },
+    {
+      "label": "C",
+      "text": "$20.00"
+    },
+    {
+      "label": "D",
+      "text": "$2.02"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2025 \u2013 Q26",
+    "A $0.20",
+    "B $10.20",
+    "C $20.00",
+    "D $2.02"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "Triangle \\( ABC \\) was translated 2 units to the right and 3 units down. Which rule describes the translation that was applied to triangle \\( ABC \\) to create triangle \\( A'B'C' \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(x, y) \\rightarrow (x - 3, y + 2)"
+    },
+    {
+      "label": "G",
+      "text": "(x, y) \\rightarrow (x + 2, y - 3)"
+    },
+    {
+      "label": "H",
+      "text": "(x, y) \\rightarrow (2x, -3y)"
+    },
+    {
+      "label": "J",
+      "text": "(x, y) \\rightarrow (-3x, 2y)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

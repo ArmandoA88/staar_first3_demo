@@ -1,0 +1,30 @@
+{
+  "stem": "What role did the Supreme Court play in this declaration?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The court ruled Florida's use of butterfly ballots violated the Equal Protection Clause."
+    },
+    {
+      "label": "B",
+      "text": "The court ruled on the constitutionality of the vote recount in Florida."
+    },
+    {
+      "label": "C",
+      "text": "The court determined that campaign contributions are forms of free speech."
+    },
+    {
+      "label": "D",
+      "text": "The court ruled that requiring literacy tests to vote was unconstitutional."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Newspaper headline: George W. Bush Declared Winner of Florida's Electoral College Votes, December 12, 2000, The Daily Star"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

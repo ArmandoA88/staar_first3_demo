@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of part of linear function g is shown on the grid.\n\nWhich inequality best represents the domain of the part shown?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-9 < x \\u2264 2"
+    },
+    {
+      "label": "G",
+      "text": "-9 \\u2264 x < 2"
+    },
+    {
+      "label": "H",
+      "text": "-6 < g(x) \\u2264 3"
+    },
+    {
+      "label": "J",
+      "text": "-6 \\u2264 g(x) < 3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "grid with x and y axes labeled, linear segment graphed from ( -9, 3 ) (open circle) to ( 2, -5 ) (closed circle)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

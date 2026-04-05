@@ -1,0 +1,33 @@
+{
+  "stem": "How did the Voting Rights Act of 1965 contribute to the changes shown in this table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It helped reduce voter discrimination at polling sites."
+    },
+    {
+      "label": "G",
+      "text": "It increased state revenues associated with poll taxes."
+    },
+    {
+      "label": "H",
+      "text": "It contributed to increased involvement of lobbyists in political campaigns."
+    },
+    {
+      "label": "J",
+      "text": "It helped voters determine educational policy based on literacy test results."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table: Percent of Voting-Age Population Casting Votes in Selected Presidential Elections",
+    "Columns: 1964, 1968",
+    "Rows with states and percentages: Alabama (35.9, 52.7), Georgia (43.3, 43.4), Louisiana (47.3, 54.8), Mississippi (33.9, 53.2), North Carolina (52.8, 54.3), South Carolina (39.4, 46.7), Virginia (41.1, 50.1)",
+    "Source: U.S. Census Bureau"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

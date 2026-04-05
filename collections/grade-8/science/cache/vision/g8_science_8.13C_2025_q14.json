@@ -1,0 +1,30 @@
+{
+  "stem": "The frequency of dark fur has increased in a population of mice over time. Which environment MOST LIKELY led to this change?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An environment with a decreasing owl population over time"
+    },
+    {
+      "label": "B",
+      "text": "An environment with an increasing owl population over time"
+    },
+    {
+      "label": "C",
+      "text": "An environment that has less snowfall over time"
+    },
+    {
+      "label": "D",
+      "text": "An environment that has more snowfall over time"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "! icon"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

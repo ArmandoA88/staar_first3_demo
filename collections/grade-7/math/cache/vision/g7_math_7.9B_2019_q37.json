@@ -1,0 +1,30 @@
+{
+  "stem": "A circle has a diameter of 7.6 feet. Which measurement is closest to the circumference of the circle in feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "23.9 ft"
+    },
+    {
+      "label": "B",
+      "text": "45.3 ft"
+    },
+    {
+      "label": "C",
+      "text": "47.7 ft"
+    },
+    {
+      "label": "D",
+      "text": "11.9 ft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

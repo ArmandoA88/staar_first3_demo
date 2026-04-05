@@ -1,0 +1,33 @@
+{
+  "stem": "How did these features affect New Orleans after Hurricane Katrina?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Tornadoes gained momentum in open land areas."
+    },
+    {
+      "label": "B",
+      "text": "Storm surges caused a massive shift in tectonic plates."
+    },
+    {
+      "label": "C",
+      "text": "Mud slides trapped residents in the city."
+    },
+    {
+      "label": "D",
+      "text": "Storm waters flooded the city after several levees broke."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Geographic Features of New Orleans",
+    "\u2022 Surrounded by bodies of water",
+    "\u2022 Bowl-like shape",
+    "\u2022 Several feet below sea level at its lowest points"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "stem": "A business owner invested $10,500 into an account that pays 1.2% annual simple interest. No additional deposits or withdrawals will be made.\n\nWhich amount is closest to the interest earned on the account at the end of 4 years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$504"
+    },
+    {
+      "label": "B",
+      "text": "$11,004"
+    },
+    {
+      "label": "C",
+      "text": "$126"
+    },
+    {
+      "label": "D",
+      "text": "$10,626"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q17",
+    "A business owner invested $10,500 into an account that pays 1.2% annual simple interest. No additional deposits or withdrawals will be made. Which amount is closest to the interest earned on the account at the end of 4 years?",
+    "A $504",
+    "B $11,004",
+    "C $126",
+    "D $10,626"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

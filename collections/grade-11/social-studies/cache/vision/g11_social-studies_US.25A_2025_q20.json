@@ -1,0 +1,33 @@
+{
+  "stem": "Which action did Cesar Chavez take to address some of the issues described in the diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Established an organization to improve schools"
+    },
+    {
+      "label": "B",
+      "text": "Organized mass demonstrations for voting rights"
+    },
+    {
+      "label": "C",
+      "text": "Published books describing reforms for farmers"
+    },
+    {
+      "label": "D",
+      "text": "Led farmworkers in strikes against growers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Issues Affecting Mexican Americans in the United States",
+    "Discrimination in the workplace",
+    "Ensuring citizenship for children of immigrants",
+    "Need for a minimum wage for agricultural workers"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

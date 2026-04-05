@@ -1,0 +1,30 @@
+{
+  "stem": "Which factor best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "New transportation systems"
+    },
+    {
+      "label": "B",
+      "text": "Increased government regulation"
+    },
+    {
+      "label": "C",
+      "text": "A decline in agricultural production"
+    },
+    {
+      "label": "D",
+      "text": "The growth of labor unions"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with title 'Factors That Contributed to Early Industrialization in the United States' and three linked boxes: '?' box, 'An abundance of laborers', and 'The availability of capital'."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

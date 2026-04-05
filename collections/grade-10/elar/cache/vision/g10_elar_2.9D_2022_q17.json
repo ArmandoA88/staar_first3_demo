@@ -1,0 +1,31 @@
+{
+  "stem": "What change needs to be made in sentence 20?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change those to him"
+    },
+    {
+      "label": "B",
+      "text": "Insert a comma after ages"
+    },
+    {
+      "label": "C",
+      "text": "Change there to their"
+    },
+    {
+      "label": "D",
+      "text": "Change aspirations to asperations"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "question text",
+    "multiple choice options"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Colonists sought military support from France."
+    },
+    {
+      "label": "B",
+      "text": "Colonists organized boycotts of British goods."
+    },
+    {
+      "label": "C",
+      "text": "Colonists signed the Declaration of Independence."
+    },
+    {
+      "label": "D",
+      "text": "Colonists dumped tea into Boston Harbor."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cause\nParliament passed the Stamp Act of 1765.\nImmediate Effect\n?"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

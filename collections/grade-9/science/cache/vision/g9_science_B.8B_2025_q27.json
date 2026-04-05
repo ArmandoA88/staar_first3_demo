@@ -1,0 +1,36 @@
+{
+  "stem": "What is the probability that Child 1 will have Marfan syndrome?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "25%"
+    },
+    {
+      "label": "B",
+      "text": "50%"
+    },
+    {
+      "label": "C",
+      "text": "75%"
+    },
+    {
+      "label": "D",
+      "text": "100%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Grandparent 1: Does not have Marfan syndrome",
+    "Grandparent 2: Has Marfan syndrome",
+    "Grandparent 3: Has Marfan syndrome",
+    "Grandparent 4: Does not have Marfan syndrome",
+    "Parent 1: Does not have Marfan syndrome",
+    "Parent 2: Has Marfan syndrome",
+    "Child 1: ?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": "This question involves understanding autosomal dominant inheritance and probability from a family pedigree."
+}

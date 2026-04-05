@@ -1,0 +1,35 @@
+{
+  "stem": "A grill at a barbecue restaurant will be used to cook sausage links that are 2 lb each and briskets that are 6 lb each. No more than 120 lb of sausage links and briskets will be cooked on the grill.\n\nWhich inequality represents all possible combinations of x, the number of sausage links that will be cooked on the grill, and y, the number of briskets that will also be cooked?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6x + 2y < 120"
+    },
+    {
+      "label": "B",
+      "text": "2x + 6y \\u2264 120"
+    },
+    {
+      "label": "C",
+      "text": "6x + 2y > 120"
+    },
+    {
+      "label": "D",
+      "text": "2x + 6y \\u2265 120"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A grill at a barbecue restaurant will be used to cook sausage links that are 2 lb each and briskets that are 6 lb each. No more than 120 lb of sausage links and briskets will be cooked on the grill.",
+    "Which inequality represents all possible combinations of x, the number of sausage links that will be cooked on the grill, and y, the number of briskets that will also be cooked?",
+    "A 6x + 2y < 120",
+    "B 2x + 6y \u2264 120",
+    "C 6x + 2y > 120",
+    "D 2x + 6y \u2265 120"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

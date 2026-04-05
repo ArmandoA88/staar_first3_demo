@@ -1,0 +1,30 @@
+{
+  "stem": "A system of equations is shown.\n\nx + y = -8\n\n2x + 2y = 10\n\nWhich statement is true about this system of equations?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "There are infinitely many solutions."
+    },
+    {
+      "label": "B",
+      "text": "The only solution is \\( (-8, 5) \\)."
+    },
+    {
+      "label": "C",
+      "text": "The only solution is \\( (5, -8) \\)."
+    },
+    {
+      "label": "D",
+      "text": "There is no solution."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing x and y axes from -10 to 10"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

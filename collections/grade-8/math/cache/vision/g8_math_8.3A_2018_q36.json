@@ -1,0 +1,31 @@
+{
+  "stem": "Figure I and Figure II are similar quadrilaterals.\n\nFigure I\n\nFigure II\n\nWhich proportion must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\( \\frac{a}{b} = \\frac{8}{2} \\)"
+    },
+    {
+      "label": "G",
+      "text": "\\( \\frac{3.2}{2} = \\frac{a}{8} \\)"
+    },
+    {
+      "label": "H",
+      "text": "\\( \\frac{b}{6.4} = \\frac{8}{5} \\)"
+    },
+    {
+      "label": "J",
+      "text": "\\( \\frac{2}{3.2} = \\frac{b}{a} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Figure I: quadrilateral with sides 8 mm, 2 mm, 5 mm, and b mm",
+    "Figure II: quadrilateral with sides a mm, 3.2 mm, 8 mm, and 6.4 mm"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

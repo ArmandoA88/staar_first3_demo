@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement describes one goal of the policy described in the excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The expansion of tariffs on U.S. exports"
+    },
+    {
+      "label": "B",
+      "text": "The global expansion of U.S. businesses"
+    },
+    {
+      "label": "C",
+      "text": "The reduction of U.S. manufacturing regulations"
+    },
+    {
+      "label": "D",
+      "text": "The reduction of U.S. assistance for domestic businesses"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "It is an effort frankly directed to the increase of American trade upon the [self-evident] principle that the Government of the United States shall extend all proper support to every legitimate and beneficial American enterprise abroad. \u2014President William Howard Taft, December 3, 1912"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "How did the U.S. government work to change this situation?",
+  "instruction": "Study the photograph and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "By encouraging the development of alternative forms of fuel"
+    },
+    {
+      "label": "B",
+      "text": "By increasing the speed limit on interstate highways"
+    },
+    {
+      "label": "C",
+      "text": "By decreasing funding for electrical power stations"
+    },
+    {
+      "label": "D",
+      "text": "By discouraging exploration for fossil fuels"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cars Wait in Long Lines at Gas Pump, 1979",
+    "Photograph of cars lined up at gas pumps in 1979"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

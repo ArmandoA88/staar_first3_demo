@@ -1,0 +1,28 @@
+{
+  "stem": "Quadratic functions q and w are graphed on the same coordinate grid. The vertex of the graph of q is 18 units below the vertex of the graph of w. Which pair of functions could have been used to create the graphs of q and w?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "q(x) = 18x^2 and w(x) = x^2"
+    },
+    {
+      "label": "B",
+      "text": "q(x) = x^2 + 18 and w(x) = x^2"
+    },
+    {
+      "label": "C",
+      "text": "q(x) = -18x^2 and w(x) = x^2"
+    },
+    {
+      "label": "D",
+      "text": "q(x) = x^2 - 18 and w(x) = x^2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

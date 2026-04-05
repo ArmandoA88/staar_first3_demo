@@ -1,0 +1,30 @@
+{
+  "stem": "Students build a circuit. The circuit has wires that connect a battery to a switch and a fan.\n\nWhich energy transformations happen when the students close the circuit and the blades of the fan begin to spin?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Chemical to mechanical to electrical"
+    },
+    {
+      "label": "G",
+      "text": "Electrical to chemical to mechanical"
+    },
+    {
+      "label": "H",
+      "text": "Chemical to electrical to mechanical"
+    },
+    {
+      "label": "J",
+      "text": "Mechanical to electrical to chemical"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 - Q24"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

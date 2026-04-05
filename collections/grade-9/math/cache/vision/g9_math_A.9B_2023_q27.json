@@ -1,0 +1,28 @@
+{
+  "stem": "The function \\( w(t) = 270(1.029)^t \\) can be used to estimate the number of whales in the North Atlantic Ocean at the end of \\( t \\) years. What does 1.029 represent in this function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The initial number of whales in the North Atlantic Ocean"
+    },
+    {
+      "label": "B",
+      "text": "The decay factor of the number of whales in the North Atlantic Ocean"
+    },
+    {
+      "label": "C",
+      "text": "The number of whales in the North Atlantic Ocean at the end of the first year"
+    },
+    {
+      "label": "D",
+      "text": "The growth factor of the number of whales in the North Atlantic Ocean"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

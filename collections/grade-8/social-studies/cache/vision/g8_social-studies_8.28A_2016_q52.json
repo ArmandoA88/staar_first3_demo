@@ -1,0 +1,32 @@
+{
+  "stem": "These innovations in agriculture and industry resulted in \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "higher consumer costs"
+    },
+    {
+      "label": "G",
+      "text": "decreased profits for investors"
+    },
+    {
+      "label": "H",
+      "text": "less consumer choice"
+    },
+    {
+      "label": "J",
+      "text": "more efficient production of goods"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Major Nineteenth-Century Innovations",
+    "Agriculture: Mechanical reapers, Combine harvesters, Steel plows, Grain drills",
+    "Industry: Interchangeable parts, Power looms, Steam engines, Bessemer process"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

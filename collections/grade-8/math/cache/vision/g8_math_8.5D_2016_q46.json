@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the number of hours that 12 people spent learning to type on a keyboard and each person\u2019s average typing speed.",
+  "instruction": "Based on the scatterplot, what is the best prediction of a person\u2019s average typing speed in words per minute (wpm) if the person has spent 70 hours learning to type?",
+  "options": [
+    {
+      "label": "F",
+      "text": "100 wpm"
+    },
+    {
+      "label": "G",
+      "text": "55 wpm"
+    },
+    {
+      "label": "H",
+      "text": "85 wpm"
+    },
+    {
+      "label": "J",
+      "text": "70 wpm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled Typing Speed Data with x-axis labeled Number of Hours of Learning ranging from 0 to 50 and y-axis labeled Average Typing Speed (words per minute) ranging from 0 to 100, showing points trending upward from about 20 hours with 35 wpm to about 50 hours with 65 wpm."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

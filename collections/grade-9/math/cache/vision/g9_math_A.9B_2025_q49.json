@@ -1,0 +1,38 @@
+{
+  "stem": "The population of a town can be modeled by the exponential function \\(P(t) = 26,080(0.85)^t\\), where \\(t\\) represents the number of years since 2010.\n\nChoose the correct answer from each drop-down menu to complete the sentences.\n\nThe initial population of the town in 2010 was \\(\\boxed{\\,}\\).\n\nThe population is \\(\\boxed{\\,}\\) at a rate of \\(\\boxed{\\,}\\) per year.",
+  "instruction": "Choose the correct answer from each drop-down menu to complete the sentences.",
+  "options": [
+    {
+      "label": null,
+      "text": "26,080"
+    },
+    {
+      "label": null,
+      "text": "decreasing"
+    },
+    {
+      "label": null,
+      "text": "increasing"
+    },
+    {
+      "label": null,
+      "text": "15%"
+    },
+    {
+      "label": null,
+      "text": "85%"
+    }
+  ],
+  "choice_pool": [
+    "26,080",
+    "decreasing",
+    "increasing",
+    "15%",
+    "85%"
+  ],
+  "response_template": "The initial population of the town in 2010 was [blank_1].\n\nThe population is [blank_2] at a rate of [blank_3] per year.",
+  "visual_elements": [],
+  "item_type_inferred": "inline choice",
+  "confidence": 0.98,
+  "notes": null
+}

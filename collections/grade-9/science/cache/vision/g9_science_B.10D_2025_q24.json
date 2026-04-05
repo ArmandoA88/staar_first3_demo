@@ -1,0 +1,31 @@
+{
+  "stem": "There are only about 3,000 to 4,000 wild tigers left on Earth. Due to a decrease in habitat, wild tiger populations have become isolated.\n\nHow is the genetic diversity of the species affected by decreasing tiger habitat?",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once.",
+  "options": [
+    {
+      "label": null,
+      "text": "increasing"
+    },
+    {
+      "label": null,
+      "text": "decreasing"
+    },
+    {
+      "label": null,
+      "text": "constant"
+    }
+  ],
+  "choice_pool": [
+    "increasing",
+    "decreasing",
+    "constant"
+  ],
+  "response_template": "The genetic diversity of wild tiger populations is [blank_1], because the gene flow is [blank_2] due to isolation from habitat loss.",
+  "visual_elements": [
+    "three labeled options: increasing, decreasing, constant",
+    "two dotted-line boxes in sentence for drag and drop"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

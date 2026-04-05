@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Decreased availability of raw materials"
+    },
+    {
+      "label": "G",
+      "text": "Lower rates of personal savings"
+    },
+    {
+      "label": "H",
+      "text": "Increased business competition"
+    },
+    {
+      "label": "J",
+      "text": "Greater influence for labor unions"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "International free-trade policies \u2192 ? \u2192 Lower prices for consumer products"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

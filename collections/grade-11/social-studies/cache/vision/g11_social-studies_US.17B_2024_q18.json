@@ -1,0 +1,31 @@
+{
+  "stem": "Which statement correctly replaces the question mark on this cause-and-effect diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Congress passed laws establishing health care programs to provide services to people with disabilities."
+    },
+    {
+      "label": "B",
+      "text": "Congress passed laws offering financial aid to veterans."
+    },
+    {
+      "label": "C",
+      "text": "Congress passed laws establishing social security to reduce poverty among the elderly."
+    },
+    {
+      "label": "D",
+      "text": "Congress passed laws reducing the power of labor union leaders."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The number of degrees awarded by U.S. colleges and universities more than doubled between 1940 and 1950.",
+    "By 1955, 4.3 million home loans, worth $33 billion, were granted."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

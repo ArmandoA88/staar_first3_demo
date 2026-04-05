@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram below shows the radius of the circular opening of a drinking cup.",
+  "instruction": "Which of the following is closest to the circumference of the opening in centimeters?",
+  "options": [
+    {
+      "label": "A",
+      "text": "12 cm"
+    },
+    {
+      "label": "B",
+      "text": "50 cm"
+    },
+    {
+      "label": "C",
+      "text": "25 cm"
+    },
+    {
+      "label": "D",
+      "text": "8 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a cup with the radius labeled 4 cm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

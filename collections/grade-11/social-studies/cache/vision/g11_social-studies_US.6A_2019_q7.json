@@ -1,0 +1,30 @@
+{
+  "stem": "What was a major influence on the popularity of the flapper during the 1920s?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A decline in the number of women working in urban factories"
+    },
+    {
+      "label": "B",
+      "text": "A shift away from the traditional roles of women"
+    },
+    {
+      "label": "C",
+      "text": "An increase in the use of credit and installment plans"
+    },
+    {
+      "label": "D",
+      "text": "A decrease in crime associated with prohibition"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text with question and four answer choices labeled A-D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

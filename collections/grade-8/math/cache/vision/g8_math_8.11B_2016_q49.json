@@ -1,0 +1,30 @@
+{
+  "stem": "The list shows the number of songs that five students each downloaded last week.\n\n32, 43, 38, 28, 51\n\nWhat is the mean absolute deviation of the numbers in the list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "34.4"
+    },
+    {
+      "label": "B",
+      "text": "6.88"
+    },
+    {
+      "label": "C",
+      "text": "38.4"
+    },
+    {
+      "label": "D",
+      "text": "7.68"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "32, 43, 38, 28, 51"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

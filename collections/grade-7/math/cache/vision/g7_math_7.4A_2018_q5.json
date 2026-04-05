@@ -1,0 +1,30 @@
+{
+  "stem": "Cheddar cheese costs $4.25 per pound. Which equation best represents y, the total cost of x pounds of cheddar cheese?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = 4.25 + y"
+    },
+    {
+      "label": "B",
+      "text": "x = 4.25y"
+    },
+    {
+      "label": "C",
+      "text": "y = 4.25 + x"
+    },
+    {
+      "label": "D",
+      "text": "y = 4.25x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

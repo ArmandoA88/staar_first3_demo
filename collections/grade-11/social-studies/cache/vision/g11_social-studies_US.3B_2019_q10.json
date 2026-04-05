@@ -1,0 +1,30 @@
+{
+  "stem": "Which result completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Ratification of a suffrage amendment"
+    },
+    {
+      "label": "G",
+      "text": "Building of the transcontinental railroad"
+    },
+    {
+      "label": "H",
+      "text": "Passage of prohibition legislation"
+    },
+    {
+      "label": "J",
+      "text": "Expansion of labor unions"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rise of factory production in the late 1800s --> Long hours and low wages, Dangerous working conditions, Little bargaining power for workers --> ?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

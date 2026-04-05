@@ -1,0 +1,31 @@
+{
+  "stem": "Which concept is BEST described by this excerpt?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Cultural diffusion"
+    },
+    {
+      "label": "B",
+      "text": "Nativism"
+    },
+    {
+      "label": "C",
+      "text": "Social Darwinism"
+    },
+    {
+      "label": "D",
+      "text": "Containment"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "U.S. TV studios send a lot of their shows to Russia. . . . We're not just talking . . . dubbed over in another language. . . . These are . . . remakes in which characters and storylines have been adapted to reflect local . . . sensibilities.",
+    "\u2014Tim Newcomb, Time Magazine, October 2013"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

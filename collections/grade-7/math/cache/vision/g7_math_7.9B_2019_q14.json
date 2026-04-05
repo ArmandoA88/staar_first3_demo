@@ -1,0 +1,30 @@
+{
+  "stem": "The head of a nail is circular, as shown. The head of this nail has a diameter of 6 millimeters.\n\nWhich measurement is closest to the area of the head of this nail in square millimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "9.42 mm\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "113.04 mm\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "28.26 mm\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "37.68 mm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A graphic of a nail with a circular head labeled 'Head of the nail'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt and your knowledge of U.S. history, which statement describes an effect of this document?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "It outlined the process for creating new states."
+    },
+    {
+      "label": "B",
+      "text": "It authorized the expansion of slavery to new states."
+    },
+    {
+      "label": "C",
+      "text": "It limited the individual rights of citizens in new states."
+    },
+    {
+      "label": "D",
+      "text": "It discouraged the creation of schools in new states."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "And, whenever any of the said States shall have sixty thousand free inhabitants therein, such State shall be admitted, by its delegates, into the Congress of the United States, on [equal terms] with the original States in all respects whatever, and shall be at liberty to form a permanent constitution and State government.\n\u2014An Ordinance for the Government of the Territory of the United States North-West of the River Ohio"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

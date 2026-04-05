@@ -1,0 +1,30 @@
+{
+  "stem": "Fulgurites are pieces of glass in the shape of a cylinder produced when lightning strikes sand. A student found a fulgurite with a height of 21 inches and a diameter of 6 inches.\n\nWhich equation can be used to find V, the volume of the fulgurite in cubic inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "V = \\pi (6)^{2} (21)"
+    },
+    {
+      "label": "B",
+      "text": "V = \\pi (3)^{2} (21)"
+    },
+    {
+      "label": "C",
+      "text": "V = \\pi (6) (21)"
+    },
+    {
+      "label": "D",
+      "text": "V = \\pi (3) (21)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Image of the problem text and answer choices"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

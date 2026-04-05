@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph represents y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph showing a left-opening parabola with arrows indicating the curve extending left on y-x axes."
+    },
+    {
+      "label": "H",
+      "text": "Graph showing a vertical line on y-x axes."
+    },
+    {
+      "label": "G",
+      "text": "Graph showing a wavy curve with two endpoints marked on y-x axes."
+    },
+    {
+      "label": "J",
+      "text": "Graph showing a circle centered at origin on y-x axes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate graphs labeled F, H, G, J, each depicting different curves."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

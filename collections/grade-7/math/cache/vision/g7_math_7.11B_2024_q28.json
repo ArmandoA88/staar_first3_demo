@@ -1,0 +1,33 @@
+{
+  "stem": "Determine whether each equation is true or not true when \\( m = -5 \\).",
+  "instruction": "Select the correct answer in each row.",
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( 4m - 6 = 14 \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( -2m + 7 = 17 \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( 4m - 6 = -26 \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( -2m + 7 = -3 \\)"
+    }
+  ],
+  "choice_pool": [
+    "True",
+    "Not True"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns Equation, True, Not True and four equations 4m - 6 = 14, -2m + 7 = 17, 4m - 6 = -26, -2m + 7 = -3"
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 0.9,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the excerpt and your knowledge of U.S. history, why did a majority of voters in the South and West support William Jennings Bryan in the presidential election of 1896?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The economic status of farmers had recently improved because of an increase in the value of crops on the global market."
+    },
+    {
+      "label": "B",
+      "text": "There was a major decline in the amount of arable land available to farmers because of urban sprawl."
+    },
+    {
+      "label": "C",
+      "text": "The invention of the tractor and the steel plow led to a rapid increase in rural farming populations."
+    },
+    {
+      "label": "D",
+      "text": "There was substantial economic inequality between urban businesses and rural farmers."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There are two ideas of government. There are those who believe that if you just legislate to make the well-to-do prosperous that their prosperity will leak through on those below. The Democratic idea has been that if you legislate to make the masses prosperous their prosperity will find its way up and through every class that rests upon it.\n\nYou come to us and tell us that the great cities are in favor of the gold standard. I tell you that the great cities rest upon these broad and fertile prairies. Burn down your cities and leave our farms, and your cities will spring up again as if by magic. But destroy our farms and the grass will grow in the streets of every city in this country.\n\n\u2014William Jennings Bryan, Cross of Gold Speech, July 9, 1896"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

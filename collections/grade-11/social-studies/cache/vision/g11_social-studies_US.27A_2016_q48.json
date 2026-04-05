@@ -1,0 +1,33 @@
+{
+  "stem": "These technological advances can all be traced back to which industry?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Telecommunications"
+    },
+    {
+      "label": "G",
+      "text": "Energy"
+    },
+    {
+      "label": "H",
+      "text": "Aerospace"
+    },
+    {
+      "label": "J",
+      "text": "Transportation"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Ultraviolet-filtering lenses",
+    "High-resolution optical scanners",
+    "Remote medical diagnostics",
+    "Earth-imaging technology"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

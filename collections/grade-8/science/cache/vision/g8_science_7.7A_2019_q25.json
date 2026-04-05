@@ -1,0 +1,30 @@
+{
+  "stem": "The distance a toy car travels over time is shown in the graph.\n\nWhich table best shows the average speed of the toy car at different time intervals?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Time (s)  Average Speed (m/s)\n0\u20132  1.0\n2\u20134  0.5\n4\u20136  0"
+    },
+    {
+      "label": "B",
+      "text": "Time (s)  Average Speed (m/s)\n0\u20132  2.0\n2\u20134  0.75\n4\u20136  0.75"
+    },
+    {
+      "label": "C",
+      "text": "Time (s)  Average Speed (m/s)\n0\u20132  2.0\n2\u20134  3.0\n4\u20136  3.0"
+    },
+    {
+      "label": "D",
+      "text": "Time (s)  Average Speed (m/s)\n0\u20132  1.0\n2\u20134  0.75\n4\u20136  0"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph titled 'Motion of a Toy Car' showing Distance (m) vs Time (s) with a curve increasing from 0 to 3 meters at 4 seconds, then flat from 4 to 6 seconds."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Lines like the one shown above were partially the result of \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "growing demand for payment of military pensions"
+    },
+    {
+      "label": "G",
+      "text": "a sudden increase in agricultural exports"
+    },
+    {
+      "label": "H",
+      "text": "the passage of the Selective Service Act"
+    },
+    {
+      "label": "J",
+      "text": "widespread business failures"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bread Line in New York City, 1932",
+    "Source: Franklin D. Roosevelt Presidential Library"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.99,
+  "notes": null
+}

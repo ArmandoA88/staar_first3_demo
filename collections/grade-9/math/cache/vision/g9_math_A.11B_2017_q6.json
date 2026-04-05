@@ -1,0 +1,35 @@
+{
+  "stem": "The area of a rectangle is 54x^9 y^8 square yards. If the length of the rectangle is 6x^3 y^4 yards, which expression represents the width of the rectangle in yards?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "9x^3 y^2"
+    },
+    {
+      "label": "G",
+      "text": "48x^6 y^4"
+    },
+    {
+      "label": "H",
+      "text": "9x^6 y^4"
+    },
+    {
+      "label": "J",
+      "text": "60x^{12} y^{12}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "54x^9 y^8",
+    "6x^3 y^4",
+    "9x^3 y^2",
+    "48x^6 y^4",
+    "9x^6 y^4",
+    "60x^{12} y^{12}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

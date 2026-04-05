@@ -1,0 +1,30 @@
+{
+  "stem": "The net of a triangular prism is shown. Use the ruler provided to measure the dimensions of the net to the nearest half centimeter.\n\nWhich measurement is closest to the total surface area of the triangular prism in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "20 cm\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "14 cm\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "8 cm\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "6 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "net of a triangular prism diagram with a right triangle above a rectangle and another triangle below"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

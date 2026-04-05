@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of quadratic function f is shown on the grid.\n\n[Graph showing a parabola with points (-8, 2), (-3, -3), and (-2, 2) labeled]\n\nWhich equation represents the axis of symmetry of the graph of f?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = -5"
+    },
+    {
+      "label": "B",
+      "text": "x = -3"
+    },
+    {
+      "label": "C",
+      "text": "y = -7"
+    },
+    {
+      "label": "D",
+      "text": "y = 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing a parabola with points (-8, 2), (-3, -3), and (-2, 2) labeled"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

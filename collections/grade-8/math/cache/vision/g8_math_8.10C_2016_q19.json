@@ -1,0 +1,30 @@
+{
+  "stem": "The coordinates of the vertices of a quadrilateral are P (1, 2), R (1, 4), S (3, 4), and T (4, 2). Quadrilateral PRST is reflected across the y-axis to create quadrilateral P'R'S'T'. Which rule describes this transformation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(x, y) \\to (x, -y)"
+    },
+    {
+      "label": "B",
+      "text": "(x, y) \\to (-x, y)"
+    },
+    {
+      "label": "C",
+      "text": "(x, y) \\to (y, -x)"
+    },
+    {
+      "label": "D",
+      "text": "(x, y) \\to (-y, x)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane with x and y axes labeled from -9 to 9"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

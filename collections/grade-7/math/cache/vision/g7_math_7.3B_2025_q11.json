@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of \\(-0.8 - 4\\frac{2}{5}(6)\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "-24.8"
+    },
+    {
+      "label": "B",
+      "text": "-31.2"
+    },
+    {
+      "label": "C",
+      "text": "-28.8"
+    },
+    {
+      "label": "D",
+      "text": "-27.2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-0.8 - 4\\frac{2}{5}(6)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

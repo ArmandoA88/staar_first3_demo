@@ -1,0 +1,17 @@
+{
+  "stem": "What can be predicted about all sixth and seventh graders at lunch? Complete the statements to make inferences that are best supported by the information in the graph.",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "art",
+    "physical education",
+    "music"
+  ],
+  "response_template": "More sixth graders would choose [blank_1] than would choose either one of the other two subjects.\n\nMore seventh graders would choose [blank_2] than would choose either one of the other two subjects.",
+  "visual_elements": [
+    "Bar graph showing 'Favorite Nonacademic Subject' for Sixth graders and Seventh graders with subjects Art, Physical education, Music and their number of responses."
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "Drag and Drop type question with fill-in blanks for two statements related to a bar graph comparing sixth and seventh graders' favorite nonacademic subjects."
+}

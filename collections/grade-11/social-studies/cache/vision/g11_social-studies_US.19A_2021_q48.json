@@ -1,0 +1,30 @@
+{
+  "stem": "Why did Congress override the veto described in this excerpt?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "Congress wanted to expand its power to provide funding to the military."
+    },
+    {
+      "label": "G",
+      "text": "Congress wanted to limit the president\u2019s power to send U.S. troops into armed conflicts."
+    },
+    {
+      "label": "H",
+      "text": "Congress wanted to regain control over its treaty-making powers."
+    },
+    {
+      "label": "J",
+      "text": "Congress wanted to give the president the power to make battlefield decisions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\u201cVeto of the War Powers Resolution\u201d\u201cHouse Joint Resolution 542 [The War Powers Act] would attempt to take away, by a mere legislative act, authorities which the President has properly exercised under the Constitution for almost 200 years. One of its provisions would automatically cut off certain authorities after sixty days unless the Congress extended them.\u2014President Richard Nixon, October 24, 1973"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

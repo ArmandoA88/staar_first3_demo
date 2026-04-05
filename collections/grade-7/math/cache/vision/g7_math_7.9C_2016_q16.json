@@ -1,0 +1,30 @@
+{
+  "stem": "Two rectangles were used to form the following figure. Use the ruler provided to measure the dimensions of the figure to the nearest quarter of an inch.\n\nWhich measurement is closest to the area of the shaded region of this figure in square inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "19 in.^2"
+    },
+    {
+      "label": "G",
+      "text": "11 in.^2"
+    },
+    {
+      "label": "H",
+      "text": "6 in.^2"
+    },
+    {
+      "label": "J",
+      "text": "8 in.^2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two rectangles combined to form a shaded border around a white rectangle in the center."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

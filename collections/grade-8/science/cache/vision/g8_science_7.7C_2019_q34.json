@@ -1,0 +1,30 @@
+{
+  "stem": "Which answer choice best describes the movement of the object between the times of 0 and 6 seconds on the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Moving at a constant speed"
+    },
+    {
+      "label": "G",
+      "text": "Accelerating"
+    },
+    {
+      "label": "H",
+      "text": "Moving toward the north"
+    },
+    {
+      "label": "J",
+      "text": "Stopped"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing Distance Versus Time with Distance (m) on the y-axis from 0 to 10 and Time (s) on the x-axis from 0 to 10. The plotted line ascends linearly from (0,0) to (5,10) and then remains flat at 10 from 5 to 10 seconds."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

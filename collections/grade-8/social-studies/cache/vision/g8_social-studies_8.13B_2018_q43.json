@@ -1,0 +1,31 @@
+{
+  "stem": "Which of the following was most responsible for the revolution described in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Expanded public education"
+    },
+    {
+      "label": "B",
+      "text": "Rapid technological innovation"
+    },
+    {
+      "label": "C",
+      "text": "Increased government spending"
+    },
+    {
+      "label": "D",
+      "text": "Rapid territorial expansion"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "[The] production of goods moved from home businesses, where products were generally crafted by hand, to . . . production in factories. This revolution, which involved major changes in transportation, manufacturing, and communications, transformed the daily lives of Americans as much as . . . any single event in U.S. history.",
+    "\u2014\"The Industrial Revolution in the United States,\" The Library of Congress, www.loc.gov (accessed February 21, 2014)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the value of the expression 26.95 \\div -5\\frac{1}{2}?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-0.49"
+    },
+    {
+      "label": "G",
+      "text": "-4.9"
+    },
+    {
+      "label": "H",
+      "text": "-3.3"
+    },
+    {
+      "label": "J",
+      "text": "-5.3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "26.95 \u00f7 -5(1/2)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Researchers analyzed a mitochondrial gene of different bat species to determine relatedness. A cladogram of their results is shown.\n\nBased on the cladogram, which set of bat species is the least related?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Ptenochirus minor and Megaerops niphanae"
+    },
+    {
+      "label": "G",
+      "text": "Dyacopterus spadiceus and Otopteropus cartilagonodus"
+    },
+    {
+      "label": "H",
+      "text": "Haplonycteris fischeri and Ptenochirus jagori"
+    },
+    {
+      "label": "J",
+      "text": "Cynopterus sphinx and Chironax melanocephalus"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "cladogram showing branches with bat species: Cynopterus sphinx, Haplonycteris fischeri, Dyacopterus spadiceus, Chironax melanocephalus, Otopteropus cartilagonodus, Ptenochirus jagori, Ptenochirus minor, Megaerops niphanae"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

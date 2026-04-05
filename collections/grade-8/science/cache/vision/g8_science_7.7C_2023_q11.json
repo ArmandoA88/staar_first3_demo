@@ -1,0 +1,31 @@
+{
+  "stem": "Students push a cart along a smooth floor and collect data to produce the graph shown.\n\n(The graph is labeled \"Motion of Cart\" with \"Distance Traveled (meters)\" on the vertical axis and \"Time (seconds)\" on the horizontal axis. The graph shows a straight line increasing linearly.)\n\nThe students use this data to determine and graph the velocity of the cart.\n\nWhich graph accurately represents the velocity of the cart?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph labeled \"Velocity of Cart\" with \"Velocity (meters/seconds)\" on the vertical axis and \"Time (seconds)\" on the horizontal axis. The graph shows a curve increasing then leveling off.)"
+    },
+    {
+      "label": "B",
+      "text": "(Graph labeled \"Velocity of Cart\" with \"Velocity (meters/seconds)\" on the vertical axis and \"Time (seconds)\" on the horizontal axis. The graph shows a horizontal line.)"
+    },
+    {
+      "label": "C",
+      "text": "(Graph labeled \"Velocity of Cart\" with \"Velocity (meters/seconds)\" on the vertical axis and \"Time (seconds)\" on the horizontal axis. The graph shows a straight line slanting upward from left to right.)"
+    },
+    {
+      "label": "D",
+      "text": "(Graph labeled \"Velocity of Cart\" with \"Velocity (meters/seconds)\" on the vertical axis and \"Time (seconds)\" on the horizontal axis. The graph shows a curve starting low and increasing at increasing rate.)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Motion of Cart graph: linear increase of distance over time.",
+    "Four options each with a velocity graph differing in shape: curved leveling off, horizontal, linear increase, curved increasing rate."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.95,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Mr. Brown planted a vegetable garden. The circle graph shows the kinds of vegetables he planted and the percentage of the area of the garden each kind of vegetable occupied.\n\nMr. Brown's garden has an area of 160 square feet. How many square feet of Mr. Brown's garden is occupied by cabbage?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "136 ft\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "24 ft\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "15 ft\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "145 ft\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Pie chart labeled Mr. Brown's Garden with sections: Lettuce 25%, Broccoli 45%, String beans 10%, Cabbage (no percent shown), Carrots 5%"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "The graph does not show the exact percentage for cabbage, but it can be inferred by subtracting the known percentages from 100%."
+}

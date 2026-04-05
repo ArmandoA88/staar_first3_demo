@@ -1,0 +1,30 @@
+{
+  "stem": "An eighth-grade student estimated that she needs $8,800 for tuition and fees for each year of college. She already has $5,000 in a savings account. The table shows the projected future value of the account in five years based on different monthly deposits.\n\nThe student wants to have enough money saved in five years to pay the tuition and fees for her first two years of college. Based on the table, what is the minimum amount she should deposit in the savings account every month?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$200"
+    },
+    {
+      "label": "B",
+      "text": "$300"
+    },
+    {
+      "label": "C",
+      "text": "$100"
+    },
+    {
+      "label": "D",
+      "text": "$400"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Future Value of a Savings Account table with Initial Balance (dollars): $5,000 in all columns, Monthly Deposit (dollars): $100, $200, $300, $400, Account Value in Five Years (dollars): $12,273, $18,737, $25,202, $31,667"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

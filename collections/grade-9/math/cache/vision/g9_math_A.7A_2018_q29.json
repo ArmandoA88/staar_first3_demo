@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph best represents a quadratic function that has only one zero?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[Graph with vertex below x-axis and crossing x-axis twice]"
+    },
+    {
+      "label": "B",
+      "text": "[Graph with vertex above x-axis and not crossing x-axis]"
+    },
+    {
+      "label": "C",
+      "text": "[Graph with vertex on the x-axis and only touches x-axis once]"
+    },
+    {
+      "label": "D",
+      "text": "[Graph with vertex above x-axis and not crossing x-axis]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: downward parabola crossing the x-axis twice.",
+    "Graph B: upward parabola with vertex above x-axis, no x-intercepts.",
+    "Graph C: upward parabola with vertex on the x-axis, tangent at one point.",
+    "Graph D: upward parabola with vertex above x-axis, no x-intercepts."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Answer option C shows a quadratic function with exactly one zero, where the parabola touches the x-axis at a single point."
+}

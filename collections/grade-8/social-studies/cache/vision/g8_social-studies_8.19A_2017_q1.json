@@ -1,0 +1,32 @@
+{
+  "stem": "This list includes rights that are considered \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "transferable"
+    },
+    {
+      "label": "B",
+      "text": "legislated"
+    },
+    {
+      "label": "C",
+      "text": "unalienable"
+    },
+    {
+      "label": "D",
+      "text": "inherited"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Life",
+    "Liberty",
+    "Pursuit of happiness"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle JKL is dilated with the origin as the center of dilation to create triangle J'K'L'.\n\nWhich rule best represents the dilation that has been applied to triangle JKL to create triangle J'K'L'?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(x, y) \\rightarrow (x + 6, y - 3)"
+    },
+    {
+      "label": "B",
+      "text": "(x, y) \\rightarrow (x + 4.5, y + 3)"
+    },
+    {
+      "label": "C",
+      "text": "(x, y) \\rightarrow (\\frac{1}{2} x, \\frac{1}{2} y)"
+    },
+    {
+      "label": "D",
+      "text": "(x, y) \\rightarrow (\\frac{7}{4} x, \\frac{7}{4} y)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate plane graph showing triangle JKL and its dilation image J'K'L' with points and grid lines."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

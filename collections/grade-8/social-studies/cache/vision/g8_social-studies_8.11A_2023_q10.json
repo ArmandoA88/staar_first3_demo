@@ -1,0 +1,30 @@
+{
+  "stem": "This map shows the population distribution of the United States in 1790.\n\nWhich statement explains how physical geography affected the population distribution of the United States in 1790?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The southern states offered fertile farmland, allowing for the development of larger cities."
+    },
+    {
+      "label": "B",
+      "text": "The Proclamation Line of 1763 prevented settlers from moving away from the East Coast."
+    },
+    {
+      "label": "C",
+      "text": "The Appalachian Mountains served as a barrier that slowed westward expansion."
+    },
+    {
+      "label": "D",
+      "text": "The Rocky Mountains posed risks to explorers, leading most people to remain in the East."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map of the United States showing population density in 1790 with a legend indicating people per square mile ranges: 0-20, 21-75, 76-250, 251-1,000, Over 1,000."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

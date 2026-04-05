@@ -1,0 +1,30 @@
+{
+  "stem": "Which list is ordered from the species most closely related to the mouse to the species least closely related to the mouse?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Horse, chimpanzee, donkey, lamprey"
+    },
+    {
+      "label": "B",
+      "text": "Lamprey, donkey, chimpanzee, horse"
+    },
+    {
+      "label": "C",
+      "text": "Chimpanzee, donkey, lamprey, horse"
+    },
+    {
+      "label": "D",
+      "text": "Donkey, horse, chimpanzee, lamprey"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Percent Similarity of Cytochrome c Amino-Acid Sequence table showing percentage similarity among Chimpanzee, Horse, Donkey, Mouse, Lamprey"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Standard B.9(A), 2024, question number 19."
+}

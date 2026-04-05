@@ -1,0 +1,33 @@
+{
+  "stem": "Which graph or table shows the proportional relationship described by the function y = -2x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph: line passes through points (-4, 4) and (4, -4)"
+    },
+    {
+      "label": "B",
+      "text": "Graph: line passes through points (-4, 4) and (4, -4), steep negative slope"
+    },
+    {
+      "label": "C",
+      "text": "Table: x | y\n2 | -2\n4 | -4\n6 | -6"
+    },
+    {
+      "label": "D",
+      "text": "Table: x | y\n2 | -1\n4 | -2\n6 | -3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: coordinate grid with a positive slope line passing through (-4, -4) and (4, 4)",
+    "Graph B: coordinate grid with a negative slope line passing through (-4, 4) and (4, -4)",
+    "Table C: 2, -2; 4, -4; 6, -6",
+    "Table D: 2, -1; 4, -2; 6, -3"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

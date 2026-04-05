@@ -1,0 +1,30 @@
+{
+  "stem": "A star that has a luminosity of 10^{-2} and a temperature of 20,000 K is most likely a \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Main sequence"
+    },
+    {
+      "label": "G",
+      "text": "White dwarf"
+    },
+    {
+      "label": "H",
+      "text": "Blue giant"
+    },
+    {
+      "label": "J",
+      "text": "Red giant"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A Hertzsprung-Russell (H-R) diagram is shown with luminosity (L_sun) on y-axis ranging from 10^{-4} to 10^{6} and temperature (K) on x-axis from 40,000 to 2,500. Various star groups indicated: Main sequence, Blue giants, Red giants, Red supergiants, White dwarfs."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

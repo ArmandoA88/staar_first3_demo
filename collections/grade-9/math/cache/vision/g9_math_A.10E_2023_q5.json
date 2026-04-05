@@ -1,0 +1,28 @@
+{
+  "stem": "Which expression is a factor of 30x^2 - 4x - 16?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5x + 4"
+    },
+    {
+      "label": "B",
+      "text": "3x - 2"
+    },
+    {
+      "label": "C",
+      "text": "5x - 4"
+    },
+    {
+      "label": "D",
+      "text": "3x - 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

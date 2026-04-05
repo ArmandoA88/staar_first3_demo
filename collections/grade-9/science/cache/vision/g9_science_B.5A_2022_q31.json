@@ -1,0 +1,28 @@
+{
+  "stem": "Which statements best compare a function of proteins and lipids in a human cell?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Proteins provide energy for cellular processes.\nLipids catalyze chemical reactions inside the cell."
+    },
+    {
+      "label": "B",
+      "text": "Proteins catalyze chemical reactions inside the cell.\nLipids allow for the transport of certain molecules into and out of the cell."
+    },
+    {
+      "label": "C",
+      "text": "Proteins allow for the transport of certain molecules into and out of the cell.\nLipids store genetic information for cells."
+    },
+    {
+      "label": "D",
+      "text": "Proteins store genetic information for cells.\nLipids provide energy for cellular processes."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

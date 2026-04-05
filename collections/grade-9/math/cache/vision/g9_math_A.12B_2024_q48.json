@@ -1,0 +1,31 @@
+{
+  "stem": "If \\( f(x) = 3x^{2} - 7 \\), what is the value of \\( f(4) \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "29"
+    },
+    {
+      "label": "B",
+      "text": "17"
+    },
+    {
+      "label": "C",
+      "text": "41"
+    },
+    {
+      "label": "D",
+      "text": "27"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "f(x) = 3x^{2} - 7",
+    "f(4)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

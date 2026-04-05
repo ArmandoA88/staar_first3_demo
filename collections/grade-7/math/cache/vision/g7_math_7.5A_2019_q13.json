@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle ABC is similar to triangle DEF.",
+  "instruction": "Which proportion can be used to find the length of DE in centimeters?",
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{4}{3} = \\frac{DE}{9}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{5}{15} = \\frac{DE}{4}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{4}{DE} = \\frac{9}{3}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{9}{DE} = \\frac{3}{5}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two right triangles labeled ABC and DEF. Triangle ABC has sides labeled 4 cm (AB), 3 cm (BC), and 5 cm (AC). Triangle DEF has sides labeled 15 cm (DF) and 9 cm (EF)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

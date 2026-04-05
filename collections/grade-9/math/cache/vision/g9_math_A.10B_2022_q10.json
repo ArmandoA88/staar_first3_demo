@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to \\((n - 4)(2n + 7)\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3n + 3"
+    },
+    {
+      "label": "G",
+      "text": "n - 28"
+    },
+    {
+      "label": "H",
+      "text": "2n^{2} - 15n - 28"
+    },
+    {
+      "label": "J",
+      "text": "2n^{2} - n - 28"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(n - 4)(2n + 7)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

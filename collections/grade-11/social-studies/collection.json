@@ -1,0 +1,19 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-11-social-studies",
+  "label": "U.S. History Social Studies",
+  "grade": 11,
+  "subject": "Social Studies",
+  "status": "ready",
+  "root": "collections/grade-11/social-studies",
+  "source_pdf": "collections/grade-11/social-studies/source/sshistory.pdf",
+  "catalog": "collections/grade-11/social-studies/data/staar_catalog.json",
+  "reports": {
+    "coverage_csv": "collections/grade-11/social-studies/reports/pdf_coverage_report.csv",
+    "coverage_md": "collections/grade-11/social-studies/reports/pdf_coverage_report.md",
+    "coverage_summary_json": "collections/grade-11/social-studies/reports/pdf_coverage_summary.json"
+  },
+  "images_dir": "collections/grade-11/social-studies/images/extracted",
+  "stimulus_images_dir": "collections/grade-11/social-studies/images/stimuli",
+  "vision_cache_dir": "collections/grade-11/social-studies/cache/vision"
+}

@@ -1,0 +1,32 @@
+{
+  "stem": "Which of the following should replace the question mark in this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Direct democracy"
+    },
+    {
+      "label": "B",
+      "text": "Great Compromise"
+    },
+    {
+      "label": "C",
+      "text": "Checks and balances"
+    },
+    {
+      "label": "D",
+      "text": "Missouri Compromise"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Virginia Plan puzzle piece",
+    "? puzzle piece",
+    "New Jersey Plan puzzle piece"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

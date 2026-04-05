@@ -1,0 +1,31 @@
+{
+  "stem": "What is the solution to this system of equations?\n\n-3x + 5y = 21\n\n6x - y = -15",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(2, 27)"
+    },
+    {
+      "label": "B",
+      "text": "(- 2, 3)"
+    },
+    {
+      "label": "C",
+      "text": "(2, 0)"
+    },
+    {
+      "label": "D",
+      "text": "(- 3, - 3)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-3x + 5y = 21",
+    "6x - y = -15"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph represents the solution set of \\( y \\geq - \\frac{7}{2} x - 2 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph with a dashed line, shading to the left side of the line)"
+    },
+    {
+      "label": "B",
+      "text": "(Graph with a solid line, shading to the right side of the line)"
+    },
+    {
+      "label": "C",
+      "text": "(Graph with a solid line, shading to the left side of the line)"
+    },
+    {
+      "label": "D",
+      "text": "(Graph with a dashed line, shading to the right side of the line)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, D, each showing a coordinate plane with a line and shading in different regions. Lines have different styles (solid or dashed)."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "The problem is a multiple-choice question asking to identify the correct graph representing inequality solution. Graph details are described to preserve meaning without exact image reproduction."
+}

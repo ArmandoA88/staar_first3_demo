@@ -1,0 +1,32 @@
+{
+  "stem": "Which option completes this title?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Social Security Act"
+    },
+    {
+      "label": "G",
+      "text": "Twenty-Sixth Amendment"
+    },
+    {
+      "label": "H",
+      "text": "GI Bill"
+    },
+    {
+      "label": "J",
+      "text": "Americans with Disabilities Act"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Comparison chart showing benefits in 1944 and 2014 with the title: The ___?, Then and Now",
+    "1944: 48 months training, $500/year in tuition to school, $50/month student stipend",
+    "2014: 36 months training, full in-state tuition and fees paid directly to school, monthly housing allowance based on E-5 w/ dependents location pay, $1000/year books and supplies"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

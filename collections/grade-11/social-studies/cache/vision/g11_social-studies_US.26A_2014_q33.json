@@ -1,0 +1,31 @@
+{
+  "stem": "Today the world is heavily dependent on __________ for motive power, lubrication, fuel, dyes, drugs, and many synthetics. The widespread use of __________ has created serious environmental problems. The great quantities that are burned . . . generate most of the air pollution in industrialized countries, and [spills have] polluted oceans and coastlines.\n\n\u2014The Columbia Electronic Encyclopedia, 6th ed., 2007 (accessed January 19, 2010)",
+  "instruction": "Which of these natural resources correctly fills in the blanks in this excerpt?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Coal"
+    },
+    {
+      "label": "B",
+      "text": "Iron"
+    },
+    {
+      "label": "C",
+      "text": "Gold"
+    },
+    {
+      "label": "D",
+      "text": "Petroleum"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text box containing passage with blanks",
+    "multiple choice options A-D"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

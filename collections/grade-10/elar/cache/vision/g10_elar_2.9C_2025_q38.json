@@ -1,0 +1,28 @@
+{
+  "stem": "Chima has included a redundant idea in sentence 18. What is the MOST effective revision to make in this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The way the organization was structured made it difficult for member countries to even reach decisions."
+    },
+    {
+      "label": "B",
+      "text": "The way the organization was structured to make it difficult made it challenging for member countries to even reach decisions."
+    },
+    {
+      "label": "C",
+      "text": "The way the organization was structured was what made it difficult and challenging for member countries to even reach decisions."
+    },
+    {
+      "label": "D",
+      "text": "The way the organization was structured was challenging and difficult for member countries to even reach decisions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph shows a proportional relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with line passing through origin going from bottom-left to top-right"
+    },
+    {
+      "label": "H",
+      "text": "Graph with line passing through (0,-1) going from top-left to bottom-right"
+    },
+    {
+      "label": "G",
+      "text": "Graph with line passing through origin going from bottom-left to top-right"
+    },
+    {
+      "label": "J",
+      "text": "Graph with horizontal line at y=0"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, J each with coordinate grid and line shown"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Graphs F and G show lines through origin, but typically only one correct proportional graph is expected, usually with positive slope."
+}

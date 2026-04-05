@@ -1,0 +1,28 @@
+{
+  "stem": "What change is needed in sentence 6?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change explained to has explained"
+    },
+    {
+      "label": "G",
+      "text": "Change then to than"
+    },
+    {
+      "label": "H",
+      "text": "Change fell to falls"
+    },
+    {
+      "label": "J",
+      "text": "Delete the comma after ground"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The dimensions of a rectangular pyramid are shown.\n\nWhat is the volume of this rectangular pyramid in cubic feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "96 ft\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "18 ft\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "64 ft\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "192 ft\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "pyramid with base dimensions 4 ft by 8 ft and height 6 ft labeled"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "What is the most effective way to revise sentence 32?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "In 1944, when the park opened, there were only 1,409 visitors during the entire year."
+    },
+    {
+      "label": "B",
+      "text": "A total of 1,409 people only visited the park in 1944 during the first year."
+    },
+    {
+      "label": "C",
+      "text": "That year when the park first opened, only 1,409 people actually visited it back in 1944."
+    },
+    {
+      "label": "D",
+      "text": "1,409 people was the number of visitors to the park during the first year when it was opened, which was in 1944."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q41 Passage #5",
+    "A B C D"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

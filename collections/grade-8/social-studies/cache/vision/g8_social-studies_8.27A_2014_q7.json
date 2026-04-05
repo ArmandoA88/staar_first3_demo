@@ -1,0 +1,30 @@
+{
+  "stem": "The innovation shown in this photograph most affected the U.S. economy by \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "decreasing the need for canals"
+    },
+    {
+      "label": "B",
+      "text": "allowing more efficient movement of goods"
+    },
+    {
+      "label": "C",
+      "text": "reducing the costs of settling in western territories"
+    },
+    {
+      "label": "D",
+      "text": "transporting workers from southern states to northern states"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photo of a steamboat named BEN CAMPBELL"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

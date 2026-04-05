@@ -1,0 +1,30 @@
+{
+  "stem": "A system of equations is graphed on the grid.\n\nWhich system of equations is best represented by the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = \\frac{2}{5}x - 8\ny = -\\frac{3}{5}x - 3"
+    },
+    {
+      "label": "B",
+      "text": "y = \\frac{2}{5}x - 3\ny = -\\frac{3}{5}x - 8"
+    },
+    {
+      "label": "C",
+      "text": "y = \\frac{5}{2}x - 8\ny = -\\frac{5}{3}x - 3"
+    },
+    {
+      "label": "D",
+      "text": "y = \\frac{5}{2}x - 3\ny = -\\frac{5}{3}x - 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing two lines intersecting, one line increasing from left bottom to right top, another line decreasing from left top to right bottom."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

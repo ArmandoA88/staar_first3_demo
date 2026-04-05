@@ -1,0 +1,32 @@
+{
+  "stem": "A rectangle, a triangle, and two congruent semicircles were used to form the figure shown.\n\nWhich measurement is closest to the area of the figure in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "67 cm\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "74 cm\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "79 cm\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "88 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Rectangle with dimensions 8 cm (width) by 6 cm (height)",
+    "Triangle attached to the left side with base 4 cm and height 4 cm (right angle indicated)",
+    "Two congruent semicircles each with diameter 3 cm attached under the rectangle"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

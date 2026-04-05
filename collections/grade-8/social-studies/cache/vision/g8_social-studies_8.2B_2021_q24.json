@@ -1,0 +1,30 @@
+{
+  "stem": "Study the table and answer the question that follows.\n\n| Colony            | Reason Established |\n|-------------------|--------------------|\n| Virginia          | (1)                |\n| Massachusetts Bay | (2)                |\n\nWhich reasons correctly replace the numbers in this table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(1) To gain religious freedom\n(2) To provide military defense"
+    },
+    {
+      "label": "G",
+      "text": "(1) To increase business profits\n(2) To escape religious persecution"
+    },
+    {
+      "label": "H",
+      "text": "(1) To provide military defense\n(2) To help benefit the poor"
+    },
+    {
+      "label": "J",
+      "text": "(1) To increase business profits\n(2) To provide a place for criminals"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

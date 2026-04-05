@@ -1,0 +1,33 @@
+{
+  "stem": "The starting annual salary for an office worker at a company is $29,000. If the company awards an annual increase of 6.2%, which graph models this situation after the office worker receives x annual increases?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[Graph A: Linear graph starting at 29,000 and increasing steadily]"
+    },
+    {
+      "label": "B",
+      "text": "[Graph B: Steep curve sharply increasing near y-axis and exceeding 50,000 quickly]"
+    },
+    {
+      "label": "C",
+      "text": "[Graph C: Exponential curve starting near 5,000 rapidly rising, not matching start]"
+    },
+    {
+      "label": "D",
+      "text": "[Graph D: Gradual upward curve starting below 10,000 and curving upwards]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Line graph labeled 'Office Worker's Salary' with y-axis Annual Salary (dollars) from 0 to 50,000 and x-axis Number of Annual Increases from 0 to 10. Line starts near 29,000 and increases linearly.",
+    "Graph B: Steep exponential or sharper curve rising very quickly exceeding 50,000 quickly, starting near zero or below starting salary.",
+    "Graph C: Exponential curve starting near around 5,000, increasing rapidly but does not start at 29,000.",
+    "Graph D: Exponential growth curve rising gradually from below 10,000 towards 35,000 at 10 increases."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": "The problem involves exponential growth due to percentage increase; thus, Graph A (linear) and Graphs B and C with improper starts can be ruled out. Graph D matches an exponential growth curve starting near the given salary and rising gradually."
+}

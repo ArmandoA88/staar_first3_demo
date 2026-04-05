@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution set for -4x + 10 \\geq 5x + 55?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x \\geq 5"
+    },
+    {
+      "label": "G",
+      "text": "x \\geq 45"
+    },
+    {
+      "label": "H",
+      "text": "x \\leq -5"
+    },
+    {
+      "label": "J",
+      "text": "x \\leq -45"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-4x + 10 \\geq 5x + 55"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

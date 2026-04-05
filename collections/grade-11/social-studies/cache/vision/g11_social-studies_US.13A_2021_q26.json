@@ -1,0 +1,30 @@
+{
+  "stem": "What were two reasons for the population patterns shown on this graph?",
+  "instruction": "Study the graph and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "More passenger trains and better subway systems in the Sun Belt"
+    },
+    {
+      "label": "G",
+      "text": "More government regulation and fewer natural disasters in the Sun Belt"
+    },
+    {
+      "label": "H",
+      "text": "More job opportunities and lower cost of living in the Sun Belt"
+    },
+    {
+      "label": "J",
+      "text": "More cultural diversity and better funding for public education in the Sun Belt"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Line graph titled 'Total U.S. Population, by Region, 1940-2000' with population (millions) on the y-axis and decade on the x-axis; lines for South (solid), Midwest (dotted), Northeast (gray solid), and West (dashed). South shows steep increase, Midwest and Northeast moderate, West rising."
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

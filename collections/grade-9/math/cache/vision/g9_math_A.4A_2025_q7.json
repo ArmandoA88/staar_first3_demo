@@ -1,0 +1,30 @@
+{
+  "stem": "A student used a checking account to pay for living expenses during the first two years of college. The table shows the amount the student had in the account after different numbers of months had passed.\n\nChecking Account Balance\n\n| Number of Months | Remaining Balance (dollars) |\n|------------------|-----------------------------|\n| 2                | 7,592                       |\n| 8                | 5,931                       |\n| 12               | 5,683                       |\n| 17               | 4,428                       |\n| 23               | 2,854                       |\n\nBased on the correlation coefficient for the data, what type of linear association exists between the number of months that had passed and the balance remaining in the account?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Strong positive"
+    },
+    {
+      "label": "B",
+      "text": "Weak positive"
+    },
+    {
+      "label": "C",
+      "text": "Strong negative"
+    },
+    {
+      "label": "D",
+      "text": "Weak negative"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

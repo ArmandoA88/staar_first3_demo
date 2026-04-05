@@ -1,0 +1,30 @@
+{
+  "stem": "Deborah surveyed customers in a restaurant to find out their favorite meal. The results of the survey are shown in the table.\n\nFavorite Meals\n\nMeal | Number of People\nHamburger and french fries | 17\nSpaghetti | 8\nChili | 12\nVegetarian delight | 3\n\nOne person in the restaurant will be picked at random. Based on the given information, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "This person's favorite meal is twice as likely to be hamburger and french fries as it is to be spaghetti."
+    },
+    {
+      "label": "B",
+      "text": "This person's favorite meal is four times as likely to be chili as it is to be vegetarian delight."
+    },
+    {
+      "label": "C",
+      "text": "This person's favorite meal is more likely to be chili than hamburger and french fries."
+    },
+    {
+      "label": "D",
+      "text": "This person's favorite meal is equally likely to be either vegetarian delight or spaghetti."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Favorite Meals Table showing: Hamburger and french fries - 17, Spaghetti - 8, Chili - 12, Vegetarian delight - 3"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

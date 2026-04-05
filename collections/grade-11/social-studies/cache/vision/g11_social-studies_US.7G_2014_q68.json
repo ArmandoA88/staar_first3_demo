@@ -1,0 +1,36 @@
+{
+  "stem": "How were the Navajo words in this table used during World War II?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "As propaganda to improve morale among Allied soldiers"
+    },
+    {
+      "label": "G",
+      "text": "As a secret code for communicating battle plans between Allied units"
+    },
+    {
+      "label": "H",
+      "text": "As signal words for Allied spies posing as civilians"
+    },
+    {
+      "label": "J",
+      "text": "As a language of diplomacy for exchanges with enemy forces"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns English Word, Navajo Word, Meaning:",
+    "Dive-bomber - Gini - Chicken hawk",
+    "Fighter plane - Da-he-tih-hi - Hummingbird",
+    "Bomber - Jay-sho - Buzzard",
+    "America - Ne-he-Mah - Our Mother",
+    "Germany - Besh-be-cha-he - Iron hat",
+    "Philippines - Ke-yah-da-na-lhe - Floating land"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

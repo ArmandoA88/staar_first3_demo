@@ -1,0 +1,30 @@
+{
+  "stem": "How did the United States acquire the territory marked with the X?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By purchasing the land from Spain"
+    },
+    {
+      "label": "B",
+      "text": "By winning a war against Great Britain"
+    },
+    {
+      "label": "C",
+      "text": "By purchasing the land from France"
+    },
+    {
+      "label": "D",
+      "text": "By winning a war against Mexico"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map of the United States with the territory marked with an X in the southwest region"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

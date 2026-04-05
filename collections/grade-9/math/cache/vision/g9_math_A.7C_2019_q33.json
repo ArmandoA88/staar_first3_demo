@@ -1,0 +1,28 @@
+{
+  "stem": "The graph of \\( f(x) = x^2 \\) was transformed to create the graph of \\( g(x) = f(x) - 9 \\). Which statement about the graphs is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The graph of \\( g \\) is a reflection of the graph of \\( f \\) across the x-axis."
+    },
+    {
+      "label": "B",
+      "text": "The vertex of the graph of \\( g \\) is 9 units to the right of the vertex of the graph of \\( f \\)."
+    },
+    {
+      "label": "C",
+      "text": "The graph of \\( g \\) is a reflection of the graph of \\( f \\) across the y-axis."
+    },
+    {
+      "label": "D",
+      "text": "The y-intercept of the graph of \\( g \\) is 9 units below the y-intercept of the graph of \\( f \\)."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following best completes this list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Established schools"
+    },
+    {
+      "label": "G",
+      "text": "Certified applications for political office"
+    },
+    {
+      "label": "H",
+      "text": "Granted small-business loans"
+    },
+    {
+      "label": "J",
+      "text": "Provided funds for farming supplies"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Freedmen's Bureau\n\u2022 Provided food, shelter, and clothing\n\u2022 Negotiated and enforced labor contracts\n\u2022 ?"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

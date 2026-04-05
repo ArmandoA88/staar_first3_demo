@@ -1,0 +1,30 @@
+{
+  "stem": "A salesperson made a bar graph of different brands of cars sold in a month.\n\nBased on the information in the graph, which car brands represented 60% of sales?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Brand A and Brand B"
+    },
+    {
+      "label": "B",
+      "text": "Brand A and Brand C"
+    },
+    {
+      "label": "C",
+      "text": "Brand B and Brand C"
+    },
+    {
+      "label": "D",
+      "text": "Brand C and Brand D"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Cars Sold' with y-axis labeled 'Number of Cars' and values from 0 to 22. The x-axis is labeled 'Brand of Car' with four bars: Brand A at 18, Brand B at 15, Brand C at 21, Brand D at 6."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of \\( f(x) = x^2 \\) is transformed to create the graph of \\( h(x) = 2f(x) \\). Which graph best represents \\( f \\) and \\( h \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with \\( h \\) as the wider parabola and \\( f \\) as the narrower parabola."
+    },
+    {
+      "label": "H",
+      "text": "Graph with \\( f \\) as the wider parabola and \\( h \\) as the narrower parabola."
+    },
+    {
+      "label": "G",
+      "text": "Graph with \\( f \\) as the narrower parabola and \\( h \\) as the wider parabola."
+    },
+    {
+      "label": "J",
+      "text": "Graph with \\( h \\) as the narrower parabola and \\( f \\) as the wider parabola."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, and J showing parabolas representing functions f and h with different widths and positions."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "The correct graph has h(x) = 2f(x) which vertically stretches the parabola f(x) = x^2, making h narrower than f."
+}

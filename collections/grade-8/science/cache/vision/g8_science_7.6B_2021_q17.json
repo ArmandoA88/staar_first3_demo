@@ -1,0 +1,30 @@
+{
+  "stem": "The names and chemical formulas of four substances are shown in the chart.\n\nSubstance Formulas\nName Chemical Formula\nCarbonic acid H\u2082CO\u2083\nNitric acid HNO\u2083\nPhosphoric acid H\u2083PO\u2084\nSulfuric acid H\u2082SO\u2084\n\nWhich substance listed in the chart is made up of the most atoms?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Carbonic acid"
+    },
+    {
+      "label": "B",
+      "text": "Nitric acid"
+    },
+    {
+      "label": "C",
+      "text": "Phosphoric acid"
+    },
+    {
+      "label": "D",
+      "text": "Sulfuric acid"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with names and chemical formulas: Carbonic acid (H2CO3), Nitric acid (HNO3), Phosphoric acid (H3PO4), Sulfuric acid (H2SO4)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

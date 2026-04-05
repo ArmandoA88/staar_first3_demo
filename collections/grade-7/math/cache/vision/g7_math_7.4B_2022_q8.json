@@ -1,0 +1,30 @@
+{
+  "stem": "Imani compared the number of fluid ounces per bottle of sunscreen to the cost of four different brands of sunscreen. The information she gathered is shown in the table.\n\nSunscreen Comparison\n\n| Brand | Number of Fluid Ounces per Bottle | Cost |\n|-------|----------------------------------|-------|\n| W     | 20                               | $12.00|\n| X     | 15                               | $11.25|\n| Y     | 10                               | $6.50 |\n| Z     | 5                                | $2.50 |\n\nBased on the data in the table, which brand of sunscreen has the greatest cost per fluid ounce?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Brand W"
+    },
+    {
+      "label": "G",
+      "text": "Brand X"
+    },
+    {
+      "label": "H",
+      "text": "Brand Y"
+    },
+    {
+      "label": "J",
+      "text": "Brand Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled Sunscreen Comparison with three columns: Brand, Number of Fluid Ounces per Bottle, Cost. Rows: W 20 $12.00, X 15 $11.25, Y 10 $6.50, Z 5 $2.50."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

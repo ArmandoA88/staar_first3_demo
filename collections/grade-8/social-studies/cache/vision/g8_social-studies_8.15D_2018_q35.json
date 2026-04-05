@@ -1,0 +1,30 @@
+{
+  "stem": "What was the purpose of this amendment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To encourage citizens to monitor the federal government"
+    },
+    {
+      "label": "B",
+      "text": "To prevent conflicts between state and local governments"
+    },
+    {
+      "label": "C",
+      "text": "To limit the authority of the federal government"
+    },
+    {
+      "label": "D",
+      "text": "To increase the participation of citizens in state government"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people. \u2014U.S. Constitution, Tenth Amendment"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

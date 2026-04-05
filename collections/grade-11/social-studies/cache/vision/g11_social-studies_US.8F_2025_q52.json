@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the photograph and your knowledge of U.S. history, why were these veterans marching to the Pentagon in 1967?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They were celebrating U.S. victories in the Vietnam War."
+    },
+    {
+      "label": "B",
+      "text": "They were hoping for a communist victory in the Vietnam War."
+    },
+    {
+      "label": "C",
+      "text": "They supported the growing opposition to U.S. government policies in the Vietnam War."
+    },
+    {
+      "label": "D",
+      "text": "They supported the growing opposition to drug use by communist soldiers in the Vietnam War."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "veterans holding signs 'BRING OUR GI'S HOME NOW!' and a large American flag"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

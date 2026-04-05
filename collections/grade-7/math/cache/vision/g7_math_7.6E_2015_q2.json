@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the types of movies and the numbers of DVDs rented by customers at a store in one day.\n\nDVD Rentals\n\n| Type of Movie | Number of Rentals |\n|--------------|-------------------|\n| Drama        | 25                |\n| Comedy       | 36                |\n| Family       | 52                |\n| Sci-Fi       | 12                |\n\nBased on the data in the table, what is the probability that a random customer will not rent a drama?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{4} \\), because the probability of renting a drama is \\( \\frac{3}{4} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{3}{4} \\), because the probability of renting a drama is \\( \\frac{1}{4} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{4}{5} \\), because the probability of renting a drama is \\( \\frac{1}{5} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{1}{5} \\), because the probability of renting a drama is \\( \\frac{4}{5} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with movie types and rentals"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

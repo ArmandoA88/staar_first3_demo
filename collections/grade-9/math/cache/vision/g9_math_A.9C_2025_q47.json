@@ -1,0 +1,28 @@
+{
+  "stem": "A bank customer opened a money market account with $2,500. Each year the bank will add interest to the account, which will increase the account\u2019s value by 0.5%. Which function can be used to determine the amount, A, in the account after t years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A(t) = 2,500(0.50)^t"
+    },
+    {
+      "label": "B",
+      "text": "A(t) = 2,500(1.005)^t"
+    },
+    {
+      "label": "C",
+      "text": "A(t) = 2,500 + 0.50t"
+    },
+    {
+      "label": "D",
+      "text": "A(t) = 2,500(1.005)t"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

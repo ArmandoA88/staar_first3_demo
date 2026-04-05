@@ -1,0 +1,30 @@
+{
+  "stem": "Alina drew a model of a square pyramid. The dimensions of the model are shown in the diagram. What is the volume of Alina\u2019s model in cubic centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "400 cm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "1,200 cm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "600 cm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "160 cm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a square pyramid with base edges labeled 10 cm and height labeled 12 cm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

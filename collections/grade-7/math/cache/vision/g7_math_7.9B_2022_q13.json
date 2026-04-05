@@ -1,0 +1,30 @@
+{
+  "stem": "Use the ruler provided to measure the dimensions of the circle to the nearest centimeter.\n\nWhich measurement is closest to the circumference of the circle in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "154 cm"
+    },
+    {
+      "label": "B",
+      "text": "11 cm"
+    },
+    {
+      "label": "C",
+      "text": "22 cm"
+    },
+    {
+      "label": "D",
+      "text": "38 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "circle with dashed line through center"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

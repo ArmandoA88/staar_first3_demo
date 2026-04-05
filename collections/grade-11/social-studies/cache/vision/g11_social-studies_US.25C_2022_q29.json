@@ -1,0 +1,30 @@
+{
+  "stem": "How has this religious pluralism influenced the national identity of the United States?",
+  "instruction": "Read the excerpt and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The government establishes religious schools for immigrants."
+    },
+    {
+      "label": "B",
+      "text": "Most Americans live in isolated religious communities."
+    },
+    {
+      "label": "C",
+      "text": "The government limits the number of religious community centers."
+    },
+    {
+      "label": "D",
+      "text": "Many Americans are tolerant of various religious beliefs."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt: In fact, U.S. religious pluralism has its origins in America's colonial past, when members of persecuted religious minorities migrated from Europe to the New World so they could freely practice their faiths. And newcomers still arrive from every corner of the globe, bringing their unique faith traditions to towns and cities across the United States. \u2014Lauren Monsen, \"The American Religious Landscape,\" March 26, 2015"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

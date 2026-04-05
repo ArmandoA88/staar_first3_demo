@@ -1,0 +1,30 @@
+{
+  "stem": "An experiment examined the relationship between the number of miles a car traveled, y, per gallon of gasoline and the speed of the car, x, in miles per hour. The table displays the data collected.\n\nCar Mileage Experiment\n\n| Speed, x (miles per hour) | Miles per Gallon, y |\n|---------------------------|---------------------|\n| 20                        | 24.9                |\n| 30                        | 28.3                |\n| 35                        | 29.1                |\n| 40                        | 30.1                |\n| 50                        | 30.0                |\n| 60                        | 29.1                |\n\nA quadratic function can be used to model the data in the table. Which value best estimates the miles per gallon when the speed is 65 miles per hour?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "27.9"
+    },
+    {
+      "label": "B",
+      "text": "31.0"
+    },
+    {
+      "label": "C",
+      "text": "40.2"
+    },
+    {
+      "label": "D",
+      "text": "24.9"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table: Car Mileage Experiment with two columns Speed, x (miles per hour) and Miles per Gallon, y with rows: 20 - 24.9, 30 - 28.3, 35 - 29.1, 40 - 30.1, 50 - 30.0, 60 - 29.1"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

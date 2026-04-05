@@ -1,0 +1,30 @@
+{
+  "stem": "The manager of a coffee shop recorded the number of customers who put vanilla creamer or chocolate creamer in their coffee during one hour and classified them by age. The results are shown in the table.\n\nCoffee Creamer\n\nVanilla  Chocolate\nAge 18\u201330  2  6\nAge 31+      4  8\n\nWhat percentage of these customers put chocolate creamer in their coffee during this hour?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "30%"
+    },
+    {
+      "label": "B",
+      "text": "14%"
+    },
+    {
+      "label": "C",
+      "text": "70%"
+    },
+    {
+      "label": "D",
+      "text": "75%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with coffee creamer data: vanilla and chocolate columns, age 18\u201330 and 31+ rows with values 2,6 and 4,8 respectively"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

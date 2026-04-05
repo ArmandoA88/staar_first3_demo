@@ -1,0 +1,30 @@
+{
+  "stem": "Although these proteins have different specific functions, they all \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "stop chemical reactions within the cell"
+    },
+    {
+      "label": "G",
+      "text": "synthesize molecules that signal other cells"
+    },
+    {
+      "label": "H",
+      "text": "help the cell interact with its external environment"
+    },
+    {
+      "label": "J",
+      "text": "remove large waste particles from the cytoplasm of the cell"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of four types of transmembrane proteins spanning a cell membrane"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

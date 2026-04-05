@@ -1,0 +1,30 @@
+{
+  "stem": "Which rule best describes this transformation?",
+  "instruction": "Triangle ABC was transformed to create triangle A'B'C'.",
+  "options": [
+    {
+      "label": "F",
+      "text": "(x, y) \\to (x, y - 7)"
+    },
+    {
+      "label": "G",
+      "text": "(x, y) \\to (x, -y)"
+    },
+    {
+      "label": "H",
+      "text": "(x, y) \\to (x - 7, y)"
+    },
+    {
+      "label": "J",
+      "text": "(x, y) \\to (-x, y)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate plane with triangles ABC and A'B'C' plotted, showing ABC in quadrant 1 and A'B'C' in quadrant 4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

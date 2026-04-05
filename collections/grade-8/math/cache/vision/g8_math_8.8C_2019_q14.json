@@ -1,0 +1,31 @@
+{
+  "stem": "What value of x makes this equation true?\n\n12x - 15 = 6 - 3x",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{7}{3}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{3}{7}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{5}{7}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{7}{5}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: 12x - 15 = 6 - 3x",
+    "fractions in options"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

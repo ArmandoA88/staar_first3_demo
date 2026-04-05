@@ -1,0 +1,30 @@
+{
+  "stem": "The National Foundation for Infantile Paralysis, later renamed the March of Dimes, was established in 1938 and . . . was a grassroots campaign run primarily by volunteers. Over the years, millions of people gave small amounts of money to support both the care of people who got _____1_____ and research into prevention and treatment. Those contributions financed Jonas Salk, Albert Sabin, and the other researchers who developed the . . . _____2_____ that children around the world receive today.\n\n\u2014\"March of Dimes,\" National Museum of American History, www.americanhistory.si.edu/ (accessed July 19, 2012)",
+  "instruction": "Which words correctly complete this excerpt?",
+  "options": [
+    {
+      "label": "A",
+      "text": "1: chicken pox, 2: antibiotics"
+    },
+    {
+      "label": "B",
+      "text": "1: tuberculosis, 2: iron lung treatment"
+    },
+    {
+      "label": "C",
+      "text": "1: polio, 2: vaccines"
+    },
+    {
+      "label": "D",
+      "text": "1: whooping cough, 2: serum"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text box containing excerpt from \"March of Dimes,\" citation, and blanks 1 and 2"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

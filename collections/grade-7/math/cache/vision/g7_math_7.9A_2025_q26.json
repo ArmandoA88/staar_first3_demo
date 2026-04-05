@@ -1,0 +1,30 @@
+{
+  "stem": "A rectangular pyramid is shown with its dimensions in centimeters.",
+  "instruction": "What is the volume of the rectangular pyramid in cubic centimeters?",
+  "options": [
+    {
+      "label": "A",
+      "text": "114 cm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "342 cm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "180 cm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "540 cm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A rectangular pyramid with base dimensions 15 cm by 4 cm and height 9 cm."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

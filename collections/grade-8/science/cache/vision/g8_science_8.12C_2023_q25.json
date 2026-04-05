@@ -1,0 +1,33 @@
+{
+  "stem": "Students make plans to construct an ecosystem in a large aquarium. Four ecosystem plans are listed. All plans include soil and water.\n\nWhich ecosystem is MOST LIKELY to be sustainable?",
+  "instruction": "Part A",
+  "options": [
+    {
+      "label": "A",
+      "text": "Ecosystem Plan 1\n\u2022 Elodea plants\n\u2022 Goldfish\n\u2022 Zebra fish\n\u2022 Rocks"
+    },
+    {
+      "label": "B",
+      "text": "Ecosystem Plan 2\n\u2022 Elodea plants\n\u2022 Goldfish\n\u2022 Colorful gravel"
+    },
+    {
+      "label": "C",
+      "text": "Ecosystem Plan 3\n\u2022 Elodea plants\n\u2022 Water lily plants\n\u2022 Lace ferns"
+    },
+    {
+      "label": "D",
+      "text": "Ecosystem Plan 4\n\u2022 Elodea plants\n\u2022 Lace ferns\n\u2022 Goldfish\n\u2022 Snails"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Ecosystem Plan 1 list",
+    "Ecosystem Plan 2 list",
+    "Ecosystem Plan 3 list",
+    "Ecosystem Plan 4 list"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

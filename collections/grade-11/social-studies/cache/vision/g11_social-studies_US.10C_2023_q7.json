@@ -1,0 +1,18 @@
+{
+  "stem": "This table lists important events during the United States\u2019 involvement in the Middle East between 1970 and 1990.\n\nIdentify the causes and effects that are missing from the table.\n\nMove each cause or effect into the correct box in the table.",
+  "instruction": "Move each cause or effect into the correct box in the table.",
+  "options": [],
+  "choice_pool": [
+    "Terrorist attack occurs on U.S. Marines in Lebanon.",
+    "U.S. government supports Israel.",
+    "Disputes occur over Israeli control of the Sinai Peninsula.",
+    "The fuel shortage crisis begins."
+  ],
+  "response_template": "Cause: [blank_1]\nEvent: The Organization of the Petroleum Exporting Countries (OPEC) members announce a production embargo.\nEffect: [blank_2]\n\nCause: [blank_3]\nEvent: The Camp David Accords are brokered by President Jimmy Carter.\nEffect: A long-term peace agreement is established between Egypt and Israel.\n\nCause: The Arab-Israeli conflict erupts in Lebanon.\nEvent: Peacekeeping forces are stationed to enforce the ceasefire agreement between Israel and the Palestine Liberation Organization (PLO).\nEffect: [blank_4]",
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "The problem is a drag and drop item with four blanks and four draggable cause/effect tokens provided."
+}

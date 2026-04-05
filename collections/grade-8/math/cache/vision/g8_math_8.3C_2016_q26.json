@@ -1,0 +1,30 @@
+{
+  "stem": "Circle I was dilated with the origin as the center of dilation to create Circle II.\n\nWhich rule best represents the dilation applied to Circle I to create Circle II?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(x, y) \\rightarrow \\left(\\frac{3}{8}x, \\frac{3}{8}y\\right)"
+    },
+    {
+      "label": "G",
+      "text": "(x, y) \\rightarrow \\left(\\frac{8}{3}x, \\frac{8}{3}y\\right)"
+    },
+    {
+      "label": "H",
+      "text": "(x, y) \\rightarrow (x + 5, y + 5)"
+    },
+    {
+      "label": "J",
+      "text": "(x, y) \\rightarrow (x - 5, y - 5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing two circles centered on the origin; Circle I is smaller with radius about 3 units, Circle II is larger with radius about 8 units"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

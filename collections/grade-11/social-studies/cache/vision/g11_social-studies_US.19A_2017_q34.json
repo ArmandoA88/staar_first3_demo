@@ -1,0 +1,33 @@
+{
+  "stem": "How does this resolution demonstrate the principle of checks and balances?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "It expands the power of judicial review to military courts."
+    },
+    {
+      "label": "G",
+      "text": "It allows the executive to determine the length of military conflicts."
+    },
+    {
+      "label": "H",
+      "text": "It allows Congress to limit the military authority of the executive branch."
+    },
+    {
+      "label": "J",
+      "text": "It gives Congress oversight of military strategy and operations."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Selected Features of the War Powers Resolution, 1973",
+    "\u2022 The president may only make use of armed forces following a declaration of war, authorization by Congress, or an attack on the United States.",
+    "\u2022 The president must consult with Congress regularly regarding the use of armed forces as long as troops remain in hostile situations.",
+    "\u2022 Within 60 days the president will end the use of armed forces unless Congress acts to approve continued military action."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

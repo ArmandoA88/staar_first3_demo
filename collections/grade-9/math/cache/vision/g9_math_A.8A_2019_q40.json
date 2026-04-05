@@ -1,0 +1,30 @@
+{
+  "stem": "Which value of x is a solution to this equation?\n\n5x^2 - 36x + 36 = 0",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x = -6"
+    },
+    {
+      "label": "G",
+      "text": "x = 4"
+    },
+    {
+      "label": "H",
+      "text": "x = -1.8"
+    },
+    {
+      "label": "J",
+      "text": "x = 1.2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "5x^2 - 36x + 36 = 0"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

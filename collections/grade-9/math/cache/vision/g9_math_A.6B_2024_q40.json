@@ -1,0 +1,34 @@
+{
+  "stem": "Which function is equivalent to f(x) = 4(x - 3)^2 + 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "f(x) = 16x^2 - 96x + 149"
+    },
+    {
+      "label": "B",
+      "text": "f(x) = 4x^2 + 41"
+    },
+    {
+      "label": "C",
+      "text": "f(x) = 4x^2 - 24x + 41"
+    },
+    {
+      "label": "D",
+      "text": "f(x) = 16x^2 - 96x + 29"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "f(x) = 4(x - 3)^2 + 5",
+    "f(x) = 16x^2 - 96x + 149",
+    "f(x) = 4x^2 + 41",
+    "f(x) = 4x^2 - 24x + 41",
+    "f(x) = 16x^2 - 96x + 29"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,32 @@
+{
+  "stem": "Disagreements between these two cabinet members led to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "the creation of reservations for American Indians"
+    },
+    {
+      "label": "B",
+      "text": "a struggle to ratify the Bill of Rights"
+    },
+    {
+      "label": "C",
+      "text": "the establishment of the first U.S. political parties"
+    },
+    {
+      "label": "D",
+      "text": "a compromise over slavery in western territories"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Leading Members of President George Washington's Cabinet",
+    "Secretary of State Thomas Jefferson",
+    "Secretary of the Treasury Alexander Hamilton"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

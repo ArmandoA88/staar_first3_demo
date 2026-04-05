@@ -1,0 +1,62 @@
+{
+  "stem": "The equation of line n is y = -\\frac{3}{5}x + 6. Line p is parallel to line n and passes through the point (15, -6). What is the equation of line p in slope-intercept form? Move the correct answer to each box. Each answer may be used more than once. Not all answers will be used.",
+  "instruction": "Move the correct answer to each box.",
+  "options": [
+    {
+      "label": "-31",
+      "text": "-31"
+    },
+    {
+      "label": "-15",
+      "text": "-15"
+    },
+    {
+      "label": "-\\frac{5}{3}",
+      "text": "-\\frac{5}{3}"
+    },
+    {
+      "label": "-\\frac{3}{5}",
+      "text": "-\\frac{3}{5}"
+    },
+    {
+      "label": "\\frac{3}{5}",
+      "text": "\\frac{3}{5}"
+    },
+    {
+      "label": "\\frac{5}{3}",
+      "text": "\\frac{5}{3}"
+    },
+    {
+      "label": "3",
+      "text": "3"
+    },
+    {
+      "label": "19",
+      "text": "19"
+    }
+  ],
+  "choice_pool": [
+    "-31",
+    "-15",
+    "-\\frac{5}{3}",
+    "-\\frac{3}{5}",
+    "\\frac{3}{5}",
+    "\\frac{5}{3}",
+    "3",
+    "19"
+  ],
+  "response_template": "y = [blank_1] x + [blank_2]",
+  "visual_elements": [
+    "\\frac{3}{5}",
+    "\\frac{5}{3}",
+    "3",
+    "-31",
+    "-15",
+    "-\\frac{5}{3}",
+    "-\\frac{3}{5}",
+    "19"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

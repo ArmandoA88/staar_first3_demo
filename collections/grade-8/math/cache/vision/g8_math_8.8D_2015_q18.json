@@ -1,0 +1,30 @@
+{
+  "stem": "In each diagram, line p is parallel to line f, and line t intersects lines p and f.\n\nBased on these diagrams, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The value of x should be 75, because the angles shown in the diagrams are congruent."
+    },
+    {
+      "label": "B",
+      "text": "The value of x should be 105, because the measures of the angles shown in the diagrams add up to 180\u00b0."
+    },
+    {
+      "label": "C",
+      "text": "The value of x should be 140, because the measures of the angles shown in the diagrams should add up to 360\u00b0 and 360  \u2212 (110 + 110) = 140."
+    },
+    {
+      "label": "D",
+      "text": "The value of x should be 70, because the measures of the angles shown in the diagrams are both 70\u00b0."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four diagrams, each showing lines p and f parallel, intersected by line t.\n1. Two lines p and f with angles 70\u00b0 indicated on alternate interior angles.\n2. Two lines p and f with right angles indicated.\n3. Two lines p and f with angles 110\u00b0 indicated on alternate interior angles.\n4. Two lines p and f with angle 75\u00b0 on p and angle x\u00b0 on f."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

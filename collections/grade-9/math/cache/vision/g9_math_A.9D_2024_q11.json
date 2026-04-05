@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement about the graph of y = 16(0.5)^x is NOT true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The y-intercept is (0, 16)."
+    },
+    {
+      "label": "B",
+      "text": "The graph is decreasing for all values of x."
+    },
+    {
+      "label": "C",
+      "text": "The x-intercept is (0.5, 0)."
+    },
+    {
+      "label": "D",
+      "text": "The graph has a horizontal asymptote at y = 0."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "y = 16(0.5)^x"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 0.99,
+  "notes": null
+}

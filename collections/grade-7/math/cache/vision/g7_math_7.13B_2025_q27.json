@@ -1,0 +1,30 @@
+{
+  "stem": "Roberto\u2019s monthly budget is shown in the table.\n\nRoberto\u2019s total monthly income is $5,000. Complete the statement about Roberto\u2019s budget.",
+  "instruction": "Move the correct answer to each box. Each answer may be used more than once.",
+  "options": [
+    {
+      "label": null,
+      "text": "less than"
+    },
+    {
+      "label": null,
+      "text": "exactly"
+    },
+    {
+      "label": null,
+      "text": "more than"
+    }
+  ],
+  "choice_pool": [
+    "less than",
+    "exactly",
+    "more than"
+  ],
+  "response_template": "Roberto spends [blank_1] $1,000 on rent each month and [blank_2] $500 on insurance each month.",
+  "visual_elements": [
+    "Roberto\u2019s Monthly Budget table with categories and percentages:\nCategory           Percentage\nSavings            8%\nRent               24%\nCar expenses       15%\nUtilities          12%\nInsurance          10%\nCell phone/internet 8%\nGroceries          5%\nMiscellaneous      18%"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

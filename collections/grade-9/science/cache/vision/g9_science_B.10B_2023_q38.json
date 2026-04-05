@@ -1,0 +1,30 @@
+{
+  "stem": "Which question would BEST help determine whether the change in eye span in stalk-eyed flies was influenced by natural selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Is the eye span of male stalk-eyed flies similar to that of female flies?"
+    },
+    {
+      "label": "B",
+      "text": "What is the relationship between the body length and eye span of stalk-eyed flies?"
+    },
+    {
+      "label": "C",
+      "text": "How does the eye span of stalk-eyed flies compare from one generation to the next?"
+    },
+    {
+      "label": "D",
+      "text": "Do fossilized stalk-eyed flies have a shorter body length than living flies?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Figure with two stalk-eyed flies: one fossilized in Baltic amber with smaller eye span and body length labeled, and one living with larger eye span and body length labeled"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

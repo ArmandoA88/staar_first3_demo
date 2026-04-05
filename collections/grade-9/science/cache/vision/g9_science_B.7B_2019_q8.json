@@ -1,0 +1,30 @@
+{
+  "stem": "Students are modeling mRNA during the process of protein synthesis. Which answer choice correctly describes the model of the mRNA strand being transcribed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The mRNA strand is complementary to the DNA template strand; however, uracil instead of adenine is paired with thymine."
+    },
+    {
+      "label": "G",
+      "text": "The mRNA strand is complementary to the DNA template strand; however, uracil instead of thymine is paired with adenine."
+    },
+    {
+      "label": "H",
+      "text": "The mRNA strand is an exact copy of the DNA template strand; however, uracil instead of adenine is paired with thymine."
+    },
+    {
+      "label": "J",
+      "text": "The mRNA strand is an exact copy of the DNA template strand; however, uracil instead of thymine is paired with adenine."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2019-Q8"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

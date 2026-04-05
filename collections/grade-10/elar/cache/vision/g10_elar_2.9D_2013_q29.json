@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *wears* to *wear's*"
+    },
+    {
+      "label": "B",
+      "text": "Change *towed* to *tows*"
+    },
+    {
+      "label": "C",
+      "text": "Change *buoy* to *bouy*"
+    },
+    {
+      "label": "D",
+      "text": "No change needs to be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

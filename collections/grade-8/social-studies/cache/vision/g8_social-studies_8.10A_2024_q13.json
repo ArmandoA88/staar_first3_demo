@@ -1,0 +1,30 @@
+{
+  "stem": "Which number on the map represents the site of the Battle of Gettysburg and President Lincoln\u2019s Gettysburg Address?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1"
+    },
+    {
+      "label": "B",
+      "text": "2"
+    },
+    {
+      "label": "C",
+      "text": "3"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map with numbered states 1, 2, 3, 4 in the northeastern and southeastern U.S."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which action best explains the differences shown in these photographs?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The United States gave economic assistance through the Marshall Plan."
+    },
+    {
+      "label": "B",
+      "text": "The United States and the Soviet Union created an alliance after World War II."
+    },
+    {
+      "label": "C",
+      "text": "U.S. leaders created the United Nations."
+    },
+    {
+      "label": "D",
+      "text": "The Soviet Union established the \u201cIron Curtain\u201d after World War II."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two black and white photographs showed. The first labeled 'French Steel Plant, 1945' shows a building with damaged roof and debris inside. The second labeled 'The Same French Steel Plant, 1948' shows the building repaired and clear of debris."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

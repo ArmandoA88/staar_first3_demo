@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents a line that has a slope of \\(\\frac{2}{3}\\) and a y-intercept of 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph with a line sloping downward through y=4."
+    },
+    {
+      "label": "B",
+      "text": "Graph with a line sloping downward through y=4."
+    },
+    {
+      "label": "C",
+      "text": "Graph with a line sloping upward through y=4."
+    },
+    {
+      "label": "D",
+      "text": "Graph with a line sloping upward through y=4."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, and D each with lines on coordinate planes indicating different slopes and intercepts."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

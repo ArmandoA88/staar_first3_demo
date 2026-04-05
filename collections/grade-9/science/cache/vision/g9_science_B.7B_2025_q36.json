@@ -1,0 +1,32 @@
+{
+  "stem": "Based on the codon chart, what sequence of amino acids is produced when this mRNA is translated?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Thr - Asn - Glu"
+    },
+    {
+      "label": "B",
+      "text": "Cys - Phe - Leu"
+    },
+    {
+      "label": "C",
+      "text": "Ser - Cys - Arg"
+    },
+    {
+      "label": "D",
+      "text": "Ser - Trp - Asp"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "5' UCU UGU CGA 3'",
+    "Codon chart with rows labeled First mRNA Base U, C, A, G and columns labeled Second mRNA Base U, C, A, G and the third mRNA Base U, C, A, G",
+    "Each cell shows the corresponding amino acid for the combination of first, second, and third bases"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

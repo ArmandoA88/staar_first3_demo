@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the image, which of these **BEST** describes the structure and function of the organelle identified as X?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Endoplasmic reticulum, which carries nucleotides as a DNA strand is being transcribed"
+    },
+    {
+      "label": "B",
+      "text": "Endoplasmic reticulum, which carries nucleotides as a DNA strand is being translated"
+    },
+    {
+      "label": "C",
+      "text": "Ribosome, which holds the mRNA in place as amino acids are transported by tRNA"
+    },
+    {
+      "label": "D",
+      "text": "Ribosome, which holds the tRNA in place as amino acids are transported by mRNA"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A diagram showing a strand labeled 5' to 3' with a chain of circles beneath it and a dark rounded structure labeled X attached to the strand."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "The problem is a standard multiple choice question about the function of an organelle labeled X in the image."
+}

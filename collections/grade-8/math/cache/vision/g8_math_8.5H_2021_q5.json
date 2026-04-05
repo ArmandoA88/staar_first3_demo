@@ -1,0 +1,30 @@
+{
+  "stem": "Which table represents a non-proportional relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x | y\n1 | -4\n3 | -12\n7 | -28\n15 | -60"
+    },
+    {
+      "label": "B",
+      "text": "x | y\n-17 | 93.5\n-5 | 27.5\n2 | -11\n10 | -55"
+    },
+    {
+      "label": "C",
+      "text": "x | y\n1 | 7.5\n4 | 30\n7 | 52.5\n10 | 75"
+    },
+    {
+      "label": "D",
+      "text": "x | y\n-5 | 11\n-1 | -1\n1 | -7\n8 | -28"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled A, B, C, and D each showing pairs of values for x and y."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

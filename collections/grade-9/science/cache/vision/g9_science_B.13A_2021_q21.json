@@ -1,0 +1,30 @@
+{
+  "stem": "In an experiment, two plants are grown together for a time and then separated. Plant 2 is a parasite of Plant 1.\n\nWhich graph best predicts the growth of Plant 1 and Plant 2 during the experiment?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph showing Plant 1 mass increasing constantly, Plant 2 mass increasing slowly together, then both continue increasing after separated)"
+    },
+    {
+      "label": "B",
+      "text": "(Graph showing Plant 1 and Plant 2 mass increasing together then both decreasing after separated)"
+    },
+    {
+      "label": "C",
+      "text": "(Graph showing Plant 1 mass increasing steadily, Plant 2 mass increasing then sharply decreasing after separated)"
+    },
+    {
+      "label": "D",
+      "text": "(Graph showing Plant 1 and Plant 2 mass increasing together, both increase more steeply after separated)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, D each with two lines labeled Plant 1 (solid) and Plant 2 (dashed). X axis labeled Time with points Together and Separated. Y axis labeled Plant Mass."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": "Graphs described rather than depicted in JSON text to preserve exact math and wording as requested."
+}

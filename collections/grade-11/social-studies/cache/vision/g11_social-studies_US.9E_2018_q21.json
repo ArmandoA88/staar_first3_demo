@@ -1,0 +1,30 @@
+{
+  "stem": "Which organizations correctly complete this table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1 NAACP  2 Black Panthers  3 SNCC"
+    },
+    {
+      "label": "B",
+      "text": "1 SNCC  2 CORE  3 Black Panthers"
+    },
+    {
+      "label": "C",
+      "text": "1 Black Panthers  2 SNCC  3 NAACP"
+    },
+    {
+      "label": "D",
+      "text": "1 CORE  2 NAACP  3 AIM"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns 'Organization' and 'Description' with rows: 1 - Members armed themselves and were willing to take necessary means to protect their homes and families. 2 - Leaders enforced the use of nonviolence among those engaging in sit-ins and other protest activities. 3 - Leaders worked with existing laws and within the court system to increase the rights of African Americans."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

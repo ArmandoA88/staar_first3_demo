@@ -1,0 +1,30 @@
+{
+  "stem": "Which chart correctly identifies reasons for and against ratification of the proposed U.S. Constitution?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Should the Proposed U.S. Constitution Be Ratified?\n\nFor: The proposed document expands state authority.\nAgainst: The proposed document lacks a provision for a central bank."
+    },
+    {
+      "label": "G",
+      "text": "Should the Proposed U.S. Constitution Be Ratified?\n\nFor: The proposed document prevents foreign entanglements.\nAgainst: The proposed document restricts the legislative branch."
+    },
+    {
+      "label": "H",
+      "text": "Should the Proposed U.S. Constitution Be Ratified?\n\nFor: The proposed document increases the power of the national government.\nAgainst: The proposed document lacks a bill of rights."
+    },
+    {
+      "label": "J",
+      "text": "Should the Proposed U.S. Constitution Be Ratified?\n\nFor: The proposed document expands the power of local governments.\nAgainst: The proposed document limits the authority of the executive branch."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four side-by-side charts labeled F, G, H, J with For and Against columns listing reasons related to the proposed U.S. Constitution"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

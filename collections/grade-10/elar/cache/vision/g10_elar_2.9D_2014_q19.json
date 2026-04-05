@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 16 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change completed to completted"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after handwriting"
+    },
+    {
+      "label": "C",
+      "text": "Change carefully prepared to I carefully prepared"
+    },
+    {
+      "label": "D",
+      "text": "Change recomendation to recommendation"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

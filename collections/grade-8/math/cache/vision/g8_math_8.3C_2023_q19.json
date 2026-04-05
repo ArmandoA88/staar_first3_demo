@@ -1,0 +1,30 @@
+{
+  "stem": "A rectangle is graphed on a coordinate plane. The table shows the original vertices and the new vertices after a scale factor with center of dilation at (0, 0) is applied.\n\nRectangle Dilation\n\n| Vertices of Original Rectangle | Vertices of Dilated Rectangle |\n|--------------------------------|-------------------------------|\n| (12, 9)                        | (8, 6)                        |\n| (12, -9)                      | (8, -6)                       |\n| (-12, -9)                     | (-8, -6)                      |\n| (-12, 9)                      | (-8, 6)                       |\n\nWhat rule is applied to the original rectangle to create the new rectangle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(x, y) \\rightarrow \\left(\\frac{3}{2}x, \\frac{3}{2}y\\right)"
+    },
+    {
+      "label": "B",
+      "text": "(x, y) \\rightarrow \\left(\\frac{2}{3}x, \\frac{2}{3}y\\right)"
+    },
+    {
+      "label": "C",
+      "text": "(x, y) \\rightarrow (x - 4, y - 3)"
+    },
+    {
+      "label": "D",
+      "text": "(x, y) \\rightarrow (x + 4, y - 3)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

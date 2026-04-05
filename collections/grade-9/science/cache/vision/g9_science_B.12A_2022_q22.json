@@ -1,0 +1,30 @@
+{
+  "stem": "Which sequence best describes an interaction between the integumentary and excretory systems that helps maintain homeostasis?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Heart rate increases \u2192 Blood vessels constrict \u2192 Blood pressure increases"
+    },
+    {
+      "label": "G",
+      "text": "Blood vessel is damaged \u2192 Platelets begin to clump \u2192 Blood vessel ruptures"
+    },
+    {
+      "label": "H",
+      "text": "Blood sugar levels rise \u2192 Pancreas secretes insulin \u2192 Blood sugar continues to rise"
+    },
+    {
+      "label": "J",
+      "text": "Body temperature increases \u2192 Glands release sweat \u2192 Body temperature decreases"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "sequence arrows"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

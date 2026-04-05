@@ -1,0 +1,28 @@
+{
+  "stem": "The outside temperature at 4:00 P.M. was 8 degrees Celsius. The temperature decreased 2.5 \u00b0C each hour until 10:00 P.M.\n\nWhat was the temperature at 10:00 P.M.?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\u2013 15 \u00b0C"
+    },
+    {
+      "label": "B",
+      "text": "\u2013 2 \u00b0C"
+    },
+    {
+      "label": "C",
+      "text": "\u2013 7 \u00b0C"
+    },
+    {
+      "label": "D",
+      "text": "\u2013 4 \u00b0C"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

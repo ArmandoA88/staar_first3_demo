@@ -1,0 +1,31 @@
+{
+  "stem": "Which amino acid would be coded first from the DNA strand being transcribed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Cys"
+    },
+    {
+      "label": "G",
+      "text": "Phe"
+    },
+    {
+      "label": "H",
+      "text": "Ile"
+    },
+    {
+      "label": "J",
+      "text": "Met"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Model of transcription diagram with DNA and RNA transcript sequence.",
+    "Codon chart showing amino acid codes based on three-base codons."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

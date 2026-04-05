@@ -1,0 +1,30 @@
+{
+  "stem": "Which evidence would BEST support the claim that the phenotypes of these populations of mice are a result of natural selection?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A mutation in the same gene led to the coastal populations having the same coat color."
+    },
+    {
+      "label": "B",
+      "text": "An allele for light coat color is more common in the coastal populations than the inland population."
+    },
+    {
+      "label": "C",
+      "text": "The genes that code for a light coat color have been lost from the inland population."
+    },
+    {
+      "label": "D",
+      "text": "The coastal and inland populations all share the same alleles for coat color."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with Location, Phenotype, Agouti Gene, Mc1r Gene data for Gulf coast, Atlantic coast, and Inland populations"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Includes a data table and question with four answer choices labeled A-D."
+}

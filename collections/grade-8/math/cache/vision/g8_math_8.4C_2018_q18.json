@@ -1,0 +1,30 @@
+{
+  "stem": "A gym charges a membership fee plus an additional fee per yoga class. The table shows the linear relationship between the number of yoga classes taken and the total cost including the membership fee.\n\nYoga Classes\n\n| Number of Yoga Classes | Total Cost |\n|------------------------|------------|\n| 6                      | $67.50     |\n| 8                      | $75.00     |\n| 10                     | $82.50     |\n| 14                     | $97.50     |\n| 20                     | $120.00    |\n\nWhich statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The additional fee per yoga class is $3.75."
+    },
+    {
+      "label": "G",
+      "text": "The additional fee per yoga class is $8.25."
+    },
+    {
+      "label": "H",
+      "text": "The membership fee is $35.00."
+    },
+    {
+      "label": "J",
+      "text": "The membership fee is $42.50."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns Number of Yoga Classes and Total Cost, rows (6, $67.50), (8, $75.00), (10, $82.50), (14, $97.50), (20, $120.00)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

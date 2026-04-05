@@ -1,0 +1,28 @@
+{
+  "stem": "A tank starts off containing 1,060 gallons of water, and 35 gallons of water leaks from the tank every hour. At the same time, an empty pool is filled with water at a rate of 480 gallons per hour.\n\nWhich inequality represents all possible values for x, the number of hours that have passed when the tank contains less water than the pool?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "1,060 + 35x > 480x"
+    },
+    {
+      "label": "B",
+      "text": "1,060 - 35x > 480x"
+    },
+    {
+      "label": "C",
+      "text": "1,060 - 35x < 480x"
+    },
+    {
+      "label": "D",
+      "text": "1,060 + 35x < 480x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

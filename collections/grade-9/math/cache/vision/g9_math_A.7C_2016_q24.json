@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of f(x) = x^2 is shown on the grid.\n\nWhich statement about the relationship between the graph of f and the graph of g(x) = 7x^2 is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The graph of g is narrower than the graph of f."
+    },
+    {
+      "label": "G",
+      "text": "The graph of g is wider than the graph of f."
+    },
+    {
+      "label": "H",
+      "text": "The graph of g is 7 units below the graph of f."
+    },
+    {
+      "label": "J",
+      "text": "The graph of g is 7 units above the graph of f."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of f(x) = x^2 on coordinate plane with x and y axes labeled and grid lines"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

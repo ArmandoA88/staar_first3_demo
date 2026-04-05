@@ -1,0 +1,30 @@
+{
+  "stem": "Which statement best represents the equation of the line shown on the grid and its relationship to the x-axis?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The equation of the line is \\( x = 2.5 \\), and the line is parallel to the x-axis."
+    },
+    {
+      "label": "B",
+      "text": "The equation of the line is \\( x = 2.5 \\), and the line is perpendicular to the x-axis."
+    },
+    {
+      "label": "C",
+      "text": "The equation of the line is \\( y = 2.5 \\), and the line is parallel to the x-axis."
+    },
+    {
+      "label": "D",
+      "text": "The equation of the line is \\( y = 2.5 \\), and the line is perpendicular to the x-axis."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "grid with x and y axes, horizontal line at y=2.5"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

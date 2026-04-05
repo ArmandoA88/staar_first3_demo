@@ -1,0 +1,30 @@
+{
+  "stem": "Nicolas has $650 to deposit into two different savings accounts.\n\n\u2022 Nicolas will deposit $400 into Account I, which earns 3.5% annual simple interest.\n\n\u2022 He will deposit $250 into Account II, which earns 3\\frac{1}{4}% interest compounded annually.\n\nNicolas will not make any additional deposits or withdrawals. Which amount is closest to the total balance of these two accounts at the end of 2 years?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$672.13"
+    },
+    {
+      "label": "B",
+      "text": "$695.00"
+    },
+    {
+      "label": "C",
+      "text": "$694.25"
+    },
+    {
+      "label": "D",
+      "text": "$694.51"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3\\frac{1}{4}%"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

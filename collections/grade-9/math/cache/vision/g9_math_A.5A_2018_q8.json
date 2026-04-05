@@ -1,0 +1,30 @@
+{
+  "stem": "What value of n makes the equation 4(0.5n - 3) = n - 0.25(12 - 8n) true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3"
+    },
+    {
+      "label": "G",
+      "text": "-9"
+    },
+    {
+      "label": "H",
+      "text": "0"
+    },
+    {
+      "label": "J",
+      "text": "-15"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "4(0.5n - 3) = n - 0.25(12 - 8n)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

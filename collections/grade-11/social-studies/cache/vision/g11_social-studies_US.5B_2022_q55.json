@@ -1,0 +1,30 @@
+{
+  "stem": "What was the immediate response to the practices mentioned in this excerpt?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Monopolies formed to control competition in the meat-processing industry."
+    },
+    {
+      "label": "B",
+      "text": "Meat packers developed refrigerated railroad cars to ship meat nationwide."
+    },
+    {
+      "label": "C",
+      "text": "Congress passed legislation to protect consumer health and safety."
+    },
+    {
+      "label": "D",
+      "text": "Farmers demanded government regulation of livestock sales and distribution."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "There was never the least attention paid to what was cut up for sausage; there would come all the way back from Europe old sausage that had been rejected, and that was mouldy and white\u2014it would be dosed with borax and glycerine, and dumped into the hoppers, and made over again for home consumption. \u2014Upton Sinclair, The Jungle, 1906"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

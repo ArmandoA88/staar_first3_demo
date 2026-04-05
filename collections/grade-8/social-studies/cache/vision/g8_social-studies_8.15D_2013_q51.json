@@ -1,0 +1,30 @@
+{
+  "stem": "Which principle of U.S. government is illustrated in the sequence shown above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Judicial review"
+    },
+    {
+      "label": "B",
+      "text": "Checks and balances"
+    },
+    {
+      "label": "C",
+      "text": "Popular sovereignty"
+    },
+    {
+      "label": "D",
+      "text": "Federalism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Congress passes a bill. \u2192 The president vetoes the bill. \u2192 Congress overrides the presidential veto."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

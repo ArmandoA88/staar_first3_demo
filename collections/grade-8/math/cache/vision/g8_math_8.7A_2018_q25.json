@@ -1,0 +1,31 @@
+{
+  "stem": "Snacks at a county fair are sold in containers shaped like a cone or a cylinder. The dimensions of each container are shown in the drawing.\n\nWhich statement about the volumes of the cone and the cylinder is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The volume of the cylinder is about 377 cubic inches greater than the volume of the cone."
+    },
+    {
+      "label": "B",
+      "text": "The volume of the cylinder is about 377 cubic inches less than the volume of the cone."
+    },
+    {
+      "label": "C",
+      "text": "The volume of the cylinder is about 25 cubic inches greater than the volume of the cone."
+    },
+    {
+      "label": "D",
+      "text": "The volume of the cylinder is about 25 cubic inches less than the volume of the cone."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cone with radius 4 in and height 12 in",
+    "Cylinder with radius 3 in and height 8 in"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

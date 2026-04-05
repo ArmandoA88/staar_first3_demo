@@ -1,0 +1,30 @@
+{
+  "stem": "An organization has a monthly budget of x dollars. Every month $2,070 is spent on salaries. One-fourth of the remaining budget is spent on monthly activities. Which function can be used to find the amount in dollars spent on monthly activities?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "f(x) = 2,070 + \\frac{x}{4}"
+    },
+    {
+      "label": "B",
+      "text": "f(x) = 2,070 - \\frac{x}{4}"
+    },
+    {
+      "label": "C",
+      "text": "f(x) = \\frac{x + 2,070}{4}"
+    },
+    {
+      "label": "D",
+      "text": "f(x) = \\frac{x - 2,070}{4}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equations with fractions and function notation"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

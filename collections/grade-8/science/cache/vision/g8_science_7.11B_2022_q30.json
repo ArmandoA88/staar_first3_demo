@@ -1,0 +1,30 @@
+{
+  "stem": "Humans depend upon food that comes from the ocean. Some human activities negatively impact these food supplies.\n\nWhich statement provides the best evidence that human activities contribute to this impact?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Human visitors to coral reef systems break corals growing on rocks."
+    },
+    {
+      "label": "G",
+      "text": "Humans catch marine fish at a faster rate than the fish are able to reproduce."
+    },
+    {
+      "label": "H",
+      "text": "Humans raise fish in a hatchery for commercial sale."
+    },
+    {
+      "label": "J",
+      "text": "Humans construct artificial reefs to attract tourists."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text of the question with answer choices F, G, H, J."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

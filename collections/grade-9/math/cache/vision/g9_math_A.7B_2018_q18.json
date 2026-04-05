@@ -1,0 +1,34 @@
+{
+  "stem": "Which statement about g(x) = x^2 - 576 is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The zeros, -288 and 288, can be found when 0 = (x + 288)(x - 288)."
+    },
+    {
+      "label": "G",
+      "text": "The only zero, 288, can be found when 0 = (x - 288)^2."
+    },
+    {
+      "label": "H",
+      "text": "The zeros, -24 and 24, can be found when 0 = (x + 24)(x - 24)."
+    },
+    {
+      "label": "J",
+      "text": "The only zero, 24, can be found when 0 = (x - 24)^2."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "g(x) = x^2 - 576",
+    "0 = (x + 288)(x - 288)",
+    "0 = (x - 288)^2",
+    "0 = (x + 24)(x - 24)",
+    "0 = (x - 24)^2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

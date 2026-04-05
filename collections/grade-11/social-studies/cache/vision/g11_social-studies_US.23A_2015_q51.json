@@ -1,0 +1,30 @@
+{
+  "stem": "Who was most instrumental in the event described in this headline?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Rosa Parks"
+    },
+    {
+      "label": "B",
+      "text": "Ella Baker"
+    },
+    {
+      "label": "C",
+      "text": "Thurgood Marshall"
+    },
+    {
+      "label": "D",
+      "text": "Medgar Evers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "newspaper headline reading 'Segregation in Public Schools Outlawed' from Daily Star"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

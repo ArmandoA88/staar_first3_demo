@@ -1,0 +1,32 @@
+{
+  "stem": "Graph the function f(x) = 6 \\left( \\frac{1}{3} \\right)^x .",
+  "instruction": "Select the type of graph. Drag the two points and the asymptote, if applicable, to their correct positions.",
+  "options": [
+    {
+      "label": null,
+      "text": "Linear"
+    },
+    {
+      "label": null,
+      "text": "Quadratic"
+    },
+    {
+      "label": null,
+      "text": "Exponential"
+    }
+  ],
+  "choice_pool": [
+    "Linear",
+    "Quadratic",
+    "Exponential",
+    "two points",
+    "asymptote"
+  ],
+  "response_template": null,
+  "visual_elements": [
+    "graph with x-axis from -4 to 4 and y-axis from -8 to 8 with grid lines"
+  ],
+  "item_type_inferred": "Graphing",
+  "confidence": 0.99,
+  "notes": null
+}

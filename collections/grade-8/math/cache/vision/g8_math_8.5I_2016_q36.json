@@ -1,0 +1,30 @@
+{
+  "stem": "Mr. Leonard is renting a car for one day. The table below shows the total amount he will be charged for the car based on the number of miles he drives.\n\nCar Rental\n\n| Number of Miles, m | Total Amount Charged, c |\n|--------------------|------------------------|\n| 5                  | $30.50                 |\n| 10                 | $31.00                 |\n| 15                 | $31.50                 |\n| 20                 | $32.00                 |\n\nWhich equation best represents c, the number of dollars Mr. Leonard should be charged for driving m miles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "c = 0.10m + 30"
+    },
+    {
+      "label": "G",
+      "text": "c = 30m + 0.10"
+    },
+    {
+      "label": "H",
+      "text": "c = 0.50m + 30"
+    },
+    {
+      "label": "J",
+      "text": "c = 30m + 0.50"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

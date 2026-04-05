@@ -1,0 +1,30 @@
+{
+  "stem": "What is the most likely explanation for white-tailed deer having a seasonal breeding cycle instead of a monthly breeding cycle like many domesticated animals?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Male and female deer come into contact with each other only in the fall."
+    },
+    {
+      "label": "G",
+      "text": "Large predators are not found in deer habitats during the spring and summer months."
+    },
+    {
+      "label": "H",
+      "text": "Giving birth only in the spring and summer ensures that offspring are born when food is most available."
+    },
+    {
+      "label": "J",
+      "text": "Deer give birth in the spring and summer in order to avoid being pregnant during the hot summer months."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Deer Reproductive Cycle timeline showing: Deer breeding season from August to November; Female deer reproductive cycle from November to February; Birth of offspring in May and June"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

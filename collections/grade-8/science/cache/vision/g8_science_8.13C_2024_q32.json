@@ -1,0 +1,31 @@
+{
+  "stem": "There are many different species of rat snakes in the United States. Three species are described in the table.",
+  "instruction": "Which statement BEST explains these differences in color?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Each snake population adapted to a different environment over time."
+    },
+    {
+      "label": "B",
+      "text": "Each snake population moved to a different environment to reproduce."
+    },
+    {
+      "label": "C",
+      "text": "Each individual snake changed its color to match its environment."
+    },
+    {
+      "label": "D",
+      "text": "Each individual snake chose the best colors to pass to its offspring."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with three columns: Species, Color, Habitats",
+    "Rows for Texas rat snake, Yellow rat snake, Black rat snake with respective color and habitat information"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "Which expression is equivalent to 36m^2 - 100?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(9m - 20)(4m + 5)"
+    },
+    {
+      "label": "B",
+      "text": "4(3m - 5)(3m + 5)"
+    },
+    {
+      "label": "C",
+      "text": "2(2m - 5)(9m + 10)"
+    },
+    {
+      "label": "D",
+      "text": "4(3m - 5)^2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "36m^2 - 100",
+    "(9m - 20)(4m + 5)",
+    "4(3m - 5)(3m + 5)",
+    "2(2m - 5)(9m + 10)",
+    "4(3m - 5)^2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

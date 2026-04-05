@@ -1,0 +1,30 @@
+{
+  "stem": "Which option completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "President Richard Nixon's involvement in Watergate"
+    },
+    {
+      "label": "B",
+      "text": "The proposed ratification of the Equal Rights Amendment"
+    },
+    {
+      "label": "C",
+      "text": "President Jimmy Carter's negotiation of the Camp David Accords"
+    },
+    {
+      "label": "D",
+      "text": "The introduction of the Marshall Plan as official foreign policy"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The credibility gap during the Vietnam War + ? \u2192 Loss of trust in the federal government"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

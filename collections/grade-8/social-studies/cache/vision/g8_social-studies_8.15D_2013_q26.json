@@ -1,0 +1,30 @@
+{
+  "stem": "Which principle of U.S. government is most clearly reflected in the amendment above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Checks and balances"
+    },
+    {
+      "label": "G",
+      "text": "Federalism"
+    },
+    {
+      "label": "H",
+      "text": "Separation of powers"
+    },
+    {
+      "label": "J",
+      "text": "Due process"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people. \u2014Tenth Amendment, U.S. Constitution"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which sentence correctly completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Bracero program was introduced."
+    },
+    {
+      "label": "G",
+      "text": "The Chinese Exclusion Act was passed."
+    },
+    {
+      "label": "H",
+      "text": "Russian radicals joined labor unions in the United States."
+    },
+    {
+      "label": "J",
+      "text": "Irish families immigrated to the United States."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with 'Late 1800s' at top, left box: '\u2022 Poverty \u2022 Famine \u2022 Political oppression', right box: '\u2022 New Catholic churches were built. \u2022 Urban areas were expanded.', center circle with '?'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

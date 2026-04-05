@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the graph and your knowledge of U.S. history, which factor describes the PRIMARY cause for the population shift shown in the graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Economic opportunity"
+    },
+    {
+      "label": "B",
+      "text": "Government intervention"
+    },
+    {
+      "label": "C",
+      "text": "Social reform"
+    },
+    {
+      "label": "D",
+      "text": "Environmental disaster"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Bar graph titled 'Percentage of U.S. Urban Population, 1900-1930' with years 1900, 1910, 1920, 1930 on the x-axis and percentage from 0 to 90 on the y-axis, showing an increasing trend from about 40% in 1900 to about 57% in 1930."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "stem": "What is the MOST effective way to combine sentences 2 and 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Amir looked up from the kitchen table and his pencil sketches and scattered them across its smooth surface."
+    },
+    {
+      "label": "B",
+      "text": "Looking up from the kitchen table, the pencil sketches of Amir were scattered across its smooth surface."
+    },
+    {
+      "label": "C",
+      "text": "Amir looked up from the kitchen table, his pencil sketches scattered across its smooth surface."
+    },
+    {
+      "label": "D",
+      "text": "Scattered across the smooth surface of the table, Amir looked up from his pencil sketches."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

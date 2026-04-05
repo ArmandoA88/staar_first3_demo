@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 5 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Delete the comma after behind"
+    },
+    {
+      "label": "B",
+      "text": "Change me to I"
+    },
+    {
+      "label": "C",
+      "text": "Change will head to headed"
+    },
+    {
+      "label": "D",
+      "text": "Change east to East"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

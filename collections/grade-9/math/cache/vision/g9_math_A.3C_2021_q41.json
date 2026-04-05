@@ -1,0 +1,33 @@
+{
+  "stem": "Linear function t has an x-intercept of -1 and a y-intercept of 5. Which graph best represents t?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: line crossing x-axis near -1 and y-axis near 0, slight positive slope",
+    "Graph B: line crossing x-axis near 6 and y-axis near 6, steep negative slope",
+    "Graph C: line crossing x-axis near -1 and y-axis near 6, steep negative slope",
+    "Graph D: line crossing x-axis near 0 and y-axis near 6, steep positive slope"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

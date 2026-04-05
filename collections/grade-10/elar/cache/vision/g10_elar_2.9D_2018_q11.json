@@ -1,0 +1,30 @@
+{
+  "stem": "What change should be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change meandering to meanders"
+    },
+    {
+      "label": "B",
+      "text": "Change turquoise to turquoys"
+    },
+    {
+      "label": "C",
+      "text": "Delete the comma after pool"
+    },
+    {
+      "label": "D",
+      "text": "Change was to were"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

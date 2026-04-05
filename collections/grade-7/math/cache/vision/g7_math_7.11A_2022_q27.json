@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution set for this inequality?\n\n\\[-5d + 5\\frac{1}{2} \\leq 17\\]",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "d \\geq -2\\frac{3}{10}"
+    },
+    {
+      "label": "B",
+      "text": "d \\leq -2\\frac{3}{10}"
+    },
+    {
+      "label": "C",
+      "text": "d \\leq -4\\frac{1}{2}"
+    },
+    {
+      "label": "D",
+      "text": "d \\geq -4\\frac{1}{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "-5d + 5\\frac{1}{2} \\leq 17"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A survey was conducted to determine the food choices of the 80 students at a picnic. The types of picnic foods are shown in the circle graph.\n\nBased on the circle graph, how many more students chose pizza than students who chose salad?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "8"
+    },
+    {
+      "label": "B",
+      "text": "16"
+    },
+    {
+      "label": "C",
+      "text": "32"
+    },
+    {
+      "label": "D",
+      "text": "24"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Pie chart labeled Picnic Food with segments: Salad 10%, Sandwich 20%, Hamburger 15%, Hot dog 25%, Pizza 30%"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

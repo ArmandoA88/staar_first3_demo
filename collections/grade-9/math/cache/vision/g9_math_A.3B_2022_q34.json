@@ -1,0 +1,13 @@
+{
+  "stem": "The table shows the linear relationship between the distance in feet below sea level and the time in seconds traveled by a submarine.\n\nSubmarine\n\n| Time (seconds) | Distance Below Sea Level (feet) |\n|---------------|--------------------------------|\n| 0             | 460                            |\n| 18            | 604                            |\n| 34            | 732                            |\n| 52            | 876                            |\n| 70            | 1,020                          |\n\nWhat is the rate of change of the distance in feet below sea level with respect to time that the submarine traveled?",
+  "instruction": "Record your answer and fill in the bubbles on your answer document.",
+  "options": [],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with two columns: Time (seconds) and Distance Below Sea Level (feet) showing values (0,460), (18,604), (34,732), (52,876), (70,1020)"
+  ],
+  "item_type_inferred": "numeric-response",
+  "confidence": 1,
+  "notes": null
+}

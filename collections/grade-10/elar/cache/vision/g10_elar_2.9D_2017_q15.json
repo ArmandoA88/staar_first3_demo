@@ -1,0 +1,31 @@
+{
+  "stem": "What change, if any, should be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change cornerstone's to **cornerstones**"
+    },
+    {
+      "label": "B",
+      "text": "Change is to **are**"
+    },
+    {
+      "label": "C",
+      "text": "Change them to **you**"
+    },
+    {
+      "label": "D",
+      "text": "No change should be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2017 \u2013 Q15 Passage #4",
+    "15"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

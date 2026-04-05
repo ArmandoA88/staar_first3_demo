@@ -1,0 +1,31 @@
+{
+  "stem": "Which of these does NOT represent the distance a car travels when going 55 miles per hour?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "d = 55t, where d represents distance in miles and t represents time in hours"
+    },
+    {
+      "label": "B",
+      "text": "Car Travel\n\nTime (hours) | Distance (miles)\n1             | 55\n1.5           | 82.5\n2             | 110\n2.5           | 137.5"
+    },
+    {
+      "label": "C",
+      "text": "In 3 hours a car will travel a distance of 160 miles."
+    },
+    {
+      "label": "D",
+      "text": "(Graph showing a line from (0,0) to about (4,220) labeled with axes Time (hours) and Distance (miles))"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table labeled Car Travel with Time (hours) and Distance (miles)",
+    "graph labeled Car Travel with x-axis Time (hours) and y-axis Distance (miles) with a diagonal line"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "Option D graph shows a line inconsistent with 55 mph rate at 3 hours."
+}

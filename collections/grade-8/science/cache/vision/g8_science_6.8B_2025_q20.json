@@ -1,0 +1,30 @@
+{
+  "stem": "There are several energy transformations that occur when a person flips a light switch and a lamp turns on.\nStudents are asked to formulate a hypothesis about these energy conversions.\n\nWhich student hypothesis is correct?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Mechanical energy in the hand converts into chemical energy in the body and then is converted to light energy in the bulb."
+    },
+    {
+      "label": "B",
+      "text": "Mechanical energy in the hand converts into light energy in the bulb and is then converted to chemical energy."
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy in the body converts into light energy in the bulb and then is converted to electrical energy."
+    },
+    {
+      "label": "D",
+      "text": "Chemical energy in the body converts into mechanical energy in the hand and electrical energy in the bulb is converted to light energy."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2025-Q20"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "The model represents an equation.\n\n[image of 5 square boxes labeled x arranged 3 on top row, 2 on bottom] [image of 5 triangles labeled 1 arranged 2 on top row, 2 on bottom] = [image of 10 triangles labeled 1 arranged 5 on top row, 5 on bottom]\n\nWhat is the solution for the equation?",
+  "instruction": "What is the solution for the equation?",
+  "options": [
+    {
+      "label": "F",
+      "text": "x = \\frac{14}{5}"
+    },
+    {
+      "label": "G",
+      "text": "x = \\frac{6}{5}"
+    },
+    {
+      "label": "H",
+      "text": "x = \\frac{5}{4}"
+    },
+    {
+      "label": "J",
+      "text": "x = \\frac{15}{4}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Squares labeled x",
+    "Triangles labeled 1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

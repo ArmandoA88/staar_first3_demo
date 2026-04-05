@@ -1,0 +1,30 @@
+{
+  "stem": "There are 72 marbles in a jar. Records show that the probability of randomly selecting a red marble is \\( \\frac{1}{8} \\) and the probability of randomly selecting a green marble is \\( \\frac{1}{4} \\).\n\nWhich statement about the marbles in the jar is true?",
+  "instruction": "Select the correct answer.",
+  "options": [
+    {
+      "label": "A",
+      "text": "There are 9 red marbles and 18 green marbles in the jar."
+    },
+    {
+      "label": "B",
+      "text": "There are 8 red marbles and 27 green marbles in the jar."
+    },
+    {
+      "label": "C",
+      "text": "There are 9 red marbles and 27 green marbles in the jar."
+    },
+    {
+      "label": "D",
+      "text": "There are 8 red marbles and 18 green marbles in the jar."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "probability expressions \\( \\frac{1}{8} \\) and \\( \\frac{1}{4} \\)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

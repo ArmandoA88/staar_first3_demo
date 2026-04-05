@@ -1,0 +1,31 @@
+{
+  "stem": "The changes shown in these photographs most likely \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "helped improve workplace safety"
+    },
+    {
+      "label": "B",
+      "text": "increased the supply of natural resources"
+    },
+    {
+      "label": "C",
+      "text": "altered the makeup of natural ecosystems"
+    },
+    {
+      "label": "D",
+      "text": "helped decrease energy consumption"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph of Miami, 1913 showing natural landscape with trees, water, and barely any buildings.",
+    "Photograph of Miami, 1997 showing urban development with many buildings, roads, and altered landscape."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

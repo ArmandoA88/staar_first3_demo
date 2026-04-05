@@ -1,0 +1,30 @@
+{
+  "stem": "Which statements explain the impact of urban development on the physical environment?",
+  "instruction": "Select TWO choices that correctly answer the question.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Structures such as buildings [and] roads . . . absorb and [release] the sun\u2019s heat more than natural landscapes such as forests and water bodies. . . . These pockets of heat are referred to as \u201cheat islands.\u201d . . ."
+    },
+    {
+      "label": "B",
+      "text": "daytime temperatures in urban areas about 1\u20137\u00baF higher than temperatures in outlying areas"
+    },
+    {
+      "label": "C",
+      "text": "Heat islands are usually measured by the temperature difference between cities relative to the surrounding areas . . . ."
+    },
+    {
+      "label": "D",
+      "text": "In general, temperatures are different at the surface of the earth and in the atmospheric air, higher above the city"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text excerpt highlighting Heat Island effects"
+  ],
+  "item_type_inferred": "Multiple Select",
+  "confidence": 1,
+  "notes": "Answer choices A and B clearly explain the impact of urban development on the physical environment via heat island effects."
+}

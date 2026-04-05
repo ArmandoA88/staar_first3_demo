@@ -1,0 +1,30 @@
+{
+  "stem": "Why is this type of interaction important in U.S. society?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Free speech allows people to help create a better government."
+    },
+    {
+      "label": "G",
+      "text": "Due process laws are guaranteed by the Fifth Amendment."
+    },
+    {
+      "label": "H",
+      "text": "Individual protections are guaranteed by the Fourteenth Amendment."
+    },
+    {
+      "label": "J",
+      "text": "Freedom of the press helps the government respond to public opinion."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A person holding a sign that says 'DR. HOPKINS FOR TEXAS GOVERNOR' with two people nearby, one saying 'That's a terrible idea!' and the other saying 'He can make a difference!'"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

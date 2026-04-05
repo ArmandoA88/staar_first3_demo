@@ -1,0 +1,28 @@
+{
+  "stem": "What is the solution to this equation?  2(40 - 5y) = 10y + 5(1 - y)",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "7.5"
+    },
+    {
+      "label": "B",
+      "text": "15"
+    },
+    {
+      "label": "C",
+      "text": "5"
+    },
+    {
+      "label": "D",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

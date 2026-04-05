@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of the function f(x) = x is transformed to form function g(x) such that g(x) = 3f(x). Which graph represents f and g?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[Graph showing lines labeled f and g, with g steeper than f]"
+    },
+    {
+      "label": "B",
+      "text": "[Graph showing lines labeled f and g, with f steeper than g]"
+    },
+    {
+      "label": "C",
+      "text": "[Graph showing lines labeled f and g, with g flatter than f]"
+    },
+    {
+      "label": "D",
+      "text": "[Graph showing lines labeled f and g, with g non-linear and f linear]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled A, B, C, and D each displaying two lines labeled f and g on coordinate axes"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Options preserve visible labels. Graph descriptions are approximations due to image format."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The author of this letter was \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "a leader of the Civil Rights movement"
+    },
+    {
+      "label": "B",
+      "text": "the cofounder of the National Organization for Women"
+    },
+    {
+      "label": "C",
+      "text": "a leader of a conservative interest group"
+    },
+    {
+      "label": "D",
+      "text": "the cofounder of Ms. magazine"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Dear Stop ERA Friend . . .\n\nIn the face of all the pressure the ERAers are exerting this month, we need to remind all our Senators and Representatives that we are counting on them \u2014\n\n1) To vote NO on ERA, and\n2) To resist all efforts to eliminate the 3/5th majority that the Illinois Constitution requires for constitutional amendments.\n\n\u2014Letter from the National Chairman of Stop ERA, December 6, 1978"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

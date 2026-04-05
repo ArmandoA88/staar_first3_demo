@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation best shows causation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The length of a rectangle affects the width of the rectangle."
+    },
+    {
+      "label": "B",
+      "text": "The amount of time a cell phone is used affects the charge of its battery."
+    },
+    {
+      "label": "C",
+      "text": "The number of ice-cream bars sold affects the number of milkshakes sold."
+    },
+    {
+      "label": "D",
+      "text": "The number of soccerballs a team owns affects the number of games the team wins during the soccer season."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

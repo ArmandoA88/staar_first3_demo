@@ -1,0 +1,30 @@
+{
+  "stem": "Which object travels at the greater average speed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Object 1, because it travels the greater distance per unit of time"
+    },
+    {
+      "label": "B",
+      "text": "Object 1, because it travels the longer amount of time"
+    },
+    {
+      "label": "C",
+      "text": "Object 2, because it travels the shorter amount of time"
+    },
+    {
+      "label": "D",
+      "text": "Object 2, because it travels the shorter distance per unit of time"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table titled 'Motion Investigation Data' with columns: Object Number, Trial Number, Distance Traveled (meters), Time (seconds). Data: Object 1: Trial 1 - 400 meters, 20 seconds; Trial 2 - 600 meters, 30 seconds. Object 2: Trial 1 - 55 meters, 11 seconds; Trial 2 - 45 meters, 9 seconds."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

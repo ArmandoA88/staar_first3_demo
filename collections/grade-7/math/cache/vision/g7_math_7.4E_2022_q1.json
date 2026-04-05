@@ -1,0 +1,28 @@
+{
+  "stem": "The length of a ruler is 12 inches. There are approximately 25.4 millimeters in 1 inch.\n\nWhich measurement is closest to the length of the ruler in millimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3,048 mm"
+    },
+    {
+      "label": "B",
+      "text": "30.48 mm"
+    },
+    {
+      "label": "C",
+      "text": "304.8 mm"
+    },
+    {
+      "label": "D",
+      "text": "3.048 mm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

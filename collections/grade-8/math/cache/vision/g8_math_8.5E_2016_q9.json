@@ -1,0 +1,30 @@
+{
+  "stem": "The value of y varies directly with x. When y = 75, x = 1/2. What is the value of y when x is 2 1/4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "84 3/8"
+    },
+    {
+      "label": "B",
+      "text": "337 1/2"
+    },
+    {
+      "label": "C",
+      "text": "16 2/3"
+    },
+    {
+      "label": "D",
+      "text": "168 3/4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "fractions in both question stem and answer choices"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

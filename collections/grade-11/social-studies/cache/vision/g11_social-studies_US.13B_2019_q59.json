@@ -1,0 +1,30 @@
+{
+  "stem": "Which factor best explains the population change in California, Texas, and Florida during this time period?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "An increase in the number of coal-mining jobs"
+    },
+    {
+      "label": "B",
+      "text": "Fewer environmental protection laws"
+    },
+    {
+      "label": "C",
+      "text": "A lack of a sales tax on consumer goods"
+    },
+    {
+      "label": "D",
+      "text": "An increase in the number of economic opportunities"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Increase in Total Population by State, 1900-2000 (millions) map showing population increase in each state categorized by color with key: 10 or more, 5 to 9, 1 to 4, Less than 1"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

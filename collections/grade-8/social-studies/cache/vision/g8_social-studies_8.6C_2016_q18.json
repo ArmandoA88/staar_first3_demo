@@ -1,0 +1,33 @@
+{
+  "stem": "Which event on the time line contributed most directly to the outbreak of the U.S.-Mexican War?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "1"
+    },
+    {
+      "label": "G",
+      "text": "2"
+    },
+    {
+      "label": "H",
+      "text": "3"
+    },
+    {
+      "label": "J",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1830 - The Indian Removal Act is signed into law.",
+    "1833 - The American Anti-Slavery Society is founded.",
+    "1844 - The first telegraph message is sent.",
+    "1845 - Texas is admitted to the Union as a slave state."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "The question refers to events labeled 1-4 on a timeline with specific historical events tied to years 1830, 1833, 1844, and 1845."
+}

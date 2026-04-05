@@ -1,0 +1,30 @@
+{
+  "stem": "Line segment LN is shown on the coordinate grid.",
+  "instruction": "Which measurement is closest to the length of line segment LN in units?",
+  "options": [
+    {
+      "label": "A",
+      "text": "9 units"
+    },
+    {
+      "label": "B",
+      "text": "15 units"
+    },
+    {
+      "label": "C",
+      "text": "7 units"
+    },
+    {
+      "label": "D",
+      "text": "11 units"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with line segment LN from (-2,5) to (7,1)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What was the main effect of the event reported in this headline?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Soviet Union invaded Japan to gain access to natural resources."
+    },
+    {
+      "label": "G",
+      "text": "The United States initiated the Marshall Plan to help with the rebuilding of Japan."
+    },
+    {
+      "label": "H",
+      "text": "Germany surrendered to the Allies and promised to help in the fight against Japan."
+    },
+    {
+      "label": "J",
+      "text": "World War II ended with Japan surrendering to the Allies."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Daily News newspaper with headline: Atomic Bombs Dropped on Hiroshima and Nagasaki"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

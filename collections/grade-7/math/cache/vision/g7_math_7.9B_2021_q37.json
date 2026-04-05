@@ -1,0 +1,28 @@
+{
+  "stem": "The diameter of circle X is 15 centimeters. The diameter of circle Y is 20 centimeters.\n\nWhich measurement is closest to the difference between the circumference of circle X and the circumference of circle Y in centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "15.7 cm"
+    },
+    {
+      "label": "B",
+      "text": "7.85 cm"
+    },
+    {
+      "label": "C",
+      "text": "137 cm"
+    },
+    {
+      "label": "D",
+      "text": "31.4 cm"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

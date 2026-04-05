@@ -1,0 +1,32 @@
+{
+  "stem": "Which sentence best completes this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Puritans allowed women to participate in government."
+    },
+    {
+      "label": "G",
+      "text": "The Puritans refused to obey the appointed governor."
+    },
+    {
+      "label": "H",
+      "text": "The Puritans outlawed slavery in Massachusetts."
+    },
+    {
+      "label": "J",
+      "text": "The Puritans developed a form of representative self-government."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Puritans established communities in colonial New England.",
+    "The Puritans held town meetings to deal with community issues.",
+    "?"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

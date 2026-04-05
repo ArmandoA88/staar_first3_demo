@@ -1,0 +1,30 @@
+{
+  "stem": "Which feature of colonial self-government does this charter establish?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Direct democracy"
+    },
+    {
+      "label": "B",
+      "text": "An elected legislature"
+    },
+    {
+      "label": "C",
+      "text": "Separation of powers"
+    },
+    {
+      "label": "D",
+      "text": "Checks and balances"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "For the well Governeing of this Province and Territories there shall be an Assembly yearly Chosen by the Freemen thereof to Consist of foure persons out of each County. . . .  \u2014William Penn, Pennsylvania Charter of Privileges, 1701"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

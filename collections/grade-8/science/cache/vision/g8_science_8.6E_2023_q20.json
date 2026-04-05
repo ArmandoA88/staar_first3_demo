@@ -1,0 +1,30 @@
+{
+  "stem": "A chemical equation for the reaction between calcium hydroxide, Ca(OH)\u2082, and sulfuric acid, H\u2082SO\u2084, is shown. The masses of some of the reactants and products are given in grams.\n\nCa(OH)\u2082 + H\u2082SO\u2084 \u2192 CaSO\u2084 + 2H\u2082O\n74 g           ?            136 g     36 g\n\nHow many grams of sulfuric acid were used in the reaction?",
+  "instruction": "Select the correct amount of sulfuric acid used in the reaction.",
+  "options": [
+    {
+      "label": "A",
+      "text": "62 g"
+    },
+    {
+      "label": "B",
+      "text": "98 g"
+    },
+    {
+      "label": "C",
+      "text": "36 g"
+    },
+    {
+      "label": "D",
+      "text": "100 g"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Chemical equation showing Ca(OH)\u2082 + H\u2082SO\u2084 \u2192 CaSO\u2084 + 2H\u2082O, with masses 74 g, ?, 136 g, and 36 g respectively."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

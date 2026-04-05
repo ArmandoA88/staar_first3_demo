@@ -1,0 +1,30 @@
+{
+  "stem": "The photograph represents a result of which wartime policy?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A federal law that prohibited women from employment in factories"
+    },
+    {
+      "label": "B",
+      "text": "An executive order that prohibited employment discrimination in defense industries"
+    },
+    {
+      "label": "C",
+      "text": "A legislative act requiring all males to register for military service"
+    },
+    {
+      "label": "D",
+      "text": "A constitutional amendment that outlawed segregation in public accommodations"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Black and white photograph titled 'Workers Manufacturing Artillery Shells, c. 1942' showing two workers operating a large industrial machine with a large stack of artillery shells in front of them."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

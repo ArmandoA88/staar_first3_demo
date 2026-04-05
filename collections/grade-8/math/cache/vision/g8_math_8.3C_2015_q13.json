@@ -1,0 +1,30 @@
+{
+  "stem": "Quadrilateral \\(ABCD\\) was dilated with the origin as the center of dilation to create quadrilateral \\(A'B'C'D'\\).\n\nWhich rule best represents the dilation that was applied to quadrilateral \\(ABCD\\) to create quadrilateral \\(A'B'C'D'\\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\((x, y) \\to (0.4x, 0.4y)\\)"
+    },
+    {
+      "label": "B",
+      "text": "\\((x, y) \\to (x + 3, y + 1.5)\\)"
+    },
+    {
+      "label": "C",
+      "text": "\\((x, y) \\to (2.5x, 2.5y)\\)"
+    },
+    {
+      "label": "D",
+      "text": "\\((x, y) \\to (x - 1.5, y + 3)\\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane graph showing quadrilaterals \\(ABCD\\) and \\(A'B'C'D'\\) with points A, B, C, D and A', B', C', D' plotted"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

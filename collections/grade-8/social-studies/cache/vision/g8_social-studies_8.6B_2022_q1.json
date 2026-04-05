@@ -1,0 +1,31 @@
+{
+  "stem": "The differences between these two maps resulted from the \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Missouri Compromise"
+    },
+    {
+      "label": "B",
+      "text": "Treaty of Ghent"
+    },
+    {
+      "label": "C",
+      "text": "Louisiana Purchase"
+    },
+    {
+      "label": "D",
+      "text": "Adams-On\u00eds Treaty"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map labeled U.S. Territory, 1800 showing original U.S. territory",
+    "Map labeled U.S. Territory, 1803 showing expanded U.S. territory including Louisiana Purchase"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

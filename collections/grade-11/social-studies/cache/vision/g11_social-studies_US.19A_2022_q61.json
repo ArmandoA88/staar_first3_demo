@@ -1,0 +1,32 @@
+{
+  "stem": "How did the events in this cause-and-effect diagram affect the relationship between the executive and legislative branches of government?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By reducing the ability of the House of Representatives to approve military funding requested by the president"
+    },
+    {
+      "label": "B",
+      "text": "By giving the president the power to fight a war without getting a formal declaration from Congress"
+    },
+    {
+      "label": "C",
+      "text": "By allowing Congress to supersede the president's role as commander in chief"
+    },
+    {
+      "label": "D",
+      "text": "By reducing the power of the president to bypass the Senate's treaty-making powers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "U.S. destroyers stationed in Vietnam report they were fired upon by North Vietnamese forces.",
+    "President Lyndon B. Johnson requests to increase U.S. military presence in Indochina.",
+    "Congress passes the Gulf of Tonkin Resolution."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

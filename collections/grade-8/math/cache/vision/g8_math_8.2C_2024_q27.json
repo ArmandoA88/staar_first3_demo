@@ -1,0 +1,34 @@
+{
+  "stem": "The radius of the planet Neptune is approximately 15,300 miles. How is this number of miles written in scientific notation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "0.153 \\times 10^{5}"
+    },
+    {
+      "label": "B",
+      "text": "0.153 \\times 10^{-5}"
+    },
+    {
+      "label": "C",
+      "text": "1.53 \\times 10^{4}"
+    },
+    {
+      "label": "D",
+      "text": "1.53 \\times 10^{-4}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\times",
+    "10^{5}",
+    "10^{-5}",
+    "10^{4}",
+    "10^{-4}"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

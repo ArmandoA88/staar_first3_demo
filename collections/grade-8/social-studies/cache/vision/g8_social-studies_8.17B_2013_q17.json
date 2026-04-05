@@ -1,0 +1,31 @@
+{
+  "stem": "These speakers are debating an issue that eventually became known as the \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Monroe Doctrine"
+    },
+    {
+      "label": "B",
+      "text": "Nullification Crisis"
+    },
+    {
+      "label": "C",
+      "text": "Missouri Compromise"
+    },
+    {
+      "label": "D",
+      "text": "Three-Fifths Compromise"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Speaker 1: A state has the right to overrule an act passed by Congress. After all, the national government is supposed to share power with the states.",
+    "Speaker 2: I believe that you are wrong. The states do share power with the national government, but the Constitution says the national government has supremacy."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

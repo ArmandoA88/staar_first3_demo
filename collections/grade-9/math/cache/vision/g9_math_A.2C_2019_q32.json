@@ -1,0 +1,31 @@
+{
+  "stem": "The table shows the amount of pet food in cups remaining in an automatic feeder as a function of the number of meals the feeder has dispensed.\n\nAutomatic Feeder\n\n| Number of Meals Dispensed, n | Amount of Pet Food Remaining, f(n) (cups) |\n|-------------------------------|-------------------------------------------|\n| 1                             | 21                                        |\n| 3                             | 15                                        |\n| 6                             | 6                                         |\n| 7                             | 3                                         |\n\nBased on the table, which function models this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "f(n) = -3n + 24"
+    },
+    {
+      "label": "G",
+      "text": "f(n) = -\\frac{1}{3}n + 16"
+    },
+    {
+      "label": "H",
+      "text": "f(n) = -3n + 64"
+    },
+    {
+      "label": "J",
+      "text": "f(n) = -\\frac{1}{3}n + 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns: Number of Meals Dispensed, n and Amount of Pet Food Remaining, f(n) (cups) with rows: (1, 21), (3, 15), (6, 6), (7, 3)",
+    "Four options with functions labeled F, G, H, and J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

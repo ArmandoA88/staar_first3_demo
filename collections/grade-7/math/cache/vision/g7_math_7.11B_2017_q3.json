@@ -1,0 +1,30 @@
+{
+  "stem": "If x = 14, which equation is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "3(20 - x) = 44"
+    },
+    {
+      "label": "B",
+      "text": "3(12 - x) = 6"
+    },
+    {
+      "label": "C",
+      "text": "2(x - 3) = 22"
+    },
+    {
+      "label": "D",
+      "text": "2x - 3 = 22"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "mathematical expressions"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

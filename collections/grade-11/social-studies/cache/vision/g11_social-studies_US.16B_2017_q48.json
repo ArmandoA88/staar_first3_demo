@@ -1,0 +1,30 @@
+{
+  "stem": "The economic conditions described in this excerpt contributed to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "a global economic depression"
+    },
+    {
+      "label": "G",
+      "text": "an increase in foreign investments in the U.S. market"
+    },
+    {
+      "label": "H",
+      "text": "the adoption of the gold standard"
+    },
+    {
+      "label": "J",
+      "text": "an increase in free market activity"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Excerpt about Hoover warning Coolidge regarding stock market speculation and financial actions to curb it"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.98,
+  "notes": null
+}

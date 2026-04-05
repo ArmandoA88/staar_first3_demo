@@ -1,0 +1,30 @@
+{
+  "stem": "The table contains some points on the graph of an exponential function.\n\n| x | y |\n|---|-----|\n| 0 | 0.0625 |\n| 1 | 0.25 |\n| 2 | 1 |\n| 3 | 4 |\n\nBased on the table, which function represents the same relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "q(x) = (0.25)^x"
+    },
+    {
+      "label": "G",
+      "text": "q(x) = 256(0.25)^x"
+    },
+    {
+      "label": "H",
+      "text": "q(x) = 0.0625(4)^x"
+    },
+    {
+      "label": "J",
+      "text": "q(x) = 0.5(4)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with points (0, 0.0625), (1, 0.25), (2, 1), (3, 4)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

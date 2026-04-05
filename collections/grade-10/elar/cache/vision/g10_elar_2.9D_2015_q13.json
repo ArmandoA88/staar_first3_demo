@@ -1,0 +1,30 @@
+{
+  "stem": "How should sentence 6 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change commissioned to comissioned"
+    },
+    {
+      "label": "B",
+      "text": "Change ship's to ships"
+    },
+    {
+      "label": "C",
+      "text": "Change pirate to Pirate"
+    },
+    {
+      "label": "D",
+      "text": "Sentence 6 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Landon used a semicircle, a rectangle, and a right triangle to form the figure shown.\n\nWhich is the best estimate of the area of the figure in square centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "52 cm\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "44 cm\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "26 cm\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "38 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A composite figure made of a semicircle, rectangle, and right triangle.\nSemicircle diameter: 4 cm\nRectangle dimensions: 6 cm by 4 cm\nRight triangle base: 4 cm (10 cm total length minus 6 cm rectangle length) and height: 4 cm"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

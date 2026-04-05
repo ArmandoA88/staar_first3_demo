@@ -1,0 +1,30 @@
+{
+  "stem": "This poster could be used to support which assertion?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Demand for labor in war industries helped increase employment."
+    },
+    {
+      "label": "G",
+      "text": "Use of new war technologies required extensive training."
+    },
+    {
+      "label": "H",
+      "text": "Conscription caused a shortage of laborers during wartime."
+    },
+    {
+      "label": "J",
+      "text": "Standardization of parts helped streamline the production of munitions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "On The Job For Victory United States Shipping Board Emergency Fleet Corporation"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 0.98,
+  "notes": null
+}

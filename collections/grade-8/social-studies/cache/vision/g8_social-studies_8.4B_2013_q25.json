@@ -1,0 +1,30 @@
+{
+  "stem": "The Continental Congress issued this commission to \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Benedict Arnold"
+    },
+    {
+      "label": "B",
+      "text": "Alexander Hamilton"
+    },
+    {
+      "label": "C",
+      "text": "John Hancock"
+    },
+    {
+      "label": "D",
+      "text": "George Washington"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "We, reposing special trust and confidence in your patriotism, valor, conduct, and fidelity, do, by these presents, constitute and appoint you to be General and Commander in chief, of the army of the United Colonies, and of all the forces now raised, or to be raised, by them, and of all others who shall voluntarily offer their service. . . .  \u2014Commission from the Continental Congress, June 17, 1775"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

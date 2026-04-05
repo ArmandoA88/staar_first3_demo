@@ -1,0 +1,30 @@
+{
+  "stem": "Which headline describes an event that established guidelines for the admission of new states to the United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Northwest Ordinance Passed"
+    },
+    {
+      "label": "B",
+      "text": "Treaty of Paris Ratified"
+    },
+    {
+      "label": "C",
+      "text": "Bill of Rights Ratified"
+    },
+    {
+      "label": "D",
+      "text": "Alien and Sedition Acts Passed"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Images of four newspaper headlines titled 'The Daily Star' with the following headlines and dates: A: Northwest Ordinance Passed, July 13, 1787; B: Treaty of Paris Ratified, February 10, 1763; C: Bill of Rights Ratified, December 15, 1791; D: Alien and Sedition Acts Passed, November 13, 1797"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "A train left the station at 9:00 and traveled as shown by the distance-time graph.\n\nWhich statements BEST describe the motion of the train? Select TWO correct answers.",
+  "instruction": "Select TWO correct answers.",
+  "options": [
+    {
+      "label": null,
+      "text": "The train accelerates until 11:00, and then the speed becomes constant."
+    },
+    {
+      "label": null,
+      "text": "The train has a constant speed until 11:00 and then stops moving."
+    },
+    {
+      "label": null,
+      "text": "The train\u2019s speed increases, starting at 12:30."
+    },
+    {
+      "label": null,
+      "text": "The train reverses direction at 12:30."
+    },
+    {
+      "label": null,
+      "text": "The train travels a total round-trip distance of 60 km."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Distance vs. Time graph showing time from 9:00 to 14:00 on the x-axis and distance (km) from 0 to 70 on the y-axis."
+  ],
+  "item_type_inferred": "Multiselect",
+  "confidence": 0.99,
+  "notes": null
+}

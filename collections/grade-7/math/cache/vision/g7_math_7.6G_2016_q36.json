@@ -1,0 +1,30 @@
+{
+  "stem": "The circle graph shows Allen\u2019s activities during 24 hours.\n\nAllen\u2019s Activities\n\n[Circle graph: Sleeping 35%, Attending school 30%, Eating 5%, Playing tennis 10%, Practicing drums 5%, Playing video games 3%, Listening to music 12%]\n\nHow much more time in hours did Allen spend listening to music than playing tennis?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "2.88 hours"
+    },
+    {
+      "label": "G",
+      "text": "0.48 hour"
+    },
+    {
+      "label": "H",
+      "text": "2.40 hours"
+    },
+    {
+      "label": "J",
+      "text": "0.12 hour"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Circle graph labeled Allen\u2019s Activities with segments: Sleeping 35%, Attending school 30%, Eating 5%, Playing tennis 10%, Practicing drums 5%, Playing video games 3%, Listening to music 12%"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

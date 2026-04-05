@@ -1,0 +1,30 @@
+{
+  "stem": "Two hikers begin hiking at the same time from different locations on a trail. The system of equations graphed on the grid represents this situation.\n\nWhich value best represents the number of hours the two hikers have been hiking when they are the same distance from the start of the trail?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "2.8 h"
+    },
+    {
+      "label": "B",
+      "text": "1.3 h"
+    },
+    {
+      "label": "C",
+      "text": "2.5 h"
+    },
+    {
+      "label": "D",
+      "text": "4.5 h"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with y-axis labeled 'Distance From Start of Trail (mi)' ranging from 0 to 7 and x-axis labeled 'Time (h)' ranging from 0 to 5. The graph shows two lines starting at different points on the y-axis and converging around the x-value between 2 and 3."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

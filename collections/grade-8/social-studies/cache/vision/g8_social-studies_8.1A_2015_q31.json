@@ -1,0 +1,31 @@
+{
+  "stem": "This sequence of events resulted in the adoption of the \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Articles of Confederation"
+    },
+    {
+      "label": "B",
+      "text": "Bill of Rights"
+    },
+    {
+      "label": "C",
+      "text": "Treaty of Paris"
+    },
+    {
+      "label": "D",
+      "text": "Declaration of Independence"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "June\n\u2022 The Continental Congress appoints a committee to prepare a document.\n\u2022 The committee selects Thomas Jefferson to compose a draft.\n\u2022 The draft is reviewed and revised by the committee.",
+    "July\n\u2022 Congress debates and revises the document.\n\u2022 Congress officially approves the document."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

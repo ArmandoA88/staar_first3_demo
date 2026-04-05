@@ -1,0 +1,28 @@
+{
+  "stem": "A square with a perimeter of 20 units is graphed on a coordinate grid. The square is dilated by a scale factor of 0.4 with the origin as the center of dilation.\n\nIf (x, y) represents the location of any point on the original square, which ordered pair represents the coordinates of the corresponding point on the resulting square?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(20x, 20y)"
+    },
+    {
+      "label": "B",
+      "text": "(0.4x, 0.4y)"
+    },
+    {
+      "label": "C",
+      "text": "(x + 20, y + 20)"
+    },
+    {
+      "label": "D",
+      "text": "(x + 0.4, y + 0.4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

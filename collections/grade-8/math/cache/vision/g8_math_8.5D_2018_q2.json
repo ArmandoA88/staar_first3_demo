@@ -1,0 +1,30 @@
+{
+  "stem": "Students in a science class investigated how the speed of sound changes with the air temperature outside. The data are shown in the scatterplot.\n\nBased on the scatterplot, what is the best prediction of the speed of sound when the air temperature is 50\u00b0C?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "350 m/s"
+    },
+    {
+      "label": "G",
+      "text": "355 m/s"
+    },
+    {
+      "label": "H",
+      "text": "360 m/s"
+    },
+    {
+      "label": "J",
+      "text": "365 m/s"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot with speed of sound (m/s) on y-axis and air temperature (\u00b0C) on x-axis"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

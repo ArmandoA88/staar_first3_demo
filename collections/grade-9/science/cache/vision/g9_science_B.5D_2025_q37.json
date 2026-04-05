@@ -1,0 +1,45 @@
+{
+  "stem": "A student creates a table to describe some properties of viruses. How should the student complete the table?",
+  "instruction": "Move the correct answer to each box in the table. Each answer may be used more than once.",
+  "options": [
+    {
+      "label": null,
+      "text": "host cell"
+    },
+    {
+      "label": null,
+      "text": "virus cell"
+    },
+    {
+      "label": null,
+      "text": "smaller than"
+    },
+    {
+      "label": null,
+      "text": "larger than"
+    },
+    {
+      "label": null,
+      "text": "DNA only"
+    },
+    {
+      "label": null,
+      "text": "DNA or RNA"
+    }
+  ],
+  "choice_pool": [
+    "host cell",
+    "virus cell",
+    "smaller than",
+    "larger than",
+    "DNA only",
+    "DNA or RNA"
+  ],
+  "response_template": "Is dependent on a [blank_1]   Is [blank_2] human cells   Uses [blank_3]",
+  "visual_elements": [
+    "table with columns: Reproduction, Size, Genetic Material and row: Is dependent on a ________, Is ________ human cells, Uses ________"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.95,
+  "notes": null
+}

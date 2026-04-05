@@ -1,0 +1,30 @@
+{
+  "stem": "Which equation is true when x = 4?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3x + 4 = 8"
+    },
+    {
+      "label": "G",
+      "text": "5x - 2 = 18"
+    },
+    {
+      "label": "H",
+      "text": "2x + 8 = 40"
+    },
+    {
+      "label": "J",
+      "text": "4x + 4 = 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2022-Q6"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

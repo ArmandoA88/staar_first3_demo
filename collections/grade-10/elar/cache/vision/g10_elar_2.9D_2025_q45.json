@@ -1,0 +1,34 @@
+{
+  "stem": "What change needs to be made in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change Grandparents to grandparents"
+    },
+    {
+      "label": "B",
+      "text": "Delete the comma after Amarillo"
+    },
+    {
+      "label": "C",
+      "text": "Change always to alway's"
+    },
+    {
+      "label": "D",
+      "text": "Change visit to visited"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "What change needs to be made in sentence 8?",
+    "A Change Grandparents to grandparents",
+    "B Delete the comma after Amarillo",
+    "C Change always to alway's",
+    "D Change visit to visited"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

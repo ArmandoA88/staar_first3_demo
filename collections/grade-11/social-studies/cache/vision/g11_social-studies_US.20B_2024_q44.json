@@ -1,0 +1,40 @@
+{
+  "stem": "The Twenty-Fifth Amendment was ratified to clarify the process of presidential succession. Which scenarios does the Twenty-Fifth Amendment address?",
+  "instruction": "Move the correct answer to each box in the chart. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "A president fails to win the popular vote, and the president still wins the election."
+    },
+    {
+      "label": null,
+      "text": "A president resigns while in office, and the vice president becomes president."
+    },
+    {
+      "label": null,
+      "text": "A president fails to win a second term, and a new president is inaugurated."
+    },
+    {
+      "label": null,
+      "text": "A president wins a second and final term, and the president remains in office."
+    },
+    {
+      "label": null,
+      "text": "A president dies while in office, and the vice president becomes president."
+    }
+  ],
+  "choice_pool": [
+    "A president fails to win the popular vote, and the president still wins the election.",
+    "A president resigns while in office, and the vice president becomes president.",
+    "A president fails to win a second term, and a new president is inaugurated.",
+    "A president wins a second and final term, and the president remains in office.",
+    "A president dies while in office, and the vice president becomes president."
+  ],
+  "response_template": "[blank_1]\n[blank_2]",
+  "visual_elements": [
+    "Scenarios Addressed by the Twenty-Fifth Amendment chart with two blank boxes"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A student athlete wants to choose a drink that will provide quick energy for track practice. Which portion of the label should provide the athlete with information about the amount of quick energy in the drink?",
+  "instruction": "Select ONE correct answer.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Calories 110 220"
+    },
+    {
+      "label": "B",
+      "text": "Total Fat 0g 0g"
+    },
+    {
+      "label": "C",
+      "text": "Sodium 180mg 360mg"
+    },
+    {
+      "label": "D",
+      "text": "Protein 0g 0g"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Nutrition Facts label with serving size 8.0 fl. oz (240mL), servings per container 2, calories 110 per serving, 220 per can, and other nutritional information."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

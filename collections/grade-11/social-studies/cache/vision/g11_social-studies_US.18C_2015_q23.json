@@ -1,0 +1,30 @@
+{
+  "stem": "Which headline describes a consequence of the Teapot Dome scandal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Washington Conference Limits Warship Building"
+    },
+    {
+      "label": "B",
+      "text": "Palmer Raids Lead to Arrest of Communists"
+    },
+    {
+      "label": "C",
+      "text": "Prohibition Amendment Repealed"
+    },
+    {
+      "label": "D",
+      "text": "Cabinet Member Jailed for Corruption"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Images of four newspaper stacks with headlines: A) Washington Conference Limits Warship Building, B) Palmer Raids Lead to Arrest of Communists, C) Prohibition Amendment Repealed, D) Cabinet Member Jailed for Corruption"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

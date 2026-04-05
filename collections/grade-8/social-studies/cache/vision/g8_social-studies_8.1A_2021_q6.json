@@ -1,0 +1,30 @@
+{
+  "stem": "Which era is represented by this photograph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The early republic"
+    },
+    {
+      "label": "G",
+      "text": "The Age of Jackson"
+    },
+    {
+      "label": "H",
+      "text": "Westward expansion"
+    },
+    {
+      "label": "J",
+      "text": "Civil War"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Photograph of President Abraham Lincoln visiting the Battlefield at Antietam, October 3, 1862, showing a group of men in military uniforms standing in front of tents."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A function is shown.\n\ng(x) = 6(2x + 7)\n\nWhat is the value of g(20)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "167"
+    },
+    {
+      "label": "B",
+      "text": "282"
+    },
+    {
+      "label": "C",
+      "text": "324"
+    },
+    {
+      "label": "D",
+      "text": "247"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "g(x) = 6(2x + 7)"
+  ],
+  "item_type_inferred": "Multiple Choice (1 pt)",
+  "confidence": 1,
+  "notes": null
+}

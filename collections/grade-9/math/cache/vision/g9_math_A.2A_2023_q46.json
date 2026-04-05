@@ -1,0 +1,33 @@
+{
+  "stem": "The domain and range of part of linear function \\( r \\) are given.\n\n\\[ x > 5 \\]\n\\[ y < 2 \\]\n\nWhich graph could represent this part of linear function \\( r \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph showing a line segment from (6, 3) to left with an open circle at (6,3)"
+    },
+    {
+      "label": "B",
+      "text": "Graph showing a line segment from an open circle at (6, 1) going down right"
+    },
+    {
+      "label": "C",
+      "text": "Graph showing a line segment from (-1, -1) to an open circle at (6, 1)"
+    },
+    {
+      "label": "D",
+      "text": "Graph showing a line segment from (5, 3) going upwards with a solid start point"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: line segment, open circle (6,3)",
+    "Graph B: line segment, open circle (6,1)",
+    "Graph C: line segment, open circle (6,1)",
+    "Graph D: line segment starting at (5,3) solid"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

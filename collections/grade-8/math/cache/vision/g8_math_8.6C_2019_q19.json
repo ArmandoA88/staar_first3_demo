@@ -1,0 +1,30 @@
+{
+  "stem": "The diagram shows three squares that are joined at vertices to form a right triangle.",
+  "instruction": "Which statement is true?",
+  "options": [
+    {
+      "label": "A",
+      "text": "The sum of the areas of Square N and Square L is equal to the area of Square K."
+    },
+    {
+      "label": "B",
+      "text": "The sum of the areas of Square N and Square L is greater than the area of Square K."
+    },
+    {
+      "label": "C",
+      "text": "The sum of the areas of Square N and Square K is equal to the area of Square L."
+    },
+    {
+      "label": "D",
+      "text": "The sum of the areas of Square N and Square K is less than the area of Square L."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of three squares labeled N, K, and L arranged to form a right triangle with a shaded right angle between squares N and L."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

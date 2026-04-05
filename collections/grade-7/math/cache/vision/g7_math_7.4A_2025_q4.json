@@ -1,0 +1,31 @@
+{
+  "stem": "A traffic light completes 90 cycles of light changes in 2 hours. Which representation best describes the number of cycles, y, in x hours?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = 45y"
+    },
+    {
+      "label": "B",
+      "text": "y = x + 45"
+    },
+    {
+      "label": "C",
+      "text": "Traffic Light Cycles\n\nTime, x (hours)  Number of Cycles, y\n1              45\n3             135\n5             225"
+    },
+    {
+      "label": "D",
+      "text": "Traffic Light Cycles\n\nTime, x (hours)  Number of Cycles, y\n0              45\n3             135\n5             225"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table in option C showing Time (hours) and Number of Cycles with rows (1,45), (3,135), (5,225)",
+    "Table in option D showing Time (hours) and Number of Cycles with rows (0,45), (3,135), (5,225)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

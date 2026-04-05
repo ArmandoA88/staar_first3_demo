@@ -1,0 +1,30 @@
+{
+  "stem": "The equation x(x + 3) = 108 can be used to find the width, x, of a rectangular deck that has an area of 108 square feet. What is the width of the deck in feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6 ft"
+    },
+    {
+      "label": "B",
+      "text": "4 ft"
+    },
+    {
+      "label": "C",
+      "text": "9 ft"
+    },
+    {
+      "label": "D",
+      "text": "3 ft"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The equation x(x + 3) = 108"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

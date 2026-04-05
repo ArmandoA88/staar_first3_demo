@@ -1,0 +1,34 @@
+{
+  "stem": "Which arrow indicates a movement that is ONE of the causes of seasonal change on Earth?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Arrow 1"
+    },
+    {
+      "label": "B",
+      "text": "Arrow 2"
+    },
+    {
+      "label": "C",
+      "text": "Arrow 3"
+    },
+    {
+      "label": "D",
+      "text": "Arrow 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The model shows the movements of Earth, the sun, and the moon with 4 labeled arrows:",
+    "Arrow 1 is a curved arrow above the Sun indicating a counterclockwise rotation.",
+    "Arrow 2 is a larger curved arrow showing Earth's orbit around the Sun.",
+    "Arrow 3 is a smaller curved arrow near the Earth showing Earth's rotation.",
+    "Arrow 4 is a curved arrow showing the Moon's orbit around the Earth."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

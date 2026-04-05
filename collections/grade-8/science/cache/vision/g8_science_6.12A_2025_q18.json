@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the information shown in this food web, which effect would MOST LIKELY occur if the insect population decreased?",
+  "instruction": "Part A",
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of bald eagles would increase."
+    },
+    {
+      "label": "B",
+      "text": "The number of small fish would decrease."
+    },
+    {
+      "label": "C",
+      "text": "The number of sea ducks would decrease."
+    },
+    {
+      "label": "D",
+      "text": "The number of phytoplankton would remain the same."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Food web diagram with arrows showing: Phytoplankton \u2192 Small fish, Phytoplankton \u2192 Insects, Insects \u2192 Small fish, Insects \u2192 Sea ducks, Small fish \u2192 Cranes, Small fish \u2192 Ospreys, Small fish \u2192 Large fish, Large fish \u2192 Bald eagles, Sea ducks \u2192 Bald eagles"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

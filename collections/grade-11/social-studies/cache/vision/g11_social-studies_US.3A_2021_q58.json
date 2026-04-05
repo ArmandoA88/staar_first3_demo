@@ -1,0 +1,32 @@
+{
+  "stem": "Which factor contributed MOST to these changes?",
+  "instruction": "Study the diagram and answer the question that follows.",
+  "options": [
+    {
+      "label": "F",
+      "text": "The rising costs of national defense"
+    },
+    {
+      "label": "G",
+      "text": "Threats posed by immigrant radicals"
+    },
+    {
+      "label": "H",
+      "text": "Abuses of the spoils system by political machines"
+    },
+    {
+      "label": "J",
+      "text": "The inefficiency of large corporations"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Progressive Era Reforms",
+    "Merit system established for police and fire departments",
+    "Examinations required for positions in the civil service"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

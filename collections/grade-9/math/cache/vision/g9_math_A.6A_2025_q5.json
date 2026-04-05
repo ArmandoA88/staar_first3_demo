@@ -1,0 +1,28 @@
+{
+  "stem": "Which function has a range that is the set of all real numbers greater than or equal to -1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( f(x) = -x^{2} - 1 \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( f(x) = x^{2} + 4x + 3 \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( f(x) = (x + 3)^{2} + 1 \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( f(x) = (x + 4)^{2} - 17 \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

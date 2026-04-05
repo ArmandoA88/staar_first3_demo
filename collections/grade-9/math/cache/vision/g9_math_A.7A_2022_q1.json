@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of quadratic function r is shown on the grid.\n\nWhich answer choice best represents the intercepts of the graph of r?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x-intercept: (5, 0)\ny-intercepts: (0, 10) and (0, -2)"
+    },
+    {
+      "label": "B",
+      "text": "x-intercepts: (0, -10) and (0, 2)\ny-intercept: (-5, 0)"
+    },
+    {
+      "label": "C",
+      "text": "x-intercept: (0, 5)\ny-intercepts: (10, 0) and (-2, 0)"
+    },
+    {
+      "label": "D",
+      "text": "x-intercepts: (-10, 0) and (2, 0)\ny-intercept: (0, -5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of quadratic function r on xy-grid"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

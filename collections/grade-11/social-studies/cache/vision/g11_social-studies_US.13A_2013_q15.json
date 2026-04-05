@@ -1,0 +1,30 @@
+{
+  "stem": "The information on this map best supports the conclusion that between 2000 and 2005 \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "health-care costs decreased in the Northeast"
+    },
+    {
+      "label": "B",
+      "text": "Social Security payments decreased in the Pacific Northwest"
+    },
+    {
+      "label": "C",
+      "text": "income tax revenues increased in the Midwest"
+    },
+    {
+      "label": "D",
+      "text": "Medicare spending increased in the Southwest"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map showing Growth Rate of the Population Age 65 and Older by State, 2000\u20132005 with key indicating 0 or less, 0.1% to 5.1%, 5.2% to 10.2%, 10.3% or more"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

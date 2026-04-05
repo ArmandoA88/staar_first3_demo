@@ -1,0 +1,33 @@
+{
+  "stem": "A tree in Dante\u2019s neighborhood grew 18 inches in the first 2 years after it was planted. If the tree continues to grow at this same rate, which graph best represents the growth rate of the tree in inches per year?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph F: Growth 90 inches at year 5; linear increasing",
+    "Graph H: Vertical line at year 1; no increase over years",
+    "Graph G: Growth 90 inches at year 10; linear increasing slower than F",
+    "Graph J: Growth 90 inches at year 3; linear increasing faster than F"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

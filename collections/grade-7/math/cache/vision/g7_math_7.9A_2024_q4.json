@@ -1,0 +1,30 @@
+{
+  "stem": "The area of the base of a triangular pyramid is 60 square inches. The height of the pyramid is 13 inches.\nWhat is the volume of the triangular pyramid in cubic inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "390 in.^3"
+    },
+    {
+      "label": "B",
+      "text": "260 in.^3"
+    },
+    {
+      "label": "C",
+      "text": "780 in.^3"
+    },
+    {
+      "label": "D",
+      "text": "130 in.^3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangle pyramid volume problem"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

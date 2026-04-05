@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution to this equation? 30.16 = 17.56 + 5x",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "6.032"
+    },
+    {
+      "label": "B",
+      "text": "3.512"
+    },
+    {
+      "label": "C",
+      "text": "12.6"
+    },
+    {
+      "label": "D",
+      "text": "2.52"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: 30.16 = 17.56 + 5x"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

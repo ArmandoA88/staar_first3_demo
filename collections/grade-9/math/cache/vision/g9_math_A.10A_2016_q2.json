@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to 2x^2 + (4x - 6x^2) + 9 - (6x + 3)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-4x^2 - 2x + 12"
+    },
+    {
+      "label": "G",
+      "text": "-4x^2 - 2x + 6"
+    },
+    {
+      "label": "H",
+      "text": "-10x + 6"
+    },
+    {
+      "label": "J",
+      "text": "18x + 12"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2x^2 + (4x - 6x^2) + 9 - (6x + 3)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

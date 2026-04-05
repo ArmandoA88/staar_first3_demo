@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following does this menu best reflect?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Successful agricultural trade agreements with other countries"
+    },
+    {
+      "label": "B",
+      "text": "Strict U.S. regulations on food preparation"
+    },
+    {
+      "label": "C",
+      "text": "Diverse ethnic contributions to U.S. culture"
+    },
+    {
+      "label": "D",
+      "text": "Lowered nutritional standards for public schools"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "School Menu table with meals listed for Monday through Friday including BBQ chicken, Spaghetti and meatballs, Crispy tacos, Cajun chicken, and Shepherd's pie"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

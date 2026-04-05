@@ -1,0 +1,30 @@
+{
+  "stem": "Which function is best represented by this graph?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = \\frac{1}{4}x + 8"
+    },
+    {
+      "label": "B",
+      "text": "y = \\frac{1}{4}x - 2"
+    },
+    {
+      "label": "C",
+      "text": "y = 4x - 2"
+    },
+    {
+      "label": "D",
+      "text": "y = 4x + 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph showing a line with positive slope crossing the y-axis at -2"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.95,
+  "notes": null
+}

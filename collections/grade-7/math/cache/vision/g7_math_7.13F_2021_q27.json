@@ -1,0 +1,30 @@
+{
+  "stem": "Two stores are having sales on cameras.\n\n\u2022 At Store X all cameras are on sale for 15% off the original price.\n\n\u2022 At Store Y all cameras are on sale for \\frac{1}{5} off the original price.\n\nWhich store would have the better sale price for a camera with an original price of $80?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Store X, because the sale price would be $68"
+    },
+    {
+      "label": "B",
+      "text": "Store Y, because the sale price would be $64"
+    },
+    {
+      "label": "C",
+      "text": "Store X, because the sale price would be $12"
+    },
+    {
+      "label": "D",
+      "text": "Store Y, because the sale price would be $16"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "\\frac{1}{5}"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

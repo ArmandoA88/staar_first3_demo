@@ -1,0 +1,30 @@
+{
+  "stem": "Pentagon FGHJK is similar to pentagon MPQST.\n\nWhat is the value of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "13.5"
+    },
+    {
+      "label": "B",
+      "text": "12"
+    },
+    {
+      "label": "C",
+      "text": "9.5"
+    },
+    {
+      "label": "D",
+      "text": "Not here"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of two pentagons labeled FGHJK and MPQST with side lengths: FGHJK has sides 6 cm (KF) and 9 cm (JH), MPQST has sides 9 cm (TM) and x cm (SQ)."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Which economy and contributing factor best complete this table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "1) Large farms; 2) Slaves used for labor"
+    },
+    {
+      "label": "G",
+      "text": "1) Cottage industry; 2) Mild weather that attracted immigrants"
+    },
+    {
+      "label": "H",
+      "text": "1) Mining; 2) Metal ores and minerals"
+    },
+    {
+      "label": "J",
+      "text": "1) Ranching; 2) Railroads to transport cattle to market"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns Region, Economy, Contributing Factor",
+    "Rows: North (Factories, Numerous fast-flowing rivers), South (Plantations, Fertile soil for cash crops), West (1) ?, 2) ?)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

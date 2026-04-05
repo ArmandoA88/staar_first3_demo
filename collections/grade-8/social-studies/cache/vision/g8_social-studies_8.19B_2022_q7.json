@@ -1,0 +1,33 @@
+{
+  "stem": "Which idea correctly replaces the question mark in this diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Due Process"
+    },
+    {
+      "label": "B",
+      "text": "Eminent Domain"
+    },
+    {
+      "label": "C",
+      "text": "Free Speech"
+    },
+    {
+      "label": "D",
+      "text": "Federalism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Guarantees of ?",
+    "Speedy and public trial",
+    "Impartial jury",
+    "Legal counsel"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

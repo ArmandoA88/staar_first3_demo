@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph does NOT represent y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with points at (-4,0), (-3,4), (2,0), (4,1)"
+    },
+    {
+      "label": "H",
+      "text": "Graph with arrows starting from (1,2) rightward, and (-1,0) leftward"
+    },
+    {
+      "label": "G",
+      "text": "Graph showing a wavy curve starting near (-4,-4), down then up past y=4 near x=4"
+    },
+    {
+      "label": "J",
+      "text": "Graph showing two line segments from (-4,-4) to (0,0) and from (0,0) to (4,4)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled F, H, G, J with various points, arrows, and curves"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": "Preserved all visible math and labels exactly as seen."
+}

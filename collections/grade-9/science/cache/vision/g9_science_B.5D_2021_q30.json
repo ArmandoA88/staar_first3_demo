@@ -1,0 +1,30 @@
+{
+  "stem": "Materials are provided to students to build models of a prokaryotic cell, a eukaryotic cell, and a virus. The materials and the structures they represent are listed in the table shown.\n\nMaterial | Structure Represented\nGray paper hexagon | Capsid\nYellow paper oval | Cytoplasm\nPurple buttons | Ribosomes\nBlue yarn | Genetic material\nOrange paper circle | Nucleus\n\nWhich material will students use in all three models?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Yellow paper oval"
+    },
+    {
+      "label": "G",
+      "text": "Gray paper hexagon"
+    },
+    {
+      "label": "H",
+      "text": "Blue yarn"
+    },
+    {
+      "label": "J",
+      "text": "Purple buttons"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table listing materials and structures they represent"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

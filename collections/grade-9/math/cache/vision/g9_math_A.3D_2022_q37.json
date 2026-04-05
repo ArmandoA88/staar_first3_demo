@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of \\( y = -\\frac{1}{6}x - 4 \\) is shown on the grid.\n\nWhich ordered pair is in the solution set of \\( y > -\\frac{1}{6}x - 4 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(-8, 8)"
+    },
+    {
+      "label": "B",
+      "text": "(6, -5)"
+    },
+    {
+      "label": "C",
+      "text": "(4, -6)"
+    },
+    {
+      "label": "D",
+      "text": "(-2, -7)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of y = -1/6 x - 4"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

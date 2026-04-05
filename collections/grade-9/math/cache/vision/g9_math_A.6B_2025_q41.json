@@ -1,0 +1,28 @@
+{
+  "stem": "Quadratic function f has vertex (5, -1) and passes through (3, -17). What is the equation for f in standard form?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "f(x) = -4x^2 + 40x - 101"
+    },
+    {
+      "label": "B",
+      "text": "f(x) = 4x^2 - 40x + 99"
+    },
+    {
+      "label": "C",
+      "text": "f(x) = -4x^2 - 101"
+    },
+    {
+      "label": "D",
+      "text": "f(x) = 4x^2 + 99"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

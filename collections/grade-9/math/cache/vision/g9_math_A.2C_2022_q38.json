@@ -1,0 +1,30 @@
+{
+  "stem": "The conversion of degrees Celsius to degrees Fahrenheit can be represented by a linear relationship. The graph shows the linear relationship between y, the temperature in degrees Fahrenheit, and x, the temperature in degrees Celsius from the freezing point of water.\n\n[Graph showing a line from (0,32) Fahrenheit to (45,113) Fahrenheit approximately, plotted against degrees Celsius on x-axis 0 to 45 and degrees Fahrenheit on y-axis 32 to 112.]\n\nWhich equation best represents this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = \\frac{5}{9}x"
+    },
+    {
+      "label": "G",
+      "text": "y = \\frac{9}{5}x"
+    },
+    {
+      "label": "H",
+      "text": "y = \\frac{5}{9}x + 32"
+    },
+    {
+      "label": "J",
+      "text": "y = \\frac{9}{5}x + 32"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing line from (0,32) to about (45,113) with x-axis labeled Degrees Celsius and y-axis labeled Degrees Fahrenheit."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

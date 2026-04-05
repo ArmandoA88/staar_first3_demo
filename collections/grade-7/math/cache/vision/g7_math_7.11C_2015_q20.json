@@ -1,0 +1,30 @@
+{
+  "stem": "The measures of two angles in a triangle are shown in the diagram.",
+  "instruction": "Which equation can be used to find the value of x?",
+  "options": [
+    {
+      "label": "A",
+      "text": "48 + 2x = 180"
+    },
+    {
+      "label": "B",
+      "text": "2(48) + x = 180"
+    },
+    {
+      "label": "C",
+      "text": "48 + 2x = 360"
+    },
+    {
+      "label": "D",
+      "text": "2(48) + x = 360"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle with two equal sides, angles labeled 48\u00b0 and x\u00b0"
+  ],
+  "item_type_inferred": "multiple-choice",
+  "confidence": 1,
+  "notes": null
+}

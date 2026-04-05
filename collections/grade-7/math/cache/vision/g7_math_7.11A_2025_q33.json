@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution to 3x + 2x + 20 = 50?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = 6"
+    },
+    {
+      "label": "B",
+      "text": "x = 14"
+    },
+    {
+      "label": "C",
+      "text": "x = 5"
+    },
+    {
+      "label": "D",
+      "text": "x = 25"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: 3x + 2x + 20 = 50"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

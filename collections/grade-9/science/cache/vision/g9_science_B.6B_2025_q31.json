@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows a comparison of muscle cells and blood cells.\n\nPatterns of Gene Expression\n\n| Genes For        | Muscle Cells | Blood Cells             |\n|------------------|--------------|------------------------|\n|                  |              | White      | Red (Immature)  |\n| Glycolysis enzymes | On           | On         | On             |\n| Muscle proteins    | On           | Off        | Off            |\n| Glucagon          | Off          | Off        | Off            |\n| Hemoglobin        | Off          | Off        | On             |\n\nBased on the table, which conclusion can be made?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The gene that codes for glucagon is active only in muscle cells."
+    },
+    {
+      "label": "B",
+      "text": "The gene that codes for hemoglobin is absent from blood cells."
+    },
+    {
+      "label": "C",
+      "text": "The factors that regulate gene expression for muscle proteins are active in red and white blood cells."
+    },
+    {
+      "label": "D",
+      "text": "The factors that regulate gene expression for glycolysis enzymes are active in muscle and blood cells."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table: Patterns of Gene Expression comparing Muscle Cells with Blood Cells (White and Red Immature) for genes Glycolysis enzymes, Muscle proteins, Glucagon, Hemoglobin."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

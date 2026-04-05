@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the number of species added to the United States endangered species list each year for several years. A linear function can be used to model the data.\n\nEndangered Species\n\n| Year | Number of Species Added |\n|------|------------------------|\n| 2011 | 19                     |\n| 2012 | 51                     |\n| 2013 | 89                     |\n| 2014 | 66                     |\n| 2015 | 31                     |\n| 2016 | 74                     |\n| 2017 | 11                     |\n\nWhich correlation best describes the strength of the linear association between the number of species added to the United States endangered species list and the year?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Weak negative correlation, because r \u2248 \u2212 0.91"
+    },
+    {
+      "label": "B",
+      "text": "Weak negative correlation, because r \u2248 \u2212 0.09"
+    },
+    {
+      "label": "C",
+      "text": "Strong negative correlation, because r \u2248 \u2212 0.91"
+    },
+    {
+      "label": "D",
+      "text": "Strong negative correlation, because r \u2248 \u2212 0.09"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table: Endangered Species with Year and Number of Species Added columns for years 2011 to 2017 with specified values"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

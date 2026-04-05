@@ -1,0 +1,28 @@
+{
+  "stem": "What revision, if any, should be made in sentence 21?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Even when the league agreed on a resolution, there was no way to make member countries adhere to it."
+    },
+    {
+      "label": "B",
+      "text": "Even when the league agreed, there was no way to make member countries adhere to it on a resolution."
+    },
+    {
+      "label": "C",
+      "text": "Even when the league agreed on a resolution, there was no way to make member countries adhere to and follow a resolution."
+    },
+    {
+      "label": "D",
+      "text": "No change is needed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

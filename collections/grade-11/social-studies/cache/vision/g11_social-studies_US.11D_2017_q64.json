@@ -1,0 +1,30 @@
+{
+  "stem": "Which of the following is most responsible for the differences shown on the table?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Robert L. Johnson\u2019s creation of a major television network"
+    },
+    {
+      "label": "G",
+      "text": "Tim Berners-Lee\u2019s invention of the World Wide Web"
+    },
+    {
+      "label": "H",
+      "text": "Jeff Bezos\u2019 founding of Amazon.com"
+    },
+    {
+      "label": "J",
+      "text": "Michael Dell\u2019s use of just-in-time manufacturing"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "<table><thead><tr><th>1980s</th><th>2010s</th></tr></thead><tbody><tr><td>Work in an office</td><td>Work from home</td></tr><tr><td>In-house customer-service departments</td><td>Outsourcing of customer service</td></tr><tr><td>Handmade items sold at local fairs</td><td>Handmade items sold to people all over the world</td></tr><tr><td>Research conducted at libraries</td><td>Research conducted remotely</td></tr></tbody></table>"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

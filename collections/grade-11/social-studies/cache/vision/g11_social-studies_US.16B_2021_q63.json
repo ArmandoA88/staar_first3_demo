@@ -1,0 +1,30 @@
+{
+  "stem": "Read the list and answer the question that follows.\n\nReasons for the Great Depression\n\n\u2022 Collapse of the stock market\n\u2022 Loss of consumer confidence\n\u2022 ________\n\nWhich reason correctly replaces the question mark on this list?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Decrease in interest rates"
+    },
+    {
+      "label": "B",
+      "text": "Failure of banks"
+    },
+    {
+      "label": "C",
+      "text": "Outsourcing of manufacturing jobs"
+    },
+    {
+      "label": "D",
+      "text": "Outbreak of a global war"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Reasons for the Great Depression\n\u2022 Collapse of the stock market\n\u2022 Loss of consumer confidence\n\u2022 ________"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

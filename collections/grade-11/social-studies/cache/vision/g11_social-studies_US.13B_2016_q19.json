@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation does this cartoon from an early 1900s pamphlet illustrate?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The deportation of many Chinese immigrants in the Northwest"
+    },
+    {
+      "label": "B",
+      "text": "The recruitment of Chinese immigrants by large labor unions in the Midwest"
+    },
+    {
+      "label": "C",
+      "text": "The fear in the West of losing jobs to Chinese immigrants"
+    },
+    {
+      "label": "D",
+      "text": "The lack of available resources in the East to support a large influx of Chinese immigrants"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Cartoon showing a group of men with the text 'DON'T LET THEM COME IN!' and another figure near a ship with the text 'WHY NOT GIVE THEM AN EQUAL CHANCE?'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

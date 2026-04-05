@@ -1,0 +1,30 @@
+{
+  "stem": "A sidewalk in the shape of two triangles, a rectangle, and a square was built around the edge of a building as shown.\n\nWhat is the area of the sidewalk in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "108 ft\u00b2"
+    },
+    {
+      "label": "B",
+      "text": "162 ft\u00b2"
+    },
+    {
+      "label": "C",
+      "text": "144 ft\u00b2"
+    },
+    {
+      "label": "D",
+      "text": "180 ft\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a sidewalk shape consisting of two triangles, one rectangle, and one square with these dimensions: 18 ft horizontal length at top, 6 ft vertical heights in triangles and square, and 30 ft total length at bottom."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

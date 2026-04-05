@@ -1,0 +1,31 @@
+{
+  "stem": "Which representation best describes a proportional relationship between x and y?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = \\frac{3}{4}x - 6"
+    },
+    {
+      "label": "B",
+      "text": "[Image of a graph with a line passing through points (-1, -6) and (2, 6) on the coordinate plane]"
+    },
+    {
+      "label": "C",
+      "text": "y = x + 4"
+    },
+    {
+      "label": "D",
+      "text": "[Image of a graph with a vertical line passing through x = -3 on the coordinate plane]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with line passing through (-1, -6) and (2, 6)",
+    "graph with vertical line at x = -3"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

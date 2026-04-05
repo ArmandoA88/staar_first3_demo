@@ -1,0 +1,33 @@
+{
+  "stem": "When three squares are joined at their vertices to form a right triangle, the combined area of the two smaller squares is the same as the area of the largest square.\n\nWhich three squares do NOT support this statement?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "3 cm, 4 cm, 25 cm\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "5 cm, 12 cm, 13 cm"
+    },
+    {
+      "label": "H",
+      "text": "9 cm, 144 cm\u00b2, 21 cm"
+    },
+    {
+      "label": "J",
+      "text": "6 cm, 64 cm\u00b2, 100 cm\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "3 cm square, 4 cm square, 25 cm\u00b2 square in option F",
+    "5 cm square, 12 cm square, 13 cm square in option G",
+    "9 cm square, 144 cm\u00b2 square, 21 cm square in option H",
+    "6 cm square, 64 cm\u00b2 square, 100 cm\u00b2 square in option J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

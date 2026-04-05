@@ -1,0 +1,30 @@
+{
+  "stem": "The daily attendance at a bowling alley was recorded for 15 days. The scatterplot shows the number of lanes rented each day and the number of people who bowled that day.\n\nWhich statement is best supported by the scatterplot?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "There is a non-linear association between the number of lanes rented and the number of people who bowl."
+    },
+    {
+      "label": "G",
+      "text": "There is a negative linear association between the number of lanes rented and the number of people who bowl."
+    },
+    {
+      "label": "H",
+      "text": "There is no apparent association between the number of lanes rented and the number of people who bowl."
+    },
+    {
+      "label": "J",
+      "text": "There is a positive linear association between the number of lanes rented and the number of people who bowl."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled 'Bowling Alley Data' showing 'Number of Lanes Rented' (x-axis) from 0 to 11 and 'Number of People Bowling' (y-axis) from 0 to 70 with a positive trend."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

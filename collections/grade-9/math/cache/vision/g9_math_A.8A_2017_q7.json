@@ -1,0 +1,30 @@
+{
+  "stem": "The total number of seats in an auditorium is modeled by f(x) = 2x^2 - 6x, where x represents the number of rows of seats. How many rows are there in the auditorium if it has a total of 416 seats?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "32"
+    },
+    {
+      "label": "B",
+      "text": "13"
+    },
+    {
+      "label": "C",
+      "text": "20"
+    },
+    {
+      "label": "D",
+      "text": "16"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "f(x) = 2x^2 - 6x"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

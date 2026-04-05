@@ -1,0 +1,28 @@
+{
+  "stem": "A deck of cards contains red, orange, yellow, and green cards. For each color, there are 10 cards labeled 0 through 9.\n\nWhat is the probability of randomly selecting a red card, replacing the card, and then randomly selecting a card labeled 0?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\( \\frac{1}{40} \\)"
+    },
+    {
+      "label": "B",
+      "text": "\\( \\frac{1}{20} \\)"
+    },
+    {
+      "label": "C",
+      "text": "\\( \\frac{13}{40} \\)"
+    },
+    {
+      "label": "D",
+      "text": "\\( \\frac{7}{20} \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

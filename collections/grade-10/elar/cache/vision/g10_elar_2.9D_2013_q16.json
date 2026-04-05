@@ -1,0 +1,28 @@
+{
+  "stem": "What change, if any, should be made in sentence 5?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change tedious to tedeous"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after task"
+    },
+    {
+      "label": "H",
+      "text": "Change unrelated to unrelatted"
+    },
+    {
+      "label": "J",
+      "text": "No change should be made in this sentence."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

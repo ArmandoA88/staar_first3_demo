@@ -1,0 +1,46 @@
+{
+  "stem": "Eva is starting a new job. She earns an hourly wage, and the cost of her uniform is taken out of her first paycheck. She makes a table showing different numbers of hours she could work, x, and the amount that her first paycheck would be, y.\n\nEva's Paycheck\n\n| Number of Hours Worked, x | First Paycheck Amount, y (dollars) |\n|---------------------------|-----------------------------------|\n| 2                         | 3.50                              |\n| 5                         | 46.25                             |\n| 7                         | 74.75                             |\n| 9                         | 103.25                            |\n| 12                        | 146.00                            |\n\nBased on the table, what is Eva's hourly wage and what is the cost of her uniform?",
+  "instruction": "Move the correct answer to each box. Not all answers will be used.",
+  "options": [
+    {
+      "label": null,
+      "text": "$2.00"
+    },
+    {
+      "label": null,
+      "text": "$3.50"
+    },
+    {
+      "label": null,
+      "text": "$9.25"
+    },
+    {
+      "label": null,
+      "text": "$12.00"
+    },
+    {
+      "label": null,
+      "text": "$14.25"
+    },
+    {
+      "label": null,
+      "text": "$25.00"
+    }
+  ],
+  "choice_pool": [
+    "$2.00",
+    "$3.50",
+    "$9.25",
+    "$12.00",
+    "$14.25",
+    "$25.00"
+  ],
+  "response_template": "Hourly wage: [blank_1] per hour\nUniform cost: [blank_2]",
+  "visual_elements": [
+    "Table showing number of hours worked (2,5,7,9,12) and paycheck amount (3.50,46.25,74.75,103.25,146.00).",
+    "Boxes for hourly wage and uniform cost with draggable monetary values."
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

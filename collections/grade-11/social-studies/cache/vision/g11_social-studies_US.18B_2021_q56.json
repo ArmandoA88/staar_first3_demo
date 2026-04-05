@@ -1,0 +1,32 @@
+{
+  "stem": "Which question is associated with the passage of the Espionage and Sedition Acts during World War I?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Should industries be allowed to prohibit workers from joining unions?"
+    },
+    {
+      "label": "G",
+      "text": "Can the government require citizens to purchase war bonds?"
+    },
+    {
+      "label": "H",
+      "text": "At what age should citizens be required to enlist in a branch of the military?"
+    },
+    {
+      "label": "J",
+      "text": "Can the government limit the constitutional rights of citizens during wartime?"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2021 \u2013 Q56 header",
+    "Question number 56",
+    "Four answer options labeled F, G, H, J"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

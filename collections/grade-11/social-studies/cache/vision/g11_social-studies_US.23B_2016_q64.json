@@ -1,0 +1,31 @@
+{
+  "stem": "Which action did the federal government take to recognize these soldiers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Passing the GI Bill to give them educational benefits"
+    },
+    {
+      "label": "G",
+      "text": "Awarding them the Congressional Medal of Honor for actions above the call of duty"
+    },
+    {
+      "label": "H",
+      "text": "Providing them with monetary bonuses for demonstrating courage under fire"
+    },
+    {
+      "label": "J",
+      "text": "Awarding them battlefield promotions from enlisted to officer"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with three columns: Soldier, Achievement, Conflict",
+    "Rows: Alvin York - Led 7 men in the capture of 132 German soldiers - World War I; Vernon Baker - Destroyed German defensive positions - World War II; Roy Benavidez - Rescued wounded soldiers during a firefight - Vietnam War"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

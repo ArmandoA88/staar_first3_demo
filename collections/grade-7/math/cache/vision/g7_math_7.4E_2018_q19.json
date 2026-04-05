@@ -1,0 +1,28 @@
+{
+  "stem": "The distance between two towns is 120 kilometers. There are approximately 8 kilometers in 5 miles.\n\nWhich measurement is closest to the number of miles between these two towns?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "75 mi"
+    },
+    {
+      "label": "B",
+      "text": "3 mi"
+    },
+    {
+      "label": "C",
+      "text": "192 mi"
+    },
+    {
+      "label": "D",
+      "text": "117 mi"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

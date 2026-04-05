@@ -1,0 +1,30 @@
+{
+  "stem": "Vasodilation and vasoconstriction occur because blood \u2014",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "flows through veins and arteries"
+    },
+    {
+      "label": "B",
+      "text": "is a necessary component for life"
+    },
+    {
+      "label": "C",
+      "text": "flows through the heart at various rates"
+    },
+    {
+      "label": "D",
+      "text": "pressure is controlled by a feedback mechanism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The diagram shows changes in blood pressure over time.\n\nSignals to\n(1) decrease heart rate\n(2) vasodilate\nSignals to\n(1) increase heart rate\n(2) vasoconstrict\nSet point\n(Graph showing Blood Pressure on vertical line and Time on horizontal line with visible fluctuations and labeled signals.)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

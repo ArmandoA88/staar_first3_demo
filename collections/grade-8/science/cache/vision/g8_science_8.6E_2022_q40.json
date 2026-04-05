@@ -1,0 +1,30 @@
+{
+  "stem": "Students performed a lab investigation on chemical reactions. The students put on goggles and plastic gloves and then followed these steps.\n\n1. Pour 150 milliliters of vinegar into a beaker.\n2. Place a thermometer in the vinegar and record measurements.\n3. Add a piece of steel wool to the beaker.\n4. Observe and record thermometer measurements.\n5. Remove the steel wool from the beaker.\n6. Use tweezers to pull strands of the steel wool apart and observe changes.\n\nWhich observation would indicate that a chemical reaction occurred?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The vinegar took the shape of the container in step 1."
+    },
+    {
+      "label": "G",
+      "text": "The steel wool sank into the vinegar in step 3."
+    },
+    {
+      "label": "H",
+      "text": "The temperature of the vinegar increased during step 4."
+    },
+    {
+      "label": "J",
+      "text": "The steel wool changed shape during step 6."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "box containing the 6 steps"
+  ],
+  "item_type_inferred": "MCQ",
+  "confidence": 1,
+  "notes": null
+}

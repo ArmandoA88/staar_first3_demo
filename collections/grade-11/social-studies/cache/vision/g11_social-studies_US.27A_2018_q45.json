@@ -1,0 +1,31 @@
+{
+  "stem": "Which industry is most responsible for these quality-of-life improvements?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Communications"
+    },
+    {
+      "label": "B",
+      "text": "Aerospace"
+    },
+    {
+      "label": "C",
+      "text": "Medical research"
+    },
+    {
+      "label": "D",
+      "text": "Transportation"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The Daily Star newspaper headline: Weather Forecasts Now More Accurate With Satellite Technology",
+    "The Daily Star newspaper headline: Climate Control Technology Improves Home Energy Efficiency"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

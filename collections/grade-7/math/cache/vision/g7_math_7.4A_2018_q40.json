@@ -1,0 +1,30 @@
+{
+  "stem": "The graph represents the linear relationship between the number of books Layla has read and the number of months she has been a member of a book club.",
+  "instruction": "Which of these statements is supported by the rate of change in this relationship?",
+  "options": [
+    {
+      "label": "F",
+      "text": "Layla read 2 books in the first 3 months she was a member of the book club."
+    },
+    {
+      "label": "G",
+      "text": "Layla read 3 books in the first 2 months she was a member of the book club."
+    },
+    {
+      "label": "H",
+      "text": "Layla read 3 books in the first 4 months she was a member of the book club."
+    },
+    {
+      "label": "J",
+      "text": "Layla read 4 books in the first 3 months she was a member of the book club."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with x-axis labeled 'Number of Months in the Book Club' from 0 to 5 and y-axis labeled 'Number of Books Read' from 0 to 10. Two points plotted: (2,3) and (4,6). Title above graph: 'Books per Month'."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

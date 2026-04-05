@@ -1,0 +1,30 @@
+{
+  "stem": "The top surface of a desk is composed of 2 rectangles and a triangle. Some side lengths of the top surface of the desk are shown.\n\nWhat is the area of the top surface of the desk in square feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "9.75 ft\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "8.625 ft\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "7.50 ft\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "9.375 ft\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a polygon composed of two rectangles and one triangle with side lengths 2.5 ft, 1.5 ft, 1.5 ft, 2.5 ft, and 1.5 ft labeled"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

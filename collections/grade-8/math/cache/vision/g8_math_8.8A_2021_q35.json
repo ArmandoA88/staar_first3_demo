@@ -1,0 +1,30 @@
+{
+  "stem": "Rectangle \\(ABCD\\) is shown with the dimensions given in units.\n\nThe length of \\(\\overline{AB}\\) is greater than the length of \\(\\overline{AD}\\). Which inequality represents this situation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "9x - 16 < 1.5x + 42"
+    },
+    {
+      "label": "B",
+      "text": "9x - 16 > 1.5x + 42"
+    },
+    {
+      "label": "C",
+      "text": "10.5x < 26"
+    },
+    {
+      "label": "D",
+      "text": "10.5x > 26"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of rectangle ABCD with \\(AB = 9x - 16\\) units and \\(AD = 1.5x + 42\\) units, each angle marked as 90 degrees."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

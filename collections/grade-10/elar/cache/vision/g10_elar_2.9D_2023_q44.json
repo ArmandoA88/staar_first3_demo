@@ -1,0 +1,28 @@
+{
+  "stem": "What is the correct way to rewrite sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Two hours later the car stopped, and my head shot up. I must have dozed off."
+    },
+    {
+      "label": "B",
+      "text": "Two hours later, the car stopped, my head shot up; but then I must have dozed off."
+    },
+    {
+      "label": "C",
+      "text": "The car stopped two hours later. My head shot up; yet I must have dozed off."
+    },
+    {
+      "label": "D",
+      "text": "The car stopped, my head shot up, it was two hours later and I must have dozed off."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

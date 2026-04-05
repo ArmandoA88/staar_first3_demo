@@ -1,0 +1,31 @@
+{
+  "stem": "Which measurement is the best estimate of the area in square inches of the stove top that does not include the area of the burners?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "108 in.\u00b2"
+    },
+    {
+      "label": "G",
+      "text": "492 in.\u00b2"
+    },
+    {
+      "label": "H",
+      "text": "420 in.\u00b2"
+    },
+    {
+      "label": "J",
+      "text": "528 in.\u00b2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A model of a rectangular stove top with four circular burners is shown. The side lengths of the stove top and the diameters of the burners are labeled.",
+    "Rectangle 24 in. by 22 in. with four circles each diameter 6 in."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.98,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Two characteristics of quadratic function p are given.\n\n\u2022 The axis of symmetry of the graph of p is x = -3.\n\u2022 Function p has exactly one zero.\n\nBased on this information, which graph could represent p?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": ""
+    },
+    {
+      "label": "B",
+      "text": ""
+    },
+    {
+      "label": "C",
+      "text": ""
+    },
+    {
+      "label": "D",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: Parabola with vertex at (approximately) (-3, 1) opening downward and crossing x-axis once at x=-3",
+    "Graph B: Parabola with vertex at (approximately) (-4.5, 3) opening downward and crossing x-axis twice",
+    "Graph C: Parabola with vertex at (approximately) (3, 3) opening downward and crossing x-axis twice",
+    "Graph D: Parabola with vertex at (approximately) (3, 1) opening downward and crossing x-axis twice"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Answer choices have no text, only labeled graphs. The question is about understanding quadratic properties involving axis of symmetry and number of zeros."
+}

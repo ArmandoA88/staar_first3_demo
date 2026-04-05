@@ -1,0 +1,30 @@
+{
+  "stem": "Quadratic functions p and q are graphed on the grid. The graph of p was transformed to create the graph of q.\n\nWhich function best represents the graph of q?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "q(x) = -(x - 2)^2"
+    },
+    {
+      "label": "G",
+      "text": "q(x) = -(x + 2)^2"
+    },
+    {
+      "label": "H",
+      "text": "q(x) = -x^2 - 2"
+    },
+    {
+      "label": "J",
+      "text": "q(x) = -x^2 + 2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph showing p and q quadratic functions on the coordinate plane with p opening upwards centered at the origin and q opening downwards shifted to the right"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

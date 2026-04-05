@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph does NOT represent y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(Graph with points at (-3,-2), (-1,-1), (1,0), (5,2), and (7,3))"
+    },
+    {
+      "label": "B",
+      "text": "(Graph with points at (0,7), (0,5), (0,3), (2,-1), and (3,-3))"
+    },
+    {
+      "label": "C",
+      "text": "(Graph with points at (-3,2), (-2,2), (-1,2), (1,2), (2,2), (3,2), (4,2), (5,2), and (6,2))"
+    },
+    {
+      "label": "D",
+      "text": "(Graph with points at (-2,5), (-1,1), (0,-1), (2,-2), (3,-3), (4,-3), (5,-3), and (6,5))"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four coordinate plane graphs labeled A, B, C, and D showing plotted points."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

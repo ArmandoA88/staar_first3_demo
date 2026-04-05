@@ -1,0 +1,33 @@
+{
+  "stem": "Four triangles are shown. Based on these triangles, which statement is true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "w = 75\u00b0, because 45 + 60 = 105 and 180 - 105 = 75"
+    },
+    {
+      "label": "G",
+      "text": "w = 105\u00b0, because 180 - (45 + 60) = 75 and 180 - 75 = 105"
+    },
+    {
+      "label": "H",
+      "text": "w = 285\u00b0, because 45 + 60 = 105 and 105 + 180 = 285"
+    },
+    {
+      "label": "J",
+      "text": "w = 165\u00b0, because 180 - 60 = 120 and 120 + 45 = 165"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangle with angles 40\u00b0, 50\u00b0, 90\u00b0 (right angle) and an exterior angle 130\u00b0",
+    "triangle with angles 70\u00b0, 70\u00b0, 40\u00b0 and an exterior angle 140\u00b0",
+    "triangle with angles 35\u00b0, 120\u00b0, 25\u00b0 and an exterior angle 155\u00b0",
+    "triangle with angles w\u00b0, z\u00b0, 45\u00b0, 60\u00b0 and an exterior angle with arrows"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

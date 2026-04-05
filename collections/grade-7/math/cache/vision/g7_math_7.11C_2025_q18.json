@@ -1,0 +1,30 @@
+{
+  "stem": "One angle of an isosceles triangle measures 50\u00b0, and each of the other angles measures x\u00b0. What is the value of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "x = 65"
+    },
+    {
+      "label": "B",
+      "text": "x = 115"
+    },
+    {
+      "label": "C",
+      "text": "x = 40"
+    },
+    {
+      "label": "D",
+      "text": "x = 130"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "isosceles triangle angle problem"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

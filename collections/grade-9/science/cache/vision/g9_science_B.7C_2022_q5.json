@@ -1,0 +1,30 @@
+{
+  "stem": "Which of these shows an example of an insertion mutation?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "R S T U V X Y Z \u2192 S T U V X Y"
+    },
+    {
+      "label": "B",
+      "text": "R S T U V X Y Z \u2192 R S T V X Y Z"
+    },
+    {
+      "label": "C",
+      "text": "R S T U V X Y Z \u2192 R U T S V X Y Z"
+    },
+    {
+      "label": "D",
+      "text": "R S T U V X Y Z \u2192 K L R S T U V X Y Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Illustrations of sequences of letters inside oval shapes with some letters shaded and arrows indicating mutation transformations for choices A to D"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

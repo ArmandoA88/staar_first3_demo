@@ -1,0 +1,30 @@
+{
+  "stem": "Which precedent was established by the Supreme Court ruling in Marbury v. Madison?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The federal government has the power to regulate trade among the states."
+    },
+    {
+      "label": "B",
+      "text": "State governments lack the authority to regulate federal bureaus."
+    },
+    {
+      "label": "C",
+      "text": "Federal courts determine the constitutionality of a law."
+    },
+    {
+      "label": "D",
+      "text": "State courts lack the authority to hear cases challenging federal law."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Text only"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

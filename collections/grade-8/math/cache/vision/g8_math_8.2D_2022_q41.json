@@ -1,0 +1,30 @@
+{
+  "stem": "The map shows five proposed routes and distances for a new state highway between Camden and U.S. Highway 99.\n\nProposed Routes for State Highway 1001\n\n[Map with routes and distances]\n\nDistances for Different Proposed Routes (km):\n675/16\n40\n\\sqrt{2,111}\n586/13\n10\\sqrt{17}\n\nWhich list shows these distances from least to greatest?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "10\\sqrt{17}, 40, \\frac{586}{13}, \\frac{675}{16}, \\sqrt{2,111}"
+    },
+    {
+      "label": "B",
+      "text": "40, 10\\sqrt{17}, \\frac{675}{16}, \\frac{586}{13}, \\sqrt{2,111}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{586}{13}, \\frac{675}{16}, 10\\sqrt{17}, \\sqrt{2,111}, 40"
+    },
+    {
+      "label": "D",
+      "text": "40, \\frac{675}{16}, \\frac{586}{13}, \\sqrt{2,111}, 10\\sqrt{17}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Map showing routes from Camden to Crestview and U.S. Highway 99 with distances for five routes listed in a table: 675/16, 40, sqrt(2111), 586/13, 10 sqrt(17)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

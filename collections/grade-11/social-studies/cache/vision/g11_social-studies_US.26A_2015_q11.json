@@ -1,0 +1,31 @@
+{
+  "stem": "How did the invention shown in this patent illustration affect industry?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Machines needed to be repaired less frequently."
+    },
+    {
+      "label": "B",
+      "text": "Products could be manufactured on an assembly line."
+    },
+    {
+      "label": "C",
+      "text": "Businesses needed to hire skilled workers."
+    },
+    {
+      "label": "D",
+      "text": "Factories could extend working hours."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "T. A. Edison Electric-Lamp Patent, 1880",
+    "Image of patent with illustrations of electric lamp"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "How did Thoreau justify this act of civil disobedience?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "He disagreed with increasing taxes for the lower classes."
+    },
+    {
+      "label": "B",
+      "text": "He disapproved of increasing taxes to fund mainly urban areas."
+    },
+    {
+      "label": "C",
+      "text": "He objected to tax money being used to pay for the U.S.-Mexican War."
+    },
+    {
+      "label": "D",
+      "text": "He refused to provide tax money to a government that supported the Civil War."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "I have paid no poll tax in six years. I was put into a jail once on this account, for one night. \u2014Henry David Thoreau, Civil Disobedience, 1849"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "Which diagram correctly compares two regions of the United States during the mid-nineteenth century?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "West and Northeast: Large manufacturing centers"
+    },
+    {
+      "label": "B",
+      "text": "Northeast and Southwest: Cattle ranching and Grain farming"
+    },
+    {
+      "label": "C",
+      "text": "West and Southeast: Mining and Plantations"
+    },
+    {
+      "label": "D",
+      "text": "Southeast and Northeast: Use of slave labor"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four Venn diagrams labeled A, B, C, D comparing regions and economic activities in the mid-nineteenth century U.S."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

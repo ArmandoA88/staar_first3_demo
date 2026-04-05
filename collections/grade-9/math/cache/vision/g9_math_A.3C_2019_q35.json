@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of linear function k passes through the points (\u22127, 0) and (1, 8). Which statement must be true?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The slope of the graph of k is \\(-\\frac{4}{3}\\)."
+    },
+    {
+      "label": "B",
+      "text": "The graph of k passes through the point (\u22121, \u22128)."
+    },
+    {
+      "label": "C",
+      "text": "The zero of k is 7."
+    },
+    {
+      "label": "D",
+      "text": "The x-intercept of the graph of k is \u22127."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane with x-axis and y-axis labeled, grid from -9 to 9 on both axes"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,45 @@
+{
+  "stem": "A model of a cell is shown. Use the correct labels to complete the model.\n\nMove the correct answer to each box. Not all answers will be used.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Animal Cell"
+    },
+    {
+      "label": null,
+      "text": "Plant Cell"
+    },
+    {
+      "label": null,
+      "text": "Captures energy from sunlight"
+    },
+    {
+      "label": null,
+      "text": "Storage and transport of molecules"
+    },
+    {
+      "label": null,
+      "text": "Provides energy for cell functions"
+    },
+    {
+      "label": null,
+      "text": "Controls cell activities"
+    }
+  ],
+  "choice_pool": [
+    "Animal Cell",
+    "Plant Cell",
+    "Captures energy from sunlight",
+    "Storage and transport of molecules",
+    "Provides energy for cell functions",
+    "Controls cell activities"
+  ],
+  "response_template": "[blank_1]\n[blank_2]\n[blank_3]",
+  "visual_elements": [
+    "model of a cell with three blank labeled boxes pointing to parts of the cell and text reading 'Controls movement of materials into and out of cell' pointing to the cell membrane"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": null
+}

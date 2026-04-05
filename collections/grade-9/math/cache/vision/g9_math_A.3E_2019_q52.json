@@ -1,0 +1,31 @@
+{
+  "stem": "Linear parent function f is graphed on the grid.\n\nWhich graph best represents h(x) = -f(x) + 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with a line going upward from bottom left to top right, passing through (0,0)"
+    },
+    {
+      "label": "H",
+      "text": "Graph with a line going downward from top left to bottom right, passing through (0,3)"
+    },
+    {
+      "label": "G",
+      "text": "Graph with a line going downward from top left to bottom right, passing through (0,0)"
+    },
+    {
+      "label": "J",
+      "text": "Graph with a line going upward from bottom left to top right, passing through (0,3)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph of linear parent function f with line y=x passing through origin",
+    "four graphs labeled F, H, G, J with linear lines shown as described in options"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "The original parent function is y=x, so -f(x) is y=-x reflected about x-axis, then +3 shifts it up by 3, which matches graph H."
+}

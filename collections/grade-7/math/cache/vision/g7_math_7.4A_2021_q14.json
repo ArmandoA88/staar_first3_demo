@@ -1,0 +1,30 @@
+{
+  "stem": "A student in a foreign language program learns 15 new words each week. Which graph best represents the relationship between x, the number of weeks the student has been in the program and y, the total number of new words the student has learned?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph labeled F with a line passing through (0,0) and (6,90)"
+    },
+    {
+      "label": "H",
+      "text": "Graph labeled H with a line passing through (0,0) and (9,90)"
+    },
+    {
+      "label": "G",
+      "text": "Graph labeled G with a line passing through (0,0) and (2,90)"
+    },
+    {
+      "label": "J",
+      "text": "Graph labeled J with a line starting near (0,0) and ending near (9,20)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, J each titled 'Foreign Language Program' with labeled x-axis 'Number of Weeks' and y-axis 'Number of New Words Learned'. Each graph shows a line with different slopes."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.98,
+  "notes": null
+}

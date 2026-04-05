@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of a linear function passes through the points \\((-1,-\\frac{1}{4})\\) and \\((1,-\\frac{3}{4})\\).",
+  "instruction": "Which equation represents the function?",
+  "options": [
+    {
+      "label": "A",
+      "text": "y = -\\frac{1}{2}x - \\frac{1}{4}"
+    },
+    {
+      "label": "B",
+      "text": "y = \\frac{1}{2}x + \\frac{1}{4}"
+    },
+    {
+      "label": "C",
+      "text": "y = -\\frac{1}{4}x - \\frac{1}{2}"
+    },
+    {
+      "label": "D",
+      "text": "y = \\frac{1}{4}x + \\frac{1}{2}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate plane labeled with x and y axis, grid from -2 to 2 on both axes"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

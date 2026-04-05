@@ -1,0 +1,30 @@
+{
+  "stem": "Which similarity completes this Venn diagram?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Included debate over the use of line-item veto"
+    },
+    {
+      "label": "B",
+      "text": "Violated the principle of due process"
+    },
+    {
+      "label": "C",
+      "text": "Involved debate over the extent of executive and legislative authority"
+    },
+    {
+      "label": "D",
+      "text": "Deemed unconstitutional by the judicial branch"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two intersecting circles with text: Left circle - 'Congress passes the Gulf of Tonkin Resolution', Right circle - 'Congress passes the War Powers Act', Intersection - '?'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The name of which civil rights leader best completes the title of the graphic?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Booker T. Washington"
+    },
+    {
+      "label": "G",
+      "text": "Martin Luther King, Jr."
+    },
+    {
+      "label": "H",
+      "text": "Stokely Carmichael"
+    },
+    {
+      "label": "J",
+      "text": "Malcolm X"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Political Views of ?\nSupported\n\u2022 Civil disobedience\n\u2022 Nonviolent resistance\n\u2022 Desegregation\nOpposed\n\u2022 Expressions of violence\n\u2022 Political compromises\n\u2022 Racial separatism"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

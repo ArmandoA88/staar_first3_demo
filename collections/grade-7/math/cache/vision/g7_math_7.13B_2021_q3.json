@@ -1,0 +1,30 @@
+{
+  "stem": "Alberto\u2019s monthly income is $3,200. Part of Alberto\u2019s monthly budget is shown in the table.\n\nMonthly Budget\nCategory              Amount of Money\nRent                         $896\nGroceries                 $384\nSavings                     $165\nCar payment             $428\nUtilities                      $120\n\nWhat percentage of Alberto\u2019s income is used to pay for his rent and groceries?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "40%"
+    },
+    {
+      "label": "B",
+      "text": "28%"
+    },
+    {
+      "label": "C",
+      "text": "64%"
+    },
+    {
+      "label": "D",
+      "text": "12%"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing Category and Amount of Money for Rent, Groceries, Savings, Car payment, Utilities with respective amounts"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

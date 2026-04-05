@@ -1,0 +1,30 @@
+{
+  "stem": "Which table represents y as a function of x?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "x | y\n-5 | -5\n3 | -2\n-5 | 5\n-3 | -2"
+    },
+    {
+      "label": "G",
+      "text": "x | y\n6 | -6\n-6 | 6\n8 | -8\n-8 | 8"
+    },
+    {
+      "label": "H",
+      "text": "x | y\n-3 | -4\n1 | 4\n-3 | 4\n1 | -4"
+    },
+    {
+      "label": "J",
+      "text": "x | y\n2 | -1\n2 | -2\n2 | -3\n2 | -4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four tables labeled F, G, H, J with columns x and y showing pairs of values."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

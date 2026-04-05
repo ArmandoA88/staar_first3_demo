@@ -1,0 +1,30 @@
+{
+  "stem": "The graph of linear function f passes through the point (1, -9) and has a slope of -3.\n\nWhat is the zero of f?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "2"
+    },
+    {
+      "label": "G",
+      "text": "4"
+    },
+    {
+      "label": "H",
+      "text": "-6"
+    },
+    {
+      "label": "J",
+      "text": "-2"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "graph with x- and y-axis from -9 to 9 labeled with origin, no line drawn"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

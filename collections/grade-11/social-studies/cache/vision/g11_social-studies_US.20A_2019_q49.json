@@ -1,0 +1,30 @@
+{
+  "stem": "How did this Supreme Court decision affect judicial interpretations of the Constitution?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By expanding equal protection rights"
+    },
+    {
+      "label": "B",
+      "text": "By eliminating due process protections"
+    },
+    {
+      "label": "C",
+      "text": "By limiting free expression"
+    },
+    {
+      "label": "D",
+      "text": "By expanding the right of religious freedom"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "But it taxes our credulity to say that mere chance resulted in their [sic] being no members of this class among the over six thousand jurors called in the past 25 years. The result bespeaks discrimination, . . . [Hernandez's] only claim is the right to be indicted and tried by juries from which all members of his class are not systematically excluded\u2014juries selected from among all qualified persons regardless of national origin or descent. To this much, he is entitled by the Constitution.  \u2014Chief Justice Earl Warren, Hernandez v. Texas, May 3, 1954"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

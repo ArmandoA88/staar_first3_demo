@@ -1,0 +1,55 @@
+{
+  "stem": "Determine whether each federal government action helped private businesses or helped workers during the Pullman Strike of 1894.",
+  "instruction": "Select the correct answer in each row.",
+  "options": [
+    {
+      "label": "Federal courts ruled against those leading the boycotts and strikes.",
+      "text": "Helped Private Businesses"
+    },
+    {
+      "label": "Federal courts ruled against those leading the boycotts and strikes.",
+      "text": "Helped Workers"
+    },
+    {
+      "label": "The federal government sent troops to Illinois in order to break the strike.",
+      "text": "Helped Private Businesses"
+    },
+    {
+      "label": "The federal government sent troops to Illinois in order to break the strike.",
+      "text": "Helped Workers"
+    },
+    {
+      "label": "President Grover Cleveland signed an act making Labor Day a national holiday.",
+      "text": "Helped Private Businesses"
+    },
+    {
+      "label": "President Grover Cleveland signed an act making Labor Day a national holiday.",
+      "text": "Helped Workers"
+    },
+    {
+      "label": "Union officials were arrested and jailed for violating court orders.",
+      "text": "Helped Private Businesses"
+    },
+    {
+      "label": "Union officials were arrested and jailed for violating court orders.",
+      "text": "Helped Workers"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This list describes facts related to the Pullman Strike of 1894.",
+    "The Pullman Company makes railcars and creates a town for its workers to live in.",
+    "An economic crisis decreases Pullman Company\u2019s profits, leading to wage cuts but no decrease in workers\u2019 rents.",
+    "Pullman ignores its workers\u2019 demands, leading to a strike and national boycott of Pullman cars.",
+    "The federal government becomes involved after mail delivery is affected.",
+    "Government Action  Helped Private Businesses  Helped Workers",
+    "Federal courts ruled against those leading the boycotts and strikes.",
+    "The federal government sent troops to Illinois in order to break the strike.",
+    "President Grover Cleveland signed an act making Labor Day a national holiday.",
+    "Union officials were arrested and jailed for violating court orders."
+  ],
+  "item_type_inferred": "Match Table Grid",
+  "confidence": 0.99,
+  "notes": "The item includes a 2-column table for responses selected per row; here each row represents a government action. Options are each (row, column) label pair as shown in the table. Instruction explicitly asks for correct choice in each row."
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "What is the solution to the equation 5(2w + 4) = 4(2w + 9)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "w = \\frac{5}{2}"
+    },
+    {
+      "label": "B",
+      "text": "w = 8"
+    },
+    {
+      "label": "C",
+      "text": "w = \\frac{28}{9}"
+    },
+    {
+      "label": "D",
+      "text": "w = 5"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation: 5(2w + 4) = 4(2w + 9)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

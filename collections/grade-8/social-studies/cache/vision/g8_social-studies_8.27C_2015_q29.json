@@ -1,0 +1,30 @@
+{
+  "stem": "What was another reason Congress passed this act in 1862?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To promote settlement in the West"
+    },
+    {
+      "label": "B",
+      "text": "To protect industry in the Northeast"
+    },
+    {
+      "label": "C",
+      "text": "To improve transportation in the South"
+    },
+    {
+      "label": "D",
+      "text": "To transport manufactured goods to the East"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Reasons for Passage of the Pacific Railway Act\n\u2022 To aid in the construction of a telegraph line\n\u2022 To provide transport for military purposes\n\u2022 To connect California to the rest of the Union"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

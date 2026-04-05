@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the relationship between the number of games a baseball team won in a season and the number of hours the team practiced each week during the season.\n\nBased on the scatterplot, which is the best prediction of the number of games a baseball team won if the team practiced 3 hours each week during the season?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "10 games"
+    },
+    {
+      "label": "G",
+      "text": "20 games"
+    },
+    {
+      "label": "H",
+      "text": "13 games"
+    },
+    {
+      "label": "J",
+      "text": "15 games"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled 'Baseball Games Won vs. Hours of Practice'. X-axis: Hours of Practice per Week (0 to 5). Y-axis: Number of Games Won (0 to 20). Data points increase in games won with more hours of practice."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

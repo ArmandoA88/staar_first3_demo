@@ -1,0 +1,33 @@
+{
+  "stem": "In a city, the average cost of electricity is $0.12 per kilowatt-hour. Which graph best represents this relationship?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph showing a very gradual increase in cost from 0 to about 1.5 dollars at 12 kilowatt-hours"
+    },
+    {
+      "label": "B",
+      "text": "Graph showing an increase in cost to about 1.2 dollars at 12 kilowatt-hours"
+    },
+    {
+      "label": "C",
+      "text": "Graph showing a linear increase where cost reaches 12 dollars at 12 kilowatt-hours"
+    },
+    {
+      "label": "D",
+      "text": "Graph showing a steep increase in cost to 12 dollars at 1 kilowatt-hour"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph A: labeled 'Electricity Cost' y-axis 0 to 12 dollars, x-axis 0 to 12 kilowatt-hours, line very shallow upward",
+    "Graph B: labeled 'Electricity Cost' y-axis 0 to 12 dollars, x-axis 0 to 12 kilowatt-hours, line slightly steeper ending near 1.2 dollars",
+    "Graph C: labeled 'Electricity Cost' y-axis 0 to 12 dollars, x-axis 0 to 12 kilowatt-hours, line linear ending at 12 dollars at 12 kWh",
+    "Graph D: labeled 'Electricity Cost' y-axis 0 to 12 dollars, x-axis 0 to 12 kilowatt-hours, line steep ending at 12 dollars at 1 kWh"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

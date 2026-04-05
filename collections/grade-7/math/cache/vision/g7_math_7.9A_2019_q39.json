@@ -1,0 +1,30 @@
+{
+  "stem": "A ringtoss toy is composed of a rectangular prism on top of a cylinder. The rectangular prism is completely filled with water. The dimensions of the rectangular prism are shown in the diagram.\n\nWhat is the volume of the rectangular prism in cubic centimeters?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "26 cm\u00b3"
+    },
+    {
+      "label": "B",
+      "text": "270 cm\u00b3"
+    },
+    {
+      "label": "C",
+      "text": "165 cm\u00b3"
+    },
+    {
+      "label": "D",
+      "text": "348 cm\u00b3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram of a rectangular prism with dimensions labeled: 2 cm (width), 9 cm (depth), and 15 cm (height)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "Which answer choice describes how the graph of f(x) = x\u00b2 was transformed to create the graph of n(x) = x\u00b2 - 1?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A vertical shift up"
+    },
+    {
+      "label": "B",
+      "text": "A horizontal shift to the left"
+    },
+    {
+      "label": "C",
+      "text": "A vertical shift down"
+    },
+    {
+      "label": "D",
+      "text": "A horizontal shift to the right"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "f(x) = x\u00b2",
+    "n(x) = x\u00b2 - 1"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

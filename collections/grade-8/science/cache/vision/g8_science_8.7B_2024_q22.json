@@ -1,0 +1,30 @@
+{
+  "stem": "The mass, applied force, and frictional force for four carts are shown in the table.\n\n| Cart | Mass (kg) | Applied Force (N) | Frictional Force (N) |\n|-------|-----------|-------------------|----------------------|\n| W     | 5         | 15                | 10                   |\n| X     | 10        | 15                | 10                   |\n| Y     | 5         | 30                | 15                   |\n| Z     | 10        | 30                | 15                   |",
+  "instruction": "Part A\nBased on the data table, which cart has the lowest acceleration?",
+  "options": [
+    {
+      "label": "A",
+      "text": "W"
+    },
+    {
+      "label": "B",
+      "text": "X"
+    },
+    {
+      "label": "C",
+      "text": "Y"
+    },
+    {
+      "label": "D",
+      "text": "Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with columns Cart, Mass (kg), Applied Force (N), Frictional Force (N); rows W 5 15 10, X 10 15 10, Y 5 30 15, Z 10 30 15"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": "Extracted only Part A to fit one problem as requested; Part B ignored."
+}

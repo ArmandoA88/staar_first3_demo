@@ -1,0 +1,30 @@
+{
+  "stem": "Zachary is buying 4 tires for his car. The table shows the prices and the advertised sales for the same type of tire at 4 tire stores.\n\nTire Store Sales\n\n| Store | Price per Tire | Advertised Sale |\n|-------|----------------|-----------------|\n| R     | $150           | Buy 3 tires and get the 4th tire free |\n| S     | $200           | Buy 4 tires and receive $70 off the price of each tire |\n| T     | $175           | Buy 4 tires and receive $200 off the total price |\n| V     | $130           | Buy 4 tires and receive 10% off the total price |",
+  "instruction": "Based on the advertised sales, at which store will Zachary get the lowest price on 4 tires?",
+  "options": [
+    {
+      "label": "F",
+      "text": "Store R"
+    },
+    {
+      "label": "G",
+      "text": "Store S"
+    },
+    {
+      "label": "H",
+      "text": "Store T"
+    },
+    {
+      "label": "J",
+      "text": "Store V"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with columns: Store, Price per Tire, Advertised Sale for stores R, S, T, V"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

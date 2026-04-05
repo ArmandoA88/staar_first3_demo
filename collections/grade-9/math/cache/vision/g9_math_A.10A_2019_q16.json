@@ -1,0 +1,30 @@
+{
+  "stem": "Which expression is equivalent to (10 + 7r - r^2) + (-6r^2 - 18 + 5r)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "-7r^2 + 2r + 8"
+    },
+    {
+      "label": "G",
+      "text": "7r^2 + 12r + 8"
+    },
+    {
+      "label": "H",
+      "text": "-7r^2 + 12r - 8"
+    },
+    {
+      "label": "J",
+      "text": "7r^2 + 2r - 8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "(10 + 7r - r^2) + (-6r^2 - 18 + 5r)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-10-elar",
+  "label": "English II ELAR",
+  "grade": 10,
+  "subject": "ELAR",
+  "status": "ready",
+  "root": "collections/grade-10/elar",
+  "source_pdf": "collections/grade-10/elar/source/elar english 2.pdf",
+  "catalog": "collections/grade-10/elar/data/staar_catalog.json",
+  "reports": {
+    "coverage_csv": "collections/grade-10/elar/reports/pdf_coverage_report.csv",
+    "coverage_md": "collections/grade-10/elar/reports/pdf_coverage_report.md",
+    "coverage_summary_json": "collections/grade-10/elar/reports/pdf_coverage_summary.json"
+  },
+  "images_dir": "collections/grade-10/elar/images/extracted",
+  "stimulus_images_dir": "collections/grade-10/elar/images/stimuli",
+  "vision_cache_dir": "collections/grade-10/elar/cache/vision"
+}

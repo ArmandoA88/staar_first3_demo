@@ -1,0 +1,30 @@
+{
+  "stem": "A teacher bought markers at a cost of $3 per set. The teacher had a $2-off coupon to use toward the total cost of the markers bought.\n\nWhich table shows the relationship between x, the number of sets of markers bought by the teacher, and y, the total cost of the markers?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Sets of Markers Bought, x  | Total Cost, y\n3  | $7\n9  | $25\n12 | $34\n24 | $70"
+    },
+    {
+      "label": "B",
+      "text": "Sets of Markers Bought, x  | Total Cost, y\n9  | $1\n12 | $2\n15 | $3\n24 | $6"
+    },
+    {
+      "label": "C",
+      "text": "Sets of Markers Bought, x  | Total Cost, y\n3  | $11\n9  | $29\n12 | $38\n24 | $74"
+    },
+    {
+      "label": "D",
+      "text": "Sets of Markers Bought, x  | Total Cost, y\n9  | $5\n12 | $6\n15 | $7\n24 | $10"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "four tables each labeled A, B, C, D with columns 'Sets of Markers Bought, x' and 'Total Cost, y' showing different values"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

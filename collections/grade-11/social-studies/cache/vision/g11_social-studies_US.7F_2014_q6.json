@@ -1,0 +1,32 @@
+{
+  "stem": "What was a primary purpose of the program being promoted by this poster?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "To encourage women to join the workforce"
+    },
+    {
+      "label": "G",
+      "text": "To reduce health problems among working women"
+    },
+    {
+      "label": "H",
+      "text": "To promote the purchase of organically grown produce"
+    },
+    {
+      "label": "J",
+      "text": "To increase the food supply during a farm-labor shortage"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Black and white photo of a woman holding a basket of vegetables and a hoe",
+    "Poster text: 'WAR GARDENS FOR VICTORY'",
+    "Poster text: 'GROW VITAMINS AT YOUR KITCHEN DOOR'"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

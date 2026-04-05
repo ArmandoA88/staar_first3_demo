@@ -1,0 +1,30 @@
+{
+  "stem": "A linear function is represented on the coordinate grid.\n\nWhat is the y-intercept of the graph of this function?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "5"
+    },
+    {
+      "label": "G",
+      "text": "6"
+    },
+    {
+      "label": "H",
+      "text": "-\\frac{7}{8}"
+    },
+    {
+      "label": "J",
+      "text": "-\\frac{8}{7}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Coordinate grid with a line passing through points (0, 5) and (8, -2)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

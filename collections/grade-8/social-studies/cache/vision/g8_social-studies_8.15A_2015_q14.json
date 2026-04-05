@@ -1,0 +1,30 @@
+{
+  "stem": "Which U.S. document guarantees protection against these injustices?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The Constitution"
+    },
+    {
+      "label": "G",
+      "text": "The Declaration of Independence"
+    },
+    {
+      "label": "H",
+      "text": "The Articles of Confederation"
+    },
+    {
+      "label": "J",
+      "text": "The Mayflower Compact"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "And excessive bail hath been required of persons committed in criminal cases to elude the benefit of the laws made for the liberty of the subjects; And excessive fines have been imposed; And illegal and cruel punishments inflicted . . . \u2014English Bill of Rights, 1689"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

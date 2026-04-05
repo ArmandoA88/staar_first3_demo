@@ -1,0 +1,30 @@
+{
+  "stem": "Nerissa has 5 pink bows, 1 blue bow, and 4 purple bows in a box. She will randomly choose 1 bow from the box.\n\nWhat is the probability Nerissa will choose a purple bow?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{1}{2}"
+    },
+    {
+      "label": "G",
+      "text": "\\frac{2}{5}"
+    },
+    {
+      "label": "H",
+      "text": "\\frac{1}{10}"
+    },
+    {
+      "label": "J",
+      "text": "\\frac{3}{5}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Fraction"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

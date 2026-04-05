@@ -1,0 +1,30 @@
+{
+  "stem": "Based on the facts of this case and your knowledge of constitutional rights, which outcome resulted from this U.S. Supreme Court decision?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Constitutional guarantees of due process in criminal trials were increased."
+    },
+    {
+      "label": "B",
+      "text": "Constitutional protections against unlawful searches and seizures were expanded."
+    },
+    {
+      "label": "C",
+      "text": "Constitutional assurances of the right to an attorney were expanded."
+    },
+    {
+      "label": "D",
+      "text": "Constitutional safeguards against excessive bails and fines were increased."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This list highlights some facts from a U.S. Supreme Court case during the 1960s.\n\nMapp v. Ohio (1961)\n\n\u2022 Police officers forcibly entered a house without a warrant.\n\u2022 Officers arrested house owner Dollree Mapp for having illegal photographs.\n\u2022 Mapp appealed to the Supreme Court, saying that her constitutional liberties had been violated.\n\u2022 The Supreme Court decided in favor of Mapp."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

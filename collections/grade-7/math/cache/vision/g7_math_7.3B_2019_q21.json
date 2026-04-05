@@ -1,0 +1,35 @@
+{
+  "stem": "This week Andres will practice with his band for 1\\frac{1}{2} hours on Monday, 1\\frac{3}{4} hours on Tuesday, and 2 hours on Wednesday. Next week Andres will practice with his band for the same number of hours on Monday, Tuesday, and Wednesday. What is the total number of hours Andres will practice with his band over these 6 days?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "5\\frac{1}{4} hours"
+    },
+    {
+      "label": "B",
+      "text": "10\\frac{1}{2} hours"
+    },
+    {
+      "label": "C",
+      "text": "4\\frac{1}{4} hours"
+    },
+    {
+      "label": "D",
+      "text": "8\\frac{1}{2} hours"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "1 1/2",
+    "1 3/4",
+    "5 1/4",
+    "10 1/2",
+    "4 1/4",
+    "8 1/2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

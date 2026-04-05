@@ -1,0 +1,30 @@
+{
+  "stem": "Which factor most encouraged the growth of this trade?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The invention of the steam engine"
+    },
+    {
+      "label": "B",
+      "text": "The profitability of cash-crop agriculture"
+    },
+    {
+      "label": "C",
+      "text": "The development of the factory system"
+    },
+    {
+      "label": "D",
+      "text": "The establishment of protective tariffs"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Colonial Transatlantic Trade diagram with arrows from Colonies in America to European countries, from European countries to West African coast, and from West African coast back to Colonies in America"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

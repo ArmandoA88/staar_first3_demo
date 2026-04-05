@@ -1,0 +1,34 @@
+{
+  "stem": "A rectangular prism is shown. Figures are not drawn to scale.\n\n[Diagram of rectangular prism: dimensions 4 in., 8 in., 20 in.]\n\nWhich rectangular prism has the same total surface area?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "[Diagram of rectangular prism: dimensions 3 in., 14 in., 14 in.]"
+    },
+    {
+      "label": "B",
+      "text": "[Diagram of rectangular prism: dimensions 16 in., 2 in., 10 in.]"
+    },
+    {
+      "label": "C",
+      "text": "[Diagram of rectangular prism: dimensions 3 in., 4 in., 40 in.]"
+    },
+    {
+      "label": "D",
+      "text": "[Diagram of rectangular prism: dimensions 14 in., 4 in., 12 in.]"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "rectangular prism diagram 4x8x20",
+    "option A prism diagram 3x14x14",
+    "option B prism diagram 16x2x10",
+    "option C prism diagram 3x4x40",
+    "option D prism diagram 14x4x12"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

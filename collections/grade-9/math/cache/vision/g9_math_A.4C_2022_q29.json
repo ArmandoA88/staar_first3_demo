@@ -1,0 +1,31 @@
+{
+  "stem": "A construction manager is monitoring the progress of the build of a new house. The scatterplot and table show the number of months since the start of the build and the percentage of the house still left to build. A linear function can be used to model this relationship.\n\nWhich function best models the data?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "y = -13.5x + 97.8"
+    },
+    {
+      "label": "B",
+      "text": "y = -13.5x + 7.3"
+    },
+    {
+      "label": "C",
+      "text": "y = 97.8x - 13.5"
+    },
+    {
+      "label": "D",
+      "text": "y = 7.3x - 97.8"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot with points at (0,100), (1,86), (2,65), (3,59), (4,41), (5,34)",
+    "table with columns 'Number of Months Since Start of Build, x' and 'Percentage of House Left to Build, y' listing rows: (0,100), (1,86), (2,65), (3,59), (4,41), (5,34)"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

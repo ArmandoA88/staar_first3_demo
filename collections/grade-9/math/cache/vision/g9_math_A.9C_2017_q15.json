@@ -1,0 +1,28 @@
+{
+  "stem": "A particular type of cell doubles in number every hour. Which function can be used to find the number of cells present at the end of h hours if there are initially 4 of these cells?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "n = 4 \\left( \\frac{1}{2} \\right) ^{h}"
+    },
+    {
+      "label": "B",
+      "text": "n = 4(2)^{h}"
+    },
+    {
+      "label": "C",
+      "text": "n = 4 + (2)^h"
+    },
+    {
+      "label": "D",
+      "text": "n = 4 + \\left( \\frac{1}{2} \\right)^h"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

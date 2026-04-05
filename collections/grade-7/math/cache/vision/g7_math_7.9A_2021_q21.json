@@ -1,0 +1,30 @@
+{
+  "stem": "A container in the shape of a triangular prism is used to hold a slice of pizza. The dimensions of the container are shown in the diagram.\n\nWhat is the volume of the container in cubic inches?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "58.32 in.^3"
+    },
+    {
+      "label": "B",
+      "text": "116.64 in.^3"
+    },
+    {
+      "label": "C",
+      "text": "19.44 in.^3"
+    },
+    {
+      "label": "D",
+      "text": "28.5 in.^3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "triangle prism diagram with labeled sides 10.8 in., 7.2 in., 9 in., 1.5 in."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "A music club has 15 members. Each member pays monthly dues of $14.60. On the first day of the month, 8 members paid their dues. The remaining members paid their dues on the second day of the month. How much money was collected in dues on the second day of the month?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$335.80"
+    },
+    {
+      "label": "B",
+      "text": "$102.20"
+    },
+    {
+      "label": "C",
+      "text": "$116.80"
+    },
+    {
+      "label": "D",
+      "text": "$219.00"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

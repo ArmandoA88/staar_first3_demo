@@ -1,0 +1,36 @@
+{
+  "stem": "How have these groups helped shape U.S. culture?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "By fighting against child labor"
+    },
+    {
+      "label": "B",
+      "text": "By supporting strict immigration quotas"
+    },
+    {
+      "label": "C",
+      "text": "By focusing on expanding civil rights for minorities"
+    },
+    {
+      "label": "D",
+      "text": "By lobbying against equal pay for equal work"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Selected Interest Groups",
+    "Japanese American Citizens League (JACL)",
+    "League of United Latin American Citizens (LULAC)",
+    "National Association for the Advancement of Colored People (NAACP)",
+    "National Congress of American Indians (NCAI)",
+    "National Urban League",
+    "Rainbow PUSH Coalition"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

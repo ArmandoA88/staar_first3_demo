@@ -1,0 +1,30 @@
+{
+  "stem": "Which situation led the U.S. government to print these coupons?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "The economic collapse of the Soviet Union caused by increased defense spending"
+    },
+    {
+      "label": "G",
+      "text": "A shortage of consumer goods following the end of a global conflict"
+    },
+    {
+      "label": "H",
+      "text": "Economic deflation caused by increased trade globalization"
+    },
+    {
+      "label": "J",
+      "text": "An embargo organized by the Organization of Petroleum Exporting Countries"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "black-and-white photo of gasoline rationing stamps with George Washington's face, a hand holding a magnifying glass over some stamps"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

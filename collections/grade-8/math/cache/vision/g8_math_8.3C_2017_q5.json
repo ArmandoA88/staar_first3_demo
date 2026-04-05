@@ -1,0 +1,30 @@
+{
+  "stem": "Triangle MNP is graphed on a coordinate grid with vertices at M (-3, -6), N (0, 3) and P (6, -3). Triangle MNP is dilated by a scale factor of u with the origin as the center of dilation to create triangle M'N'P'. Which ordered pair represents the coordinates of the vertex P'?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(6 + u, -3 + u)"
+    },
+    {
+      "label": "B",
+      "text": "\\left(\\frac{6}{u}, -\\frac{3}{u}\\right)"
+    },
+    {
+      "label": "C",
+      "text": "\\left(6 + \\frac{1}{u}, -3 + \\frac{1}{u}\\right)"
+    },
+    {
+      "label": "D",
+      "text": "(6u, -3u)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Triangle MNP vertices coordinates and dilation scale factor"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

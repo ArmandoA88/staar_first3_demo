@@ -1,0 +1,31 @@
+{
+  "stem": "The table represents some points on the graph of an exponential function.\n\n| x  | f(x) |\n|----|-------|\n| -2 | 12.5  |\n| -1 | 15    |\n| 0  | 18    |\n| 1  | 21.6  |\n| 2  | 25.92 |",
+  "instruction": "Which function represents the same relationship?",
+  "options": [
+    {
+      "label": "A",
+      "text": "f(x) = 15 \\left( \\frac{5}{6} \\right)^x"
+    },
+    {
+      "label": "B",
+      "text": "f(x) = 18 \\left( \\frac{6}{5} \\right)^x"
+    },
+    {
+      "label": "C",
+      "text": "f(x) = 15 \\left( \\frac{6}{5} \\right)^x"
+    },
+    {
+      "label": "D",
+      "text": "f(x) = 18 \\left( \\frac{5}{6} \\right)^x"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table with x values -2 to 2 and corresponding f(x) values 12.5, 15, 18, 21.6, 25.92",
+    "Answer choices with exponential functions A to D as shown"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

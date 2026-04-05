@@ -1,0 +1,30 @@
+{
+  "stem": "The chart shows properties of four elements.\n\nElement Properties\n\n| Element | Luster | Conducts Electricity | Conducts Heat | Melting Point |\n|---------|--------|---------------------|--------------|--------------|\n| 1       | Shiny  | Yes                 | Yes          | Low          |\n| 2       | Dull   | No                  | No           | Low          |\n| 3       | Shiny  | Yes                 | Yes          | High         |\n| 4       | Dull   | Yes                 | Yes          | High         |\n\nBased on these properties, which element is most likely a nonmetal?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Element 1"
+    },
+    {
+      "label": "G",
+      "text": "Element 2"
+    },
+    {
+      "label": "H",
+      "text": "Element 3"
+    },
+    {
+      "label": "J",
+      "text": "Element 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table showing Element Properties with columns: Element, Luster, Conducts Electricity, Conducts Heat, Melting Point and rows for elements 1 to 4 with respective properties"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

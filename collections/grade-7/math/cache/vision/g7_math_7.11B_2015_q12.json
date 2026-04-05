@@ -1,0 +1,28 @@
+{
+  "stem": "Which equation is true when the value of x is -12?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{1}{2}x + 22 = 20"
+    },
+    {
+      "label": "B",
+      "text": "15 - \\frac{1}{2}x = 21"
+    },
+    {
+      "label": "C",
+      "text": "11 - 2x = 17"
+    },
+    {
+      "label": "D",
+      "text": "3x - 19 = -17"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

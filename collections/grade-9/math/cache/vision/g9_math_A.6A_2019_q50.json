@@ -1,0 +1,30 @@
+{
+  "stem": "What are the domain and range of \\( g(x) = -\\frac{1}{4}(x-17)^2 + 61 \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Domain: All real numbers\nRange: \\( g(x) \\leq 61 \\)"
+    },
+    {
+      "label": "G",
+      "text": "Domain: \\( x \\leq 17 \\)\nRange: \\( g(x) \\leq 61 \\)"
+    },
+    {
+      "label": "H",
+      "text": "Domain: All real numbers\nRange: \\( x \\leq 17 \\)"
+    },
+    {
+      "label": "J",
+      "text": "Domain: \\( g(x) \\geq 61 \\)\nRange: \\( x \\leq 17 \\)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "g(x) = -\\frac{1}{4}(x-17)^2 + 61"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

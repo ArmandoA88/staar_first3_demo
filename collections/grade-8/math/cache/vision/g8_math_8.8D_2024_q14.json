@@ -1,0 +1,20 @@
+{
+  "stem": "The figures shown each have a set of parallel lines intersected by a transversal.\n\nBased on the figures, what are the measures x, y, and z in degrees?",
+  "instruction": "Move the correct answer to each box in the table. Each answer may be used more than once. Not all answers will be used.",
+  "options": [],
+  "choice_pool": [
+    "30\u00b0",
+    "50\u00b0",
+    "60\u00b0",
+    "100\u00b0",
+    "120\u00b0",
+    "150\u00b0"
+  ],
+  "response_template": "Angle Measures\nUnknown   Value\nx          [blank_1]\ny          [blank_2]\nz          [blank_3]",
+  "visual_elements": [
+    "Four geometric figures showing sets of parallel lines intersected by a transversal, with angles labeled as follows: 45\u00b0, 135\u00b0, 45\u00b0, 68\u00b0, 22\u00b0, 112\u00b0, 68\u00b0, 48\u00b0, 42\u00b0, 132\u00b0, 48\u00b0, 30\u00b0, x, y, z, all with right angles marked at intersections."
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 1,
+  "notes": "The problem requires identifying angle values (x, y, z) and dragging the correct numerical degree measurements into the corresponding blanks."
+}

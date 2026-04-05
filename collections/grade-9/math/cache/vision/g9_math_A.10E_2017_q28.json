@@ -1,0 +1,31 @@
+{
+  "stem": "Which expression is equivalent to m^2 - 13m - 30?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "(m - 15)(m + 2)"
+    },
+    {
+      "label": "G",
+      "text": "(m - 10)(m - 3)"
+    },
+    {
+      "label": "H",
+      "text": "(m + 15)(m - 2)"
+    },
+    {
+      "label": "J",
+      "text": "(m + 10)(m + 3)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "equation m^2 - 13m - 30",
+    "answer_choices labeled F, G, H, J with algebraic expressions"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

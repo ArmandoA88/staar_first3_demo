@@ -1,0 +1,34 @@
+{
+  "stem": "Why were parks like those on this list established?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "To decrease the effects of climate change"
+    },
+    {
+      "label": "B",
+      "text": "To preserve natural resources"
+    },
+    {
+      "label": "C",
+      "text": "To allow the federal government to obtain fossil fuels"
+    },
+    {
+      "label": "D",
+      "text": "To control flooding in remote areas"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Selected U.S. National Parks",
+    "\u2022 Carlsbad Caverns, New Mexico",
+    "\u2022 Grand Canyon, Arizona",
+    "\u2022 Big Bend, Texas",
+    "\u2022 Crater Lake, Oregon"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

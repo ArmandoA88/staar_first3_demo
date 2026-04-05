@@ -1,0 +1,30 @@
+{
+  "stem": "What change needs to be made in sentence 7?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change others to other\u2019s"
+    },
+    {
+      "label": "B",
+      "text": "Change is to are"
+    },
+    {
+      "label": "C",
+      "text": "Change quite to quiet"
+    },
+    {
+      "label": "D",
+      "text": "Change accessible to accessable"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

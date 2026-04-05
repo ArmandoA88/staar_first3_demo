@@ -1,0 +1,30 @@
+{
+  "stem": "Which graph best represents \\( f(x) = 2(5)^x \\)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Graph with y-values up to 80 and x-values from -3 to 5, showing a steep exponential growth starting near (0,2)"
+    },
+    {
+      "label": "H",
+      "text": "Graph with y-values up to 80 and x-values from -3 to 5, showing exponential growth starting near (0,1)"
+    },
+    {
+      "label": "G",
+      "text": "Graph with y-values up to 40 and x-values from -1 to 2, showing exponential growth starting near (0,1)"
+    },
+    {
+      "label": "J",
+      "text": "Graph with y-values up to 40 and x-values from -1 to 2, showing exponential growth starting near (0,5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four graphs labeled F, H, G, and J with x and y axes and exponential curves."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.95,
+  "notes": "Graphs show exponential curves with different ranges and scales; correct match is based on initial value 2 and rapid growth factor 5."
+}

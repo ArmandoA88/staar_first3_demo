@@ -1,0 +1,33 @@
+{
+  "stem": "What change is needed in sentence 8?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Change *their* to *its*"
+    },
+    {
+      "label": "B",
+      "text": "Change *separates* to seperates"
+    },
+    {
+      "label": "C",
+      "text": "Change *Oceans* to *oceans*"
+    },
+    {
+      "label": "D",
+      "text": "Insert a comma after *miles*"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A Change their to its",
+    "B Change separates to seperates",
+    "C Change Oceans to oceans",
+    "D Insert a comma after miles"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

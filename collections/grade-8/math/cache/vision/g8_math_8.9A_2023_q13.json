@@ -1,0 +1,30 @@
+{
+  "stem": "The two lines graphed on the coordinate grid represent a system of equations.\n\n[graph showing two lines with points labeled (0, 7), (8, 3), (2, 0), and (0, -5)]",
+  "instruction": "Which ordered pair is the solution of the system of equations?",
+  "options": [
+    {
+      "label": "A",
+      "text": "(5, 4)"
+    },
+    {
+      "label": "B",
+      "text": "(0, -5)"
+    },
+    {
+      "label": "C",
+      "text": "(8, 3)"
+    },
+    {
+      "label": "D",
+      "text": "(4, 5)"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with two lines intersecting near (4, 5), points labeled (0, 7), (8, 3), (2, 0), and (0, -5)"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

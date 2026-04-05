@@ -1,0 +1,30 @@
+{
+  "stem": "How did the canals shown on the map affect this region of the United States?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "They provided a source for the irrigation of farms and fields."
+    },
+    {
+      "label": "B",
+      "text": "They served as a means of flood control for cities and towns."
+    },
+    {
+      "label": "C",
+      "text": "They ensured safe supplies of freshwater for towns and cities."
+    },
+    {
+      "label": "D",
+      "text": "They reduced transportation costs and the time to ship goods."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "U.S. Canals, 1820\u20131860 map showing canal routes and city names"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

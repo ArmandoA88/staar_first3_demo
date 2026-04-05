@@ -1,0 +1,30 @@
+{
+  "stem": "What change, if any, needs to be made in sentence 2?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change being to I am"
+    },
+    {
+      "label": "G",
+      "text": "Insert a comma after childhood"
+    },
+    {
+      "label": "H",
+      "text": "Change plays to playing"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 2 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "text"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

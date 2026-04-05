@@ -1,0 +1,28 @@
+{
+  "stem": "How should sentence 11 be changed?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Change instituted to instituting"
+    },
+    {
+      "label": "G",
+      "text": "Change policies to policy's"
+    },
+    {
+      "label": "H",
+      "text": "Change inforced to enforced"
+    },
+    {
+      "label": "J",
+      "text": "Sentence 11 should not be changed."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

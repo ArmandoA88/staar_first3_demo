@@ -1,0 +1,30 @@
+{
+  "stem": "If p(x) = 5(x^2 + 1) + 16, what is the value of p(11)?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "690"
+    },
+    {
+      "label": "B",
+      "text": "736"
+    },
+    {
+      "label": "C",
+      "text": "622"
+    },
+    {
+      "label": "D",
+      "text": "626"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "p(x) = 5(x^2 + 1) + 16"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

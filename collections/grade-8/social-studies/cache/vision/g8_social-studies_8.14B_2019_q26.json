@@ -1,0 +1,30 @@
+{
+  "stem": "Which person is most likely a supporter of free enterprise?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "1"
+    },
+    {
+      "label": "G",
+      "text": "2"
+    },
+    {
+      "label": "H",
+      "text": "3"
+    },
+    {
+      "label": "J",
+      "text": "4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Four people labeled 1 to 4 with speech bubbles: 1: The government is responsible for enforcing tariffs. 2: The government should do very little to control trade. 3: The government should tax wealthy businesses. 4: The government is responsible for helping all businesses."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

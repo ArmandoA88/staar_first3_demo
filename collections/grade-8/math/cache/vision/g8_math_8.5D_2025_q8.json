@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the relationship between the amount of money a small business spent on advertising in each of 10 weeks and the amount of revenue in dollars the business received each week.\n\nBased on the scatterplot, which value is the best prediction for the amount of revenue in dollars the business will receive in a week when $1,000 is spent on advertising?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "$15,000"
+    },
+    {
+      "label": "B",
+      "text": "$11,000"
+    },
+    {
+      "label": "C",
+      "text": "$13,000"
+    },
+    {
+      "label": "D",
+      "text": "$8,000"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Scatterplot titled Small Business Finances with x-axis labeled Amount Spent on Advertising (dollars) ranging from 0 to 1,000 in increments of 100 and y-axis labeled Amount of Revenue Received (dollars) ranging from 1,500 to 15,000 in increments of 1,500. Points plotted show a positive trend increasing from about (200, 3,000) to (800, 10,500)."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

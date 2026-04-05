@@ -1,0 +1,31 @@
+{
+  "stem": "What was one result of the law described above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Northerners who believed the law was unfair began to support the abolitionist movement."
+    },
+    {
+      "label": "G",
+      "text": "Religious groups left the abolitionist movement to avoid political controversy."
+    },
+    {
+      "label": "H",
+      "text": "Southerners used the law to challenge the constitutionality of abolitionist goals."
+    },
+    {
+      "label": "J",
+      "text": "Abolitionist societies began to focus their efforts on promoting women\u2019s suffrage."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "This controversial law allowed slave-hunters to seize alleged fugitive slaves without due process of law and prohibited anyone from aiding escaped fugitives or obstructing their recovery. Because it was often presumed that a black person was a slave, the law threatened the safety of all blacks. . . .",
+    "\u2014Text from an online exhibit describing the Fugitive Slave Law of 1850, Library of Congress, http://www.loc.gov (accessed December 9, 2009)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

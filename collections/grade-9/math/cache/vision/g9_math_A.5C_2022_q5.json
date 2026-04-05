@@ -1,0 +1,31 @@
+{
+  "stem": "What is the solution to this system of equations?\n\n2x + y = 40\nx - 2y = -20",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "(12, 16)"
+    },
+    {
+      "label": "B",
+      "text": "(15, 17.5)"
+    },
+    {
+      "label": "C",
+      "text": "There is no solution."
+    },
+    {
+      "label": "D",
+      "text": "There are an infinite number of solutions."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2x + y = 40",
+    "x - 2y = -20"
+  ],
+  "item_type_inferred": "MC",
+  "confidence": 1,
+  "notes": null
+}

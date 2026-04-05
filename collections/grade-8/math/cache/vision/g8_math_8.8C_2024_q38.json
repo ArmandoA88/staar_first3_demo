@@ -1,0 +1,30 @@
+{
+  "stem": "What value of x makes this equation true?\n\n2x + 9 - 4x = x - 12",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "7"
+    },
+    {
+      "label": "B",
+      "text": "-21"
+    },
+    {
+      "label": "C",
+      "text": "-1"
+    },
+    {
+      "label": "D",
+      "text": "3"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2x + 9 - 4x = x - 12"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

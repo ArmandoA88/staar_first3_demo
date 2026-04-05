@@ -1,0 +1,30 @@
+{
+  "stem": "Figure ABCDE is similar to figure VWXYZ.",
+  "instruction": "Which proportion must be true?",
+  "options": [
+    {
+      "label": "A",
+      "text": "\\frac{AE}{XY} = \\frac{CD}{VZ}"
+    },
+    {
+      "label": "B",
+      "text": "\\frac{AB}{VW} = \\frac{YZ}{DE}"
+    },
+    {
+      "label": "C",
+      "text": "\\frac{BC}{XY} = \\frac{DE}{YZ}"
+    },
+    {
+      "label": "D",
+      "text": "\\frac{AB}{VW} = \\frac{CD}{XY}"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Two similar pentagons, labeled ABCDE and VWXYZ, with vertices clearly marked."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

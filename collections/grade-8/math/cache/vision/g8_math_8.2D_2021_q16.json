@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the diagonal lengths of TV screens at a store.\n\nTV Screen Diagonal Lengths\n\n| Screen | Length (feet) |\n|--------|--------------|\n| W      | \\(\\sqrt{12.25}\\) |\n| X      | \\(2\\tfrac{1}{6}\\) |\n| Y      | \\(\\frac{37}{\\sqrt{144}}\\) |\n| Z      | \\(\\frac{8}{3}\\) |\n\nWhich TV screen has the smallest diagonal length in feet?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "W"
+    },
+    {
+      "label": "G",
+      "text": "X"
+    },
+    {
+      "label": "H",
+      "text": "Y"
+    },
+    {
+      "label": "J",
+      "text": "Z"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with TV Screen Diagonal Lengths"
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

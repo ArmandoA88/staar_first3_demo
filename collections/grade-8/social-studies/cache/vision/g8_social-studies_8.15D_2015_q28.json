@@ -1,0 +1,30 @@
+{
+  "stem": "This excerpt provides one example of which constitutional principle?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Federalism"
+    },
+    {
+      "label": "G",
+      "text": "Checks and balances"
+    },
+    {
+      "label": "H",
+      "text": "Popular sovereignty"
+    },
+    {
+      "label": "J",
+      "text": "Individual rights"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The President . . . shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur. \u2014U.S. Constitution, Article II, Section 2"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

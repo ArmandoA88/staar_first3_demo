@@ -1,0 +1,33 @@
+{
+  "stem": "Which line appears to have an x-intercept of -5 and a y-intercept of 3?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": ""
+    },
+    {
+      "label": "H",
+      "text": ""
+    },
+    {
+      "label": "G",
+      "text": ""
+    },
+    {
+      "label": "J",
+      "text": ""
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph F: Line passing through (-5,0) and (0,3) approximately.",
+    "Graph H: Line passing through positive x and negative y intercepts.",
+    "Graph G: Line passing through negative x and negative y intercepts.",
+    "Graph J: Line passing through positive x and negative y intercepts."
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": "Graphs labeled with letters F, H, G, J; answer is the graph with x-intercept at -5 and y-intercept at 3, visually identified as F."
+}

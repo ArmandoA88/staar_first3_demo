@@ -1,0 +1,30 @@
+{
+  "stem": "A phylogenetic tree based on genetic similarities is shown.\n\nWhich numbered location on the phylogenetic tree identifies characteristics shared by Species B, C, and D?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Location 1"
+    },
+    {
+      "label": "B",
+      "text": "Location 2"
+    },
+    {
+      "label": "C",
+      "text": "Location 3"
+    },
+    {
+      "label": "D",
+      "text": "Location 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "phylogenetic tree with Species A at top right branching from location 1, Species B, C, D branching from location 2, location 3 below location 1, Species E and F branching from location 4"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 1,
+  "notes": null
+}

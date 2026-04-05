@@ -1,0 +1,35 @@
+{
+  "stem": "Which characteristics are associated with the American Revolution era and which are associated with the Civil War era?\n\nMove each characteristic to the correct era.",
+  "instruction": null,
+  "options": [
+    {
+      "label": null,
+      "text": "Conflict over issue of mercantilism"
+    },
+    {
+      "label": null,
+      "text": "Conflict over issue of slavery"
+    },
+    {
+      "label": null,
+      "text": "Ideas of Jefferson Davis inspired action"
+    },
+    {
+      "label": null,
+      "text": "Ideas of Thomas Paine inspired action"
+    }
+  ],
+  "choice_pool": [
+    "Conflict over issue of mercantilism",
+    "Conflict over issue of slavery",
+    "Ideas of Jefferson Davis inspired action",
+    "Ideas of Thomas Paine inspired action"
+  ],
+  "response_template": "American Revolution Era: [blank_1], [blank_2]\nCivil War Era: [blank_3], [blank_4]",
+  "visual_elements": [
+    "Table with two columns labeled 'American Revolution Era' and 'Civil War Era' each with two blank boxes for responses"
+  ],
+  "item_type_inferred": "Drag and Drop",
+  "confidence": 0.99,
+  "notes": null
+}

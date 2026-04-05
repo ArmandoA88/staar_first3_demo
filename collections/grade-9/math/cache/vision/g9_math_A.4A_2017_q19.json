@@ -1,0 +1,30 @@
+{
+  "stem": "The table shows the heights and the lengths of several rectangles.\n\nHeight (in.)  41  70  21  34  10  92  54  24  10  35  42  66\nLength (in.)  21  25  32  12  16  45  40  23  45  35  21  14\n\nWhat does the correlation coefficient for the data indicate about the strength of the linear association between the height and the length of these rectangles?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Weak negative correlation"
+    },
+    {
+      "label": "B",
+      "text": "Strong negative correlation"
+    },
+    {
+      "label": "C",
+      "text": "Weak positive correlation"
+    },
+    {
+      "label": "D",
+      "text": "Strong positive correlation"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "table with two rows: Height (in.) values 41, 70, 21, 34, 10, 92, 54, 24, 10, 35, 42, 66; Length (in.) values 21, 25, 32, 12, 16, 45, 40, 23, 45, 35, 21, 14"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,34 @@
+{
+  "stem": "Which statement describes an action that most likely resulted in a chemical reaction?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "A pan of water was heated on a stove, and steam formed."
+    },
+    {
+      "label": "B",
+      "text": "A liquid was mixed with another liquid, and a precipitate formed."
+    },
+    {
+      "label": "C",
+      "text": "A liquid was sprayed into the air, and a sweet odor was smelled."
+    },
+    {
+      "label": "D",
+      "text": "A child blew through a wand filled with soap, and bubbles were produced."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "2023 \u2013 Q33",
+    "A pan of water was heated on a stove, and steam formed.",
+    "A liquid was mixed with another liquid, and a precipitate formed.",
+    "A liquid was sprayed into the air, and a sweet odor was smelled.",
+    "A child blew through a wand filled with soap, and bubbles were produced."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}

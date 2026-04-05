@@ -1,0 +1,35 @@
+{
+  "stem": "Which system interactions are dependent on the plant\u2019s ability to respond to the direction of light?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "Option 1"
+    },
+    {
+      "label": "B",
+      "text": "Option 2"
+    },
+    {
+      "label": "C",
+      "text": "Option 3"
+    },
+    {
+      "label": "D",
+      "text": "Option 4"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "A chart of some plant systems and functions is shown.",
+    "Option System Functions",
+    "1 Root absorption of water and nutrients",
+    "2 Shoot seed dispersal and absorption of CO\u2082",
+    "3 Root respiration and food storage",
+    "4 Shoot photosynthesis and food transport"
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 1,
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "stem": "The two lines graphed on the coordinate grid represent a system of equations.\n\nWhat is the x-coordinate of the ordered pair that best represents a solution to both equations?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "\\frac{1}{7}"
+    },
+    {
+      "label": "G",
+      "text": "0"
+    },
+    {
+      "label": "H",
+      "text": "5"
+    },
+    {
+      "label": "J",
+      "text": "7"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "coordinate grid with two lines intersecting at the origin (0,0)"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

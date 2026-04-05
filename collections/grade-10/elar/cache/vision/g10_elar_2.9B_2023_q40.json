@@ -1,0 +1,30 @@
+{
+  "stem": "Raul would like to add another sentence to the fifth paragraph (sentences 26\u201331). Where is the most effective place to insert this sentence?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "After sentence 26"
+    },
+    {
+      "label": "B",
+      "text": "After sentence 27"
+    },
+    {
+      "label": "C",
+      "text": "After sentence 28"
+    },
+    {
+      "label": "D",
+      "text": "After sentence 29"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "The site features a quarry dating back over 12,000 years that was used as a source for chipped stone tools."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

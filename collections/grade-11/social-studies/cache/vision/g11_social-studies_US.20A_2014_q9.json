@@ -1,0 +1,30 @@
+{
+  "stem": "Which action occurred as a result of the Supreme Court decision excerpted above?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "A",
+      "text": "The requirement of equal access to school facilities for disabled students"
+    },
+    {
+      "label": "B",
+      "text": "The expansion of science in school curricula"
+    },
+    {
+      "label": "C",
+      "text": "The implementation of requirements for federal certification of private-school teachers"
+    },
+    {
+      "label": "D",
+      "text": "The desegregation of public schools"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "In these days, it is doubtful that any child may reasonably be expected to succeed in life if he is denied the opportunity of an education. Such an opportunity, where the state has undertaken to provide it, is a right which must be made available to all on equal terms.  \u2014Chief Justice Earl Warren, 1954"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

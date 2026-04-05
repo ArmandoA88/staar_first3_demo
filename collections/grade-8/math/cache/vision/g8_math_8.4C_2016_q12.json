@@ -1,0 +1,30 @@
+{
+  "stem": "What are the slope and the y-intercept of the graph of the linear function shown on the grid?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Slope = 4, y-intercept = -6"
+    },
+    {
+      "label": "G",
+      "text": "Slope = -4, y-intercept = -1.5"
+    },
+    {
+      "label": "H",
+      "text": "Slope = -\\frac{1}{4}, y-intercept = -1.5"
+    },
+    {
+      "label": "J",
+      "text": "Slope = \\frac{1}{4}, y-intercept = -6"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Graph with points (-6, 0) and (2, -2) plotted on coordinate grid with a line passing through these points, axes labeled x and y"
+  ],
+  "item_type_inferred": "multiple_choice",
+  "confidence": 0.99,
+  "notes": null
+}

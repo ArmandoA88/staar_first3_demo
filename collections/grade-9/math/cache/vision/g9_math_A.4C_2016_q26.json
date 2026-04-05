@@ -1,0 +1,30 @@
+{
+  "stem": "The scatterplot shows the monthly high temperatures for Austin, Texas, in degrees Fahrenheit over a 12-month period.\n\nWhich function best models the data from Month 1 to Month 9?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "y = -1.6x + 111"
+    },
+    {
+      "label": "G",
+      "text": "y = 3.5x + 85"
+    },
+    {
+      "label": "H",
+      "text": "y = 2.5x + 90"
+    },
+    {
+      "label": "J",
+      "text": "y = -3.3x + 130"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "scatterplot showing Monthly High Temperatures in Austin, Texas, with x-axis labeled 'Month' from 1 to 12 and y-axis labeled 'Temperature (\u00b0F)' ranging from 85 to 113. Data points plotted for each month with increasing trend from Month 1 to Month 9."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 0.99,
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "stem": "Which table shows two steps of DNA replication?",
+  "instruction": null,
+  "options": [
+    {
+      "label": "F",
+      "text": "Step 1\nDNA Polymerase matches uracil to thymine and cytosine to guanine.\nStep 2\nTwo identical DNA double helixes are produced."
+    },
+    {
+      "label": "G",
+      "text": "Step 1\nDNA Polymerase matches cytosine to thymine and uracil to guanine.\nStep 2\nTwo separate but complementary single DNA strands are produced."
+    },
+    {
+      "label": "H",
+      "text": "Step 1\nDNA Polymerase matches adenine to thymine and cytosine to guanine.\nStep 2\nTwo identical DNA double helixes are produced."
+    },
+    {
+      "label": "J",
+      "text": "Step 1\nDNA Polymerase matches uracil to thymine and adenine to guanine.\nStep 2\nTwo separate but complementary single DNA strands are produced."
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Table F showing Step 1: DNA Polymerase matches uracil to thymine and cytosine to guanine; Step 2: Two identical DNA double helixes are produced.",
+    "Table G showing Step 1: DNA Polymerase matches cytosine to thymine and uracil to guanine; Step 2: Two separate but complementary single DNA strands are produced.",
+    "Table H showing Step 1: DNA Polymerase matches adenine to thymine and cytosine to guanine; Step 2: Two identical DNA double helixes are produced.",
+    "Table J showing Step 1: DNA Polymerase matches uracil to thymine and adenine to guanine; Step 2: Two separate but complementary single DNA strands are produced."
+  ],
+  "item_type_inferred": "multiple choice",
+  "confidence": 0.99,
+  "notes": null
+}

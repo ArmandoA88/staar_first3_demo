@@ -1,0 +1,30 @@
+{
+  "stem": "Which factor correctly replaces the question mark on this diagram?",
+  "instruction": "Study the diagram and answer the question that follows.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Nullification of federal labor laws"
+    },
+    {
+      "label": "B",
+      "text": "Increases in immigration"
+    },
+    {
+      "label": "C",
+      "text": "Invention of electric generators"
+    },
+    {
+      "label": "D",
+      "text": "Increased support for abolitionism"
+    }
+  ],
+  "choice_pool": [],
+  "response_template": null,
+  "visual_elements": [
+    "Diagram with an oval labeled 'Factors Contributing to Urbanization, 1800-1850' branching to three boxes: 'Construction of factories', 'Improvements in transportation', and '?'."
+  ],
+  "item_type_inferred": "Multiple Choice",
+  "confidence": 1,
+  "notes": null
+}
