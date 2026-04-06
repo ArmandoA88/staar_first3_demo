@@ -1,0 +1,56 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Package
+    Name="STAAR Problem Browser"
+    Manufacturer="STAAR Problem Browser"
+    Version="0.1.1"
+    UpgradeCode="1D1D1D8A-8A69-4B5F-8E31-7A1B8C7E9A11"
+    InstallerVersion="500"
+    Scope="perMachine"
+    Compressed="yes">
+
+    <SummaryInformation
+      Description="Desktop launcher for the STAAR Problem Browser."
+      Manufacturer="STAAR Problem Browser" />
+
+    <MajorUpgrade DowngradeErrorMessage="A newer version of STAAR Problem Browser is already installed." />
+    <MediaTemplate EmbedCab="no" CabinetTemplate="staar{0}.cab" />
+
+    <Icon Id="AppIcon" SourceFile="!(bindpath.repo)src-tauri\icons\icon.ico" />
+    <Property Id="ARPPRODUCTICON" Value="AppIcon" />
+
+    <StandardDirectory Id="ProgramFiles64Folder">
+      <Directory Id="INSTALLFOLDER" Name="STAAR Problem Browser" />
+    </StandardDirectory>
+
+    <StandardDirectory Id="ProgramMenuFolder">
+      <Directory Id="ApplicationProgramsFolder" Name="STAAR Problem Browser" />
+    </StandardDirectory>
+
+    <Files Include="!(bindpath.appdist)**" Directory="INSTALLFOLDER" />
+
+    <Component Id="LauncherShortcutComponent" Directory="INSTALLFOLDER" Guid="B7A50AC7-17DA-4885-A22E-5C1A52289435" Bitness="always64">
+      <Shortcut
+        Id="ApplicationStartMenuShortcut"
+        Directory="ApplicationProgramsFolder"
+        Name="STAAR Problem Browser"
+        Description="Launch STAAR Problem Browser"
+        Target="[INSTALLFOLDER]STAARProblemBrowserDir.exe"
+        WorkingDirectory="INSTALLFOLDER"
+        Icon="AppIcon"
+        IconIndex="0" />
+
+      <Shortcut
+        Id="ApplicationDesktopShortcut"
+        Directory="DesktopFolder"
+        Name="STAAR Problem Browser"
+        Description="Launch STAAR Problem Browser"
+        Target="[INSTALLFOLDER]STAARProblemBrowserDir.exe"
+        WorkingDirectory="INSTALLFOLDER"
+        Icon="AppIcon"
+        IconIndex="0" />
+
+      <RemoveFolder Id="ApplicationProgramsFolderCleanup" Directory="ApplicationProgramsFolder" On="uninstall" />
+      <RegistryValue Root="HKLM" Key="Software\STAARProblemBrowser" Name="Installed" Type="integer" Value="1" KeyPath="yes" />
+    </Component>
+  </Package>
+</Wix>

@@ -7,6 +7,8 @@ __pycache__/
 /STAARProblemBrowser-Tauri.exe
 /STAARProblemBrowser-Tauri-Installer.msi
 /STAARProblemBrowser-windows Installer.msi
+/STAARProblemBrowser-windows Installer.wixpdb
+/staar*.cab
 build/
 dist/
 *.spec
