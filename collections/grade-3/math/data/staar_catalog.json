@@ -219,7 +219,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1279,
-        "sha256": "2871f4ac3b41a3ea635b29375147d2049d35539233f2bace4f1d07f12c1b711a",
+        "sha256": "3bc77125edcad8441eeffa297bb0780987837667f2139f02611a064dfe5ba76b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2A_2024_q30.png"
       },
       "metadata": {
@@ -481,7 +481,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "c00c81d1d15cf6fef518eefd64cba1d99d3db3c9d32559b6adffb8da284d59cb",
+        "sha256": "ee16ad8d467f4898778ca0d63d73c98eed4e6dff5b668d58c0314eb52f1f036e",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2A_2021_q5.png"
       },
       "metadata": {
@@ -546,7 +546,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "f0f57c606c870bf3c63e204390e4262d88b0a2bb8c94f47ef39c3516283c8e84",
+        "sha256": "91e221e216013401310162cc613a18de37af8cacbaabdb94fca9d140dfe5e44b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2A_2019_q4.png"
       },
       "metadata": {
@@ -988,7 +988,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "59bcc40d70fba1096987664080c78d1464502cda133b7db5b3426871428bed6b",
+        "sha256": "9921056b702eeca5d980d6bb5422e2f227df1c3291da552f45e76ac866563cb1",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2A_2016_q27.png"
       },
       "metadata": {
@@ -1282,7 +1282,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1259,
-        "sha256": "5499d21a93ea259580fd7b299c4dc95f8ae4affcaf994d651449caf8f2b559a6",
+        "sha256": "7caf0ccf688b80df68923ba88b6b9afd2a16c6afb49510cd01b5f14077a96630",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2B_2024_q4.png"
       },
       "metadata": {
@@ -1408,17 +1408,17 @@
           {
             "position": 1,
             "label": "A",
-            "text": "Anne’s model and Kareena’s model, because 1 hundred, 1 ten, and 10 ones is equivalent to 1 hundred and 2 ones"
+            "text": "Anne\u2019s model and Kareena\u2019s model, because 1 hundred, 1 ten, and 10 ones is equivalent to 1 hundred and 2 ones"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "Kareena’s model and Zane’s model, because 1 hundred and 2 ones is equivalent to 12 tens"
+            "text": "Kareena\u2019s model and Zane\u2019s model, because 1 hundred and 2 ones is equivalent to 12 tens"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "Anne’s model and Zane’s model, because 1 hundred, 1 ten, and 10 ones is equivalent to 12 tens"
+            "text": "Anne\u2019s model and Zane\u2019s model, because 1 hundred, 1 ten, and 10 ones is equivalent to 12 tens"
           },
           {
             "position": 4,
@@ -1436,7 +1436,7 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "Anne’s model and Zane’s model, because 1 hundred, 1 ten, and 10 ones is equivalent to 12 tens"
+        "correct_text": "Anne\u2019s model and Zane\u2019s model, because 1 hundred, 1 ten, and 10 ones is equivalent to 12 tens"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -1461,7 +1461,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1244,
-        "sha256": "cd9b0e90e3355e7f0e58e332acde8798bae9baaaa36ad9f04cbeaa9d34659dfb",
+        "sha256": "07a53f755d217594a61c436253131111fb4d69e673994851e2bba0ecc0712e2d",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2B_2018_q4.png"
       },
       "metadata": {
@@ -1550,7 +1550,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1251,
-        "sha256": "86ad2bd6ec74d1600dd4a266a072e3161784029f9c25f5e3022f24c09e355ec9",
+        "sha256": "9eccce7068d548fcd38fa82f80cfc682b582a7cc0804dffe647fb5bb54b0a552",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2B_2016_q45.png"
       },
       "metadata": {
@@ -1927,7 +1927,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1426,
-        "sha256": "7d18a1e54fa387790028d40959ce9c04c55fa5a5caccea29f1aaae33aa1de5ac",
+        "sha256": "7ed160cdaf0deacbf460ba679aeac3746ec7b8d786cfa51606ad4b1593e54f83",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2D_2024_q2.png"
       },
       "metadata": {
@@ -1955,7 +1955,7 @@
         }
       },
       "question": {
-        "stem": "This list shows three clues about a number: • The number is greater than 89,236. • The number is less than 91,103. • The number has a digit greater than 7 in the thousands place. Which of these could be the number?",
+        "stem": "This list shows three clues about a number: \u2022 The number is greater than 89,236. \u2022 The number is less than 91,103. \u2022 The number has a digit greater than 7 in the thousands place. Which of these could be the number?",
         "instruction": null,
         "options": [
           {
@@ -2021,7 +2021,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1470,
-        "sha256": "0cea668a4fa28a4469212e0a6974b936e357834328d630ab7d37989715029718",
+        "sha256": "1ac7b8b54b7d6dd1712933444d2a75463503b1f1783dabb9edb16db45a79b3ed",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2D_2023_q13.png"
       },
       "metadata": {
@@ -2372,7 +2372,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "8742bdc7729447827fe776b367996214b00abc6ca57d2b8df7993bfa086423f1",
+        "sha256": "6ca9c5c8122159fd75e8e25cdc3d46d8ff514e368f8e7eaa5659779a3065fe4a",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2D_2021_q32.png"
       },
       "metadata": {
@@ -2457,7 +2457,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "40c39c3d26e3b41a98148929e79df856fceba85f32575ef4e2fd5fd3d8e3e5cf",
+        "sha256": "37187fd7ba2a72dc68c5cf48bc25d9942f7b7a41cc58ac2eea82a8208ce7267e",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2D_2019_q1.png"
       },
       "metadata": {
@@ -2746,7 +2746,7 @@
         }
       },
       "question": {
-        "stem": "The list shows three clues about a number. • The number is less than 6,538. • The number is greater than 6,355. • The number has a digit less than 5 in the hundreds place. Which of these could be the number described?",
+        "stem": "The list shows three clues about a number. \u2022 The number is less than 6,538. \u2022 The number is greater than 6,355. \u2022 The number has a digit less than 5 in the hundreds place. Which of these could be the number described?",
         "instruction": null,
         "options": [
           {
@@ -2803,7 +2803,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1353,
-        "sha256": "248102ae4d3970032535babf164a0266982694cf5e5ac6ff795bf0016d9e0e07",
+        "sha256": "151843befc01203639f28de5b2e3f297e425678bd72954ff3b6a01491f840c05",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2D_2016_q7.png"
       },
       "metadata": {
@@ -2895,7 +2895,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1227,
-        "sha256": "eceb64411e3f477301994e15aa67c594d281d306d77ce9a7fcfb339c5dbc62c7",
+        "sha256": "869e94ffd7ce5aa554f94a2773deab2e651adad4442447e2153c627c67aa9896",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2D_2016_q38.png"
       },
       "metadata": {
@@ -2926,7 +2926,7 @@
         }
       },
       "question": {
-        "stem": "The list shows three clues about a number. • The number is greater than 85,629. • The number is less than 88,231. • The number has a digit greater than 6 in the hundreds place. Which of these could be the number described?",
+        "stem": "The list shows three clues about a number. \u2022 The number is greater than 85,629. \u2022 The number is less than 88,231. \u2022 The number has a digit greater than 6 in the hundreds place. Which of these could be the number described?",
         "instruction": null,
         "options": [
           {
@@ -2954,9 +2954,9 @@
         "response_template": null,
         "visual_elements": [
           "The list shows three clues about a number.",
-          "• The number is greater than 85,629.",
-          "• The number is less than 88,231.",
-          "• The number has a digit greater than 6 in the hundreds place.",
+          "\u2022 The number is greater than 85,629.",
+          "\u2022 The number is less than 88,231.",
+          "\u2022 The number has a digit greater than 6 in the hundreds place.",
           "Which of these could be the number described?",
           "F 88,165",
           "G 85,625",
@@ -2993,7 +2993,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1256,
-        "sha256": "0c8996ca4da6ecc6eb35e460f7cc31a8f4da7a901ad4c184fcd88a329838813a",
+        "sha256": "cef18235d67fdb9d8079fd9e67e1df979345befe16b66c2678906f12bb71cd98",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2D_2015_q4.png"
       },
       "metadata": {
@@ -3265,7 +3265,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1240,
-        "sha256": "1413a4a4d0891b595774620acfc27199a88d7ae113d0cfb1d8077f5580347223",
+        "sha256": "8079c25aea11f219e63694582b79f15f1b906670916dacb06da83946cff89201",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2C_2015_q3.png"
       },
       "metadata": {
@@ -3721,7 +3721,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1442,
-        "sha256": "b97ff32e88aff5f746a2010eb1cb3ecc3f429f60908e6d3fe217e045876fc987",
+        "sha256": "5e5536f500c5bb799724076c411ce2669eb319ec8ca61a546de91cd8cada7322",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3E_2018_q15.png"
       },
       "metadata": {
@@ -3900,7 +3900,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1995,
-        "sha256": "b5cf675c01356929937cfdba0ec35c106300628263984593837826a5abead6a7",
+        "sha256": "58c980e29b78cf13d3ace7be10d9750e1ffd8e73dd1595e33455021be7a5ec8b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7A_2021_q19.png"
       },
       "metadata": {
@@ -3928,7 +3928,7 @@
         }
       },
       "question": {
-        "stem": "An ant crawled \\(\\frac{2}{8}\\) yard from an ant mound. On which number line does point A represent the ant’s position after crawling \\(\\frac{2}{8}\\) yard?",
+        "stem": "An ant crawled \\(\\frac{2}{8}\\) yard from an ant mound. On which number line does point A represent the ant\u2019s position after crawling \\(\\frac{2}{8}\\) yard?",
         "instruction": null,
         "options": [
           {
@@ -3987,7 +3987,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2022,
-        "sha256": "dd2aef732406d4980b8e1f85508c6a81a737c696c7d2e1916f97ddde70ad76f7",
+        "sha256": "1e47fd0aaa37ea480528b0af0313ed1482d38a0799e950a7e55d6e3c44f14b12",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7A_2019_q29.png"
       },
       "metadata": {
@@ -4264,7 +4264,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1389,
-        "sha256": "47ecfa9825e416c948ca9da6d04e3979ab7a43b46cc71bf67eb0b295ce738bed",
+        "sha256": "1c6ed682a03a9facc947a988a7a0c9d0c93e252b1784e3799b807b4dc5d9c071",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3C_2021_q2.png"
       },
       "metadata": {
@@ -4351,7 +4351,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1453,
-        "sha256": "aacd24faec5318c3dbbba4b386b190c7c37361e674ae1d21d641202cd9852818",
+        "sha256": "57fa822a71187056c805b4244766713c2cce8be70630bcdbe8e321b851f557e3",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3C_2019_q17.png"
       },
       "metadata": {
@@ -4438,7 +4438,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1360,
-        "sha256": "ff7c33681eb5bb594acfbd25529b20735f6f347d32f06cd4f33219ee7930322f",
+        "sha256": "f0a941b6ab24a0f8d2665ba8b2855c4d235530412b42c6a31c9e4ae90910d154",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3D_2022_q10.png"
       },
       "metadata": {
@@ -4525,7 +4525,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1733,
-        "sha256": "ad96340f2f30f882458fcc8b60e17fb9d3a0d092bdd9a1119021b261724711a0",
+        "sha256": "ae61237bd6b6cd076a93eea0ec57d7b093495c8c846a23af699bd3b72f5d8a70",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3D_2018_q23.png"
       },
       "metadata": {
@@ -4612,7 +4612,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "2e032e570a32f778ac831119b750171e52be23bf91d93752e1cdd085c56ef0cf",
+        "sha256": "e0b5325ad3d3c750751f6189b9b72b40ed2ef975bf62a963d80ccaa357936d31",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3D_2015_q5.png"
       },
       "metadata": {
@@ -4704,7 +4704,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1226,
-        "sha256": "4919012c9ac74163354cf8485d392ca20adbaeed04478de22d8084095ad94238",
+        "sha256": "c8b0963abcbd856b96d894ad415df2d280de1414def838b76ec26dc78724e164",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6E_2024_q16.png"
       },
       "metadata": {
@@ -4732,7 +4732,7 @@
         }
       },
       "question": {
-        "stem": "Calvin draws two congruent figures. He shades an equal area of each figure. Which figures could be Calvin’s?",
+        "stem": "Calvin draws two congruent figures. He shades an equal area of each figure. Which figures could be Calvin\u2019s?",
         "instruction": null,
         "options": [
           {
@@ -4796,7 +4796,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1444,
-        "sha256": "abb254ed6205317141cdbca250ac38458fc505886b332026d37d0dbc8b085a09",
+        "sha256": "a84105f331c89616b86c90f36b58776e5e927a31c9104a1f1c1ff474c5f1ff7d",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6E_2022_q29.png"
       },
       "metadata": {
@@ -4883,7 +4883,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1533,
-        "sha256": "eded678c1831743d94b16b735463a0854337c4fae423954c53202034db6f27a3",
+        "sha256": "860cb918710bb545ba84d98d3514bdc7918d5985b75e95c3463d1f63eacf868d",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6E_2019_q8.png"
       },
       "metadata": {
@@ -4911,7 +4911,7 @@
         }
       },
       "question": {
-        "stem": "Brandon drew the two congruent squares shown. • He divided one square into 2 congruent triangular parts. • He divided the other square into 2 congruent rectangular parts. Which statement is true?",
+        "stem": "Brandon drew the two congruent squares shown. \u2022 He divided one square into 2 congruent triangular parts. \u2022 He divided the other square into 2 congruent rectangular parts. Which statement is true?",
         "instruction": null,
         "options": [
           {
@@ -4970,7 +4970,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2187,
-        "sha256": "4d2eca983f0456f7083a986f0f33dabdde4a02683e2355683c709cde50f12a5c",
+        "sha256": "f069fd41f6759aecc236fdf0a191f828dd8d84a70fe32185a856c83cea09dadd",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6E_2018_q26.png"
       },
       "metadata": {
@@ -5061,7 +5061,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "b6bd71c84388de3e1061d56b2e9e63a89e416a3bb1024d9d453073dd3e1d3318",
+        "sha256": "d5adbefbeac205e7d44db3dc4a013267b46242bc8f9c1407cfdce153482f0f0a",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6E_2015_q20.png"
       },
       "metadata": {
@@ -5152,7 +5152,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1758,
-        "sha256": "6c2f639fe981135b060cd6199aa272d88692988a1af31b28e0e387d37bc2d7ff",
+        "sha256": "2f8af57b8e2ef9e230e845f7f095e5f67fc8569b45817fa687d308aea3ac3937",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2025_q18.png"
       },
       "metadata": {
@@ -5335,7 +5335,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2396,
-        "sha256": "e4337d77befb2802d33c2412466997a1b0b0950420937b1adf307d4498eb094a",
+        "sha256": "601a64fccf4ad2a758442d70a251e905846c97ea8b6323b50adfb8403b2d2221",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2023_q30.png"
       },
       "metadata": {
@@ -5363,7 +5363,7 @@
         }
       },
       "question": {
-        "stem": "Four fraction models are shown. Model W [■■□□□□□□] Model X [■■■□□□] Model Y [■■■□] Model Z [■■■■□□□] Which two models are shaded to show equivalent fractions?",
+        "stem": "Four fraction models are shown. Model W [\u25a0\u25a0\u25a1\u25a1\u25a1\u25a1\u25a1\u25a1] Model X [\u25a0\u25a0\u25a0\u25a1\u25a1\u25a1] Model Y [\u25a0\u25a0\u25a0\u25a1] Model Z [\u25a0\u25a0\u25a0\u25a0\u25a1\u25a1\u25a1] Which two models are shaded to show equivalent fractions?",
         "instruction": null,
         "options": [
           {
@@ -5422,7 +5422,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1807,
-        "sha256": "0585cb2448ac4949eda0f45635cfd856e4c49b3cd47beba64aba7eeb9117f996",
+        "sha256": "5931afc7a505e69d6276da72e9a356a05eb1d2be0ee6a91eee411850362f0d75",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2022_q26.png"
       },
       "metadata": {
@@ -5509,7 +5509,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "34e0ea362a1fb29a60dafdc0a1dabbc4d4947e6360a237c3f6c9d15858a69db9",
+        "sha256": "dd4a5828a6ec2c4f2d3a8cabd390f6389eafa12156e9a9e67182695dec80cf21",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2021_q21.png"
       },
       "metadata": {
@@ -5596,7 +5596,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1285,
-        "sha256": "79171346e93f0d4d4980b34e793a635281220cc43f04b3eb16d0f43057ccc9c7",
+        "sha256": "5516717ab53f18678faaea4b86d4757012496e71d9bbd782e0468108cf7318ec",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2019_q19.png"
       },
       "metadata": {
@@ -5683,7 +5683,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "25323c30dbe322b5f491bbb48cc3bbd7f716a14bfbb4e63c6a1eae51dea21dd5",
+        "sha256": "e65ee64c4655852f59d23d9eee53a0b40f950d0aba45461ceded66ad639814ec",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2018_q8.png"
       },
       "metadata": {
@@ -5770,7 +5770,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1926,
-        "sha256": "2e2f656e29081bf5ed279a4fd4266226ee2cf94412a52d60fcfed28624f67369",
+        "sha256": "a0e3dc27777accb16437af96f4d9c150015cf1efcc1db9cdf9a852727fc21ac6",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2017_q20.png"
       },
       "metadata": {
@@ -5861,7 +5861,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1552,
-        "sha256": "966afd3615566732119a9361e09c506cfef35c4a63b309a7629ce2d9e0a63af1",
+        "sha256": "0cdfaace4742ed22f44505bcccab126437af51c888011c30e90c8a269f8fb953",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2016_q10.png"
       },
       "metadata": {
@@ -5956,7 +5956,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2474,
-        "sha256": "59c7340e7709239f6661891aea20fb610b2080fd524c98ab4203c3faa6103393",
+        "sha256": "59b607bf65fc1ceb0bd1d8cc74a26f92912e5959ec6c4cb4114b8e38634323f0",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2016_q25.png"
       },
       "metadata": {
@@ -6052,7 +6052,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1678,
-        "sha256": "dec6c514086a2dee73d171138e73d10346b4f5929a200a6a25c86a0902a605ac",
+        "sha256": "2fc4ec18912baf0f695d0b5a68efb8f2fdcea26333452e8d723618bfdbd6e2c6",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2015_q6.png"
       },
       "metadata": {
@@ -6216,7 +6216,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1281,
-        "sha256": "8d5b1a1182166712fdb0a766fad590d68991a7722e2227bf0f56885c006b4e67",
+        "sha256": "470ffb971c291931248d98441d0515878c5269459c2c008a797e97d90006e6f0",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3G_2021_q12.png"
       },
       "metadata": {
@@ -6244,7 +6244,7 @@
         }
       },
       "question": {
-        "stem": "Each strip of the diagram is shaded to represent a fraction of 1 whole. [Diagram showing 1 whole, Strip A divided into 4 parts with 3 shaded, Strip B divided into 8 parts with 6 shaded] The fractions represented are —",
+        "stem": "Each strip of the diagram is shaded to represent a fraction of 1 whole. [Diagram showing 1 whole, Strip A divided into 4 parts with 3 shaded, Strip B divided into 8 parts with 6 shaded] The fractions represented are \u2014",
         "instruction": null,
         "options": [
           {
@@ -6305,7 +6305,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1472,
-        "sha256": "e534566deaf9d92e16e50ae1e412961c1b223c32ab1debb4eced1ecefa8eac13",
+        "sha256": "081f7c43c7daa908098ab2d3e279e9236572abd5e7dcbaa87a94141cb2c4b9f1",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3G_2015_q7.png"
       },
       "metadata": {
@@ -6424,7 +6424,7 @@
         }
       },
       "question": {
-        "stem": "Kayla and Doug are playing with blocks. • Kayla has 6 blocks. • Doug has 8 blocks. • Kayla and Doug each have 3 yellow blocks. Who has a greater fraction of yellow blocks?",
+        "stem": "Kayla and Doug are playing with blocks. \u2022 Kayla has 6 blocks. \u2022 Doug has 8 blocks. \u2022 Kayla and Doug each have 3 yellow blocks. Who has a greater fraction of yellow blocks?",
         "instruction": null,
         "options": [
           {
@@ -6486,7 +6486,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1247,
-        "sha256": "6260067a33a83cdb187697554b06c8c9c4c6bff476d388ec23b38e65cf7f5c15",
+        "sha256": "3e38e78c1a6d1b70f3c7afd8bc0b04e7e9f4468f25e40975ce4aeaa843854e23",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3H_2024_q25.png"
       },
       "metadata": {
@@ -6514,7 +6514,7 @@
         }
       },
       "question": {
-        "stem": "Serena and Ricky each have a milkshake. The two milkshakes are the same size. • Serena drinks \\( \\frac{5}{6} \\) of her milkshake. • Ricky drinks \\( \\frac{5}{8} \\) of his milkshake. Compare the amounts that Serena and Ricky drink.",
+        "stem": "Serena and Ricky each have a milkshake. The two milkshakes are the same size. \u2022 Serena drinks \\( \\frac{5}{6} \\) of her milkshake. \u2022 Ricky drinks \\( \\frac{5}{8} \\) of his milkshake. Compare the amounts that Serena and Ricky drink.",
         "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
         "options": [
           {
@@ -6776,7 +6776,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "0d71c6650d7d5a03855008ed88cb306aa3960b5e2713738074bab3db4ff78633",
+        "sha256": "8fc83fc7fddb2a1482808fe16cff1f3a51f8957e4d82205694e2a5225a9bc2b3",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3H_2022_q3.png"
       },
       "metadata": {
@@ -6804,7 +6804,7 @@
         }
       },
       "question": {
-        "stem": "A student measured the lengths of two worms. • Worm S was \\(\\frac{1}{2}\\) foot long. • Worm T was \\(\\frac{2}{2}\\) foot long. Which statement is true?",
+        "stem": "A student measured the lengths of two worms. \u2022 Worm S was \\(\\frac{1}{2}\\) foot long. \u2022 Worm T was \\(\\frac{2}{2}\\) foot long. Which statement is true?",
         "instruction": null,
         "options": [
           {
@@ -6864,7 +6864,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1561,
-        "sha256": "523738104a2f660312521a0d5da684c231f99bcdfdd7843840afe1ce143dbda6",
+        "sha256": "633dbbdd3a07232599cfc1ef42629d731884625666bace7d2243985c277793c6",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3H_2021_q17.png"
       },
       "metadata": {
@@ -6951,7 +6951,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "fcfb2187c81bdb8f9ce821c5f2faceb76f94e99979727a9e0b011874e1f13d95",
+        "sha256": "7478f51ddd61f9f9da550a1639d9fc22eaff7c89fa3a77c6baa393bd3bf3b185",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3H_2021_q26.png"
       },
       "metadata": {
@@ -7038,7 +7038,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1430,
-        "sha256": "ae286fe000fb58d2f19162e2ec0870d5eb5fdac677b019fc5d91492f96b982cc",
+        "sha256": "e22f5db15b01cb5ea4f240b185b5b63c70b4764e14c9b93ea5592e4f7e448ab1",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3H_2019_q13.png"
       },
       "metadata": {
@@ -7125,7 +7125,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1359,
-        "sha256": "985bfeac35627a1b85a636bfa74d1847fdc9072e28d8da28c494374ab06bfc2f",
+        "sha256": "90b236dcbb2cdb8f609e31d606a46451daaa997dc64b763bddf9d980e8f3d8be",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3H_2018_q6.png"
       },
       "metadata": {
@@ -7212,7 +7212,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1437,
-        "sha256": "747417023ee508754e2d946d65d85639f627995e0bec7f97967e8b894e38bf11",
+        "sha256": "24f9e84fe22b2f510f2497e03ba94529909257d1dc04014e61590db4d0869079",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3H_2018_q28.png"
       },
       "metadata": {
@@ -7387,7 +7387,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "ff06fe8cecc9db95d3dd3a62db51c9746e5c180ed43fef8d45b65245e9056647",
+        "sha256": "0fc8781b3f47764cf51ae7065961d1b316277629b3c96b4d8d26c9a57e94ce7b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3H_2016_q16.png"
       },
       "metadata": {
@@ -7479,7 +7479,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1290,
-        "sha256": "b1aea4bf8604ace46046911506c6c2d21daa05fcc3203d17b954223e10687d00",
+        "sha256": "5d8f794e55c7ad1de1cb271b553f7785d8a2f084bfa442892d9b66adf561af2c",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3H_2016_q41.png"
       },
       "metadata": {
@@ -7783,13 +7783,13 @@
         }
       },
       "question": {
-        "stem": "Kasey bought two bags of beads. • One bag contained 250 beads. • The other bag contained 400 beads. Kasey used all but 36 of the total number of beads for an art project. What was the total number of beads that Kasey used for the art project?",
+        "stem": "Kasey bought two bags of beads. \u2022 One bag contained 250 beads. \u2022 The other bag contained 400 beads. Kasey used all but 36 of the total number of beads for an art project. What was the total number of beads that Kasey used for the art project?",
         "instruction": "Enter your answer in the box.",
         "options": [],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Kasey bought two bags of beads. • One bag contained 250 beads. • The other bag contained 400 beads. Kasey used all but 36 of the total number of beads for an art project. What was the total number of beads that Kasey used for the art project?",
+          "Kasey bought two bags of beads. \u2022 One bag contained 250 beads. \u2022 The other bag contained 400 beads. Kasey used all but 36 of the total number of beads for an art project. What was the total number of beads that Kasey used for the art project?",
           "Equation editor with digits 1-9, 0, and fraction symbol"
         ]
       },
@@ -7821,7 +7821,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1224,
-        "sha256": "7381e47f1975b906ba15466632283a8531a7d8286a4dc26e7644cc3913bd7db0",
+        "sha256": "8ab876700ff658be717685e46ed968627648721be6ec860f72b9ca08881bfaad",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2024_q1.png"
       },
       "metadata": {
@@ -7913,7 +7913,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1240,
-        "sha256": "b16ccd6abb49326e90617e954da93552d36c60f9b8b4a586d340c6ed95e05d4c",
+        "sha256": "e9912abc1c6a83aeb1f7cd43fde5cc022013b8049f869d9c0dda796922cae058",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2024_q22.png"
       },
       "metadata": {
@@ -8205,7 +8205,7 @@
         }
       },
       "question": {
-        "stem": "A movie theater has 710 seats. • 158 seats are red. • 247 seats are black. • 119 seats are yellow. • The rest of the seats are green. How many seats are green?",
+        "stem": "A movie theater has 710 seats. \u2022 158 seats are red. \u2022 247 seats are black. \u2022 119 seats are yellow. \u2022 The rest of the seats are green. How many seats are green?",
         "instruction": null,
         "options": [
           {
@@ -8292,7 +8292,7 @@
         }
       },
       "question": {
-        "stem": "At the beginning of September, Mr. Watkins had 543 erasers. • During September he gave his students 99 of the erasers. • During October he gave his students 212 of the erasers. How many erasers did Mr. Watkins have at the end of October?",
+        "stem": "At the beginning of September, Mr. Watkins had 543 erasers. \u2022 During September he gave his students 99 of the erasers. \u2022 During October he gave his students 212 of the erasers. How many erasers did Mr. Watkins have at the end of October?",
         "instruction": null,
         "options": [
           {
@@ -8351,7 +8351,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "3a8995b456ebb1a274ed1efa8ce67224067eb917de033af48c8720e44240decd",
+        "sha256": "263d50ce5960a499be2b26a289e95c4e44b0b815a7c3666e35a679faafb22823",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2021_q3.png"
       },
       "metadata": {
@@ -8438,7 +8438,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "780e4dea2a17bc47880bdd13fa49172c0643a746374b7c897606db8c402e46be",
+        "sha256": "3a9fac8ae8b92ff93bc7e02f05d54b55caa4623a6505373cf4334d8e9e5ba5af",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2021_q20.png"
       },
       "metadata": {
@@ -8523,7 +8523,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "45e43055a9a3952027f6b28a1a2c95f7a57c0461d5bd4e45a8363aa013985fe4",
+        "sha256": "e57734bee3c0febe4acad9247f4ce0d2deb75ad891c738329e42131fd179b190",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2019_q15.png"
       },
       "metadata": {
@@ -8610,7 +8610,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "c433b19a75137558716a988fb0c5a8b55d52c3c92fb6ac730d0434a2fa9c2da6",
+        "sha256": "ddcf65bab30feab0f68537a645ea9a5cca443c316acd8d3546cccc4c5e3367d6",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2019_q24.png"
       },
       "metadata": {
@@ -8638,7 +8638,7 @@
         }
       },
       "question": {
-        "stem": "Samantha, Gordon, and Diego each brought an ice chest to a picnic. • The weight of Samantha's ice chest was 83 pounds. • The weight of Gordon's ice chest was 28 pounds. • The weight of Diego's ice chest was 37 pounds. What was the difference in pounds between the weight of Samantha's ice chest and the combined weight of Gordon's and Diego's ice chests?",
+        "stem": "Samantha, Gordon, and Diego each brought an ice chest to a picnic. \u2022 The weight of Samantha's ice chest was 83 pounds. \u2022 The weight of Gordon's ice chest was 28 pounds. \u2022 The weight of Diego's ice chest was 37 pounds. What was the difference in pounds between the weight of Samantha's ice chest and the combined weight of Gordon's and Diego's ice chests?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -8675,7 +8675,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "d2dd639ebc27982ec1c1d85c1d43d7643cea518743b14d21122869bded908ee2",
+        "sha256": "1f2779680f2a391bd4bc2c76d45a6f466b881c2ca4a9b7ecae34163bb9bbe0a0",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2018_q14.png"
       },
       "metadata": {
@@ -8738,7 +8738,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "7cefcb6c71de53459931117078d462eaa55e81bb8185533231cad0f19fb71108",
+        "sha256": "b6710bcc3528268771204a823f156a4e31cc2dc7fa9281fc74fa0730bf46a2da",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2018_q27.png"
       },
       "metadata": {
@@ -8766,7 +8766,7 @@
         }
       },
       "question": {
-        "stem": "Elisha listed the amounts she paid for guitar lessons for three months. • February: $78 • March: $90 • April: $156 What is the amount Elisha paid for guitar lessons for these three months?",
+        "stem": "Elisha listed the amounts she paid for guitar lessons for three months. \u2022 February: $78 \u2022 March: $90 \u2022 April: $156 What is the amount Elisha paid for guitar lessons for these three months?",
         "instruction": null,
         "options": [
           {
@@ -8853,7 +8853,7 @@
         }
       },
       "question": {
-        "stem": "Erika's goal is to practice playing her guitar for 300 minutes this week. • On Sunday she practiced for 117 minutes. • On Tuesday she practiced for 58 minutes. How many more minutes does Erika need to practice in order to meet her goal?",
+        "stem": "Erika's goal is to practice playing her guitar for 300 minutes this week. \u2022 On Sunday she practiced for 117 minutes. \u2022 On Tuesday she practiced for 58 minutes. How many more minutes does Erika need to practice in order to meet her goal?",
         "instruction": null,
         "options": [
           {
@@ -8912,7 +8912,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1226,
-        "sha256": "309e0f489b2f18821316bbe3f78e313d19d3da229b9a5a9e835875c005f208b7",
+        "sha256": "12f2b486ea21d4b6847171c0708c8bc8f9c228b50f78394d36941722da70de67",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2017_q19.png"
       },
       "metadata": {
@@ -8999,7 +8999,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "1541f0bd3c68c96b892287c2eb55bc84025fda1b55c4c15fbe70ae85542ee266",
+        "sha256": "c23dbd061d045d66669ca32b15e029aefed19f76f893f35b896329a9a511a584",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2016_q8.png"
       },
       "metadata": {
@@ -9031,7 +9031,7 @@
         }
       },
       "question": {
-        "stem": "Wanda traveled on an airplane three times last year. • In January she traveled 278 miles. • In April she traveled 652 miles. • In September she traveled 767 miles. How many more miles did Wanda travel in January and April combined than she traveled in September?",
+        "stem": "Wanda traveled on an airplane three times last year. \u2022 In January she traveled 278 miles. \u2022 In April she traveled 652 miles. \u2022 In September she traveled 767 miles. How many more miles did Wanda travel in January and April combined than she traveled in September?",
         "instruction": null,
         "options": [
           {
@@ -9058,11 +9058,11 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2016 – Q8",
+          "2016 \u2013 Q8",
           "8 Wanda traveled on an airplane three times last year.",
-          "• In January she traveled 278 miles.",
-          "• In April she traveled 652 miles.",
-          "• In September she traveled 767 miles.",
+          "\u2022 In January she traveled 278 miles.",
+          "\u2022 In April she traveled 652 miles.",
+          "\u2022 In September she traveled 767 miles.",
           "How many more miles did Wanda travel in January and April combined than she traveled in September?",
           "F 930 mi",
           "G 147 mi",
@@ -9099,7 +9099,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "f9bb83484232be450d6f70757546a2bcffed5e28d999b2b2a17963622608da02",
+        "sha256": "c7b40b9f0310cd49a0be189d6d012c1f8e496f557ba4cf76efbe6f112f1b7fbf",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2016_q35.png"
       },
       "metadata": {
@@ -9166,7 +9166,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1208,
-        "sha256": "4e2efcc6cf53804e6438e0bccaf583bc89d11332094de9d9092db982a473a66e",
+        "sha256": "f1a8d67157e0bddd85ea3b47215a1e1132e7d712a9d2817a0452a7279ef651ef",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2016_q46.png"
       },
       "metadata": {
@@ -9289,7 +9289,7 @@
         }
       },
       "question": {
-        "stem": "Ms. Elizondo shipped yogurt cups to stores on Monday. • She shipped 648 cups of strawberry yogurt. • She shipped 216 cups of peach yogurt. • She shipped 264 cups of vanilla yogurt. How many more cups of strawberry yogurt did Ms. Elizondo ship than cups of peach and vanilla yogurt combined?",
+        "stem": "Ms. Elizondo shipped yogurt cups to stores on Monday. \u2022 She shipped 648 cups of strawberry yogurt. \u2022 She shipped 216 cups of peach yogurt. \u2022 She shipped 264 cups of vanilla yogurt. How many more cups of strawberry yogurt did Ms. Elizondo ship than cups of peach and vanilla yogurt combined?",
         "instruction": null,
         "options": [
           {
@@ -9438,7 +9438,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1421,
-        "sha256": "fb4461f0c189a5f68f2cca7efe313c2f73bd03254c4d5bb3d0719a646ba25945",
+        "sha256": "e17094392147216d6e58edd842e9c7c02a57173f83a71a70ccc76e79f36fa6b4",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5A_2024_q7.png"
       },
       "metadata": {
@@ -9466,23 +9466,23 @@
         }
       },
       "question": {
-        "stem": "Jada is traveling to visit her aunt who lives 789 miles away. She needs to travel 321 more miles to arrive at her aunt’s house. Which representations can be used to find the number of miles Jada has already traveled?",
+        "stem": "Jada is traveling to visit her aunt who lives 789 miles away. She needs to travel 321 more miles to arrive at her aunt\u2019s house. Which representations can be used to find the number of miles Jada has already traveled?",
         "instruction": "Select TWO correct answers.",
         "options": [
           {
             "position": 1,
             "label": null,
-            "text": "321 - □ = 789"
+            "text": "321 - \u25a1 = 789"
           },
           {
             "position": 2,
             "label": null,
-            "text": "321 + □ = 789"
+            "text": "321 + \u25a1 = 789"
           },
           {
             "position": 3,
             "label": null,
-            "text": "789 + 321 = □"
+            "text": "789 + 321 = \u25a1"
           },
           {
             "position": 4,
@@ -9736,7 +9736,7 @@
         }
       },
       "question": {
-        "stem": "The total number of keys on a computer keyboard is 87. • There are 26 letter keys and 21 special symbol keys on the keyboard. • The rest of the keys are function keys. Which model represents one way to find the number of function keys on the keyboard?",
+        "stem": "The total number of keys on a computer keyboard is 87. \u2022 There are 26 letter keys and 21 special symbol keys on the keyboard. \u2022 The rest of the keys are function keys. Which model represents one way to find the number of function keys on the keyboard?",
         "instruction": null,
         "options": [
           {
@@ -9798,7 +9798,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1536,
-        "sha256": "bd5a442ce7caf501a2ecc076386250d8018a9d7183d10abf2aa0cefd28674e1a",
+        "sha256": "b57ed650c91c4f40259f2ddc619bb7105ab930117d1f699e1c189455a749f0cc",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5A_2021_q22.png"
       },
       "metadata": {
@@ -9885,7 +9885,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "67bdc036cc34023bebfefd3c547de2ae1b65ef3318c3678f57660bf6f1db5b7f",
+        "sha256": "20411214861f31f572cd0815074e72daa8dd09595ee352a21ff8d5425733222e",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5A_2019_q7.png"
       },
       "metadata": {
@@ -9913,41 +9913,41 @@
         }
       },
       "question": {
-        "stem": "Freddie had $256 in his bank account. • On Monday he put $50 more into his account. • On Tuesday he took out $87 to buy a bicycle. Which equation can be used to find the amount of money Freddie had in his bank account after he took out money on Tuesday?",
+        "stem": "Freddie had $256 in his bank account. \u2022 On Monday he put $50 more into his account. \u2022 On Tuesday he took out $87 to buy a bicycle. Which equation can be used to find the amount of money Freddie had in his bank account after he took out money on Tuesday?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "256 - 50 - 87 = □"
+            "text": "256 - 50 - 87 = \u25a1"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "256 + 50 + 87 = □"
+            "text": "256 + 50 + 87 = \u25a1"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "250 - 50 + 87 = □"
+            "text": "250 - 50 + 87 = \u25a1"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "256 + 50 - 87 = □"
+            "text": "256 + 50 - 87 = \u25a1"
           }
         ],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "equations with blanks for answers: A 256 - 50 - 87 = □, B 256 + 50 + 87 = □, C 250 - 50 + 87 = □, D 256 + 50 - 87 = □"
+          "equations with blanks for answers: A 256 - 50 - 87 = \u25a1, B 256 + 50 + 87 = \u25a1, C 250 - 50 + 87 = \u25a1, D 256 + 50 - 87 = \u25a1"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (D)",
         "answer_format": "single_choice_label",
         "correct_label": "D",
-        "correct_text": "256 + 50 - 87 = □"
+        "correct_text": "256 + 50 - 87 = \u25a1"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -9972,7 +9972,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "f73b0b1a631691e646447f690dcbcb92e82bb272d6a7df3c976f84f20fea1712",
+        "sha256": "92d7c63814947e849f8fc2bf76254b4c91559cc3fdaf7693777f3abf5c055358",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5A_2018_q12.png"
       },
       "metadata": {
@@ -10006,22 +10006,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "572 - □ = 98"
+            "text": "572 - \u25a1 = 98"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "572 - 98 = □"
+            "text": "572 - 98 = \u25a1"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "98 + □ = 572"
+            "text": "98 + \u25a1 = 572"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "98 + 572 = □"
+            "text": "98 + 572 = \u25a1"
           }
         ],
         "choice_pool": [],
@@ -10032,7 +10032,7 @@
         "raw_pdf_answer_text": "Correct Answer (J)",
         "answer_format": "single_choice_label",
         "correct_label": "J",
-        "correct_text": "98 + 572 = □"
+        "correct_text": "98 + 572 = \u25a1"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -10057,7 +10057,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1398,
-        "sha256": "ca9aeb0fc05c6adfa224e25c5096faa40e0521a7ab983655ec44889f9c844045",
+        "sha256": "d55bedb1392a50667420653987117e35b4dbbb75dad9b8ce1207a105321f4725",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5A_2018_q30.png"
       },
       "metadata": {
@@ -10085,7 +10085,7 @@
         }
       },
       "question": {
-        "stem": "There are a total of 294 restaurants in a city. • Of these restaurants, 196 are along the highways, and 49 are downtown. • The rest of the restaurants are in shopping malls. Which model can be used to find the number of restaurants in the city that are in shopping malls?",
+        "stem": "There are a total of 294 restaurants in a city. \u2022 Of these restaurants, 196 are along the highways, and 49 are downtown. \u2022 The rest of the restaurants are in shopping malls. Which model can be used to find the number of restaurants in the city that are in shopping malls?",
         "instruction": null,
         "options": [
           {
@@ -10172,28 +10172,28 @@
         }
       },
       "question": {
-        "stem": "An art teacher had 736 crayons. • She threw away 197 broken crayons. • Then she bought 150 more crayons. Which equation shows how to find the number of crayons the art teacher has now?",
+        "stem": "An art teacher had 736 crayons. \u2022 She threw away 197 broken crayons. \u2022 Then she bought 150 more crayons. Which equation shows how to find the number of crayons the art teacher has now?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "736 - 197 - 150 = □"
+            "text": "736 - 197 - 150 = \u25a1"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "736 - 197 + 150 = □"
+            "text": "736 - 197 + 150 = \u25a1"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "736 + 197 + 150 = □"
+            "text": "736 + 197 + 150 = \u25a1"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "736 + 197 - 150 = □"
+            "text": "736 + 197 - 150 = \u25a1"
           }
         ],
         "choice_pool": [],
@@ -10204,7 +10204,7 @@
         "raw_pdf_answer_text": "Correct Answer (B)",
         "answer_format": "single_choice_label",
         "correct_label": "B",
-        "correct_text": "736 - 197 + 150 = □"
+        "correct_text": "736 - 197 + 150 = \u25a1"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -10229,7 +10229,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1281,
-        "sha256": "79f76982f4e34508aca3da594b67cbb9e7050837993b4b3672b875c2971c993d",
+        "sha256": "ed579114a30e53ae732ad759d6532e5728d225edca03c288bdd6627395cc8280",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5A_2017_q28.png"
       },
       "metadata": {
@@ -10316,7 +10316,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1221,
-        "sha256": "ed2fb0f45542453cbc65219d05e1f47cad119af630664e99278ed38dfd0b131c",
+        "sha256": "4c63980129bfd24be60fff8d590359109213e06852ac330ae2a8f6d65d143afd",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5A_2016_q4.png"
       },
       "metadata": {
@@ -10349,7 +10349,7 @@
         }
       },
       "question": {
-        "stem": "Rita had two boxes of ribbons. • She had 37 large ribbons in the first box. • She had 56 small ribbons in the second box. • She gave 28 of the large ribbons to her sister. Which number sentence can be used to find the number of ribbons Rita had left in the two boxes?",
+        "stem": "Rita had two boxes of ribbons. \u2022 She had 37 large ribbons in the first box. \u2022 She had 56 small ribbons in the second box. \u2022 She gave 28 of the large ribbons to her sister. Which number sentence can be used to find the number of ribbons Rita had left in the two boxes?",
         "instruction": null,
         "options": [
           {
@@ -10408,7 +10408,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1288,
-        "sha256": "f2205c7680a8abe18f6cb65d1be4d5001204ecea2961789b67af752b481221cd",
+        "sha256": "abbd7f1ee8c67da1f3a5439754c8f70ec6235160d6fb579f628d0e8d1a87a439",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5A_2016_q28.png"
       },
       "metadata": {
@@ -10500,7 +10500,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1198,
-        "sha256": "79527f53e8151b4353e1629dbe7cc1818be35032db0659baa7a8b19f37e75f08",
+        "sha256": "34d08882e39646eb10e9f5a8ecf7c486e39017b4886e459384955612d06b9660",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5A_2015_q12.png"
       },
       "metadata": {
@@ -10703,7 +10703,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1267,
-        "sha256": "e2939e1b8c7e2574d5ac8b090874a29f983d13c9178088ee6a371b8296e9ac85",
+        "sha256": "e8ff159461bebd7a4d5514d1c6907649fdefc4e927c510264ea9da83a822e57d",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4B_2024_q17.png"
       },
       "metadata": {
@@ -10731,7 +10731,7 @@
         }
       },
       "question": {
-        "stem": "Eliza rode her bike on three days last week. • On Tuesday, she rode 12 miles. • On Thursday, she rode 9 miles. • On Saturday, she rode 7 miles. She rounds each number to the nearest ten to find the estimate of the total number of miles she rode. What is Eliza's estimate?",
+        "stem": "Eliza rode her bike on three days last week. \u2022 On Tuesday, she rode 12 miles. \u2022 On Thursday, she rode 9 miles. \u2022 On Saturday, she rode 7 miles. She rounds each number to the nearest ten to find the estimate of the total number of miles she rode. What is Eliza's estimate?",
         "instruction": null,
         "options": [
           {
@@ -10793,7 +10793,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "3fe6bc3feec9350ac12fb2c312b730bfc8362b98bb30acecb172b55aec91d84d",
+        "sha256": "80626aa3f061001d9fb841d0e823637ddfbfc9b8db05c4fa7122e1e849166841",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4B_2021_q8.png"
       },
       "metadata": {
@@ -10880,7 +10880,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1237,
-        "sha256": "6546bb95280da3e9f63e30e8dd1d451060203feb91cc5937ce338cdf9bb5208e",
+        "sha256": "77f302d322d412d52d645eb59990ae832ff4bf7118f0660f63d6db450f4387ed",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4B_2016_q33.png"
       },
       "metadata": {
@@ -10913,7 +10913,7 @@
         }
       },
       "question": {
-        "stem": "Vicente hung three posters in his bedroom. • The first poster had a length of 59 centimeters. • The second poster had a length of 92 centimeters. • The third poster had a length of 127 centimeters. What is the best estimate of the total length of these three posters in centimeters?",
+        "stem": "Vicente hung three posters in his bedroom. \u2022 The first poster had a length of 59 centimeters. \u2022 The second poster had a length of 92 centimeters. \u2022 The third poster had a length of 127 centimeters. What is the best estimate of the total length of these three posters in centimeters?",
         "instruction": null,
         "options": [
           {
@@ -10972,7 +10972,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1334,
-        "sha256": "45389df62000f8b7b6ab1eee3d5b738a5764784701359e0e2bc3a5d1763c427d",
+        "sha256": "0e096ca83eb347728ca0e34c17f2b0529a73c7b4680cf8b0dc1cd13e4741c463",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4C_2021_q4.png"
       },
       "metadata": {
@@ -11071,7 +11071,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1298,
-        "sha256": "022b964efaaafa9362a06fdeb2eb06511c82bed097b4af5458bffa19d94c15ae",
+        "sha256": "7348d6f18136e60b47b2eaee532feac25437117a72709e583a6be43fbbe834fd",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4C_2019_q31.png"
       },
       "metadata": {
@@ -11259,7 +11259,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2208,
-        "sha256": "3fb4fbe73b47dd01a6d98c8e4f4b989d8995e10a411f2da16eef6c10cd40afb6",
+        "sha256": "5100dcea685ec0a6209df92ecd60e301ec3b49d34ecc2b122e9b75a51ff6064b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4C_2016_q29.png"
       },
       "metadata": {
@@ -11293,7 +11293,7 @@
         }
       },
       "question": {
-        "stem": "Charlie emptied his piggy bank and counted $5.63 in savings. Which set of bills and coins could not be the total amount of money that was in Charlie’s piggy bank?",
+        "stem": "Charlie emptied his piggy bank and counted $5.63 in savings. Which set of bills and coins could not be the total amount of money that was in Charlie\u2019s piggy bank?",
         "instruction": null,
         "options": [
           {
@@ -11418,7 +11418,7 @@
         ],
         "response_template": "The number of items ordered [blank_1] the number [blank_2] equals the number of items sent.",
         "visual_elements": [
-          "Table titled Isabel’s Clothing Orders with columns: Order (X, Y, Z), Items Ordered (5, 3, 6), Items Sent (6, 4, 7)"
+          "Table titled Isabel\u2019s Clothing Orders with columns: Order (X, Y, Z), Items Ordered (5, 3, 6), Items Sent (6, 4, 7)"
         ]
       },
       "answer_key": {
@@ -11449,7 +11449,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1662,
-        "sha256": "f9ca68864963c3f183c0060d98fae5b8e31af043b37a0e0085b2031e30ad5b0c",
+        "sha256": "27bb3a3c74c2a738e10a2a6e482f1aeb383f6623ab5aefb8d8472e72917097c8",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2022_q9.png"
       },
       "metadata": {
@@ -11536,7 +11536,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1648,
-        "sha256": "2206f8947af9007f5f77a73ea5e0a521c30f34805819613968a83d1917327042",
+        "sha256": "364f1cd5673edf33bb716f7e12c9fae92683c2e31e24e627ef183ffac7bf1e35",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2021_q27.png"
       },
       "metadata": {
@@ -11623,7 +11623,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1619,
-        "sha256": "564ba9eb8f6aa59115516df8a79de40ee3563057f53aef2b034a9d0e43f6b1b6",
+        "sha256": "59d87214a07a62b7416e96e27b81c9132db94e0c814b6be071961ef734cff308",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2019_q21.png"
       },
       "metadata": {
@@ -11710,7 +11710,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1575,
-        "sha256": "1df0cdaab58ab744deaaae108eaf80430e6d46e194003300d9ff4a91523b9adb",
+        "sha256": "f1d087b9a91a4f58d88d3a452f0dbffe27d2f07a24caf1ffb901b3a4ddc34554",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2018_q18.png"
       },
       "metadata": {
@@ -11887,7 +11887,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1644,
-        "sha256": "46f710d046afe9211a00885e54e20b24e621716e65319b28fba3ef8db892844c",
+        "sha256": "5c607f91b0e71cff9ce6823672bbb7cb925df8ded7e7200953ab3cb35a0b71e0",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2016_q12.png"
       },
       "metadata": {
@@ -11979,7 +11979,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1336,
-        "sha256": "d86d1e6ca3886a44d4ae7bbaba19f298a1d7621e6af748eb35117d5bf4728d83",
+        "sha256": "448c17193d477a6a56a701db830ba130d74636132b26c985ffec455de97910d0",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4D_2024_q11.png"
       },
       "metadata": {
@@ -12071,7 +12071,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1488,
-        "sha256": "5140038ab2685ed956728ed831142f297c41d9dcd1db2110741fedadc99fb53d",
+        "sha256": "6676ee8562cce76856c18692806d616e6299427227c11e8530494fa12d8cb4c3",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4D_2021_q16.png"
       },
       "metadata": {
@@ -12158,7 +12158,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1533,
-        "sha256": "8278a7a93f1b54d1756848a21cbbdcc7cd414208df96a1a461ed1f9968f1ab72",
+        "sha256": "bed62fab8a36fbace544c5984a30c343c218e636d4ca8838fb80160e1eca5a05",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4D_2019_q20.png"
       },
       "metadata": {
@@ -12245,7 +12245,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1451,
-        "sha256": "ea879832db61e17d8946b73f45ed958c4050f7f2cc1505eb37b8591f863f05c4",
+        "sha256": "6f0361e95177f5dd4583fbbc079fc16f467539288785718325fe5436640351d9",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4E_2024_q9.png"
       },
       "metadata": {
@@ -12273,23 +12273,23 @@
         }
       },
       "question": {
-        "stem": "A student solved a problem by skip counting. The student’s work is shown with the answer circled. 4, 8, 12, 16, 20, 24, 28, 32, 36, (40), 44 Which equation CANNOT be used to find the answer the student circled?",
+        "stem": "A student solved a problem by skip counting. The student\u2019s work is shown with the answer circled. 4, 8, 12, 16, 20, 24, 28, 32, 36, (40), 44 Which equation CANNOT be used to find the answer the student circled?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "10 × 10 × 10 × 10 ="
+            "text": "10 \u00d7 10 \u00d7 10 \u00d7 10 ="
           },
           {
             "position": 2,
             "label": "B",
-            "text": "4 × 10 ="
+            "text": "4 \u00d7 10 ="
           },
           {
             "position": 3,
             "label": "C",
-            "text": "10 × 4 ="
+            "text": "10 \u00d7 4 ="
           },
           {
             "position": 4,
@@ -12307,7 +12307,7 @@
         "raw_pdf_answer_text": "Correct Answer (A)",
         "answer_format": "single_choice_label",
         "correct_label": "A",
-        "correct_text": "10 × 10 × 10 × 10 =",
+        "correct_text": "10 \u00d7 10 \u00d7 10 \u00d7 10 =",
         "distractor_note": {
           "raw_pdf_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
           "label": "D",
@@ -12515,7 +12515,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1251,
-        "sha256": "b40b7199421e8bfe0d07b6cc5be847475cfdb50cce048b5feb90c500c99a536c",
+        "sha256": "4734cf20ce0e2bbdb84c4ae724a8b79980fbf6eabb858c228356999f1be17818",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4E_2016_q21.png"
       },
       "metadata": {
@@ -12548,7 +12548,7 @@
         }
       },
       "question": {
-        "stem": "Zachary lists some different methods he thinks he can use to solve the multiplication problem shown. 8 × 4 = ? Which of these is not a method Zachary can use to get the correct answer?",
+        "stem": "Zachary lists some different methods he thinks he can use to solve the multiplication problem shown. 8 \u00d7 4 = ? Which of these is not a method Zachary can use to get the correct answer?",
         "instruction": null,
         "options": [
           {
@@ -12559,7 +12559,7 @@
           {
             "position": 2,
             "label": "B",
-            "text": "8 × 8 × 8 × 8"
+            "text": "8 \u00d7 8 \u00d7 8 \u00d7 8"
           },
           {
             "position": 3,
@@ -12583,7 +12583,7 @@
         "raw_pdf_answer_text": "Correct Answer (B)",
         "answer_format": "single_choice_label",
         "correct_label": "B",
-        "correct_text": "8 × 8 × 8 × 8"
+        "correct_text": "8 \u00d7 8 \u00d7 8 \u00d7 8"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -12608,7 +12608,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "31cc5f01938113ba4c59e12dc6eab68cfc06b0f6ef75b6fa33ee9c84d6efe416",
+        "sha256": "fbdd8bc5609017342697dc547f400000c3498e6aeb68a165076a5314458ff035",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4F_2021_q14.png"
       },
       "metadata": {
@@ -12673,7 +12673,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "fc06a5992b37956d542004c99d43a3b100f131c3018a0bfb0ce5f98ee1963bb0",
+        "sha256": "7de8fff26a8cb886b8ad685835f8ee52efb41ffd34cefbac335ecb2505c3e4ad",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4F_2015_q10.png"
       },
       "metadata": {
@@ -12711,7 +12711,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2015 – Q10 Sample",
+          "2015 \u2013 Q10 Sample",
           "10"
         ]
       },
@@ -12743,7 +12743,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1260,
-        "sha256": "a7404cc43e77b88dda2cdf7190070b0c0e54fb951384ee89177e759877e4d955",
+        "sha256": "e2d4904d4c6ec462d05d6b727180666294dc4879f0f16f26c7414f07d9ab8455",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4G_2024_q28.png"
       },
       "metadata": {
@@ -12830,7 +12830,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "aa1d754177c4b200fc074a3fcfd72bebfa5e58e1b94fbb4f28b4354b3412ed1b",
+        "sha256": "b8fe742e9cae306c704e1f2ab8cb7a4c8d84b751fd21ee756655cac28277b7ee",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4G_2021_q25.png"
       },
       "metadata": {
@@ -13002,7 +13002,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "1a5cf18620564fe7c4b949d614b49095309a4d2bcaa616901554c80e2acd979b",
+        "sha256": "1c3798f96154c7724e9d27f10c520c1c6858bb53ed4bc4e25d1e0bd6e3f770db",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4G_2016_q2.png"
       },
       "metadata": {
@@ -13211,7 +13211,7 @@
         }
       },
       "question": {
-        "stem": "Alex scored 8 points in a basketball game. The expression shows the number of points that Sara scored. 8 × 3 Complete the statement to compare the numbers of points scored by Alex and Sara. Move the correct answer to each box. Not all answers will be used.",
+        "stem": "Alex scored 8 points in a basketball game. The expression shows the number of points that Sara scored. 8 \u00d7 3 Complete the statement to compare the numbers of points scored by Alex and Sara. Move the correct answer to each box. Not all answers will be used.",
         "instruction": null,
         "options": [
           {
@@ -13255,7 +13255,7 @@
         ],
         "response_template": "[blank_1] scored [blank_2] [blank_3] [blank_4] did.",
         "visual_elements": [
-          "8 × 3"
+          "8 \u00d7 3"
         ]
       },
       "answer_key": {
@@ -13314,7 +13314,7 @@
         }
       },
       "question": {
-        "stem": "Haruko did 9 sit-ups in P.E. class. The number of sit-ups Tom did can be represented by this expression. 2 × 9 Which statement is true?",
+        "stem": "Haruko did 9 sit-ups in P.E. class. The number of sit-ups Tom did can be represented by this expression. 2 \u00d7 9 Which statement is true?",
         "instruction": null,
         "options": [
           {
@@ -13341,7 +13341,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2 × 9"
+          "2 \u00d7 9"
         ]
       },
       "answer_key": {
@@ -13373,7 +13373,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "589955652d6fbafc304cb9714f28ac2441a43c4a0283276ca247ccffcacd2921",
+        "sha256": "2ad0c4c23886927c05ab5217c8d7e73550cdfa560c21ae911ae194c2cefef925",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5C_2019_q28.png"
       },
       "metadata": {
@@ -13460,7 +13460,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "2133ed61701a5d1547788d7a78dca683234a469c580ba2f01efec580b366b16b",
+        "sha256": "bb09fd8b42de93f189e6d081c3b68f7b10017c5f097d34358fd7be588d76e759",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5C_2018_q20.png"
       },
       "metadata": {
@@ -13812,7 +13812,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "24a9ec924bad63364a263f4acaff39990b1873d5df71e5712737da50ee2f9179",
+        "sha256": "c1aebe516ba714b4edb678b815d0dc27e53bbddc821030a5869764dfe755f0f2",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5D_2016_q42.png"
       },
       "metadata": {
@@ -13843,7 +13843,7 @@
         }
       },
       "question": {
-        "stem": "What number goes in the [blank_1] to make a true statement? [blank_1] × 5 = 45",
+        "stem": "What number goes in the [blank_1] to make a true statement? [blank_1] \u00d7 5 = 45",
         "instruction": null,
         "options": [
           {
@@ -13870,7 +13870,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "[blank_1] × 5 = 45"
+          "[blank_1] \u00d7 5 = 45"
         ]
       },
       "answer_key": {
@@ -13992,7 +13992,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1215,
-        "sha256": "90f96df778e4784b74de63eacc875a734805b96d86926178b9565e28a425e899",
+        "sha256": "fb44615d8ffec2ce05e88730b4a9146cd0c8a965f43fcfe4cf6c0723d9d6fce2",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4F_2019_q5.png"
       },
       "metadata": {
@@ -14026,7 +14026,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2019 – Q5"
+          "2019 \u2013 Q5"
         ]
       },
       "answer_key": {
@@ -14057,7 +14057,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "6066881be6de344f36f67d3bd4ac58a0ea95e3d988577762c85729ea4e63b927",
+        "sha256": "8a2b00d8daab5e56dc1e87e69a7c2b926bc5f4564400275c1000ba82ad9cf5d4",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4F_2018_q5.png"
       },
       "metadata": {
@@ -14091,7 +14091,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2018 – Q5",
+          "2018 \u2013 Q5",
           "5"
         ]
       },
@@ -14476,7 +14476,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1559,
-        "sha256": "2b2396c7f1edfcc93b82f6e1ff9621fd78f4562e78d2c6e139f8fcf8e495f973",
+        "sha256": "5bd26a299a113e7870036d4d4f8f4c5ac708783583bbca45bf1ecef420b64a5d",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4H_2019_q18.png"
       },
       "metadata": {
@@ -14563,7 +14563,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1566,
-        "sha256": "6a47b9f39cdf413b300b5c8a0c918c62eb8a37c933cc02f86aeebd156d595e74",
+        "sha256": "d3d49909767821fb635669a7b237380881825b38ce86e8016d0cb73782322212",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4H_2017_q32.png"
       },
       "metadata": {
@@ -14650,7 +14650,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1545,
-        "sha256": "5314544ad817f524f5339386d61a7742a16753cdb0447c31b33dbfce380f7433",
+        "sha256": "8fcdc99a7f78a4de89ca8a570686eee201e119aab78ff4b86108b2d8d974be09",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4H_2016_q6.png"
       },
       "metadata": {
@@ -14689,22 +14689,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "8, because 42 ÷ 7 = 8"
+            "text": "8, because 42 \u00f7 7 = 8"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "9, because 42 ÷ 7 = 9"
+            "text": "9, because 42 \u00f7 7 = 9"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "6, because 42 ÷ 7 = 6"
+            "text": "6, because 42 \u00f7 7 = 6"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "7, because 42 ÷ 7 = 7"
+            "text": "7, because 42 \u00f7 7 = 7"
           }
         ],
         "choice_pool": [],
@@ -14717,7 +14717,7 @@
         "raw_pdf_answer_text": "Correct Answer (H)",
         "answer_format": "single_choice_label",
         "correct_label": "H",
-        "correct_text": "6, because 42 ÷ 7 = 6"
+        "correct_text": "6, because 42 \u00f7 7 = 6"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -14882,7 +14882,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2022 – Q28",
+          "2022 \u2013 Q28",
           "28 Which statement about the number 27 is true?",
           "F It is even because the digit in the tens place is even.",
           "G It is odd because the digit in the ones place is odd.",
@@ -14919,7 +14919,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1552,
-        "sha256": "f8c74f6138144600c1e2549fffe06a4c09f6cc6bc6b9f8c768d891fd65a9d700",
+        "sha256": "5b33022661cea177bb9878ba3a493c0f17a972a4768838007d269048ac9d42f9",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4I_2019_q6.png"
       },
       "metadata": {
@@ -15220,12 +15220,12 @@
           {
             "position": 1,
             "label": "A",
-            "text": "5 × 9 = 45"
+            "text": "5 \u00d7 9 = 45"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "5 × 45 = 225"
+            "text": "5 \u00d7 45 = 225"
           },
           {
             "position": 3,
@@ -15246,11 +15246,11 @@
         "raw_pdf_answer_text": "Correct Answer (A)",
         "answer_format": "single_choice_label",
         "correct_label": "A",
-        "correct_text": "5 × 9 = 45",
+        "correct_text": "5 \u00d7 9 = 45",
         "distractor_note": {
           "raw_pdf_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
           "label": "B",
-          "text": "5 × 45 = 225"
+          "text": "5 \u00d7 45 = 225"
         }
       },
       "extraction_quality": {
@@ -15304,7 +15304,7 @@
         }
       },
       "question": {
-        "stem": "Ms. Morales made 28 fluid ounces of sugar water to fill the hummingbird feeders in her backyard. • She put 7 fluid ounces of sugar water into each feeder. • She put all the sugar water she made into the feeders. Which equation can be used to find the total number of feeders Ms. Morales filled with sugar water?",
+        "stem": "Ms. Morales made 28 fluid ounces of sugar water to fill the hummingbird feeders in her backyard. \u2022 She put 7 fluid ounces of sugar water into each feeder. \u2022 She put all the sugar water she made into the feeders. Which equation can be used to find the total number of feeders Ms. Morales filled with sugar water?",
         "instruction": null,
         "options": [
           {
@@ -15315,7 +15315,7 @@
           {
             "position": 2,
             "label": "B",
-            "text": "7 × 4 = 28"
+            "text": "7 \u00d7 4 = 28"
           },
           {
             "position": 3,
@@ -15325,23 +15325,23 @@
           {
             "position": 4,
             "label": "D",
-            "text": "7 × 28 = 196"
+            "text": "7 \u00d7 28 = 196"
           }
         ],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
           "A 28 - 7 = 21",
-          "B 7 × 4 = 28",
+          "B 7 \u00d7 4 = 28",
           "C 28 + 4 = 32",
-          "D 7 × 28 = 196"
+          "D 7 \u00d7 28 = 196"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (B)",
         "answer_format": "single_choice_label",
         "correct_label": "B",
-        "correct_text": "7 × 4 = 28"
+        "correct_text": "7 \u00d7 4 = 28"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -15366,7 +15366,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "c14b6229c4d7dd20ac8330cc7b0ca21e7bed5d808266e0769471755ac6d3ac07",
+        "sha256": "54844c1a5f901f71b7ccb795112ee9a1879ca935815621a94282bdfb17f15f44",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4J_2022_q11.png"
       },
       "metadata": {
@@ -15394,7 +15394,7 @@
         }
       },
       "question": {
-        "stem": "Which number sentence can be used to find the number that goes in the box? 12 ÷ 2 = □",
+        "stem": "Which number sentence can be used to find the number that goes in the box? 12 \u00f7 2 = \u25a1",
         "instruction": null,
         "options": [
           {
@@ -15405,12 +15405,12 @@
           {
             "position": 2,
             "label": "B",
-            "text": "6 × 2 = 12"
+            "text": "6 \u00d7 2 = 12"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "12 × 2 = 24"
+            "text": "12 \u00d7 2 = 24"
           },
           {
             "position": 4,
@@ -15421,14 +15421,14 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "12 ÷ 2 = □"
+          "12 \u00f7 2 = \u25a1"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (B)",
         "answer_format": "single_choice_label",
         "correct_label": "B",
-        "correct_text": "6 × 2 = 12"
+        "correct_text": "6 \u00d7 2 = 12"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -15492,17 +15492,17 @@
           {
             "position": 2,
             "label": "B",
-            "text": "112, because 28 × 4 = 112"
+            "text": "112, because 28 \u00d7 4 = 112"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "7, because 4 × 7 = 28"
+            "text": "7, because 4 \u00d7 7 = 28"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "24, because 28 − 24 = 4"
+            "text": "24, because 28 \u2212 24 = 4"
           }
         ],
         "choice_pool": [],
@@ -15511,16 +15511,16 @@
           "text: 23 Scott has 28 toy cars to put on 4 shelves. He wants to put the same number of cars on each shelf.",
           "text: How many toy cars should Scott put on each shelf?",
           "choice A: 32, because 4 + 28 = 32",
-          "choice B: 112, because 28 × 4 = 112",
-          "choice C: 7, because 4 × 7 = 28",
-          "choice D: 24, because 28 − 24 = 4"
+          "choice B: 112, because 28 \u00d7 4 = 112",
+          "choice C: 7, because 4 \u00d7 7 = 28",
+          "choice D: 24, because 28 \u2212 24 = 4"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "7, because 4 × 7 = 28"
+        "correct_text": "7, because 4 \u00d7 7 = 28"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -15545,7 +15545,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1237,
-        "sha256": "57815a72321039b1fb38a068dc076be541ee2984e9f35792c8a4110ee91ff89a",
+        "sha256": "cb69c95a5f9b9df58c7c07d5f8cb416c8b04664fcf0ac915884027d6de80154b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4J_2016_q18.png"
       },
       "metadata": {
@@ -15794,7 +15794,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1366,
-        "sha256": "471f384879636517ee2daaf30a0b96956f5e6e39118aba7993530fab58c15d16",
+        "sha256": "038532eda8851389caf762a448f4a1d75547bbc13baeb7511f6d1165bc9c00bc",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2018_q2.png"
       },
       "metadata": {
@@ -15828,22 +15828,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵"
+            "text": "\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "🎵🎵🎵🎵 🎵🎵🎵🎵 🎵🎵🎵🎵 🎵🎵🎵🎵 🎵🎵🎵🎵 🎵🎵🎵🎵 🎵🎵🎵🎵 🎵🎵🎵🎵"
+            "text": "\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵"
+            "text": "\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵"
+            "text": "\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5"
           }
         ],
         "choice_pool": [],
@@ -15856,7 +15856,7 @@
         "raw_pdf_answer_text": "Correct Answer (J)",
         "answer_format": "single_choice_label",
         "correct_label": "J",
-        "correct_text": "🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵 🎵🎵🎵🎵🎵🎵🎵🎵"
+        "correct_text": "\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5 \ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -15881,7 +15881,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "494f277a9ac8ba19495125d58feed6be39e421a89f9a281d490bdb632ccc0aac",
+        "sha256": "fb2752acd2209f79279f5211c6bcbc07a312fe6a77cff00b7a9422c4ab1407c6",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2017_q9.png"
       },
       "metadata": {
@@ -15968,7 +15968,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1315,
-        "sha256": "cd22fc0db4e6a62e7b5180e6056c6858258551e35f9630755a8e9e0c2791db09",
+        "sha256": "748ca38604d8431f47e5fdb0207b29ac366ea0524b01903a781b0bd9bb969d80",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2016_q14.png"
       },
       "metadata": {
@@ -16063,7 +16063,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1198,
-        "sha256": "8dfc287df6f35128bf2c326f2619cb923b8855fc714ec9c10f8094cf7047916d",
+        "sha256": "2062b04aaf6efb6852a30b4696d93ff11c9937ee9a33f9a0d0bd5a64c22caa5c",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2015_q13.png"
       },
       "metadata": {
@@ -16155,7 +16155,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1184,
-        "sha256": "1925be1aebb01040e4e468278f7c882a64a6695c2ee6b752bb26871572430c44",
+        "sha256": "78273c16b5803d5101469b5ca2341c80d796553a50271cdbe2c50d7743c213b9",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2018_q7.png"
       },
       "metadata": {
@@ -16242,7 +16242,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1476,
-        "sha256": "8dab5629a73c4ae811e6e05b18a561b5ab18da3292d488babac79472f50296d1",
+        "sha256": "560f1e73b78e1a215141b98af0fa06fe396f4d18478ffa02ed5a157132c56b1b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2017_q15.png"
       },
       "metadata": {
@@ -16332,7 +16332,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1479,
-        "sha256": "72a39db2e53ea9dcb21a29d00cbfc42de510c78a085d8e9d80156febb16c4e68",
+        "sha256": "362f118caee16d787c1cbde965a10471c8f7f7261563d05e5024a10ac2cbd67d",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2016_q30.png"
       },
       "metadata": {
@@ -16424,7 +16424,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1236,
-        "sha256": "74903ca629e872c8e234e0bd1805945192ff3e3277e24e59a7e0378744c19954",
+        "sha256": "a31a2197c5b7c8321e2bcaebe3278703c2cf9a8267bed89e9555865339fa40c9",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2016_q40.png"
       },
       "metadata": {
@@ -16516,7 +16516,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1433,
-        "sha256": "07ff77d37b01f010edb74695d1d26d05f53979df3dba6013af8bdb483fe42783",
+        "sha256": "b8b0727154e9b3bb0227283ad6c0e12c0434fe6f28962ccb83d35d21ce97e568",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2015_q16.png"
       },
       "metadata": {
@@ -16608,7 +16608,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1456,
-        "sha256": "a0b6ee9ca73b3c63e0fe12b434fb218cc0a6aee81e7b940707c111c2aa78bd95",
+        "sha256": "e5416780744162dd3f9324d602eaaac047f76de06a581236d90d2cdbd283968f",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2019_q10.png"
       },
       "metadata": {
@@ -16726,7 +16726,7 @@
         }
       },
       "question": {
-        "stem": "Lilah reads 5 books every month. The table shows the total number of books Lilah reads over time. Lilah’s Reading | Number of Months | Books Read | |------------------|------------| | 2 | 10 | | 4 | 20 | | 6 | 30 | Complete the sentence to describe the relationship in the table. Choose the correct answer from each drop-down menu to complete the sentence. The number of months [blank_1] [blank_2] is equal to the number of books Lilah reads.",
+        "stem": "Lilah reads 5 books every month. The table shows the total number of books Lilah reads over time. Lilah\u2019s Reading | Number of Months | Books Read | |------------------|------------| | 2 | 10 | | 4 | 20 | | 6 | 30 | Complete the sentence to describe the relationship in the table. Choose the correct answer from each drop-down menu to complete the sentence. The number of months [blank_1] [blank_2] is equal to the number of books Lilah reads.",
         "instruction": "Choose the correct answer from each drop-down menu to complete the sentence.",
         "options": [
           {
@@ -16821,7 +16821,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1255,
-        "sha256": "1a3d281e536542d4c1ebd41eb5488e6776c369995afe780a014d689f3312b5b5",
+        "sha256": "1fc9e15579e8fb437322752e4017b18ed168d63937dbd723aa2b65be8a8756e2",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2025_q17.png"
       },
       "metadata": {
@@ -16876,7 +16876,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Four tables labeled A, B, C, D, each titled Ms. Elisha’s Classes, showing Number of Days and Number of Classes with different values in each table as described in options."
+          "Four tables labeled A, B, C, D, each titled Ms. Elisha\u2019s Classes, showing Number of Days and Number of Classes with different values in each table as described in options."
         ]
       },
       "answer_key": {
@@ -16913,7 +16913,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1650,
-        "sha256": "399e9c2865a9becd3f280fe0a4d791965133ce0ebb70fbf942bb8718d85ca27a",
+        "sha256": "93a6606f05b7b05c4b1530445f121b51811bd291f78be3f1269741788f671300",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2024_q13.png"
       },
       "metadata": {
@@ -17207,7 +17207,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "67399d562f8cb4e68de5349b210a068982b0ca71799d18bfe4cdce0aea5cb276",
+        "sha256": "2ada6ff342e126ecb7b830a4a75e45c5a1c93376b500b383a3862087168483da",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2021_q13.png"
       },
       "metadata": {
@@ -17322,7 +17322,7 @@
         }
       },
       "question": {
-        "stem": "Amy, Carl, and Liz equally share 60 building blocks. Amy divides her share of building blocks into 4 equal piles. How many building blocks are in each of Amy’s piles?",
+        "stem": "Amy, Carl, and Liz equally share 60 building blocks. Amy divides her share of building blocks into 4 equal piles. How many building blocks are in each of Amy\u2019s piles?",
         "instruction": null,
         "options": [
           {
@@ -17349,7 +17349,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2025 – Q10",
+          "2025 \u2013 Q10",
           "A B C D answer labels"
         ]
       },
@@ -17463,7 +17463,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1281,
-        "sha256": "f11d1777b300ef19f7663470f59be794d2e200575e42971d6f6cf337218c5777",
+        "sha256": "f9867e5d2cdd88b82592ffe51d48772f8cd80566ee8260cb799dfd99c541e248",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4K_2024_q20.png"
       },
       "metadata": {
@@ -17558,7 +17558,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1276,
-        "sha256": "9470a640b287b02bd5ed0e62c07febb5d500f3f7303adcabd9ff9da737eea579",
+        "sha256": "f9c1a502cffcd99dd4e92a636a3cc9973d8164d5744e5d92e8da9d3df7cba089",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4K_2023_q15.png"
       },
       "metadata": {
@@ -17674,7 +17674,7 @@
         }
       },
       "question": {
-        "stem": "A group of people bought tickets for a roller-coaster ride. • The group spent $4 for each ticket. • Altogether the group spent $48 on tickets. • Each person in the group got 2 tickets. How many people were in the group?",
+        "stem": "A group of people bought tickets for a roller-coaster ride. \u2022 The group spent $4 for each ticket. \u2022 Altogether the group spent $48 on tickets. \u2022 Each person in the group got 2 tickets. How many people were in the group?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -17796,7 +17796,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1208,
-        "sha256": "7ae68e21698e5576dfa68d759ea04d086755e5a5593d85812f7e0033e0b34ce7",
+        "sha256": "2b4ddc1a9b30ad9b56cc70738704f46a69d09e7a1b94c51c82fd0a294e61c561",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4K_2021_q10.png"
       },
       "metadata": {
@@ -17824,7 +17824,7 @@
         }
       },
       "question": {
-        "stem": "Miriam had 63 flowers and 9 vases. • She threw away 9 flowers that had broken stems. • She put an equal number of all the flowers she had left into each vase. What is the greatest number of flowers Miriam put into each vase?",
+        "stem": "Miriam had 63 flowers and 9 vases. \u2022 She threw away 9 flowers that had broken stems. \u2022 She put an equal number of all the flowers she had left into each vase. What is the greatest number of flowers Miriam put into each vase?",
         "instruction": null,
         "options": [
           {
@@ -17881,7 +17881,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "7c3ab06bb76ba061be7fabb4385b5c1aa97d43ec7b8f64c091f4fe269a4a6927",
+        "sha256": "585aa7ba44c9c4b209bbf750693ba4cec03a7216e435b272a6cc50dd0a5c6c4a",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4K_2021_q31.png"
       },
       "metadata": {
@@ -17968,7 +17968,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "939848684377bf6818f7cddd1cbcf41095f0f89ac3a2cecbed80584a1855f929",
+        "sha256": "d8d5a00da7179d3e8d29c20277901113a726cd9fefbd7a9a6133c84bee781de4",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4K_2019_q2.png"
       },
       "metadata": {
@@ -18081,7 +18081,7 @@
         }
       },
       "question": {
-        "stem": "There are 3 basketball teams practicing together in a gym. • Each team has 10 players. • All of the players are used to make 6 groups during the practice. • There is an equal number of players in each group. How many players are in each group?",
+        "stem": "There are 3 basketball teams practicing together in a gym. \u2022 Each team has 10 players. \u2022 All of the players are used to make 6 groups during the practice. \u2022 There is an equal number of players in each group. How many players are in each group?",
         "instruction": null,
         "options": [
           {
@@ -18108,7 +18108,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "There are 3 basketball teams practicing together in a gym. • Each team has 10 players. • All of the players are used to make 6 groups during the practice. • There is an equal number of players in each group. How many players are in each group? F 180 G 6 H 24 J 5"
+          "There are 3 basketball teams practicing together in a gym. \u2022 Each team has 10 players. \u2022 All of the players are used to make 6 groups during the practice. \u2022 There is an equal number of players in each group. How many players are in each group? F 180 G 6 H 24 J 5"
         ]
       },
       "answer_key": {
@@ -18140,7 +18140,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "d25ec382ef932a4309b47b315c17bcdb7c3c5262dd012f33a10bd1d5dea0530d",
+        "sha256": "b4d4419a420b7a4cba5d8c5fdf898ca28e4fb6125bad997a11e68b06bb527af9",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4K_2018_q16.png"
       },
       "metadata": {
@@ -18233,7 +18233,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "b27549b8839094fc5de2e246818b7131264e3deb9b3ecba3dd908cd30c4ac777",
+        "sha256": "a8445f5062288bb7952bb721061f62d6e620e35c23bca17174cc5ee2421a31c7",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4K_2016_q19.png"
       },
       "metadata": {
@@ -18265,7 +18265,7 @@
         }
       },
       "question": {
-        "stem": "There are two different vegetables in a garden. • There are 5 rows that have 16 carrot plants in each row. • There are 72 spinach plants. How many vegetable plants are there in the garden?",
+        "stem": "There are two different vegetables in a garden. \u2022 There are 5 rows that have 16 carrot plants in each row. \u2022 There are 72 spinach plants. How many vegetable plants are there in the garden?",
         "instruction": null,
         "options": [
           {
@@ -18325,7 +18325,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "6633cdfcc07a8cd6130cf560a0400679e2c26e16982623f030e67ffa51287f17",
+        "sha256": "5be450afaffa89b39527748048083123021fc20b2559610533ec5073442e39bf",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4K_2015_q11.png"
       },
       "metadata": {
@@ -18442,28 +18442,28 @@
         }
       },
       "question": {
-        "stem": "There are 12 students in a class. • Half of the students play an instrument. • There are an equal number of students who play the guitar, piano, and violin. Which set of equations can be used to find how many students play the guitar?",
+        "stem": "There are 12 students in a class. \u2022 Half of the students play an instrument. \u2022 There are an equal number of students who play the guitar, piano, and violin. Which set of equations can be used to find how many students play the guitar?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "12 × 2 = 24 24 × 3 = ?"
+            "text": "12 \u00d7 2 = 24 24 \u00d7 3 = ?"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "12 × 2 = 24 24 ÷ 3 = ?"
+            "text": "12 \u00d7 2 = 24 24 \u00f7 3 = ?"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "12 ÷ 2 = 6 6 × 3 = ?"
+            "text": "12 \u00f7 2 = 6 6 \u00d7 3 = ?"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "12 ÷ 2 = 6 6 ÷ 3 = ?"
+            "text": "12 \u00f7 2 = 6 6 \u00f7 3 = ?"
           }
         ],
         "choice_pool": [],
@@ -18476,7 +18476,7 @@
         "raw_pdf_answer_text": "Correct Answer (D)",
         "answer_format": "single_choice_label",
         "correct_label": "D",
-        "correct_text": "12 ÷ 2 = 6 6 ÷ 3 = ?"
+        "correct_text": "12 \u00f7 2 = 6 6 \u00f7 3 = ?"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -18501,7 +18501,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1261,
-        "sha256": "e6efde4caa9cee7225ae27500fea36a2b3f1932c4a4e37db170b77bf9ed27c1c",
+        "sha256": "d4f10f93679c8e7c145637ab0bfcaf33ad7b430c89947f85d8395b04985cee39",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2024_q15.png"
       },
       "metadata": {
@@ -18540,29 +18540,29 @@
           {
             "position": 2,
             "label": null,
-            "text": "−"
+            "text": "\u2212"
           },
           {
             "position": 3,
             "label": null,
-            "text": "×"
+            "text": "\u00d7"
           },
           {
             "position": 4,
             "label": null,
-            "text": "÷"
+            "text": "\u00f7"
           }
         ],
         "choice_pool": [
           "+",
-          "−",
-          "×",
-          "÷"
+          "\u2212",
+          "\u00d7",
+          "\u00f7"
         ],
         "response_template": "4 [blank_1] 2 [blank_2] 7 = [blank_3]",
         "visual_elements": [
           "4 [box] 2 [box] 7 = [square]",
-          "Operators: +, −, ×, ÷"
+          "Operators: +, \u2212, \u00d7, \u00f7"
         ]
       },
       "answer_key": {
@@ -18629,13 +18629,13 @@
         }
       },
       "question": {
-        "stem": "Eva’s flower shop has 72 flowers. • Eva places an equal number of flowers in 8 vases. • She sells 3 vases from the flower shop. Which equation can be used to find how many flowers Eva sells?",
+        "stem": "Eva\u2019s flower shop has 72 flowers. \u2022 Eva places an equal number of flowers in 8 vases. \u2022 She sells 3 vases from the flower shop. Which equation can be used to find how many flowers Eva sells?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "72 ÷ 8 ÷ 3 = 3"
+            "text": "72 \u00f7 8 \u00f7 3 = 3"
           },
           {
             "position": 2,
@@ -18645,12 +18645,12 @@
           {
             "position": 3,
             "label": "C",
-            "text": "72 ÷ 8 × 3 = 27"
+            "text": "72 \u00f7 8 \u00d7 3 = 27"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "72 ÷ 8 + 3 = 12"
+            "text": "72 \u00f7 8 + 3 = 12"
           }
         ],
         "choice_pool": [],
@@ -18661,11 +18661,11 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "72 ÷ 8 × 3 = 27",
+        "correct_text": "72 \u00f7 8 \u00d7 3 = 27",
         "distractor_note": {
           "raw_pdf_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
           "label": "A",
-          "text": "72 ÷ 8 ÷ 3 = 3"
+          "text": "72 \u00f7 8 \u00f7 3 = 3"
         }
       },
       "extraction_quality": {
@@ -18815,12 +18815,12 @@
           {
             "position": 1,
             "label": "A",
-            "text": "20 × 4 = 80"
+            "text": "20 \u00d7 4 = 80"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "20 ÷ 4 = 5"
+            "text": "20 \u00f7 4 = 5"
           },
           {
             "position": 3,
@@ -18830,20 +18830,20 @@
           {
             "position": 4,
             "label": "D",
-            "text": "20 − 4 = 16"
+            "text": "20 \u2212 4 = 16"
           }
         ],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Equation choices: 20 × 4 = 80, 20 ÷ 4 = 5, 20 + 4 = 24, 20 − 4 = 16"
+          "Equation choices: 20 \u00d7 4 = 80, 20 \u00f7 4 = 5, 20 + 4 = 24, 20 \u2212 4 = 16"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (A)",
         "answer_format": "single_choice_label",
         "correct_label": "A",
-        "correct_text": "20 × 4 = 80"
+        "correct_text": "20 \u00d7 4 = 80"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -18868,7 +18868,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1368,
-        "sha256": "b057a9f053b9c7355b2bb9e05d9435b5641f4bfdc6a86ccd9c7fd19e550e4655",
+        "sha256": "335ad1909e1f7ea324d14aaf15eaa57dd97374719b586a6d79a32cfa7a427032",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2022_q12.png"
       },
       "metadata": {
@@ -18896,7 +18896,7 @@
         }
       },
       "question": {
-        "stem": "Janet has 2 new games. • Each game has 3 packs of cards. • Each pack has 10 cards. Which model can be used to find the total number of cards Janet has for these 2 games?",
+        "stem": "Janet has 2 new games. \u2022 Each game has 3 packs of cards. \u2022 Each pack has 10 cards. Which model can be used to find the total number of cards Janet has for these 2 games?",
         "instruction": null,
         "options": [
           {
@@ -18958,7 +18958,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "ffc6b815b2797b4898318637c14adadc8d6332a7ac9fbc5034656fe683fcfdb4",
+        "sha256": "32b830cb8c5f68e30981cf7d87d3c7d02b3e849179a7c705da09a4af98a73167",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2021_q1.png"
       },
       "metadata": {
@@ -19045,7 +19045,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "5fa534b517e6604d4f0330896768cae1ff23a5a268f632ae0e6ae782d45e71f7",
+        "sha256": "5462fff8d3804ad5b9be107730c90e8d1ad13940854ad2571f82e096af3d6b94",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2021_q29.png"
       },
       "metadata": {
@@ -19073,28 +19073,28 @@
         }
       },
       "question": {
-        "stem": "Cassandra used all the balloons in 11 packages to decorate for a party. • There were 6 balloons in each package. • Half of the balloons in each package were red. Which equation can be used to find the total number of red balloons Cassandra used?",
+        "stem": "Cassandra used all the balloons in 11 packages to decorate for a party. \u2022 There were 6 balloons in each package. \u2022 Half of the balloons in each package were red. Which equation can be used to find the total number of red balloons Cassandra used?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "11 × 6 − 3 = 63"
+            "text": "11 \u00d7 6 \u2212 3 = 63"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "11 × 6 ÷ 2 = 33"
+            "text": "11 \u00d7 6 \u00f7 2 = 33"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "11 − 6 + 2 = 7"
+            "text": "11 \u2212 6 + 2 = 7"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "11 × 6 ÷ 3 = 22"
+            "text": "11 \u00d7 6 \u00f7 3 = 22"
           }
         ],
         "choice_pool": [],
@@ -19104,14 +19104,14 @@
           "bullet: There were 6 balloons in each package.",
           "bullet: Half of the balloons in each package were red.",
           "question: Which equation can be used to find the total number of red balloons Cassandra used?",
-          "four labeled choices: A 11 × 6 − 3 = 63, B 11 × 6 ÷ 2 = 33, C 11 − 6 + 2 = 7, D 11 × 6 ÷ 3 = 22"
+          "four labeled choices: A 11 \u00d7 6 \u2212 3 = 63, B 11 \u00d7 6 \u00f7 2 = 33, C 11 \u2212 6 + 2 = 7, D 11 \u00d7 6 \u00f7 3 = 22"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (B)",
         "answer_format": "single_choice_label",
         "correct_label": "B",
-        "correct_text": "11 × 6 ÷ 2 = 33"
+        "correct_text": "11 \u00d7 6 \u00f7 2 = 33"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -19136,7 +19136,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "e1bfdf2ce27ef867eb1eaefd69746fd7f8d6b483edc571e5ef77bf78ae7a96ac",
+        "sha256": "ffc45793562a581b70869a01aa54afc327961b4d6a6e3b0088ba211eb591f902",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2019_q12.png"
       },
       "metadata": {
@@ -19226,7 +19226,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1529,
-        "sha256": "73e5274dbdcec98a21c34008fcd6976260aa7d60fd084f851550f9b484f9f3a2",
+        "sha256": "d14d04dccb230ed4b15b2b9ed89b21cdb3913e56ff64888bb40369c2f3969208",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2019_q32.png"
       },
       "metadata": {
@@ -19316,7 +19316,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1754,
-        "sha256": "d56ffd8fd9bacc5eab96f96f8ca3784d4f214f76fb76f2e3b6b8adad6772074c",
+        "sha256": "0d974fbe24510016a807655821f8463a015f85f6ef1c37819e0f23c3ca9e5c1a",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2018_q22.png"
       },
       "metadata": {
@@ -19350,22 +19350,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "He put (48 ÷ 8) cookies into each of 8 bags and ate (2 × 6) of the cookies."
+            "text": "He put (48 \u00f7 8) cookies into each of 8 bags and ate (2 \u00d7 6) of the cookies."
           },
           {
             "position": 2,
             "label": "G",
-            "text": "He put (48 ÷ 6) cookies into each of 8 bags and ate (2 × 8) of the cookies."
+            "text": "He put (48 \u00f7 6) cookies into each of 8 bags and ate (2 \u00d7 8) of the cookies."
           },
           {
             "position": 3,
             "label": "H",
-            "text": "He put (48 − 6) cookies into each of 8 bags and ate (2 × 6) of the cookies."
+            "text": "He put (48 \u2212 6) cookies into each of 8 bags and ate (2 \u00d7 6) of the cookies."
           },
           {
             "position": 4,
             "label": "J",
-            "text": "He put (48 × 6) cookies into each of 8 bags and ate (2 + 6) of the cookies."
+            "text": "He put (48 \u00d7 6) cookies into each of 8 bags and ate (2 + 6) of the cookies."
           }
         ],
         "choice_pool": [],
@@ -19378,7 +19378,7 @@
         "raw_pdf_answer_text": "Correct Answer (F)",
         "answer_format": "single_choice_label",
         "correct_label": "F",
-        "correct_text": "He put (48 ÷ 8) cookies into each of 8 bags and ate (2 × 6) of the cookies."
+        "correct_text": "He put (48 \u00f7 8) cookies into each of 8 bags and ate (2 \u00d7 6) of the cookies."
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -19431,7 +19431,7 @@
         }
       },
       "question": {
-        "stem": "A classroom currently contains 6 rows of chairs with 5 chairs per row. On parents’ night the classroom had twice as many chairs. Which number sentence can be used to find the number of chairs in the classroom on parents’ night?",
+        "stem": "A classroom currently contains 6 rows of chairs with 5 chairs per row. On parents\u2019 night the classroom had twice as many chairs. Which number sentence can be used to find the number of chairs in the classroom on parents\u2019 night?",
         "instruction": null,
         "options": [
           {
@@ -19442,17 +19442,17 @@
           {
             "position": 2,
             "label": "B",
-            "text": "6 × 5 × 2 = [ ]"
+            "text": "6 \u00d7 5 \u00d7 2 = [ ]"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "6 × 5 ÷ 2 = [ ]"
+            "text": "6 \u00d7 5 \u00f7 2 = [ ]"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "6 + 5 × 2 = [ ]"
+            "text": "6 + 5 \u00d7 2 = [ ]"
           }
         ],
         "choice_pool": [],
@@ -19465,7 +19465,7 @@
         "raw_pdf_answer_text": "Correct Answer (B)",
         "answer_format": "single_choice_label",
         "correct_label": "B",
-        "correct_text": "6 × 5 × 2 = [ ]"
+        "correct_text": "6 \u00d7 5 \u00d7 2 = [ ]"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -19490,7 +19490,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1237,
-        "sha256": "8d289f73e91c1526b75b6f66d5e19aa943b370894f3ae76ffbf896d9e19da003",
+        "sha256": "263474aeffad04e17a900fa4a8d3aeef7161a34608a2e717ff063b6b7cf63c34",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2016_q24.png"
       },
       "metadata": {
@@ -19534,30 +19534,30 @@
           {
             "position": 2,
             "label": "G",
-            "text": "6 × 8 ÷ 4 = 12"
+            "text": "6 \u00d7 8 \u00f7 4 = 12"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "6 × 8 × 4 = 192"
+            "text": "6 \u00d7 8 \u00d7 4 = 192"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "6 + 8 − 4 = 10"
+            "text": "6 + 8 \u2212 4 = 10"
           }
         ],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "6 × 8 ÷ 4 = 12"
+          "6 \u00d7 8 \u00f7 4 = 12"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (G)",
         "answer_format": "single_choice_label",
         "correct_label": "G",
-        "correct_text": "6 × 8 ÷ 4 = 12"
+        "correct_text": "6 \u00d7 8 \u00f7 4 = 12"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -19680,7 +19680,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1435,
-        "sha256": "b2b9dbadd866ab229fcf7f2f43d50959566179af770797467682d47d350b20f2",
+        "sha256": "ca31b13d06b77c63ebebd5ade40e471ca284337065ccb1895bed7f0c1b2c25fe",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2024_q27.png"
       },
       "metadata": {
@@ -19945,7 +19945,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1531,
-        "sha256": "0a606847b283acbcaa0e914861b3e765793994c62bd9d35c0172b998b6cb96fd",
+        "sha256": "64b940604c70451c13b2ad3404aa19280394bfc7aca8bcceea0e5f9eac5efff0",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2022_q13.png"
       },
       "metadata": {
@@ -19979,22 +19979,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "Has Vertices: Rectangle ✓, Triangle ✓, Circle Quadrilateral: Rectangle ✓, Triangle ✓, Circle"
+            "text": "Has Vertices: Rectangle \u2713, Triangle \u2713, Circle Quadrilateral: Rectangle \u2713, Triangle \u2713, Circle"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "Has Vertices: Rectangle , Triangle , Circle ✓ Quadrilateral: Rectangle ✓, Triangle , Circle"
+            "text": "Has Vertices: Rectangle , Triangle , Circle \u2713 Quadrilateral: Rectangle \u2713, Triangle , Circle"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "Has Vertices: Rectangle ✓, Triangle ✓, Circle Quadrilateral: Rectangle ✓, Triangle , Circle"
+            "text": "Has Vertices: Rectangle \u2713, Triangle \u2713, Circle Quadrilateral: Rectangle \u2713, Triangle , Circle"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "Has Vertices: Rectangle ✓, Triangle ✓, Circle Quadrilateral: Rectangle , Triangle , Circle"
+            "text": "Has Vertices: Rectangle \u2713, Triangle \u2713, Circle Quadrilateral: Rectangle , Triangle , Circle"
           }
         ],
         "choice_pool": [],
@@ -20007,7 +20007,7 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "Has Vertices: Rectangle ✓, Triangle ✓, Circle Quadrilateral: Rectangle ✓, Triangle , Circle"
+        "correct_text": "Has Vertices: Rectangle \u2713, Triangle \u2713, Circle Quadrilateral: Rectangle \u2713, Triangle , Circle"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -20122,7 +20122,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1719,
-        "sha256": "a4f09d4eddbd0a216ae63e55219cbfb23593883a8b8c08bf6356dfa0f86a2911",
+        "sha256": "8e939aed3fb30b6783bf862c8968d002e2cf8f8fbf31aca479a2ea380c3fd27a",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2021_q30.png"
       },
       "metadata": {
@@ -20209,7 +20209,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "8150ae835aad93c09cd27f14832c590109cca87a0cfcdcc91e17ce6c54b1a3c1",
+        "sha256": "8b4270f0977afeedc826c2fb6dc1d8b47db278b0af05bd6fc3c9bd986953cff0",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2019_q11.png"
       },
       "metadata": {
@@ -20299,7 +20299,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "90242ff094669cf9a40ab827c4d2be757408d0231302422eb8fcbf25b211991e",
+        "sha256": "d17b84c1391ac119219c9a1edff5e54859b8f92112b3cf1962e47d8114d2f828",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2019_q30.png"
       },
       "metadata": {
@@ -20390,7 +20390,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1223,
-        "sha256": "1c839aedb9320f4172d5e739084fda4a2a30d76134b54abdaec9aef0f28f3343",
+        "sha256": "2d549a31e21cfd63bebf2c87eaf7a31fb4f828f52c255c44a8af0c512f15360b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2018_q9.png"
       },
       "metadata": {
@@ -20477,7 +20477,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1333,
-        "sha256": "a73a697bd877c76fb95c6d601936b4ee05842a23d7f2b6d1a6f644beed3ada9b",
+        "sha256": "d10cf9f40bfcb43e40894d59b0dc746436ec1afb0da04b99e16990d76288a279",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2018_q19.png"
       },
       "metadata": {
@@ -20564,7 +20564,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1524,
-        "sha256": "411f53246c187734f6200d7149304464ca6ab6016699226b55850e6cc441e01d",
+        "sha256": "c06591042220897858b64c8ff101358a75f045ecfd96be5eb10b27b7637d7bb6",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2017_q8.png"
       },
       "metadata": {
@@ -20652,7 +20652,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1744,
-        "sha256": "6f2dcb7a3a183be123b51e479fe859ea879555318a3361aeb294e9d4a435f881",
+        "sha256": "736106c1ef851109ffdac604cf2f00ff352dd4708f3415aaf0d2ea535e00add2",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2016_q20.png"
       },
       "metadata": {
@@ -20836,7 +20836,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1223,
-        "sha256": "3dfff6b530ff4dc204efbf8bdff1af8f68f588742d59b0788144699516c958e9",
+        "sha256": "609a1fd625a488b11cb6bc6ee48ae225a44a2fec29dd7b8647a456e171449a15",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2015_q17.png"
       },
       "metadata": {
@@ -20932,7 +20932,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1403,
-        "sha256": "2544b9e004a66b0466478999e470fdf77b61c8f2e564e5bc9b485fd13ca4f085",
+        "sha256": "29aa3b45cac674a4c740697d098271b9bb39ad0cecd33c1dbbfc715bab5c6e03",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6B_2025_q7.png"
       },
       "metadata": {
@@ -21119,7 +21119,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1377,
-        "sha256": "af5cbe7b0f282c14d59a00bacf139f66544c8a61c1249d8a3b703cd1acb406dd",
+        "sha256": "0a23721638acc060af13cfcf5449410048fd599be978865b7798b81555a91f5b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6B_2022_q8.png"
       },
       "metadata": {
@@ -21296,7 +21296,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "44857fd96eb52f1027f5c14e62132a1918acc6af2eba3c49ce51247ba5fd9afd",
+        "sha256": "349e13b5fa97b866aa7382b4a9ec4d632f89d34261c9b82cfe6c4ac2caadb861",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6B_2016_q17.png"
       },
       "metadata": {
@@ -21483,7 +21483,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1350,
-        "sha256": "8f160fd245bdbe0424e143e1d877c4f64382953d1574ed0e7a18f2f00dbca176",
+        "sha256": "dcac40b4d19b757508a03c7e0c19d0df94ea0e77cdfa758a714cf21465c13184",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2024_q21.png"
       },
       "metadata": {
@@ -21511,7 +21511,7 @@
         }
       },
       "question": {
-        "stem": "Lena draws a rectangle on a grid made of same-sized squares that do not overlap. • Each square has an area of one square centimeter. • There are 32 rows in the rectangle. • Each row has 8 squares. What is the area of the rectangle in square centimeters?",
+        "stem": "Lena draws a rectangle on a grid made of same-sized squares that do not overlap. \u2022 Each square has an area of one square centimeter. \u2022 There are 32 rows in the rectangle. \u2022 Each row has 8 squares. What is the area of the rectangle in square centimeters?",
         "instruction": "Enter your answer in the space provided.",
         "options": [],
         "choice_pool": [],
@@ -21548,7 +21548,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2079,
-        "sha256": "884a66fc72777d0f0b3d4779d135121d79826844caf46ef870cb2efdae12df52",
+        "sha256": "cc825d6c9c03ec2a1f0313e3bef1280fbf6b1fb00bda1f900c5fadf6d1fb0e18",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2023_q14.png"
       },
       "metadata": {
@@ -21576,7 +21576,7 @@
         }
       },
       "question": {
-        "stem": "The rectangles shown will be covered with squares. • Each square has an area of 1 square inch. • Some of the squares have already been placed as shown. Which rectangles have an area of 24 square inches? Select TWO correct answers.",
+        "stem": "The rectangles shown will be covered with squares. \u2022 Each square has an area of 1 square inch. \u2022 Some of the squares have already been placed as shown. Which rectangles have an area of 24 square inches? Select TWO correct answers.",
         "instruction": "Select TWO correct answers.",
         "options": [
           {
@@ -21643,7 +21643,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "d540cd408b76a92de9c247eb3b8a24a192818c52a7bd9d71d8b035c6e0a42441",
+        "sha256": "626ff11f736972a3f1a7238d28cfe8e3e8a2273b0fdc89ffd4b3d2b9c5c135a2",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2022_q5.png"
       },
       "metadata": {
@@ -21671,7 +21671,7 @@
         }
       },
       "question": {
-        "stem": "The rectangular floor of Ms. Ragan’s closet is completely covered with carpet squares. Each carpet square covers 1 square foot of the floor. There are 4 rows, and each row has 16 carpet squares. What is the area of the floor of this closet in square feet?",
+        "stem": "The rectangular floor of Ms. Ragan\u2019s closet is completely covered with carpet squares. Each carpet square covers 1 square foot of the floor. There are 4 rows, and each row has 16 carpet squares. What is the area of the floor of this closet in square feet?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -21736,7 +21736,7 @@
         }
       },
       "question": {
-        "stem": "Ms. González is putting square stickers on a rectangular poster. Each sticker has an area of 1 square inch. She has already put some stickers on the poster as shown. What is the area of the entire poster in square inches?",
+        "stem": "Ms. Gonz\u00e1lez is putting square stickers on a rectangular poster. Each sticker has an area of 1 square inch. She has already put some stickers on the poster as shown. What is the area of the entire poster in square inches?",
         "instruction": null,
         "options": [
           {
@@ -21795,7 +21795,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1371,
-        "sha256": "cfceb1c19b00042cfe20bb0023c195b55b1534ec3a7082b6963076ceb10a7846",
+        "sha256": "88d06ed3abc778179a624dbd33900f4d62ad0448bbd5d7c2916bab2a7ad10a53",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2021_q7.png"
       },
       "metadata": {
@@ -21882,7 +21882,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1612,
-        "sha256": "1fac100af57d890e7cb7d604e8b53b0c4f903f58fc5d12d74f76be4102c3d2f2",
+        "sha256": "1fd4065afb9e699c592ea8d2d702ba035f23a880a620af8e16ad88ee5da5fdf4",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2021_q18.png"
       },
       "metadata": {
@@ -21970,7 +21970,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1653,
-        "sha256": "741dc5a5ed730fb34052e550b6db4b7694e605b91e220f380e7a571f53aea537",
+        "sha256": "fd0924fd59fdfa0f94752ccb82b9819271b4533388ba4debf8c3e5883b7c4379",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2019_q16.png"
       },
       "metadata": {
@@ -21998,7 +21998,7 @@
         }
       },
       "question": {
-        "stem": "The shaded figure on the grid represents Erin’s rectangular lawn. What is the area in square meters of Erin’s lawn?",
+        "stem": "The shaded figure on the grid represents Erin\u2019s rectangular lawn. What is the area in square meters of Erin\u2019s lawn?",
         "instruction": null,
         "options": [
           {
@@ -22057,7 +22057,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1554,
-        "sha256": "6d6c0bc0c1b785993565e1f86e0290cb06c2c5ea840bbc738a55f303f48d883b",
+        "sha256": "4919c24a5a22161ad32a3ab0a2bbcc3fc8e5ecc747761c2c4c377c122f2cb7d6",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2018_q32.png"
       },
       "metadata": {
@@ -22318,7 +22318,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1251,
-        "sha256": "e97dd77220ade5706a955a278f0702a478853fac7ef6d30a041d906fdeeb7f1e",
+        "sha256": "2dc1bdc19c772324759a706eedbaf6c8828569004f77bb5017f2d4153328e238",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2016_q11.png"
       },
       "metadata": {
@@ -22388,7 +22388,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "4f7244da85cee1c96ce6a9fe8d2a2f0053335642380d939e74329c6264a71f93",
+        "sha256": "e071361c781ee97e31872e97f93747ed14c369fc82f6e971e2f8e553eb0b7c61",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2016_q39.png"
       },
       "metadata": {
@@ -22477,7 +22477,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "df5ffbeebb5d6dbc38cf945858d2837ed741bfb8929736cf3d254cc378bacbbe",
+        "sha256": "2ea2135d55c45dbe32cf71d1b3f3025107d4deda80fdb4799268c571ee7780e4",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2015_q18.png"
       },
       "metadata": {
@@ -22566,7 +22566,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1282,
-        "sha256": "42d089c0fa8ff37607744a8de4e053af5a9cf4093db7a1fcf3a27ed9eb1da594",
+        "sha256": "2c3dd83302bb3ceafe589bcd8b83f0272db58476ab23ad5cdaece93a578d0842",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6D_2023_q3.png"
       },
       "metadata": {
@@ -22653,7 +22653,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1472,
-        "sha256": "38d8fdca0267b742ba533a599b004f1381e3599e2f80021acebb0be0ea1d3d79",
+        "sha256": "89a76f6df1586a577af9fb147e2c2980f2612655d3d06e5c447600e6d1176cda",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6D_2016_q31.png"
       },
       "metadata": {
@@ -22745,7 +22745,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1288,
-        "sha256": "ec000028740a7f381b3cf61393e61cf265b8699b3e37b68e24b30a23387c5c66",
+        "sha256": "25bd69537670fdb80709e36241eaecc7afddc61b8ff25cb2082daa1efdf2df98",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6D_2015_q19.png"
       },
       "metadata": {
@@ -22843,7 +22843,7 @@
         }
       },
       "question": {
-        "stem": "Evelyn makes a rectangular birthday card. The card has a length of 9 inches and a width of 6 inches. What is the perimeter of Evelyn’s card in inches?",
+        "stem": "Evelyn makes a rectangular birthday card. The card has a length of 9 inches and a width of 6 inches. What is the perimeter of Evelyn\u2019s card in inches?",
         "instruction": null,
         "options": [
           {
@@ -22870,7 +22870,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2025 – Q11",
+          "2025 \u2013 Q11",
           "A) 15 in.",
           "B) 30 in.",
           "C) 36 in.",
@@ -23003,7 +23003,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1249,
-        "sha256": "f0a49bb40aef47e6bbe682f7f13865e5b208ea3b41d39e8baddd95c9fc1e2f6b",
+        "sha256": "d6066d64d71ca2f6bbd67841436a09f413fff047c8a5991a37c9cd7afe479bc3",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2024_q18.png"
       },
       "metadata": {
@@ -23267,7 +23267,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1258,
-        "sha256": "1872044fe4e8683af8f3e7e425bab4be5e6883a51d780b516670a2b8435d1498",
+        "sha256": "5961ec1c835839c5802a95b34610961dab993b987fcbdb223b1d23cca9af5171",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2021_q9.png"
       },
       "metadata": {
@@ -23354,7 +23354,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1203,
-        "sha256": "4269b8f59c6b5fbe4770f33b9ef85a3867916956411e638bf59d81779a2a3fd4",
+        "sha256": "37ed9dc918bbc9c9b0a3da0cfa0c9618194da942c0e1a7d6b42354fa07ca5b19",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2021_q24.png"
       },
       "metadata": {
@@ -23382,7 +23382,7 @@
         }
       },
       "question": {
-        "stem": "The perimeter of the rectangular floor of Mr. Bryan’s cabin is 46 feet. The width of the floor is 10 feet, as shown. What is the length of the floor of Mr. Bryan’s cabin in feet?",
+        "stem": "The perimeter of the rectangular floor of Mr. Bryan\u2019s cabin is 46 feet. The width of the floor is 10 feet, as shown. What is the length of the floor of Mr. Bryan\u2019s cabin in feet?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -23419,7 +23419,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "4f04d422be7f01f971fc13a6f81acd6dfe6786566d7c75bcae7fd21c7f500f04",
+        "sha256": "6d622349d90cca1a51eec9828c4245dddc48f9a9537d89037adff1f34cc0c148",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2019_q14.png"
       },
       "metadata": {
@@ -23447,7 +23447,7 @@
         }
       },
       "question": {
-        "stem": "Gina’s journal has a square cover with the side length shown. What is the perimeter of the cover of Gina’s journal in centimeters?",
+        "stem": "Gina\u2019s journal has a square cover with the side length shown. What is the perimeter of the cover of Gina\u2019s journal in centimeters?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -23484,7 +23484,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1715,
-        "sha256": "8bb8f594fee80d817fc50c77fe2312611d0bf3058d11345edbc88369b343f576",
+        "sha256": "9d7b862b9f14602bbd5274d39bc8d2b4c0334d3275bfbb8d257d4c1f8722a0ad",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2019_q25.png"
       },
       "metadata": {
@@ -23512,7 +23512,7 @@
         }
       },
       "question": {
-        "stem": "A model of Mr. Estrada’s rectangular calculator is shown. Use the ruler provided to measure the length and width of the calculator to the nearest centimeter. Which measurement is closest to the perimeter of the calculator in centimeters?",
+        "stem": "A model of Mr. Estrada\u2019s rectangular calculator is shown. Use the ruler provided to measure the length and width of the calculator to the nearest centimeter. Which measurement is closest to the perimeter of the calculator in centimeters?",
         "instruction": null,
         "options": [
           {
@@ -23571,7 +23571,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1364,
-        "sha256": "77adf00dd4327f62b0c647de6ed5f1e00f0ce215fc2bcd9c59c5104f6577ddc5",
+        "sha256": "3e1fc25fd397493e642acbe0c1d48de09f28a43a6aa231deee2c9d7f80baf2b2",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2018_q3.png"
       },
       "metadata": {
@@ -23599,7 +23599,7 @@
         }
       },
       "question": {
-        "stem": "Gretchen made this table to show the side lengths and perimeters of three figures. Gretchen’s Figures | Figure | Side Lengths (yards) | Perimeter (yards) | |----------|----------------------|-------------------| | Square | 6, 6, 6, 6 | 24 | | Triangle | 4, 7, 8 | 19 | | Rectangle| 4, 8, 4, 8 | 32 | What mistake, if any, did Gretchen make?",
+        "stem": "Gretchen made this table to show the side lengths and perimeters of three figures. Gretchen\u2019s Figures | Figure | Side Lengths (yards) | Perimeter (yards) | |----------|----------------------|-------------------| | Square | 6, 6, 6, 6 | 24 | | Triangle | 4, 7, 8 | 19 | | Rectangle| 4, 8, 4, 8 | 32 | What mistake, if any, did Gretchen make?",
         "instruction": null,
         "options": [
           {
@@ -23658,7 +23658,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1332,
-        "sha256": "7439f2de8fcb2871c1a04f16cfd4fcc31ff580e97d82d2c211d51016b02ca2c5",
+        "sha256": "d4b5d15cc5a6a831606e20bf93e47e82f842b65f45827c9deb36e76d620a619a",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2018_q13.png"
       },
       "metadata": {
@@ -23898,7 +23898,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1194,
-        "sha256": "9b69b0f4ae84172c2fff50d81e917afe9f71ca4216bb20fe975edcf446fa788d",
+        "sha256": "2a36b4408abdcc333cb6b468a36411bd2e69982176342b97673e28be70522bc3",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2016_q26.png"
       },
       "metadata": {
@@ -23987,7 +23987,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1646,
-        "sha256": "0af7ef291db56aaba2d4feaf326309a0929e3974be9e726c3244bf26d946de27",
+        "sha256": "65033b4c0894a32a029f6b5e38c130e546e23b6e37e536266e355a20d47e19d4",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2016_q44.png"
       },
       "metadata": {
@@ -24265,7 +24265,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "55c7cfd9f086865d3fc51f80994824d28cf50189f9b57d463f1d0baa0fcd2343",
+        "sha256": "5a5f0f2478a88438b24e3bd3c95239bfd9cf7927931528f3e4d9c218d04288ea",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7C_2021_q28.png"
       },
       "metadata": {
@@ -24352,7 +24352,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1346,
-        "sha256": "96c90798856aa47172645bcd2f1d8c44fb40da6e6235efe936615999559a6bab",
+        "sha256": "f1dd7ce0dfd9b64dd1480a7cc34253beca86c9f7da5238e39efea84444095822",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7C_2019_q9.png"
       },
       "metadata": {
@@ -24380,7 +24380,7 @@
         }
       },
       "question": {
-        "stem": "Felix swam, rode his bike, and ran in a race. • He spent 19 minutes swimming. • He spent 21 minutes riding his bike. • He spent 30 minutes running. What was the total amount of time Felix spent swimming, riding his bike, and running in this race?",
+        "stem": "Felix swam, rode his bike, and ran in a race. \u2022 He spent 19 minutes swimming. \u2022 He spent 21 minutes riding his bike. \u2022 He spent 30 minutes running. What was the total amount of time Felix spent swimming, riding his bike, and running in this race?",
         "instruction": null,
         "options": [
           {
@@ -24439,7 +24439,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1612,
-        "sha256": "5e59b93fdf98d08ee1813d3349d2a894e4d49f45e8a1db16af3f69064f73ce15",
+        "sha256": "12bab864a40536a2d44756cc8b831f2c9e9562d2eedb6b75bdd61e1858da325b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7C_2017_q18.png"
       },
       "metadata": {
@@ -24530,7 +24530,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "19bb3468537de29206ab446948498eed8a08c88fa8c3da0e749ef364a7d44d96",
+        "sha256": "e7c16a04a59f3a0e390b20d41e233305647239949c76ee92f6cb59d7526bef0e",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7C_2016_q3.png"
       },
       "metadata": {
@@ -24622,7 +24622,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "c9406f4543ea1a12dbbb5ec8828696bbdbaa7d48749618dfaf9813cb739e48d9",
+        "sha256": "655c61614c29cfd74e69e41ba9629c3820ddd38a7f26a382b3e49a15304a6d62",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7D_2024_q29.png"
       },
       "metadata": {
@@ -24714,7 +24714,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "8507a21db4c49fe393b3d9c6e8464ac6959c0f524f7fe7f0794e925d1ff1b85d",
+        "sha256": "738140c46225bbe9253bfee96637a49fb52e1ee1225dcd7b1585c9c5dabceffe",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7D_2021_q15.png"
       },
       "metadata": {
@@ -24799,7 +24799,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "7e5a3ae3a0dfbd5b65ddc416e6d335d5885228764cbe6d98d96b28d958e9b54c",
+        "sha256": "ebf0bfdaaabbfd64b230d62f305dee6ed0c0ccd9f12a7e92462f014b5a5f7a93",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7D_2018_q17.png"
       },
       "metadata": {
@@ -24886,7 +24886,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1224,
-        "sha256": "dd349b00acf5658c7c90ad3a2757b8a063ccd3c62ce9f1b6680362d422d904e2",
+        "sha256": "a70b87b05c287c7374c6e79ea6882b83be9e0e56a386c8f8971f52570a200dab",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7D_2016_q9.png"
       },
       "metadata": {
@@ -24919,7 +24919,7 @@
         }
       },
       "question": {
-        "stem": "Patrick’s class collected boxes of food for charity. Which unit of measurement should be used to measure the weight of the boxes of food?",
+        "stem": "Patrick\u2019s class collected boxes of food for charity. Which unit of measurement should be used to measure the weight of the boxes of food?",
         "instruction": null,
         "options": [
           {
@@ -24976,7 +24976,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "4d4dc653c5ab8e5b1cff3e47afa9058b605ea82132a8f2dc22d61bb7337f8e48",
+        "sha256": "02ee485c02df3762909127e89744cba1d3d294cbad38e68a3bb7e62ad7138be8",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7D_2015_q22.png"
       },
       "metadata": {
@@ -25155,7 +25155,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1236,
-        "sha256": "526e04b4f24b1d844d0245a351a2234851013119a085b5c6bb2b3b5c3fe6aefe",
+        "sha256": "7121f9d082acc2092ddd1a2ae00f03834d0583a72f6f0ec9f4de7a5471340216",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2025_q5.png"
       },
       "metadata": {
@@ -25183,7 +25183,7 @@
         }
       },
       "question": {
-        "stem": "A student measures the heights of some pea plants in inches. The dot plot shows his data. Pea Plants Each ● represents 1 pea plant. Which list represents the heights of the pea plants in inches?",
+        "stem": "A student measures the heights of some pea plants in inches. The dot plot shows his data. Pea Plants Each \u25cf represents 1 pea plant. Which list represents the heights of the pea plants in inches?",
         "instruction": null,
         "options": [
           {
@@ -25275,7 +25275,7 @@
         }
       },
       "question": {
-        "stem": "Vienna creates a bar graph and a pictograph to show what types of books she owns. She has 5 comic books, 9 mystery books, and 3 sports books. She makes an error in one of the graphs, as shown. Vienna’s Books [Bar graph labeled \"Vienna's Books\" with bars: Comic at 5, Mystery at 9, Sports at 3] Vienna’s Books [Pictograph with 3 rows: Comic (2 whole book symbols and 1 half book symbol), Mystery (4 whole book symbols and 1 half book symbol), Sports (2 whole book symbols)] Each book symbol represents 2 books.",
+        "stem": "Vienna creates a bar graph and a pictograph to show what types of books she owns. She has 5 comic books, 9 mystery books, and 3 sports books. She makes an error in one of the graphs, as shown. Vienna\u2019s Books [Bar graph labeled \"Vienna's Books\" with bars: Comic at 5, Mystery at 9, Sports at 3] Vienna\u2019s Books [Pictograph with 3 rows: Comic (2 whole book symbols and 1 half book symbol), Mystery (4 whole book symbols and 1 half book symbol), Sports (2 whole book symbols)] Each book symbol represents 2 books.",
         "instruction": "Which graph has the error?",
         "options": [
           {
@@ -25341,7 +25341,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1332,
-        "sha256": "e85d49692ec77b007bffa461fa5b734b3f46dba4b40bf75112e747f758b57095",
+        "sha256": "13e7f327e7db488d4b399206247d1ba721a208d576d86d749be380dde3a89735",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2024_q3.png"
       },
       "metadata": {
@@ -25369,7 +25369,7 @@
         }
       },
       "question": {
-        "stem": "Ben rolls a number cube 10 times and records the results shown. 6 3 5 4 4 1 5 3 6 5 He then creates the dot plot shown with the results. Number Cube Rolls 1 . 2 3 .. 4 .. 5 ... 6 . Each ● means 1 roll. Complete the sentence by selecting the correct answers from the drop-down menus. Ben’s dot plot is incorrect because there should be [blank_1] above the number [blank_2].",
+        "stem": "Ben rolls a number cube 10 times and records the results shown. 6 3 5 4 4 1 5 3 6 5 He then creates the dot plot shown with the results. Number Cube Rolls 1 . 2 3 .. 4 .. 5 ... 6 . Each \u25cf means 1 roll. Complete the sentence by selecting the correct answers from the drop-down menus. Ben\u2019s dot plot is incorrect because there should be [blank_1] above the number [blank_2].",
         "instruction": "Complete the sentence by selecting the correct answers from the drop-down menus.",
         "options": [
           {
@@ -25441,7 +25441,7 @@
           "5",
           "6"
         ],
-        "response_template": "Ben’s dot plot is incorrect because there should be [blank_1] above the number [blank_2].",
+        "response_template": "Ben\u2019s dot plot is incorrect because there should be [blank_1] above the number [blank_2].",
         "visual_elements": [
           "Number Cube Rolls dot plot with numbers 1 to 6 on the horizontal axis and dots representing rolls: 1 has 1 dot, 2 has 0 dots, 3 has 2 dots, 4 has 2 dots, 5 has 3 dots, 6 has 1 dot."
         ]
@@ -25457,7 +25457,7 @@
           "blank_1": "2 dots",
           "blank_2": "4"
         },
-        "normalized_expression": "Ben’s dot plot is incorrect because there should be 2 dots above the number 4."
+        "normalized_expression": "Ben\u2019s dot plot is incorrect because there should be 2 dots above the number 4."
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -25516,22 +25516,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "Pizzas Sold Size Number Small 🍕 Medium 🍕🍕🍕 Large 🍕🍕🍕🍕🍕 Extra large 🍕🍕 Each 🍕 represents 4 pizzas."
+            "text": "Pizzas Sold Size Number Small \ud83c\udf55 Medium \ud83c\udf55\ud83c\udf55\ud83c\udf55 Large \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55 Extra large \ud83c\udf55\ud83c\udf55 Each \ud83c\udf55 represents 4 pizzas."
           },
           {
             "position": 2,
             "label": "B",
-            "text": "Pizzas Sold Size Number Small 🍕 Medium 🍕🍕🌓 Large 🍕🍕 Extra large 🍕🍕🍕🌓 Each 🍕 represents 4 pizzas."
+            "text": "Pizzas Sold Size Number Small \ud83c\udf55 Medium \ud83c\udf55\ud83c\udf55\ud83c\udf13 Large \ud83c\udf55\ud83c\udf55 Extra large \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf13 Each \ud83c\udf55 represents 4 pizzas."
           },
           {
             "position": 3,
             "label": "C",
-            "text": "Pizzas Sold Size Number Small 🍕 Medium 🍕🍕🌓 Large 🍕🍕🍕🍕 Extra large 🍕🍕 Each 🍕 represents 4 pizzas."
+            "text": "Pizzas Sold Size Number Small \ud83c\udf55 Medium \ud83c\udf55\ud83c\udf55\ud83c\udf13 Large \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55 Extra large \ud83c\udf55\ud83c\udf55 Each \ud83c\udf55 represents 4 pizzas."
           },
           {
             "position": 4,
             "label": "D",
-            "text": "Pizzas Sold Size Number Small 🍕 Medium 🍕🍕🌓 Large 🍕🍕🍕🍕🌓 Extra large Each 🍕 represents 4 pizzas."
+            "text": "Pizzas Sold Size Number Small \ud83c\udf55 Medium \ud83c\udf55\ud83c\udf55\ud83c\udf13 Large \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf13 Extra large Each \ud83c\udf55 represents 4 pizzas."
           }
         ],
         "choice_pool": [],
@@ -25545,11 +25545,11 @@
         "raw_pdf_answer_text": "Correct Answer (D)",
         "answer_format": "single_choice_label",
         "correct_label": "D",
-        "correct_text": "Pizzas Sold Size Number Small 🍕 Medium 🍕🍕🌓 Large 🍕🍕🍕🍕🌓 Extra large Each 🍕 represents 4 pizzas.",
+        "correct_text": "Pizzas Sold Size Number Small \ud83c\udf55 Medium \ud83c\udf55\ud83c\udf55\ud83c\udf13 Large \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf13 Extra large Each \ud83c\udf55 represents 4 pizzas.",
         "distractor_note": {
           "raw_pdf_text": "Correct Answer (D) ^highly chosen incorrect answer (A)",
           "label": "A",
-          "text": "Pizzas Sold Size Number Small 🍕 Medium 🍕🍕🍕 Large 🍕🍕🍕🍕🍕 Extra large 🍕🍕 Each 🍕 represents 4 pizzas."
+          "text": "Pizzas Sold Size Number Small \ud83c\udf55 Medium \ud83c\udf55\ud83c\udf55\ud83c\udf55 Large \ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55 Extra large \ud83c\udf55\ud83c\udf55 Each \ud83c\udf55 represents 4 pizzas."
         }
       },
       "extraction_quality": {
@@ -25603,7 +25603,7 @@
         }
       },
       "question": {
-        "stem": "Miyoung uses a computer to randomly generate numbers between 1 and 10. The results are shown in the dot plot. Each ● means 1 number. Which list of numbers represents Miyoung's results?",
+        "stem": "Miyoung uses a computer to randomly generate numbers between 1 and 10. The results are shown in the dot plot. Each \u25cf means 1 number. Which list of numbers represents Miyoung's results?",
         "instruction": null,
         "options": [
           {
@@ -25662,7 +25662,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2203,
-        "sha256": "1b67ecf007ebbc77636ca49dc51a40b73bd57631d0ada4cd44c462f9c840b6c6",
+        "sha256": "c058f1aff3adf29177ef8a77eac1604d5485901e5aa2663975d12bbeef408e86",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2023_q22.png"
       },
       "metadata": {
@@ -25748,7 +25748,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "1238d4c80ee3221de736ad0ee4accdbea49962c8109da3a224ec2db60d451b9f",
+        "sha256": "6794aa941b01fd9c0715ca77864ad57b5c44613b3a2aa51c569c5a770045c7ed",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2022_q6.png"
       },
       "metadata": {
@@ -25835,7 +25835,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2295,
-        "sha256": "4fc7534c8dd25e1664955807c52b317a15d987a72c746345be0f603c576686cc",
+        "sha256": "4a02d06bc3c2be5335ba5f085879647acf22c0a2f3070316ebae364b7783506c",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2022_q31.png"
       },
       "metadata": {
@@ -25863,7 +25863,7 @@
         }
       },
       "question": {
-        "stem": "The pictograph shows the number of games each team in a volleyball league won during one season. Volleyball Games Won Each 🏐 means 3 games won. Which table represents the data in the pictograph?",
+        "stem": "The pictograph shows the number of games each team in a volleyball league won during one season. Volleyball Games Won Each \ud83c\udfd0 means 3 games won. Which table represents the data in the pictograph?",
         "instruction": null,
         "options": [
           {
@@ -25922,7 +25922,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1612,
-        "sha256": "a57d650f6d3e3a1140d7a7a7d9f3d7d696de80c3ea1fbff97f542d058c776874",
+        "sha256": "239105573c84919e1e0b79abac898a09eb343615972f20d01cc6b57750e6bc9e",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2021_q6.png"
       },
       "metadata": {
@@ -26009,7 +26009,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2008,
-        "sha256": "fec63c8e8b3ab5a861b34077a97b5cabe31fe4dfa9bc4902b8ffe6a13cdc26c9",
+        "sha256": "651a183a3876ee2a802aad48030e7a4471012155b4325b707d51630442fb61b8",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2021_q23.png"
       },
       "metadata": {
@@ -26096,7 +26096,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1687,
-        "sha256": "2fd0462081e8e59110360c4a417b1ec54a9be8e90b058a5ad5df25e2e8797227",
+        "sha256": "1d11658aff79de598b26621a15a302b5078b52907f189fe7f56a4dd079f5cfe7",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2019_q3.png"
       },
       "metadata": {
@@ -26272,7 +26272,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1921,
-        "sha256": "d4a0525163e58fae7e90a4a92671c4306bbc3a31df59ad74908f4960a27b21a7",
+        "sha256": "575d7b0fb3b853d9e8d3d814f3cab9f961a9aa056b84938809d173d482e85719",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2018_q11.png"
       },
       "metadata": {
@@ -26300,28 +26300,28 @@
         }
       },
       "question": {
-        "stem": "The list shows the number of ribbons of each color that a school ordered for a science fair. • 12 blue • 18 red • 36 green • 60 purple Which pictograph best represents the information in the list?",
+        "stem": "The list shows the number of ribbons of each color that a school ordered for a science fair. \u2022 12 blue \u2022 18 red \u2022 36 green \u2022 60 purple Which pictograph best represents the information in the list?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "Each 🏁 means 4 ribbons. Blue: 3 icons Red: 5 icons Green: 9 icons Purple: 15 icons"
+            "text": "Each \ud83c\udfc1 means 4 ribbons. Blue: 3 icons Red: 5 icons Green: 9 icons Purple: 15 icons"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "Each 🏁 means 6 ribbons. Blue: 2 icons Red: 3 icons Green: 6 icons Purple: 7 icons"
+            "text": "Each \ud83c\udfc1 means 6 ribbons. Blue: 2 icons Red: 3 icons Green: 6 icons Purple: 7 icons"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "Each 🏁 means 12 ribbons. Blue: 1 icon Red: 2 icons and 1 quarter icon Green: 3 icons Purple: 5 icons"
+            "text": "Each \ud83c\udfc1 means 12 ribbons. Blue: 1 icon Red: 2 icons and 1 quarter icon Green: 3 icons Purple: 5 icons"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "Each 🏁 means 9 ribbons. Blue: 2 icons Red: 2 icons Green: 4 icons Purple: 7 icons"
+            "text": "Each \ud83c\udfc1 means 9 ribbons. Blue: 2 icons Red: 2 icons Green: 4 icons Purple: 7 icons"
           }
         ],
         "choice_pool": [],
@@ -26335,7 +26335,7 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "Each 🏁 means 12 ribbons. Blue: 1 icon Red: 2 icons and 1 quarter icon Green: 3 icons Purple: 5 icons"
+        "correct_text": "Each \ud83c\udfc1 means 12 ribbons. Blue: 1 icon Red: 2 icons and 1 quarter icon Green: 3 icons Purple: 5 icons"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -26718,7 +26718,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2409,
-        "sha256": "d8f333af46e27198d6eea663f04c9c13dea448a08ae1519309842368447534b9",
+        "sha256": "cd3bf7693043006929efbbb968cf17219f2e4b07087ef2b690fab272bbe53027",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2016_q36.png"
       },
       "metadata": {
@@ -26810,7 +26810,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1930,
-        "sha256": "a1f17df1740584d60edbe3b5f512af703fe866f752e6f2b2b7ceafdc0e3b36e6",
+        "sha256": "a8689d38e49bec50953bdc36f216470ac2eb3af8993ee273c6527e79994b94fb",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2015_q23.png"
       },
       "metadata": {
@@ -26995,7 +26995,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1414,
-        "sha256": "d17679049e7845d68f0a4ba14c012806a551437471e76e41f92851fc50f95dd7",
+        "sha256": "d678f4476204637239be8f5cb319fce3153105bf3034e48081ca271d337039e5",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8B_2024_q14.png"
       },
       "metadata": {
@@ -27087,7 +27087,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1472,
-        "sha256": "6a36c00e8edbdfb1d4eec42acee3167ac64fba188b0cc83a008135d0a33150a3",
+        "sha256": "790b9e3b8fc91fcd299f82c8fa65bd2e97595b64ccf2a9806754e13fcef6a42b",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8B_2021_q11.png"
       },
       "metadata": {
@@ -27174,7 +27174,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "981863034c0346e721614e0a92a10a1366953ec88442a57af6f264c57dfce743",
+        "sha256": "fcbd4ff905629165e43d8be0f5aa5258cfe1aa3a2c1104457c7a0b75fd52e521",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8B_2018_q24.png"
       },
       "metadata": {
@@ -27202,7 +27202,7 @@
         }
       },
       "question": {
-        "stem": "The frequency table shows the number of points scored by each player on a basketball team during a game. Points Scored Player | Tally Stephen | 𐄂𐄂𐄂𐄂 𐄂𐄂 𐄂𐄂𐄂𐄂 Alfred | 𐄂𐄂𐄂𐄂 Kenji | 𐄂𐄂𐄂𐄂 𐄂𐄂 𐄂𐄂 Pete | 𐄂𐄂𐄂𐄂 𐄂𐄂𐄂 Eric | 𐄂𐄂𐄂𐄂 𐄂𐄂 𐄂𐄂 Wesley | 𐄂𐄂𐄂𐄂 𐄂 Hayes | 𐄂𐄂𐄂𐄂 𐄂𐄂",
+        "stem": "The frequency table shows the number of points scored by each player on a basketball team during a game. Points Scored Player | Tally Stephen | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 Alfred | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 Kenji | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02 Pete | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02\ud800\udd02 Eric | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02 Wesley | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02 Hayes | \ud800\udd02\ud800\udd02\ud800\udd02\ud800\udd02 \ud800\udd02\ud800\udd02",
         "instruction": "What is the combined number of points scored by Stephen, Alfred, Pete, and Wesley? Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -27239,7 +27239,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1290,
-        "sha256": "fd7a317c70abba7539043dc992d7eff0fb7e6a5943558ebb1a835d84de630212",
+        "sha256": "9d68febba8b1fa56ba9d33a66e44b4f6bd7bc1812c8fb05d0829da31eb50a0d1",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8B_2017_q24.png"
       },
       "metadata": {
@@ -27267,7 +27267,7 @@
         }
       },
       "question": {
-        "stem": "The graph shows the number of rings Mrs. Adams sold during six weeks at her jewelry store. Each 💍 means 6 rings sold. What is the total number of rings Mrs. Adams sold during weeks 4, 5, and 6?",
+        "stem": "The graph shows the number of rings Mrs. Adams sold during six weeks at her jewelry store. Each \ud83d\udc8d means 6 rings sold. What is the total number of rings Mrs. Adams sold during weeks 4, 5, and 6?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -27304,7 +27304,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1556,
-        "sha256": "7ded902161302e78d476765b9090dbef9efe9cc91387666fc3012d3bef72d8f3",
+        "sha256": "9b8c695e360a54be86975c55c2ebf3c1211a8317ff7b94809d369a7d2d62881e",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8B_2016_q23.png"
       },
       "metadata": {
@@ -27612,7 +27612,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2024 – Q24"
+          "2024 \u2013 Q24"
         ]
       },
       "answer_key": {
@@ -27649,7 +27649,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1208,
-        "sha256": "94afc47cc18e5f757c9644b573619fe1b1384da4c07a64ce86fe01ca16a5d464",
+        "sha256": "8a634535347321798cd18a76ecec655b6b32f988b63dff4165b9393b7135263f",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.9D_2016_q15.png"
       },
       "metadata": {
@@ -27738,7 +27738,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "34f8d91f01471b58cc6dceb48b9ecf68534510eb4a01c493ca3f4418349dcfc6",
+        "sha256": "ff88bc47d9a3ecc70f0fd2ef7bf16260ab7264ea7fe39f8f45880c0221f4780f",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.9D_2015_q25.png"
       },
       "metadata": {
@@ -27827,7 +27827,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1224,
-        "sha256": "cd40284442ee3fa508d2b7305b2320d6e331a4b52423adbcbeb424d5726be149",
+        "sha256": "992e15392bcd2369c59c749e82e51852792b0a028ea74292a6fa08eaf2df67fd",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.9A_2022_q4.png"
       },
       "metadata": {
@@ -27882,7 +27882,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2022 – Q4"
+          "2022 \u2013 Q4"
         ]
       },
       "answer_key": {
@@ -27914,7 +27914,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1223,
-        "sha256": "c974f077e132176f2bf00b61d46442247202174367bce7fbfb61f6c241219463",
+        "sha256": "84da34ac3b7b209ead5330368a9c02402e15ce901a602470a750873569f67514",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.9A_2019_q23.png"
       },
       "metadata": {
@@ -27953,7 +27953,7 @@
           {
             "position": 2,
             "label": "B",
-            "text": "The size of Ms. Patterson’s family"
+            "text": "The size of Ms. Patterson\u2019s family"
           },
           {
             "position": 3,
@@ -27969,10 +27969,10 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2019 – Q23",
+          "2019 \u2013 Q23",
           "Ms. Patterson works for a company. Which factor would most likely affect the amount of money Ms. Patterson gets paid by the company?",
           "A The amount of money Ms. Patterson has to pay in bills",
-          "B The size of Ms. Patterson’s family",
+          "B The size of Ms. Patterson\u2019s family",
           "C The amount of money Ms. Patterson saves every month",
           "D The work experience Ms. Patterson has"
         ]
@@ -28006,7 +28006,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "7a3213c9b997b9cc52799d84b1b0ccdd1eaa00db80e225959f505a71d2f2165f",
+        "sha256": "5b92d1411614facbd246bfaadc5cd25193a121eb457b5bd72234124b9a7e8025",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.9A_2018_q1.png"
       },
       "metadata": {
@@ -28091,7 +28091,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1224,
-        "sha256": "287d7be4dcd60801d314b517d49ce3b00f9f6feadb762ebdd96dc2a52e013cd0",
+        "sha256": "a32fa989197533800e46f73fcda61ade9cf62e0c9c5f3636158b4a55c54e4355",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.9A_2016_q43.png"
       },
       "metadata": {
@@ -28129,7 +28129,7 @@
           {
             "position": 1,
             "label": "A",
-            "text": "The size of the police officer’s family"
+            "text": "The size of the police officer\u2019s family"
           },
           {
             "position": 2,
@@ -28158,7 +28158,7 @@
         "raw_pdf_answer_text": "Correct Answer (A)",
         "answer_format": "single_choice_label",
         "correct_label": "A",
-        "correct_text": "The size of the police officer’s family"
+        "correct_text": "The size of the police officer\u2019s family"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -28183,7 +28183,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "49d450327951e7d5f1743e1a90c95e3386f53ec119d212d9a65b293c36c0d39f",
+        "sha256": "479ac1b8e625ad817d1db74071f2930fada9dffb77b8da880c2e1801ad9e7a2c",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.9B_2024_q5.png"
       },
       "metadata": {
@@ -28303,7 +28303,7 @@
         }
       },
       "question": {
-        "stem": "Dahlia sold pineapples at a fruit stand. The table shows the number of pineapples Dahlia had for sale each week and the number of customers she expected to come to her fruit stand. Dahlia’s Pineapples | | Week 1 | Week 2 | Week 3 | Week 4 | |---------------------|--------|--------|--------|--------| | Number of Pineapples | 110 | 150 | 200 | 25 | | Number of Expected Customers | 50 | 150 | 40 | 50 | In which week did Dahlia most likely sell her pineapples for the highest price?",
+        "stem": "Dahlia sold pineapples at a fruit stand. The table shows the number of pineapples Dahlia had for sale each week and the number of customers she expected to come to her fruit stand. Dahlia\u2019s Pineapples | | Week 1 | Week 2 | Week 3 | Week 4 | |---------------------|--------|--------|--------|--------| | Number of Pineapples | 110 | 150 | 200 | 25 | | Number of Expected Customers | 50 | 150 | 40 | 50 | In which week did Dahlia most likely sell her pineapples for the highest price?",
         "instruction": null,
         "options": [
           {
@@ -28362,7 +28362,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "dd5f9d80ddaf83de89d4a4eea6f694842ecdf4a4b13e14621eb899b825423615",
+        "sha256": "7cac0625dae68b8adde6896a9b83484354e4eb4eb29a19d538064d89ce79cc01",
         "question_image": "collections/grade-3/math/images/extracted/g3_math_3.9B_2015_q24.png"
       },
       "metadata": {
