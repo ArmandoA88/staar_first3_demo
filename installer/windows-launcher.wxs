@@ -5,7 +5,7 @@
     Version="0.1.1"
     UpgradeCode="1D1D1D8A-8A69-4B5F-8E31-7A1B8C7E9A11"
     InstallerVersion="500"
-    Scope="perMachine"
+    Scope="perUser"
     Compressed="yes">
 
     <SummaryInformation
@@ -18,7 +18,7 @@
     <Icon Id="AppIcon" SourceFile="!(bindpath.repo)src-tauri\icons\icon.ico" />
     <Property Id="ARPPRODUCTICON" Value="AppIcon" />
 
-    <StandardDirectory Id="ProgramFiles64Folder">
+    <StandardDirectory Id="LocalAppDataFolder">
       <Directory Id="INSTALLFOLDER" Name="STAAR Problem Browser" />
     </StandardDirectory>
 
@@ -50,7 +50,7 @@
         IconIndex="0" />
 
       <RemoveFolder Id="ApplicationProgramsFolderCleanup" Directory="ApplicationProgramsFolder" On="uninstall" />
-      <RegistryValue Root="HKLM" Key="Software\STAARProblemBrowser" Name="Installed" Type="integer" Value="1" KeyPath="yes" />
+      <RegistryValue Root="HKCU" Key="Software\STAARProblemBrowser" Name="Installed" Type="integer" Value="1" KeyPath="yes" />
     </Component>
   </Package>
 </Wix>
