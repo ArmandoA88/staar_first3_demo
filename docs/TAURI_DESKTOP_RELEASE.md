@@ -44,6 +44,18 @@ Build desktop bundles for the current OS:
 npm run tauri:build
 ```
 
+Build the Windows single-file MSI and copy it to the repo root:
+
+```powershell
+npm run tauri:build:msi:root
+```
+
+Build the macOS universal DMG and copy it to the repo root:
+
+```powershell
+npm run tauri:build:dmg:root
+```
+
 ## Startup Experience
 
 - The Tauri desktop shell now opens a small splash window immediately so teachers can see that the executable is launching.
@@ -85,10 +97,15 @@ That workflow runs on `macos-latest`, lets Tauri auto-merge `src-tauri/tauri.mac
 
 The workflow relies on Tauri's `beforeBuildCommand`, so the packaged frontend is staged automatically during the build. The uploaded artifact is the installer DMG only, which keeps the GitHub Actions download focused on the file you would sign, notarize, and host for teachers.
 
-The shared desktop workflow relies on Tauri's default platform-specific config discovery on each runner:
+The shared desktop workflow uses:
 
-- Windows uses `src-tauri/tauri.windows.conf.json`
-- macOS uses `src-tauri/tauri.macos.conf.json`
+- Windows: `--bundles msi --config src-tauri/tauri.windows.msi.root.conf.json`
+- macOS: `--target universal-apple-darwin --bundles dmg`, which still auto-merges `src-tauri/tauri.macos.conf.json`
+
+For the root-copy installer commands:
+
+- Windows uses `src-tauri/tauri.windows.msi.root.conf.json` so `npm run tauri:build:msi:root` produces a single `.msi` deliverable in the repo root and removes stale split CABs from older root builds.
+- macOS uses the default macOS config merge and then copies the latest `.dmg` to the repo root as `STAAR Problem Browser_<version>_macOS.dmg`.
 
 The macOS side of that shared workflow still builds a universal DMG. If you ever want to change that release strategy later, the decision point is:
 

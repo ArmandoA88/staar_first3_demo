@@ -17,7 +17,7 @@ jobs:
         include:
           - runner: windows-latest
             label: windows
-            args: ""
+            args: "--bundles msi --config src-tauri/tauri.windows.msi.root.conf.json"
           - runner: macos-latest
             label: macos
             args: "--target universal-apple-darwin --bundles dmg"

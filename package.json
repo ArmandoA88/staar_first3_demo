@@ -9,7 +9,8 @@
     "tauri:dev": "tauri dev",
     "tauri:build": "tauri build",
     "tauri:build:root": "tauri build --no-bundle && node scripts/copy_tauri_release_exe.js",
-    "tauri:build:msi:root": "tauri build --bundles msi --config src-tauri/tauri.windows.msi.root.conf.json && node scripts/copy_tauri_release_msi.js"
+    "tauri:build:msi:root": "tauri build --bundles msi --config src-tauri/tauri.windows.msi.root.conf.json && node scripts/copy_tauri_release_msi.js",
+    "tauri:build:dmg:root": "tauri build --target universal-apple-darwin --bundles dmg && node scripts/copy_tauri_release_dmg.js"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2.0.0"

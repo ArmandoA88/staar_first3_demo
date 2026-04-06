@@ -16,6 +16,7 @@ import fitz
 from openai import APIError, OpenAI, RateLimitError
 from PIL import Image
 from png_optimization import file_sha256, save_optimized_png
+from stimulus_image_optimization import save_grayscale_webp
 
 
 YEAR_RE = re.compile(
@@ -462,7 +463,7 @@ def render_crop(page: fitz.Page, crop_rect: fitz.Rect, output_path: Path, dpi: i
     matrix = fitz.Matrix(dpi / 72.0, dpi / 72.0)
     pixmap = page.get_pixmap(matrix=matrix, clip=crop_rect, alpha=False)
     image = Image.frombytes("RGB", (pixmap.width, pixmap.height), pixmap.samples)
-    save_optimized_png(image, output_path)
+    save_grayscale_webp(image, output_path)
     digest = file_sha256(output_path)
     return {
         "crop_bbox_pdf_points": [round(crop_rect.x0, 3), round(crop_rect.y0, 3), round(crop_rect.x1, 3), round(crop_rect.y1, 3)],
@@ -864,7 +865,7 @@ def render_stimulus_group(
         for rect in rects[1:]:
             merged_rect.include_rect(rect)
         crop_rect = expand_rect(merged_rect, page.rect, padding=10.0)
-        image_path = stimuli_dir / f"{group_plan['id']}_stimulus_{page_position}.png"
+        image_path = stimuli_dir / f"{group_plan['id']}_stimulus_{page_position}.webp"
         render_crop(page, crop_rect, image_path, dpi)
         page_images.append(image_path.relative_to(root).as_posix())
         page_numbers.append(page_plan["page_number"])

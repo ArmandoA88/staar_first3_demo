@@ -29,6 +29,13 @@ jobs:
           PY
           )" >> "$GITHUB_OUTPUT"
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package-lock.json
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -36,11 +43,24 @@ jobs:
           cache: pip
           cache-dependency-path: requirements.txt
 
-      - name: Install Python dependencies
-        run: python -m pip install -r requirements.txt pyinstaller
+      - name: Install Rust stable with macOS universal targets
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: aarch64-apple-darwin,x86_64-apple-darwin
 
-      - name: Build macOS launcher DMG
-        run: python scripts/build_macos_dmg.py
+      - name: Rust cache
+        uses: swatinem/rust-cache@v2
+        with:
+          workspaces: "./src-tauri -> target"
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Build macOS Tauri DMG
+        run: npm run tauri:build:dmg:root
 
       - name: Upload macOS installer artifact
         uses: actions/upload-artifact@v4

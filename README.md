@@ -13,7 +13,7 @@ collections/
       data/                   Generated catalog JSON
       reports/                Coverage reports
       images/extracted/       Rendered item crops
-      images/stimuli/         Linked passage or stimulus page crops
+      images/stimuli/         Linked passage or stimulus page crops (grayscale WebP)
       images/demo/            Small demo images
       cache/vision/           Per-item vision cache
       docs/                   Collection-specific notes
@@ -122,12 +122,26 @@ Build desktop bundles for the current OS:
 npm run tauri:build
 ```
 
+Build a single-file Windows MSI in the repo root:
+
+```powershell
+npm run tauri:build:msi:root
+```
+
+Build a macOS universal DMG in the repo root from a Mac:
+
+```powershell
+npm run tauri:build:dmg:root
+```
+
 Important notes:
 
 - Tauri requires the Rust toolchain.
 - Local Windows builds also need Visual Studio Build Tools with MSVC and the Windows SDK.
 - Windows packages should be built on Windows.
 - Mac packages should be built on macOS.
+- `npm run tauri:build:msi:root` copies the latest Tauri MSI to `STAARProblemBrowser-windows Installer.msi` and removes stale split `staar*.cab` artifacts from older installer builds.
+- `npm run tauri:build:dmg:root` copies the latest Tauri DMG to `STAAR Problem Browser_<version>_macOS.dmg`.
 - The packaged frontend is staged into `build/tauri/frontend/`.
 - Desktop startup now shows a native splash window first, then releases into the main app after the first collection finishes loading.
 - `.github/workflows/tauri-desktop-build.yml` builds Windows and macOS bundles in one workflow and relies on Tauri's platform-specific config files on each runner.

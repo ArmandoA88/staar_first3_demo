@@ -2294,7 +2294,7 @@ function buildStudentPrintMarkup(selectedItems) {
         <p class="print-instructions">Answer each question. Show work where needed.</p>
         ${
           studentPrintFormat === "ocr"
-            ? '<p class="print-instructions">Passage bundles still print from the original PNG pages so reading selections stay intact.</p>'
+            ? '<p class="print-instructions">Passage bundles still print from grayscale WebP pages so reading selections stay intact.</p>'
             : ""
         }
       </section>
