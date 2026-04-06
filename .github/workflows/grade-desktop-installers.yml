@@ -1,0 +1,62 @@
+name: Build Grade 3 macOS DMG
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "desktop-grades-v*"
+
+permissions:
+  contents: read
+
+jobs:
+  build-macos-grade-3:
+    name: Build Grade 3 macOS DMG
+    runs-on: macos-latest
+    env:
+      GRADE: 3
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install Rust stable with macOS universal targets
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: aarch64-apple-darwin,x86_64-apple-darwin
+
+      - name: Rust cache
+        uses: swatinem/rust-cache@v2
+        with:
+          workspaces: "./src-tauri -> target"
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Build grade-specific macOS DMG
+        run: npm run tauri:build:grade:dmg:root -- --grade ${{ env.GRADE }}
+
+      - name: Upload grade-specific macOS DMG from repo root
+        uses: actions/upload-artifact@v4
+        with:
+          name: staar-problem-browser-grade-3-macos-dmg
+          path: ./STAAR Problem Browser Grade 3_*_macOS.dmg
+          if-no-files-found: error
+          retention-days: 14
