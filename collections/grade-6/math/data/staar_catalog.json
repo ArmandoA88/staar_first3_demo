@@ -26,7 +26,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1946,
-        "sha256": "c60169c12fe4818e38bf6e538781ef125fdaa75888b31271ee77a7af5d3548fa",
+        "sha256": "a470337382a0b27c600167bd862a06eea086221e1d04ef39dddce505abb0bbea",
         "page_span": [
           4
         ],
@@ -217,7 +217,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1593,
-        "sha256": "ee32a6e6fe8bb98ba6438da5008eb3dd3e460dc3ecea9b120e11fde2cf5d8f37",
+        "sha256": "bb5388e2b91278d9d35f13a83ff9b2a746ad9a9781f53e8538d255ed7bd1d25f",
         "page_span": [
           6
         ],
@@ -255,22 +255,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "Integers −648 Whole numbers Rational numbers"
+            "text": "Integers \u2212648 Whole numbers Rational numbers"
           },
           {
             "position": 2,
             "label": "H",
-            "text": "Whole numbers −648 Integers Rational numbers"
+            "text": "Whole numbers \u2212648 Integers Rational numbers"
           },
           {
             "position": 3,
             "label": "G",
-            "text": "Integers Whole numbers −648 Rational numbers"
+            "text": "Integers Whole numbers \u2212648 Rational numbers"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "Whole numbers Integers −648 Rational numbers"
+            "text": "Whole numbers Integers \u2212648 Rational numbers"
           }
         ],
         "choice_pool": [],
@@ -283,7 +283,7 @@
         "raw_pdf_answer_text": "Correct Answer (F)",
         "answer_format": "single_choice_label",
         "correct_label": "F",
-        "correct_text": "Integers −648 Whole numbers Rational numbers"
+        "correct_text": "Integers \u2212648 Whole numbers Rational numbers"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -308,7 +308,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1623,
-        "sha256": "7146b82a225d96974e2f9c81f12c9a1dee947105a6127214b48d46842e8d6911",
+        "sha256": "df5d562a50218829b2c9da4e2e19b571527163bf700a13b5488836da6de9cc37",
         "page_span": [
           7
         ],
@@ -399,7 +399,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1589,
-        "sha256": "eb990fd032c9c6691630986adbb97979567897b70e30569aa8d03e74c6e5eb32",
+        "sha256": "937d43cc1019327a24619fd182f9aa45cf9965284c746568aa7a538dc6aa8be3",
         "page_span": [
           8
         ],
@@ -589,7 +589,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1226,
-        "sha256": "f341ef51ecab494bfd4fc17345b38abca2fb43e251cdc742db16f4e45b885ad1",
+        "sha256": "271564b703d9f1887af2573fb36c56558d2b7af6122f82284542f2f76f935fd8",
         "page_span": [
           10
         ],
@@ -712,7 +712,7 @@
         }
       },
       "question": {
-        "stem": "Dana placed the following points on a number line. • Point P at -\\dfrac{24}{3} • Point Q at -\\dfrac{9}{2} • Point R at \\dfrac{7}{2} • Point S at \\dfrac{15}{3} Which point is NOT correctly placed on this number line?",
+        "stem": "Dana placed the following points on a number line. \u2022 Point P at -\\dfrac{24}{3} \u2022 Point Q at -\\dfrac{9}{2} \u2022 Point R at \\dfrac{7}{2} \u2022 Point S at \\dfrac{15}{3} Which point is NOT correctly placed on this number line?",
         "instruction": null,
         "options": [
           {
@@ -771,7 +771,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "3e95ca1ce41b901f6eb9ab6f6917392751be1f76fb71768109da19cc6dd0f2d5",
+        "sha256": "a586a0121dee16644c40f34f14771de140de52b6ffc482da106a497197718e20",
         "page_span": [
           12
         ],
@@ -1306,7 +1306,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1232,
-        "sha256": "224eacb3bf101dabce884b0e71232c4e5dc5e46d6048dda0550101861fe167ae",
+        "sha256": "433c356f4ce426fe71fe17f8839a1438615370b10385a7b739b50f35561c66d7",
         "page_span": [
           17
         ],
@@ -1400,7 +1400,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1226,
-        "sha256": "ab59ebb0e832e7f0573b96fe2501a8590a06acae2b80e011f7783fb01a032611",
+        "sha256": "d4e0d0d1062ad9aa869aa9e74a0e5b09dbec9a1bb89cb29de6a4ba85a39f3dbe",
         "page_span": [
           18
         ],
@@ -1492,7 +1492,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1350,
-        "sha256": "c04ecede6e6d79e480a6dbc90e84078810fe6c6e783af4a22f392b9430048c24",
+        "sha256": "46bc7bc76bf2e86f701dd52fb36a2599c59ff6ba7fc6266320bff0a35fe0f71a",
         "page_span": [
           19
         ],
@@ -1586,7 +1586,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "9242610b0158047d79fe701d2c78b03d4b45ff8acc7473c41ea3a96fedc2ebd5",
+        "sha256": "c28628bc8b34538326e39190df5099aab9493993d6459ee3401b575ee7013670",
         "page_span": [
           20
         ],
@@ -1618,28 +1618,28 @@
         }
       },
       "question": {
-        "stem": "Mari used a thermometer to record temperatures of -3.4° Celsius and 1.6° Celsius. Which temperature in degrees Celsius is less than both of the temperatures Mari recorded?",
+        "stem": "Mari used a thermometer to record temperatures of -3.4\u00b0 Celsius and 1.6\u00b0 Celsius. Which temperature in degrees Celsius is less than both of the temperatures Mari recorded?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "F",
-            "text": "-2.6 °C"
+            "text": "-2.6 \u00b0C"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "3.9 °C"
+            "text": "3.9 \u00b0C"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "-5.4 °C"
+            "text": "-5.4 \u00b0C"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "0 °C"
+            "text": "0 \u00b0C"
           }
         ],
         "choice_pool": [],
@@ -1653,7 +1653,7 @@
         "raw_pdf_answer_text": "Correct Answer (H)",
         "answer_format": "single_choice_label",
         "correct_label": "H",
-        "correct_text": "-5.4 °C"
+        "correct_text": "-5.4 \u00b0C"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -1678,7 +1678,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1334,
-        "sha256": "84d5bd00d79f4cb1ac6b0e4416be0549488282ead82cd4bf4f6770d6d0a06688",
+        "sha256": "dd1cf908010a116b76b63098f6869ad14d999385f830bff7cbfff7cc7d3c274d",
         "page_span": [
           21
         ],
@@ -1770,7 +1770,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1232,
-        "sha256": "ddc9e02d9b8c431539e93b28c69aff483b8901346f0abb9d4a0f3a609f8cde87",
+        "sha256": "a60f7a6d032a7a1fd811c17d4b6e7ccd4fe9eecaf37f05960a103cdf5266c221",
         "page_span": [
           22
         ],
@@ -1897,22 +1897,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "-10°F 8°F -5°F 0°F"
+            "text": "-10\u00b0F 8\u00b0F -5\u00b0F 0\u00b0F"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "-5°F -10°F 0°F 8°F"
+            "text": "-5\u00b0F -10\u00b0F 0\u00b0F 8\u00b0F"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "-10°F -5°F 0°F 8°F"
+            "text": "-10\u00b0F -5\u00b0F 0\u00b0F 8\u00b0F"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "0°F -5°F 8°F -10°F"
+            "text": "0\u00b0F -5\u00b0F 8\u00b0F -10\u00b0F"
           }
         ],
         "choice_pool": [],
@@ -1923,7 +1923,7 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "-10°F -5°F 0°F 8°F"
+        "correct_text": "-10\u00b0F -5\u00b0F 0\u00b0F 8\u00b0F"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -2067,7 +2067,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1379,
-        "sha256": "3f6b03fda1f1e3a48203c85cd180bdeab02f8d0bcb7ef4ea1a781823e2aed140",
+        "sha256": "915f3f9fad53d22fb07fe8dac606c596cb03f8d11047560987a4f1cb9d3cce9c",
         "page_span": [
           24
         ],
@@ -2163,7 +2163,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1528,
-        "sha256": "9d0495090f3150987f16ba955774db3b7f2f670ab13da5cbbddbb1dedd25c1e7",
+        "sha256": "e10ad77462138973b5cead882ea559424f627485019109b383beb7b5701f85c1",
         "page_span": [
           25
         ],
@@ -2259,7 +2259,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1285,
-        "sha256": "2c3b2262864e9f53fd00bb604a06b4e4ce5fd555008931b5916cc1953f8eb952",
+        "sha256": "42a2fd03680ef953c1c9abe2d530bcc99625bae97c5de01c497f988edff37ffa",
         "page_span": [
           26
         ],
@@ -2451,7 +2451,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1346,
-        "sha256": "53f86816085522ec088bcf13c10681ae1ddb92de562872ab39556cda0f7ef5a2",
+        "sha256": "7558ccf65f1ba637057f7f3ec3655020e34fb6edf31a6d86105c034f42c6736e",
         "page_span": [
           29
         ],
@@ -2628,7 +2628,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1235,
-        "sha256": "176569cd2353bea9807801c1a545176f35e71ace36839fd1e0b1e87dae7d562d",
+        "sha256": "229c2911b59a0795474001ab032c3e340c49f7b5ffd7812b8e1be85e4c67edd2",
         "page_span": [
           30
         ],
@@ -2818,7 +2818,7 @@
         "grade": 6,
         "subject": "Math",
         "standard": "6.2(E)",
-        "standard_description": "extend representations for division to include fraction notation such as a/b represents the same number as a ÷ b where b ≠ 0",
+        "standard_description": "extend representations for division to include fraction notation such as a/b represents the same number as a \u00f7 b where b \u2260 0",
         "year": 2025,
         "question_number": 16,
         "cluster": "All Operations with Rational Numbers",
@@ -2917,7 +2917,7 @@
         "grade": 6,
         "subject": "Math",
         "standard": "6.2(E)",
-        "standard_description": "extend representations for division to include fraction notation such as a/b represents the same number as a ÷ b where b ≠ 0",
+        "standard_description": "extend representations for division to include fraction notation such as a/b represents the same number as a \u00f7 b where b \u2260 0",
         "year": 2022,
         "question_number": 2,
         "cluster": "All Operations with Rational Numbers",
@@ -3008,7 +3008,7 @@
         "grade": 6,
         "subject": "Math",
         "standard": "6.2(E)",
-        "standard_description": "extend representations for division to include fraction notation such as a/b represents the same number as a ÷ b where b ≠ 0",
+        "standard_description": "extend representations for division to include fraction notation such as a/b represents the same number as a \u00f7 b where b \u2260 0",
         "year": 2017,
         "question_number": 34,
         "cluster": "All Operations with Rational Numbers",
@@ -3036,7 +3036,7 @@
           {
             "position": 1,
             "label": "F",
-            "text": "4 ÷ 5"
+            "text": "4 \u00f7 5"
           },
           {
             "position": 2,
@@ -3046,12 +3046,12 @@
           {
             "position": 3,
             "label": "H",
-            "text": "5 ⁄4"
+            "text": "5 \u20444"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "5 ÷ 4"
+            "text": "5 \u00f7 4"
           }
         ],
         "choice_pool": [],
@@ -3065,7 +3065,7 @@
         "raw_pdf_answer_text": "Correct Answer (F)",
         "answer_format": "single_choice_label",
         "correct_label": "F",
-        "correct_text": "4 ÷ 5"
+        "correct_text": "4 \u00f7 5"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -3100,7 +3100,7 @@
         "grade": 6,
         "subject": "Math",
         "standard": "6.2(E)",
-        "standard_description": "extend representations for division to include fraction notation such as a/b represents the same number as a ÷ b where b ≠ 0",
+        "standard_description": "extend representations for division to include fraction notation such as a/b represents the same number as a \u00f7 b where b \u2260 0",
         "year": 2015,
         "question_number": 3,
         "cluster": "All Operations with Rational Numbers",
@@ -3185,7 +3185,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1353,
-        "sha256": "2bd509954a46165b587a6216486a49f788a2b32e914d2056f4547f44be644cdc",
+        "sha256": "cefe8cbfb84301d2b2b806c54ae4572ea5611d72885915903f4d697706bf6da1",
         "page_span": [
           35
         ],
@@ -3278,7 +3278,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1215,
-        "sha256": "2642e6fb0af1a3d7c6d425f78d7d8df0b86852c9c9eecfa2ec0944e30ed174a7",
+        "sha256": "fa3180ee7f9d1e518a15c774bb0272fb7e835a3abc009da4ae253f300357c7be",
         "page_span": [
           36
         ],
@@ -3471,7 +3471,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1295,
-        "sha256": "52b356e1472bd35e070984c2bf5cd6229db494e78437a828fdc991bcbbf3970e",
+        "sha256": "85369867243b379a82f570dc6eda3545d2e60a6b0a3162c2004b8e08d24cc737",
         "page_span": [
           38
         ],
@@ -3840,7 +3840,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1277,
-        "sha256": "e870a7bb702dd745674b71cc64538c39f1f38b3d17b6e20a10d95c343605d2d0",
+        "sha256": "de417ef0ddc6628982871aebcb9ecdc6509f2594510c3c2fc316ed8dbd3c9650",
         "page_span": [
           41
         ],
@@ -3963,7 +3963,7 @@
         }
       },
       "question": {
-        "stem": "The circles in the model represent positive and negative units. [image of 3 black circles above 5 white circles] KEY ○ = 1 ● = -1 Which equation is true based on the model?",
+        "stem": "The circles in the model represent positive and negative units. [image of 3 black circles above 5 white circles] KEY \u25cb = 1 \u25cf = -1 Which equation is true based on the model?",
         "instruction": null,
         "options": [
           {
@@ -3991,7 +3991,7 @@
         "response_template": null,
         "visual_elements": [
           "image of 3 black circles above 5 white circles",
-          "KEY ○ = 1 ● = -1"
+          "KEY \u25cb = 1 \u25cf = -1"
         ]
       },
       "answer_key": {
@@ -4114,7 +4114,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "b7c7f42374f4cd992b084827a2378a67c8ae10872a522a834568b1a66aae58c4",
+        "sha256": "feb049f0c2da969378a1eb6427fdffeceafb228e59d4db5651b3e025684e3596",
         "page_span": [
           43
         ],
@@ -4241,13 +4241,13 @@
         }
       },
       "question": {
-        "stem": "The manager of a pet store monitors the number of fish added to or removed from a tank each day over a seven-day period. Each number in the list represents the change in the number of fish in the tank for a day during that week. + 8 −6 + 2 −5 −1 + 3 −6 What number represents the total change in the number of fish in the tank?",
+        "stem": "The manager of a pet store monitors the number of fish added to or removed from a tank each day over a seven-day period. Each number in the list represents the change in the number of fish in the tank for a day during that week. + 8 \u22126 + 2 \u22125 \u22121 + 3 \u22126 What number represents the total change in the number of fish in the tank?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "−5"
+            "text": "\u22125"
           },
           {
             "position": 2,
@@ -4262,20 +4262,20 @@
           {
             "position": 4,
             "label": "D",
-            "text": "−2"
+            "text": "\u22122"
           }
         ],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "+ 8 −6 + 2 −5 −1 + 3 −6"
+          "+ 8 \u22126 + 2 \u22125 \u22121 + 3 \u22126"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (A)",
         "answer_format": "single_choice_label",
         "correct_label": "A",
-        "correct_text": "−5",
+        "correct_text": "\u22125",
         "distractor_note": {
           "raw_pdf_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
           "label": "C",
@@ -4492,7 +4492,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1299,
-        "sha256": "d8b46e40ce86791675dd5b22e9bd6fbc3e018391721bc6c5247ddf56cd684921",
+        "sha256": "7e032e125ef06802c2fce1380920b3b6868a6bf0ef312057cda69b44cef8f04c",
         "page_span": [
           47
         ],
@@ -4524,7 +4524,7 @@
         }
       },
       "question": {
-        "stem": "What is the value of the expression shown? 35 - (-110) ÷ 5 ⋅ 2",
+        "stem": "What is the value of the expression shown? 35 - (-110) \u00f7 5 \u22c5 2",
         "instruction": null,
         "options": [
           {
@@ -4613,7 +4613,7 @@
         }
       },
       "question": {
-        "stem": "Nathan threw each of 4 beanbags at a target and scored points based on where the beanbags landed. The results of Nathan’s beanbag throws are shown in the table. Nathan’s Results | Beanbag Throw | Points Scored | |---------------|---------------| | 1 | 2 | | 2 | -4 | | 3 | -1 | | 4 | 1 | What was the total number of points scored by Nathan in his 4 throws?",
+        "stem": "Nathan threw each of 4 beanbags at a target and scored points based on where the beanbags landed. The results of Nathan\u2019s beanbag throws are shown in the table. Nathan\u2019s Results | Beanbag Throw | Points Scored | |---------------|---------------| | 1 | 2 | | 2 | -4 | | 3 | -1 | | 4 | 1 | What was the total number of points scored by Nathan in his 4 throws?",
         "instruction": null,
         "options": [
           {
@@ -4832,7 +4832,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "73bbcd3b313949a6cc0b0bed850cd8346184f66db9ce20d8fbaa8388165253d4",
+        "sha256": "a739fe10ef3eddc4c8e6f8da95e98b2c00ee64c1669de8d366c51469f4c0abd4",
         "page_span": [
           49
         ],
@@ -4921,7 +4921,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "8b12ced31d1011d4ce0894ba8223a6c0c48c0decbb5de02290b7998f9781f4bf",
+        "sha256": "b603b91f494e0023ab6e14068c9ea7891ad04de59dcaf9a3deda0fcc1c5afbf8",
         "page_span": [
           49
         ],
@@ -5012,7 +5012,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "a3d5406d3ac02ffb2c6245bd8e3e776da4c66eefa2741caa78e9f3380d9c1235",
+        "sha256": "8b9d4664c981f32c43d248cf88ae0265ea44538c35bf21e227b11b6f610fa33f",
         "page_span": [
           50
         ],
@@ -5044,13 +5044,13 @@
         }
       },
       "question": {
-        "stem": "Serena bought 5 shirts for $6 each and spent $7 on lunch. She paid for the shirts and lunch using her debit card. The change in the balance of Serena's checking account can be represented by the expression shown. 5(−6) + (−7) Which integer represents the change in the balance of Serena's checking account from these purchases?",
+        "stem": "Serena bought 5 shirts for $6 each and spent $7 on lunch. She paid for the shirts and lunch using her debit card. The change in the balance of Serena's checking account can be represented by the expression shown. 5(\u22126) + (\u22127) Which integer represents the change in the balance of Serena's checking account from these purchases?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "−37"
+            "text": "\u221237"
           },
           {
             "position": 2,
@@ -5060,7 +5060,7 @@
           {
             "position": 3,
             "label": "C",
-            "text": "−18"
+            "text": "\u221218"
           },
           {
             "position": 4,
@@ -5071,14 +5071,14 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "5(−6) + (−7)"
+          "5(\u22126) + (\u22127)"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (A)",
         "answer_format": "single_choice_label",
         "correct_label": "A",
-        "correct_text": "−37"
+        "correct_text": "\u221237"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -5103,7 +5103,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "504a8b631724e994416564d929c8465f78b3be23e45feccc4ce09fded29132a2",
+        "sha256": "0b69ea5b3dcf0ffb65e5e764ff3ab8da68bccf1b3fbad4d3c953ba52fc52bbf4",
         "page_span": [
           50
         ],
@@ -5135,7 +5135,7 @@
         }
       },
       "question": {
-        "stem": "LuAnn is playing a math game. She chooses three cards. The value of each of her cards is shown. • First card: -12 • Second card: 3 • Third card: -5 What is the sum of the values of LuAnn’s three cards?",
+        "stem": "LuAnn is playing a math game. She chooses three cards. The value of each of her cards is shown. \u2022 First card: -12 \u2022 Second card: 3 \u2022 Third card: -5 What is the sum of the values of LuAnn\u2019s three cards?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -5212,7 +5212,7 @@
           {
             "position": 1,
             "label": "A",
-            "text": "8 - (-3) + 33 ÷ (-3)"
+            "text": "8 - (-3) + 33 \u00f7 (-3)"
           },
           {
             "position": 2,
@@ -5222,12 +5222,12 @@
           {
             "position": 3,
             "label": "C",
-            "text": "-6 · 2 - (-15)"
+            "text": "-6 \u00b7 2 - (-15)"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "-5 · 2 - 12"
+            "text": "-5 \u00b7 2 - 12"
           }
         ],
         "choice_pool": [],
@@ -5238,7 +5238,7 @@
         "raw_pdf_answer_text": "Correct Answer (D)",
         "answer_format": "single_choice_label",
         "correct_label": "D",
-        "correct_text": "-5 · 2 - 12"
+        "correct_text": "-5 \u00b7 2 - 12"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -5263,7 +5263,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1221,
-        "sha256": "451e560ea0c3f5cbdf7b8357e18d73162639dc5051d09d5daa3a384569344678",
+        "sha256": "28313ad30d0025be5e2baec38f78ae099186055c5e6e43dfb883962cc7d24b31",
         "page_span": [
           51
         ],
@@ -5359,7 +5359,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "554f53d2955d35ce2c686a9b4d14451df4299e5da0ee5ccf82c3205bfe80a1aa",
+        "sha256": "aff8f4a085c524c2d2de4177134241e776ef7367b8e1d79dad417c102ab9d007",
         "page_span": [
           52
         ],
@@ -5395,13 +5395,13 @@
         }
       },
       "question": {
-        "stem": "A teacher wrote this expression on the board. (-6)(2) + (-8 ÷ 4) What is the value of this expression?",
+        "stem": "A teacher wrote this expression on the board. (-6)(2) + (-8 \u00f7 4) What is the value of this expression?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "(-6)(2) + (-8 ÷ 4)"
+          "(-6)(2) + (-8 \u00f7 4)"
         ]
       },
       "answer_key": {
@@ -5432,7 +5432,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1214,
-        "sha256": "e22700598c7f5ef13f08b82355a63fb02cbc3058fa573addbb142a4a35b77968",
+        "sha256": "286c93c25862c520292811f889eeaa52c8f19cd254b53658287d3f90a790a194",
         "page_span": [
           52
         ],
@@ -5468,7 +5468,7 @@
         }
       },
       "question": {
-        "stem": "Ella played a math game and had the five cards shown. 7 0 -4 2 -10 Her score was the sum of the numbers on these five cards. What was Ella’s score?",
+        "stem": "Ella played a math game and had the five cards shown. 7 0 -4 2 -10 Her score was the sum of the numbers on these five cards. What was Ella\u2019s score?",
         "instruction": null,
         "options": [
           {
@@ -5719,7 +5719,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1242,
-        "sha256": "86c168ef7bf8847d03924f0546b03afe7236409907707134328296b834c5b83d",
+        "sha256": "188be2697c970e7338ea794fc52c967563bd752474216c51c63125f27c95e0a8",
         "page_span": [
           56
         ],
@@ -5813,7 +5813,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1278,
-        "sha256": "c91f30b6777ff0631bd5273c91730409ba7baaed44845573cab491091f8697fd",
+        "sha256": "687650db3c7b451ac986ea7ee9d1362bdf78275307d955149ea819f24b33f0c0",
         "page_span": [
           57
         ],
@@ -5961,7 +5961,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2023 – Q28"
+          "2023 \u2013 Q28"
         ]
       },
       "answer_key": {
@@ -6085,7 +6085,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "ef055c11a19c8ee1574ec42d12bceceee2e113aefa5cc52265fb57af54ac7068",
+        "sha256": "9a236a1c8d0e5a317eb986e224dbd1f174c295ac0731b99ca7f0284ff108c948",
         "page_span": [
           59
         ],
@@ -6174,7 +6174,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1248,
-        "sha256": "da21edd1d1b5abbeae04c26a77590e47d3e48571e80f5bbd03a85d2b314a80c3",
+        "sha256": "640c401609a97b64283d10cd3cc08d6cfd0bdd7215dee06165ae687ac83f1657",
         "page_span": [
           60
         ],
@@ -6241,7 +6241,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1232,
-        "sha256": "52cb1048f151453536b491dd8d42b1ab09cb384ee62ddb005c27560be7fd737c",
+        "sha256": "810f813bb33541e26c3174e816ba64b8c92bfb10eb5bb77f17bdf25fbd62cdeb",
         "page_span": [
           60
         ],
@@ -6332,7 +6332,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2013,
-        "sha256": "c2df3f787b905a0c7d7f7a71a0d84983766827feb3ada43fa5e417538174ea9a",
+        "sha256": "e394a3c792824185c457757dcef091cb7ab738b2547711f2b27aeca5b5cee85a",
         "page_span": [
           61
         ],
@@ -6427,7 +6427,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1249,
-        "sha256": "714f22274e210ce46d15677936c31dfb2792587f9c7208d97b2c0ea24991b590",
+        "sha256": "78dbeb77a83f33d3278354675f53d92fe29ed2339ba0cb4a43f61e85fcd7307e",
         "page_span": [
           62
         ],
@@ -6566,12 +6566,12 @@
           {
             "position": 3,
             "label": "H",
-            "text": "The task will take the smaller team of workers 198.825 hours to complete, because 167.3 × 1.25 = 198.825."
+            "text": "The task will take the smaller team of workers 198.825 hours to complete, because 167.3 \u00d7 1.25 = 198.825."
           },
           {
             "position": 4,
             "label": "J",
-            "text": "The task will take the smaller team of workers 209.125 hours to complete, because 167.3 × 1.25 = 209.125."
+            "text": "The task will take the smaller team of workers 209.125 hours to complete, because 167.3 \u00d7 1.25 = 209.125."
           }
         ],
         "choice_pool": [],
@@ -6584,7 +6584,7 @@
         "raw_pdf_answer_text": "Correct Answer (J)",
         "answer_format": "single_choice_label",
         "correct_label": "J",
-        "correct_text": "The task will take the smaller team of workers 209.125 hours to complete, because 167.3 × 1.25 = 209.125."
+        "correct_text": "The task will take the smaller team of workers 209.125 hours to complete, because 167.3 \u00d7 1.25 = 209.125."
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -6609,7 +6609,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "4c1654119e2f90da70009ae6731a987989a745ff221ae9b84265e4bf1d59e837",
+        "sha256": "1763ed505c944b580815f82cb646ca3fee345af6c084cd32e4b523932260ee30",
         "page_span": [
           63
         ],
@@ -6704,7 +6704,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1232,
-        "sha256": "75926df08be788d3b62f8c25fc9dea9e06fc4091a5b9b3ccca853736ed31e146",
+        "sha256": "c729851eb3ff8f5334829b997f767b75b4db59370020e0babd5a33fa196429ec",
         "page_span": [
           64
         ],
@@ -6797,7 +6797,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1232,
-        "sha256": "fd7d8258d8f93ccf8a152df5c1deb6d66129c0b62a26c56c97ba88e378e927b2",
+        "sha256": "cbd21e817e11b6c0e6aeef71998e71a555f08e8420b293d8085132628ebc81f9",
         "page_span": [
           64
         ],
@@ -7018,7 +7018,7 @@
         }
       },
       "question": {
-        "stem": "Lianna charges an hourly rate for repairing computers. The table shows the amounts Lianna charged for different numbers of hours she worked. Lianna’s Earnings | Hours Worked | Amount Charged (dollars) | |--------------|--------------------------| | 3 | 67.50 | | 4.5 | 101.25 | | 5 | 112.50 | | 9 | x | Based on the data in the table, what is the value of x, the amount Lianna would charge for a computer repair that takes 9 hours?",
+        "stem": "Lianna charges an hourly rate for repairing computers. The table shows the amounts Lianna charged for different numbers of hours she worked. Lianna\u2019s Earnings | Hours Worked | Amount Charged (dollars) | |--------------|--------------------------| | 3 | 67.50 | | 4.5 | 101.25 | | 5 | 112.50 | | 9 | x | Based on the data in the table, what is the value of x, the amount Lianna would charge for a computer repair that takes 9 hours?",
         "instruction": null,
         "options": [
           {
@@ -7082,7 +7082,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1232,
-        "sha256": "980b8c754820743e4221ff9b6b993c02988c9283e16ed74a06c2c0056c7f1227",
+        "sha256": "40f6f03f36ae45ce0a95e37676aa634a35452cfb8823b7dcb71f85e8a1d08984",
         "page_span": [
           68
         ],
@@ -7397,7 +7397,7 @@
         }
       },
       "question": {
-        "stem": "Avery and Mason are both swimming laps in the same swimming pool. • Avery can swim 3 laps in 2 minutes. • Mason can swim 5 laps in 4 minutes. Based on these rates, which statement is NOT true?",
+        "stem": "Avery and Mason are both swimming laps in the same swimming pool. \u2022 Avery can swim 3 laps in 2 minutes. \u2022 Mason can swim 5 laps in 4 minutes. Based on these rates, which statement is NOT true?",
         "instruction": null,
         "options": [
           {
@@ -7543,7 +7543,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1375,
-        "sha256": "4a1d5b0a20f4aad3c7c57443a60949e24d3b98d9697d0abc8746cb8b0d2c79de",
+        "sha256": "af0288016872fd48bac67d87d1dab46476ba8a9b23ad0135793f23c3855fb594",
         "page_span": [
           72
         ],
@@ -7634,7 +7634,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1563,
-        "sha256": "82766888b50f48eea7f8248b87a9ed6e029326b8119e4c8a0ba7521d0b83eff6",
+        "sha256": "4ad25bef1be529784b84106a090cea6b483b3b3804d757078149e2a9981542c8",
         "page_span": [
           73
         ],
@@ -7725,7 +7725,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "92018819417f2ff1a11ba1211428ba3d445d990677e2279ca8eae8387109876c",
+        "sha256": "773020b0cd1c2566891eff9a3531942f1452806eea1b6da01ce7bcc6955107b4",
         "page_span": [
           74
         ],
@@ -7906,7 +7906,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1262,
-        "sha256": "fc58a3afe02324aad7875422bce3c56e639e8ef253294c52ebc46d9a6bb88bc9",
+        "sha256": "165f0946a23f55ca65c49da59c896f7826cef1f7ab863698e0a1a53204eb334c",
         "page_span": [
           75
         ],
@@ -7938,7 +7938,7 @@
         }
       },
       "question": {
-        "stem": "The table shows the time Monique worked and the amount of money she earned during four different weeks. Monique’s Earnings | Time Worked (hours) | Amount Earned (dollars) | |---------------------|-------------------------| | 15 | 123.75 | | 20 | 165 | | 24 | 198 | | 30 | 247.50 | Based on the information in the table, how much will Monique earn if she works 40 hours in a week?",
+        "stem": "The table shows the time Monique worked and the amount of money she earned during four different weeks. Monique\u2019s Earnings | Time Worked (hours) | Amount Earned (dollars) | |---------------------|-------------------------| | 15 | 123.75 | | 20 | 165 | | 24 | 198 | | 30 | 247.50 | Based on the information in the table, how much will Monique earn if she works 40 hours in a week?",
         "instruction": null,
         "options": [
           {
@@ -8157,7 +8157,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1334,
-        "sha256": "ceb55bd1f19e79d78a9d90ffd3c480b11c87272de5afec6828e530d07eef559b",
+        "sha256": "130978fcc4296d9c4a35a87b8bdd45f54fe4ca47c5141c292bb883adf9539450",
         "page_span": [
           77
         ],
@@ -8252,7 +8252,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1414,
-        "sha256": "84ee9d5b9ecd0702d876674ca3a5ed59abf04efdf3f54a293aecf8308a93f2dc",
+        "sha256": "56fcfb08271b8ea7c822dd11d10899de7e20469446f2975c6c090e763a96e2e4",
         "page_span": [
           78
         ],
@@ -8514,7 +8514,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "b6feff2dc1495437993c894189907f4fbe18f0db54db8732a068ff604bb672eb",
+        "sha256": "97d30347f318ef55449a51a62bc094cd9b8a941e0b9998750d04093ca4f8f7a0",
         "page_span": [
           81
         ],
@@ -8788,7 +8788,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "a52fdf7f8faf928bdc796a6910f17afa4a4be32f4929f9c03317120a2394b943",
+        "sha256": "029a5427b754fb14ccf403b5f3152a8112520da5d2727cf330ed78314c1a9db9",
         "page_span": [
           83
         ],
@@ -8877,7 +8877,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1216,
-        "sha256": "3d3432423d3a0f5316da1f40a231dbfddcb217c80ca6dee3886e2f3a41ced0cf",
+        "sha256": "87157d5747e845d4f60be60d7b27ebdaf734bd72b2df1184be2a19bed6ae953b",
         "page_span": [
           83
         ],
@@ -9064,7 +9064,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "c923ebc703b12eec6a60f1826a676ad8c001a82b2e9a1294d8f7934b3d3d5990",
+        "sha256": "33b238a882b6166d0ee1c3c0adbdbcd0c098350eb7b8bc0310f5942b901ebfd4",
         "page_span": [
           85
         ],
@@ -9155,7 +9155,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1306,
-        "sha256": "05f83963247a858dd485d04d6ef8b4b914d737699a023e52bbe26b27ccf05f66",
+        "sha256": "9a2bb7d0a905c685cfd42620d96c3b113143048b92db3edbdb74b55d571d269b",
         "page_span": [
           85
         ],
@@ -9251,7 +9251,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1247,
-        "sha256": "b8ac247e669ea1ad66f4a8616944b986951e07c56284f255152d3f37d3ef5607",
+        "sha256": "d19e96c8cd61cba8c714c9683bb0fbb92bfbfd3d3101e989a064074490c7bb57",
         "page_span": [
           86
         ],
@@ -9437,7 +9437,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "dbc468caf1b377dae18bce92ab96a47befa7fa2c13d41ee5346e613d034f8d61",
+        "sha256": "09c604bd9607582c3d2ba6ba86eafbd435667af439c5bdb77852677cdba376c4",
         "page_span": [
           87
         ],
@@ -9528,7 +9528,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1194,
-        "sha256": "688a852d0f7a78f9b40a790adacc2d6c9614bb58e8293b6a2a5d21e19fb4c000",
+        "sha256": "68bbfdb3c3a590cd16b7d6d65845bc98b1e47b6b748d58afbd8afc9e0340e9cd",
         "page_span": [
           88
         ],
@@ -9715,7 +9715,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "7f0bd50b5e0d38251376d4272d176c596a2fa4b03a9277eaa724209934bcc4c1",
+        "sha256": "a6bf47364714fc48b6d8ce738eb4cea80b3f74075f7215017be777d60ce907c2",
         "page_span": [
           90
         ],
@@ -9804,7 +9804,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1269,
-        "sha256": "bc41067e7f9f0eed2c1bcf139b060f4f84188d6a6aa2efb6088cdd332c8c136c",
+        "sha256": "c314daa289e0553186aeefdad1f5b9e6e7ec18cc060ec695a95a0c43b7d6ee0b",
         "page_span": [
           90
         ],
@@ -10160,7 +10160,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1216,
-        "sha256": "846da2b91070b487a66c57c418b1112aa1371db90078beefd65285810f95b9f8",
+        "sha256": "105a8617c515349905e066b960927c73bef1cb9d3ac1ab76e9591f7e531c27dc",
         "page_span": [
           93
         ],
@@ -10252,7 +10252,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "bffb49c62d3beb5ea7481e9e879cec4ee73098862002cf7bf04a94718e1ecf59",
+        "sha256": "41d74af1f41ab2869bf65e28f5fc78771541a7802c9909ab1ca28c2ada7756e6",
         "page_span": [
           93
         ],
@@ -10343,7 +10343,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "acfdd3ecfd79a7d2c300d719f088797b02bebcecb1a1cdeb426d291feb3cf88a",
+        "sha256": "50ff6d2c724435336d1aac80d87ca993f14fec2280fe10c4698551603f14b211",
         "page_span": [
           94
         ],
@@ -10434,7 +10434,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "993f6227aa42c1c0018ae7296f429914d750ee79561335a1e772a8a26c26ad0d",
+        "sha256": "e476d133d35639e33feed23fe9709f15f748d57e286caccaefc06f7906fa80ca",
         "page_span": [
           94
         ],
@@ -10501,7 +10501,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1216,
-        "sha256": "74fa8449a530a8a1d93920843760defb09c41a9abb585dace2d2d49ea51cb11d",
+        "sha256": "578798936db128bbbc74b4b7c809d65e5d92f30ef770978aaab030ec318b96a8",
         "page_span": [
           95
         ],
@@ -10679,7 +10679,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1216,
-        "sha256": "2199c57a3f01e14f31929d392c517025b7e2495eceb714b1357723875273fc96",
+        "sha256": "228b40717c961f8350cf68bb533fe5e32a63430355d062604b67caef0380efdb",
         "page_span": [
           96
         ],
@@ -10774,7 +10774,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "afffdde2790c2e569fc67438676ec0a8a2894e63c7d7f0685e0e00a258a829b5",
+        "sha256": "40096c7e3d67ccc42708ef9bcc312243ec810fc2ff2ff6a2c2443120ebf4517e",
         "page_span": [
           96
         ],
@@ -10869,7 +10869,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "39e6b091dd0c9389c004efcef882cb1d2bcd584105526909e1e02904f38205c4",
+        "sha256": "469cbf9cb45574b500087f9d41f11a44456d9be037165ed8de4cce84f1d8a592",
         "page_span": [
           97
         ],
@@ -11041,7 +11041,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1246,
-        "sha256": "899e567d6e4550dcbb08145e2340ea90b0f6797ccc47603349aaf8888d7be23b",
+        "sha256": "ad990cbda92a4b587f943ae86ed592d603acb3d8d91a90864ade04b0f1054c36",
         "page_span": [
           99
         ],
@@ -11146,7 +11146,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1270,
-        "sha256": "94b48eb5705cb0190b9664e0afb80e535e1a74731d4f7d504d2c03f685900f2e",
+        "sha256": "86c78e6f1c047a3dfa8761b966c3741b6bfd54d7bac8091f8fb8c5412b1be8cf",
         "page_span": [
           100
         ],
@@ -11235,7 +11235,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "98645ab7afadfae57c6001fb2aca4e8dd8defbef46b25e6326a646147a986317",
+        "sha256": "1b3e6caaad09e0cb06d47dc7f945fca62f20c16ae75ccf9664f25e9d0773e2f5",
         "page_span": [
           100
         ],
@@ -11302,7 +11302,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "0f5a407d2cbd9e30537f5e0765a580e8ce51ddd2acd8f2c4521956cb949330fe",
+        "sha256": "dad6adfafc61863b9a6126a261417a793c7f094c5255f5bac7bea81be02a1238",
         "page_span": [
           101
         ],
@@ -11393,7 +11393,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "dbe551b42979b86dd40d45ab78cdc29d00882260de08d5b9f08f70a17563c6ef",
+        "sha256": "fe831454d95b13e409dcc1c62efb1966e719fe56e7af4fdf702905a28f134c44",
         "page_span": [
           101
         ],
@@ -11484,7 +11484,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "883065334ef66d764ed35887ebeb1d3a1e7d75c0738341e30a61a67cebaaf6e5",
+        "sha256": "99cf8a764cb4fdd7ef97c57beb290eb91f61abbbe5725e1e2392a4348512fb9c",
         "page_span": [
           102
         ],
@@ -11575,7 +11575,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "3fb26193c64f2f169742e1709e406d7fe6317e66fb8c82c3b5d90c90dc5b4377",
+        "sha256": "3c78f8b3a2bf8eadc4dc73b7bf5f4bb992e01cfb636d9df4fbf24f0ba25fdbda",
         "page_span": [
           102
         ],
@@ -11666,7 +11666,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1208,
-        "sha256": "28d26ae289ba16bbdd31db02f10da9cf2b84334fe3dbcde98e3ad4e04aab3e75",
+        "sha256": "76fff1a86e2969ceed947a58942fa1a3924e0dfd71878392a963ecd10230e9f9",
         "page_span": [
           103
         ],
@@ -11762,7 +11762,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1223,
-        "sha256": "fc33915dabdfb6424ce36e5ef464d3d5864a2a046008326b10c3dacbf9d806c8",
+        "sha256": "4c0fafa7250018becae15b9ed8245b46afe306cfffd52d66a10f053b3dbc42d2",
         "page_span": [
           103
         ],
@@ -11799,7 +11799,7 @@
         }
       },
       "question": {
-        "stem": "A robot’s height is 1 meter 20 centimeters. How tall is the robot in millimeters?",
+        "stem": "A robot\u2019s height is 1 meter 20 centimeters. How tall is the robot in millimeters?",
         "instruction": null,
         "options": [
           {
@@ -11856,7 +11856,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "419fe364ce7387d877ccae660c86d9c90c99f23a653a0f2ada75f13f89cad323",
+        "sha256": "d033ffca9b46d676721c08791441272392c09478e9cb1cfa89dd0c668efdbe7c",
         "page_span": [
           104
         ],
@@ -11952,7 +11952,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1211,
-        "sha256": "02a4bd2b15a95c73d9fa4460fd55a6d8327c3b94ccc0353e87afd5d18bf97a12",
+        "sha256": "8735d5a17ba249e2d05086545f02cd3ca7695585341fdac29c284c2d82cdfdd3",
         "page_span": [
           105
         ],
@@ -12145,7 +12145,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1331,
-        "sha256": "319154d44a5d724aeeb32c078e2eda8d7da0ec15caa2fe934acef86977975afd",
+        "sha256": "c8cb48c092b6ff9e82d81ca9fa293a49d76f874bd095a0e69fc7d4a21e4e4375",
         "page_span": [
           107
         ],
@@ -12327,7 +12327,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1861,
-        "sha256": "60ec8319c3aa4f1bcfcfeaf4c42a6d8e3a0f87349be00a2e43f0f67ae8a0ee8d",
+        "sha256": "da394a508b8ba1683d54f8b2512da4c9234d4cfee9032162dd6c6eca21cf25fb",
         "page_span": [
           108
         ],
@@ -12635,7 +12635,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "202874353a6b059bc293d2e19561b9194ea4b1f69b89834e30c65d8945fa59be",
+        "sha256": "0bcb584c8761594403a63c91c0aaf4883c9f560992833ab05249f87fd78c7ca2",
         "page_span": [
           111
         ],
@@ -12726,7 +12726,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1247,
-        "sha256": "87d7dc481e745965c3b487d09c9fedd49a53380575ac845be83785f4fa1671be",
+        "sha256": "a92ec1e56d7eac1fbadca626111a7e28f64e6961df16b438f94fbe50a818b5de",
         "page_span": [
           112
         ],
@@ -12795,7 +12795,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1269,
-        "sha256": "1843fa2812a8425332d27d5e38197005f7c6b80595111ebe39b4d130fba9a747",
+        "sha256": "b34f48de9e4adf1053703e9c415d4c180362229cfe0b388b512857f4a888861a",
         "page_span": [
           113
         ],
@@ -13067,7 +13067,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1216,
-        "sha256": "7fa1cadc55ccb1b05a68b22975ec92baf902114431c456e43f12199684dc3956",
+        "sha256": "6410c4155b31f105e745d7fa8be4811c2d530ce966d362b15349b0112fd7527a",
         "page_span": [
           115
         ],
@@ -13126,7 +13126,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2021 – Q13",
+          "2021 \u2013 Q13",
           "13"
         ]
       },
@@ -13159,7 +13159,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "0febbd33dcae34a958a0c71d3a61d1af95bab3e5ec4a67371d793a1426fa3a3c",
+        "sha256": "ca5819ecfcdcbedfc392430b54981a10380f798c556354e6d4dbdbdf74c1a0ad",
         "page_span": [
           115
         ],
@@ -13226,7 +13226,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "a3e7b77cf32b7982bd1a06c29915be9fd074b98c793989fa3cbc42551d4e648f",
+        "sha256": "638b8c5d47f39885965b8827ff53d0d2794d170e206f34819c03651eec47d0a8",
         "page_span": [
           116
         ],
@@ -13293,7 +13293,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1216,
-        "sha256": "6d73400b79621609c8ba7995a73e0c5bf2d2c2fb907b59524a366a80ab312067",
+        "sha256": "4270defc16845d8a9e917b7be28e9a06c941c85790dd53ad4a0e24c5dd093562",
         "page_span": [
           117
         ],
@@ -13382,7 +13382,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "bde38daf78c92529b882889eb20cf1ca72ea9c61f72500e557bb729fabcb793e",
+        "sha256": "98a5ac2d3e92a0b5823b0e829f38a0581b6b5ecb5f70de933988e73b0af6b255",
         "page_span": [
           117
         ],
@@ -13649,7 +13649,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "c968fb6ddae5fa4f32620a78bfc43f172253d9aee827e04002b1307e74e14220",
+        "sha256": "cae4a07922dea37180c7184a31bb66afbb4107c7048ea8d87dcb9015df6a7329",
         "page_span": [
           119
         ],
@@ -13742,7 +13742,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1179,
-        "sha256": "9e3c581a76eaff964618623eb1d54cf41d2a84b69beb488f7842b13f7dd383c9",
+        "sha256": "304150fb04b3d610e7127cdc9bc5cc56e782c893dc7854fd92a8c1ebba0105b8",
         "page_span": [
           120
         ],
@@ -13835,7 +13835,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "f7e11b6c4d1e44ed28472853b8cde551e46f4e9b288dd65838a7cf00618f2a49",
+        "sha256": "ecaa4b495b0a6ca5e1beba2e270dd7e80822a783e15441bdaa663cb8d7989906",
         "page_span": [
           121
         ],
@@ -14118,7 +14118,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1292,
-        "sha256": "ec1fd92193c9ece4d71af575f55114bdeda574e06db7bb0e3a910fad53780d01",
+        "sha256": "a0ad0aee7d0ccf0794f82348815d2c2b576c90d74e50b0865f4e0b531d5e451c",
         "page_span": [
           125
         ],
@@ -14398,7 +14398,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1223,
-        "sha256": "7a30901b85c9616ee5461c4797120b1ad6f97a445e9d490e0e73cf4204f0d892",
+        "sha256": "4722e6061ab3aef700221a53d9b9372ee5a269a9f265d3825a03bbbb0f5ac4e5",
         "page_span": [
           126
         ],
@@ -14489,7 +14489,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "beb939cbcb4218d09194b54b29d9a12247a6b4841e1e379ec885ea67b3b5fc62",
+        "sha256": "3d4165eb7d66c3d7d90a008f272fc7ee61a0b668d1e7c0c9b977acb982f87215",
         "page_span": [
           127
         ],
@@ -14558,7 +14558,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "78464997fba1d2aad7dcb542e10bc0ad31e31569f6e09c1c1db214e038c5f327",
+        "sha256": "bb013f4b8ba1a77cf3ab17e81d76333e741ac43c356ef0983294f759def2f789",
         "page_span": [
           127
         ],
@@ -14748,7 +14748,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "f3e1aa5a8fab6a97976e9b9e47f3aded7269e44856ef9f4c308cf8f62571421d",
+        "sha256": "ac6bd2a9b7a79dcd3ab8d86dae727a68c0ab4de102fdf5917037c7efeae1570d",
         "page_span": [
           128
         ],
@@ -14839,7 +14839,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1223,
-        "sha256": "d52c4fabe7d17162f3db57f112e039a9ff79e74a05849f46823bab36c706a17b",
+        "sha256": "ce9b1d3c54be18f881444d93acfe8235255e791ffb69a0e3735d4cb37601ba72",
         "page_span": [
           129
         ],
@@ -14871,28 +14871,28 @@
         }
       },
       "question": {
-        "stem": "Leon wrote an expression that is equivalent to (30 + 6) ÷ 12. Which expression could be the one Leon wrote?",
+        "stem": "Leon wrote an expression that is equivalent to (30 + 6) \u00f7 12. Which expression could be the one Leon wrote?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "36 ÷ 3 • 4"
+            "text": "36 \u00f7 3 \u2022 4"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "(3 • 3 • 4) ÷ 4 • 3"
+            "text": "(3 \u2022 3 \u2022 4) \u00f7 4 \u2022 3"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "5 • 6 + 2 • 3 ÷ 3 • 2 • 2"
+            "text": "5 \u2022 6 + 2 \u2022 3 \u00f7 3 \u2022 2 \u2022 2"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "(3 • 3 • 2 • 2) ÷ (3 • 2 • 2)"
+            "text": "(3 \u2022 3 \u2022 2 \u2022 2) \u00f7 (3 \u2022 2 \u2022 2)"
           }
         ],
         "choice_pool": [],
@@ -14905,7 +14905,7 @@
         "raw_pdf_answer_text": "Correct Answer (D)",
         "answer_format": "single_choice_label",
         "correct_label": "D",
-        "correct_text": "(3 • 3 • 2 • 2) ÷ (3 • 2 • 2)"
+        "correct_text": "(3 \u2022 3 \u2022 2 \u2022 2) \u00f7 (3 \u2022 2 \u2022 2)"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -14999,7 +14999,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "b82b4803dd66a8011c6407ef763b37b4675f348014079c7b88a3b5a207117ce0",
+        "sha256": "c2a2283f377a1816565fb518e19a84261c6a2d0e1da89fa63039838d57ddb2f4",
         "page_span": [
           130
         ],
@@ -15035,7 +15035,7 @@
         }
       },
       "question": {
-        "stem": "Frank had $65. He spent $2 per day for 7 days. Then he was given $9 to divide equally between himself and his 2 brothers. The following expression can be used to find the amount of money Frank had after that. 65 - 2 · 7 + 9 ÷ 3 Based on this expression, what is the amount of money Frank had remaining?",
+        "stem": "Frank had $65. He spent $2 per day for 7 days. Then he was given $9 to divide equally between himself and his 2 brothers. The following expression can be used to find the amount of money Frank had after that. 65 - 2 \u00b7 7 + 9 \u00f7 3 Based on this expression, what is the amount of money Frank had remaining?",
         "instruction": null,
         "options": [
           {
@@ -15062,7 +15062,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "65 - 2 · 7 + 9 ÷ 3"
+          "65 - 2 \u00b7 7 + 9 \u00f7 3"
         ]
       },
       "answer_key": {
@@ -15135,12 +15135,12 @@
           {
             "position": 1,
             "label": "F",
-            "text": "5² \\cdot 11"
+            "text": "5\u00b2 \\cdot 11"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "2⁵ \\cdot 11"
+            "text": "2\u2075 \\cdot 11"
           },
           {
             "position": 3,
@@ -15156,8 +15156,8 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "5² \\cdot 11",
-          "2⁵ \\cdot 11",
+          "5\u00b2 \\cdot 11",
+          "2\u2075 \\cdot 11",
           "5 \\cdot 22",
           "2 \\cdot 5 \\cdot 11"
         ]
@@ -15285,7 +15285,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1270,
-        "sha256": "1e888901a39ac51f04b98246a1021dc6b24f8d45f3aea0b2b4dfb01748c07d60",
+        "sha256": "eb10f37543315225885cc81e438640aaffc2db0bcb34ced83db385c9b7fb77fa",
         "page_span": [
           132
         ],
@@ -15466,7 +15466,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2529,
-        "sha256": "79e1fd2048b251752393438b458076cbd6dd3b0914116ecdd4f463a69ce50451",
+        "sha256": "ba9964b29f029ed0192dbd394ea9fb8fd2266493f92fd3646dd44e106c5e5fd9",
         "page_span": [
           134
         ],
@@ -15609,17 +15609,17 @@
         ]
       },
       "answer_key": {
-        "raw_pdf_answer_text": "Correct Answer (7 ÷ x + 1; 7/x + 1)",
+        "raw_pdf_answer_text": "Correct Answer (7 \u00f7 x + 1; 7/x + 1)",
         "answer_format": "ordered_blanks",
         "blank_values": [
-          "7 ÷ x + 1",
+          "7 \u00f7 x + 1",
           "7/x + 1"
         ],
         "blank_map": {
-          "blank_1": "7 ÷ x + 1",
+          "blank_1": "7 \u00f7 x + 1",
           "blank_2": "7/x + 1"
         },
-        "normalized_expression": "The expressions 7 ÷ x + 1 and 7/x + 1 are equivalent."
+        "normalized_expression": "The expressions 7 \u00f7 x + 1 and 7/x + 1 are equivalent."
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -15933,7 +15933,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1292,
-        "sha256": "32a57c8fa8d1cc96d3e4dab2004e9b0b7ffff217510bc6bf62037e3fe8c6fb10",
+        "sha256": "42538808c14b31c1c12a610b7a70627e594061d1d5d5a72b8100bc08d1f0b919",
         "page_span": [
           139
         ],
@@ -16210,7 +16210,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "c24549592522d5f9e8bc377e053347795dba018b310b1d20c0c6df9d84ba3d1e",
+        "sha256": "2aa78bcbda07b37ee220e6c63120873f925cca03644466f8e749e0e6341b1a27",
         "page_span": [
           140
         ],
@@ -16305,7 +16305,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1223,
-        "sha256": "7f7318ef34b3120001ee2083097c1dfac3cae71040a77719d1f99dd8fa6bad09",
+        "sha256": "654418625705a321f11488a0084dfe60d5bf55f8244e44ebeebb52477bc34bab",
         "page_span": [
           141
         ],
@@ -16377,7 +16377,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "f242cfb90c7474768f173e4c0d5ef96acd13ff32d44122e24c152306e4dd67d2",
+        "sha256": "fb0f3a6f2ad7b19b64302a4724dde71c6d725b194b3276033d451127131ff06b",
         "page_span": [
           141
         ],
@@ -16563,7 +16563,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "77aa2a3d9f22ec16454659a98cce396de38757877ac2dcfecb9b40d55097e32e",
+        "sha256": "479bda24ebd4f59e2cb07d565860d9120b79ce0595e7cb56148c2b029f8311a5",
         "page_span": [
           142
         ],
@@ -16606,17 +16606,17 @@
           {
             "position": 2,
             "label": "G",
-            "text": "5 ⋅ y ⋅ 5 ⋅ 2 + 4"
+            "text": "5 \u22c5 y \u22c5 5 \u22c5 2 + 4"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "5 ⋅ y ⋅ 4 + 5 ⋅ 2 ⋅ 4"
+            "text": "5 \u22c5 y \u22c5 4 + 5 \u22c5 2 \u22c5 4"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "5 ⋅ y + 5 ⋅ 2 + 4"
+            "text": "5 \u22c5 y + 5 \u22c5 2 + 4"
           }
         ],
         "choice_pool": [],
@@ -16629,7 +16629,7 @@
         "raw_pdf_answer_text": "Correct Answer (J)",
         "answer_format": "single_choice_label",
         "correct_label": "J",
-        "correct_text": "5 ⋅ y + 5 ⋅ 2 + 4"
+        "correct_text": "5 \u22c5 y + 5 \u22c5 2 + 4"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -16781,45 +16781,45 @@
         }
       },
       "question": {
-        "stem": "Which expression is equivalent to 30 ÷ (3 + x)?",
+        "stem": "Which expression is equivalent to 30 \u00f7 (3 + x)?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "F",
-            "text": "(3 + x) ÷ 30"
+            "text": "(3 + x) \u00f7 30"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "30 ÷ (x + 3)"
+            "text": "30 \u00f7 (x + 3)"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "(3 ÷ 30) + x"
+            "text": "(3 \u00f7 30) + x"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "30 ÷ 3 + 30 ÷ x"
+            "text": "30 \u00f7 3 + 30 \u00f7 x"
           }
         ],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "30 ÷ (3 + x)?",
-          "F (3 + x) ÷ 30",
-          "G 30 ÷ (x + 3)",
-          "H (3 ÷ 30) + x",
-          "J 30 ÷ 3 + 30 ÷ x"
+          "30 \u00f7 (3 + x)?",
+          "F (3 + x) \u00f7 30",
+          "G 30 \u00f7 (x + 3)",
+          "H (3 \u00f7 30) + x",
+          "J 30 \u00f7 3 + 30 \u00f7 x"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (G)",
         "answer_format": "single_choice_label",
         "correct_label": "G",
-        "correct_text": "30 ÷ (x + 3)"
+        "correct_text": "30 \u00f7 (x + 3)"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -16885,22 +16885,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "4 + (3 ⋅ y) and (4 + 3) ⋅ y"
+            "text": "4 + (3 \u22c5 y) and (4 + 3) \u22c5 y"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "(18 ÷ y) + 10 and 10 + (y ÷ 18)"
+            "text": "(18 \u00f7 y) + 10 and 10 + (y \u00f7 18)"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "12 - (y ⋅ 2) and 12 - (2 ⋅ y)"
+            "text": "12 - (y \u22c5 2) and 12 - (2 \u22c5 y)"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "(10 - 6) ÷ y and 10 - (6 ÷ y)"
+            "text": "(10 - 6) \u00f7 y and 10 - (6 \u00f7 y)"
           }
         ],
         "choice_pool": [],
@@ -16913,7 +16913,7 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "12 - (y ⋅ 2) and 12 - (2 ⋅ y)"
+        "correct_text": "12 - (y \u22c5 2) and 12 - (2 \u22c5 y)"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -17184,12 +17184,12 @@
           {
             "position": 5,
             "label": null,
-            "text": "≤"
+            "text": "\u2264"
           },
           {
             "position": 6,
             "label": null,
-            "text": "≥"
+            "text": "\u2265"
           }
         ],
         "choice_pool": [
@@ -17197,8 +17197,8 @@
           "+",
           "<",
           ">",
-          "≤",
-          "≥"
+          "\u2264",
+          "\u2265"
         ],
         "response_template": "15 [blank_1] y [blank_2] 28",
         "visual_elements": [
@@ -17206,17 +17206,17 @@
         ]
       },
       "answer_key": {
-        "raw_pdf_answer_text": "Correct Answer (+; ≤)",
+        "raw_pdf_answer_text": "Correct Answer (+; \u2264)",
         "answer_format": "ordered_blanks",
         "blank_values": [
           "+",
-          "≤"
+          "\u2264"
         ],
         "blank_map": {
           "blank_1": "+",
-          "blank_2": "≤"
+          "blank_2": "\u2264"
         },
-        "normalized_expression": "15 + y ≤ 28"
+        "normalized_expression": "15 + y \u2264 28"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -17426,7 +17426,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "5727679fff57c4cf69162e6e4f83639f9ee906f7eb6d91d949ce0443ebf92b62",
+        "sha256": "729b6ee6a0a62ea52464fa376a8d7c0efe9d22805612973681cca0d5cacaa61e",
         "page_span": [
           149
         ],
@@ -17606,7 +17606,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "b22ae1d929137e227b3618a83247b7890a70c0807ad7dd4ee1373a1a620c1e9e",
+        "sha256": "28d0136a82858f11744cd16ead3c6b473491e28ca1a53b53823bfa609b194a05",
         "page_span": [
           151
         ],
@@ -17659,12 +17659,12 @@
           {
             "position": 3,
             "label": "H",
-            "text": "p + 7 ≥ 50"
+            "text": "p + 7 \u2265 50"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "p + 7 ≤ 50"
+            "text": "p + 7 \u2264 50"
           }
         ],
         "choice_pool": [],
@@ -17675,7 +17675,7 @@
         "raw_pdf_answer_text": "Correct Answer (J)",
         "answer_format": "single_choice_label",
         "correct_label": "J",
-        "correct_text": "p + 7 ≤ 50"
+        "correct_text": "p + 7 \u2264 50"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -17700,7 +17700,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1586,
-        "sha256": "e9214e51723aa4d6ac0af934e73b973e569433fefa6863bd154a294741c1429b",
+        "sha256": "07e4210c4ee2ff664dcbbf672ccf84b45aeef770db621939e7fd7b9da24dc524",
         "page_span": [
           152
         ],
@@ -17738,22 +17738,22 @@
           {
             "position": 1,
             "label": null,
-            "text": "◀●"
+            "text": "\u25c0\u25cf"
           },
           {
             "position": 2,
             "label": null,
-            "text": "◀○"
+            "text": "\u25c0\u25cb"
           },
           {
             "position": 3,
             "label": null,
-            "text": "○▶"
+            "text": "\u25cb\u25b6"
           },
           {
             "position": 4,
             "label": null,
-            "text": "●▶"
+            "text": "\u25cf\u25b6"
           }
         ],
         "choice_pool": [],
@@ -17790,7 +17790,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1248,
-        "sha256": "5ba9b43f966f41cb27e5c95fd99bcff6aa3a4076b438f838bdfab4e4eb9061e8",
+        "sha256": "7cbb84dd100bb31f390ec2b161bf94488c103c3c4d198d0eaff7056f37f9e4e1",
         "page_span": [
           153
         ],
@@ -18133,7 +18133,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "inequality: x/12 ≥ 7"
+          "inequality: x/12 \u2265 7"
         ]
       },
       "answer_key": {
@@ -18165,7 +18165,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1248,
-        "sha256": "d9ed6bf13382651a02ebc9bdb1a3aa62b0b99dba6896c17d826abddb1dc6a3c5",
+        "sha256": "f1e0132a1c93bd69d87b224bd8c59d9ffd846f1e57360bafa7ded9d415502507",
         "page_span": [
           156
         ],
@@ -18256,7 +18256,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1248,
-        "sha256": "1fd0f9eac68fdf80bbfbbbd0062f2468faef78f83754b96fee71dcf85955af10",
+        "sha256": "93294d9eada73817646c2cf00b625794badbfd536a343c8f248d132ee9b32537",
         "page_span": [
           156
         ],
@@ -18436,7 +18436,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "a9bf83ff78d321b2a95e6cdfa2e703e8f8fd7e919aec93fd05e9c3eb335c5168",
+        "sha256": "9fc96aef6c33b4f4a3067b1277939edac7d189b4adcc8c3e50afe5afb9158048",
         "page_span": [
           158
         ],
@@ -18722,7 +18722,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1279,
-        "sha256": "f207d00222de7fcf089c5af805582efba78fe2433d52fa6e44353718328199c9",
+        "sha256": "9b05bcc0186a57b661a6c08d2c83d81d779ac2642c8f2edfefa3859268547a87",
         "page_span": [
           161
         ],
@@ -18849,7 +18849,7 @@
         }
       },
       "question": {
-        "stem": "A circle has 360° . What is the value of k, the number of degrees in each section of the clock?",
+        "stem": "A circle has 360\u00b0 . What is the value of k, the number of degrees in each section of the clock?",
         "instruction": null,
         "options": [
           {
@@ -18876,7 +18876,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "circle with 12 equal sections each labeled k°"
+          "circle with 12 equal sections each labeled k\u00b0"
         ]
       },
       "answer_key": {
@@ -19088,7 +19088,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "bfec25eddb100563b8be201b048af444543b89a3e1287ea6a8a8ab2ebaf9e48b",
+        "sha256": "51e98f4f5017731a22b6873d52a43c5c390a01c5002bbc0a43bcb9f35afd67e8",
         "page_span": [
           164
         ],
@@ -19177,7 +19177,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1249,
-        "sha256": "f1a99764613c1a29f8a75c38bd01a0c97b2153b573f52afa08a9f71f8a5b3d69",
+        "sha256": "d4c2e957ed5a152eb54f62b8f39f6050572e2b691bad05c2a87a9ca134d2ab6f",
         "page_span": [
           165
         ],
@@ -19266,7 +19266,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "66c448fc18c5399fe81487746c2bd0ac1033630944a1134af1d01bb91e1043f1",
+        "sha256": "3358354d7d6dcb61788958f7b8981fd09639e06fbb3a36570bb2a0a8290e876d",
         "page_span": [
           165
         ],
@@ -19355,7 +19355,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "aa070f41392d650638dd024f3cdb3a496bee14aeb2d1530c18bbf92c1205fa1e",
+        "sha256": "05ab5e0a9ddc3bd44c39865b3e68fa3d6047ce377022ec33fafb86b4cce15e53",
         "page_span": [
           166
         ],
@@ -19446,7 +19446,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1536,
-        "sha256": "f5452d808d1a91abeea81872d37c9def7fb5e76579db7f373fdd42a0320c5193",
+        "sha256": "49177cd921fd4ee2f86219a4437258b509cd7bdaccc9a405476479197259bd64",
         "page_span": [
           167
         ],
@@ -19719,7 +19719,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "2b4d65c2928ff192366b36dff5e074739369955ddacee49fa18f5b3cc7e6cdf3",
+        "sha256": "516051a0041d7a2de635f2b2f2cbe76b22dede9b14ef19a4cf95e537c7d3bcca",
         "page_span": [
           169
         ],
@@ -19815,7 +19815,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "e8a1bf08b1c2a6fda4a8849a8f6381bb12f1da9fb21715dd865001a0bebf2627",
+        "sha256": "1fcc75fb548537042d07930b36c76a5734e732c3f664fb70ee39934a973f630c",
         "page_span": [
           170
         ],
@@ -19910,7 +19910,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "ae315f762b5d3f4910ba0abdf7b9851a76e5b9398d45927958f7cadc5cfe5ca3",
+        "sha256": "1159819eb62e8b56f992b3000d305228bbd43568da890f475b1826a3c0438a35",
         "page_span": [
           170
         ],
@@ -19945,28 +19945,28 @@
         }
       },
       "question": {
-        "stem": "The sum of the measures of two angles is 183.6°. One angle has a measure of 54°. What is m, the measure in degrees of the second angle?",
+        "stem": "The sum of the measures of two angles is 183.6\u00b0. One angle has a measure of 54\u00b0. What is m, the measure in degrees of the second angle?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "A",
-            "text": "m = 129.6°"
+            "text": "m = 129.6\u00b0"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "m = 3.4°"
+            "text": "m = 3.4\u00b0"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "m = 9,914.4°"
+            "text": "m = 9,914.4\u00b0"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "m = 237.6°"
+            "text": "m = 237.6\u00b0"
           }
         ],
         "choice_pool": [],
@@ -19977,7 +19977,7 @@
         "raw_pdf_answer_text": "Correct Answer (A)",
         "answer_format": "single_choice_label",
         "correct_label": "A",
-        "correct_text": "m = 129.6°"
+        "correct_text": "m = 129.6\u00b0"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -20061,7 +20061,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2025 – Q4, question stem, answer options A-D with inequalities"
+          "2025 \u2013 Q4, question stem, answer options A-D with inequalities"
         ]
       },
       "answer_key": {
@@ -20192,7 +20192,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1279,
-        "sha256": "1a7bcb01e2125ef40e37cda3da63eaec40fe71d8e17e4d06fa8739e632cd2889",
+        "sha256": "cad3054e403408fc3c0e5c996905bbdb13962f95406c16addb18ab4f61ecf136",
         "page_span": [
           174
         ],
@@ -20283,7 +20283,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1312,
-        "sha256": "27bb06f1389302f4a260fce36ffc1dc9c2c2a409a6096be70a4b137bbf383530",
+        "sha256": "4f84461a93cab0831711e7cee5b101db81d22104cf06f24586041d95d8752d29",
         "page_span": [
           175
         ],
@@ -20326,7 +20326,7 @@
           {
             "position": 2,
             "label": "G",
-            "text": "13.6 ≤ 3.9p"
+            "text": "13.6 \u2264 3.9p"
           },
           {
             "position": 3,
@@ -20336,7 +20336,7 @@
           {
             "position": 4,
             "label": "J",
-            "text": "8.5 ≥ 2.5p"
+            "text": "8.5 \u2265 2.5p"
           }
         ],
         "choice_pool": [],
@@ -20347,7 +20347,7 @@
         "raw_pdf_answer_text": "Correct Answer (J)",
         "answer_format": "single_choice_label",
         "correct_label": "J",
-        "correct_text": "8.5 ≥ 2.5p"
+        "correct_text": "8.5 \u2265 2.5p"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -20463,7 +20463,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1332,
-        "sha256": "56131f5e6f7f70101eeb93c1d070a8c9d8df6c08141fe52bac517400912eb826",
+        "sha256": "5e2772e1b2e83b68f2a9329c5ebce9ea1651b6d91c67b63281d4c6a796faca06",
         "page_span": [
           176
         ],
@@ -20846,7 +20846,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1401,
-        "sha256": "4e5231006d0285416aa7c303895c8464419d4b2075e03806ab3d93ddb9a8ad49",
+        "sha256": "de5013f7572b190c5ef3be32ab5df1ddeef146127f78c600d7d452934a07c18c",
         "page_span": [
           181
         ],
@@ -21034,7 +21034,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1371,
-        "sha256": "411d3762e2d6d9ee745290f87c9a9d58ca70bc72c81f2d64f70eca26e68a5697",
+        "sha256": "8ff55375b81ceab99cab0be9f5746850c10106c0b2f703dfff0bafb52499c6c4",
         "page_span": [
           183
         ],
@@ -21125,7 +21125,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1194,
-        "sha256": "9dff918cb037cc2603b3d25198e877aa4729cb882968bba6ebb9744b71ea1b55",
+        "sha256": "c31a5a5b4ae7da9b8a7b5d7da2ac3ffdb27f682ebfc812f7e1651c83aceb118e",
         "page_span": [
           184
         ],
@@ -21311,7 +21311,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "c6b420ceb3568b7ee0fb12a178b172a68b8e045eea4e2dca5f54911376b2bb9b",
+        "sha256": "e024334981469cf1a005f8076bf3837617d4746a778edc4e0861b12ad84f4ee7",
         "page_span": [
           185
         ],
@@ -21402,7 +21402,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1499,
-        "sha256": "85310610ba29b12230ab617d587acf4cdbb86a0a4d446e9745f1e83d604738ea",
+        "sha256": "d7858f93bc802cbe3bec641c98d878e6d152648bdb006dce878a31fea40c8bfb",
         "page_span": [
           186
         ],
@@ -21493,7 +21493,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1309,
-        "sha256": "60c6c4f351aa04fee499192c1738568aeda2f3a94f11d927f4074d4074ee65d4",
+        "sha256": "92dec5450636b0c48759258a41855cc61840acb050563cf9e54a93a809146dca",
         "page_span": [
           187
         ],
@@ -21589,7 +21589,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1477,
-        "sha256": "e20273717372c2fb90bf39789bebeaa8301b27f897b75ce3b6713f9656bbfd3e",
+        "sha256": "9eead7ffe0660bae26c457c8d06695f311db4bc85cb619d5bc03861fc974241c",
         "page_span": [
           188
         ],
@@ -21626,7 +21626,7 @@
         }
       },
       "question": {
-        "stem": "Shaundra made this table in order to show the results of a science experiment. Plant Growth | Plant | Amount of Fertilizer Added to Soil (milliliters) | Change in Height of Plant (centimeters) | |-------|--------------------------------------------------|-----------------------------------------| | A | 4 | 0.5 | | B | 8 | 1.0 | | C | 1 | 0.15 | | D | 2 | 0.25 | Which statement about the quantities in Shaundra’s experiment is true?",
+        "stem": "Shaundra made this table in order to show the results of a science experiment. Plant Growth | Plant | Amount of Fertilizer Added to Soil (milliliters) | Change in Height of Plant (centimeters) | |-------|--------------------------------------------------|-----------------------------------------| | A | 4 | 0.5 | | B | 8 | 1.0 | | C | 1 | 0.15 | | D | 2 | 0.25 | Which statement about the quantities in Shaundra\u2019s experiment is true?",
         "instruction": null,
         "options": [
           {
@@ -21685,7 +21685,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1511,
-        "sha256": "ac1c63e123cc0c70cd8272dbe4387b835c89e47481fc0247d8864c1fd6db5116",
+        "sha256": "a4ee3487411e4d7a06ed0aa0aebaaa1a5b3adf8913f623a5caa12d5bb510bef8",
         "page_span": [
           189
         ],
@@ -21813,7 +21813,7 @@
         }
       },
       "question": {
-        "stem": "Gabriela and her mother were born on the same day of the year. The table shows the relationship between g, Gabriela's age, and m, her mother's age. Ages | Gabriela’s Age, g | Her Mother’s Age, m | |-------------------|--------------------| | 3 | 30 | | 5 | 32 | | 9 | 36 | | 10 | 37 | Which equation represents the relationship between g and m?",
+        "stem": "Gabriela and her mother were born on the same day of the year. The table shows the relationship between g, Gabriela's age, and m, her mother's age. Ages | Gabriela\u2019s Age, g | Her Mother\u2019s Age, m | |-------------------|--------------------| | 3 | 30 | | 5 | 32 | | 9 | 36 | | 10 | 37 | Which equation represents the relationship between g and m?",
         "instruction": null,
         "options": [
           {
@@ -21872,7 +21872,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "b112b9b58553afccd8de82e32b49af9983b43314775445e38c2ce2cd31b43f8a",
+        "sha256": "e9fef1763bbe2a0295cf7c6dcccbfe4ba9d4aeffa146a4c2d3bef3de923325fe",
         "page_span": [
           190
         ],
@@ -21963,7 +21963,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1241,
-        "sha256": "2f07c31bd5e76f7fd9803db0eaad320d5d5599e36ad149006755e74474165277",
+        "sha256": "dd4f724534a4bf37dd41bfdc0a3d580428ab4c08081e02061bf0c31285f8c80c",
         "page_span": [
           191
         ],
@@ -22054,7 +22054,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "7a82c4323f4bc81b371b177713ec88dd5d56a907872821d0d2f35764f901b7c5",
+        "sha256": "1645b73bd198785832171468f61562fe99b421e0c6d7f93db0d95bf9896e078f",
         "page_span": [
           191
         ],
@@ -22325,7 +22325,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2024 – Q16 The length of Ms. Palmer’s camping trailer is x feet. The length of Mr. Guzman’s camping trailer, y, is 6 feet less than the length of Ms. Palmer’s trailer. Which equation represents y, the length of Mr. Guzman’s trailer in feet? (A) y = -6x (B) y = 6 - x (C) y = x + 6 (D) y = x - 6"
+          "2024 \u2013 Q16 The length of Ms. Palmer\u2019s camping trailer is x feet. The length of Mr. Guzman\u2019s camping trailer, y, is 6 feet less than the length of Ms. Palmer\u2019s trailer. Which equation represents y, the length of Mr. Guzman\u2019s trailer in feet? (A) y = -6x (B) y = 6 - x (C) y = x + 6 (D) y = x - 6"
         ]
       },
       "answer_key": {
@@ -22362,7 +22362,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2079,
-        "sha256": "ba85409c8bf871b719a362b42cf2138629492b446c38f729aeeb6ad19a87d83b",
+        "sha256": "58f4da319c2e475148437d4b3b42863cff04e3def58462538a084e109a56a66d",
         "page_span": [
           195
         ],
@@ -22456,7 +22456,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1717,
-        "sha256": "4d4ba0ea135d73cf0bee676b2874040eb1fce45d0064976fc193a8e5d6535cdf",
+        "sha256": "dc64a29d5d296a66d13bc3530b96401b24c45067c10ccea992652c82fe357b1f",
         "page_span": [
           196
         ],
@@ -22551,7 +22551,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1887,
-        "sha256": "2f0c2a282c7a72f5af0385df5757bed8e09d7494c2984f41fd981aee3f250b8c",
+        "sha256": "478d5b2c0f4b04ffbf286ccda36143e8fd8cc1f00b35d10e80541a6bb9274cb2",
         "page_span": [
           197
         ],
@@ -22642,7 +22642,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "f6e6e1e66a2acdc0bd329ee7adcb71f6065a12bc5c0b20e2b41aae7e636e823f",
+        "sha256": "8ea3c51a531f85908846a0bf66972fe3487a172eb310332054bdfd2a0cb802e4",
         "page_span": [
           198
         ],
@@ -22690,12 +22690,12 @@
           {
             "position": 3,
             "label": "C",
-            "text": "Victoria has y dollars. This amount is 12 times x, the amount of money in dollars Victoria’s brother has."
+            "text": "Victoria has y dollars. This amount is 12 times x, the amount of money in dollars Victoria\u2019s brother has."
           },
           {
             "position": 4,
             "label": "D",
-            "text": "Victoria is y years old. Her age is 12 years greater than x, her brother’s age in years."
+            "text": "Victoria is y years old. Her age is 12 years greater than x, her brother\u2019s age in years."
           }
         ],
         "choice_pool": [],
@@ -22708,7 +22708,7 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "Victoria has y dollars. This amount is 12 times x, the amount of money in dollars Victoria’s brother has."
+        "correct_text": "Victoria has y dollars. This amount is 12 times x, the amount of money in dollars Victoria\u2019s brother has."
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -22733,7 +22733,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1706,
-        "sha256": "b7d044a48519fe67d1150499effd9946fbb19ec422c26ebd86b58f6978fff902",
+        "sha256": "919ca8ac08127084c41b1ccea33e73dcab75fc3c9531b47189ecd961f423fbe0",
         "page_span": [
           199
         ],
@@ -22824,7 +22824,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1616,
-        "sha256": "1d2172ca1e1efcac3efedbb5bdbe0520faab65f1e2512e653652702f52a8f5a6",
+        "sha256": "23d36256d1e8a667f663b8948c7d95dbfb3831ab97d99b57b5558336add15e00",
         "page_span": [
           200
         ],
@@ -22883,10 +22883,10 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Table A: Carpenter’s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 2-80, 4-160, 6-240, 8-320.",
-          "Table B: Carpenter’s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 19-720, 20-738, 21-756, 22-774.",
-          "Table C: Carpenter’s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 3-75, 5-125, 7-175, 9-225.",
-          "Table D: Carpenter’s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 14-720, 15-720, 16-720, 17-720."
+          "Table A: Carpenter\u2019s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 2-80, 4-160, 6-240, 8-320.",
+          "Table B: Carpenter\u2019s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 19-720, 20-738, 21-756, 22-774.",
+          "Table C: Carpenter\u2019s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 3-75, 5-125, 7-175, 9-225.",
+          "Table D: Carpenter\u2019s Charges with columns Amount of Time Worked (hours) and Amount Charged (dollars) with values 14-720, 15-720, 16-720, 17-720."
         ]
       },
       "answer_key": {
@@ -22918,7 +22918,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1194,
-        "sha256": "91bd2139b90296fd9faf960936996ed037e219383d12b74581c10c29ab902487",
+        "sha256": "78df706a53b82ff823e4d939a40de13ed9a9b6f094f38b3b81f0862102030f4f",
         "page_span": [
           201
         ],
@@ -23132,7 +23132,7 @@
         }
       },
       "question": {
-        "stem": "Mr. Martínez asked his students to write a situation that could describe the relationship between all the values of x and y in the table. | | 0 | 1 | 2 | 3 | |---|---|---|---|---| | x | | | | | | y | 6 | 7 | 8 | 9 |",
+        "stem": "Mr. Mart\u00ednez asked his students to write a situation that could describe the relationship between all the values of x and y in the table. | | 0 | 1 | 2 | 3 | |---|---|---|---|---| | x | | | | | | y | 6 | 7 | 8 | 9 |",
         "instruction": "Which situation best describes the relationship between all the values of x and y in the table?",
         "options": [
           {
@@ -23191,7 +23191,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1216,
-        "sha256": "467bad73328d71bcdcc67691ddeda8dc83abb1058038125f7e363d4634e0791f",
+        "sha256": "676b30c8b332228fb764ce7a8a74fe8c435d8e72cac868376d8ff17c079a9cd0",
         "page_span": [
           203
         ],
@@ -23284,7 +23284,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "419040110b21f9f3f13ff9d9ca3c9bd8b8790bbc759186e38f12a4eebd0b44b2",
+        "sha256": "791768433b4c2cbcd2ffeaff117d0974c2f1a3420c961a497d946ecbc0dbf134",
         "page_span": [
           204
         ],
@@ -23380,7 +23380,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "d8cc6b1f6f096e7cb321aa392a34dbf22794dcda49535d7f09e7e14e59c58972",
+        "sha256": "886770676c74c90781572589e53659d5edde31e628202cfe01bf67b1ab3c001e",
         "page_span": [
           204
         ],
@@ -23508,7 +23508,7 @@
         }
       },
       "question": {
-        "stem": "Points Q and V are graphed on the same coordinate grid: • Point Q is located at (2, -4). • Point V is located 4 units from point Q. Which ordered pair could represent the location of point V?",
+        "stem": "Points Q and V are graphed on the same coordinate grid: \u2022 Point Q is located at (2, -4). \u2022 Point V is located 4 units from point Q. Which ordered pair could represent the location of point V?",
         "instruction": null,
         "options": [
           {
@@ -23570,7 +23570,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1532,
-        "sha256": "bd5c7b940e7b3e2da35c5d67e3cf1d28620997797a5efab515f4f9a0a072f2e9",
+        "sha256": "36ebb27b75b19c2267b28683290add7f0a6e7a5dc55f4d84e3d7737b22d7a4f1",
         "page_span": [
           206
         ],
@@ -23666,7 +23666,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1609,
-        "sha256": "5afb2c6ae2e03724668bf6dda93fac72f6ab6cf442326d6250e9c273aef30d15",
+        "sha256": "eaf7c2a017149cd2d8fbe232272e94fd616b1de471c509673bee8397cd2ad295",
         "page_span": [
           207
         ],
@@ -23704,7 +23704,7 @@
           {
             "position": 1,
             "label": "A",
-            "text": "(4, − 2)"
+            "text": "(4, \u2212 2)"
           },
           {
             "position": 2,
@@ -23714,12 +23714,12 @@
           {
             "position": 3,
             "label": "C",
-            "text": "(6, − 1)"
+            "text": "(6, \u2212 1)"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "(− 2, 5)"
+            "text": "(\u2212 2, 5)"
           }
         ],
         "choice_pool": [],
@@ -23736,7 +23736,7 @@
         "distractor_note": {
           "raw_pdf_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
           "label": "D",
-          "text": "(− 2, 5)"
+          "text": "(\u2212 2, 5)"
         }
       },
       "extraction_quality": {
@@ -23831,7 +23831,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1263,
-        "sha256": "9f8a3d15fe32b59acbce1c672b1af5c02b1f11e46eae372fd00187c22f5de0cd",
+        "sha256": "29bcc09f0fc843fb6d9ab305c02a64755b56e1d50a0e4779b7ae11f5732baca3",
         "page_span": [
           209
         ],
@@ -23900,7 +23900,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1422,
-        "sha256": "e824c14fddc6fe55371f3c3545d7faf24604ce6db6c65cc7c8f128f6c6ad6ca2",
+        "sha256": "d15a406a27de79e6302a69a122e0fbff69e6573f8ea10a3053a5fe9023d3bd55",
         "page_span": [
           210
         ],
@@ -23991,7 +23991,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1928,
-        "sha256": "82f87c4333acbc6ff5bdb7056fc5ec5dca881498e525f9fe515dcf701e4afad6",
+        "sha256": "ca1aee4a75df7f4f9a041dfa21bf3e5a7f037345090d0759f4fbc75d23a42a36",
         "page_span": [
           211
         ],
@@ -24087,7 +24087,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1194,
-        "sha256": "9b61c92e408725e4adb898f46289cf71e46124cd624c1c287f017fee18b36062",
+        "sha256": "18957e6e153b0f7e10470872ae54b42cefe591d4f8e0671d95083d11dc286a63",
         "page_span": [
           212
         ],
@@ -24176,7 +24176,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1857,
-        "sha256": "2bb10c059b2b3ea5381b70cc44799be87d4a9b134dae0cb497882acdeab152dc",
+        "sha256": "7c6e9052197966e6c895ede5b42ac77f08fa3b791239d7ea7cc3d11e5e14e298",
         "page_span": [
           213
         ],
@@ -24267,7 +24267,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1254,
-        "sha256": "9eeb51359ff3607bea08737aa8a29403093a278ad3bdf9f97e4d7484c64ebe79",
+        "sha256": "d1b4bcb65f01204c8ef95b6d7d26b03bdcbb1b3750cbb2b2735a7017f56534c7",
         "page_span": [
           214
         ],
@@ -24336,7 +24336,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1412,
-        "sha256": "7719664b85fe14724b812046bed4767e548646f9736cf5003b12ceec1ccd52ec",
+        "sha256": "2ac8a506f8de4388603c621c96e4bfd982f6dde10ce7ac5cdfdf00ecf45dffcb",
         "page_span": [
           215
         ],
@@ -24427,7 +24427,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1709,
-        "sha256": "c26ee4c7c3ab6a2c407d2df15c0cd71cd488f777298b55bf45b8b3576320c7f7",
+        "sha256": "21a133d9ee55c77fc2965a5df288d8b0285d60ba31717bce2546217be18712d7",
         "page_span": [
           216
         ],
@@ -24522,7 +24522,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1415,
-        "sha256": "81846e1179c001ff29219aa6799aa23ba7adc798a686548b90373bc94ee44f9e",
+        "sha256": "664d22bb190e91ace4905d71bf6ec9dc467a357ec79dfa3ac9dda6b7bf9647a7",
         "page_span": [
           217
         ],
@@ -24619,7 +24619,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1745,
-        "sha256": "2990ae87d54974f5a37e76cfa3720cc271af1ab2738165fb4b437d3b57aa1144",
+        "sha256": "367d9310b4acb3b02548321ffa05a75c0e79bb3dfe149e67e8ffb2bb11b4c03e",
         "page_span": [
           218
         ],
@@ -24852,22 +24852,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "25° 25° 90°"
+            "text": "25\u00b0 25\u00b0 90\u00b0"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "90° 90° 180°"
+            "text": "90\u00b0 90\u00b0 180\u00b0"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "45° 45° 45°"
+            "text": "45\u00b0 45\u00b0 45\u00b0"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "30° 50° 100°"
+            "text": "30\u00b0 50\u00b0 100\u00b0"
           }
         ],
         "choice_pool": [],
@@ -24878,11 +24878,11 @@
         "raw_pdf_answer_text": "Correct Answer (D)",
         "answer_format": "single_choice_label",
         "correct_label": "D",
-        "correct_text": "30° 50° 100°",
+        "correct_text": "30\u00b0 50\u00b0 100\u00b0",
         "distractor_note": {
           "raw_pdf_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
           "label": "C",
-          "text": "45° 45° 45°"
+          "text": "45\u00b0 45\u00b0 45\u00b0"
         }
       },
       "extraction_quality": {
@@ -24940,7 +24940,7 @@
         }
       },
       "question": {
-        "stem": "In triangle QRT, angle Q measures 80° and angle T measures 35°. Which list shows the side lengths of the triangle in order from greatest to least?",
+        "stem": "In triangle QRT, angle Q measures 80\u00b0 and angle T measures 35\u00b0. Which list shows the side lengths of the triangle in order from greatest to least?",
         "instruction": null,
         "options": [
           {
@@ -24967,7 +24967,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Triangle QRT with angle Q = 80°, angle T = 35°"
+          "Triangle QRT with angle Q = 80\u00b0, angle T = 35\u00b0"
         ]
       },
       "answer_key": {
@@ -25093,7 +25093,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "af79ca09ec4687225e674cb4790aacc8cd13b27db767400e0c5f056906060e54",
+        "sha256": "0a08f7ff19a421ef31d7cba3174e306429eb15d96962e97c60cdee1187d4304b",
         "page_span": [
           229
         ],
@@ -25131,22 +25131,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "20°, 45°, 120°"
+            "text": "20\u00b0, 45\u00b0, 120\u00b0"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "100°, 130°, 130°"
+            "text": "100\u00b0, 130\u00b0, 130\u00b0"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "35°, 60°, 85°"
+            "text": "35\u00b0, 60\u00b0, 85\u00b0"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "25°, 55°, 110°"
+            "text": "25\u00b0, 55\u00b0, 110\u00b0"
           }
         ],
         "choice_pool": [],
@@ -25157,7 +25157,7 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "35°, 60°, 85°"
+        "correct_text": "35\u00b0, 60\u00b0, 85\u00b0"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -25275,7 +25275,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "133584d5637ff99d344b5cb2ab5e9cd8412aabc7676889bbd8b17aaebbca6cad",
+        "sha256": "db862652f98a100de68aac67640240f607b41e086487c069d6efcec5fbddc7b8",
         "page_span": [
           231
         ],
@@ -25313,22 +25313,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "60°, 60°, 61°"
+            "text": "60\u00b0, 60\u00b0, 61\u00b0"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "1°, 1°, 178°"
+            "text": "1\u00b0, 1\u00b0, 178\u00b0"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "13.9°, 16.1°, 150°"
+            "text": "13.9\u00b0, 16.1\u00b0, 150\u00b0"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "59°, 60°, 61°"
+            "text": "59\u00b0, 60\u00b0, 61\u00b0"
           }
         ],
         "choice_pool": [],
@@ -25339,7 +25339,7 @@
         "raw_pdf_answer_text": "Correct Answer (A)",
         "answer_format": "single_choice_label",
         "correct_label": "A",
-        "correct_text": "60°, 60°, 61°"
+        "correct_text": "60\u00b0, 60\u00b0, 61\u00b0"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -25396,7 +25396,7 @@
         }
       },
       "question": {
-        "stem": "In triangle XYZ the measure of angle YXZ is 50°, and the measure of angle XYZ is 75°. What is the measure of angle XZY in degrees?",
+        "stem": "In triangle XYZ the measure of angle YXZ is 50\u00b0, and the measure of angle XYZ is 75\u00b0. What is the measure of angle XZY in degrees?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -25431,7 +25431,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "0f0313e5cf51fa6c4f42160f66d552e1121f52a38b954c986ebdcdc56ca71bd1",
+        "sha256": "f6ccfccc76b703a8090aaea8ec99247cb816075f1538d951826e905d31bea855",
         "page_span": [
           232
         ],
@@ -25504,7 +25504,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1829,
-        "sha256": "f36e2e2937708d0a32a3e11c669c8fff3dfb67da7f5a1d5239bd906d95df7d65",
+        "sha256": "34b7b041fe0f76fc92228138d77413f415f1cec07a4bb2a98638a46d724cef65",
         "page_span": [
           233
         ],
@@ -25690,7 +25690,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1270,
-        "sha256": "37bdea26fafa84ae0b849906318ee007a5fd10b50019f665de87d3768ea94f80",
+        "sha256": "144ec11e251799dd00125a01e5e93f61a113b86ac75a75d4ca68f6973f28c294",
         "page_span": [
           235
         ],
@@ -25874,7 +25874,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "471738817b77a6cd2567c7ceb4384956a48ff6910c00c9dfc19c201d9551f702",
+        "sha256": "fe12eac72d8068dc70c0a4f3c1bc353fe518cb235a9495d79a7b2a02b28b4c1e",
         "page_span": [
           236
         ],
@@ -25963,7 +25963,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "1953f8b35bad3affa62487285a5159345219ce6dd969e21a081ff51440c70381",
+        "sha256": "97921e93e51e9281f6f45d4a66de11aab80d59494af46081a71c0dbb2cd027c4",
         "page_span": [
           237
         ],
@@ -26054,7 +26054,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1272,
-        "sha256": "04f643b3da902a0c687ee744f91d8e0f4a349ec323d3a284ae33582318d1a96d",
+        "sha256": "f833e1054d08f3eef49666a8cf5cae247dc746677b230c545474fdc29126c328",
         "page_span": [
           238
         ],
@@ -26236,7 +26236,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "f2743dc495844e0275ec08c755b94c15c14371048e4572fe4825992d316da19e",
+        "sha256": "a25e6c6fcc5aff709b2d91c35e041ab02e5e628cd86e1c288ef45cf83a841989",
         "page_span": [
           239
         ],
@@ -26332,7 +26332,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1761,
-        "sha256": "e51c0e2ef6ed5a2d9c817e0c99f9f1d55973a798750a9182180faeebeba7592f",
+        "sha256": "76682ba9957262f49cc72b453ffcf85371fef85d5343511031181608fc1cf6bd",
         "page_span": [
           241
         ],
@@ -26604,7 +26604,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "d774af9ebe7f63de2a09a0d02b1d7fb67566ef39623ab658e7161c6ad23487b3",
+        "sha256": "0540037d118ee76229ff122334ca24d065c55cf07d72fbe652d8c761a5fc522d",
         "page_span": [
           244
         ],
@@ -26828,22 +26828,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "33 cm²"
+            "text": "33 cm\u00b2"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "23 cm²"
+            "text": "23 cm\u00b2"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "27 cm²"
+            "text": "27 cm\u00b2"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "16 cm²"
+            "text": "16 cm\u00b2"
           }
         ],
         "choice_pool": [],
@@ -26856,7 +26856,7 @@
         "raw_pdf_answer_text": "Correct Answer (H)",
         "answer_format": "single_choice_label",
         "correct_label": "H",
-        "correct_text": "27 cm²"
+        "correct_text": "27 cm\u00b2"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -26881,7 +26881,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1446,
-        "sha256": "d3be27074f24cb0e6472c9504f51f61758f8dbe9d6a568ea20f16c600b4b69da",
+        "sha256": "5feff86cb9250294e9469efa9ced0f00096bc37ac6cb6c0b82469661616d12ef",
         "page_span": [
           247
         ],
@@ -26919,22 +26919,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "120 1/8 ft³"
+            "text": "120 1/8 ft\u00b3"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "133 7/8 ft³"
+            "text": "133 7/8 ft\u00b3"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "16 3/4 ft³"
+            "text": "16 3/4 ft\u00b3"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "24 1/4 ft³"
+            "text": "24 1/4 ft\u00b3"
           }
         ],
         "choice_pool": [],
@@ -26947,7 +26947,7 @@
         "raw_pdf_answer_text": "Correct Answer (G)",
         "answer_format": "single_choice_label",
         "correct_label": "G",
-        "correct_text": "133 7/8 ft³"
+        "correct_text": "133 7/8 ft\u00b3"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -26972,7 +26972,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "10a9d5e411500fc246674e69772b1cd711867c56e4c29ceb7a8bad9636533cf5",
+        "sha256": "08e18131cc9789038e3fd8912e0d212172fcfc62bb4542d0696156f1bcf092ef",
         "page_span": [
           248
         ],
@@ -27064,7 +27064,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1304,
-        "sha256": "658d23949c21b97f0ba01b30a64b92be6abfb8b0b91e013878d4fbb7511f2059",
+        "sha256": "9fee949f99f8f8d285b4d70994f421c743f83c76f2a40a7e77a3bc82ac708e59",
         "page_span": [
           249
         ],
@@ -27102,22 +27102,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "108 m²"
+            "text": "108 m\u00b2"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "60 m²"
+            "text": "60 m\u00b2"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "72 m²"
+            "text": "72 m\u00b2"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "120 m²"
+            "text": "120 m\u00b2"
           }
         ],
         "choice_pool": [],
@@ -27130,7 +27130,7 @@
         "raw_pdf_answer_text": "Correct Answer (G)",
         "answer_format": "single_choice_label",
         "correct_label": "G",
-        "correct_text": "60 m²"
+        "correct_text": "60 m\u00b2"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -27155,7 +27155,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "ac3e6669b352176146c8bd37ffe33367d665276e667ad0f00c3eeae739ff99c2",
+        "sha256": "a3581673b2394c91861f973ede390bc5385f9c84fefd101e90ed3b4598485fd0",
         "page_span": [
           250
         ],
@@ -27224,7 +27224,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1641,
-        "sha256": "7060a41f3ba9c4ba8578f1fdafe47e572950389628bcdfc9dca9115762e5d8fe",
+        "sha256": "3982647d5fd9502f64462121c8ba0c5051afd58d690081dd0510a4cdae143fdf",
         "page_span": [
           251
         ],
@@ -27315,7 +27315,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1605,
-        "sha256": "338386e4c6f63bcfdc0dda5cfc146c04eaea3c20c9ed6cf520db1234d00a39b7",
+        "sha256": "91766e46a3e46e8271b74d36386f03315c31a7dfd9fc21e2ac312e9afa87450c",
         "page_span": [
           252
         ],
@@ -27444,22 +27444,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "3,120 ft²"
+            "text": "3,120 ft\u00b2"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "1,560 ft²"
+            "text": "1,560 ft\u00b2"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "1,768 ft²"
+            "text": "1,768 ft\u00b2"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "3,536 ft²"
+            "text": "3,536 ft\u00b2"
           }
         ],
         "choice_pool": [],
@@ -27472,7 +27472,7 @@
         "raw_pdf_answer_text": "Correct Answer (B)",
         "answer_format": "single_choice_label",
         "correct_label": "B",
-        "correct_text": "1,560 ft²"
+        "correct_text": "1,560 ft\u00b2"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -27588,7 +27588,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1308,
-        "sha256": "0225d4cdf5979c5020122efafaf2bf848284f864a91bb5e0b74c1696c70eb92b",
+        "sha256": "6c9fd8561d23e9917fc8a665e816b7d9de62ffcf9a7536e294a7a385fec15fe8",
         "page_span": [
           255
         ],
@@ -27685,7 +27685,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "0777f1ea33523c9422d06d26e06ec6cda30bd4b2deeadc144ddf814f029c9358",
+        "sha256": "895052328287c07ecbf4942b294fdea1dc0fd764b236a0d4066afc4aa7ab1270",
         "page_span": [
           255
         ],
@@ -27729,22 +27729,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "12 cm²"
+            "text": "12 cm\u00b2"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "24 cm²"
+            "text": "24 cm\u00b2"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "15 cm²"
+            "text": "15 cm\u00b2"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "30 cm²"
+            "text": "30 cm\u00b2"
           }
         ],
         "choice_pool": [],
@@ -27757,7 +27757,7 @@
         "raw_pdf_answer_text": "Correct Answer (F)",
         "answer_format": "single_choice_label",
         "correct_label": "F",
-        "correct_text": "12 cm²"
+        "correct_text": "12 cm\u00b2"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -27782,7 +27782,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1191,
-        "sha256": "c2dd0052a61b2bc50a87e2869da867c466d8218616e10639eadb68364bdf7372",
+        "sha256": "4f3f48f0d6444f52bfaa88b05ce0c7a698c0b13cd20dde7fa8263ef1120dc426",
         "page_span": [
           256
         ],
@@ -27825,22 +27825,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "19 cm²"
+            "text": "19 cm\u00b2"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "22 cm²"
+            "text": "22 cm\u00b2"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "16.5 cm²"
+            "text": "16.5 cm\u00b2"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "8.5 cm²"
+            "text": "8.5 cm\u00b2"
           }
         ],
         "choice_pool": [],
@@ -27853,7 +27853,7 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "16.5 cm²"
+        "correct_text": "16.5 cm\u00b2"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -27910,29 +27910,29 @@
         }
       },
       "question": {
-        "stem": "Twelve friends went bowling. Their scores are listed in the table. Bowling Scores ┌─────┬─────┬─────┬─────┐ │ 202 │ 196 │ 280 │ 176 │ ├─────┼─────┼─────┼─────┤ │ 255 │ 190 │ 200 │ 300 │ ├─────┼─────┼─────┼─────┤ │ 207 │ 230 │ 240 │ 247 │ └─────┴─────┴─────┴─────┘ Complete the histogram to represent the bowling scores. Select the correct height for each bar in the graph.",
+        "stem": "Twelve friends went bowling. Their scores are listed in the table. Bowling Scores \u250c\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2510 \u2502 202 \u2502 196 \u2502 280 \u2502 176 \u2502 \u251c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2524 \u2502 255 \u2502 190 \u2502 200 \u2502 300 \u2502 \u251c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2524 \u2502 207 \u2502 230 \u2502 240 \u2502 247 \u2502 \u2514\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2518 Complete the histogram to represent the bowling scores. Select the correct height for each bar in the graph.",
         "instruction": "Select the correct height for each bar in the graph.",
         "options": [
           {
             "position": 1,
-            "label": "151–200",
+            "label": "151\u2013200",
             "text": "5"
           },
           {
             "position": 2,
-            "label": "201–250",
+            "label": "201\u2013250",
             "text": "6"
           },
           {
             "position": 3,
-            "label": "251–300",
+            "label": "251\u2013300",
             "text": "3"
           }
         ],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Histogram with x-axis labels: 151–200, 201–250, 251–300; y-axis labeled Number of Bowlers from 0 to 10; title Bowling Scores"
+          "Histogram with x-axis labels: 151\u2013200, 201\u2013250, 251\u2013300; y-axis labeled Number of Bowlers from 0 to 10; title Bowling Scores"
         ]
       },
       "answer_key": {
@@ -28057,7 +28057,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1809,
-        "sha256": "e812b3ca610fa207b832586291c40a934ca1909d6a2a475ae96fac8530783ede",
+        "sha256": "d749b8499d3c476d50db20a6dca701ff99ab291429f36f01550405a45c5860c3",
         "page_span": [
           260
         ],
@@ -28152,7 +28152,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1985,
-        "sha256": "f70afc3427ac4082855923031882242a33a98c167f208fce9ef96900f6048f87",
+        "sha256": "651c7447c9139ff0bdb238d68253358f021948f681fcad771647e3aa14a85f6b",
         "page_span": [
           261
         ],
@@ -28246,7 +28246,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1868,
-        "sha256": "f651c7dcc1bb8dda2f58a2462ed3b4d0f1c854dbb665e36d2eae92f256d0b333",
+        "sha256": "c21f6bcf7f9a57b02c9180abf17106cd9eb57b04ed6592d01d8d21e7e350b24b",
         "page_span": [
           262
         ],
@@ -28343,7 +28343,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1490,
-        "sha256": "949fd4a3e5f05c8b2f46a60840712fc31de65fe2403d7496d653d338d2158ea8",
+        "sha256": "bdcbec1137ba7de9bf3b9d1012f282f246625cebcd8d3564ec371d9693a36957",
         "page_span": [
           263
         ],
@@ -28441,7 +28441,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "7cb2dfda72eabaec9fb1934eb0f87ea7a6bfc92b4456e96592f2e3028baf9888",
+        "sha256": "6d92497d8bd197e1ccd2f8190c0bd60ed749536c5f6ea5166ecdd5305bb6029d",
         "page_span": [
           264
         ],
@@ -29063,7 +29063,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1675,
-        "sha256": "73c7d6b7b0bd28e31eaa5a8888dbd239ea8fea5bbfbdec0c22fedca701ddf705",
+        "sha256": "86304ad85cf5292307bd31e22f8dfef5d145be89c009aa2e588f39044ca8a675",
         "page_span": [
           270
         ],
@@ -29095,41 +29095,41 @@
         }
       },
       "question": {
-        "stem": "The table shows the low temperature in degrees Fahrenheit for a city each day for 12 days. Low Temperatures Temperature (°F) 29° 30° 35° 40° 42° 59° 60° 59° 49° 43° 38° 32° What is the range of the temperatures in the table?",
+        "stem": "The table shows the low temperature in degrees Fahrenheit for a city each day for 12 days. Low Temperatures Temperature (\u00b0F) 29\u00b0 30\u00b0 35\u00b0 40\u00b0 42\u00b0 59\u00b0 60\u00b0 59\u00b0 49\u00b0 43\u00b0 38\u00b0 32\u00b0 What is the range of the temperatures in the table?",
         "instruction": null,
         "options": [
           {
             "position": 1,
             "label": "F",
-            "text": "41°"
+            "text": "41\u00b0"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "43°"
+            "text": "43\u00b0"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "31°"
+            "text": "31\u00b0"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "59°"
+            "text": "59\u00b0"
           }
         ],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Table of temperatures: 29°, 30°, 35°, 40°, 42°, 59°, 60°, 59°, 49°, 43°, 38°, 32°"
+          "Table of temperatures: 29\u00b0, 30\u00b0, 35\u00b0, 40\u00b0, 42\u00b0, 59\u00b0, 60\u00b0, 59\u00b0, 49\u00b0, 43\u00b0, 38\u00b0, 32\u00b0"
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (H)",
         "answer_format": "single_choice_label",
         "correct_label": "H",
-        "correct_text": "31°"
+        "correct_text": "31\u00b0"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -29154,7 +29154,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "9b900962bb98e6af959203077971c1e88a410fb563603ca0c755cd4c2758c3f4",
+        "sha256": "f6573fa2d6c2e55854ac556520dd864caae44d46128d09054747a9216c2ea564",
         "page_span": [
           271
         ],
@@ -29245,7 +29245,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1242,
-        "sha256": "5512eac6e8d9c79ca0c3a5682083432e9f68eea6aebf6c9f6eae95d203d9f7a8",
+        "sha256": "6fa6cae9a6c1a3532e5f1cfc32ab9ed481b0bb06e2099680a6872e947127afe8",
         "page_span": [
           271
         ],
@@ -29336,7 +29336,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1275,
-        "sha256": "edd3dd4271a71108947be1e538a2666d988dcb36c7395627949169601177047a",
+        "sha256": "2768295a7da19b6dd6760caf6a65241cfb6afd3d21b0749e0c90831fa2ffb0ae",
         "page_span": [
           272
         ],
@@ -29474,7 +29474,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "b7cf8d0740b1c5c697872411aca8501d76d2be2f8b6fa23d1365318fdd7daca7",
+        "sha256": "bf594b3875732c958cc4fc51c75c49680a1c2f2fa24f8bd638628bd1825dace0",
         "page_span": [
           273
         ],
@@ -29567,7 +29567,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "dfd73b9a20be877b945fa31a1d8770ec2537d02e7c7f7a8a954ab02d54e83ff5",
+        "sha256": "7a879728f05b34dc584ab8bb5f8aca106544ca0f9184e98f0fa4233af0d4278d",
         "page_span": [
           274
         ],
@@ -29663,7 +29663,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1361,
-        "sha256": "38ef734aac8a3d5d3cfe7b905dc3b85e904b8acba655a1927856c6f32e826580",
+        "sha256": "795a8c7856dfdec8cb9daf223d33080bc5bf0e0cf5c5881a8cbba3c1a356a000",
         "page_span": [
           275
         ],
@@ -29855,7 +29855,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1419,
-        "sha256": "68abb68790334d102ee0ab0b5e153d61f93d03d5c8f5ee9b8855b70184a1a5a7",
+        "sha256": "12c04708eb94c7df75ff1545aa3ffec38fe8b9ebd537a43e93f41f0e871e4378",
         "page_span": [
           277
         ],
@@ -29951,7 +29951,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1639,
-        "sha256": "57e42211c18deaa189818ed480a46f052d9adef18ffee1a836d8103c33befacc",
+        "sha256": "4bd10f10effeaee7751ff6059c489baf0e88220b0855154d14c1f108afcebd84",
         "page_span": [
           278
         ],
@@ -30140,7 +30140,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2526,
-        "sha256": "771be1ef92f4b07d9876eb792be22befc7674cc9a140d778ccf6e2ae3ec71383",
+        "sha256": "46ab7a0ade3bbadd0aa3505d93ac76a4f070f42a1a79b4bd6c25b57bfaca5d4a",
         "page_span": [
           280
         ],
@@ -30178,7 +30178,7 @@
           {
             "position": 1,
             "label": "F",
-            "text": "The number of students who selected “armed forces” or “other” is greater for Henderson High School than for Johnson High School."
+            "text": "The number of students who selected \u201carmed forces\u201d or \u201cother\u201d is greater for Henderson High School than for Johnson High School."
           },
           {
             "position": 2,
@@ -30188,7 +30188,7 @@
           {
             "position": 3,
             "label": "H",
-            "text": "The number of students who selected “work” is greater for Johnson High School than for Henderson High School."
+            "text": "The number of students who selected \u201cwork\u201d is greater for Johnson High School than for Henderson High School."
           },
           {
             "position": 4,
@@ -30232,7 +30232,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1444,
-        "sha256": "e1e4fe8dd30d27abb1be01f40a7fd8e0fdf0357c9716d74362564de998fdfa0f",
+        "sha256": "30591e3a7c3b2f86ab77eff419571ddcb6837f2877bd6fb71526aae62021c374",
         "page_span": [
           281
         ],
@@ -30420,7 +30420,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1336,
-        "sha256": "b73f3e39314de8896cc60147a01c1e6390da9c198194ac21cd275bfccbf1ae3c",
+        "sha256": "e6b1b8714d496ee979ef551b9d3a74a1d3c3d7feb66c90b280babaebec70dd31",
         "page_span": [
           283
         ],
@@ -30458,7 +30458,7 @@
           {
             "position": 1,
             "label": "F",
-            "text": "More than 5% of the children chose “other” as the favorite type of cereal."
+            "text": "More than 5% of the children chose \u201cother\u201d as the favorite type of cereal."
           },
           {
             "position": 2,
@@ -30511,7 +30511,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1563,
-        "sha256": "eb23bce086ce2bab563e5a73a74f3739a075a6472032bd420fda697d552dcbc6",
+        "sha256": "1e877d608b2212e9bf21cddcaadf0b15a20adc0f2fd194a2748270a89ba9f248",
         "page_span": [
           284
         ],
@@ -30602,7 +30602,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1889,
-        "sha256": "0ea003be869b7766fec6781d8b04efc2820c1dfc37a5dae0cda388819afc98b8",
+        "sha256": "de0753b8a09e32210019bfb3c876dec52c49e3dc409ef7d68fefbc9460f9b439",
         "page_span": [
           285
         ],
@@ -30791,7 +30791,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2006,
-        "sha256": "1025e2ce331480f6d0e1497c9870e6b68510ad453b389bada751dad8eeb9bf34",
+        "sha256": "7f9f769e60a985b0d20f8fc287fad52d13e16a39ecc13a2528e06433ff183dea",
         "page_span": [
           287
         ],
@@ -30888,7 +30888,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1886,
-        "sha256": "31fee00ac0669eaa20aa7e13b130803402f0cc62a4ba31e0119b9d22292d41bf",
+        "sha256": "3dccc6988ae8c1d1ea862b9dee839301aa02f5f2e0e087df1ecf0debe3ff7aca",
         "page_span": [
           288
         ],
@@ -31044,7 +31044,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Histogram titled 'Miles Driven Last Week' showing number of customers for distance ranges 0-49, 50-99, 100-149, 150-199, and ≥200."
+          "Histogram titled 'Miles Driven Last Week' showing number of customers for distance ranges 0-49, 50-99, 100-149, 150-199, and \u2265200."
         ]
       },
       "answer_key": {
@@ -31081,7 +31081,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1518,
-        "sha256": "31a3879388af99aaa760ee3abbedf3266932a4ec3175de7426f106c4275b367d",
+        "sha256": "8c4d80eafc6ff730b962c899702bf5b4355760b4d52e1c13a8fa047e42e8b266",
         "page_span": [
           290
         ],
@@ -31210,7 +31210,7 @@
         }
       },
       "question": {
-        "stem": "The dot plot shows the results of a survey where people were asked the number of trips they had taken to a movie theater in the last year. Movie Theater Survey Each ● means 1 person. Which statement best describes the data represented in the dot plot?",
+        "stem": "The dot plot shows the results of a survey where people were asked the number of trips they had taken to a movie theater in the last year. Movie Theater Survey Each \u25cf means 1 person. Which statement best describes the data represented in the dot plot?",
         "instruction": null,
         "options": [
           {
@@ -31543,7 +31543,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1359,
-        "sha256": "a9448b3b9fc05fbbb3d77703f70eac39dc0b96b9e884f53bf2cfb3bc90e1c95d",
+        "sha256": "f82d21a5f78c7ff0928776d9b8e0a4d316919fe0c8e2d488d06d8c8a0be3810d",
         "page_span": [
           295
         ],
@@ -31581,12 +31581,12 @@
           {
             "position": 1,
             "label": "F",
-            "text": "There are 5 employees who have been at their current position for 30–35 months."
+            "text": "There are 5 employees who have been at their current position for 30\u201335 months."
           },
           {
             "position": 2,
             "label": "G",
-            "text": "There are 6–11 employees who have been at their current position for 15 months."
+            "text": "There are 6\u201311 employees who have been at their current position for 15 months."
           },
           {
             "position": 3,
@@ -31602,14 +31602,14 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Histogram with title 'Time at Current Position'; X-axis labeled 'Time (months)' with bins 0–5, 6–11, 12–17, 18–23, 24–29, 30–35; Y-axis labeled 'Number of Employees' with values from 0 to 45; Bars heights approximately: 40 for 0–5, 15 for 6–11, 35 for 12–17, 45 for 18–23, 20 for 24–29, 5 for 30–35."
+          "Histogram with title 'Time at Current Position'; X-axis labeled 'Time (months)' with bins 0\u20135, 6\u201311, 12\u201317, 18\u201323, 24\u201329, 30\u201335; Y-axis labeled 'Number of Employees' with values from 0 to 45; Bars heights approximately: 40 for 0\u20135, 15 for 6\u201311, 35 for 12\u201317, 45 for 18\u201323, 20 for 24\u201329, 5 for 30\u201335."
         ]
       },
       "answer_key": {
         "raw_pdf_answer_text": "Correct Answer (F)",
         "answer_format": "single_choice_label",
         "correct_label": "F",
-        "correct_text": "There are 5 employees who have been at their current position for 30–35 months."
+        "correct_text": "There are 5 employees who have been at their current position for 30\u201335 months."
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -31634,7 +31634,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1223,
-        "sha256": "7c9d0fcdfcd11075caa886c1e3b0d74af13271b8a45ab9335b1ab556405c0351",
+        "sha256": "52bfe37f8577cd1117901346e99e36f419dfe4eb8bcbab0ff33680734758800f",
         "page_span": [
           296
         ],
@@ -31682,12 +31682,12 @@
           {
             "position": 3,
             "label": "H",
-            "text": "Approximately 25% of the finishing times were in the interval 20–22 minutes."
+            "text": "Approximately 25% of the finishing times were in the interval 20\u201322 minutes."
           },
           {
             "position": 4,
             "label": "J",
-            "text": "Approximately \\( \\frac{3}{4} \\) of the finishing times were in the interval 15–30 minutes."
+            "text": "Approximately \\( \\frac{3}{4} \\) of the finishing times were in the interval 15\u201330 minutes."
           }
         ],
         "choice_pool": [],
@@ -31700,7 +31700,7 @@
         "raw_pdf_answer_text": "Correct Answer (H)",
         "answer_format": "single_choice_label",
         "correct_label": "H",
-        "correct_text": "Approximately 25% of the finishing times were in the interval 20–22 minutes."
+        "correct_text": "Approximately 25% of the finishing times were in the interval 20\u201322 minutes."
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -31725,7 +31725,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "a2fbde56c01ed09c5c4ab8a4043737bdc1385f065a6386fcdd5127ca368dc6c2",
+        "sha256": "c6bd52e21b7f39410756acce9d3af4d9c10e2f1364af182621de5a729062838d",
         "page_span": [
           296
         ],
@@ -31757,7 +31757,7 @@
         }
       },
       "question": {
-        "stem": "The dot plot shows the wing lengths in millimeters for ten birds. Wing Lengths of Birds 46 • 47 • 48 •••• 49 • 50 51 • 52 53 •• 54 • Wing Length (millimeters) Which statement is supported by the data in the dot plot?",
+        "stem": "The dot plot shows the wing lengths in millimeters for ten birds. Wing Lengths of Birds 46 \u2022 47 \u2022 48 \u2022\u2022\u2022\u2022 49 \u2022 50 51 \u2022 52 53 \u2022\u2022 54 \u2022 Wing Length (millimeters) Which statement is supported by the data in the dot plot?",
         "instruction": null,
         "options": [
           {
@@ -31816,7 +31816,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1223,
-        "sha256": "bc79fb052bb4297244c9f22159e2b6a45e2d14f8a2387cbbb11c8a7e74721b04",
+        "sha256": "2fcd6e2758711acba6f82080f6051d445777d987c6da90907bc8c7502ee34b12",
         "page_span": [
           297
         ],
@@ -32089,7 +32089,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1223,
-        "sha256": "502f01de26190010fa3fd82816c3284717196d1070a7a1f478b130db1eb4a69e",
+        "sha256": "fed6f1258de40f665eb89a69a811122bb24261c2b0e8bb7b9c7e42da5c800f16",
         "page_span": [
           298
         ],
@@ -32185,7 +32185,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1458,
-        "sha256": "235e018c55628536f8e195f7650f90d6ef4fbd95a541ca99a68d7ace4062a534",
+        "sha256": "85a99866d5c8107049e83a9d8843fce339be9c172e8f040037b78b82d40a86a2",
         "page_span": [
           299
         ],
@@ -32249,9 +32249,9 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Histogram with x-axis labeled 'Age (years)' with intervals 18–24, 25–31, 32–38, 39–45, 46–52, 53–59, 60–66, 67–73",
+          "Histogram with x-axis labeled 'Age (years)' with intervals 18\u201324, 25\u201331, 32\u201338, 39\u201345, 46\u201352, 53\u201359, 60\u201366, 67\u201373",
           "y-axis labeled 'Number of Members' from 0 to 50 in increments of 5",
-          "Bar heights at 18–24: 15, 25–31: 20, 32–38: 5, 39–45: 10, 46–52: 30, 53–59: 0, 60–66: 5, 67–73: 15"
+          "Bar heights at 18\u201324: 15, 25\u201331: 20, 32\u201338: 5, 39\u201345: 10, 46\u201352: 30, 53\u201359: 0, 60\u201366: 5, 67\u201373: 15"
         ]
       },
       "answer_key": {
@@ -32283,7 +32283,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1460,
-        "sha256": "8298631b597d97878ba2931595192103f564e0dcb966758c48c154840c7be28f",
+        "sha256": "9da53bf24301f61d487880d03ca611dd596e512859be3f4517889fbb812de242",
         "page_span": [
           300
         ],
@@ -32379,7 +32379,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "1864fe9497686d9d99c20205a55c3414f7668ae04c498cb1a0f48b7a600dbf29",
+        "sha256": "3ee427bf87b39c03ba097c67aa7c971bb596af4d38d9dcc95e0947a7da643d3c",
         "page_span": [
           301
         ],
@@ -32571,7 +32571,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1467,
-        "sha256": "0c188ac9c4e6242cea77fd20a94d3d63a013cebaf8494984b2437093cffb3828",
+        "sha256": "02ec8b00f08e18f7f99b9df5c4a735b115bc787bd47e21952618bf11649f180a",
         "page_span": [
           304
         ],
@@ -32667,7 +32667,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1208,
-        "sha256": "27637e992b1343bacb9e43e5681683412e0877407de3d0f4e713f0a867f38e60",
+        "sha256": "48bfb814327c4531ee2fcedb9a479da6ba15deaa5103f0131e8e3f440fc5509a",
         "page_span": [
           305
         ],
@@ -32720,7 +32720,7 @@
           {
             "position": 3,
             "label": "C",
-            "text": "The fee at Bank Y will be more than the fee at Bank Z only when a customer’s balance is more than $500."
+            "text": "The fee at Bank Y will be more than the fee at Bank Z only when a customer\u2019s balance is more than $500."
           },
           {
             "position": 4,
@@ -32738,7 +32738,7 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "The fee at Bank Y will be more than the fee at Bank Z only when a customer’s balance is more than $500."
+        "correct_text": "The fee at Bank Y will be more than the fee at Bank Z only when a customer\u2019s balance is more than $500."
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -33254,7 +33254,7 @@
         }
       },
       "question": {
-        "stem": "The beginning balance in Ms. Kar’s checking account on August 22 was $563.18. She made some withdrawals and deposits over the next few days but forgot to enter some of the information in her check register. Which two amounts are missing from Ms. Kar’s check register?",
+        "stem": "The beginning balance in Ms. Kar\u2019s checking account on August 22 was $563.18. She made some withdrawals and deposits over the next few days but forgot to enter some of the information in her check register. Which two amounts are missing from Ms. Kar\u2019s check register?",
         "instruction": "Move the correct answer to each box in the table. Not all answers will be used.",
         "options": [
           {
@@ -33331,7 +33331,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1371,
-        "sha256": "0ec57709d6e9578d08dec8fb22b5f2338ee10364bdb1d9b0772fc4766d075640",
+        "sha256": "a9e0c41628bf6d8903574d10cf735f582d53f61cbc94015959c8490ba9461e7f",
         "page_span": [
           310
         ],
@@ -33369,7 +33369,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Table titled 'Taquan’s Check Register' with columns: Date, Description, Deposit (dollars), Withdrawal (dollars), Balance (dollars). Rows: blank, blank, blank, 1,094.80; 3/24, Utility Payment, blank, 193.66, blank; blank; 3/26, Gift, 50.00, blank, blank; blank; 3/28, Rent, blank, 650.00, blank; blank; 3/29, Paycheck, 842.75, blank, blank"
+          "Table titled 'Taquan\u2019s Check Register' with columns: Date, Description, Deposit (dollars), Withdrawal (dollars), Balance (dollars). Rows: blank, blank, blank, 1,094.80; 3/24, Utility Payment, blank, 193.66, blank; blank; 3/26, Gift, 50.00, blank, blank; blank; 3/28, Rent, blank, 650.00, blank; blank; 3/29, Paycheck, 842.75, blank, blank"
         ]
       },
       "answer_key": {
@@ -33400,7 +33400,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1306,
-        "sha256": "313c2d48e0ce52778e4a8c515dcac6ce75a6ba857e254a72ddecde53c833bfdb",
+        "sha256": "a31863f018206f4869109ab21f70a2fd84302eb8e63ba6d6aaa11761071b72db",
         "page_span": [
           311
         ],
@@ -33432,13 +33432,13 @@
         }
       },
       "question": {
-        "stem": "Based on the information in the check register, what was the balance of Raúl’s checking account after the transaction on April 13 in dollars and cents?",
+        "stem": "Based on the information in the check register, what was the balance of Ra\u00fal\u2019s checking account after the transaction on April 13 in dollars and cents?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Raúl’s Check Register Table with transactions dated 4/2 (Gas debit card withdrawal 35.50), 4/6 (Shirt check withdrawal 23.75), and 4/13 (Money from Mom check deposit 55.00). Starting balance on 4/2 is 539.50."
+          "Ra\u00fal\u2019s Check Register Table with transactions dated 4/2 (Gas debit card withdrawal 35.50), 4/6 (Shirt check withdrawal 23.75), and 4/13 (Money from Mom check deposit 55.00). Starting balance on 4/2 is 539.50."
         ]
       },
       "answer_key": {
@@ -33469,7 +33469,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "b6e1c06b85f72e275bf3b1948214ae04dc742f3bc90ff2c76a505b696d601fd2",
+        "sha256": "2a990d8a0725fa680d09469c2e55cb69ef51e0c42fd432f733782e6c67df8a36",
         "page_span": [
           311
         ],
@@ -33543,7 +33543,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1290,
-        "sha256": "72afeda9f27ab1a90cc45b71160ea17bdea4da4c017d92bf23a59a422f327d33",
+        "sha256": "4ece3c8fd19af9f7ef86bbf1f2b8e662549418e61a6944926767d06974ef8d2d",
         "page_span": [
           312
         ],
@@ -33607,7 +33607,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Ms. Garcia's Check Register table with columns: Date, Description, Deposits (dollars), Withdrawals (dollars), Transfers (dollars), Balance (dollars). Rows: [10/3, Transfer from savings account, , , 1,100.00, ], [10/5, Paycheck, 2,500.00, , , ], [10/5, Check #1 (dentist), , 225.00, , ], [10/7, Check #2 (phone bill), , 70.00, , ], [10/9, Mortgage payment, , 990.00, , ], [10/11, ATM—cash, , 220.00, , ]"
+          "Ms. Garcia's Check Register table with columns: Date, Description, Deposits (dollars), Withdrawals (dollars), Transfers (dollars), Balance (dollars). Rows: [10/3, Transfer from savings account, , , 1,100.00, ], [10/5, Paycheck, 2,500.00, , , ], [10/5, Check #1 (dentist), , 225.00, , ], [10/7, Check #2 (phone bill), , 70.00, , ], [10/9, Mortgage payment, , 990.00, , ], [10/11, ATM\u2014cash, , 220.00, , ]"
         ]
       },
       "answer_key": {
@@ -33639,7 +33639,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1253,
-        "sha256": "8dd841f4d5b031443154f8b1ef6cb3fe0bba60043432c68b941c875de67c1c9b",
+        "sha256": "acccd47f08d2795b2ac4a5fcbbe6779cfb3ddaf24a4cbe07eddd3ccad4181967",
         "page_span": [
           313
         ],
@@ -33698,7 +33698,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2023 – Q1"
+          "2023 \u2013 Q1"
         ]
       },
       "answer_key": {
@@ -33730,7 +33730,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1224,
-        "sha256": "c33ef70092ad70f966a7faeca1c1adb2377d087b80d0a89d5552bf867f2ec3fb",
+        "sha256": "7eb182ad30b4a61c7e5076368f192e02c81a27057e5c79378d553fcf18b114ad",
         "page_span": [
           314
         ],
@@ -33914,7 +33914,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1184,
-        "sha256": "053efb11000a4cdbde6766abb1b37dc5af695133cd4ffbf7d5f85177c09e145e",
+        "sha256": "c300c81f3300ebcb2b36b67bae8cf35f2b3a59d37beba923eb0cf2a5df80a2e6",
         "page_span": [
           315
         ],
@@ -34003,7 +34003,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1224,
-        "sha256": "9b35f78d1f791becddca8ae377447d8a4ce839a0e044a2d3bea87d65024201c8",
+        "sha256": "7a24d51d8ea975498bee53e909653c30df869ae06e19dbbf90a10baf9539a1ab",
         "page_span": [
           316
         ],
@@ -34035,7 +34035,7 @@
         }
       },
       "question": {
-        "stem": "Mia’s financial aid package from a college included funds from the government. After graduation Mia will start to repay these funds along with interest accrued on the money. What type of funds did Mia receive from the government?",
+        "stem": "Mia\u2019s financial aid package from a college included funds from the government. After graduation Mia will start to repay these funds along with interest accrued on the money. What type of funds did Mia receive from the government?",
         "instruction": null,
         "options": [
           {
@@ -34100,7 +34100,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "6159407ecb4653a8bba789c929a28c1bb38a5832d63a364bff825017415a74d6",
+        "sha256": "73723e988c499800a3e1882a8c4bca418fa8a1f2bdcf895bd4af3a86a5d4f7f3",
         "page_span": [
           317
         ],
@@ -34376,7 +34376,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "e9d4e7e4ec5e38f2de9edb8ddb7bceef0e089ebe4b0f8b74ed9e2ca876c3257b",
+        "sha256": "e23ec6a93150860590ee1f298f448d70ddee923409b723baf6cec69e987e5b44",
         "page_span": [
           320
         ],
@@ -34467,7 +34467,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1230,
-        "sha256": "6024ffa1b3247d1ba84f870c3b1f398a848885cbca99211334c027bea3408b8b",
+        "sha256": "11366958a61e43b213ad0e92eee3daac1621e24079add781362d2092c684b2f8",
         "page_span": [
           320
         ],
@@ -34499,7 +34499,7 @@
         }
       },
       "question": {
-        "stem": "Yvonne is researching the effect of education on annual income. A summary of her research is shown in the table. Effect of Education on Annual Income | Level of Education | Annual Income (dollars) | |------------------------|-------------------------| | High school diploma | 33,904 | | Associate’s degree | 40,820 | | Bachelor’s degree | 55,432 | Based on the data in the table, how much more does a person with an associate’s degree earn than a person with only a high school diploma over 10 years?",
+        "stem": "Yvonne is researching the effect of education on annual income. A summary of her research is shown in the table. Effect of Education on Annual Income | Level of Education | Annual Income (dollars) | |------------------------|-------------------------| | High school diploma | 33,904 | | Associate\u2019s degree | 40,820 | | Bachelor\u2019s degree | 55,432 | Based on the data in the table, how much more does a person with an associate\u2019s degree earn than a person with only a high school diploma over 10 years?",
         "instruction": null,
         "options": [
           {
@@ -34526,7 +34526,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Effect of Education on Annual Income table with data for High school diploma: $33,904; Associate’s degree: $40,820; Bachelor’s degree: $55,432"
+          "Effect of Education on Annual Income table with data for High school diploma: $33,904; Associate\u2019s degree: $40,820; Bachelor\u2019s degree: $55,432"
         ]
       },
       "answer_key": {
@@ -34558,7 +34558,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1249,
-        "sha256": "bd1cc69005eb2486956504948827fe54de524d597234bb2c925d5ed0bdeb8348",
+        "sha256": "4d469013ecc1c8d04f53b465bf1dde424252377fea208ec947978e7e487e5a89",
         "page_span": [
           321
         ],
@@ -34654,7 +34654,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1198,
-        "sha256": "5fe1b3c6d6febb89d2b0eb60224b145a9af0ca3c93ee8b71bc9fef9fcc9d7581",
+        "sha256": "a5a50f32108fb8a215bec60299d253f16ce09e86197678537680ad01eea2b6c1",
         "page_span": [
           322
         ],

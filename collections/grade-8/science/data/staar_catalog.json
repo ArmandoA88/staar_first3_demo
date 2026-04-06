@@ -27,7 +27,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "e5a1bf94ce524746b43d216f193b80c62b1065926c730d832439c133e457685c",
+        "sha256": "7c9493052912e88c1362d17c95d4f9e6261a0d8b7bb9fdc379dcc50cf703e67e",
         "page_span": [
           4
         ],
@@ -59,7 +59,7 @@
         }
       },
       "question": {
-        "stem": "A chemical equation is shown. 2H₂O₂ ⟶ 2H₂O + O₂ Liquid Liquid Oxygen hydrogen water gas peroxide Which statement correctly compares the number of atoms in the reactant and in the products?",
+        "stem": "A chemical equation is shown. 2H\u2082O\u2082 \u27f6 2H\u2082O + O\u2082 Liquid Liquid Oxygen hydrogen water gas peroxide Which statement correctly compares the number of atoms in the reactant and in the products?",
         "instruction": null,
         "options": [
           {
@@ -86,7 +86,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2H₂O₂ ⟶ 2H₂O + O₂ Liquid hydrogen peroxide Liquid water Oxygen gas"
+          "2H\u2082O\u2082 \u27f6 2H\u2082O + O\u2082 Liquid hydrogen peroxide Liquid water Oxygen gas"
         ]
       },
       "answer_key": {
@@ -123,7 +123,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1254,
-        "sha256": "8da8e2628aa8c095b69265677c3bda130515c4705fec58fd3b7d4bf36d82ec2e",
+        "sha256": "c7bc59493b01c97ddafdda2549545ca7511e1db88cdcd5ec4857697aef8ac72f",
         "page_span": [
           5
         ],
@@ -224,7 +224,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "5ea5c7207e876741147579e78ef6ecc7a52f3ce5f43f410111cf7f9197ff88cf",
+        "sha256": "4a23482d7f53f4753c57469011e4c19ed524e0bb1f616796565171d47cef47b3",
         "page_span": [
           6
         ],
@@ -256,7 +256,7 @@
         }
       },
       "question": {
-        "stem": "An equation for a chemical reaction is shown. NaOH + HCl → NaCl + H₂O Which statement provides evidence that mass is conserved in the reaction?",
+        "stem": "An equation for a chemical reaction is shown. NaOH + HCl \u2192 NaCl + H\u2082O Which statement provides evidence that mass is conserved in the reaction?",
         "instruction": null,
         "options": [
           {
@@ -283,7 +283,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "NaOH + HCl → NaCl + H₂O"
+          "NaOH + HCl \u2192 NaCl + H\u2082O"
         ]
       },
       "answer_key": {
@@ -320,7 +320,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1254,
-        "sha256": "b0895b9330ef582d43c20c8999392d1944123c7a1bcb3a82f3c5960b7e269d38",
+        "sha256": "b5c6a0e387d2346adfe1d2ed965e06012bf88a5bf2223553784abba890f7e17c",
         "page_span": [
           7
         ],
@@ -352,7 +352,7 @@
         }
       },
       "question": {
-        "stem": "A chemical equation for the reaction between calcium hydroxide, Ca(OH)₂, and sulfuric acid, H₂SO₄, is shown. The masses of some of the reactants and products are given in grams. Ca(OH)₂ + H₂SO₄ → CaSO₄ + 2H₂O 74 g ? 136 g 36 g How many grams of sulfuric acid were used in the reaction?",
+        "stem": "A chemical equation for the reaction between calcium hydroxide, Ca(OH)\u2082, and sulfuric acid, H\u2082SO\u2084, is shown. The masses of some of the reactants and products are given in grams. Ca(OH)\u2082 + H\u2082SO\u2084 \u2192 CaSO\u2084 + 2H\u2082O 74 g ? 136 g 36 g How many grams of sulfuric acid were used in the reaction?",
         "instruction": "Select the correct amount of sulfuric acid used in the reaction.",
         "options": [
           {
@@ -379,7 +379,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Chemical equation showing Ca(OH)₂ + H₂SO₄ → CaSO₄ + 2H₂O, with masses 74 g, ?, 136 g, and 36 g respectively."
+          "Chemical equation showing Ca(OH)\u2082 + H\u2082SO\u2084 \u2192 CaSO\u2084 + 2H\u2082O, with masses 74 g, ?, 136 g, and 36 g respectively."
         ]
       },
       "answer_key": {
@@ -411,7 +411,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1254,
-        "sha256": "f37c0491bb64846eaa012071a34261fe228037713a9e26b0e62a437e80f39098",
+        "sha256": "a084956c98abc3e7698730dfa17647023037002c4208e661a1b0756e7315b9ee",
         "page_span": [
           8
         ],
@@ -470,7 +470,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2023 – Q33",
+          "2023 \u2013 Q33",
           "A pan of water was heated on a stove, and steam formed.",
           "A liquid was mixed with another liquid, and a precipitate formed.",
           "A liquid was sprayed into the air, and a sweet odor was smelled.",
@@ -506,7 +506,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "dea731b9c76cc6b3c5eeba6f3c18183632fee30b454dfe3302d91539d5ed6195",
+        "sha256": "1bd98ed63b78f2fec84c761f78f995aa4f76f828eeafa173771783733d174497",
         "page_span": [
           9
         ],
@@ -595,7 +595,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1577,
-        "sha256": "fa203d6349fc46de121a36bb592d76f4034d834272edb89dcff2b7544bde264e",
+        "sha256": "34c5214de656db41fcd4ecc1b05aa8cb45628bdacb712939926dc3e3def39fc4",
         "page_span": [
           10
         ],
@@ -686,7 +686,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1199,
-        "sha256": "bc622f4eb34e7892deed44b909e5ff8be8b3ca46ec311c8533f10e1acbc6605e",
+        "sha256": "0bc9af0f78970e9b58a00b2a50317851b2fd83358a2e14d1b8b76f3969f54dac",
         "page_span": [
           11
         ],
@@ -779,7 +779,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "b15295b3b1f1a19cec587739bb778e219b02ec4480a337c68d552ad73d90f22d",
+        "sha256": "85c34863a149ac7177ab790c192670de5454b1bb9954de6ed9af5e57650eedff",
         "page_span": [
           12
         ],
@@ -813,7 +813,7 @@
         }
       },
       "question": {
-        "stem": "Two solutions are mixed and react to produce the solid precipitate AgCl. The chemical reaction is shown by the balanced chemical equation. AgNO₃ + NaCl → AgCl + NaNO₃ What happens to the total mass as the reaction takes place?",
+        "stem": "Two solutions are mixed and react to produce the solid precipitate AgCl. The chemical reaction is shown by the balanced chemical equation. AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083 What happens to the total mass as the reaction takes place?",
         "instruction": null,
         "options": [
           {
@@ -872,7 +872,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "28ea2c3e06a8f22b28060afc76aa57595f30ec936eeed9a3458816289331c999",
+        "sha256": "72cd9ac9f7290b56ab48fe78ec975724489bdcc53e21a13497504d8d9d7bd9be",
         "page_span": [
           13
         ],
@@ -961,7 +961,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1218,
-        "sha256": "1c577cf8c71a3208ac9e7a56d3a025a837c3c848658778d8bf13610f7fe26a76",
+        "sha256": "184bd53dca0e9e89a8cf197b85288414a8ab539ed74cae872618e96cfdc9d997",
         "page_span": [
           14
         ],
@@ -993,7 +993,7 @@
         }
       },
       "question": {
-        "stem": "The chemical formula for acetic acid is CH₃COOH. How many hydrogen atoms are in one molecule of acetic acid?",
+        "stem": "The chemical formula for acetic acid is CH\u2083COOH. How many hydrogen atoms are in one molecule of acetic acid?",
         "instruction": null,
         "options": [
           {
@@ -1020,7 +1020,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "CH₃COOH"
+          "CH\u2083COOH"
         ]
       },
       "answer_key": {
@@ -1057,7 +1057,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1240,
-        "sha256": "9f61069a4d8016149bd38399d6a75f610f3e031c38953269af41321cea774a27",
+        "sha256": "2991a38a5a4997903c322b1a7fc07ec92a0294f368c7f9db4a5e5b396b7e58f6",
         "page_span": [
           15
         ],
@@ -1089,7 +1089,7 @@
         }
       },
       "question": {
-        "stem": "Which statement is an accurate comparison of the formula for ammonia (NH₃) and the formula for sodium hydroxide (NaOH)?",
+        "stem": "Which statement is an accurate comparison of the formula for ammonia (NH\u2083) and the formula for sodium hydroxide (NaOH)?",
         "instruction": null,
         "options": [
           {
@@ -1146,7 +1146,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1239,
-        "sha256": "0f382791b4f35479bdcd6831cdb7eafd8b20add4909db39daf5bebc59c394a05",
+        "sha256": "50d9318fb57e373fed61366cd819e87fad965ffb523a46cc2998d6bb54ded621",
         "page_span": [
           15
         ],
@@ -1178,7 +1178,7 @@
         }
       },
       "question": {
-        "stem": "The mineral albite is composed of four elements and has the chemical formula NaAlSi₃O₈. Which of these elements does albite contain?",
+        "stem": "The mineral albite is composed of four elements and has the chemical formula NaAlSi\u2083O\u2088. Which of these elements does albite contain?",
         "instruction": null,
         "options": [
           {
@@ -1240,7 +1240,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "c6fd2d58d56958c839abec3cc1a50badf8f7af97a81221e4c7e70399db6eb6b8",
+        "sha256": "10c9c58ae1c02b29ee0ee4b7c06dc79c3fa1516f677d43c8cbf5403feada4c00",
         "page_span": [
           16
         ],
@@ -1272,7 +1272,7 @@
         }
       },
       "question": {
-        "stem": "The chemical formula for methane is CH₄. Which statement describes the atoms present in FOUR molecules of methane?",
+        "stem": "The chemical formula for methane is CH\u2084. Which statement describes the atoms present in FOUR molecules of methane?",
         "instruction": null,
         "options": [
           {
@@ -1334,7 +1334,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1187,
-        "sha256": "db4efc450294ecddb6c44ea01bd5c5e36c946323bcfa99aca94bb9c96a60a8d9",
+        "sha256": "9e9f3fb083add5170f54a41a1a4bf9645e0b65777c6dac810f03149b76d55658",
         "page_span": [
           17
         ],
@@ -1366,13 +1366,13 @@
         }
       },
       "question": {
-        "stem": "Sodium sulfate (Na₂SO₄) is used to produce many products. Which elements are represented in the formula AND how many atoms of each element are represented in the formula?",
+        "stem": "Sodium sulfate (Na\u2082SO\u2084) is used to produce many products. Which elements are represented in the formula AND how many atoms of each element are represented in the formula?",
         "instruction": "Read the question carefully. Then enter your answer in the box provided.",
         "options": [],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Na₂SO₄"
+          "Na\u2082SO\u2084"
         ]
       },
       "answer_key": {
@@ -1403,7 +1403,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1184,
-        "sha256": "85108afbbb5e94edb400e17029c17e05246d528361cca0cafda8496246b30767",
+        "sha256": "339cbc8febc112c32eccf4163bb433f822417f60d586454289a12f8b5017465e",
         "page_span": [
           18
         ],
@@ -1443,22 +1443,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "NH4Cl + KOH → NH3 + H2O + KCl"
+            "text": "NH4Cl + KOH \u2192 NH3 + H2O + KCl"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "2Na + 2 H2O → 2NaOH + H2"
+            "text": "2Na + 2 H2O \u2192 2NaOH + H2"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "2 C2H6 + 7 O2 → 4 CO2 + 6 H2O"
+            "text": "2 C2H6 + 7 O2 \u2192 4 CO2 + 6 H2O"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "4 Fe + 3 O2 → 2 Fe2O3"
+            "text": "4 Fe + 3 O2 \u2192 2 Fe2O3"
           }
         ],
         "choice_pool": [],
@@ -1469,7 +1469,7 @@
         "raw_pdf_answer_text": "Correct Answer (H )",
         "answer_format": "single_choice_label",
         "correct_label": "H",
-        "correct_text": "2 C2H6 + 7 O2 → 4 CO2 + 6 H2O"
+        "correct_text": "2 C2H6 + 7 O2 \u2192 4 CO2 + 6 H2O"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -1494,7 +1494,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "11433daebd44674fb9fbe316fe954dfa96530b14c5765494ef9514999a6f092b",
+        "sha256": "21a3ce92e81c63b0e5a938d65d63ebcf2dde61a6fc8a033936e6145bafeb1196",
         "page_span": [
           19
         ],
@@ -1526,7 +1526,7 @@
         }
       },
       "question": {
-        "stem": "The names and chemical formulas of four substances are shown in the chart. Substance Formulas Name Chemical Formula Carbonic acid H₂CO₃ Nitric acid HNO₃ Phosphoric acid H₃PO₄ Sulfuric acid H₂SO₄ Which substance listed in the chart is made up of the most atoms?",
+        "stem": "The names and chemical formulas of four substances are shown in the chart. Substance Formulas Name Chemical Formula Carbonic acid H\u2082CO\u2083 Nitric acid HNO\u2083 Phosphoric acid H\u2083PO\u2084 Sulfuric acid H\u2082SO\u2084 Which substance listed in the chart is made up of the most atoms?",
         "instruction": null,
         "options": [
           {
@@ -1585,7 +1585,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1184,
-        "sha256": "82d3ad7eb38985a2c4916c24f7624e471609e88b87099de32dc88e861c7d3b57",
+        "sha256": "572270e290f2f3a96a806bd1f80b65ed443ef264d5e8a365ecaffb63fd9df8d3",
         "page_span": [
           20
         ],
@@ -1617,7 +1617,7 @@
         }
       },
       "question": {
-        "stem": "A compound secreted by honeybees to paralyze intruders in their hive is known as 2-heptanone. The formula for this compound is shown. CH₃ C₄H₈ COCH₃ How many atoms of each element are in one molecule of 2-heptanone?",
+        "stem": "A compound secreted by honeybees to paralyze intruders in their hive is known as 2-heptanone. The formula for this compound is shown. CH\u2083 C\u2084H\u2088 COCH\u2083 How many atoms of each element are in one molecule of 2-heptanone?",
         "instruction": null,
         "options": [
           {
@@ -1644,7 +1644,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "CH₃ C₄H₈ COCH₃"
+          "CH\u2083 C\u2084H\u2088 COCH\u2083"
         ]
       },
       "answer_key": {
@@ -1676,7 +1676,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1184,
-        "sha256": "4043ef0e668ec6e0b57a18a436308f9d4ba72ee242b10e4abf49391c7ebc327d",
+        "sha256": "84b463655d6bcc03ec201480440a8e4ea2772be539194d7f7d3f6a8dcd4a029d",
         "page_span": [
           21
         ],
@@ -1710,14 +1710,14 @@
         }
       },
       "question": {
-        "stem": "Barium sulfate, BaSO₄, is a white crystalline solid that is insoluble in water. It is used by doctors to diagnose problems with the digestive system. Barium hydroxide, Ba(OH)₂, is also a white crystalline solid and is used in wastewater treatment. How many more oxygen atoms are represented in the formula for barium sulfate than in the formula for barium hydroxide?",
+        "stem": "Barium sulfate, BaSO\u2084, is a white crystalline solid that is insoluble in water. It is used by doctors to diagnose problems with the digestive system. Barium hydroxide, Ba(OH)\u2082, is also a white crystalline solid and is used in wastewater treatment. How many more oxygen atoms are represented in the formula for barium sulfate than in the formula for barium hydroxide?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "BaSO₄",
-          "Ba(OH)₂"
+          "BaSO\u2084",
+          "Ba(OH)\u2082"
         ]
       },
       "answer_key": {
@@ -1748,7 +1748,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1218,
-        "sha256": "8f3b0464b742e08573c249d5d13352187b77c8ac1f675b95a05577d87176bdca",
+        "sha256": "e4231e46bcbb62e9e3d32781c9f52885cd5854402eb48c5017939ff913b9d23f",
         "page_span": [
           22
         ],
@@ -1842,7 +1842,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1261,
-        "sha256": "fcd137b386199605daec8a54dd3aa509b9176ecc852d5bd61b1ef0d57d8bbe38",
+        "sha256": "bc5ef468c31e5d952c755777ec80513ae7df0b21d602f01baa04243ad4d3edb7",
         "page_span": [
           23
         ],
@@ -1909,7 +1909,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1607,
-        "sha256": "695b5332edb4433a66d3d01a3380645c04a8d0f5c3b4c33869167df28ad91438",
+        "sha256": "1b075ec03470dc738769cc494dfb97d0f437090f854d51293965014bdc15ef95",
         "page_span": [
           24
         ],
@@ -2002,7 +2002,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1225,
-        "sha256": "fe267b7a1a7d1df5dfd6a1a5cf63e0bb9b363e8e613e96413cabc9dc5cc0523d",
+        "sha256": "fc1576e75419dec52e25778c4fefe9911fb783ceb540fc6b5f31f9abbada834e",
         "page_span": [
           25
         ],
@@ -2099,7 +2099,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1207,
-        "sha256": "43cdef9918a1277f5a8df0c0cf175f0b435af4fc79c0079dffeb35197bab7299",
+        "sha256": "62a29b7b0b5251ffa4fe2519f11a8a58ee575c89ef21e78ea57d6479710fa437",
         "page_span": [
           25
         ],
@@ -2192,7 +2192,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2173,
-        "sha256": "27e8f25ef7cc22e24559247809ced85c9146bb22b893cafccba1b19bbcd8e396",
+        "sha256": "95f0b7c1122f7d93bcae18870a46bcad5c0d4a89bc865152c7645f9c24531a24",
         "page_span": [
           27
         ],
@@ -2224,7 +2224,7 @@
         }
       },
       "question": {
-        "stem": "An element has these properties: • is ductile • has a shiny luster • is solid at room temperature • is a good conductor of thermal energy Which element has the properties listed?",
+        "stem": "An element has these properties: \u2022 is ductile \u2022 has a shiny luster \u2022 is solid at room temperature \u2022 is a good conductor of thermal energy Which element has the properties listed?",
         "instruction": null,
         "options": [
           {
@@ -2286,7 +2286,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1263,
-        "sha256": "8678c6e0f47e2e68268056d51455dca2385ec38b9affcec2bd2827e976b533b4",
+        "sha256": "3e009629ce3feef23eb7022f4b010410922ee03af3716267cba436c142f32379",
         "page_span": [
           28
         ],
@@ -2318,7 +2318,7 @@
         }
       },
       "question": {
-        "stem": "Students examined the properties of five different elements and recorded observations about their properties in the table. Based on the students’ observations, classify each sample as a metal, nonmetal, or metalloid.",
+        "stem": "Students examined the properties of five different elements and recorded observations about their properties in the table. Based on the students\u2019 observations, classify each sample as a metal, nonmetal, or metalloid.",
         "instruction": "Move the correct answer to each box. Each answer may be used more than once.",
         "options": [
           {
@@ -2375,7 +2375,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1458,
-        "sha256": "ceccb9884eb5359b535af71555ad19700590372da311f0291bc6e56292e774f7",
+        "sha256": "3fc3a5b1911661705d07e8d39a0ae5f5e48a0a6baf0b3fc61a533416b7f28397",
         "page_span": [
           29
         ],
@@ -2468,7 +2468,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "025029ef0cb59902914482eb3b5296afa0dc13252b30461035ccddefeaab51b8",
+        "sha256": "80926f03eefac78b279ee75c87b0cb753e7532b93b8d689e94320de6ec8a078b",
         "page_span": [
           30
         ],
@@ -2559,7 +2559,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "d8954d05aa33b0e411c433b197f12a3c3ea78957b5ba281185f9ed5296c795a7",
+        "sha256": "ffe8e9c5315acf9e3b7e66d707c480e95c32125256676348af893e30b28d453a",
         "page_span": [
           31
         ],
@@ -2650,7 +2650,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1211,
-        "sha256": "99029f913041f9a0520136446ef6ae7e066045dca3d42ceb3710cb2fc436118c",
+        "sha256": "9e1384373716fd0cd407d82ff0daeab500641f31c9891473844ad8b9dbd81afd",
         "page_span": [
           33
         ],
@@ -2660,7 +2660,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(A)",
-        "standard_description": "RC 2 8.7(A) calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton’s Second Law of Motion",
+        "standard_description": "RC 2 8.7(A) calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton\u2019s Second Law of Motion",
         "year": 2025,
         "question_number": 13,
         "cluster": "Force and Motion",
@@ -2688,22 +2688,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "0.5 m/s²"
+            "text": "0.5 m/s\u00b2"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "2.9 m/s²"
+            "text": "2.9 m/s\u00b2"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "3.4 m/s²"
+            "text": "3.4 m/s\u00b2"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "6.4 m/s²"
+            "text": "6.4 m/s\u00b2"
           }
         ],
         "choice_pool": [],
@@ -2716,11 +2716,11 @@
         "raw_pdf_answer_text": "Correct Answer (A)",
         "answer_format": "single_choice_label",
         "correct_label": "A",
-        "correct_text": "0.5 m/s²",
+        "correct_text": "0.5 m/s\u00b2",
         "distractor_note": {
           "raw_pdf_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
           "label": "C",
-          "text": "3.4 m/s²"
+          "text": "3.4 m/s\u00b2"
         }
       },
       "extraction_quality": {
@@ -2746,7 +2746,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "ebb964a93b7a4509d8f399c4744a397d16f000d466df92cfcc68fd50f314a826",
+        "sha256": "9818eb41e6265e931fdf3b2dcc62c716cd0cf5c08e78bbc436a4b1801a97281d",
         "page_span": [
           34
         ],
@@ -2756,7 +2756,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(A)",
-        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton’s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
+        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton\u2019s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
         "year": 2022,
         "question_number": 11,
         "cluster": "Force and Motion",
@@ -2778,7 +2778,7 @@
         }
       },
       "question": {
-        "stem": "A sledgehammer has a mass of 3.5 kilograms. What net force, to the nearest whole newton, will a person need to apply to accelerate the sledgehammer at a rate of 4.0 m/s²?",
+        "stem": "A sledgehammer has a mass of 3.5 kilograms. What net force, to the nearest whole newton, will a person need to apply to accelerate the sledgehammer at a rate of 4.0 m/s\u00b2?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -2813,7 +2813,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1538,
-        "sha256": "db213dd169962b5cb79dd86342007305bca1672e0a44fa27b9730c9ff2e41465",
+        "sha256": "1d924590f6e5612243f6d57d41971be9edf0f87d945cabd00b23b69def53e29d",
         "page_span": [
           35
         ],
@@ -2823,7 +2823,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(A)",
-        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton’s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
+        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton\u2019s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
         "year": 2022,
         "question_number": 33,
         "cluster": "Force and Motion",
@@ -2906,7 +2906,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "e07b1991d7eed14c56b2fd0898a1d7f75b8cf2e6759ecbc341ad26eea9d1c43d",
+        "sha256": "ce73745b63b2b0f642c8e0176bc5040d231682101273fd01c6d0636cb986fcda",
         "page_span": [
           36
         ],
@@ -2916,7 +2916,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(A)",
-        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton’s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
+        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton\u2019s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
         "year": 2021,
         "question_number": 6,
         "cluster": "Force and Motion",
@@ -2946,22 +2946,22 @@
           {
             "position": 1,
             "label": "F",
-            "text": "1.3 m/s²"
+            "text": "1.3 m/s\u00b2"
           },
           {
             "position": 2,
             "label": "G",
-            "text": "3,450.5 m/s²"
+            "text": "3,450.5 m/s\u00b2"
           },
           {
             "position": 3,
             "label": "H",
-            "text": "15.5 m/s²"
+            "text": "15.5 m/s\u00b2"
           },
           {
             "position": 4,
             "label": "J",
-            "text": "0.77 m/s²"
+            "text": "0.77 m/s\u00b2"
           }
         ],
         "choice_pool": [],
@@ -2972,7 +2972,7 @@
         "raw_pdf_answer_text": "Correct Answer (F)",
         "answer_format": "single_choice_label",
         "correct_label": "F",
-        "correct_text": "1.3 m/s²"
+        "correct_text": "1.3 m/s\u00b2"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -2997,7 +2997,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1415,
-        "sha256": "6264816c2c8c8175beb40ac4351a0c1483cb62d65565715f9971511ff8a6c844",
+        "sha256": "2dfcb05ac2bbd19222c259660c54925157c2fa0917b31f21e615dd968f175655",
         "page_span": [
           37
         ],
@@ -3007,7 +3007,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(A)",
-        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton’s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
+        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton\u2019s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
         "year": 2021,
         "question_number": 20,
         "cluster": "Force and Motion",
@@ -3058,9 +3058,9 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "20 newtons →",
+          "20 newtons \u2192",
           "duck in water",
-          "← 15 newtons"
+          "\u2190 15 newtons"
         ]
       },
       "answer_key": {
@@ -3092,7 +3092,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1651,
-        "sha256": "3b5c8b75f46278052fde9fc3347f087aa08eec0def40b3ee6efe8b0d43a98e73",
+        "sha256": "45f761c68801f169d22800cd4024edfd741156b043a2c792250c5f8695b8980e",
         "page_span": [
           38
         ],
@@ -3102,7 +3102,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(A)",
-        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton’s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
+        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton\u2019s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
         "year": 2019,
         "question_number": 6,
         "cluster": "Force and Motion",
@@ -3154,8 +3154,8 @@
           "A mother and daughter press their hands together and then push apart while ice skating.",
           "Mother 100 kg",
           "Daughter 50 kg",
-          "15 N →",
-          "15 N ←"
+          "15 N \u2192",
+          "15 N \u2190"
         ]
       },
       "answer_key": {
@@ -3187,7 +3187,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2210,
-        "sha256": "31dad6ba712876170371726b246a931eef69bc42c98f196ce18257ccf949729f",
+        "sha256": "eeefedeaaf4db6998fe19f6bbc5fe3d78bfe70fc7a6b781c71992969fe31db4c",
         "page_span": [
           39
         ],
@@ -3197,7 +3197,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(A)",
-        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton’s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
+        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton\u2019s Second Law of Motion OLD 8.6(A) demonstrate and calculate how unbalanced forces change the speed or direction of an object's motion",
         "year": 2019,
         "question_number": 36,
         "cluster": "Force and Motion",
@@ -3281,7 +3281,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1641,
-        "sha256": "31ea772f8914df3b95ffd17f7f96e4b5433ed92ae2ac3d9dd4abcd1eae407552",
+        "sha256": "7ed340376d18f4829f803a69db12b4fbfe6e1930fcc75b9c735991208c61e289",
         "page_span": [
           40
         ],
@@ -3291,7 +3291,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "RC 2 8.7(B) investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches",
+        "standard_description": "RC 2 8.7(B) investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches",
         "year": 2025,
         "question_number": 5,
         "cluster": "Force and Motion",
@@ -3378,7 +3378,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2164,
-        "sha256": "54bd47bde44238814c04ba67c6c6b104e23ec3889ea114ed0748a21f5f56bdd5",
+        "sha256": "220bf152d883cb28ccb89e202d4e0ad92b2b40ffe6ab782c554eba7fbd106f51",
         "page_span": [
           41
         ],
@@ -3388,7 +3388,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches",
         "year": 2025,
         "question_number": 12,
         "cluster": "Force and Motion",
@@ -3474,7 +3474,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "45d0de526aa05906267bc04e985dec23a73e257b68b0ae97088aeb2784ecbdae",
+        "sha256": "76d858f486353bd8692f6699df837bd473c56848845b95d7d64eb8d36ea064f9",
         "page_span": [
           42
         ],
@@ -3484,7 +3484,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches",
         "year": 2025,
         "question_number": 36,
         "cluster": "Force and Motion",
@@ -3506,7 +3506,7 @@
         }
       },
       "question": {
-        "stem": "A ball rolls along a flat surface and slowly comes to a stop. Which statement best describes the reason for the ball’s change in motion?",
+        "stem": "A ball rolls along a flat surface and slowly comes to a stop. Which statement best describes the reason for the ball\u2019s change in motion?",
         "instruction": null,
         "options": [
           {
@@ -3522,12 +3522,12 @@
           {
             "position": 3,
             "label": "C",
-            "text": "The ball’s velocity decreases because of the force of friction."
+            "text": "The ball\u2019s velocity decreases because of the force of friction."
           },
           {
             "position": 4,
             "label": "D",
-            "text": "The ball’s inertia is greater than the force applied to the ball."
+            "text": "The ball\u2019s inertia is greater than the force applied to the ball."
           }
         ],
         "choice_pool": [],
@@ -3538,7 +3538,7 @@
         "raw_pdf_answer_text": "Correct Answer (C)",
         "answer_format": "single_choice_label",
         "correct_label": "C",
-        "correct_text": "The ball’s velocity decreases because of the force of friction.",
+        "correct_text": "The ball\u2019s velocity decreases because of the force of friction.",
         "distractor_note": {
           "raw_pdf_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
           "label": "A",
@@ -3568,7 +3568,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1329,
-        "sha256": "f4c1d6c57667529744c89d9413742c43983338b44cbe6f89ed76e6c97437d2c5",
+        "sha256": "c84e3c1c31227236e0ad56e81ae6640246ab32ad909c62471c985b80ba5045c6",
         "page_span": [
           43
         ],
@@ -3578,7 +3578,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
         "year": 2024,
         "question_number": 3,
         "cluster": "Force and Motion",
@@ -3664,7 +3664,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2393,
-        "sha256": "c7fee6120fb36e57e6af4787823300c19f894d54d18c06cab4129653dd7071b1",
+        "sha256": "e32318382d6a6bdb7555a8e0d1492884278f80de76161be12e833df3008fc59a",
         "page_span": [
           44
         ],
@@ -3674,7 +3674,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
         "year": 2024,
         "question_number": 22,
         "cluster": "Force and Motion",
@@ -3754,7 +3754,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1964,
-        "sha256": "b3d8957a9b2d279adc8eb2e397772517ba932b2a0fb7bf5ada6ee2a520afaf1e",
+        "sha256": "1ed365a50d65060d5cfe83514478148b42044e5c27bf39323480bbcf020475a2",
         "page_span": [
           45
         ],
@@ -3764,7 +3764,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
         "year": 2023,
         "question_number": 2,
         "cluster": "Force and Motion",
@@ -3849,7 +3849,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1180,
-        "sha256": "df04ed5d40d0f26368d5cd79330397ac986ec00f48b7aea993cc02a4ac46f4d7",
+        "sha256": "044e9d3e715cc5e9e58a543ddd4e1254ce9ca51c56734c36af1b7450afa4afa7",
         "page_span": [
           46
         ],
@@ -3859,7 +3859,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
         "year": 2023,
         "question_number": 32,
         "cluster": "Force and Motion",
@@ -3918,7 +3918,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1763,
-        "sha256": "57622a7538728de3eb93c386ece646240ce43c92249b9a20820ef644a2905b76",
+        "sha256": "e14e295f1f71e0ac085806d507423eb3d35853aad74dcd2b5d18c22cccf585cd",
         "page_span": [
           47
         ],
@@ -3928,7 +3928,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
         "year": 2022,
         "question_number": 6,
         "cluster": "Force and Motion",
@@ -4009,7 +4009,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "64a769ad351ecde3ccf7b54fa31a794f1ac3d73004702ec55e4ee945b04e4e2d",
+        "sha256": "50ab20205be58fd8a902129fb8ccfe2f1d7910143c23f124c987595fa391947b",
         "page_span": [
           48
         ],
@@ -4019,7 +4019,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
         "year": 2022,
         "question_number": 38,
         "cluster": "Force and Motion",
@@ -4098,7 +4098,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "a50cf0c38982fbd1c709e529ce9523905fb4ef287c0a4ed850324e2b77f5fd87",
+        "sha256": "f8658d59c7ebc360a03af0b1fdd10dcab0f6c10b2b333e0ca488217c489d4fb9",
         "page_span": [
           49
         ],
@@ -4108,7 +4108,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
         "year": 2021,
         "question_number": 2,
         "cluster": "Force and Motion",
@@ -4130,7 +4130,7 @@
         }
       },
       "question": {
-        "stem": "According to Newton’s first law, what happens to the steel ball just after the box stops?",
+        "stem": "According to Newton\u2019s first law, what happens to the steel ball just after the box stops?",
         "instruction": null,
         "options": [
           {
@@ -4189,7 +4189,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1309,
-        "sha256": "045a24feae03d890327157f0592680f9ac77dd1c6de6b133ba0e4e6cc2502cfb",
+        "sha256": "0c60fc7af87f3f6db78f40375acc390084bd63490874f13103831b1a3e6b25be",
         "page_span": [
           50
         ],
@@ -4199,7 +4199,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
         "year": 2021,
         "question_number": 28,
         "cluster": "Force and Motion",
@@ -4221,7 +4221,7 @@
         }
       },
       "question": {
-        "stem": "A skater pushes off a wall and skates backward for a few meters before stopping. Which statement best describes an action–reaction force pair in this situation?",
+        "stem": "A skater pushes off a wall and skates backward for a few meters before stopping. Which statement best describes an action\u2013reaction force pair in this situation?",
         "instruction": null,
         "options": [
           {
@@ -4280,7 +4280,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "a5800fd8072ff2950966a1546ad6aea10aa61c97b32d08d6db2af402be59688e",
+        "sha256": "7a7386b76f3b0bcede8cd890ade470b6c21656c32e6d278cd2741d07a0e3e741",
         "page_span": [
           51
         ],
@@ -4290,7 +4290,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
         "year": 2019,
         "question_number": 16,
         "cluster": "Force and Motion",
@@ -4371,7 +4371,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1194,
-        "sha256": "992bc958eb65b6d50f11a7d427656a6e069c44323a0eb0828c1381afb8f9bd08",
+        "sha256": "f861ad64b729245b2fb1f032c8e01bdbe8f9aec0c4d0145e323a26c0afc47eb8",
         "page_span": [
           52
         ],
@@ -4381,7 +4381,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.7(B)",
-        "standard_description": "investigate and describe how Newton’s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth’s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches OLD 8.6(C) investigate and describe applications of Newton's three laws of motion such as in vehicle restraints, sports activities, amusement park rides, Earth's tectonic activities, and rocket launches",
         "year": 2019,
         "question_number": 41,
         "cluster": "Force and Motion",
@@ -4460,7 +4460,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1226,
-        "sha256": "322a9aa0015a5619196f8070f1b7a2c4851cb3f56b723506e7376935acc93443",
+        "sha256": "4cce01c8637d50091061cc03fbde7049b529e651fdb6d14db1b6378ae96a7626",
         "page_span": [
           53
         ],
@@ -4554,7 +4554,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1320,
-        "sha256": "cc6bb3887e5dcaa2878112e6b85a88c37f048f861ab9bf3efb2357d738797b4a",
+        "sha256": "0766b166d89747d1473c8ee90ce0fe2cc808afcccafcc174a2ca4a6761bd01d6",
         "page_span": [
           54
         ],
@@ -4645,7 +4645,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1200,
-        "sha256": "31328fc83ea63ec42dca3f3d385ce3bf3f206a2d46a4a87149f7eafac606d160",
+        "sha256": "2d6f8bc9553551be896eaeaf6de03be4b86a61d429f5ee4d19a00318aa5f2a23",
         "page_span": [
           55
         ],
@@ -4738,7 +4738,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "776bd71b3ca17da9c3e615b2b598d78b977f3c60257ce76717871d24b373fe30",
+        "sha256": "b9ea6dd55a46176e1fe2fa87f5bd3579a1c1ece88b4e8ffc16d971f2c57c66b0",
         "page_span": [
           55
         ],
@@ -4770,7 +4770,7 @@
         }
       },
       "question": {
-        "stem": "A horse trainer records the distance a horse travels during three different trials. Horse’s Traveling Times and Distances | Trial | Time (minutes) | Distance (kilometers) | |-------|----------------|----------------------| | 1 | 15 | 4.5 | | 2 | 30 | 9.0 | | 3 | 45 | 13.5 | What is the horse’s average speed in kilometers per minute?",
+        "stem": "A horse trainer records the distance a horse travels during three different trials. Horse\u2019s Traveling Times and Distances | Trial | Time (minutes) | Distance (kilometers) | |-------|----------------|----------------------| | 1 | 15 | 4.5 | | 2 | 30 | 9.0 | | 3 | 45 | 13.5 | What is the horse\u2019s average speed in kilometers per minute?",
         "instruction": null,
         "options": [],
         "choice_pool": [],
@@ -4847,22 +4847,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "Time (s) Average Speed (m/s) 0–2 1.0 2–4 0.5 4–6 0"
+            "text": "Time (s) Average Speed (m/s) 0\u20132 1.0 2\u20134 0.5 4\u20136 0"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "Time (s) Average Speed (m/s) 0–2 2.0 2–4 0.75 4–6 0.75"
+            "text": "Time (s) Average Speed (m/s) 0\u20132 2.0 2\u20134 0.75 4\u20136 0.75"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "Time (s) Average Speed (m/s) 0–2 2.0 2–4 3.0 4–6 3.0"
+            "text": "Time (s) Average Speed (m/s) 0\u20132 2.0 2\u20134 3.0 4\u20136 3.0"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "Time (s) Average Speed (m/s) 0–2 1.0 2–4 0.75 4–6 0"
+            "text": "Time (s) Average Speed (m/s) 0\u20132 1.0 2\u20134 0.75 4\u20136 0"
           }
         ],
         "choice_pool": [],
@@ -4875,7 +4875,7 @@
         "raw_pdf_answer_text": "Correct Answer (A)",
         "answer_format": "single_choice_label",
         "correct_label": "A",
-        "correct_text": "Time (s) Average Speed (m/s) 0–2 1.0 2–4 0.5 4–6 0"
+        "correct_text": "Time (s) Average Speed (m/s) 0\u20132 1.0 2\u20134 0.5 4\u20136 0"
       },
       "extraction_quality": {
         "question_content_source": "vision on rendered crop",
@@ -4900,7 +4900,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1698,
-        "sha256": "dabb37d5336598792e2badbe701cf2b958dc97bd817f9a4f83f2395c51bc1bed",
+        "sha256": "f580260a43130f2447516b8b3de595ba2f55c49d367ec09812de14394f121257",
         "page_span": [
           57
         ],
@@ -4910,7 +4910,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "7.7(C)",
-        "standard_description": "RC 2 7.7(C) measure (record) and interpret an object’s motion using distance-time graphs",
+        "standard_description": "RC 2 7.7(C) measure (record) and interpret an object\u2019s motion using distance-time graphs",
         "year": 2025,
         "question_number": 17,
         "cluster": "Force and Motion",
@@ -4948,7 +4948,7 @@
           {
             "position": 3,
             "label": null,
-            "text": "The train’s speed increases, starting at 12:30."
+            "text": "The train\u2019s speed increases, starting at 12:30."
           },
           {
             "position": 4,
@@ -4995,7 +4995,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2473,
-        "sha256": "26f028f5c914bb6707a91ecb595e8520c9c3322032adaa6b0361c633c64c4175",
+        "sha256": "d8fa2ee8993fa6c68624a0563364a2c3902832a92d20daf3926ef66417ab978a",
         "page_span": [
           58
         ],
@@ -5005,7 +5005,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "7.7(C)",
-        "standard_description": "measure (record) and interpret an object’s motion using distance-time graphs OLD 6.8(D) measure and graph changes in motion",
+        "standard_description": "measure (record) and interpret an object\u2019s motion using distance-time graphs OLD 6.8(D) measure and graph changes in motion",
         "year": 2024,
         "question_number": 11,
         "cluster": "Force and Motion",
@@ -5114,14 +5114,14 @@
         "render_dpi": 300,
         "image_width_px": 1556,
         "image_height_px": 6200,
-        "sha256": "07f590d4c97343ff4b5047f282c50dc7442ac78ad960dfe5435397d82b37866c",
+        "sha256": "164d717963e4d18bbcef3abdaa45174ff4f58b835fc28926b4fc47950b3fa9af",
         "question_image": "collections/grade-8/science/images/extracted/g8_science_7.7C_2023_q11.png"
       },
       "metadata": {
         "grade": 8,
         "subject": "Science",
         "standard": "7.7(C)",
-        "standard_description": "measure (record) and interpret an object’s motion using distance-time graphs OLD 6.8(D) measure and graph changes in motion",
+        "standard_description": "measure (record) and interpret an object\u2019s motion using distance-time graphs OLD 6.8(D) measure and graph changes in motion",
         "year": 2023,
         "question_number": 11,
         "cluster": "Force and Motion",
@@ -5203,7 +5203,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2428,
-        "sha256": "f5d762a45096a673737d4e0c451607cf4dec0cba1f5e0d9ed95793fff5e40e78",
+        "sha256": "009d272a1f2f4eda36a4d0bf2653d959ca30adc03c2f6a6ef6ebf746bdefbc9a",
         "page_span": [
           62
         ],
@@ -5213,7 +5213,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "7.7(C)",
-        "standard_description": "measure (record) and interpret an object’s motion using distance-time graphs OLD 6.8(D) measure and graph changes in motion",
+        "standard_description": "measure (record) and interpret an object\u2019s motion using distance-time graphs OLD 6.8(D) measure and graph changes in motion",
         "year": 2022,
         "question_number": 28,
         "cluster": "Force and Motion",
@@ -5306,7 +5306,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "7.7(C)",
-        "standard_description": "measure (record) and interpret an object’s motion using distance-time graphs OLD 6.8(D) measure and graph changes in motion",
+        "standard_description": "measure (record) and interpret an object\u2019s motion using distance-time graphs OLD 6.8(D) measure and graph changes in motion",
         "year": 2019,
         "question_number": 34,
         "cluster": "Force and Motion",
@@ -5389,7 +5389,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1227,
-        "sha256": "c23c377718ef10ae17375abd426d40113ada2d216669b94d1cc2e1121dddba1f",
+        "sha256": "e4cdd3f6f4dde826c776de776734443eeb3233816d7c7b76c31374db5f8a6fb9",
         "page_span": [
           64
         ],
@@ -5421,7 +5421,7 @@
         }
       },
       "question": {
-        "stem": "A student is pulling a 100-kilogram cart, accelerating at 1.5 meters per second squared. A second student joins the first student in pulling the cart in the same direction, and the cart’s acceleration increases to 2.5 m/s². With how much force is the second student pulling?",
+        "stem": "A student is pulling a 100-kilogram cart, accelerating at 1.5 meters per second squared. A second student joins the first student in pulling the cart in the same direction, and the cart\u2019s acceleration increases to 2.5 m/s\u00b2. With how much force is the second student pulling?",
         "instruction": null,
         "options": [
           {
@@ -5483,7 +5483,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1270,
-        "sha256": "166a1e348c7c777bf10f37fd130d66bca0f1767f62a93fc58e7d5d86460ab9a4",
+        "sha256": "1b4dd886a5cc83ef16e204df94a96cf548c71347018b79450c11a56cfa1b1551",
         "page_span": [
           65
         ],
@@ -5552,7 +5552,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2396,
-        "sha256": "6efcf20d52e364bdd3632a12ba2e82ba6e5ed1cc900ec8cb793eaeb31af80515",
+        "sha256": "fb16f1f8a0830b922469a39ce28f6f98919955c94a9deff72667f220243e060a",
         "page_span": [
           66
         ],
@@ -5584,7 +5584,7 @@
         }
       },
       "question": {
-        "stem": "The diagram shows two arrows that represent the directions of two forces acting on a 1-kilogram ball. The arrows do not represent amounts of force, they only represent the directions of the two forces. How should the diagram be labeled if the ball is accelerating to the west at a rate of 1 m/s²? Move the correct answer to each box. Not all answers will be used.",
+        "stem": "The diagram shows two arrows that represent the directions of two forces acting on a 1-kilogram ball. The arrows do not represent amounts of force, they only represent the directions of the two forces. How should the diagram be labeled if the ball is accelerating to the west at a rate of 1 m/s\u00b2? Move the correct answer to each box. Not all answers will be used.",
         "instruction": null,
         "options": [
           {
@@ -5620,7 +5620,7 @@
           "7 newtons",
           "5 newtons"
         ],
-        "response_template": "[blank_1] → ball → [blank_2]",
+        "response_template": "[blank_1] \u2192 ball \u2192 [blank_2]",
         "visual_elements": [
           "Image shows a compass with N, E, S, W directions at top right.",
           "Image shows a large gray circle in the center representing the ball.",
@@ -5656,7 +5656,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1247,
-        "sha256": "e8a974aedcece46d9e867c1757547d0de7cd30126db7ff8d754b5648f593804a",
+        "sha256": "b544db2a6030e301fe32988af95d8c56adc79748f76689bd067726315dc5e637",
         "page_span": [
           67
         ],
@@ -5747,7 +5747,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "db785c1cde0c9c8602d35298300ccbfbd1e41bdd7f7ba5b6ebf3fd35d1bb61ba",
+        "sha256": "d078be26f5d11b94c596a8b732ccf2b39f00fe42f22ee89219ee874e8c9f8ebc",
         "page_span": [
           68
         ],
@@ -5836,7 +5836,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "6f46be63211124bc56100ef435e46946fc0f95c58a4b8fdfbad2d8422f24f04f",
+        "sha256": "782a0aae6e768f8215d048a66bd7101d1920491a053c2a2ca9f14829c1b83cb0",
         "page_span": [
           69
         ],
@@ -5868,7 +5868,7 @@
         }
       },
       "question": {
-        "stem": "The net force on a vehicle that is accelerating at a rate of 1.5 m/s² is 1,800 newtons. What is the mass of the vehicle to the nearest kilogram?",
+        "stem": "The net force on a vehicle that is accelerating at a rate of 1.5 m/s\u00b2 is 1,800 newtons. What is the mass of the vehicle to the nearest kilogram?",
         "instruction": "Record your answer and fill in the bubbles on your answer document. Be sure to use the correct place value.",
         "options": [],
         "choice_pool": [],
@@ -5903,7 +5903,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1211,
-        "sha256": "923d3ae89cc51ad1671fd140c3b3dd2db92232b8c720ca2bbe5425428df98164",
+        "sha256": "766d6544d24b9ed176878ca5b0e41b1a9362bc2fcee086d7cfa5c4346d9b5033",
         "page_span": [
           71
         ],
@@ -5999,7 +5999,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1593,
-        "sha256": "6f06ac8ef1f9f823d25bc65aee34ef0ce6b7c0b419959366fc13a92c55e1bbfa",
+        "sha256": "e5a30fe9d41efb34a14618170bd1ddb0e263e967b75332f06bf52027d3bd7797",
         "page_span": [
           72
         ],
@@ -6095,7 +6095,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1263,
-        "sha256": "edd81a5e729e535cf2b5dc81b1bab2fa6a5beb0075c36e818c9599d96515249a",
+        "sha256": "e80065f4256eaa4f83f3577f5a9b696eb39a2241f7f8999a82568d1c3a1b37ac",
         "page_span": [
           73
         ],
@@ -6184,7 +6184,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2306,
-        "sha256": "69668d9c17af7b4715642b6f0d11c31efdb530b7ef6770f2e435c3d648c055ea",
+        "sha256": "67ba5749dd1baae94830ae9adcc5beff69ba047364138dbae3b869f1e1c4a06a",
         "page_span": [
           74
         ],
@@ -6277,7 +6277,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1194,
-        "sha256": "07231bffb6c310423423a11c503dec7b2008155037db42dc322568ddc6bef74e",
+        "sha256": "20b3c002c58110e676e5b676238152b99a898ccaa8017e57aeaf74d15da86e75",
         "page_span": [
           75
         ],
@@ -6370,7 +6370,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1492,
-        "sha256": "1aeb9428c8c39219e1e3ca63c981715fb0ac4781e5dee68bb3d6e2337540436c",
+        "sha256": "16337b3e9e300e5c4c2decb366bf408fc3be5c30eb7ee20933c2b1011f0b9912",
         "page_span": [
           76
         ],
@@ -6461,7 +6461,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2285,
-        "sha256": "842424ba5313cdd3c88ecaae1e8c4572292d13ce3994bcda206b5d6a88ad5c72",
+        "sha256": "a47a74bf337b3cafcc43aecc84f35771c35fb602de8eedbbd2db924d554d70b3",
         "page_span": [
           78
         ],
@@ -6471,7 +6471,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.9(A)",
-        "standard_description": "RC 3 8.9(A) describe the life cycle of stars and compare and classify stars using the Hertzsprung‐Russell diagram",
+        "standard_description": "RC 3 8.9(A) describe the life cycle of stars and compare and classify stars using the Hertzsprung\u2010Russell diagram",
         "year": 2025,
         "question_number": 2,
         "cluster": "The Universe",
@@ -6569,7 +6569,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1384,
-        "sha256": "336552d44293ffda8ddfbdd18493de01ba11bb1720ce173ae2328ad5a1ce9d6d",
+        "sha256": "4ea819a187809f11428e9f820ce8c4531b0d1f1d92d7a14a860858297b8197f7",
         "page_span": [
           79
         ],
@@ -6579,7 +6579,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.9(A)",
-        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung‐Russell diagram",
+        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung\u2010Russell diagram",
         "year": 2025,
         "question_number": 19,
         "cluster": "The Universe",
@@ -6675,7 +6675,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.9(A)",
-        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung‐Russell diagram OLD 8.8(A) describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
+        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung\u2010Russell diagram OLD 8.8(A) describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
         "year": 2023,
         "question_number": 13,
         "cluster": "The Universe",
@@ -6760,7 +6760,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1636,
-        "sha256": "a2db1b109ad5acfe2f9af5aca96fc1c04f2aa5756d01e7921800054a7ff596e6",
+        "sha256": "0a508842ea0797d2eed74c000de30444fb113e7d5ea215dadb0b35bad67a19f0",
         "page_span": [
           81
         ],
@@ -6770,7 +6770,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.9(A)",
-        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung‐Russell diagram OLD 8.8(A) describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
+        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung\u2010Russell diagram OLD 8.8(A) describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
         "year": 2022,
         "question_number": 10,
         "cluster": "The Universe",
@@ -6794,7 +6794,7 @@
         }
       },
       "question": {
-        "stem": "A star that has a luminosity of 10^{-2} and a temperature of 20,000 K is most likely a —",
+        "stem": "A star that has a luminosity of 10^{-2} and a temperature of 20,000 K is most likely a \u2014",
         "instruction": null,
         "options": [
           {
@@ -6853,7 +6853,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "5c218058e5d41e2ca280d46c7bdb0f20996f8aa1b95899112ce6386f286a15e6",
+        "sha256": "cd07ad39b193f28a249aec4c07b24eb96206a26b28d3ceb34702366c0d835c38",
         "page_span": [
           82
         ],
@@ -6863,7 +6863,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.9(A)",
-        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung‐Russell diagram OLD 8.8(A) describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
+        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung\u2010Russell diagram OLD 8.8(A) describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
         "year": 2022,
         "question_number": 39,
         "cluster": "The Universe",
@@ -6885,7 +6885,7 @@
         }
       },
       "question": {
-        "stem": "Alpha Centauri appears as a bright object visible in the Milky Way galaxy. Alpha Centauri is actually a system of three objects. Each object produces light and rotates on its own axis. The system is an average of 4 light-years from Earth. Based on this information, the three objects that make up the Alpha Centauri system are all —",
+        "stem": "Alpha Centauri appears as a bright object visible in the Milky Way galaxy. Alpha Centauri is actually a system of three objects. Each object produces light and rotates on its own axis. The system is an average of 4 light-years from Earth. Based on this information, the three objects that make up the Alpha Centauri system are all \u2014",
         "instruction": null,
         "options": [
           {
@@ -6942,7 +6942,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1350,
-        "sha256": "8cd74e44a30b77016d077c478dd92ff0a56d477faa871c1ba4e958dec57bdc13",
+        "sha256": "e2753d2e1dbda34efd40666c6d8f9b9196b4f804acbf2d3feb173173734378a1",
         "page_span": [
           83
         ],
@@ -6952,7 +6952,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.9(A)",
-        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung‐Russell diagram OLD 8.8(A) describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
+        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung\u2010Russell diagram OLD 8.8(A) describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
         "year": 2021,
         "question_number": 27,
         "cluster": "The Universe",
@@ -7045,7 +7045,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.9(A)",
-        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung‐Russell diagram OLD 8.8(A) describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
+        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung\u2010Russell diagram OLD 8.8(A) describe components of the universe, including stars, nebulae, and galaxies, and use models such as the Hertzsprung-Russell diagram for classification",
         "year": 2019,
         "question_number": 4,
         "cluster": "The Universe",
@@ -7132,7 +7132,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1211,
-        "sha256": "1d1a23782e0b0bfa271e0477491c05932df8967176f4b865791aab5e7cd0d11c",
+        "sha256": "83849e8f9e12e91113b50925ebf94016d58ee035657ce890dacf25b68a193d0a",
         "page_span": [
           85
         ],
@@ -7142,7 +7142,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.9(B)",
-        "standard_description": "RC 3 8.9(B) categorize galaxies as spiral, elliptical, and irregular and locate Earth’s solar system within the Milky Way galaxy",
+        "standard_description": "RC 3 8.9(B) categorize galaxies as spiral, elliptical, and irregular and locate Earth\u2019s solar system within the Milky Way galaxy",
         "year": 2025,
         "question_number": 4,
         "cluster": "The Universe",
@@ -7226,7 +7226,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1247,
-        "sha256": "84add33e268e4981cd93ad4d4f0fec8443a4d4478b72be8aafe3db42bd20866d",
+        "sha256": "475aac34f3114fdfd3e9553a1fe79f001cf3e0c10ea3a96bc17ae4361d37f5cb",
         "page_span": [
           86
         ],
@@ -7236,7 +7236,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "8.9(B)",
-        "standard_description": "categorize galaxies as spiral, elliptical, and irregular and locate Earth’s solar system within the Milky Way galaxy OLD 8.8(B) recognize that the Sun is a medium-sized star located in a spiral arm of the Milky Way galaxy and that the Sun is many thousands of times closer to Earth than any other star",
+        "standard_description": "categorize galaxies as spiral, elliptical, and irregular and locate Earth\u2019s solar system within the Milky Way galaxy OLD 8.8(B) recognize that the Sun is a medium-sized star located in a spiral arm of the Milky Way galaxy and that the Sun is many thousands of times closer to Earth than any other star",
         "year": 2023,
         "question_number": 26,
         "cluster": "The Universe",
@@ -7317,7 +7317,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1396,
-        "sha256": "aa9da73418a8d61e6c6e495e62fef9f6b0bb0c21b5d06c7a87b84e3696044ddb",
+        "sha256": "ac812cc2978cc6a27499f3664a2f96797ee9d4b2ba9104dbd765da6aaf71465d",
         "page_span": [
           87
         ],
@@ -7327,7 +7327,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "7.9(B)",
-        "standard_description": "RC 3 7.9(B) describe how gravity governs motion within Earth’s solar system OLD 6.11(B) understand that gravity is the force that governs the motion of our solar system",
+        "standard_description": "RC 3 7.9(B) describe how gravity governs motion within Earth\u2019s solar system OLD 6.11(B) understand that gravity is the force that governs the motion of our solar system",
         "year": 2021,
         "question_number": 18,
         "cluster": "The Universe",
@@ -7351,7 +7351,7 @@
         }
       },
       "question": {
-        "stem": "The moon remains in orbit around Earth because of the force of —",
+        "stem": "The moon remains in orbit around Earth because of the force of \u2014",
         "instruction": null,
         "options": [
           {
@@ -7410,7 +7410,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1341,
-        "sha256": "1e13b442b8dacc3f49f8e61911f07f02a6089abd68bbb2d02e4d34700af62f9d",
+        "sha256": "af47dddc284243ae45ed2bc942d765123e4e7e4d0c06b0b3fc91144b8dfbc9d5",
         "page_span": [
           88
         ],
@@ -7420,7 +7420,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "7.9(B)",
-        "standard_description": "describe how gravity governs motion within Earth’s solar system OLD 6.11(B) understand that gravity is the force that governs the motion of our solar system",
+        "standard_description": "describe how gravity governs motion within Earth\u2019s solar system OLD 6.11(B) understand that gravity is the force that governs the motion of our solar system",
         "year": 2019,
         "question_number": 2,
         "cluster": "The Universe",
@@ -7444,7 +7444,7 @@
         }
       },
       "question": {
-        "stem": "A student makes a model of the sun-Earth system by swinging a ball around her head. Using this model, the student is trying to explain how Earth stays on a path around the sun. The student explains that this path is the result of —",
+        "stem": "A student makes a model of the sun-Earth system by swinging a ball around her head. Using this model, the student is trying to explain how Earth stays on a path around the sun. The student explains that this path is the result of \u2014",
         "instruction": null,
         "options": [
           {
@@ -7503,7 +7503,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "799b29bcfa79b3c07091f29ac1d79d595c1268c5806c7ce03b49d3b89b93521c",
+        "sha256": "c2cffa14c3bc49c0e19d68a69f8f677f6c6555131a27b0bde617252b166e904a",
         "page_span": [
           89
         ],
@@ -7597,7 +7597,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2575,
-        "sha256": "52a9007f38b0ad1615a332dfc687274ba9a2983accf4021d210f629549bdaf68",
+        "sha256": "974afcc797ac15a943eb5f11f431a82ded995ecfff6010460330d77ef7ca059d",
         "page_span": [
           90
         ],
@@ -7676,7 +7676,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1210,
-        "sha256": "e6736f40c7ae9a2aaf6038186b4e6b9d635b598a85a6fdef47f051600d2097c1",
+        "sha256": "7f35e9d188a98f0cb58df79856816b16933a7dc82079c110566dd90ab41c10bf",
         "page_span": [
           91
         ],
@@ -7770,7 +7770,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1437,
-        "sha256": "e40e00d9178844929f0071266d53edd403b6110f79b51ef5094c1ba1f93ae29f",
+        "sha256": "53c883575181638f45355cc43fc22cff17d8d22244eaacd6f46f531f20c41417",
         "page_span": [
           92
         ],
@@ -7866,7 +7866,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1595,
-        "sha256": "31e73388e46099d7e8b67de30c6375d4b14cf2ba67dae5eb2651680b2f4654d3",
+        "sha256": "a42afbcc87bf5a8773914a2c3b9f46a672a84965bd25013cb07b0579c3c82ef8",
         "page_span": [
           93
         ],
@@ -7898,7 +7898,7 @@
         }
       },
       "question": {
-        "stem": "A student lists two land features: • Himalayas (mountain range) • (East African) Great Rift Valley Part A Which statement describes how each land feature MOST LIKELY formed? Part B Which statement BEST explains the correct answer to Part A?",
+        "stem": "A student lists two land features: \u2022 Himalayas (mountain range) \u2022 (East African) Great Rift Valley Part A Which statement describes how each land feature MOST LIKELY formed? Part B Which statement BEST explains the correct answer to Part A?",
         "instruction": "Select the best answer for Part A and the best answer for Part B.",
         "options": [
           {
@@ -7974,7 +7974,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2407,
-        "sha256": "f99d34c66c0610f6593ffa58f3b49794ea35e9ea0601680d9a651e925263a664",
+        "sha256": "7e7a88ac7f6e47724584093e8c9c0908cf02d09230203995227d330ab9b40466",
         "page_span": [
           94
         ],
@@ -8070,7 +8070,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1595,
-        "sha256": "c6099062284ee7be8a4be5c98783aaf42bae82f797c1cab4b340e23972a28420",
+        "sha256": "df6b4f7c197beb6e9f5641f259c6a77429d5135c6260bbe49871fbf0ac33831f",
         "page_span": [
           95
         ],
@@ -8161,7 +8161,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1508,
-        "sha256": "def3461cdf9ed0591517627541802609a53d42b5cfc8ebaacb06e9032766a365",
+        "sha256": "ccd48442c799855ec80fe1d547fa45744a617970661013a0274b518f769f7503",
         "page_span": [
           96
         ],
@@ -8220,7 +8220,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "A table that describes four separate geologic locations is shown. Location Description Location A • No volcanic rocks present • Area experiences moderate to large-scale earthquakes Location B • Volcanic rocks present • Light to moderate volcanic activity daily Location C • No volcanic rocks present • No evidence of seismic activity in the last 10,000 years Location D • Volcanic rocks present • Moderate earthquake activity yearly"
+          "A table that describes four separate geologic locations is shown. Location Description Location A \u2022 No volcanic rocks present \u2022 Area experiences moderate to large-scale earthquakes Location B \u2022 Volcanic rocks present \u2022 Light to moderate volcanic activity daily Location C \u2022 No volcanic rocks present \u2022 No evidence of seismic activity in the last 10,000 years Location D \u2022 Volcanic rocks present \u2022 Moderate earthquake activity yearly"
         ]
       },
       "answer_key": {
@@ -8252,7 +8252,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1533,
-        "sha256": "ee0b4f68d418546c2b509722ab9ae8e0625de9fe2ec09e211956c13c5d53699f",
+        "sha256": "1b9e3a408129ddd636289419b76fede440ea567aff4422e95c5aa1eca832c4ef",
         "page_span": [
           97
         ],
@@ -8379,7 +8379,7 @@
         }
       },
       "question": {
-        "stem": "Glacial striations in the bedrock of South Africa indicate that glaciers once moved across the African continent. The presence of glaciers on the surface of Africa is evidence that —",
+        "stem": "Glacial striations in the bedrock of South Africa indicate that glaciers once moved across the African continent. The presence of glaciers on the surface of Africa is evidence that \u2014",
         "instruction": "Select the correct answer.",
         "options": [
           {
@@ -8395,7 +8395,7 @@
           {
             "position": 3,
             "label": "H",
-            "text": "volcanoes did not exist until after faults occurred in Earth’s crust"
+            "text": "volcanoes did not exist until after faults occurred in Earth\u2019s crust"
           },
           {
             "position": 4,
@@ -8443,7 +8443,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1178,
-        "sha256": "2c8ccb68155c5a06660b307284fc50a7abaee756f38db821e961d407549b97be",
+        "sha256": "6c13bb1c7f5acd12400fa907d69db2bef1bc9b43caeabb636e1cd4e4e0f4d7a9",
         "page_span": [
           99
         ],
@@ -8536,7 +8536,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1886,
-        "sha256": "f446c4d142c55f63a48c5751e06d71b1dee384f0b077cbe084454b8038995912",
+        "sha256": "a98abcd3390bef656a28dafcd0efe3339ca7d23df5fa70e8e228eb46e08a0ebd",
         "page_span": [
           100
         ],
@@ -8632,7 +8632,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1829,
-        "sha256": "340a27b1076914be2e01186271a5dea5cfced421692c5ab999156ffadf8c3497",
+        "sha256": "f55286885cf3f743c28c5b8303375a6ec1ed375a6a5a42af64b01ce20d568ec7",
         "page_span": [
           101
         ],
@@ -8732,7 +8732,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2123,
-        "sha256": "262a1ceb9ceb7891fa82e4b8c105e9162ce0975418840f3685ae58d661e99e83",
+        "sha256": "c590d8f3ea40b47aa65f73e6f06072bbfe873ad3d65711808045bae5dc1efa50",
         "page_span": [
           102
         ],
@@ -8892,7 +8892,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1735,
-        "sha256": "a0011a5c3ae0b1ccdce11b0bc51d2569de9797d277d5eb51940954dd6debccfc",
+        "sha256": "abfb62cb1df16e7f8dc10c45c7201aba9818950930e8a7b8e2f8fded8d2e7164",
         "page_span": [
           104
         ],
@@ -8985,7 +8985,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1333,
-        "sha256": "344fa8f87d747d3121d3b706dd45ba8d9af758cacee4dc7d061d444cd8edc646",
+        "sha256": "8f70d39a23008a492d93abd10690813ef493081087964a2fee819f1ee47f4b94",
         "page_span": [
           105
         ],
@@ -9078,7 +9078,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1277,
-        "sha256": "fcae1f3d9661e2949b7f61ee6330918a0ca5128601fb317a21f46aacb71f2ef1",
+        "sha256": "055ac7d913a8738fd0000783273eaeb367108e646dfb033d4f3f39acc463c543",
         "page_span": [
           106
         ],
@@ -9174,7 +9174,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2004,
-        "sha256": "193e5b1d1de353730587b20edddf8783d5a363f4c2b58dc5b876bf85ca8239ea",
+        "sha256": "18369f92dfe6907bf765596f069afefd8946241031bf5cf99f04b5117b9d3cc4",
         "page_span": [
           107
         ],
@@ -9270,7 +9270,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1184,
-        "sha256": "6509c0f1d0520f4e6b0df739d998c765e200d43b944a8aa007fb1b85192390c6",
+        "sha256": "5705c0fc776e4fa00f28a1a3b4dba7752eda70426e6b35f9bf240d18b2f81db2",
         "page_span": [
           108
         ],
@@ -9363,7 +9363,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1235,
-        "sha256": "9af7b6e78199930f5f157bd09430632eda019c48a4290b1d6ee0d1242fb01209",
+        "sha256": "3e342a40a22a0d6ee571f53c303121ccc848a236967f7f4a29f1b9fd21e5900a",
         "page_span": [
           110
         ],
@@ -9457,7 +9457,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1288,
-        "sha256": "c0338db6c81e8397ea05f2ed0ad60200cee7a28b3fe696dad380b4cdbeea4cdf",
+        "sha256": "a9ea2ba2b1c2a1b9a95a02d2ec9a42a196cfa17f1910d81879a62899d0a78775",
         "page_span": [
           111
         ],
@@ -9583,7 +9583,7 @@
       },
       "question": {
         "stem": "Major surface currents of the ocean are shown in the diagram.",
-        "instruction": "Ocean currents affect weather patterns by —",
+        "instruction": "Ocean currents affect weather patterns by \u2014",
         "options": [
           {
             "position": 1,
@@ -9641,7 +9641,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "73aa5e470a7248bf5a90f5aec528139152f44a1cf6bad3a4137d122d339a4e00",
+        "sha256": "26a3d91f7a168464089058198ab6d051d6be0eb877ec2ca1852dceff499e2a69",
         "page_span": [
           114
         ],
@@ -9673,7 +9673,7 @@
         }
       },
       "question": {
-        "stem": "A student wants to study primary succession by removing all the plants in a plot of irrigated farmland previously used to grow corn. What will be the MOST LIKELY result of the student’s plan?",
+        "stem": "A student wants to study primary succession by removing all the plants in a plot of irrigated farmland previously used to grow corn. What will be the MOST LIKELY result of the student\u2019s plan?",
         "instruction": null,
         "options": [
           {
@@ -9735,7 +9735,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "2e5c4fdc533f22ea5374b3e6ae68ff1d1317c23903c3bb14721038f9e5492a24",
+        "sha256": "69da3e7072fc3405591b9f863e6778bf625b048fe9d5d8f41acc0e409477cbf3",
         "page_span": [
           115
         ],
@@ -9829,7 +9829,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1419,
-        "sha256": "90b0ccdf985edcbb0aef9cff9b2f0637a27452233ee779723ec9d2a31baaeb70",
+        "sha256": "65016b02b54a6cfd88d5f09bcb34e7c8210e173f0e3f8476647b119fe7de6a4f",
         "page_span": [
           116
         ],
@@ -9861,7 +9861,7 @@
         }
       },
       "question": {
-        "stem": "Which factor MOST LIKELY slows or prevents this ecosystem’s progression from shrublands into forests?",
+        "stem": "Which factor MOST LIKELY slows or prevents this ecosystem\u2019s progression from shrublands into forests?",
         "instruction": null,
         "options": [
           {
@@ -9925,7 +9925,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "a42a53e7f5d6eb41213af3e68e4c86079e9021c875bb26eae71417aeed9204b8",
+        "sha256": "56231d2e82e6d18464743db67be1de3add25081b96346892507f9f9bd159f1b8",
         "page_span": [
           117
         ],
@@ -10022,7 +10022,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1254,
-        "sha256": "51539d8482b09babc874f7d9a02e15c2776ad23b901d34094513ce8449ffc031",
+        "sha256": "aac6aeec22e0115b520af776ae09e5c944a37036601f05aaca63fe970bcc3fb1",
         "page_span": [
           118
         ],
@@ -10113,7 +10113,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2529,
-        "sha256": "945729d2ed7d429cf3a2cbecf311bceb899e85dceff5fa0b63c8f1ad7aa2782f",
+        "sha256": "e83036ad1a6c15b46af8ed59199b891d7d1ed59b1b54c3f5e409bea1e58dd30f",
         "page_span": [
           119
         ],
@@ -10206,7 +10206,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1281,
-        "sha256": "d58666d0249efeac6205c70e70695535c9ae7e834fa68f94368973ffeff11cde",
+        "sha256": "20bdad11c48310d0b7bc2d0823ab21e04d00122fec6b863179632bc271dc40c6",
         "page_span": [
           120
         ],
@@ -10238,7 +10238,7 @@
         }
       },
       "question": {
-        "stem": "The table shows the predominant plant types on a piece of land in the years following a disturbance. | Plant Type | Time | |-----------------------------|--------------| | Annual plants | 1–2 years | | Grasses and biennial herbs | 3–4 years | | Perennial herbs and shrubs | 4–15 years | | Pines | 5–15 years | | Young oak and hickory trees | 10–30 years | | Mature oak and hickory forest| 30–75 years | Based on the data in the table, which disturbance most likely led to this progression?",
+        "stem": "The table shows the predominant plant types on a piece of land in the years following a disturbance. | Plant Type | Time | |-----------------------------|--------------| | Annual plants | 1\u20132 years | | Grasses and biennial herbs | 3\u20134 years | | Perennial herbs and shrubs | 4\u201315 years | | Pines | 5\u201315 years | | Young oak and hickory trees | 10\u201330 years | | Mature oak and hickory forest| 30\u201375 years | Based on the data in the table, which disturbance most likely led to this progression?",
         "instruction": null,
         "options": [
           {
@@ -10297,7 +10297,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "5fa8edf134c970d0eb25cb3f388f2d5a9f3fa9b8f28bd6caed9dfc350a4d9f0b",
+        "sha256": "6d5d6d55a0b069e0b587fbe0a51cd4d917eb13e8e32f5ec1fa4f745ef9a23743",
         "page_span": [
           121
         ],
@@ -10329,7 +10329,7 @@
         }
       },
       "question": {
-        "stem": "After a wheat field is cleared, wild grasses and weeds begin growing. This process is considered —",
+        "stem": "After a wheat field is cleared, wild grasses and weeds begin growing. This process is considered \u2014",
         "instruction": null,
         "options": [
           {
@@ -10386,7 +10386,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "202b9edd9f893b0b0d8477733d5a6a85b56be7eb5cb0be6b29ea5591284a49b1",
+        "sha256": "60b71cb87d34a39de66cada9ebaf8788efe333a903edcb28ccecb9a9f67aa194",
         "page_span": [
           122
         ],
@@ -10418,7 +10418,7 @@
         }
       },
       "question": {
-        "stem": "Sand dunes along the coast are formed of bare sand. Eventually, grasses take root on the dunes. Over time, larger plants such as shrubs and trees are able to grow at the edge of the sand dune ecosystem. This gradual change in plant communities of a sand dune ecosystem can result in —",
+        "stem": "Sand dunes along the coast are formed of bare sand. Eventually, grasses take root on the dunes. Over time, larger plants such as shrubs and trees are able to grow at the edge of the sand dune ecosystem. This gradual change in plant communities of a sand dune ecosystem can result in \u2014",
         "instruction": null,
         "options": [
           {
@@ -10475,7 +10475,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "3a9ddaf96e159d6ab98018b31a556d918a35ff98d6463421d328262738ca5618",
+        "sha256": "63a9b79a64caae340fdbbddca5bc60f8333c52986f92d09ea3ff2701d3e011c3",
         "page_span": [
           123
         ],
@@ -10564,7 +10564,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "4b9242feb655f7d4e02bd57c1740bdafa727ccbae85b5761ab4f27a2fea6ae9f",
+        "sha256": "411dc49d7732bc6ee230ffe620c18c9b331ab53e686d498eb6303ac8c93c8cb0",
         "page_span": [
           124
         ],
@@ -10653,7 +10653,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "03dff0459b200572c27e189b69a08d8f7a8e9058a1508919258b12774c94aa3c",
+        "sha256": "9ec3311e066568dc01f5f8731a9cf7fcfded36bf19f1f78b43fce0dcbabca8da",
         "page_span": [
           125
         ],
@@ -10744,7 +10744,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "8d1c0208d47e60d9aa3f0146d2114de58228bd30070c9fd9cb05b9abe0e9a5d4",
+        "sha256": "ba246d761368871681b53a00f1284bea79a35223b47f3603719ac2c03717ff5a",
         "page_span": [
           126
         ],
@@ -10840,7 +10840,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1642,
-        "sha256": "8880c0393357224263b560f5a5796b52596db6edddcff048aee20dc32d806f45",
+        "sha256": "30ef1c2da4191051e1d4c6eaa0509d4d3e4a8cc118200ba5c609dc35d16a6688",
         "page_span": [
           127
         ],
@@ -10878,22 +10878,22 @@
           {
             "position": 1,
             "label": "A",
-            "text": "Ecosystem Plan 1 • Elodea plants • Goldfish • Zebra fish • Rocks"
+            "text": "Ecosystem Plan 1 \u2022 Elodea plants \u2022 Goldfish \u2022 Zebra fish \u2022 Rocks"
           },
           {
             "position": 2,
             "label": "B",
-            "text": "Ecosystem Plan 2 • Elodea plants • Goldfish • Colorful gravel"
+            "text": "Ecosystem Plan 2 \u2022 Elodea plants \u2022 Goldfish \u2022 Colorful gravel"
           },
           {
             "position": 3,
             "label": "C",
-            "text": "Ecosystem Plan 3 • Elodea plants • Water lily plants • Lace ferns"
+            "text": "Ecosystem Plan 3 \u2022 Elodea plants \u2022 Water lily plants \u2022 Lace ferns"
           },
           {
             "position": 4,
             "label": "D",
-            "text": "Ecosystem Plan 4 • Elodea plants • Lace ferns • Goldfish • Snails"
+            "text": "Ecosystem Plan 4 \u2022 Elodea plants \u2022 Lace ferns \u2022 Goldfish \u2022 Snails"
           }
         ],
         "choice_pool": [],
@@ -10933,7 +10933,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1184,
-        "sha256": "e34497df2b5b1108de6f59652756685f2aea58100fa3de0152088f94d9d473cf",
+        "sha256": "981328aa81ba95f2765541d4081fda34c34e14501bef0c5c11fef5adc546d6c5",
         "page_span": [
           128
         ],
@@ -10967,7 +10967,7 @@
         }
       },
       "question": {
-        "stem": "A farmer digs a small pond in a pasture. The farmer adds young individuals from two species of algae-eating fish to the pond and plants some reeds around the edges of the pond. The farmer wants the pond to be a sustainable ecosystem. Which of the following would be most helpful in increasing the pond ecosystem’s sustainability?",
+        "stem": "A farmer digs a small pond in a pasture. The farmer adds young individuals from two species of algae-eating fish to the pond and plants some reeds around the edges of the pond. The farmer wants the pond to be a sustainable ecosystem. Which of the following would be most helpful in increasing the pond ecosystem\u2019s sustainability?",
         "instruction": null,
         "options": [
           {
@@ -11024,7 +11024,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1191,
-        "sha256": "9655fb3127c24772a73792acd33445d077b8ea375387d4aa77d690150803bb0a",
+        "sha256": "12d9c5a9520fa86b191552739568a5cab9a09917243f063ae3291a637a333764",
         "page_span": [
           129
         ],
@@ -11038,7 +11038,7 @@
         "year": 2022,
         "question_number": 7,
         "cluster": "Organisms and Environments",
-        "subcluster": "Earth’s Water and Human Activity",
+        "subcluster": "Earth\u2019s Water and Human Activity",
         "content": "Supporting",
         "process": "",
         "process_codes": [],
@@ -11056,7 +11056,7 @@
         }
       },
       "question": {
-        "stem": "Farmers can best reduce negative effects on the water quality of nearby streams and lakes by planting crops that —",
+        "stem": "Farmers can best reduce negative effects on the water quality of nearby streams and lakes by planting crops that \u2014",
         "instruction": null,
         "options": [
           {
@@ -11127,7 +11127,7 @@
         "year": 2019,
         "question_number": 33,
         "cluster": "Organisms and Environments",
-        "subcluster": "Earth’s Water and Human Activity",
+        "subcluster": "Earth\u2019s Water and Human Activity",
         "content": "Supporting",
         "process": "8.3(B)",
         "process_codes": [
@@ -11147,7 +11147,7 @@
         }
       },
       "question": {
-        "stem": "The model shows an area near a lake. Community leaders are planning new laws to help protect the lake from pollution. One proposed law will make it illegal to dump trash on the shore of the lake, but the law still allows trash to be placed in the area labeled “Flow-through wetland.”",
+        "stem": "The model shows an area near a lake. Community leaders are planning new laws to help protect the lake from pollution. One proposed law will make it illegal to dump trash on the shore of the lake, but the law still allows trash to be placed in the area labeled \u201cFlow-through wetland.\u201d",
         "instruction": "Which statement about the proposed law is supported by the model?",
         "options": [
           {
@@ -11206,7 +11206,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1284,
-        "sha256": "07c19cd9dc8879d99215c398a9c994e27086103160bf94e0e55f4cae59ece62a",
+        "sha256": "cc4da192d3571ca997a68ffb5c5d98a3d750cb14d5d21583240ec125796d3794",
         "page_span": [
           131
         ],
@@ -11300,7 +11300,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1511,
-        "sha256": "aaf4f6401c40da436dc46abcd9d3eb3b6c3ae530d98e889b066d72adbfb21be3",
+        "sha256": "dc2d71311ace38a49c9ee0f1b0b9a6a01d7b728139f51a0dea9a4d7b35581f0b",
         "page_span": [
           132
         ],
@@ -11314,7 +11314,7 @@
         "year": 2024,
         "question_number": 13,
         "cluster": "Organisms and Environments",
-        "subcluster": "Earth’s Water and Human Activity",
+        "subcluster": "Earth\u2019s Water and Human Activity",
         "content": "Supporting",
         "process": "",
         "process_codes": [],
@@ -11360,7 +11360,7 @@
         "response_template": null,
         "visual_elements": [
           "exclamation icon",
-          "2024 – Q13"
+          "2024 \u2013 Q13"
         ]
       },
       "answer_key": {
@@ -11397,7 +11397,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "cda5f0e47ca38cdc1180a011fe98599e3a98af99da627aa5d3b8ddc5d438f552",
+        "sha256": "5800c0846d683d8ac9f2c952077ceea85bffd3d901940ac3c9c3e8a6dce23a74",
         "page_span": [
           133
         ],
@@ -11411,7 +11411,7 @@
         "year": 2022,
         "question_number": 30,
         "cluster": "Organisms and Environments",
-        "subcluster": "Earth’s Water and Human Activity",
+        "subcluster": "Earth\u2019s Water and Human Activity",
         "content": "Supporting",
         "process": "",
         "process_codes": [],
@@ -11488,7 +11488,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1696,
-        "sha256": "86555e4a7720c548ac366c43a6d6633f534554207bba93531ffd6b90575af287",
+        "sha256": "3ded2f5f7d3b6e0994abcff460bf999cede67a03ed6745c6f8fc7a97a6e7e603",
         "page_span": [
           134
         ],
@@ -11557,7 +11557,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1971,
-        "sha256": "18cd6aa4e8d2f3855d556c2f9fdac7e7c7e3be34e924d400703573fe19c8f361",
+        "sha256": "abee9728d7be31ceadfd3deab763f8fbd858ef5edf92f9458afedb92fa782bcc",
         "page_span": [
           135
         ],
@@ -11653,7 +11653,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1930,
-        "sha256": "24dcfb03f366b3cc9449da2105120c45658c9112b18d0c32c5108198658b050b",
+        "sha256": "fe67637907bc41ab8fd271d9eb9db52128237be43ffb9b070a3659537236e897",
         "page_span": [
           136
         ],
@@ -11746,7 +11746,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1263,
-        "sha256": "60452860c3e894e4bff2e65b9d78246a19faa5f3e0a366ca31a537b77cf1d844",
+        "sha256": "5ac439d8b69b0b0ab53d1234cbcff246aebe6f6be540b338a5e67e46b3088877",
         "page_span": [
           137
         ],
@@ -11843,7 +11843,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2015,
-        "sha256": "b437d4deb8ac5a5fbfc3591998aa345012f643f09378fd0892451e15ca557283",
+        "sha256": "4fa7ce16a502a491a331f7a3ad55349345c1cce6c3cabdf572fa6469e83a9c11",
         "page_span": [
           138
         ],
@@ -11902,7 +11902,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "Food web diagram with arrows showing: Phytoplankton → Small fish, Phytoplankton → Insects, Insects → Small fish, Insects → Sea ducks, Small fish → Cranes, Small fish → Ospreys, Small fish → Large fish, Large fish → Bald eagles, Sea ducks → Bald eagles"
+          "Food web diagram with arrows showing: Phytoplankton \u2192 Small fish, Phytoplankton \u2192 Insects, Insects \u2192 Small fish, Insects \u2192 Sea ducks, Small fish \u2192 Cranes, Small fish \u2192 Ospreys, Small fish \u2192 Large fish, Large fish \u2192 Bald eagles, Sea ducks \u2192 Bald eagles"
         ]
       },
       "answer_key": {
@@ -11933,7 +11933,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1950,
-        "sha256": "64e19a81150fa999378f3843be6d568caba9e3068ea9d10be911a211b25ab416",
+        "sha256": "256195b6eeab854794e08f366cb5404dcc00a6e0c4ea9d63c17bdbc6f7e99211",
         "page_span": [
           139
         ],
@@ -12034,7 +12034,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1618,
-        "sha256": "ebe89b666ff9c03288d988c7c5e9596c840eb118f32aaf49d492dd3254df5fe1",
+        "sha256": "1e20a91c8d0393f205310043190d2e11ac3a1c7ba3ddf7d91418f68ea597e51e",
         "page_span": [
           140
         ],
@@ -12130,7 +12130,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2065,
-        "sha256": "a505f30db14968aa719e31af1198ba5ad77d9c9e3a269ec365278a7193696a57",
+        "sha256": "d83523c23351282818657e44db5c9e31caf72aec07220e51d8d2ee4cc4e91610",
         "page_span": [
           141
         ],
@@ -12226,7 +12226,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1253,
-        "sha256": "7ca496b5b5e2fd22fbd8bf452fa0efbec2146f66b3aa7ef5a4dee868d51d7898",
+        "sha256": "263e686a13062e629f0ef8eb4295bad1c2ba4cf18e15831d0214200cda73a43a",
         "page_span": [
           142
         ],
@@ -12317,7 +12317,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1253,
-        "sha256": "dfbc026416ec01631f8d4768bcf3c668d92ce375face5a994e1ea2a8d5785340",
+        "sha256": "09e0bcead0705a3faf80cf7758cd19b2155ecbdbdcf126331cc8199b87637f9b",
         "page_span": [
           143
         ],
@@ -12408,7 +12408,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1907,
-        "sha256": "d68f8be9877a5dbc06dc1cb8cca2c8747a52efcc257f5bd5d53b6e1c5570b65b",
+        "sha256": "aeabcd2a0605e1e255977cb6d0ae0f25b5fdb30bed5f3585cfe69e582798dc3d",
         "page_span": [
           144
         ],
@@ -12501,7 +12501,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "a8f4ea6e8425335237a66555d3cf2f2db21feee4825c0a66fb595dc4fc6259d2",
+        "sha256": "8e1a4f46e58c8e20d0af3cbd3b2bf7e560f1887938aa16437ea5d9674bb68d42",
         "page_span": [
           145
         ],
@@ -12592,7 +12592,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1684,
-        "sha256": "14bef974e128327336dd4bb896e1a5be390df9d1b5f43414d4b3443d34d44b76",
+        "sha256": "726fa96437d048edf0aa8e77d342a18d3004a429e99ac0ea26c874c2326215e9",
         "page_span": [
           146
         ],
@@ -12685,7 +12685,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1185,
-        "sha256": "ff6a1f767cec53f9700de874820fd745bb8e983f99b88b3e1733c9af5878b36b",
+        "sha256": "6c143127578d0020d14271b43d4233f016b18ee829f8edd6fbf48785bbe8dbbb",
         "page_span": [
           147
         ],
@@ -12808,7 +12808,7 @@
         }
       },
       "question": {
-        "stem": "Three different species of plants that live in the desert are shown. Species Z can successfully share the same environment with the other plants shown because species Z absorbs water —",
+        "stem": "Three different species of plants that live in the desert are shown. Species Z can successfully share the same environment with the other plants shown because species Z absorbs water \u2014",
         "instruction": null,
         "options": [
           {
@@ -12867,7 +12867,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1184,
-        "sha256": "703b4a7f4bd3fcc8ea40dfcc20b9e7b8d17751a8549eea39c49c7eeb7eeaf593",
+        "sha256": "a7fc94a8ae803b04bc47acb9359cca4c7a3283db7f65f91babdc6ffd3becad0b",
         "page_span": [
           149
         ],
@@ -12958,7 +12958,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1448,
-        "sha256": "4f28760a412186960711196e9571424aab8fec1d9753824f0278f10b0cdd76ec",
+        "sha256": "7b50be0463d09d88b77a90ba6a91d6da0342ef73cce5ea0fc2a08b4a9ffb8c5f",
         "page_span": [
           150
         ],
@@ -13049,7 +13049,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1487,
-        "sha256": "0505b1d2038b3f60384b52f9b155089f1ea29dc91ed2623f9e2c9d602a3bac52",
+        "sha256": "c1b54589b16ec35eec56d3259dd94141db71015d41a348841a587d239e2a6730",
         "page_span": [
           151
         ],
@@ -13140,7 +13140,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1201,
-        "sha256": "f8e43b765654442abe6cbf8c05b42fdf1c6b83f7307e10b574d7d82d1e0a8c01",
+        "sha256": "8f321692fe02b0e41111c9c16ea4c3fc9b54acb82b1096c421f21577d6704d35",
         "page_span": [
           152
         ],
@@ -13172,7 +13172,7 @@
         }
       },
       "question": {
-        "stem": "Plants grow in many different shapes and sizes. Much of their shape depends on an internal structure that is composed of carbon-containing molecules such as cellulose and lignin. Plants that have a strong internal structure can grow larger than other plants because their structure can support their size. Plants obtain the majority of the carbon necessary for building these structural molecules from —",
+        "stem": "Plants grow in many different shapes and sizes. Much of their shape depends on an internal structure that is composed of carbon-containing molecules such as cellulose and lignin. Plants that have a strong internal structure can grow larger than other plants because their structure can support their size. Plants obtain the majority of the carbon necessary for building these structural molecules from \u2014",
         "instruction": null,
         "options": [
           {
@@ -13231,7 +13231,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1240,
-        "sha256": "fe560ef8070209ec90f0bd0a07a42786d6cc58dbdc503b1046765a3359d7b47c",
+        "sha256": "ce07a7ecf18da3cdffc5e983eb764c62c3a006c6c82769662b7a5c28d15b55ac",
         "page_span": [
           154
         ],
@@ -13338,7 +13338,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "f1d93f42264c173542bb254a81d65c38652ebe83bcacc1e4205abcc0b772ec03",
+        "sha256": "696e86b7cde006019a45c36d3667f8f47432320422ecb54efd9c7ec49d2cc560",
         "page_span": [
           155
         ],
@@ -13397,7 +13397,7 @@
         "choice_pool": [],
         "response_template": null,
         "visual_elements": [
-          "2022 – Q18",
+          "2022 \u2013 Q18",
           "18 What function do both cell membranes and cell walls perform?",
           "F Producing energy for cellular processes",
           "G Allowing water to move into and out of cells",
@@ -13434,7 +13434,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1268,
-        "sha256": "575c17b735ad553c1effce051b5312cbf81f283e6c34d19501a9ed361fbba96d",
+        "sha256": "4c965ddb90e577dfb3ffe13e50500a5dafefce30dc14ef8757c7a900ac9e7853",
         "page_span": [
           156
         ],
@@ -13468,7 +13468,7 @@
         }
       },
       "question": {
-        "stem": "Students view two different cells under a microscope. They record their observations in the table shown. Based on the organelles observed, the students determine that cell 2 is a plant cell because it has an organelle that —",
+        "stem": "Students view two different cells under a microscope. They record their observations in the table shown. Based on the organelles observed, the students determine that cell 2 is a plant cell because it has an organelle that \u2014",
         "instruction": null,
         "options": [
           {
@@ -13527,7 +13527,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1253,
-        "sha256": "8723e2af88a20044d6685f14f69f5ec3edaf44928bf38dec63a2daaded9efc6c",
+        "sha256": "130f2ed842b2c74c4e0dc3722d04267b59bad21df60d05dd7310af6cef7a5df4",
         "page_span": [
           157
         ],
@@ -13616,7 +13616,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1184,
-        "sha256": "e26abd1a03b5d1f54319cfb1740df4b57e6c6797246e5812cd7056a414e3fb7b",
+        "sha256": "a6fec9a5cd0208854e20c1d7e3a5c265e316a4b14aeec46eb7e6990f392c77f3",
         "page_span": [
           158
         ],
@@ -13648,7 +13648,7 @@
         }
       },
       "question": {
-        "stem": "A tiger cub has a pattern of stripes on its fur that is similar to that of its parents. Where are the instructions stored that provide information for a tiger’s fur pattern?",
+        "stem": "A tiger cub has a pattern of stripes on its fur that is similar to that of its parents. Where are the instructions stored that provide information for a tiger\u2019s fur pattern?",
         "instruction": null,
         "options": [
           {
@@ -13705,7 +13705,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1233,
-        "sha256": "f2e3a338688dbc29ce6f013c387e3880ec8d7ba8068df03125d425976beff290",
+        "sha256": "6f46715b99ceb9c9dfe6c937a463a5f35916e237e8ad96aec84d77d879efa005",
         "page_span": [
           159
         ],
@@ -13801,7 +13801,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2416,
-        "sha256": "29957acc9af28c06b20b64df9089b40e84f95b4e61b18c637f3b0d9deceee2df",
+        "sha256": "54c0c1ccb8b62f76404323385d7c8c410ee943d27cc9a8384c526f2af1627bfb",
         "page_span": [
           160
         ],
@@ -13898,7 +13898,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1224,
-        "sha256": "897e46de1508e7b43cd42758f95398a42ccb7877898596565b7e470ecd86f93f",
+        "sha256": "a83ed2de168798aa5ae3641df01cba3b849b10d94a74585ca9379305b04e0dc6",
         "page_span": [
           161
         ],
@@ -13930,7 +13930,7 @@
         }
       },
       "question": {
-        "stem": "A student dusts off a cabinet and begins to cough. The student’s muscles tense, causing the student to exhale while coughing. Which body systems are MOST directly involved in coughing?",
+        "stem": "A student dusts off a cabinet and begins to cough. The student\u2019s muscles tense, causing the student to exhale while coughing. Which body systems are MOST directly involved in coughing?",
         "instruction": null,
         "options": [
           {
@@ -13992,7 +13992,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1328,
-        "sha256": "3da61b0e167b17f4270270a907a6b409168b29c37e4a5d679beb77d0fb92ac87",
+        "sha256": "5d73641b784b3e38ef7707b2204172db6bcae7c68eb957479af14dffc4fcd71f",
         "page_span": [
           162
         ],
@@ -14061,7 +14061,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1447,
-        "sha256": "3e86ba3d8a398a3e4c8511f7bd8f42dd167c1f5d63ab67a57865f571225bef3b",
+        "sha256": "c9fe435b8546b7297d6fb5ba85a1617f2979456d8acec518faf295c34301c0b2",
         "page_span": [
           163
         ],
@@ -14093,7 +14093,7 @@
         }
       },
       "question": {
-        "stem": "A system in the human body is shown. The main function of this system is to —",
+        "stem": "A system in the human body is shown. The main function of this system is to \u2014",
         "instruction": null,
         "options": [
           {
@@ -14152,7 +14152,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 2352,
-        "sha256": "0c5fe3a7bad25532d6850e105e25f768c4667534818d4b08d79c1912e4dcf129",
+        "sha256": "ea01fd73b7bceb085ef8817d0c46ab43f81d9d06cf3226bd517cfbf26b602dc6",
         "page_span": [
           164
         ],
@@ -14246,7 +14246,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "1f16a074b3ba42f036ade4370899ad5d0ab55e1893ac2de4ef7c1acdba6786c8",
+        "sha256": "ef2345addc86ecf174555654fb81c1bd24af373e3d2f2f03b19e845cb8f7f32e",
         "page_span": [
           165
         ],
@@ -14335,7 +14335,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "e76fec948f6bf4c5d0d9571de3ef592202f5a790a6415708e3182702e9ec765b",
+        "sha256": "b8d4dfb170d70e931e5e034598e462b7f4e3fe718e831f27d43ec95dab762722",
         "page_span": [
           166
         ],
@@ -14424,7 +14424,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1217,
-        "sha256": "c8761005a99228c9a92ee2dfc2d4fe3e93479c0a127dfa740d9cacf5b7a0c1bd",
+        "sha256": "d1f55ab6977cd8c3b68bd4d47747bb2681848ae197a956f43db2ee771143ca0e",
         "page_span": [
           167
         ],
@@ -14518,7 +14518,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1253,
-        "sha256": "7018787e6a562bccea4269327dcce10c70cf07e8a605579568395a94ed140df1",
+        "sha256": "ed690fa91f9ef4ebef97d33a7e1acf7187f643792dfd9d84a302abe54810b05e",
         "page_span": [
           168
         ],
@@ -14607,7 +14607,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1845,
-        "sha256": "dba5103920670ab07be3976f54aef2db11be3ffdd475c2295d69e26974646b03",
+        "sha256": "352a170895494933d177887edeba41a12fb6bcf39b974152d455be5e2dc4b88a",
         "page_span": [
           169
         ],
@@ -14639,7 +14639,7 @@
         }
       },
       "question": {
-        "stem": "Even though these puppies have the same parents, they do not all look alike because —",
+        "stem": "Even though these puppies have the same parents, they do not all look alike because \u2014",
         "instruction": null,
         "options": [
           {
@@ -14698,7 +14698,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1744,
-        "sha256": "9400bb58dc6bf2f348ec5b1e8e32b4c652768d1fa9885d65bb066644df929aed",
+        "sha256": "f004602464e251cfa2be37c49f29112e787b89682bd42cafdb40798184e47984",
         "page_span": [
           170
         ],
@@ -14708,7 +14708,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "6.13(A)",
-        "standard_description": "RC 4 6.13(A) describe the historical development of cell theory and explain how organisms are composed of one or more cells, which come from pre‐existing cells and are the basic unit of structure and function OLD 7.12(F) recognize the components of cell theory",
+        "standard_description": "RC 4 6.13(A) describe the historical development of cell theory and explain how organisms are composed of one or more cells, which come from pre\u2010existing cells and are the basic unit of structure and function OLD 7.12(F) recognize the components of cell theory",
         "year": 2024,
         "question_number": 29,
         "cluster": "Structure, Function, and Survival",
@@ -14798,7 +14798,7 @@
         "render_dpi": 300,
         "image_width_px": 1513,
         "image_height_px": 1192,
-        "sha256": "4bb9fae9243c8385de6eb476d1546427dc7774f7a889a8b78058d39d625558f2",
+        "sha256": "bc18e14f8468020b846c8bda7a10e5c6155962762f592359a6e81a59c3a23588",
         "page_span": [
           171
         ],
@@ -14808,7 +14808,7 @@
         "grade": 8,
         "subject": "Science",
         "standard": "6.13(A)",
-        "standard_description": "describe the historical development of cell theory and explain how organisms are composed of one or more cells, which come from pre‐existing cells and are the basic unit of structure and function OLD 7.12(F) recognize the components of cell theory",
+        "standard_description": "describe the historical development of cell theory and explain how organisms are composed of one or more cells, which come from pre\u2010existing cells and are the basic unit of structure and function OLD 7.12(F) recognize the components of cell theory",
         "year": 2021,
         "question_number": 33,
         "cluster": "Structure, Function, and Survival",

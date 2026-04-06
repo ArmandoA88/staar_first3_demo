@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import argparse
 import base64
-import hashlib
 import json
 import os
 import re
@@ -16,6 +15,7 @@ from typing import Any
 import fitz
 from openai import APIError, OpenAI, RateLimitError
 from PIL import Image
+from png_optimization import file_sha256, save_optimized_png
 
 
 YEAR_RE = re.compile(
@@ -461,8 +461,9 @@ def render_crop(page: fitz.Page, crop_rect: fitz.Rect, output_path: Path, dpi: i
     output_path.parent.mkdir(parents=True, exist_ok=True)
     matrix = fitz.Matrix(dpi / 72.0, dpi / 72.0)
     pixmap = page.get_pixmap(matrix=matrix, clip=crop_rect, alpha=False)
-    pixmap.save(output_path)
-    digest = hashlib.sha256(output_path.read_bytes()).hexdigest()
+    image = Image.frombytes("RGB", (pixmap.width, pixmap.height), pixmap.samples)
+    save_optimized_png(image, output_path)
+    digest = file_sha256(output_path)
     return {
         "crop_bbox_pdf_points": [round(crop_rect.x0, 3), round(crop_rect.y0, 3), round(crop_rect.x1, 3), round(crop_rect.y1, 3)],
         "render_dpi": dpi,
@@ -555,8 +556,8 @@ def save_rendered_question_image(
 ) -> dict[str, Any]:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     final_image = apply_question_image_postprocess(image, question_image_postprocess)
-    final_image.save(output_path)
-    digest = hashlib.sha256(output_path.read_bytes()).hexdigest()
+    save_optimized_png(final_image, output_path)
+    digest = file_sha256(output_path)
     return {
         "crop_bbox_pdf_points": crop_bbox_pdf_points,
         "render_dpi": dpi,
