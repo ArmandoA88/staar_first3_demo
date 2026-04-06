@@ -1,4 +1,4 @@
-name: Build Grade 3 macOS DMG
+name: Build Grade-Split macOS DMGs
 
 on:
   workflow_dispatch:
@@ -10,11 +10,13 @@ permissions:
   contents: read
 
 jobs:
-  build-macos-grade-3:
-    name: Build Grade 3 macOS DMG
+  build-macos:
+    name: Build Grade ${{ matrix.grade }} macOS DMG
     runs-on: macos-latest
-    env:
-      GRADE: 3
+    strategy:
+      fail-fast: false
+      matrix:
+        grade: [3, 4, 5, 6, 7, 8, 9, 10, 11]
 
     steps:
       - name: Checkout
@@ -51,12 +53,12 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Build grade-specific macOS DMG
-        run: npm run tauri:build:grade:dmg:root -- --grade ${{ env.GRADE }}
+        run: npm run tauri:build:grade:dmg:root -- --grade ${{ matrix.grade }}
 
       - name: Upload grade-specific macOS DMG from repo root
         uses: actions/upload-artifact@v4
         with:
-          name: staar-problem-browser-grade-3-macos-dmg
-          path: ./STAAR Problem Browser Grade 3_*_macOS.dmg
+          name: staar-problem-browser-grade-${{ matrix.grade }}-macos-dmg
+          path: ./STAAR Problem Browser Grade ${{ matrix.grade }}_*_macOS.dmg
           if-no-files-found: error
           retention-days: 14
