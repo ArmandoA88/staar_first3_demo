@@ -33,6 +33,10 @@ fn app_ready(app: AppHandle) -> Result<(), String> {
 fn save_pdf_file(path: String, bytes: Vec<u8>) -> Result<(), String> {
     let output_path = PathBuf::from(path);
 
+    if bytes.len() < 32 || !bytes.starts_with(b"%PDF-") {
+        return Err("The generated PDF was empty or invalid before it was saved.".to_string());
+    }
+
     if let Some(parent) = output_path.parent() {
         std::fs::create_dir_all(parent).map_err(|error| {
             format!(

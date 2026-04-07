@@ -2450,6 +2450,46 @@ function repairPrintableImageFailures(mode) {
   });
 }
 
+function hasPrintableStudentQuestionContent(section) {
+  const image = section.querySelector(".print-question-image");
+  if (image) {
+    return isRenderableImage(image);
+  }
+
+  const textContent = [
+    section.querySelector(".print-question-stem")?.textContent,
+    section.querySelector(".print-image-fallback-note")?.textContent,
+    section.querySelector(".print-question-instruction")?.textContent,
+    section.querySelector(".print-response-template")?.textContent,
+    section.querySelector(".print-choice-pool")?.textContent,
+    section.querySelector(".print-visual-elements")?.textContent,
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .trim();
+
+  return textContent.length > 0;
+}
+
+function ensurePrintableQuestionsReady(mode, exportSource, expectedCount) {
+  const questionSections = [...exportSource.querySelectorAll(".print-question[data-item-id]")];
+  if (questionSections.length !== expectedCount) {
+    throw new Error(`Expected ${expectedCount} questions in the PDF export, but found ${questionSections.length}.`);
+  }
+
+  if (mode !== "student") {
+    return;
+  }
+
+  const missingQuestions = questionSections
+    .filter((section) => !hasPrintableStudentQuestionContent(section))
+    .map((section) => section.dataset.questionNumber || "?");
+
+  if (missingQuestions.length) {
+    throw new Error(`Question content was not ready for export for question(s): ${missingQuestions.join(", ")}.`);
+  }
+}
+
 function mountPrintWorkspace(mode, selectedItems, options = {}) {
   state.printMode = mode;
   elements.printWorkspace.innerHTML = buildPrintableMarkup(mode, selectedItems);
@@ -2460,20 +2500,35 @@ function mountPrintWorkspace(mode, selectedItems, options = {}) {
   if (options.exportingPdf || options.preparingPrint) {
     if (options.exportingPdf) {
       elements.printWorkspace.dataset.exporting = "true";
+      document.body.classList.add("is-exporting-pdf");
+      Object.assign(elements.printWorkspace.style, {
+        display: "block",
+        position: "fixed",
+        left: "0",
+        top: "0",
+        width: "8.5in",
+        maxWidth: "100vw",
+        height: "100vh",
+        overflowY: "auto",
+        boxSizing: "border-box",
+        padding: "0.45in 0.55in",
+        background: "#fff",
+        zIndex: "2147483647",
+      });
     }
     if (options.preparingPrint) {
       elements.printWorkspace.dataset.preparingPrint = "true";
+      Object.assign(elements.printWorkspace.style, {
+        display: "block",
+        position: "fixed",
+        left: "-200vw",
+        top: "0",
+        width: "8.5in",
+        padding: "0.45in 0.55in",
+        background: "#fff",
+        zIndex: "-1",
+      });
     }
-    Object.assign(elements.printWorkspace.style, {
-      display: "block",
-      position: "fixed",
-      left: "-200vw",
-      top: "0",
-      width: "8.5in",
-      padding: "0.45in 0.55in",
-      background: "#fff",
-      zIndex: "-1",
-    });
   }
 }
 
@@ -2518,7 +2573,12 @@ async function buildPdfBytes(mode, exportSource) {
   const worker = window.html2pdf().set(buildPdfExportOptions(mode)).from(exportSource);
   await worker.toPdf();
   const pdf = await worker.get("pdf");
-  return new Uint8Array(pdf.output("arraybuffer"));
+  const bytes = new Uint8Array(pdf.output("arraybuffer"));
+  const header = new TextDecoder().decode(bytes.slice(0, 5));
+  if (bytes.length < 32 || header !== "%PDF-") {
+    throw new Error("The generated PDF was empty or invalid.");
+  }
+  return bytes;
 }
 
 async function trySavePdfWithDesktopDialog(mode, exportSource) {
@@ -2581,6 +2641,7 @@ function cleanupPrintWorkspace() {
   elements.printWorkspace.removeAttribute("data-preparing-print");
   elements.printWorkspace.removeAttribute("style");
   document.body.classList.remove("is-printing-student", "is-printing-answer-key");
+  document.body.classList.remove("is-exporting-pdf");
   state.printMode = "";
 }
 
@@ -2646,7 +2707,9 @@ async function downloadPdf(mode) {
     mountPrintWorkspace(mode, selectedItems, { exportingPdf: true });
     await waitForPrintableContent(elements.printWorkspace);
     repairPrintableImageFailures(mode);
+    await waitForPrintableContent(elements.printWorkspace);
     const exportSource = getPdfExportSource();
+    ensurePrintableQuestionsReady(mode, exportSource, selectedItems.length);
     if (await trySavePdfWithDesktopDialog(mode, exportSource)) {
       return;
     }

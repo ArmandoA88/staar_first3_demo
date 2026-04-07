@@ -1,4 +1,4 @@
-name: Build Grade-Split macOS DMGs
+name: Build Grade-Split Desktop Installers
 
 on:
   workflow_dispatch:
@@ -10,6 +10,57 @@ permissions:
   contents: read
 
 jobs:
+  build-windows:
+    name: Build Grade ${{ matrix.grade }} Windows MSI
+    runs-on: windows-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        grade: [3, 4, 5, 6, 7, 8, 9, 10, 11]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install Rust stable
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Rust cache
+        uses: swatinem/rust-cache@v2
+        with:
+          workspaces: "./src-tauri -> target"
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Build grade-specific Windows MSI
+        run: npm run tauri:build:grade:msi:root -- --grade ${{ matrix.grade }}
+
+      - name: Upload grade-specific Windows MSI from repo root
+        uses: actions/upload-artifact@v4
+        with:
+          name: staar-problem-browser-grade-${{ matrix.grade }}-windows-msi
+          path: ./STAAR Problem Browser Grade ${{ matrix.grade }}_*_windows.msi
+          if-no-files-found: error
+          retention-days: 14
+
   build-macos:
     name: Build Grade ${{ matrix.grade }} macOS DMG
     runs-on: macos-latest
