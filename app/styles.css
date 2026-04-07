@@ -1171,6 +1171,14 @@ img {
   display: none;
 }
 
+body.is-exporting-pdf {
+  background: #fff;
+}
+
+body.is-exporting-pdf .page-shell {
+  visibility: hidden;
+}
+
 .print-document {
   color: #111;
   background: #fff;
