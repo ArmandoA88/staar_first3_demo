@@ -35,40 +35,56 @@ function parseArgs(argv) {
   return parsed;
 }
 
-function parseGrades(args) {
+function parseBuildScopes(args) {
   if (args.grade) {
-    return [normalizeGrade(args.grade)];
+    return [normalizeBuildScope(args.grade)];
   }
 
   if (args.grades) {
     return String(args.grades)
       .split(",")
-      .map((value) => normalizeGrade(value.trim()));
+      .map((value) => normalizeBuildScope(value.trim()));
   }
 
   if (process.env.npm_config_grade && process.env.npm_config_grade !== "true") {
-    return [normalizeGrade(process.env.npm_config_grade)];
+    return [normalizeBuildScope(process.env.npm_config_grade)];
   }
 
   if (process.env.npm_config_grades && process.env.npm_config_grades !== "true") {
     return String(process.env.npm_config_grades)
       .split(",")
-      .map((value) => normalizeGrade(value.trim()));
+      .map((value) => normalizeBuildScope(value.trim()));
   }
 
   if (args._.length === 1) {
-    return [normalizeGrade(args._[0])];
+    return [normalizeBuildScope(args._[0])];
   }
 
-  throw new Error("Pass --grade <number> or --grades <comma-separated list>.");
+  throw new Error("Pass --grade <number|all> or --grades <comma-separated list>.");
 }
 
-function normalizeGrade(value) {
+function normalizeBuildScope(value) {
+  const normalized = String(value).trim().toLowerCase();
+  if (["all", "all-grades", "combined", "full"].includes(normalized)) {
+    return {
+      kind: "all",
+      value: null,
+      slug: "all-grades",
+      label: "All Grades",
+    };
+  }
+
   const numeric = Number.parseInt(String(value), 10);
   if (!Number.isInteger(numeric) || numeric <= 0) {
     throw new Error(`Invalid grade: ${value}`);
   }
-  return numeric;
+
+  return {
+    kind: "grade",
+    value: numeric,
+    slug: `grade-${numeric}`,
+    label: `Grade ${numeric}`,
+  };
 }
 
 function deepMerge(baseValue, overrideValue) {
@@ -95,21 +111,23 @@ function loadJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }
 
-function createVariantMetadata(baseConfig, grade) {
+function createVariantMetadata(baseConfig, scope) {
   const version = baseConfig.version || "0.0.0";
-  const productName = `STAAR Problem Browser Grade ${grade}`;
+  const productName = `STAAR Problem Browser ${scope.label}`;
+  const identifierSuffix = scope.kind === "grade" ? `grade${scope.value}` : "allgrades";
   return {
-    grade,
-    gradeSlug: `grade-${grade}`,
+    scope,
+    grade: scope.value,
+    gradeSlug: scope.slug,
     version,
     productName,
-    identifier: `com.staarproblembrowser.desktop.grade${grade}`,
+    identifier: `com.staarproblembrowser.desktop.${identifierSuffix}`,
     windowsOutputName: `${productName}_${version}_windows.msi`,
     macosOutputName: `${productName}_${version}_macOS.dmg`,
   };
 }
 
-function createVariantConfig(platform, grade) {
+function createVariantConfig(platform, scope) {
   const baseConfig = loadJson(baseConfigPath);
   const platformConfigPath = platformConfigPaths[platform];
   if (!platformConfigPath) {
@@ -118,7 +136,7 @@ function createVariantConfig(platform, grade) {
 
   const platformConfig = loadJson(platformConfigPath);
   const mergedConfig = deepMerge(baseConfig, platformConfig);
-  const variant = createVariantMetadata(baseConfig, grade);
+  const variant = createVariantMetadata(baseConfig, scope);
 
   mergedConfig.productName = variant.productName;
   mergedConfig.identifier = variant.identifier;
@@ -131,8 +149,14 @@ function createVariantConfig(platform, grade) {
 
   mergedConfig.bundle = {
     ...(mergedConfig.bundle || {}),
-    shortDescription: `Grade ${grade} desktop edition of the STAAR Problem Browser.`,
-    longDescription: `Desktop packaging for the STAAR Problem Browser grade ${grade} edition, including the bundled grade ${grade} collections, question images, and printable packet workflows.`,
+    shortDescription:
+      scope.kind === "grade"
+        ? `Grade ${scope.value} desktop edition of the STAAR Problem Browser.`
+        : "All-grades desktop edition of the STAAR Problem Browser.",
+    longDescription:
+      scope.kind === "grade"
+        ? `Desktop packaging for the STAAR Problem Browser grade ${scope.value} edition, including the bundled grade ${scope.value} collections, question images, and printable packet workflows.`
+        : "Desktop packaging for the STAAR Problem Browser all-grades edition, including the bundled released-question collections, question images, and printable packet workflows.",
   };
 
   fs.mkdirSync(buildConfigRoot, { recursive: true });
@@ -141,7 +165,7 @@ function createVariantConfig(platform, grade) {
   return { configPath, variant };
 }
 
-function runTauriBuild(platform, configPath, grade) {
+function runTauriBuild(platform, configPath, scope) {
   const tauriCliScriptPath = path.join(root, "node_modules", "@tauri-apps", "cli", "tauri.js");
   const args = [tauriCliScriptPath, "build", "--config", configPath];
 
@@ -151,20 +175,25 @@ function runTauriBuild(platform, configPath, grade) {
     args.push("--target", "universal-apple-darwin", "--bundles", "dmg");
   }
 
+  const buildEnv = { ...process.env };
+  if (scope.kind === "grade") {
+    buildEnv.STAAR_BUILD_GRADE = String(scope.value);
+  } else {
+    delete buildEnv.STAAR_BUILD_GRADE;
+  }
+
   const result = childProcess.spawnSync(process.execPath, args, {
     cwd: root,
     stdio: "inherit",
-    env: {
-      ...process.env,
-      STAAR_BUILD_GRADE: String(grade),
-    },
+    env: buildEnv,
   });
 
   if (result.status !== 0) {
     if (result.error) {
       throw result.error;
     }
-    throw new Error(`Tauri build failed for grade ${grade} on ${platform}.`);
+    const scopeLabel = scope.kind === "grade" ? `grade ${scope.value}` : "all grades";
+    throw new Error(`Tauri build failed for ${scopeLabel} on ${platform}.`);
   }
 }
 
@@ -241,11 +270,11 @@ function main() {
     throw new Error("Pass --platform windows or --platform macos.");
   }
 
-  const grades = parseGrades(args);
-  for (const grade of grades) {
-    const { configPath, variant } = createVariantConfig(platform, grade);
+  const scopes = parseBuildScopes(args);
+  for (const scope of scopes) {
+    const { configPath, variant } = createVariantConfig(platform, scope);
     console.log(`Building ${variant.productName} for ${platform} using ${configPath}`);
-    runTauriBuild(platform, configPath, grade);
+    runTauriBuild(platform, configPath, scope);
     copyInstallerToRoot(platform, variant);
   }
 }

@@ -1,12 +1,12 @@
-name: Build Grade-Split Desktop Installers
+name: Build Desktop Installers
 
 on:
   workflow_dispatch:
     inputs:
-      grades_json:
-        description: JSON array of grades to build, for example [3] or [3,4,5]
+      variants_json:
+        description: JSON array of variants to build, for example ["4","5","all"]
         required: true
-        default: "[3]"
+        default: '["4","5","6","7","8","9","10","11","all"]'
         type: string
       build_windows:
         description: Build Windows MSI artifacts
@@ -27,13 +27,13 @@ permissions:
 
 jobs:
   build-windows:
-    name: Build Grade ${{ matrix.grade }} Windows MSI
+    name: Build ${{ matrix.variant == 'all' && 'All Grades' || format('Grade {0}', matrix.variant) }} Windows MSI
     if: ${{ github.event_name != 'workflow_dispatch' || inputs.build_windows }}
     runs-on: windows-latest
     strategy:
       fail-fast: false
       matrix:
-        grade: ${{ fromJSON(github.event_name == 'workflow_dispatch' && inputs.grades_json || '[3]') }}
+        variant: ${{ fromJSON(github.event_name == 'workflow_dispatch' && inputs.variants_json || '["4","5","6","7","8","9","10","11","all"]') }}
 
     steps:
       - name: Checkout
@@ -83,25 +83,40 @@ jobs:
       - name: Install Python dependencies
         run: python -m pip install -r requirements.txt
 
-      - name: Build grade-specific Windows MSI
-        run: node scripts/build_tauri_grade_bundle.js --platform windows --grade ${{ matrix.grade }}
+      - name: Prepare Windows variant metadata
+        id: variant
+        shell: pwsh
+        run: |
+          $variant = '${{ matrix.variant }}'
+          if ($variant -eq 'all') {
+            "label=All Grades" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+            "artifact_slug=all-grades" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+            "upload_path=./STAAR Problem Browser All Grades_*_windows.msi" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          } else {
+            "label=Grade $variant" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+            "artifact_slug=grade-$variant" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+            "upload_path=./STAAR Problem Browser Grade $variant_*_windows.msi" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          }
 
-      - name: Upload grade-specific Windows MSI from repo root
+      - name: Build Windows MSI
+        run: node scripts/build_tauri_grade_bundle.js --platform windows --grade ${{ matrix.variant }}
+
+      - name: Upload Windows MSI from repo root
         uses: actions/upload-artifact@v4
         with:
-          name: staar-problem-browser-grade-${{ matrix.grade }}-windows-msi
-          path: ./STAAR Problem Browser Grade ${{ matrix.grade }}_*_windows.msi
+          name: staar-problem-browser-${{ steps.variant.outputs.artifact_slug }}-windows-msi
+          path: ${{ steps.variant.outputs.upload_path }}
           if-no-files-found: error
           retention-days: 14
 
   build-macos:
-    name: Build Grade ${{ matrix.grade }} macOS DMG
+    name: Build ${{ matrix.variant == 'all' && 'All Grades' || format('Grade {0}', matrix.variant) }} macOS DMG
     if: ${{ github.event_name != 'workflow_dispatch' || inputs.build_macos }}
     runs-on: macos-latest
     strategy:
       fail-fast: false
       matrix:
-        grade: ${{ fromJSON(github.event_name == 'workflow_dispatch' && inputs.grades_json || '[3]') }}
+        variant: ${{ fromJSON(github.event_name == 'workflow_dispatch' && inputs.variants_json || '["4","5","6","7","8","9","10","11","all"]') }}
 
     steps:
       - name: Checkout
@@ -137,13 +152,28 @@ jobs:
       - name: Install Python dependencies
         run: python -m pip install -r requirements.txt
 
-      - name: Build grade-specific macOS DMG
-        run: node scripts/build_tauri_grade_bundle.js --platform macos --grade ${{ matrix.grade }}
+      - name: Prepare macOS variant metadata
+        id: variant
+        shell: bash
+        run: |
+          variant='${{ matrix.variant }}'
+          if [[ "$variant" == "all" ]]; then
+            echo "label=All Grades" >> "$GITHUB_OUTPUT"
+            echo "artifact_slug=all-grades" >> "$GITHUB_OUTPUT"
+            echo "upload_path=./STAAR Problem Browser All Grades_*_macOS.dmg" >> "$GITHUB_OUTPUT"
+          else
+            echo "label=Grade $variant" >> "$GITHUB_OUTPUT"
+            echo "artifact_slug=grade-$variant" >> "$GITHUB_OUTPUT"
+            echo "upload_path=./STAAR Problem Browser Grade $variant_*_macOS.dmg" >> "$GITHUB_OUTPUT"
+          fi
 
-      - name: Upload grade-specific macOS DMG from repo root
+      - name: Build macOS DMG
+        run: node scripts/build_tauri_grade_bundle.js --platform macos --grade ${{ matrix.variant }}
+
+      - name: Upload macOS DMG from repo root
         uses: actions/upload-artifact@v4
         with:
-          name: staar-problem-browser-grade-${{ matrix.grade }}-macos-dmg
-          path: ./STAAR Problem Browser Grade ${{ matrix.grade }}_*_macOS.dmg
+          name: staar-problem-browser-${{ steps.variant.outputs.artifact_slug }}-macos-dmg
+          path: ${{ steps.variant.outputs.upload_path }}
           if-no-files-found: error
           retention-days: 14
