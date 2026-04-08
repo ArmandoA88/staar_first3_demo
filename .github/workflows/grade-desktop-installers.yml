@@ -68,7 +68,7 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Build grade-specific Windows MSI
-        run: npm run tauri:build:grade:msi:root -- --grade ${{ matrix.grade }}
+        run: node scripts/build_tauri_grade_bundle.js --platform windows --grade ${{ matrix.grade }}
 
       - name: Upload grade-specific Windows MSI from repo root
         uses: actions/upload-artifact@v4
@@ -122,7 +122,7 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Build grade-specific macOS DMG
-        run: npm run tauri:build:grade:dmg:root -- --grade ${{ matrix.grade }}
+        run: node scripts/build_tauri_grade_bundle.js --platform macos --grade ${{ matrix.grade }}
 
       - name: Upload grade-specific macOS DMG from repo root
         uses: actions/upload-artifact@v4
