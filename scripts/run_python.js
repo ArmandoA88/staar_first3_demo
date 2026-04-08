@@ -9,8 +9,8 @@ if (!userArgs.length) {
 const candidates =
   process.platform === "win32"
     ? [
-        { command: "py", prefixArgs: ["-3"] },
         { command: "python", prefixArgs: [] },
+        { command: "py", prefixArgs: ["-3"] },
       ]
     : [
         { command: "python3", prefixArgs: [] },
