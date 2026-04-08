@@ -2267,18 +2267,19 @@ function buildStudentQuestionOcrMarkup(item, questionNumber, options = {}) {
   `;
 }
 
-function buildStudentQuestionMarkup(item, questionNumber, collection) {
-  if (getStudentPrintFormat() === "ocr") {
+function buildStudentQuestionMarkup(item, questionNumber, collection, options = {}) {
+  const studentPrintFormat = options.forceStudentOcr ? "ocr" : getStudentPrintFormat();
+  if (studentPrintFormat === "ocr") {
     return buildStudentQuestionOcrMarkup(item, questionNumber);
   }
   return buildStudentQuestionImageMarkup(item, questionNumber, collection);
 }
 
-function buildStudentPrintMarkup(selectedItems) {
+function buildStudentPrintMarkup(selectedItems, options = {}) {
   const collection = getActiveCollection();
   const testTitle = buildPacketTitle();
   const chunks = buildPrintChunks(selectedItems);
-  const studentPrintFormat = getStudentPrintFormat();
+  const studentPrintFormat = options.forceStudentOcr ? "ocr" : getStudentPrintFormat();
   let questionNumber = 0;
   return `
     <div class="print-document print-document-student">
@@ -2295,6 +2296,11 @@ function buildStudentPrintMarkup(selectedItems) {
         ${
           studentPrintFormat === "ocr"
             ? '<p class="print-instructions">Passage bundles still print from grayscale WebP pages so reading selections stay intact.</p>'
+            : ""
+        }
+        ${
+          options.forceStudentOcr
+            ? '<p class="print-instructions">Desktop PDF export is using text-rendered question content while keeping passage pages visible.</p>'
             : ""
         }
       </section>
@@ -2345,7 +2351,7 @@ function buildStudentPrintMarkup(selectedItems) {
             .map((item) => {
               const currentNumber = localQuestionNumber;
               localQuestionNumber += 1;
-              return buildStudentQuestionMarkup(item, currentNumber, collection);
+              return buildStudentQuestionMarkup(item, currentNumber, collection, options);
             })
             .join("");
 
@@ -2398,8 +2404,8 @@ function buildAnswerKeyMarkup(selectedItems) {
   `;
 }
 
-function buildPrintableMarkup(mode, selectedItems) {
-  return mode === "student" ? buildStudentPrintMarkup(selectedItems) : buildAnswerKeyMarkup(selectedItems);
+function buildPrintableMarkup(mode, selectedItems, options = {}) {
+  return mode === "student" ? buildStudentPrintMarkup(selectedItems, options) : buildAnswerKeyMarkup(selectedItems);
 }
 
 function isRenderableImage(image) {
@@ -2471,17 +2477,42 @@ function hasPrintableStudentQuestionContent(section) {
   return textContent.length > 0;
 }
 
-function ensurePrintableQuestionsReady(mode, exportSource, expectedCount) {
-  const questionSections = [...exportSource.querySelectorAll(".print-question[data-item-id]")];
-  if (questionSections.length !== expectedCount) {
-    throw new Error(`Expected ${expectedCount} questions in the PDF export, but found ${questionSections.length}.`);
+function getPrintableExportEntries(mode, exportSource) {
+  if (mode === "answer-key") {
+    return [...exportSource.querySelectorAll(".answer-key-row")];
   }
 
-  if (mode !== "student") {
+  return [...exportSource.querySelectorAll(".print-question[data-item-id]")];
+}
+
+function ensurePrintableQuestionsReady(mode, exportSource, expectedCount) {
+  const exportEntries = getPrintableExportEntries(mode, exportSource);
+  if (exportEntries.length !== expectedCount) {
+    throw new Error(`Expected ${expectedCount} questions in the PDF export, but found ${exportEntries.length}.`);
+  }
+
+  if (mode === "answer-key") {
+    const incompleteRows = exportEntries
+      .map((row, index) => ({
+        row,
+        number: index + 1,
+      }))
+      .filter(
+        ({ row }) =>
+          !row.querySelector(".answer-key-number") ||
+          !row.querySelector(".answer-key-answer")?.textContent.trim() ||
+          !row.querySelector(".answer-key-stem")?.textContent.trim()
+      )
+      .map(({ number }) => number);
+
+    if (incompleteRows.length) {
+      throw new Error(`Answer key content was not ready for export for question(s): ${incompleteRows.join(", ")}.`);
+    }
+
     return;
   }
 
-  const missingQuestions = questionSections
+  const missingQuestions = exportEntries
     .filter((section) => !hasPrintableStudentQuestionContent(section))
     .map((section) => section.dataset.questionNumber || "?");
 
@@ -2492,7 +2523,7 @@ function ensurePrintableQuestionsReady(mode, exportSource, expectedCount) {
 
 function mountPrintWorkspace(mode, selectedItems, options = {}) {
   state.printMode = mode;
-  elements.printWorkspace.innerHTML = buildPrintableMarkup(mode, selectedItems);
+  elements.printWorkspace.innerHTML = buildPrintableMarkup(mode, selectedItems, options);
   elements.printWorkspace.setAttribute("aria-hidden", "false");
   document.body.classList.toggle("is-printing-student", mode === "student");
   document.body.classList.toggle("is-printing-answer-key", mode === "answer-key");
@@ -2569,11 +2600,134 @@ function buildPdfExportOptions(mode) {
   };
 }
 
-async function buildPdfBytes(mode, exportSource) {
-  const worker = window.html2pdf().set(buildPdfExportOptions(mode)).from(exportSource);
+const STUDENT_PDF_LAYOUT = Object.freeze({
+  pageWidth: 8.5,
+  pageHeight: 11,
+  marginX: 0.55,
+  marginY: 0.55,
+  contentWidth: 7.4,
+});
+
+function measurePdfLineHeight(fontSize, factor = 1.35) {
+  return (fontSize / 72) * factor;
+}
+
+function clearPdfPage(pdf, pageNumber = 1) {
+  pdf.setPage(pageNumber);
+  pdf.setFillColor(255, 255, 255);
+  pdf.rect(0, 0, STUDENT_PDF_LAYOUT.pageWidth, STUDENT_PDF_LAYOUT.pageHeight, "F");
+}
+
+function beginStudentPdfPage(pdf, title, note = "") {
+  pdf.addPage();
+  pdf.setPage(pdf.getNumberOfPages());
+
+  const cursor = {
+    x: STUDENT_PDF_LAYOUT.marginX,
+    y: STUDENT_PDF_LAYOUT.marginY,
+  };
+
+  pdf.setFont("helvetica", "bold");
+  pdf.setFontSize(15);
+  pdf.text(String(title || "").trim() || "Student Test", cursor.x, cursor.y);
+  cursor.y += measurePdfLineHeight(15, 1.2);
+
+  if (note) {
+    pdf.setFont("helvetica", "normal");
+    pdf.setFontSize(11);
+    const noteLines = pdf.splitTextToSize(String(note), STUDENT_PDF_LAYOUT.contentWidth);
+    pdf.text(noteLines, cursor.x, cursor.y);
+    cursor.y += noteLines.length * measurePdfLineHeight(11, 1.35);
+  }
+
+  cursor.y += 0.14;
+  return cursor;
+}
+
+function ensurePdfSpace(pdf, cursor, requiredHeight) {
+  const remainingHeight = STUDENT_PDF_LAYOUT.pageHeight - STUDENT_PDF_LAYOUT.marginY - cursor.y;
+  if (remainingHeight >= requiredHeight) {
+    return cursor;
+  }
+
+  pdf.addPage();
+  pdf.setPage(pdf.getNumberOfPages());
+  cursor.x = STUDENT_PDF_LAYOUT.marginX;
+  cursor.y = STUDENT_PDF_LAYOUT.marginY;
+  return cursor;
+}
+
+function writePdfTextBlock(pdf, cursor, text, options = {}) {
+  const content = String(text || "").trim();
+  if (!content) {
+    return cursor;
+  }
+
+  const x = options.x ?? STUDENT_PDF_LAYOUT.marginX;
+  const width = options.width ?? STUDENT_PDF_LAYOUT.contentWidth;
+  const font = options.font || "helvetica";
+  const style = options.style || "normal";
+  const size = options.size || 12;
+  const after = options.after ?? 0.08;
+  const lineHeightFactor = options.lineHeightFactor ?? 1.35;
+  const lines = pdf.splitTextToSize(content, width);
+  const lineHeight = measurePdfLineHeight(size, lineHeightFactor);
+
+  pdf.setFont(font, style);
+  pdf.setFontSize(size);
+
+  lines.forEach((line) => {
+    ensurePdfSpace(pdf, cursor, lineHeight);
+    pdf.text(line, x, cursor.y);
+    cursor.y += lineHeight;
+  });
+
+  cursor.y += after;
+  return cursor;
+}
+
+function drawPdfResponseLines(pdf, cursor, count = 2) {
+  cursor = writePdfTextBlock(pdf, cursor, "Student response", {
+    size: 11,
+    style: "bold",
+    after: 0.12,
+  });
+
+  for (let index = 0; index < count; index += 1) {
+    ensurePdfSpace(pdf, cursor, 0.28);
+    pdf.setDrawColor(170, 170, 170);
+    pdf.setLineWidth(0.01);
+    pdf.line(
+      STUDENT_PDF_LAYOUT.marginX,
+      cursor.y,
+      STUDENT_PDF_LAYOUT.pageWidth - STUDENT_PDF_LAYOUT.marginX,
+      cursor.y
+    );
+    cursor.y += 0.28;
+  }
+
+  return cursor;
+}
+
+async function createPdfDocument(mode) {
+  const seed = document.createElement("div");
+  seed.textContent = " ";
+  seed.style.padding = "0";
+  seed.style.margin = "0";
+  seed.style.width = "1px";
+  seed.style.height = "1px";
+
+  const worker = window.html2pdf().set(buildPdfExportOptions(mode)).from(seed);
   await worker.toPdf();
-  const pdf = await worker.get("pdf");
-  const bytes = new Uint8Array(pdf.output("arraybuffer"));
+  return worker.get("pdf");
+}
+
+async function serializePdfPayloadToBytes(pdfPayload) {
+  if (!pdfPayload || typeof pdfPayload.arrayBuffer !== "function") {
+    throw new Error("The generated PDF could not be serialized for saving.");
+  }
+
+  const bytes = new Uint8Array(await pdfPayload.arrayBuffer());
   const header = new TextDecoder().decode(bytes.slice(0, 5));
   if (bytes.length < 32 || header !== "%PDF-") {
     throw new Error("The generated PDF was empty or invalid.");
@@ -2581,15 +2735,329 @@ async function buildPdfBytes(mode, exportSource) {
   return bytes;
 }
 
-async function trySavePdfWithDesktopDialog(mode, exportSource) {
+async function serializePdfBytesFromJsPdf(pdf) {
+  const pdfPayload = pdf?.output?.("blob");
+  return serializePdfPayloadToBytes(pdfPayload);
+}
+
+async function loadPdfImageCanvas(imageSrc) {
+  const image = new Image();
+  image.decoding = "sync";
+  image.loading = "eager";
+  image.src = imageSrc;
+  await waitForImageLoad(image);
+
+  if (!isRenderableImage(image)) {
+    throw new Error(`Image asset could not be loaded: ${imageSrc}`);
+  }
+
+  const maxDimension = 2200;
+  const scale = Math.min(1, maxDimension / Math.max(image.naturalWidth, image.naturalHeight));
+  const canvas = document.createElement("canvas");
+  canvas.width = Math.max(1, Math.round(image.naturalWidth * scale));
+  canvas.height = Math.max(1, Math.round(image.naturalHeight * scale));
+
+  const context = canvas.getContext("2d", { alpha: false });
+  if (!context) {
+    throw new Error("A rendering canvas could not be created for PDF export.");
+  }
+
+  context.fillStyle = "#ffffff";
+  context.fillRect(0, 0, canvas.width, canvas.height);
+  context.drawImage(image, 0, 0, canvas.width, canvas.height);
+
+  return {
+    canvas,
+    width: canvas.width,
+    height: canvas.height,
+  };
+}
+
+function drawPdfCanvasOnPage(pdf, canvasAsset, cursor) {
+  const availableWidth = STUDENT_PDF_LAYOUT.contentWidth;
+  const availableHeight = STUDENT_PDF_LAYOUT.pageHeight - STUDENT_PDF_LAYOUT.marginY - cursor.y;
+  const scale = Math.min(availableWidth / canvasAsset.width, availableHeight / canvasAsset.height);
+  const renderWidth = canvasAsset.width * scale;
+  const renderHeight = canvasAsset.height * scale;
+
+  pdf.addImage(canvasAsset.canvas, "PNG", STUDENT_PDF_LAYOUT.marginX, cursor.y, renderWidth, renderHeight, undefined, "FAST");
+}
+
+function buildStudentPdfQuestionTypeLabel(item) {
+  return item.metadata.declared_item_type_display || item.metadata.item_type || "";
+}
+
+function formatResponseTemplateForPdf(template) {
+  return String(template || "").replace(/\[[^\]]+\]/g, "________");
+}
+
+function writeStudentPdfCover(pdf, selectedItems) {
+  clearPdfPage(pdf, 1);
+
+  let cursor = {
+    x: STUDENT_PDF_LAYOUT.marginX,
+    y: STUDENT_PDF_LAYOUT.marginY + 0.12,
+  };
+
+  const hasStimulusPages = selectedItems.some((item) => {
+    const group = getStimulusGroupForItem(item);
+    return Boolean(group?.page_images?.length);
+  });
+
+  pdf.setFont("helvetica", "normal");
+  pdf.setFontSize(11);
+  pdf.text("STUDENT TEST", cursor.x, cursor.y);
+  cursor.y += 0.38;
+
+  pdf.setFont("times", "bold");
+  pdf.setFontSize(22);
+  const titleLines = pdf.splitTextToSize(buildPacketTitle(), STUDENT_PDF_LAYOUT.contentWidth);
+  pdf.text(titleLines, cursor.x, cursor.y);
+  cursor.y += titleLines.length * measurePdfLineHeight(22, 1.15) + 0.18;
+
+  cursor = writePdfTextBlock(pdf, cursor, `Teacher / Class: ${state.packet.teacher || "____________________________"}`, {
+    size: 12,
+    style: "bold",
+    after: 0.02,
+  });
+  cursor = writePdfTextBlock(pdf, cursor, "Name: ____________________________", {
+    size: 12,
+    style: "bold",
+    after: 0.02,
+  });
+  cursor = writePdfTextBlock(pdf, cursor, "Date: ____________________________", {
+    size: 12,
+    style: "bold",
+    after: 0.02,
+  });
+  cursor = writePdfTextBlock(pdf, cursor, `Question format: ${getStudentPrintFormatLabel()}`, {
+    size: 12,
+    style: "bold",
+    after: 0.18,
+  });
+  cursor = writePdfTextBlock(pdf, cursor, "Answer each question. Show work where needed.", {
+    size: 11,
+    after: 0.08,
+  });
+
+  if (hasStimulusPages) {
+    cursor = writePdfTextBlock(pdf, cursor, "Passage pages are included before the questions that depend on them.", {
+      size: 11,
+      after: 0.08,
+    });
+  }
+
+  if (getStudentPrintFormat() === "ocr") {
+    writePdfTextBlock(pdf, cursor, "Questions print as text-rendered content while keeping passage pages visible.", {
+      size: 11,
+      after: 0.08,
+    });
+  }
+}
+
+function addStudentQuestionOcrToPdf(pdf, item, questionNumber, options = {}) {
+  const cursor = beginStudentPdfPage(
+    pdf,
+    `Question ${questionNumber}`,
+    buildStudentPdfQuestionTypeLabel(item)
+  );
+
+  let workingCursor = cursor;
+  if (options.fallbackNotice) {
+    workingCursor = writePdfTextBlock(pdf, workingCursor, options.fallbackNotice, {
+      size: 10,
+      after: 0.12,
+    });
+  }
+
+  workingCursor = writePdfTextBlock(pdf, workingCursor, getQuestionDisplayTitle(item), {
+    font: "times",
+    style: "bold",
+    size: 14,
+    lineHeightFactor: 1.25,
+    after: 0.1,
+  });
+
+  if (item.question.instruction) {
+    workingCursor = writePdfTextBlock(pdf, workingCursor, item.question.instruction, {
+      size: 11,
+      after: 0.1,
+    });
+  }
+
+  if (item.question.options?.length) {
+    item.question.options.forEach((option, index) => {
+      const label = option.label || String(option.position || index + 1);
+      workingCursor = writePdfTextBlock(pdf, workingCursor, `${label}. ${option.text || ""}`, {
+        size: 11,
+        x: STUDENT_PDF_LAYOUT.marginX + 0.2,
+        width: STUDENT_PDF_LAYOUT.contentWidth - 0.2,
+        after: 0.05,
+      });
+    });
+  }
+
+  if (item.question.response_template) {
+    workingCursor = writePdfTextBlock(
+      pdf,
+      workingCursor,
+      `Response template: ${formatResponseTemplateForPdf(item.question.response_template)}`,
+      {
+        size: 11,
+        after: 0.08,
+      }
+    );
+  }
+
+  if (item.question.choice_pool?.length) {
+    workingCursor = writePdfTextBlock(pdf, workingCursor, `Choice pool: ${item.question.choice_pool.join(", ")}`, {
+      size: 10,
+      after: 0.08,
+    });
+  }
+
+  if (item.question.visual_elements?.length) {
+    workingCursor = writePdfTextBlock(
+      pdf,
+      workingCursor,
+      `Included visual/text elements: ${item.question.visual_elements.join("; ")}`,
+      {
+        size: 10,
+        after: 0.08,
+      }
+    );
+  }
+
+  if (!item.question.options?.length) {
+    drawPdfResponseLines(pdf, workingCursor, 2);
+  }
+}
+
+async function addStudentPassagePageToPdf(pdf, title, note, imageSrc, missingMessage) {
+  try {
+    const canvasAsset = await loadPdfImageCanvas(imageSrc);
+    const cursor = beginStudentPdfPage(pdf, title, note);
+    drawPdfCanvasOnPage(pdf, canvasAsset, cursor);
+  } catch (error) {
+    const cursor = beginStudentPdfPage(pdf, title, note);
+    writePdfTextBlock(pdf, cursor, missingMessage, {
+      size: 12,
+      after: 0.1,
+    });
+  }
+}
+
+async function addStudentQuestionImageToPdf(pdf, item, questionNumber, collection) {
+  const imageSrc = resolveCollectionAssetPath(item.source.question_image, collection);
+  const canvasAsset = await loadPdfImageCanvas(imageSrc);
+  const cursor = beginStudentPdfPage(pdf, `Question ${questionNumber}`, buildStudentPdfQuestionTypeLabel(item));
+  drawPdfCanvasOnPage(pdf, canvasAsset, cursor);
+}
+
+async function buildStudentPdfBytesFromSelection(selectedItems) {
+  const pdf = await createPdfDocument("student");
+  const collection = getActiveCollection();
+  const studentPrintFormat = getStudentPrintFormat();
+  const chunks = buildPrintChunks(selectedItems);
+
+  writeStudentPdfCover(pdf, selectedItems);
+
+  let questionNumber = 0;
+  for (const chunk of chunks) {
+    const startNumber = questionNumber + 1;
+    const endNumber = questionNumber + chunk.items.length;
+
+    if (chunk.stimulusGroup) {
+      const stimulusPages = chunk.stimulusGroup.page_images || [];
+      if (stimulusPages.length) {
+        for (let pageIndex = 0; pageIndex < stimulusPages.length; pageIndex += 1) {
+          const imagePath = stimulusPages[pageIndex];
+          const stimulusTitle = chunk.stimulusGroup.label || "Passage Bundle";
+          const note =
+            pageIndex === 0
+              ? `Questions ${startNumber}-${endNumber} use this passage set.`
+              : `Passage page ${pageIndex + 1} of ${stimulusPages.length}.`;
+          await addStudentPassagePageToPdf(
+            pdf,
+            stimulusTitle,
+            note,
+            resolveCollectionAssetPath(imagePath, collection),
+            `Passage image missing for ${stimulusTitle}. Restore the source passage before using this packet.`
+          );
+        }
+      } else {
+        const cursor = beginStudentPdfPage(
+          pdf,
+          chunk.stimulusGroup.label || "Passage Bundle",
+          `Questions ${startNumber}-${endNumber} use this passage set.`
+        );
+        writePdfTextBlock(
+          pdf,
+          cursor,
+          `Passage image missing for ${chunk.stimulusGroup.label || "this bundle"}. Restore the source passage before using this packet.`,
+          {
+            size: 12,
+            after: 0.1,
+          }
+        );
+      }
+    }
+
+    for (const item of chunk.items) {
+      questionNumber += 1;
+      if (studentPrintFormat === "ocr") {
+        addStudentQuestionOcrToPdf(pdf, item, questionNumber);
+        continue;
+      }
+
+      try {
+        await addStudentQuestionImageToPdf(pdf, item, questionNumber, collection);
+      } catch (error) {
+        addStudentQuestionOcrToPdf(pdf, item, questionNumber, {
+          fallbackNotice: "Source question image unavailable for PDF export. Showing OCR text instead.",
+        });
+      }
+    }
+  }
+
+  return serializePdfBytesFromJsPdf(pdf);
+}
+
+async function buildPdfBytes(mode, exportSource) {
+  const worker = window.html2pdf().set(buildPdfExportOptions(mode)).from(exportSource);
+  await worker.toPdf();
+
+  let pdfPayload = null;
+  if (typeof worker.outputPdf === "function") {
+    pdfPayload = await worker.outputPdf("blob");
+  } else if (typeof worker.output === "function") {
+    pdfPayload = await worker.output("blob");
+  } else {
+    const pdf = await worker.get("pdf");
+    pdfPayload = pdf?.output?.("blob");
+  }
+
+  if (!pdfPayload || typeof pdfPayload.arrayBuffer !== "function") {
+    throw new Error("The generated PDF could not be serialized for saving.");
+  }
+
+  return serializePdfPayloadToBytes(pdfPayload);
+}
+
+async function savePdfBytesWithDesktopDialog(mode, pdfBytes) {
   const isTauriDesktop = window.staarDesktopBridge?.isTauriDesktop;
   const savePdfWithDialog = window.staarDesktopBridge?.savePdfWithDialog;
   if (typeof isTauriDesktop !== "function" || !isTauriDesktop() || typeof savePdfWithDialog !== "function") {
     return false;
   }
-  const pdfBytes = await buildPdfBytes(mode, exportSource);
+
   const savedPath = await savePdfWithDialog(buildPdfFilename(mode), pdfBytes);
   return savedPath !== undefined;
+}
+
+async function trySavePdfWithDesktopDialog(mode, exportSource) {
+  const pdfBytes = await buildPdfBytes(mode, exportSource);
+  return savePdfBytesWithDesktopDialog(mode, pdfBytes);
 }
 
 function waitForImageLoad(image) {
@@ -2704,7 +3172,22 @@ async function downloadPdf(mode) {
   renderBuilder();
 
   try {
-    mountPrintWorkspace(mode, selectedItems, { exportingPdf: true });
+    const useDesktopStudentPdfBuilder =
+      mode === "student" &&
+      typeof window.staarDesktopBridge?.isTauriDesktop === "function" &&
+      window.staarDesktopBridge.isTauriDesktop();
+
+    if (useDesktopStudentPdfBuilder) {
+      const pdfBytes = await buildStudentPdfBytesFromSelection(selectedItems);
+      if (await savePdfBytesWithDesktopDialog(mode, pdfBytes)) {
+        return;
+      }
+    }
+
+    mountPrintWorkspace(mode, selectedItems, {
+      exportingPdf: true,
+      forceStudentOcr: useDesktopStudentPdfBuilder,
+    });
     await waitForPrintableContent(elements.printWorkspace);
     repairPrintableImageFailures(mode);
     await waitForPrintableContent(elements.printWorkspace);
