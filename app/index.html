@@ -153,6 +153,21 @@
               <button id="clear-selection" class="secondary-button danger-button" type="button">Clear Selection</button>
             </div>
 
+            <section class="selection-action-bar" aria-live="polite">
+              <div id="selection-action-copy" class="selection-action-copy">Choose filters to build a question selection.</div>
+              <div class="selection-action-buttons">
+                <button id="add-selection" class="primary-button selection-action-button" type="button">
+                  Add All Questions From Selection
+                </button>
+                <button id="remove-selection" class="primary-button selection-action-button selection-action-button-secondary" type="button">
+                  Remove Matching Questions
+                </button>
+                <button id="toggle-results-ocr" class="primary-button selection-action-button selection-action-button-secondary" type="button">
+                  Show OCR For All
+                </button>
+              </div>
+            </section>
+
             <section class="summary-grid builder-summary-grid">
               <article class="summary-panel">
                 <div class="panel-header">
@@ -301,21 +316,6 @@
               </section>
             </article>
           </aside>
-        </section>
-
-        <section class="selection-action-bar" aria-live="polite">
-          <div id="selection-action-copy" class="selection-action-copy">Choose filters to build a question selection.</div>
-          <div class="selection-action-buttons">
-            <button id="add-selection" class="primary-button selection-action-button" type="button">
-              Add All Questions From Selection
-            </button>
-            <button id="remove-selection" class="primary-button selection-action-button selection-action-button-secondary" type="button">
-              Remove Matching Questions
-            </button>
-            <button id="toggle-results-ocr" class="primary-button selection-action-button selection-action-button-secondary" type="button">
-              Show OCR For All
-            </button>
-          </div>
         </section>
 
         <section id="selection-summary" class="builder-summary selection-summary-panel"></section>

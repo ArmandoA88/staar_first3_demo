@@ -759,29 +759,36 @@ img {
 }
 
 .selection-action-bar {
-  grid-column: 1;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(240px, 292px);
+  align-items: start;
+  gap: 16px 20px;
+  margin-top: 16px;
   padding: 18px 20px;
   border-radius: 24px;
+  background:
+    linear-gradient(135deg, rgba(255, 250, 240, 0.94), rgba(255, 245, 233, 0.9));
 }
 
 .selection-action-copy {
+  min-width: 0;
+  max-width: 54ch;
   color: var(--muted);
   font-size: 0.95rem;
   line-height: 1.45;
+  align-self: center;
 }
 
 .selection-action-buttons {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
   gap: 10px;
+  justify-self: end;
+  align-content: start;
 }
 
 .selection-action-button {
-  flex-shrink: 0;
+  width: max-content;
+  max-width: 100%;
 }
 
 .selection-action-button-secondary {
@@ -1432,7 +1439,6 @@ body.is-exporting-pdf .page-shell {
 
   .hero-panel,
   .builder-panel-primary,
-  .selection-action-bar,
   .results-grid {
     grid-column: 1;
   }
@@ -1468,7 +1474,6 @@ body.is-exporting-pdf .page-shell {
 
   .builder-form-grid,
   .hero-panel,
-  .selection-action-bar,
   .stimulus-bundle-header,
   .item-body,
   .item-footer,
@@ -1491,7 +1496,8 @@ body.is-exporting-pdf .page-shell {
   }
 
   .selection-action-bar {
-    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
   }
 
   .selection-disclosure-heading {
@@ -1504,6 +1510,7 @@ body.is-exporting-pdf .page-shell {
 
   .selection-action-buttons {
     display: grid;
+    justify-self: stretch;
   }
 
   .selection-action-button {

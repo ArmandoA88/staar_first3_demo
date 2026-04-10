@@ -1,13 +1,17 @@
 __pycache__/
 *.pyc
 /STAARProblemBrowser.exe
+/STAARProblemBrowserGrade*.exe
 /STAARProblemBrowserSetup.exe
 /STAAR Problem Browser_*_x64-setup.exe
+/STAAR Problem Browser *_windows.msi
 /STAAR Problem Browser_*.dmg
 /STAARProblemBrowser-Tauri.exe
 /STAARProblemBrowser-Tauri-Installer.msi
 /STAARProblemBrowser-windows Installer.msi
 /STAARProblemBrowser-windows Installer.wixpdb
+/STAARProblemBrowserAllGrades.html
+/STAARProblemBrowserGrade*.html
 /staar*.cab
 build/
 dist/

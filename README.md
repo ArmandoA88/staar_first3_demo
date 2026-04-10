@@ -73,6 +73,27 @@ http://localhost:8000
 
 The root page redirects to `app/`, and the app loads `collections/index.json`.
 
+## Build a Single-File Local Browser Site
+
+Build a standalone local HTML file that can be opened directly in a browser without a local server:
+
+```powershell
+py scripts/build_single_file_site.py --grade 3
+```
+
+Output:
+
+```text
+STAARProblemBrowserGrade3.html
+```
+
+Notes:
+
+- This is a single HTML file, not a folder.
+- It embeds the Grade 3 catalogs, scripts, styles, and image assets directly into the page.
+- The file is large because all question and passage images are inside it.
+- Open it by double-clicking the `.html` file in Edge or Chrome.
+
 ## Build a Standalone Windows EXE
 
 The desktop build wraps the browser app in a local launcher EXE. It bundles the static UI plus the runtime collection data and images, then opens the app automatically in the default browser.
@@ -83,10 +104,17 @@ Build it with:
 py scripts/build_desktop_exe.py
 ```
 
+Build a grade-specific EXE:
+
+```powershell
+py scripts/build_desktop_exe.py --grade 3
+```
+
 Output:
 
 ```text
 STAARProblemBrowser.exe
+STAARProblemBrowserGrade3.exe
 ```
 
 Notes:

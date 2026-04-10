@@ -273,6 +273,41 @@ const elements = {
   printWorkspace: document.querySelector("#print-workspace"),
 };
 
+const singleFileBundle = window.__STAAR_SINGLE_FILE_BUNDLE__ || null;
+
+function getBundledCollectionIndex() {
+  return singleFileBundle?.collectionIndex || null;
+}
+
+function getBundledCatalog(collection) {
+  if (!singleFileBundle?.catalogs || !collection?.catalog) {
+    return null;
+  }
+
+  return singleFileBundle.catalogs[normalizeRepoPath(collection.catalog)] || null;
+}
+
+function getBundledAssetPath(pathValue, collection = getActiveCollection()) {
+  if (!singleFileBundle?.assets || !pathValue) {
+    return "";
+  }
+
+  const normalized = normalizeRepoPath(pathValue);
+  if (singleFileBundle.assets[normalized]) {
+    return singleFileBundle.assets[normalized];
+  }
+
+  if (collection?.root) {
+    const collectionRoot = normalizeRepoPath(collection.root).replace(/\/+$/, "");
+    const collectionAssetPath = normalizeRepoPath(`${collectionRoot}/${normalized}`);
+    if (singleFileBundle.assets[collectionAssetPath]) {
+      return singleFileBundle.assets[collectionAssetPath];
+    }
+  }
+
+  return "";
+}
+
 function normalizeText(value) {
   return (value || "").toLowerCase().trim();
 }
@@ -616,6 +651,11 @@ function resolveCollectionAssetPath(pathValue, collection = getActiveCollection(
   }
   if (isExternalPath(pathValue)) {
     return pathValue;
+  }
+
+  const bundledAssetPath = getBundledAssetPath(pathValue, collection);
+  if (bundledAssetPath) {
+    return bundledAssetPath;
   }
 
   const normalized = normalizeRepoPath(pathValue);
@@ -1203,11 +1243,16 @@ async function loadCollectionCatalog(collection) {
     return false;
   }
 
-  const response = await fetch(`../${collection.catalog}`, { cache: "no-store" });
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status}`);
+  const bundledCatalog = getBundledCatalog(collection);
+  if (bundledCatalog) {
+    state.catalog = bundledCatalog;
+  } else {
+    const response = await fetch(`../${collection.catalog}`, { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+    state.catalog = await response.json();
   }
-  state.catalog = await response.json();
   state.items = state.catalog.items || [];
   state.itemsById = new Map(state.items.map((item) => [item.id, item]));
   state.stimulusGroupsById = new Map((state.catalog.stimulus_groups || []).map((group) => [group.id, group]));
@@ -3055,6 +3100,22 @@ async function savePdfBytesWithDesktopDialog(mode, pdfBytes) {
   return savedPath !== undefined;
 }
 
+function downloadPdfBytesInBrowser(mode, pdfBytes) {
+  const pdfBlob = new Blob([pdfBytes], { type: "application/pdf" });
+  const downloadUrl = URL.createObjectURL(pdfBlob);
+  const link = document.createElement("a");
+  link.href = downloadUrl;
+  link.download = buildPdfFilename(mode);
+  link.rel = "noopener";
+  link.style.display = "none";
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  window.setTimeout(() => {
+    URL.revokeObjectURL(downloadUrl);
+  }, 30000);
+}
+
 async function trySavePdfWithDesktopDialog(mode, exportSource) {
   const pdfBytes = await buildPdfBytes(mode, exportSource);
   return savePdfBytesWithDesktopDialog(mode, pdfBytes);
@@ -3176,17 +3237,23 @@ async function downloadPdf(mode) {
       mode === "student" &&
       typeof window.staarDesktopBridge?.isTauriDesktop === "function" &&
       window.staarDesktopBridge.isTauriDesktop();
+    const useSingleFileStudentPdfBuilder = mode === "student" && Boolean(singleFileBundle);
+    const useDirectStudentPdfBuilder = useDesktopStudentPdfBuilder || useSingleFileStudentPdfBuilder;
 
-    if (useDesktopStudentPdfBuilder) {
+    if (useDirectStudentPdfBuilder) {
       const pdfBytes = await buildStudentPdfBytesFromSelection(selectedItems);
       if (await savePdfBytesWithDesktopDialog(mode, pdfBytes)) {
+        return;
+      }
+      if (useSingleFileStudentPdfBuilder) {
+        downloadPdfBytesInBrowser(mode, pdfBytes);
         return;
       }
     }
 
     mountPrintWorkspace(mode, selectedItems, {
       exportingPdf: true,
-      forceStudentOcr: useDesktopStudentPdfBuilder,
+      forceStudentOcr: useDirectStudentPdfBuilder,
     });
     await waitForPrintableContent(elements.printWorkspace);
     repairPrintableImageFailures(mode);
@@ -3211,12 +3278,18 @@ async function init() {
   try {
     setStartupStatus("Loading saved teacher settings and recent selections.");
     readStoredBuilder();
-    setStartupStatus("Loading the bundled collections index.");
-    const response = await fetch("../collections/index.json", { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
+    const bundledCollectionIndex = getBundledCollectionIndex();
+    if (bundledCollectionIndex) {
+      setStartupStatus("Loading the bundled single-file catalog.");
+      state.collectionIndex = bundledCollectionIndex;
+    } else {
+      setStartupStatus("Loading the bundled collections index.");
+      const response = await fetch("../collections/index.json", { cache: "no-store" });
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      state.collectionIndex = await response.json();
     }
-    state.collectionIndex = await response.json();
     state.collections = state.collectionIndex.collections || [];
     state.activeCollectionId =
       state.collections.find((collection) => collection.id === state.activeCollectionId)?.id ||

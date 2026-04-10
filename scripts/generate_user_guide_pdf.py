@@ -1,11 +1,13 @@
 from __future__ import annotations
 
 import argparse
+import io
 import json
 from dataclasses import dataclass
 from pathlib import Path
 
 import fitz
+import qrcode
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -37,16 +39,32 @@ COLOR_WHITE = (1.0, 1.0, 1.0)
 
 @dataclass
 class CollectionSummary:
+    collection_id: str
     label: str
     grade: int
     subject: str
     count: int
 
 
+@dataclass
+class DownloadPanel:
+    title: str
+    button_label: str
+    url: str
+
+
 class GuidePdf:
-    def __init__(self, title: str, version: str) -> None:
+    def __init__(
+        self,
+        title: str,
+        version: str,
+        cover_title: str | None = None,
+        edition_label: str | None = None,
+    ) -> None:
         self.title = title
         self.version = version
+        self.cover_title = cover_title or title
+        self.edition_label = edition_label
         self.doc = fitz.open()
         self.page_number = 0
         self.page: fitz.Page | None = None
@@ -124,58 +142,73 @@ class GuidePdf:
         total_items: int,
         collection_count: int,
         collections: list[CollectionSummary],
-        windows_installer_url: str,
-        macos_installer_url: str,
+        download_panels: list[DownloadPanel],
+        scope_descriptor: str,
+        delivery_context_label: str,
+        cover_subtitle: str,
     ) -> None:
         self.add_page(show_header=False)
         assert self.page is not None
 
         self.page.draw_rect(
-            fitz.Rect(0, 0, PAGE_WIDTH, 286),
+            fitz.Rect(0, 0, PAGE_WIDTH, 324),
             color=COLOR_ACCENT,
             fill=COLOR_ACCENT,
         )
         self.page.draw_rect(
-            fitz.Rect(MARGIN_X, 314, PAGE_WIDTH - MARGIN_X, 426),
+            fitz.Rect(MARGIN_X, 338, PAGE_WIDTH - MARGIN_X, 450),
             color=COLOR_LINE,
             fill=COLOR_ACCENT_LIGHT,
             width=1,
         )
 
         self.page.insert_textbox(
-            fitz.Rect(MARGIN_X, 68, PAGE_WIDTH - MARGIN_X, 144),
-            self.title,
+            fitz.Rect(MARGIN_X, 68, PAGE_WIDTH - MARGIN_X, 136),
+            self.cover_title,
             fontname="hebo",
             fontsize=28,
             color=COLOR_WHITE,
             align=0,
         )
+        subtitle_top = 138
+        if self.edition_label:
+            self.page.insert_text(
+                fitz.Point(MARGIN_X, 154),
+                self.edition_label,
+                fontname="hebo",
+                fontsize=16,
+                color=COLOR_WHITE,
+            )
+            subtitle_top = 164
+
         self.page.insert_textbox(
-            fitz.Rect(MARGIN_X, 142, PAGE_WIDTH - MARGIN_X, 188),
-            "Teacher Guide for installing, browsing, filtering, building tests, and printing packets.",
+            fitz.Rect(MARGIN_X, subtitle_top, PAGE_WIDTH - MARGIN_X, 188),
+            cover_subtitle,
             fontname="helv",
             fontsize=13,
             color=COLOR_WHITE,
             align=0,
         )
 
-        panel_gap = 12
-        panel_width = (CONTENT_WIDTH - panel_gap) / 2
-        left_panel = fitz.Rect(MARGIN_X, 188, MARGIN_X + panel_width, 300)
-        right_panel = fitz.Rect(MARGIN_X + panel_width + panel_gap, 188, PAGE_WIDTH - MARGIN_X, 300)
-
-        self._draw_download_panel(
-            panel_rect=left_panel,
-            title="WINDOWS INSTALLER",
-            button_label="Open Windows Installer",
-            url=windows_installer_url,
-        )
-        self._draw_download_panel(
-            panel_rect=right_panel,
-            title="MACOS INSTALLER",
-            button_label="Open macOS Installer",
-            url=macos_installer_url,
-        )
+        if len(download_panels) == 1:
+            self._draw_download_panel(
+                panel_rect=fitz.Rect(MARGIN_X, 188, PAGE_WIDTH - MARGIN_X, 314),
+                title=download_panels[0].title,
+                button_label=download_panels[0].button_label,
+                url=download_panels[0].url,
+            )
+        else:
+            panel_gap = 12
+            panel_width = (CONTENT_WIDTH - panel_gap) / 2
+            for index, panel in enumerate(download_panels[:2]):
+                panel_left = MARGIN_X + (index * (panel_width + panel_gap))
+                panel_rect = fitz.Rect(panel_left, 188, panel_left + panel_width, 314)
+                self._draw_download_panel(
+                    panel_rect=panel_rect,
+                    title=panel.title,
+                    button_label=panel.button_label,
+                    url=panel.url,
+                )
 
         self.page.insert_text(
             fitz.Point(MARGIN_X, 198),
@@ -186,10 +219,10 @@ class GuidePdf:
         )
 
         self.page.insert_textbox(
-            fitz.Rect(MARGIN_X + 20, 336, PAGE_WIDTH - MARGIN_X - 20, 406),
+            fitz.Rect(MARGIN_X + 20, 360, PAGE_WIDTH - MARGIN_X - 20, 430),
             (
                 f"This build includes {collection_count} ready collections and {total_items:,} released STAAR items "
-                "across Grade 3-6 Math, ELAR, and Grade 5 Science."
+                f"across {scope_descriptor}."
             ),
             fontname="hebo",
             fontsize=15,
@@ -198,11 +231,11 @@ class GuidePdf:
         )
 
         self.page.insert_textbox(
-            fitz.Rect(MARGIN_X, 452, PAGE_WIDTH - MARGIN_X, 720),
+            fitz.Rect(MARGIN_X, 476, PAGE_WIDTH - MARGIN_X, 720),
             (
                 "Included collections:\n"
                 + "\n".join(f"- {entry.label}" for entry in collections)
-                + "\n\nUse this guide as the PDF that ships with your desktop installers or TPT download."
+                + f"\n\nUse this guide as the PDF that ships with your {delivery_context_label} TPT download."
             ),
             fontname="helv",
             fontsize=12,
@@ -227,7 +260,14 @@ class GuidePdf:
             color=COLOR_ACCENT,
         )
         button_rect = fitz.Rect(panel_rect.x0 + 14, panel_rect.y0 + 34, panel_rect.x0 + 180, panel_rect.y0 + 62)
-        url_rect = fitz.Rect(panel_rect.x0 + 14, panel_rect.y0 + 68, panel_rect.x1 - 14, panel_rect.y1 - 10)
+        qr_size = 54
+        qr_rect = fitz.Rect(
+            panel_rect.x0 + 14,
+            panel_rect.y0 + 70,
+            panel_rect.x0 + 14 + qr_size,
+            panel_rect.y0 + 70 + qr_size,
+        )
+        url_rect = fitz.Rect(qr_rect.x1 + 10, panel_rect.y0 + 72, panel_rect.x1 - 14, panel_rect.y1 - 12)
         self.page.draw_rect(button_rect, color=COLOR_ACCENT_LIGHT, fill=COLOR_ACCENT_LIGHT, width=0)
         self.page.insert_textbox(
             button_rect,
@@ -245,7 +285,9 @@ class GuidePdf:
             color=COLOR_MUTED,
             align=0,
         )
+        self.page.insert_image(qr_rect, stream=build_qr_png_bytes(url))
         self.add_uri_link(button_rect, url)
+        self.add_uri_link(qr_rect, url)
         self.add_uri_link(url_rect, url)
 
     def add_heading(self, text: str) -> None:
@@ -460,15 +502,34 @@ def wrap_text(text: str, width: float, fontname: str, fontsize: float) -> list[s
     return lines
 
 
+def build_qr_png_bytes(url: str) -> bytes:
+    qr = qrcode.QRCode(
+        version=None,
+        error_correction=qrcode.constants.ERROR_CORRECT_M,
+        box_size=4,
+        border=2,
+    )
+    qr.add_data(url)
+    qr.make(fit=True)
+    image = qr.make_image(fill_color="black", back_color="white")
+    buffer = io.BytesIO()
+    image.save(buffer, format="PNG")
+    return buffer.getvalue()
+
+
 def load_version() -> str:
     data = json.loads(PACKAGE_JSON_PATH.read_text(encoding="utf-8"))
     return str(data.get("version", "0.0.0"))
 
 
-def load_collection_summaries() -> list[CollectionSummary]:
+def load_collection_summaries(collection_ids: list[str] | None = None) -> list[CollectionSummary]:
     index_data = json.loads(COLLECTION_INDEX_PATH.read_text(encoding="utf-8"))
+    requested_ids = set(collection_ids or [])
     collections: list[CollectionSummary] = []
     for entry in index_data.get("collections", []):
+        collection_id = str(entry.get("id", ""))
+        if requested_ids and collection_id not in requested_ids:
+            continue
         catalog_path = ROOT / entry["catalog"]
         count = 0
         if catalog_path.exists():
@@ -476,6 +537,7 @@ def load_collection_summaries() -> list[CollectionSummary]:
             count = len(catalog.get("items", []))
         collections.append(
             CollectionSummary(
+                collection_id=collection_id,
                 label=str(entry.get("label", "Unknown Collection")),
                 grade=int(entry.get("grade", 0)),
                 subject=str(entry.get("subject", "")),
@@ -483,35 +545,191 @@ def load_collection_summaries() -> list[CollectionSummary]:
             )
         )
     collections.sort(key=lambda item: (item.grade, item.subject, item.label))
+    if requested_ids:
+        found_ids = {entry.collection_id for entry in collections}
+        missing_ids = sorted(requested_ids - found_ids)
+        if missing_ids:
+            missing_display = ", ".join(missing_ids)
+            raise ValueError(f"Unknown collection id(s): {missing_display}")
     return collections
 
 
-def build_guide(output_path: Path, windows_installer_url: str, macos_installer_url: str) -> Path:
+def format_label_list(labels: list[str]) -> str:
+    if not labels:
+        return "selected STAAR collections"
+    if len(labels) == 1:
+        return labels[0]
+    if len(labels) == 2:
+        return f"{labels[0]} and {labels[1]}"
+    if len(labels) == 3:
+        return f"{labels[0]}, {labels[1]}, and {labels[2]}"
+    return f"{len(labels)} selected collections"
+
+
+def infer_installers_context_label(collections: list[CollectionSummary]) -> str:
+    if not collections:
+        return "desktop"
+    grades = {entry.grade for entry in collections}
+    if len(grades) == 1:
+        grade = next(iter(grades))
+        return f"Grade {grade}"
+    if len(collections) == 1:
+        return collections[0].label
+    return "selected"
+
+
+def build_download_panels(
+    *,
+    download_url: str | None,
+    windows_installer_url: str,
+    macos_installer_url: str,
+    download_title: str,
+    download_button_label: str,
+) -> tuple[list[DownloadPanel], str]:
+    if download_url:
+        return (
+            [
+                DownloadPanel(
+                    title=download_title,
+                    button_label=download_button_label,
+                    url=download_url,
+                )
+            ],
+            "HTML file",
+        )
+
+    return (
+        [
+            DownloadPanel(
+                title="WINDOWS INSTALLER",
+                button_label="Open Windows Installer",
+                url=windows_installer_url,
+            ),
+            DownloadPanel(
+                title="MACOS INSTALLER",
+                button_label="Open macOS Installer",
+                url=macos_installer_url,
+            ),
+        ],
+        "desktop installers",
+    )
+
+
+def build_launch_steps(*, delivery_mode: str) -> list[str]:
+    if delivery_mode == "html":
+        return [
+            "Download the single HTML file using the link or QR code shown at the top of this guide.",
+            "Save the file to your computer, then open the .html file in Microsoft Edge or Google Chrome.",
+            "Wait for the app to finish loading. The first open may take a moment because the file includes local catalogs and images.",
+        ]
+
+    return [
+        "Download the installer that matches your computer. Use the Windows installer on Windows and the Mac installer on macOS. Both installer links and QR codes are shown at the top of this guide.",
+        "Open the installer and follow the prompts. After installation, launch STAAR Problem Browser from your desktop or applications list.",
+        "Wait for the startup splash screen to finish. The first collection load may take a moment because the app is preparing local data and images.",
+    ]
+
+
+def build_launch_callout(*, delivery_mode: str) -> str:
+    if delivery_mode == "html":
+        return (
+            "No installation is required. The app runs locally from a single HTML file after download. "
+            "You do not need the original STAAR source PDFs to browse questions, build tests, or print packets."
+        )
+
+    return (
+        "The app runs locally after installation. You do not need the original STAAR source PDFs to browse questions, "
+        "build tests, or print packets."
+    )
+
+
+def build_troubleshooting_bullets(*, delivery_mode: str) -> list[str]:
+    bullets = [
+        "Startup feels slow: wait through the first collection load. Large local image sets can take extra time to prepare.",
+        "Nothing matches the current filters: clear one or more filters or use Reset Filters to return to the full collection.",
+        "Printing is incomplete: reopen print preview and verify that the selected questions and passage bundles are still visible.",
+        "A passage image is missing: do not use that packet until the linked source image is restored.",
+    ]
+
+    if delivery_mode == "html":
+        bullets.append(
+            "The file opens in the wrong app or as text: right-click the .html file and open it with Microsoft Edge or Google Chrome."
+        )
+        return bullets
+
+    bullets.append("The installer is blocked by the operating system: use the signed installer build that ships with your public release.")
+    return bullets
+
+
+def build_cover_subtitle(*, delivery_mode: str) -> str:
+    if delivery_mode == "html":
+        return "Teacher guide for downloading, opening, browsing, filtering, building tests, and printing packets."
+
+    return "Teacher guide for installing, browsing, filtering, building tests, and printing packets."
+
+
+def build_collection_choice_instruction(collections: list[CollectionSummary]) -> str:
+    if len(collections) == 1:
+        return f"Open the collection menu and choose {collections[0].label}."
+
+    grades = {entry.grade for entry in collections}
+    subjects = {entry.subject for entry in collections}
+    if len(grades) == 1 and len(subjects) == len(collections):
+        grade = next(iter(grades))
+        return f"Open the collection menu and choose the Grade {grade} subject you want to work in."
+
+    return "Open the collection menu and choose the grade and subject you want to work in."
+
+
+def build_guide(
+    output_path: Path,
+    windows_installer_url: str,
+    macos_installer_url: str,
+    download_url: str | None = None,
+    download_title: str = "HTML FILE DOWNLOAD",
+    download_button_label: str = "Open HTML File Download",
+    collection_ids: list[str] | None = None,
+    title: str = "STAAR Problem Browser User Guide",
+    cover_title: str | None = None,
+    edition_label: str | None = None,
+) -> Path:
     version = load_version()
-    collections = load_collection_summaries()
+    collections = load_collection_summaries(collection_ids=collection_ids)
     total_items = sum(entry.count for entry in collections)
-    guide = GuidePdf(title="STAAR Problem Browser User Guide", version=version)
+    if not collections:
+        raise ValueError("No collections matched the requested guide scope.")
+
+    scope_descriptor = format_label_list([entry.label for entry in collections])
+    installers_context_label = infer_installers_context_label(collections)
+    download_panels, delivery_label = build_download_panels(
+        download_url=download_url,
+        windows_installer_url=windows_installer_url,
+        macos_installer_url=macos_installer_url,
+        download_title=download_title,
+        download_button_label=download_button_label,
+    )
+    delivery_mode = "html" if download_url else "installers"
+    guide = GuidePdf(
+        title=title,
+        version=version,
+        cover_title=cover_title,
+        edition_label=edition_label,
+    )
 
     guide.add_cover(
         total_items=total_items,
         collection_count=len(collections),
         collections=collections,
-        windows_installer_url=windows_installer_url,
-        macos_installer_url=macos_installer_url,
+        download_panels=download_panels,
+        scope_descriptor=scope_descriptor,
+        delivery_context_label=f"{installers_context_label} {delivery_label}".strip(),
+        cover_subtitle=build_cover_subtitle(delivery_mode=delivery_mode),
     )
 
     guide.add_page(show_header=True)
-    guide.add_heading("1. Install and Launch")
-    guide.add_numbered_steps(
-        [
-            "Download the installer that matches your computer. Use the Windows installer on Windows and the Mac installer on macOS. Both installer links are shown at the top of this guide.",
-            "Open the installer and follow the prompts. After installation, launch STAAR Problem Browser from your desktop or applications list.",
-            "Wait for the startup splash screen to finish. The first collection load may take a moment because the app is preparing local data and images.",
-        ]
-    )
-    guide.add_callout(
-        "The app runs locally after installation. You do not need the original STAAR source PDFs to browse questions, build tests, or print packets."
-    )
+    guide.add_heading("1. Download and Launch" if delivery_mode == "html" else "1. Install and Launch")
+    guide.add_numbered_steps(build_launch_steps(delivery_mode=delivery_mode))
+    guide.add_callout(build_launch_callout(delivery_mode=delivery_mode))
 
     guide.add_heading("2. Included Collections")
     guide.add_paragraph(
@@ -523,7 +741,7 @@ def build_guide(output_path: Path, windows_installer_url: str, macos_installer_u
     guide.add_heading("3. Choose a Collection and Filter Questions")
     guide.add_numbered_steps(
         [
-            "Open the collection menu and choose the grade and subject you want to work in.",
+            build_collection_choice_instruction(collections),
             "Use the search box when you already know a keyword, TEKS idea, or question stem you want to find quickly.",
             "Refine the visible question set with filters such as TEKS, year, difficulty, item type, content, and review status.",
             "Watch the summary area as you filter. It updates to show how many questions and passage bundles are still visible.",
@@ -586,15 +804,7 @@ def build_guide(output_path: Path, windows_installer_url: str, macos_installer_u
     )
 
     guide.add_heading("7. Troubleshooting")
-    guide.add_bullets(
-        [
-            "Startup feels slow: wait through the first collection load. Large local image sets can take extra time to prepare.",
-            "Nothing matches the current filters: clear one or more filters or use Reset Filters to return to the full collection.",
-            "Printing is incomplete: reopen print preview and verify that the selected questions and passage bundles are still visible.",
-            "A passage image is missing: do not use that packet until the linked source image is restored.",
-            "The installer is blocked by the operating system: use the signed installer build that ships with your public release.",
-        ]
-    )
+    guide.add_bullets(build_troubleshooting_bullets(delivery_mode=delivery_mode))
     guide.add_paragraph(
         "For buyer support, include your store email or support instructions in the Start Here guide that ships with the product."
     )
@@ -621,15 +831,56 @@ def parse_args() -> argparse.Namespace:
         default=DEFAULT_MACOS_INSTALLER_URL,
         help="Visible and clickable macOS installer URL to place on the cover.",
     )
+    parser.add_argument(
+        "--download-url",
+        help="Visible and clickable single download URL to place on the cover instead of installer links.",
+    )
+    parser.add_argument(
+        "--download-title",
+        default="HTML FILE DOWNLOAD",
+        help="Short uppercase title for the single download panel.",
+    )
+    parser.add_argument(
+        "--download-button-label",
+        default="Open HTML File Download",
+        help="Button label for the single download panel.",
+    )
+    parser.add_argument(
+        "--collection-ids",
+        help="Comma-separated collection ids to include, such as grade-4-elar,grade-4-math.",
+    )
+    parser.add_argument(
+        "--title",
+        default="STAAR Problem Browser User Guide",
+        help="Header and footer title for the generated guide.",
+    )
+    parser.add_argument(
+        "--cover-title",
+        help="Optional cover title override. Defaults to the guide title.",
+    )
+    parser.add_argument(
+        "--edition-label",
+        help="Optional short label shown below the cover title, such as Grade 4 Edition.",
+    )
     return parser.parse_args()
 
 
 def main() -> int:
     args = parse_args()
+    collection_ids = None
+    if args.collection_ids:
+        collection_ids = [entry.strip() for entry in str(args.collection_ids).split(",") if entry.strip()]
     output_path = build_guide(
         args.output.resolve(),
         windows_installer_url=str(args.windows_installer_url),
         macos_installer_url=str(args.macos_installer_url),
+        download_url=str(args.download_url) if args.download_url else None,
+        download_title=str(args.download_title),
+        download_button_label=str(args.download_button_label),
+        collection_ids=collection_ids,
+        title=str(args.title),
+        cover_title=str(args.cover_title) if args.cover_title else None,
+        edition_label=str(args.edition_label) if args.edition_label else None,
     )
     print(f"Wrote user guide PDF to {output_path}")
     return 0
