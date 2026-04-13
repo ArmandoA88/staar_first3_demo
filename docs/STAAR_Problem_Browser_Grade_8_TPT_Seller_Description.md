@@ -1,15 +1,17 @@
-# STAAR Grade 4 ELAR + Math Problem Browser | Desktop Assessment Builder | TEKS
+# STAAR Grade 8 ELAR + Math + Science + Social Studies Problem Browser | HTML Assessment Builder | TEKS
 
 ## Description
 
-STAAR Problem Browser is a local assessment-building tool that helps teachers turn released STAAR questions into ready-to-print tests and answer keys in minutes. This Grade 4 edition includes only the Grade 4 ELAR and Grade 4 Math collections.
+STAAR Problem Browser is a local assessment-building tool that helps teachers turn released STAAR questions into ready-to-print tests and answer keys in minutes. This Grade 8 edition includes only the Grade 8 ELAR, Grade 8 Math, Grade 8 Science, and Grade 8 Social Studies collections.
 
 These are not new or original problems. The app organizes released STAAR items in one place so teachers can quickly filter, sort, and build custom assessments without digging through multiple released PDFs one by one.
 
-This Grade 4 build includes 2 ready-to-use collections with 1,007 released items total:
+This Grade 8 build includes 4 ready-to-use collections with 1,665 released items total:
 
-- Grade 4 ELAR - 679 items
-- Grade 4 Math - 328 items
+- Grade 8 ELAR - 550 items
+- Grade 8 Math - 413 items
+- Grade 8 Science - 162 items
+- Grade 8 Social Studies - 540 items
 
 Teachers can browse by TEKS, year, difficulty, item type, content, and review status. You can search within the collection, add individual questions, add filtered groups of questions, or use built-in presets such as Hardest Test, Easier Test, Latest Questions Only, Spiral Review, Single-TEKS Mastery, Intervention Set, Reteach Set, Benchmark Lite, Mini Quiz, Warm-Up, and Exit Ticket.
 
@@ -20,7 +22,7 @@ Once you build a selection, you can add a custom title and class label, reorder 
 ## What Buyers Receive
 
 - Start Here guide with the HTML file download link
-- Single downloadable HTML file for the Grade 4 app
+- Single downloadable HTML file for the Grade 8 app
 - Local browser-based app for browsing and building assessments from released STAAR items
 - Printable student tests generated from selected questions
 - Printable teacher answer keys with metadata when available

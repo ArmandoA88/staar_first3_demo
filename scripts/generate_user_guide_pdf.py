@@ -221,7 +221,7 @@ class GuidePdf:
         self.page.insert_textbox(
             fitz.Rect(MARGIN_X + 20, 360, PAGE_WIDTH - MARGIN_X - 20, 430),
             (
-                f"This build includes {collection_count} ready collections and {total_items:,} released STAAR items "
+                f"This build includes {collection_count} ready collection{'s' if collection_count != 1 else ''} and {total_items:,} released STAAR items "
                 f"across {scope_descriptor}."
             ),
             fontname="hebo",
@@ -563,6 +563,8 @@ def format_label_list(labels: list[str]) -> str:
         return f"{labels[0]} and {labels[1]}"
     if len(labels) == 3:
         return f"{labels[0]}, {labels[1]}, and {labels[2]}"
+    if len(labels) == 4:
+        return f"{labels[0]}, {labels[1]}, {labels[2]}, and {labels[3]}"
     return f"{len(labels)} selected collections"
 
 
