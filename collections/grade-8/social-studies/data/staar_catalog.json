@@ -1,8 +1,8 @@
 {
   "source_pdf": "ss8.pdf",
-  "generated_at_utc": "2026-04-05T18:38:11Z",
+  "generated_at_utc": "2026-08-30T19:47:17Z",
   "schema_version": "staar_catalog_v4",
-  "item_count": 540,
+  "item_count": 580,
   "subject": "Social Studies",
   "grade": 8,
   "collection_label": "Grade 8 Social Studies",
@@ -10,7 +10,8 @@
   "extraction_method": {
     "question_region": "Rendered page crop transcribed with OpenAI vision",
     "answer_key": "Parsed from PDF text layer footer",
-    "difficulty": "Derived from state percent-correct data in the PDF text layer"
+    "difficulty": "Derived from state percent-correct data in the PDF text layer",
+    "2026_release": "Official item images and metadata imported from lead4ward IQ (source: TEA)"
   },
   "items": [
     {
@@ -49976,6 +49977,2473 @@
         "vision_confidence": 0.99,
         "needs_review": false,
         "notes": null
+      }
+    },
+    {
+      "id": "g8_social_studies_8.1A_2026_q26",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 615,
+        "image_height_px": 611,
+        "sha256": "c387cf60996567cc5746b220d3d62cc7fdfdfd9c651ade70778cb365b7a2d19e",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.1A_2026_q26.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q26_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.1(A)",
+        "standard_description": "identify the major eras in U.S. history through 1877, including colonization, revolution, creation and ratification of the Constitution, early republic, the Age of Jackson, westward expansion, reform movements, sectionalism, Civil War, and Reconstruction, and describe their causes and effects",
+        "year": 2026,
+        "question_number": 26,
+        "cluster": "Exploration and Colonization",
+        "subcluster": "Reasons for Exploration and Early Colonization",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 63,
+          "rationale": "Derived from 63% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q26",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.10C_2026_q28",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 614,
+        "image_height_px": 218,
+        "sha256": "209e38124752941fd66db525039317dedeab73d9c080d634acb10b038a6ac114",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.10C_2026_q28.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q28_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.10(C)",
+        "standard_description": "analyze the effects of physical and human geographic factors such as weather, landforms, waterways, transportation, and communication on major historical events in the United States",
+        "year": 2026,
+        "question_number": 28,
+        "cluster": "Civil War",
+        "subcluster": "The Civil War",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 33,
+          "rationale": "Derived from 33% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q28",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (restrict Northern commercial interests)",
+        "answer_format": "text",
+        "correct_text": "restrict Northern commercial interests"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.11A_2026_q33",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 706,
+        "image_height_px": 596,
+        "sha256": "b28f6903e4ffa8e4cd5de8a6c4e3a6fd0e088d0f93f986f78b4589c98e42ef4c",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.11A_2026_q33.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q33_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.11(A)",
+        "standard_description": "analyze how physical characteristics of the environment influenced population distribution, settlement patterns, and economic activities in the United States",
+        "year": 2026,
+        "question_number": 33,
+        "cluster": "Westward Expansion",
+        "subcluster": "Factors Contributing to Settlement",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 46,
+          "rationale": "Derived from 46% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q33",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.12B_2026_q25",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 618,
+        "image_height_px": 300,
+        "sha256": "d004f38f55fdc92fe5790f28b3677103ebfafc5968069ccfebc6ed54062e2594",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.12B_2026_q25.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q25_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.12(B)",
+        "standard_description": "explain reasons for the development of the plantation system, the transatlantic slave trade, and the spread of slavery",
+        "year": 2026,
+        "question_number": 25,
+        "cluster": "Exploration and Colonization",
+        "subcluster": "Economics of the Colonial Regions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 59,
+          "rationale": "Derived from 59% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q25",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.12C_2026_q30",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1034,
+        "image_height_px": 771,
+        "sha256": "56a84c2f5e11e64cd7ed5c83dff73c020da64f19859db421bf620b17afc99de5",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.12C_2026_q30.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q30_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.12(C)",
+        "standard_description": "analyze the causes and effects of economic differences among different regions of the United States at selected times",
+        "year": 2026,
+        "question_number": 30,
+        "cluster": "Civil War",
+        "subcluster": "The Civil War",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "short_constructed_response",
+        "declared_item_type_display": "Short Constructed Response",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 28,
+          "rationale": "Derived from 28% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q30",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (See Scoring Guide)",
+        "answer_format": "text",
+        "correct_text": "See Scoring Guide"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.13B_2026_q37",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 550,
+        "image_height_px": 473,
+        "sha256": "78393c77579289e4c3ac82ce15ee029bf1aabb725e0789c93ffd42b2b71f1ac6",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.13B_2026_q37.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q37_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.13(B)",
+        "standard_description": "identify the economic factors that brought about rapid industrialization and urbanization",
+        "year": 2026,
+        "question_number": 37,
+        "cluster": "Industrialization",
+        "subcluster": "Factors of Industrialization",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "hot_spot",
+        "declared_item_type_display": "Hot Spot",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 21,
+          "rationale": "Derived from 21% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q37",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (Competing businesses in the economy, Advances in science and technology)",
+        "answer_format": "text",
+        "correct_text": "Competing businesses in the economy, Advances in science and technology"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.14B_2026_q35",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 623,
+        "image_height_px": 417,
+        "sha256": "cde2267465591798f71f29aa0cf1f0ed4b2bcd787597bfbc8551586a728b6ada",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.14B_2026_q35.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q35_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.14(B)",
+        "standard_description": "describe the characteristics and the benefits of the U.S. free enterprise system through 1877",
+        "year": 2026,
+        "question_number": 35,
+        "cluster": "Industrialization",
+        "subcluster": "Free Enterprise and Innovation",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 57,
+          "rationale": "Derived from 57% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q35",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.15A_2026_q1",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1043,
+        "image_height_px": 682,
+        "sha256": "c1051e8ab2d97f499b2697557676c1382daaf1ee238fe29551a5b15c09bb0c8b",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.15A_2026_q1.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q1_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.15(A)",
+        "standard_description": "identify the influence of ideas from historic documents, including the Magna Carta, the English Bill of Rights, the Mayflower Compact, and the Federalist Papers on the U.S. system of government",
+        "year": 2026,
+        "question_number": 1,
+        "cluster": "Constitution",
+        "subcluster": "Government/Citizenship",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 71,
+          "rationale": "Derived from 71% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q1",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (Congress can override presidential vetoes, Only Congress has the power to raise or lower taxes, Only Congress can declare war, Congress must meet at least once a year)",
+        "answer_format": "text",
+        "correct_text": "Congress can override presidential vetoes, Only Congress has the power to raise or lower taxes, Only Congress can declare war, Congress must meet at least once a year"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.15D_2026_q6",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 922,
+        "image_height_px": 541,
+        "sha256": "6bfc6159d69ac265e056c4f9713cd9bf426fc5342198cf6ef99362c012c207c7",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.15D_2026_q6.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q6_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.15(D)",
+        "standard_description": "analyze how the U.S. Constitution reflects the principles of limited government, republicanism, checks and balances, federalism, separation of powers, popular sovereignty, and individual rights",
+        "year": 2026,
+        "question_number": 6,
+        "cluster": "Constitution",
+        "subcluster": "Government/Citizenship",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 41,
+          "rationale": "Derived from 41% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q6",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.16B_2026_q27",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 625,
+        "image_height_px": 554,
+        "sha256": "064d54cd7a31c910c5e79d8c226bfc6b862b04c3aefc1f0753d71c4dd532d4d3",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.16B_2026_q27.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q27_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.16(B)",
+        "standard_description": "describe the impact of the 13th, 14th, and 15th amendments",
+        "year": 2026,
+        "question_number": 27,
+        "cluster": "Reconstruction",
+        "subcluster": "Events of Reconstruction",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q27",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.17A_2026_q8",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 560,
+        "image_height_px": 330,
+        "sha256": "8263436a7ba02bc31de783b1c849c35e24b7978a3715a9e43a97df0d42cc9aac",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.17A_2026_q8.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q8_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.17(A)",
+        "standard_description": "analyze the arguments of the Federalists and Anti-Federalists, including those of Alexander Hamilton, Patrick Henry, James Madison, and George Mason, and explain how their debates exemplify civil discourse",
+        "year": 2026,
+        "question_number": 8,
+        "cluster": "Early Republic",
+        "subcluster": "Domestic Issues of the Early Republic",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "short_constructed_response",
+        "declared_item_type_display": "Short Constructed Response",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 32,
+          "rationale": "Derived from 32% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q8",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (See Scoring Guide)",
+        "answer_format": "text",
+        "correct_text": "See Scoring Guide"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.18A_2026_q29",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 586,
+        "image_height_px": 321,
+        "sha256": "3a5f729f6a4b274c3c109932425ff1ff7d17f6882198c457a55646822f09a025",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.18A_2026_q29.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q29_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.18(A)",
+        "standard_description": "identify the origin of judicial review",
+        "year": 2026,
+        "question_number": 29,
+        "cluster": "Early Republic",
+        "subcluster": "Domestic Issues of the Early Republic",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q29",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.19A_2026_q38",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 725,
+        "image_height_px": 561,
+        "sha256": "0217a9fb1cce35af97ff6a597f3050b7984a45573f11d7938779d3a6455fe1f7",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.19A_2026_q38.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q38_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.19(A)",
+        "standard_description": "define and give examples of unalienable rights",
+        "year": 2026,
+        "question_number": 38,
+        "cluster": "American Revolution",
+        "subcluster": "Independence",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 53,
+          "rationale": "Derived from 53% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q38",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.2B_2026_q2",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 723,
+        "image_height_px": 699,
+        "sha256": "8dd199a8c47626b94dbeca41f1228bc5053a2e191a5438b8e39ac15ed7c99498",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.2B_2026_q2.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q2_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.2(B)",
+        "standard_description": "compare political, economic, religious, and social reasons for the establishment of the 13 English colonies",
+        "year": 2026,
+        "question_number": 2,
+        "cluster": "Exploration and Colonization",
+        "subcluster": "Physical and Human Geography of the Colonial Regions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 75,
+          "rationale": "Derived from 75% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q2",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.20B_2026_q12",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 791,
+        "image_height_px": 539,
+        "sha256": "be89cdf460bf1e6ec9fe1fe08798e1f045c1972641e3c7a921dd840c39697200",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.20B_2026_q12.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q12_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.20(B)",
+        "standard_description": "analyze reasons for and the impact of selected examples of civil disobedience in U.S. history such as the Boston Tea Party and Henry David Thoreau's refusal to pay a tax",
+        "year": 2026,
+        "question_number": 12,
+        "cluster": "American Revolution",
+        "subcluster": "Causes of the Revolution",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 58,
+          "rationale": "Derived from 58% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q12",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.21C_2026_q24",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1034,
+        "image_height_px": 643,
+        "sha256": "78f781932a061b23c5b50072f2cffd55a8dfd2f48959532303e4fedbbb4aabc2",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.21C_2026_q24.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q24_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.21(C)",
+        "standard_description": "summarize historical events in which compromise resulted in a resolution such as the Missouri Compromise, the Compromise of 1850, and Kansas-Nebraska Act",
+        "year": 2026,
+        "question_number": 24,
+        "cluster": "Civil War",
+        "subcluster": "States' Rights",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 45,
+          "rationale": "Derived from 45% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q24",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.22A_2026_q21",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 747,
+        "image_height_px": 585,
+        "sha256": "383a0a7eb14a3f37758887d2de949ae7f8c76a4ddc7a0b0d5ff358a4b7ff4a07",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.22A_2026_q21.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q21_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.22(A)",
+        "standard_description": "analyze the leadership qualities of elected and appointed leaders of the United States such as George Washington, John Marshall, and Abraham Lincoln",
+        "year": 2026,
+        "question_number": 21,
+        "cluster": "Early Republic",
+        "subcluster": "Domestic Issues of the Early Republic",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 39,
+          "rationale": "Derived from 39% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q21",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.23A_2026_q14",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 713,
+        "image_height_px": 320,
+        "sha256": "c208f2a8bc9ba97230b10fb3ef2e64e5814a1a1afd62f51ec83f10ccd41a284a",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.23A_2026_q14.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q14_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.23(A)",
+        "standard_description": "identify racial, ethnic, and religious groups that settled in the United States and explain their reasons for immigration",
+        "year": 2026,
+        "question_number": 14,
+        "cluster": "Industrialization",
+        "subcluster": "Factors of Industrialization",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 25,
+          "rationale": "Derived from 25% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q14",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (Germany)",
+        "answer_format": "text",
+        "correct_text": "Germany"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.23B_2026_q5",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 834,
+        "image_height_px": 866,
+        "sha256": "42d5ef2db1abd9ba7f485f92cc24daba5452de5e28a734c31ba95001c616b9d3",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.23B_2026_q5.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q5_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.23(B)",
+        "standard_description": "explain how urbanization contributed to conflicts resulting from differences in religion, social class, and political beliefs",
+        "year": 2026,
+        "question_number": 5,
+        "cluster": "Industrialization",
+        "subcluster": "Effects of Industrialization",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multipart",
+        "declared_item_type_display": "Multipart",
+        "points": 2,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q5",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C, D)",
+        "answer_format": "text",
+        "correct_text": "C, D"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.23E_2026_q19",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 747,
+        "image_height_px": 535,
+        "sha256": "7d720dfe56999802d022d6f3049747da7e1af090077f5f31d31b4284c5629ad8",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.23E_2026_q19.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q19_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.23(E)",
+        "standard_description": "identify the political, social, and economic contributions of women to American society",
+        "year": 2026,
+        "question_number": 19,
+        "cluster": "Civil War",
+        "subcluster": "Expansion of Slavery",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 25,
+          "rationale": "Derived from 25% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q19",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (Harriet Tubman, Harriet Beecher Stowe, Sojourner Truth)",
+        "answer_format": "text",
+        "correct_text": "Harriet Tubman, Harriet Beecher Stowe, Sojourner Truth"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.24A_2026_q3",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1036,
+        "image_height_px": 579,
+        "sha256": "9fdd1de2df4ecc25398f7ba66c4c5c3ed403971cb6c36047831d7301312e0464",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.24A_2026_q3.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q3_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.24(A)",
+        "standard_description": "describe and evaluate the historical development of the abolition movement, including activities that focused attention on the moral ills of slavery",
+        "year": 2026,
+        "question_number": 3,
+        "cluster": "Reform and Culture",
+        "subcluster": "Reform Movements",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 67,
+          "rationale": "Derived from 67% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q3",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.25A_2026_q11",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 858,
+        "image_height_px": 557,
+        "sha256": "c0aa0201a772cd1dbd8f6fe770550f942b16e2553a4b08690b2f7b72e5cd0b42",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.25A_2026_q11.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q11_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.25(A)",
+        "standard_description": "trace the development of religious freedom in the United States",
+        "year": 2026,
+        "question_number": 11,
+        "cluster": "Constitution",
+        "subcluster": "Bill of Rights",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 66,
+          "rationale": "Derived from 66% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q11",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.25C_2026_q40",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 862,
+        "image_height_px": 520,
+        "sha256": "86b83815647c3a179d4d7b3451ac01af71115d4c8740b0c4aa89c211890b99e7",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.25C_2026_q40.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q40_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.25(C)",
+        "standard_description": "analyze the impact of the First Amendment guarantees of religious freedom on the American way of life",
+        "year": 2026,
+        "question_number": 40,
+        "cluster": "Constitution",
+        "subcluster": "Bill of Rights",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 70,
+          "rationale": "Derived from 70% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q40",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.26A_2026_q23",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 676,
+        "image_height_px": 605,
+        "sha256": "477451f7b9134b25c4f42a0b2e17c82d84c810e0eb8b2d8de56ba8bb9bb7a11a",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.26A_2026_q23.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q23_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.26(A)",
+        "standard_description": "identify examples of American art, music, and literature that reflect society in different eras such as the Hudson River School artists, the \u00ecBattle Hymn of the Republic,\u00ee and transcendental literature",
+        "year": 2026,
+        "question_number": 23,
+        "cluster": "Reform and Culture",
+        "subcluster": "American Culture",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q23",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.27A_2026_q31",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 684,
+        "image_height_px": 296,
+        "sha256": "cb4d681ce52089d9572e6e26f2fc6f026e75ad0421ed71609e777dd5a30c8b96",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.27A_2026_q31.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q31_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.27(A)",
+        "standard_description": "explain the effects of technological and scientific innovations such as the steamboat, the cotton gin, the telegraph, and interchangeable parts",
+        "year": 2026,
+        "question_number": 31,
+        "cluster": "Industrialization",
+        "subcluster": "Free Enterprise and Innovation",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 46,
+          "rationale": "Derived from 46% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q31",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.28B_2026_q32",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 518,
+        "image_height_px": 577,
+        "sha256": "ecc94cbf94c8b1900e96f66e8c519508b064ff56f7a30e7e54f35030bbaf441e",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.28B_2026_q32.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q32_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.28(B)",
+        "standard_description": "identify examples of how industrialization changed life in the United States",
+        "year": 2026,
+        "question_number": 32,
+        "cluster": "Industrialization",
+        "subcluster": "Effects of Industrialization",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "hot_text",
+        "declared_item_type_display": "Hot Text",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 62,
+          "rationale": "Derived from 62% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q32",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (The labor force ... was made up of millions of newly arrived immigrants and even larger numbers of migrants from rural areas.)",
+        "answer_format": "text",
+        "correct_text": "The labor force ... was made up of millions of newly arrived immigrants and even larger numbers of migrants from rural areas."
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.3A_2026_q16",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 615,
+        "image_height_px": 399,
+        "sha256": "42ec439fd4d9ed27e9b852bcfd81e92436e843d86b0f78b534f243454569f200",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.3A_2026_q16.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q16_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.3(A)",
+        "standard_description": "explain the reasons for the growth of representative government and institutions during the colonial period",
+        "year": 2026,
+        "question_number": 16,
+        "cluster": "Exploration and Colonization",
+        "subcluster": "Representative Government and Its Growth",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiselect",
+        "declared_item_type_display": "Multiselect",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 11,
+          "rationale": "Derived from 11% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q16",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A, D)",
+        "answer_format": "text",
+        "correct_text": "A, D"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.4A_2026_q20",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1037,
+        "image_height_px": 656,
+        "sha256": "e84da953ddb518f5d39216ad18580e6961e6ee1cb87c5d097ea29284fccf7155",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.4A_2026_q20.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q20_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.4(A)",
+        "standard_description": "analyze causes of the American Revolution, including the Proclamation of 1763, the Intolerable Acts, the Stamp Act, mercantilism, lack of representation in Parliament, and British economic policies following the French and Indian War",
+        "year": 2026,
+        "question_number": 20,
+        "cluster": "American Revolution",
+        "subcluster": "Causes of the Revolution",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 44,
+          "rationale": "Derived from 44% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q20",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.4B_2026_q39",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 720,
+        "image_height_px": 551,
+        "sha256": "bbde63ec28a5f0a7e1ed50aa09bea06dcb0ff60851c629ba463178480f2adea2",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.4B_2026_q39.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q39_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.4(B)",
+        "standard_description": "explain the roles played by significant individuals during the American Revolution, including Abigail Adams, John Adams, Wentworth Cheswell, Samuel Adams, Mercy Otis Warren, James Armistead, Benjamin Franklin, Crispus Attucks, King George III, Patrick Henry, Thomas Jefferson, the Marquis de Lafayette, Thomas Paine, and George Washington",
+        "year": 2026,
+        "question_number": 39,
+        "cluster": "American Revolution",
+        "subcluster": "Causes of the Revolution",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 65,
+          "rationale": "Derived from 65% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q39",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.4C_2026_q9",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 820,
+        "image_height_px": 601,
+        "sha256": "8208d08407d269483f5b3f3e678af4ac1db7a282bb78dd50902b40d5fcc232d8",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.4C_2026_q9.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q9_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.4(C)",
+        "standard_description": "explain the issues surrounding important events of the American Revolution, including declaring independence; fighting the battles of Lexington and Concord, Saratoga, and Yorktown; enduring the winter at Valley Forge; and signing the Treaty of Paris of 1783",
+        "year": 2026,
+        "question_number": 9,
+        "cluster": "American Revolution",
+        "subcluster": "Revolutionary War",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 59,
+          "rationale": "Derived from 59% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q9",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.4D_2026_q17",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 762,
+        "image_height_px": 490,
+        "sha256": "3fbb39485c9c56d19d32f0fabe6010ddf8b64064fcd01dbd7043019ac549fdb2",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.4D_2026_q17.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q17_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.4(D)",
+        "standard_description": "analyze the issues of the Constitutional Convention of 1787, including the Great Compromise and the Three-Fifths Compromise",
+        "year": 2026,
+        "question_number": 17,
+        "cluster": "Constitution",
+        "subcluster": "The Articles and the Constitutional Convention",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "match_table_grid",
+        "declared_item_type_display": "Match Table Grid",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 31,
+          "rationale": "Derived from 31% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q17",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (Southern Delegates, Northern Delegates, Northern Delegates)",
+        "answer_format": "text",
+        "correct_text": "Southern Delegates, Northern Delegates, Northern Delegates"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.5F_2026_q22",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 788,
+        "image_height_px": 397,
+        "sha256": "c1f3dd93ff233813fb1abacb73743eadc6f3de4f9326b7c92c5f9f4170d8291c",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.5F_2026_q22.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q22_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.5(F)",
+        "standard_description": "identify the foreign policies of presidents Washington through Monroe and explain the impact of Washington's Farewell Address and the Monroe Doctrine",
+        "year": 2026,
+        "question_number": 22,
+        "cluster": "Early Republic",
+        "subcluster": "National Security and Foreign Policy of the Early Republic",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 25,
+          "rationale": "Derived from 25% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q22",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (George Washington)",
+        "answer_format": "text",
+        "correct_text": "George Washington"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.5H_2026_q10",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 743,
+        "image_height_px": 637,
+        "sha256": "240abaf6223c90c7d96a4f61d1d0927d94845e112f9b95496badce38f740ca7b",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.5H_2026_q10.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q10_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.5(H)",
+        "standard_description": "analyze the reasons for the removal and resettlement of Cherokee Indians during the Jacksonian era, including the Indian Removal Act, Worcester v. Georgia, and the Trail of Tears",
+        "year": 2026,
+        "question_number": 10,
+        "cluster": "Age of Jackson",
+        "subcluster": "Removal and Resettlement of the Cherokee Indians",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 58,
+          "rationale": "Derived from 58% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q10",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.6B_2026_q36",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 730,
+        "image_height_px": 529,
+        "sha256": "2e373eada84a922939307024185dea2b83a3d038f6a12919754b16fb02157c5e",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.6B_2026_q36.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q36_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.6(B)",
+        "standard_description": "analyze the westward growth of the nation, including the Louisiana Purchase and Manifest Destiny",
+        "year": 2026,
+        "question_number": 36,
+        "cluster": "Westward Expansion",
+        "subcluster": "Roots/Causes of Manifest Destiny",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 36,
+          "rationale": "Derived from 36% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q36",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.7B_2026_q34",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 833,
+        "image_height_px": 917,
+        "sha256": "576edd6fdc336aa871f1957e3f7780eaf5bc7ad67bb7ca70759a0eb7099d0fd8",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.7B_2026_q34.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q34_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.7(B)",
+        "standard_description": "compare the effects of political, economic, and social factors on slaves and free Blacks",
+        "year": 2026,
+        "question_number": 34,
+        "cluster": "Civil War",
+        "subcluster": "Expansion of Slavery",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multipart",
+        "declared_item_type_display": "Multipart",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 14,
+          "rationale": "Derived from 14% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q34",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C, D)",
+        "answer_format": "text",
+        "correct_text": "C, D"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.7D_2026_q4",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1035,
+        "image_height_px": 563,
+        "sha256": "fff88fcfa9b0bfac8754ed785e6c147d2fe328e0843869ffb923d09ba1e8d2fc",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.7D_2026_q4.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q4_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.7(D)",
+        "standard_description": "analyze the impact of slavery on different sections of the United States",
+        "year": 2026,
+        "question_number": 4,
+        "cluster": "Civil War",
+        "subcluster": "Expansion of Slavery",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 48,
+          "rationale": "Derived from 48% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q4",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.8A_2026_q7",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 652,
+        "image_height_px": 787,
+        "sha256": "d2383cec874fd61234a92c9fb2130f4e5b109c046ff3df48f6c65ce84c73a6df",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.8A_2026_q7.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q7_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.8(A)",
+        "standard_description": "explain the roles played by significant individuals during the Civil War, including Jefferson Davis, Ulysses S. Grant, Robert E. Lee, and Abraham Lincoln, and heroes such as congressional Medal of Honor recipients William Carney and Philip Bazaar",
+        "year": 2026,
+        "question_number": 7,
+        "cluster": "Civil War",
+        "subcluster": "The Civil War",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 48,
+          "rationale": "Derived from 48% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q7",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.8B_2026_q15",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 834,
+        "image_height_px": 603,
+        "sha256": "ad018612aef9c0f63a4cf656c2f86b4df0250437ba860e69be5deb3b35231533",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.8B_2026_q15.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q15_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.8(B)",
+        "standard_description": "explain the central role of the expansion of slavery in causing sectionalism, disagreement over states\u00ed rights, and the Civil War",
+        "year": 2026,
+        "question_number": 15,
+        "cluster": "Civil War",
+        "subcluster": "Sectionalism",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 39,
+          "rationale": "Derived from 39% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q15",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.8C_2026_q18",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 686,
+        "image_height_px": 515,
+        "sha256": "d39511e34a1d3df80d8a1d8fb9435a0f3762572d4317bae6f2b9f68f3540bf2a",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.8C_2026_q18.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q18_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.8(C)",
+        "standard_description": "explain significant events of the Civil War, including the firing on Fort Sumter; the battles of Antietam, Gettysburg, and Vicksburg; the Emancipation Proclamation; Lee's surrender at Appomattox Court House; and the assassination of Abraham Lincoln",
+        "year": 2026,
+        "question_number": 18,
+        "cluster": "Civil War",
+        "subcluster": "The Civil War",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 40,
+          "rationale": "Derived from 40% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q18",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_social_studies_8.9B_2026_q13",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 727,
+        "image_height_px": 625,
+        "sha256": "5cda75f2634991cd5c0abf893a7e244e306a09b98ffa393fc044547ffaa1c2d7",
+        "question_image": "collections/grade-8/social-studies/images/extracted/g8_social_studies_8.9B_2026_q13.png",
+        "source_url": "https://iq.lead4ward.com/items/ss/26/g8/Q13_ss_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Social Studies",
+        "standard": "8.9(B)",
+        "standard_description": "explain the impact of the election of African Americans from the South such as Hiram Rhodes Revels",
+        "year": 2026,
+        "question_number": 13,
+        "cluster": "Reconstruction",
+        "subcluster": "Events of Reconstruction",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Social Studies item Q13",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
       }
     }
   ]

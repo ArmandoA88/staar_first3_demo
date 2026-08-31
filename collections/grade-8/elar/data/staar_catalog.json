@@ -1,15 +1,16 @@
 {
   "source_pdf": "elar grade 8.pdf",
-  "generated_at_utc": "2026-04-05T01:50:28Z",
+  "generated_at_utc": "2026-08-31T00:44:26Z",
   "schema_version": "staar_catalog_v4",
-  "item_count": 550,
+  "item_count": 595,
   "subject": "ELAR",
   "grade": 8,
   "collection_root": "collections/grade-8/elar",
   "extraction_method": {
     "question_region": "Rendered page crop transcribed with OpenAI vision",
     "answer_key": "Parsed from PDF text layer footer",
-    "difficulty": "Derived from state percent-correct data in the PDF text layer"
+    "difficulty": "Derived from state percent-correct data in the PDF text layer",
+    "2026_release": "Official item images and metadata imported from lead4ward IQ (source: TEA)"
   },
   "items": [
     {
@@ -52536,6 +52537,3060 @@
         "label": "Passage #7",
         "page_count": 1
       }
+    },
+    {
+      "id": "g8_elar_8.10Bi_2026_q33",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 576,
+        "image_height_px": 405,
+        "sha256": "8186bef98fac24d00b16eb8e724e920aab2418a01251aa258fc370e230d20bfc",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Bi_2026_q33.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q33_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(B) (i)",
+        "standard_description": "[develop drafts into a focused, structured, and coherent piece of writing by] organizing with purposeful structure, including an introduction, transitions, coherence within and across paragraphs, and a conclusion",
+        "year": 2026,
+        "question_number": 33,
+        "cluster": "Revision",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #4",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 44,
+          "rationale": "Derived from 44% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q33",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-4",
+        "label": "Passage #4",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Bi_2026_q34",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 561,
+        "image_height_px": 454,
+        "sha256": "35209a6ed9f7b8597d784396f51d2ec7d495794265efcee5419bb7bd498f1e74",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Bi_2026_q34.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q34_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(B) (i)",
+        "standard_description": "[develop drafts into a focused, structured, and coherent piece of writing by] organizing with purposeful structure, including an introduction, transitions, coherence within and across paragraphs, and a conclusion",
+        "year": 2026,
+        "question_number": 34,
+        "cluster": "Revision",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #5",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 70,
+          "rationale": "Derived from 70% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q34",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-5",
+        "label": "Passage #5",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Bi_2026_q36",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 478,
+        "image_height_px": 333,
+        "sha256": "240a686156c82c31f5adf0125a06074777847b02d2943bf3a2d2d1114ae7d629",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Bi_2026_q36.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q36_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(B) (i)",
+        "standard_description": "[develop drafts into a focused, structured, and coherent piece of writing by] organizing with purposeful structure, including an introduction, transitions, coherence within and across paragraphs, and a conclusion",
+        "year": 2026,
+        "question_number": 36,
+        "cluster": "Revision",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #5",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 61,
+          "rationale": "Derived from 61% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q36",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-5",
+        "label": "Passage #5",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Bii_2026_q30",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 520,
+        "image_height_px": 287,
+        "sha256": "238dd7cda5cf8bd052d135131ec208518149ea722eaf7cb95699e887a661507d",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Bii_2026_q30.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q30_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(B) (ii)",
+        "standard_description": "[develop drafts into a focused, structured, and coherent piece of writing by] developing an engaging idea reflecting depth of thought with specific facts, details, and examples",
+        "year": 2026,
+        "question_number": 30,
+        "cluster": "Revision",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #4",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 55,
+          "rationale": "Derived from 55% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q30",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-4",
+        "label": "Passage #4",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Bii_2026_q35",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 531,
+        "image_height_px": 337,
+        "sha256": "47f4f87f4f0a6ba2ce9654aaf60446448720d98fad1714a23ab5198605c08901",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Bii_2026_q35.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q35_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(B) (ii)",
+        "standard_description": "[develop drafts into a focused, structured, and coherent piece of writing by] developing an engaging idea reflecting depth of thought with specific facts, details, and examples",
+        "year": 2026,
+        "question_number": 35,
+        "cluster": "Revision",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #5",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 79,
+          "rationale": "Derived from 79% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q35",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-5",
+        "label": "Passage #5",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10C_2026_q31",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 530,
+        "image_height_px": 262,
+        "sha256": "dc6ed5dffb4314fc4e50642fd59053ebe149abbd0d87a31a86b41fa448c0c479",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10C_2026_q31.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q31_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(C)",
+        "standard_description": "revise drafts for clarity, development, organization, style, word choice, and sentence variety",
+        "year": 2026,
+        "question_number": 31,
+        "cluster": "Revision",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #4",
+        "item_type": "short_constructed_response",
+        "declared_item_type_display": "Short Constructed Response",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 48,
+          "rationale": "Derived from 48% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q31",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (See Scoring Guide)",
+        "answer_format": "text",
+        "correct_text": "See Scoring Guide"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-4",
+        "label": "Passage #4",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10C_2026_q32",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 657,
+        "image_height_px": 361,
+        "sha256": "28f441f4d1aad7736ac8a2d946f64e3b7d1a178ad63a400004fb1f95c1d83ac0",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10C_2026_q32.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q32_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(C)",
+        "standard_description": "revise drafts for clarity, development, organization, style, word choice, and sentence variety",
+        "year": 2026,
+        "question_number": 32,
+        "cluster": "Revision",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #4",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 47,
+          "rationale": "Derived from 47% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q32",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-4",
+        "label": "Passage #4",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10C_2026_q37",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 676,
+        "image_height_px": 480,
+        "sha256": "94a338dafdfbbc741a9c4b5153f8fc9fd2f563f8b79cd147e86907039114367a",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10C_2026_q37.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q37_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(C)",
+        "standard_description": "revise drafts for clarity, development, organization, style, word choice, and sentence variety",
+        "year": 2026,
+        "question_number": 37,
+        "cluster": "Revision",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #5",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 29,
+          "rationale": "Derived from 29% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q37",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-5",
+        "label": "Passage #5",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Di_2026_q41",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 624,
+        "image_height_px": 379,
+        "sha256": "96e18b142a11ad869752837c38088834aa4601d0055df2cc60c7dc60e89c8c4a",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Di_2026_q41.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q41_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(D) (i)",
+        "standard_description": "[edit drafts using standard English conventions, including] complete complex sentences with subject-verb agreement and avoidance of splices, run-ons, and fragments",
+        "year": 2026,
+        "question_number": 41,
+        "cluster": "Editing",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #6",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 69,
+          "rationale": "Derived from 69% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q41",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-6",
+        "label": "Passage #6",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Di_2026_q42",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 625,
+        "image_height_px": 379,
+        "sha256": "1bc00e8b108c6ac33280de4c3ce0eba5a654f85b219a9959232c5df58c5316e5",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Di_2026_q42.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q42_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(D) (i)",
+        "standard_description": "[edit drafts using standard English conventions, including] complete complex sentences with subject-verb agreement and avoidance of splices, run-ons, and fragments",
+        "year": 2026,
+        "question_number": 42,
+        "cluster": "Editing",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #7",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 72,
+          "rationale": "Derived from 72% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q42",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-7",
+        "label": "Passage #7",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Dii_2026_q44",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 536,
+        "image_height_px": 148,
+        "sha256": "ccc09f0278ea1d704d89822797a57bee0dfb05363a504145faab4588331524f8",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Dii_2026_q44.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q44_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(D) (ii)",
+        "standard_description": "[edit drafts using standard English conventions, including] consistent, appropriate use of verb tenses and active and passive voice",
+        "year": 2026,
+        "question_number": 44,
+        "cluster": "Editing",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #7",
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q44",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (is)",
+        "answer_format": "text",
+        "correct_text": "is"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-7",
+        "label": "Passage #7",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Diii_2026_q43",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 444,
+        "image_height_px": 281,
+        "sha256": "93de8ccf289313e7659e331f105ac0acffd2fae4262804583558d7a1abfb0a04",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Diii_2026_q43.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q43_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(D) (iii)",
+        "standard_description": "[edit drafts using standard English conventions, including] prepositions and prepositional phrases and their influence on subject-verb agreement",
+        "year": 2026,
+        "question_number": 43,
+        "cluster": "Editing",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #7",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 62,
+          "rationale": "Derived from 62% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q43",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-7",
+        "label": "Passage #7",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Div_2026_q39",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 441,
+        "image_height_px": 289,
+        "sha256": "e26d569ee1202a4c8d69deb4b2f6b5b8682be0dc237fe3c9013083ff8862e5fa",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Div_2026_q39.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q39_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(D) (iv)",
+        "standard_description": "[edit drafts using standard English conventions, including] pronoun-antecedent agreement",
+        "year": 2026,
+        "question_number": 39,
+        "cluster": "Editing",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #6",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 50,
+          "rationale": "Derived from 50% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q39",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-6",
+        "label": "Passage #6",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Dv_2026_q38",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 444,
+        "image_height_px": 288,
+        "sha256": "4ade1eba470023f8391eaee51adc6dec2d657d57dfa15bab4945d8542d16eb51",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Dv_2026_q38.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q38_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(D) (v)",
+        "standard_description": "[edit drafts using standard English conventions, including] correct capitalization",
+        "year": 2026,
+        "question_number": 38,
+        "cluster": "Editing",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #6",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 57,
+          "rationale": "Derived from 57% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q38",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-6",
+        "label": "Passage #6",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Dvi_2026_q45",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 477,
+        "image_height_px": 285,
+        "sha256": "0ea30178a31770f458c48889131b9f4d8368bc50ba6302fb516593889c919c7b",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Dvi_2026_q45.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q45_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(D) (vi)",
+        "standard_description": "[edit drafts using standard English conventions, including] punctuation, including commas in nonrestrictive phrases and clauses, semicolons, colons, and parentheses",
+        "year": 2026,
+        "question_number": 45,
+        "cluster": "Editing",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #7",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 56,
+          "rationale": "Derived from 56% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q45",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A,D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-7",
+        "label": "Passage #7",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.10Dvii_2026_q40",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 441,
+        "image_height_px": 285,
+        "sha256": "8196b963a1c552fb256a8d62b4d91678c8ec36f07fa9db56a8150d4d1fc7506e",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.10Dvii_2026_q40.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q40_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.10(D) (vii)",
+        "standard_description": "[edit drafts using standard English conventions, including] correct spelling, including commonly confused terms such as its/it's, affect/effect, there/their/they're, and to/two/too",
+        "year": 2026,
+        "question_number": 40,
+        "cluster": "Editing",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #6",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 66,
+          "rationale": "Derived from 66% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q40",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-6",
+        "label": "Passage #6",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.11C_2026_q29",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1023,
+        "image_height_px": 632,
+        "sha256": "3f83c3e65a10f6fd148000d6891522698a2a2407487ecdeb6b7f59fe90c6486b",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.11C_2026_q29.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q29_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.11(C)",
+        "standard_description": "compose multi-paragraph argumentative texts using genre characteristics and craft",
+        "year": 2026,
+        "question_number": 29,
+        "cluster": "Informational",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #3",
+        "item_type": "extended_constructed_response",
+        "declared_item_type_display": "Extended Constructed Response",
+        "points": 10,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 15,
+          "rationale": "Derived from 15% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q29",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (See Scoring Guide)",
+        "answer_format": "text",
+        "correct_text": "See Scoring Guide"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-3",
+        "label": "Passage #3",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.2B_2026_q1",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 426,
+        "image_height_px": 333,
+        "sha256": "147758b479774fa288995c4d94a4946e968cd6b7aaf984d547daa6bfd28c4e24",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.2B_2026_q1.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q1_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.2(B)",
+        "standard_description": "use context within or beyond a paragraph to clarify the meaning of unfamiliar or ambiguous words",
+        "year": 2026,
+        "question_number": 1,
+        "cluster": "Argumentative",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #1",
+        "item_type": "text_entry",
+        "declared_item_type_display": "Text Entry",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 68,
+          "rationale": "Derived from 68% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q1",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (mess)",
+        "answer_format": "text",
+        "correct_text": "mess"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-1",
+        "label": "Passage #1",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.2C_2026_q12",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 616,
+        "image_height_px": 331,
+        "sha256": "d735a75625550333d2d837ec5e8e7d22512138178a54ea1e57ee3c40a5315a3c",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.2C_2026_q12.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q12_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.2(C)",
+        "standard_description": "determine the meaning and usage of grade-level academic English words derived from Greek and Latin roots such as ast, qui, path, mand/mend, and duc",
+        "year": 2026,
+        "question_number": 12,
+        "cluster": "Literary Nonfiction",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2A",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 71,
+          "rationale": "Derived from 71% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q12",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2a",
+        "label": "Passage #2A",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.5E_2026_q17",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 746,
+        "image_height_px": 408,
+        "sha256": "8401cce3ffd1675e363d089792d081303bf3c71cc0462d35093d8dd50c2c39e7",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.5E_2026_q17.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q17_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.5(E)",
+        "standard_description": "make connections to personal experiences, ideas in other texts, and society",
+        "year": 2026,
+        "question_number": 17,
+        "cluster": "Poetry",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2A Literary Nonfiction and Passage #2B Poetry",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 51,
+          "rationale": "Derived from 51% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q17",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2a-passage-2b",
+        "label": "Passage #2A Literary Nonfiction and Passage #2B Poetry",
+        "page_count": 2
+      }
+    },
+    {
+      "id": "g8_elar_8.5E_2026_q18",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 776,
+        "image_height_px": 432,
+        "sha256": "8a9d706109bae026580bcc980168c6ae3905ce5595b381f6ac9ae9d1963736a6",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.5E_2026_q18.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q18_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.5(E)",
+        "standard_description": "make connections to personal experiences, ideas in other texts, and society",
+        "year": 2026,
+        "question_number": 18,
+        "cluster": "Poetry",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2A Literary Nonfiction and Passage #2B Poetry",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 47,
+          "rationale": "Derived from 47% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q18",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2a-passage-2b",
+        "label": "Passage #2A Literary Nonfiction and Passage #2B Poetry",
+        "page_count": 2
+      }
+    },
+    {
+      "id": "g8_elar_8.5E_2026_q19",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 577,
+        "image_height_px": 336,
+        "sha256": "aa7b8d94a710657fff64f26a0b9f16245b09e7c8341e676bf551c34aed34e5a1",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.5E_2026_q19.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q19_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.5(E)",
+        "standard_description": "make connections to personal experiences, ideas in other texts, and society",
+        "year": 2026,
+        "question_number": 19,
+        "cluster": "Poetry",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2A Literary Nonfiction and Passage #2B Poetry",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q19",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2a-passage-2b",
+        "label": "Passage #2A Literary Nonfiction and Passage #2B Poetry",
+        "page_count": 2
+      }
+    },
+    {
+      "id": "g8_elar_8.5E_2026_q20",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 592,
+        "image_height_px": 358,
+        "sha256": "24707ad256c4a9b7a3eebedc8bbcf58f7b6712e062dd54caff908597aecad5e8",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.5E_2026_q20.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q20_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.5(E)",
+        "standard_description": "make connections to personal experiences, ideas in other texts, and society",
+        "year": 2026,
+        "question_number": 20,
+        "cluster": "Poetry",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2A Literary Nonfiction and Passage #2B Poetry",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 48,
+          "rationale": "Derived from 48% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q20",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2a-passage-2b",
+        "label": "Passage #2A Literary Nonfiction and Passage #2B Poetry",
+        "page_count": 2
+      }
+    },
+    {
+      "id": "g8_elar_8.5F_2026_q21",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 439,
+        "image_height_px": 308,
+        "sha256": "71e40a470a1f1e215d6b603c0e4600aa4f2135469ecd5c65e9fcbbfa595b87ba",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.5F_2026_q21.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q21_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.5(F)",
+        "standard_description": "make inferences and use evidence to support understanding",
+        "year": 2026,
+        "question_number": 21,
+        "cluster": "Informational",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #3",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 70,
+          "rationale": "Derived from 70% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q21",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-3",
+        "label": "Passage #3",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.5G_2026_q2",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 516,
+        "image_height_px": 408,
+        "sha256": "b16a0793bc69e569af18f473d22b5c4d6beed0fa964cd3e7a515fba7b932e2b0",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.5G_2026_q2.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q2_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.5(G)",
+        "standard_description": "evaluate details read to determine key ideas",
+        "year": 2026,
+        "question_number": 2,
+        "cluster": "Argumentative",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #1",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 39,
+          "rationale": "Derived from 39% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q2",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-1",
+        "label": "Passage #1",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.6C_2026_q26",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 708,
+        "image_height_px": 401,
+        "sha256": "7ad0a638dc65c07e8f35137ab2ac6381a6d9cd1fc6d7567bb4aa9357d41161ee",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.6C_2026_q26.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q26_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.6(C)",
+        "standard_description": "use text evidence to support an appropriate response",
+        "year": 2026,
+        "question_number": 26,
+        "cluster": "Informational",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #3",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 78,
+          "rationale": "Derived from 78% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q26",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-3",
+        "label": "Passage #3",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.6D_2026_q16",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 627,
+        "image_height_px": 357,
+        "sha256": "914236cf7f15e1643d834d623a72455bb1bd004ede6d9ec97a3bde2c1860cea7",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.6D_2026_q16.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q16_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.6(D)",
+        "standard_description": "paraphrase and summarize texts in ways that maintain meaning and logical order",
+        "year": 2026,
+        "question_number": 16,
+        "cluster": "Poetry",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2B",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 78,
+          "rationale": "Derived from 78% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q16",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A,B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2b",
+        "label": "Passage #2B",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.6D_2026_q25",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 884,
+        "image_height_px": 551,
+        "sha256": "78204e3123e9683d76a080134fee22bd7756eac8176ad1c6f8d022ee4806ebc7",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.6D_2026_q25.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q25_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.6(D)",
+        "standard_description": "paraphrase and summarize texts in ways that maintain meaning and logical order",
+        "year": 2026,
+        "question_number": 25,
+        "cluster": "Informational",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #3",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 57,
+          "rationale": "Derived from 57% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q25",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-3",
+        "label": "Passage #3",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.7A_2026_q15",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 536,
+        "image_height_px": 430,
+        "sha256": "9fdad2ce9aa11ae71daad1d7631cd389f3f095782dc6e7024fcbce934ceaa296",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.7A_2026_q15.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q15_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.7(A)",
+        "standard_description": "analyze how themes are developed through the interaction of characters and events",
+        "year": 2026,
+        "question_number": 15,
+        "cluster": "Poetry",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2B",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 65,
+          "rationale": "Derived from 65% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q15",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2b",
+        "label": "Passage #2B",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.7B_2026_q10",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 513,
+        "image_height_px": 308,
+        "sha256": "821b0c29f26d7b3245b882242840b2f7b8c8724f3820115cb5b03e87c78d4dcb",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.7B_2026_q10.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q10_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.7(B)",
+        "standard_description": "analyze how characters' motivations and behaviors influence events and resolution of the conflict",
+        "year": 2026,
+        "question_number": 10,
+        "cluster": "Literary Nonfiction",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2A",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 50,
+          "rationale": "Derived from 50% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q10",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A,B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2a",
+        "label": "Passage #2A",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.7D_2026_q11",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 739,
+        "image_height_px": 638,
+        "sha256": "5d6b0b3f0b41a2036ada07c80a84f8d75a873ac8936964de0394f5e8f9aae63e",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.7D_2026_q11.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q11_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.7(D)",
+        "standard_description": "explain how the setting influences the values and beliefs of characters",
+        "year": 2026,
+        "question_number": 11,
+        "cluster": "Literary Nonfiction",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2A",
+        "item_type": "multipart",
+        "declared_item_type_display": "Multipart",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 33,
+          "rationale": "Derived from 33% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q11",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A, D)",
+        "answer_format": "text",
+        "correct_text": "A, D"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2a",
+        "label": "Passage #2A",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.8B_2026_q14",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 608,
+        "image_height_px": 311,
+        "sha256": "6581e5daaa602e1a479b895f7627bcb15b1b462d9e397d20ba72fb0a6da5b2c1",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.8B_2026_q14.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q14_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.8(B)",
+        "standard_description": "analyze the effect of graphical elements such as punctuation and line length in poems across a variety of poetic forms such as epic, lyric, and humorous poetry",
+        "year": 2026,
+        "question_number": 14,
+        "cluster": "Poetry",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2B",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 69,
+          "rationale": "Derived from 69% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q14",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2b",
+        "label": "Passage #2B",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.8Di_2026_q22",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 676,
+        "image_height_px": 384,
+        "sha256": "0f6675a348cf5cc9e6618e92b195f12fc61caacbbcce1b008e524ca5c1a1f21d",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.8Di_2026_q22.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q22_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.8(D) (i)",
+        "standard_description": "[analyze characteristics and structural elements of informational text, including] the controlling idea or thesis with supporting evidence",
+        "year": 2026,
+        "question_number": 22,
+        "cluster": "Informational",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #3",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 65,
+          "rationale": "Derived from 65% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q22",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-3",
+        "label": "Passage #3",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.8Diii_2026_q24",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 608,
+        "image_height_px": 471,
+        "sha256": "515ab8394d3a712d3728d7be7c177574d93af0cb0a467622b5c08f84b35379aa",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.8Diii_2026_q24.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q24_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.8(D) (iii)",
+        "standard_description": "[analyze characteristics and structural elements of informational text, including] multiple organizational patterns within a text to develop the thesis",
+        "year": 2026,
+        "question_number": 24,
+        "cluster": "Informational",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #3",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q24",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-3",
+        "label": "Passage #3",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.8Ei_2026_q8",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 490,
+        "image_height_px": 388,
+        "sha256": "c76b311f7b4ff86bfa1fa12dbd61c45a71475e01dcdec130f12fd1c709b7bccc",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.8Ei_2026_q8.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q8_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.8(E) (i)",
+        "standard_description": "[analyze characteristics and structures of argumentative text by] identifying the claim and analyzing the argument",
+        "year": 2026,
+        "question_number": 8,
+        "cluster": "Argumentative",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #1",
+        "item_type": "short_constructed_response",
+        "declared_item_type_display": "Short Constructed Response",
+        "points": 2,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 63,
+          "rationale": "Derived from 63% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q8",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (See Scoring Guide)",
+        "answer_format": "text",
+        "correct_text": "See Scoring Guide"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-1",
+        "label": "Passage #1",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.8Eii_2026_q3",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 444,
+        "image_height_px": 410,
+        "sha256": "78bad40cef5aebe680d00a3af29c8c139177de08524635638d74236e9e894461",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.8Eii_2026_q3.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q3_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.8(E) (ii)",
+        "standard_description": "[analyze characteristics and structures of argumentative text by] identifying and explaining the counter argument",
+        "year": 2026,
+        "question_number": 3,
+        "cluster": "Argumentative",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #1",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 46,
+          "rationale": "Derived from 46% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q3",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-1",
+        "label": "Passage #1",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.8Eiii_2026_q5",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 710,
+        "image_height_px": 286,
+        "sha256": "95d9f1b0cd9451c353f77bae47e633ca01bd168a4af933abe0af8cd5ca62d5db",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.8Eiii_2026_q5.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q5_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.8(E) (iii)",
+        "standard_description": "[analyze characteristics and structures of argumentative text by] identifying the intended audience or reader",
+        "year": 2026,
+        "question_number": 5,
+        "cluster": "Argumentative",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #1",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 72,
+          "rationale": "Derived from 72% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q5",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-1",
+        "label": "Passage #1",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.9A_2026_q9",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 693,
+        "image_height_px": 400,
+        "sha256": "cf31f220ffc17519d2b51f88b4881cad95c8926787fe8f62915ec241517ab4db",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.9A_2026_q9.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q9_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.9(A)",
+        "standard_description": "explain the author's purpose and message within a text",
+        "year": 2026,
+        "question_number": 9,
+        "cluster": "Literary Nonfiction",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2A",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 70,
+          "rationale": "Derived from 70% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q9",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2a",
+        "label": "Passage #2A",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.9A_2026_q27",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 547,
+        "image_height_px": 382,
+        "sha256": "3853c7c0d4ce568845c019e81622f5af1ef074fcc265c196806bd247eab79e14",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.9A_2026_q27.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q27_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.9(A)",
+        "standard_description": "explain the author's purpose and message within a text",
+        "year": 2026,
+        "question_number": 27,
+        "cluster": "Informational",
+        "subcluster": "",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #3",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 55,
+          "rationale": "Derived from 55% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q27",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-3",
+        "label": "Passage #3",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.9B_2026_q6",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 529,
+        "image_height_px": 405,
+        "sha256": "f126942188095210c8f1cdb343dc80af943642e52c1772c58a5f599a35653fc5",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.9B_2026_q6.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q6_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.9(B)",
+        "standard_description": "analyze how the use of text structure contributes to the author's purpose",
+        "year": 2026,
+        "question_number": 6,
+        "cluster": "Argumentative",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #1",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 76,
+          "rationale": "Derived from 76% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q6",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B,C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-1",
+        "label": "Passage #1",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.9C_2026_q23",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 801,
+        "image_height_px": 289,
+        "sha256": "8ccc14b0ad3742bf5aee740f1e1b13cfcc8b6747d9be1577c4c1a806902ee4ea",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.9C_2026_q23.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q23_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.9(C)",
+        "standard_description": "analyze the author's use of print and graphic features to achieve specific purposes",
+        "year": 2026,
+        "question_number": 23,
+        "cluster": "Informational",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #3",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 68,
+          "rationale": "Derived from 68% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q23",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-3",
+        "label": "Passage #3",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.9D_2026_q13",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 557,
+        "image_height_px": 309,
+        "sha256": "84b893d91e3bbe375f8abd5aed834b72f23cdace8fb5dcbd066797eeac6a63d4",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.9D_2026_q13.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q13_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.9(D)",
+        "standard_description": "describe how the author's use of figurative language such as extended metaphor achieves specific purposes",
+        "year": 2026,
+        "question_number": 13,
+        "cluster": "Poetry",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #2B",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 77,
+          "rationale": "Derived from 77% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q13",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-2b",
+        "label": "Passage #2B",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.9F_2026_q7",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 508,
+        "image_height_px": 313,
+        "sha256": "4038d7df8a1b65259304b66b55a781f8b4f847b4d2dae74f63953b1715e8ce0e",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.9F_2026_q7.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q7_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.9(F)",
+        "standard_description": "analyze how the author's use of language contributes to the mood, voice, and tone",
+        "year": 2026,
+        "question_number": 7,
+        "cluster": "Argumentative",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #1",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 61,
+          "rationale": "Derived from 61% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q7",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-1",
+        "label": "Passage #1",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.9G_2026_q4",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 610,
+        "image_height_px": 405,
+        "sha256": "f1c9b6fefa2a75ffaadf8f97969e0340e75e8cacb4ccdd9142a0396d1148a8a5",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.9G_2026_q4.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q4_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.9(G)",
+        "standard_description": "explain the purpose of rhetorical devices such as analogy and juxtaposition and of logical fallacies such as bandwagon appeals and circular reasoning",
+        "year": 2026,
+        "question_number": 4,
+        "cluster": "Argumentative",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #1",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 55,
+          "rationale": "Derived from 55% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q4",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-1",
+        "label": "Passage #1",
+        "page_count": 1
+      }
+    },
+    {
+      "id": "g8_elar_8.9G_2026_q28",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 489,
+        "image_height_px": 404,
+        "sha256": "f1b55e271ffba055b4a5c5474ff1cb94812556d7141d553d8ce2ec1eba5fd4ae",
+        "question_image": "collections/grade-8/elar/images/extracted/g8_elar_8.9G_2026_q28.png",
+        "source_url": "https://iq.lead4ward.com/items/elar/26/g8/Q28_elar_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "ELAR",
+        "standard": "8.9(G)",
+        "standard_description": "explain the purpose of rhetorical devices such as analogy and juxtaposition and of logical fallacies such as bandwagon appeals and circular reasoning",
+        "year": 2026,
+        "question_number": 28,
+        "cluster": "Informational",
+        "subcluster": "",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "stimulus_reference": "Passage #3",
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 42,
+          "rationale": "Derived from 42% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR ELAR item Q28",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      },
+      "stimulus": {
+        "group_id": "g8_elar_2026_passage-3",
+        "label": "Passage #3",
+        "page_count": 1
+      }
     }
   ],
   "stimulus_groups": [
@@ -54400,7 +57455,161 @@
         "g8_elar_8.10D_2023_q41",
         "g8_elar_8.10D_2023_q42"
       ]
+    },
+    {
+      "id": "g8_elar_2026_passage-1",
+      "label": "Passage #1",
+      "year": 2026,
+      "page_count": 1,
+      "page_numbers": [],
+      "page_images": [
+        "collections/grade-8/elar/images/stimuli/g8_elar_2026_passage-1.png"
+      ],
+      "question_ids": [
+        "g8_elar_8.2B_2026_q1",
+        "g8_elar_8.5G_2026_q2",
+        "g8_elar_8.8Ei_2026_q8",
+        "g8_elar_8.8Eii_2026_q3",
+        "g8_elar_8.8Eiii_2026_q5",
+        "g8_elar_8.9B_2026_q6",
+        "g8_elar_8.9F_2026_q7",
+        "g8_elar_8.9G_2026_q4"
+      ]
+    },
+    {
+      "id": "g8_elar_2026_passage-2a",
+      "label": "Passage #2A",
+      "year": 2026,
+      "page_count": 1,
+      "page_numbers": [],
+      "page_images": [
+        "collections/grade-8/elar/images/stimuli/g8_elar_2026_passage-2a.png"
+      ],
+      "question_ids": [
+        "g8_elar_8.2C_2026_q12",
+        "g8_elar_8.7B_2026_q10",
+        "g8_elar_8.7D_2026_q11",
+        "g8_elar_8.9A_2026_q9"
+      ]
+    },
+    {
+      "id": "g8_elar_2026_passage-2a-passage-2b",
+      "label": "Passage #2A Literary Nonfiction and Passage #2B Poetry",
+      "year": 2026,
+      "page_count": 2,
+      "page_numbers": [],
+      "page_images": [
+        "collections/grade-8/elar/images/stimuli/g8_elar_2026_passage-2a.png",
+        "collections/grade-8/elar/images/stimuli/g8_elar_2026_passage-2b.png"
+      ],
+      "question_ids": [
+        "g8_elar_8.5E_2026_q17",
+        "g8_elar_8.5E_2026_q18",
+        "g8_elar_8.5E_2026_q19",
+        "g8_elar_8.5E_2026_q20"
+      ]
+    },
+    {
+      "id": "g8_elar_2026_passage-2b",
+      "label": "Passage #2B",
+      "year": 2026,
+      "page_count": 1,
+      "page_numbers": [],
+      "page_images": [
+        "collections/grade-8/elar/images/stimuli/g8_elar_2026_passage-2b.png"
+      ],
+      "question_ids": [
+        "g8_elar_8.6D_2026_q16",
+        "g8_elar_8.7A_2026_q15",
+        "g8_elar_8.8B_2026_q14",
+        "g8_elar_8.9D_2026_q13"
+      ]
+    },
+    {
+      "id": "g8_elar_2026_passage-3",
+      "label": "Passage #3",
+      "year": 2026,
+      "page_count": 1,
+      "page_numbers": [],
+      "page_images": [
+        "collections/grade-8/elar/images/stimuli/g8_elar_2026_passage-3.png"
+      ],
+      "question_ids": [
+        "g8_elar_8.5F_2026_q21",
+        "g8_elar_8.6C_2026_q26",
+        "g8_elar_8.6D_2026_q25",
+        "g8_elar_8.8Di_2026_q22",
+        "g8_elar_8.8Diii_2026_q24",
+        "g8_elar_8.9A_2026_q27",
+        "g8_elar_8.9C_2026_q23",
+        "g8_elar_8.9G_2026_q28",
+        "g8_elar_8.11C_2026_q29"
+      ]
+    },
+    {
+      "id": "g8_elar_2026_passage-4",
+      "label": "Passage #4",
+      "year": 2026,
+      "page_count": 1,
+      "page_numbers": [],
+      "page_images": [
+        "collections/grade-8/elar/images/stimuli/g8_elar_2026_passage-4.png"
+      ],
+      "question_ids": [
+        "g8_elar_8.10Bi_2026_q33",
+        "g8_elar_8.10Bii_2026_q30",
+        "g8_elar_8.10C_2026_q31",
+        "g8_elar_8.10C_2026_q32"
+      ]
+    },
+    {
+      "id": "g8_elar_2026_passage-5",
+      "label": "Passage #5",
+      "year": 2026,
+      "page_count": 1,
+      "page_numbers": [],
+      "page_images": [
+        "collections/grade-8/elar/images/stimuli/g8_elar_2026_passage-5.png"
+      ],
+      "question_ids": [
+        "g8_elar_8.10Bi_2026_q34",
+        "g8_elar_8.10Bi_2026_q36",
+        "g8_elar_8.10Bii_2026_q35",
+        "g8_elar_8.10C_2026_q37"
+      ]
+    },
+    {
+      "id": "g8_elar_2026_passage-6",
+      "label": "Passage #6",
+      "year": 2026,
+      "page_count": 1,
+      "page_numbers": [],
+      "page_images": [
+        "collections/grade-8/elar/images/stimuli/g8_elar_2026_passage-6.png"
+      ],
+      "question_ids": [
+        "g8_elar_8.10Di_2026_q41",
+        "g8_elar_8.10Div_2026_q39",
+        "g8_elar_8.10Dv_2026_q38",
+        "g8_elar_8.10Dvii_2026_q40"
+      ]
+    },
+    {
+      "id": "g8_elar_2026_passage-7",
+      "label": "Passage #7",
+      "year": 2026,
+      "page_count": 1,
+      "page_numbers": [],
+      "page_images": [
+        "collections/grade-8/elar/images/stimuli/g8_elar_2026_passage-7.png"
+      ],
+      "question_ids": [
+        "g8_elar_8.10Di_2026_q42",
+        "g8_elar_8.10Dii_2026_q44",
+        "g8_elar_8.10Diii_2026_q43",
+        "g8_elar_8.10Dvi_2026_q45"
+      ]
     }
   ],
-  "stimulus_group_count": 92
+  "stimulus_group_count": 101
 }

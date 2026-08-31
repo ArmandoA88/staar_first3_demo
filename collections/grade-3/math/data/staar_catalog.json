@@ -1,15 +1,16 @@
 {
   "source_pdf": "ALL STAAR QUESTIONS.pdf",
-  "generated_at_utc": "2026-03-27T04:23:13Z",
+  "generated_at_utc": "2026-08-30T19:46:03Z",
   "schema_version": "staar_catalog_v3",
-  "item_count": 321,
+  "item_count": 351,
   "subject": "Math",
   "grade": 3,
   "collection_root": "collections/grade-3/math",
   "extraction_method": {
     "question_region": "Rendered page crop transcribed with OpenAI vision",
     "answer_key": "Parsed from PDF text layer footer",
-    "difficulty": "Derived from state percent-correct data in the PDF text layer"
+    "difficulty": "Derived from state percent-correct data in the PDF text layer",
+    "2026_release": "Official item images and metadata imported from lead4ward IQ (source: TEA)"
   },
   "items": [
     {
@@ -28435,6 +28436,1853 @@
         "vision_confidence": 0.99,
         "needs_review": false,
         "notes": null
+      }
+    },
+    {
+      "id": "g3_math_3.2A_2026_q25",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 439,
+        "image_height_px": 310,
+        "sha256": "87b327d72c2294faf0044c7625e93e635c44f93a5e98dce64746a422ebb7e619",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2A_2026_q25.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q25_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.2(A)",
+        "standard_description": "compose and decompose numbers up to 100,000 as a sum of so many ten thousands, so many thousands, so many hundreds, so many tens, and so many ones using objects, pictorial models, and numbers, including expanded notation as appropriate",
+        "year": 2026,
+        "question_number": 25,
+        "cluster": "Representation and Comparison of Whole Numbers",
+        "subcluster": "Representation of Whole Numbers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q25",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.2D_2026_q17",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 738,
+        "image_height_px": 325,
+        "sha256": "ac0edbb0e0ce4d4bfa29731c593e9fa1808aadad22dd1a6a898fb765369aa41e",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.2D_2026_q17.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q17_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.2(D)",
+        "standard_description": "compare and order whole numbers up to 100,000 and represent comparisons using the symbols >, <, or =",
+        "year": 2026,
+        "question_number": 17,
+        "cluster": "Representation and Comparison of Whole Numbers",
+        "subcluster": "Comparison of Whole Numbers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 77,
+          "rationale": "Derived from 77% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q17",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (< , <)",
+        "answer_format": "text",
+        "correct_text": "< , <"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.3C_2026_q13",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1023,
+        "image_height_px": 462,
+        "sha256": "a498c28e927f192b23d3c22ab9cda73929fbdc3912ac1b9a4f0b4e75e8e57ca9",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3C_2026_q13.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q13_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.3(C)",
+        "standard_description": "explain that the unit fraction 1/b represents the quantity formed by one part of a whole that has been partitioned into b equal parts where b is a non-zero whole number",
+        "year": 2026,
+        "question_number": 13,
+        "cluster": "Fractions",
+        "subcluster": "Unit Fractions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 29,
+          "rationale": "Derived from 29% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q13",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (incorrect, shaded part, total parts)",
+        "answer_format": "text",
+        "correct_text": "incorrect, shaded part, total parts"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.3F_2026_q20",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 872,
+        "image_height_px": 460,
+        "sha256": "bdde050277d5f49e8651618a55788dd98be0bf25abace9f8b286bfe720b7482b",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3F_2026_q20.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q20_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.3(F)",
+        "standard_description": "represent equivalent fractions with denominators of 2, 3, 4, 6, and 8 using a variety of objects and pictorial models, including number lines",
+        "year": 2026,
+        "question_number": 20,
+        "cluster": "Fractions",
+        "subcluster": "Equivalency of Fractions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "fraction_model",
+        "declared_item_type_display": "Fraction Model",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 36,
+          "rationale": "Derived from 36% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q20",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (\u2153)",
+        "answer_format": "text",
+        "correct_text": "\u2153"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.3G_2026_q9",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1043,
+        "image_height_px": 608,
+        "sha256": "fc09374fad56cf2626d23f24c62104b9e8d88b86f64cbbd3eb29892257bd518e",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3G_2026_q9.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q9_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.3(G)",
+        "standard_description": "explain that two fractions are equivalent if and only if they are both represented by the same point on the number line or represent the same portion of a same size whole for an area model",
+        "year": 2026,
+        "question_number": 9,
+        "cluster": "Fractions",
+        "subcluster": "Equivalency of Fractions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 48,
+          "rationale": "Derived from 48% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q9",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.3H_2026_q3",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 930,
+        "image_height_px": 377,
+        "sha256": "8eb7c412d762f1897c862be5357137c1f8759f38dc48788972b26abde1dc63a2",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.3H_2026_q3.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q3_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.3(H)",
+        "standard_description": "compare two fractions having the same numerator or denominator in problems by reasoning about their sizes and justifying the conclusion using symbols, words, objects, and pictorial models",
+        "year": 2026,
+        "question_number": 3,
+        "cluster": "Fractions",
+        "subcluster": "Comparison of Fractions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 62,
+          "rationale": "Derived from 62% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q3",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.4A_2026_q1",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 670,
+        "image_height_px": 341,
+        "sha256": "f5e30e521b40a2f768df94854ba533cc26d970fdd1f2c06c3007fd0b8f093410",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2026_q1.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q1_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.4(A)",
+        "standard_description": "solve with fluency one-step and two-step problems involving addition and subtraction within 1,000 using strategies based on place value, properties of operations, and the relationship between addition and subtraction",
+        "year": 2026,
+        "question_number": 1,
+        "cluster": "Addition and Subtraction of Whole Numbers",
+        "subcluster": "Addition/Subtraction of Whole Numbers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 71,
+          "rationale": "Derived from 71% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q1",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.4A_2026_q12",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 969,
+        "image_height_px": 501,
+        "sha256": "45f23e42c53dd31d9c80b73dad2998345959b40bd0a6ef1dff78a4ca74a174bd",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4A_2026_q12.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q12_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.4(A)",
+        "standard_description": "solve with fluency one-step and two-step problems involving addition and subtraction within 1,000 using strategies based on place value, properties of operations, and the relationship between addition and subtraction",
+        "year": 2026,
+        "question_number": 12,
+        "cluster": "Addition and Subtraction of Whole Numbers",
+        "subcluster": "Addition/Subtraction of Whole Numbers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 57,
+          "rationale": "Derived from 57% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q12",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.4B_2026_q19",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1036,
+        "image_height_px": 395,
+        "sha256": "e438877e1566010dc486df5c3bbd60fe6f397f014e6ebffe62b935295abeed43",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4B_2026_q19.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q19_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.4(B)",
+        "standard_description": "round to the nearest 10 or 100 or use compatible numbers to estimate solutions to addition and subtraction problems",
+        "year": 2026,
+        "question_number": 19,
+        "cluster": "Addition and Subtraction of Whole Numbers",
+        "subcluster": "Estimation of Whole Numbers",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 43,
+          "rationale": "Derived from 43% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q19",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.4F_2026_q29",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 630,
+        "image_height_px": 347,
+        "sha256": "6f804e1f4f71aacf4887a20c560bdfa6cc3a226fb996c1061acd53b0c432ae55",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4F_2026_q29.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q29_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.4(F)",
+        "standard_description": "recall facts to multiply up to 10 by 10 with automaticity and recall the corresponding division facts",
+        "year": 2026,
+        "question_number": 29,
+        "cluster": "Multiplication and Division of Whole Numbers",
+        "subcluster": "Multiplication of Whole Numbers",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 56,
+          "rationale": "Derived from 56% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q29",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.4G_2026_q5",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 491,
+        "image_height_px": 351,
+        "sha256": "8e1e0bb41ba44ef38657e697564ca20e7ca97c2f8c861e73138c39a61e9a43ba",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4G_2026_q5.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q5_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.4(G)",
+        "standard_description": "use strategies and algorithms, including the standard algorithm, to multiply a two-digit number by a one-digit number. Strategies may include mental math, partial products, and the commutative, associative, and distributive properties",
+        "year": 2026,
+        "question_number": 5,
+        "cluster": "Multiplication and Division of Whole Numbers",
+        "subcluster": "Multiplication of Whole Numbers",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 63,
+          "rationale": "Derived from 63% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q5",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.4H_2026_q24",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 969,
+        "image_height_px": 711,
+        "sha256": "238da78b2154a2594205cfdd01c7a7055041acde613b3dbe878ca3321940a39c",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4H_2026_q24.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q24_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.4(H)",
+        "standard_description": "determine the number of objects in each group when a set of objects is partitioned into equal shares or a set of objects is shared equally",
+        "year": 2026,
+        "question_number": 24,
+        "cluster": "Multiplication and Division of Whole Numbers",
+        "subcluster": "Division of Whole Numbers",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiselect",
+        "declared_item_type_display": "Multiselect",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 43,
+          "rationale": "Derived from 43% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q24",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (3rd option, 5th option)",
+        "answer_format": "text",
+        "correct_text": "3rd option, 5th option"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.4I_2026_q7",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 681,
+        "image_height_px": 309,
+        "sha256": "fdc87e41450bffc800f9a6fe923c42657725f54aadbef082762f7a28925667fb",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4I_2026_q7.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q7_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.4(I)",
+        "standard_description": "determine if a number is even or odd using divisibility rules",
+        "year": 2026,
+        "question_number": 7,
+        "cluster": "Multiplication and Division of Whole Numbers",
+        "subcluster": "Division of Whole Numbers",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 46,
+          "rationale": "Derived from 46% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q7",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.4K_2026_q26",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1048,
+        "image_height_px": 443,
+        "sha256": "bed5196cce842baf011dfd61081167fef233e30c0b8af0992a4f6aa2f4bc39f4",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.4K_2026_q26.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q26_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.4(K)",
+        "standard_description": "solve one-step and two-step problems involving multiplication and division within 100 using strategies based on objects; pictorial models, including arrays, area models, and equal groups; properties of operations; or recall of facts",
+        "year": 2026,
+        "question_number": 26,
+        "cluster": "Multiplication and Division of Whole Numbers",
+        "subcluster": "Multiplication and Division of Whole Numbers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "equation_editor",
+        "declared_item_type_display": "Equation Editor",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 20,
+          "rationale": "Derived from 20% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q26",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (2 or any equivalent value)",
+        "answer_format": "text",
+        "correct_text": "2 or any equivalent value"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.5A_2026_q11",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 867,
+        "image_height_px": 349,
+        "sha256": "9ed8be54fb7d103144c967894df1dc0f19c2b814ff0b5e5e2f115d31f15dfca8",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5A_2026_q11.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q11_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.5(A)",
+        "standard_description": "represent one- and two-step problems involving addition and subtraction of whole numbers to 1,000 using pictorial models, number lines, and equations",
+        "year": 2026,
+        "question_number": 11,
+        "cluster": "Addition and Subtraction of Whole Numbers",
+        "subcluster": "Addition/Subtraction of Whole Numbers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 65,
+          "rationale": "Derived from 65% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q11",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.5B_2026_q8",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1026,
+        "image_height_px": 243,
+        "sha256": "e70b15b47c62b229a0df5eae70f93c656e1a0809596bf86ea832474dbbea3f66",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5B_2026_q8.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q8_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.5(B)",
+        "standard_description": "represent and solve one- and two-step multiplication and division problems within 100 using arrays, strip diagrams, and equations",
+        "year": 2026,
+        "question_number": 8,
+        "cluster": "Multiplication and Division of Whole Numbers",
+        "subcluster": "Multiplication and Division of Whole Numbers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 29,
+          "rationale": "Derived from 29% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q8",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (\u00d7 , \u00d7)",
+        "answer_format": "text",
+        "correct_text": "\u00d7 , \u00d7"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.5C_2026_q18",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 900,
+        "image_height_px": 395,
+        "sha256": "5df6cdf90125a11e086f5589ddef0a381a539d345c32d276e76a11b96239cd91",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5C_2026_q18.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q18_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.5(C)",
+        "standard_description": "describe a multiplication expression as a comparison such as 3 x 24 represents 3 times as much as 24",
+        "year": 2026,
+        "question_number": 18,
+        "cluster": "Multiplication and Division of Whole Numbers",
+        "subcluster": "Multiplication of Whole Numbers",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 50,
+          "rationale": "Derived from 50% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q18",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.5E_2026_q14",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 984,
+        "image_height_px": 612,
+        "sha256": "3f3158173692934734993b937d1fee08d0b7a32b6968fc05a0cc2fc963b8e8f9",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2026_q14.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q14_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.5(E)",
+        "standard_description": "represent real-world relationships using number pairs in a table and verbal descriptions",
+        "year": 2026,
+        "question_number": 14,
+        "cluster": "Multiplication and Division of Whole Numbers",
+        "subcluster": "Numerical Patterns",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 57,
+          "rationale": "Derived from 57% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q14",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.5E_2026_q22",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1030,
+        "image_height_px": 448,
+        "sha256": "febcb06770ddf0caaa8a266818d6c3d037ffdb79222dce61c37fe554a9928262",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.5E_2026_q22.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q22_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.5(E)",
+        "standard_description": "represent real-world relationships using number pairs in a table and verbal descriptions",
+        "year": 2026,
+        "question_number": 22,
+        "cluster": "Addition and Subtraction of Whole Numbers",
+        "subcluster": "Numerical Patterns",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 33,
+          "rationale": "Derived from 33% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q22",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (minus , 10)",
+        "answer_format": "text",
+        "correct_text": "minus , 10"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.6A_2026_q4",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 721,
+        "image_height_px": 319,
+        "sha256": "1444832df3bd27b59d269ba24dd3c48b3e3765e141aaddfe7622259025a92616",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2026_q4.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q4_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.6(A)",
+        "standard_description": "classify and sort two- and three-dimensional figures, including cones, cylinders, spheres, triangular and rectangular prisms, and cubes, based on attributes using formal geometric language",
+        "year": 2026,
+        "question_number": 4,
+        "cluster": "Geometry",
+        "subcluster": "Two-Dimensional/Three-Dimensional",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 17,
+          "rationale": "Derived from 17% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q4",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (cone, cylinder, rectangular pyramid, triangular prism)",
+        "answer_format": "text",
+        "correct_text": "cone, cylinder, rectangular pyramid, triangular prism"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.6A_2026_q23",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 593,
+        "image_height_px": 423,
+        "sha256": "4f0c0e9628a5b0c29195607db2f0976a15d8932f76a051bad576eefde5f53b18",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6A_2026_q23.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q23_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.6(A)",
+        "standard_description": "classify and sort two- and three-dimensional figures, including cones, cylinders, spheres, triangular and rectangular prisms, and cubes, based on attributes using formal geometric language",
+        "year": 2026,
+        "question_number": 23,
+        "cluster": "Geometry",
+        "subcluster": "Two-Dimensional/Three-Dimensional",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 55,
+          "rationale": "Derived from 55% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q23",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.6C_2026_q27",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 724,
+        "image_height_px": 472,
+        "sha256": "40c7861175fc38436067a59328d2d6dc366d7d187a0a419fc548cfa7618e4834",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.6C_2026_q27.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q27_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.6(C)",
+        "standard_description": "determine the area of rectangles with whole number side lengths in problems using multiplication related to the number of rows times the number of unit squares in each row",
+        "year": 2026,
+        "question_number": 27,
+        "cluster": "Measurement",
+        "subcluster": "Area",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 63,
+          "rationale": "Derived from 63% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q27",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.7A_2026_q28",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 766,
+        "image_height_px": 161,
+        "sha256": "85f6c08e7ebc3ccf39981986c5918845f6e045cd83cdece0de0ef266c26f4ade",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7A_2026_q28.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q28_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.7(A)",
+        "standard_description": "represent fractions of halves, fourths, and eighths as distances from zero on a number line",
+        "year": 2026,
+        "question_number": 28,
+        "cluster": "Fractions",
+        "subcluster": "Representation of Fractions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "hot_spot",
+        "declared_item_type_display": "Hot Spot",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 59,
+          "rationale": "Derived from 59% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q28",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (Fourth point from the left)",
+        "answer_format": "text",
+        "correct_text": "Fourth point from the left"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.7B_2026_q10",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 628,
+        "image_height_px": 447,
+        "sha256": "1d38f55f3dda840cd4704de42e638024e7236057e8b0a961ece2ca14606a9cbe",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2026_q10.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q10_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.7(B)",
+        "standard_description": "determine the perimeter of a polygon or a missing length when given perimeter and remaining side lengths in problems",
+        "year": 2026,
+        "question_number": 10,
+        "cluster": "Measurement",
+        "subcluster": "Perimeter",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "equation_editor",
+        "declared_item_type_display": "Equation Editor",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 20,
+          "rationale": "Derived from 20% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q10",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (8 or any equivalent value)",
+        "answer_format": "text",
+        "correct_text": "8 or any equivalent value"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.7B_2026_q21",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 618,
+        "image_height_px": 369,
+        "sha256": "b0681898c38a2bb5f58f62a6f76de91b27b7e86266338199ca3f31a278cdeca0",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7B_2026_q21.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q21_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.7(B)",
+        "standard_description": "determine the perimeter of a polygon or a missing length when given perimeter and remaining side lengths in problems",
+        "year": 2026,
+        "question_number": 21,
+        "cluster": "Measurement",
+        "subcluster": "Perimeter",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 31,
+          "rationale": "Derived from 31% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q21",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.7D_2026_q15",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1017,
+        "image_height_px": 305,
+        "sha256": "89d0deead6cb88ab3895ac1edd2ea2335c0d4c2c3427eb33d2a6c22caa7376d8",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7D_2026_q15.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q15_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.7(D)",
+        "standard_description": "determine when it is appropriate to use measurements of liquid volume (capacity) or weight",
+        "year": 2026,
+        "question_number": 15,
+        "cluster": "Measurement",
+        "subcluster": "Liquid Capacity/Weight",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 33,
+          "rationale": "Derived from 33% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q15",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (fluid ounces, milliliters, pounds, ounces)",
+        "answer_format": "text",
+        "correct_text": "fluid ounces, milliliters, pounds, ounces"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.7E_2026_q2",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 598,
+        "image_height_px": 661,
+        "sha256": "bbbf8a12873b66b84bb1fde649c4d17ae548ab803bd1082ac7818d7fbec875ac",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.7E_2026_q2.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q2_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.7(E)",
+        "standard_description": "determine liquid volume (capacity) or weight using appropriate units and tools",
+        "year": 2026,
+        "question_number": 2,
+        "cluster": "Measurement",
+        "subcluster": "Liquid Capacity/Weight",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiselect",
+        "declared_item_type_display": "Multiselect",
+        "points": 2,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 55,
+          "rationale": "Derived from 55% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q2",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (top left option, bottom left option)",
+        "answer_format": "text",
+        "correct_text": "top left option, bottom left option"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.8A_2026_q6",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 982,
+        "image_height_px": 517,
+        "sha256": "83ce6f5498b693f986a239a0b22ea0fe9decc4111938217a904ed8076ae47dd2",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2026_q6.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q6_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.8(A)",
+        "standard_description": "summarize a data set with multiple categories using a frequency table, dot plot, pictograph, or bar graph with scaled intervals",
+        "year": 2026,
+        "question_number": 6,
+        "cluster": "Data Analysis",
+        "subcluster": "Representation of Data",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 79,
+          "rationale": "Derived from 79% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q6",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (5 , 2 , 3 , 4)",
+        "answer_format": "text",
+        "correct_text": "5 , 2 , 3 , 4"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.8A_2026_q30",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 799,
+        "image_height_px": 690,
+        "sha256": "22daf7f573001d49e5eabdd87384d246759f5cf09d9b6da97e3cc5d53003e35d",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.8A_2026_q30.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q30_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.8(A)",
+        "standard_description": "summarize a data set with multiple categories using a frequency table, dot plot, pictograph, or bar graph with scaled intervals",
+        "year": 2026,
+        "question_number": 30,
+        "cluster": "Data Analysis",
+        "subcluster": "Representation of Data",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 62,
+          "rationale": "Derived from 62% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q30",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g3_math_3.9D_2026_q16",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 503,
+        "image_height_px": 315,
+        "sha256": "ea2d5689677e8c9810b80e364711c64248b6766193bcbda092c60beb2913d838",
+        "question_image": "collections/grade-3/math/images/extracted/g3_math_3.9D_2026_q16.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g3/Q16_math_gr3.png"
+      },
+      "metadata": {
+        "grade": 3,
+        "subject": "Math",
+        "standard": "3.9(D)",
+        "standard_description": "explain that credit is used when wants or needs exceed the ability to pay and that it is the borrower's responsibility to pay it back to the lender, usually with interest",
+        "year": 2026,
+        "question_number": 16,
+        "cluster": "Personal Financial Literacy",
+        "subcluster": "Borrowing",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 41,
+          "rationale": "Derived from 41% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q16",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
       }
     }
   ]

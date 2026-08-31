@@ -1,15 +1,16 @@
 {
   "source_pdf": "5thscience.pdf",
-  "generated_at_utc": "2026-03-27T07:34:59Z",
+  "generated_at_utc": "2026-08-30T19:46:12Z",
   "schema_version": "staar_catalog_v4",
-  "item_count": 150,
+  "item_count": 176,
   "subject": "Science",
   "grade": 5,
   "collection_root": "collections/grade-5/science",
   "extraction_method": {
     "question_region": "Rendered page crop transcribed with OpenAI vision",
     "answer_key": "Parsed from PDF text layer footer",
-    "difficulty": "Derived from state percent-correct data in the PDF text layer"
+    "difficulty": "Derived from state percent-correct data in the PDF text layer",
+    "2026_release": "Official item images and metadata imported from lead4ward IQ (source: TEA)"
   },
   "items": [
     {
@@ -13890,6 +13891,1612 @@
         "vision_confidence": 1.0,
         "needs_review": false,
         "notes": null
+      }
+    },
+    {
+      "id": "g5_science_4.10A_2026_q15",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 623,
+        "image_height_px": 468,
+        "sha256": "112e8e1636dc8f47946cbc8da86e98d4f087b61dfbbe37d859dce1464325dd33",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_4.10A_2026_q15.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q15_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "4.10(A)",
+        "standard_description": "describe and illustrate the continuous movement of water above and on the surface of Earth through the water cycle and explain the role of the Sun as a major source of energy in this process",
+        "year": 2026,
+        "question_number": 15,
+        "cluster": "Earth's Processes",
+        "subcluster": "Water Cycle",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 53,
+          "rationale": "Derived from 53% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q15",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_4.10C_2026_q5",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 678,
+        "image_height_px": 316,
+        "sha256": "01c8aa1243bb90b3d0fa1903b08a5b1d23a83fee9c21c7bc431343183863291c",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_4.10C_2026_q5.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q5_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "4.10(C)",
+        "standard_description": "differentiate between weather and climate",
+        "year": 2026,
+        "question_number": 5,
+        "cluster": "Earth's Processes",
+        "subcluster": "Water Cycle",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 44,
+          "rationale": "Derived from 44% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q5",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_4.11A_2026_q20",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 605,
+        "image_height_px": 483,
+        "sha256": "1762d1b2eda973ebc4986cfbc6685b4e4a0798703c12e3b1802fddf2702d6126",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_4.11A_2026_q20.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q20_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "4.11(A)",
+        "standard_description": "identify and explain advantages and disadvantages of using Earth's renewable and nonrenewable natural resources such as wind, water, sunlight, plants, animals, coal, oil, and natural gas",
+        "year": 2026,
+        "question_number": 20,
+        "cluster": "Earth's Resources",
+        "subcluster": "Resource Management",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q20",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_4.12B_2026_q23",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 774,
+        "image_height_px": 871,
+        "sha256": "edd614ddad126898e56e98255a4f17eedf754d05788a9851cdf4ffa9084fb42e",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_4.12B_2026_q23.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q23_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "4.12(B)",
+        "standard_description": "describe the cycling of matter and flow of energy through food webs, including the roles of the Sun, producers, consumers, and decomposers",
+        "year": 2026,
+        "question_number": 23,
+        "cluster": "Organisms and Environments",
+        "subcluster": "Food Webs",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multipart",
+        "declared_item_type_display": "Multipart",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 39,
+          "rationale": "Derived from 39% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q23",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C, D)",
+        "answer_format": "text",
+        "correct_text": "C, D"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_4.8A_2026_q19",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1036,
+        "image_height_px": 874,
+        "sha256": "1e57ce6244da4236799e918b333d0ecd8c969ecfa266a40b25ba283fbfc205f3",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_4.8A_2026_q19.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q19_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "4.8(A)",
+        "standard_description": "collect and analyze data to identify sequences and predict patterns of change in seasons such as change in temperature and length of daylight",
+        "year": 2026,
+        "question_number": 19,
+        "cluster": "Energy",
+        "subcluster": "Transfer of Energy",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 54,
+          "rationale": "Derived from 54% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q19",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_4.9A_2026_q10",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1026,
+        "image_height_px": 677,
+        "sha256": "d69fd01802dfd6d7f85a479a754b8b63f588e4310a9620dc51471bd5d6d0e9ef",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_4.9A_2026_q10.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q10_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "4.9(A)",
+        "standard_description": "collect and analyze data to identify sequences and predict patterns of change in seasons such as change in temperature and length of daylight",
+        "year": 2026,
+        "question_number": 10,
+        "cluster": "Space",
+        "subcluster": "Earth's Movement",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "short_constructed_response",
+        "declared_item_type_display": "Short Constructed Response",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 30,
+          "rationale": "Derived from 30% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q10",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (See Scoring Guide)",
+        "answer_format": "text",
+        "correct_text": "See Scoring Guide"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_4.9B_2026_q18",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 702,
+        "image_height_px": 846,
+        "sha256": "f353dc9b5869f95b306df47e284e4a4dd00cd1e4c98ccccda54e4f75cbd43b79",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_4.9B_2026_q18.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q18_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "4.9(B)",
+        "standard_description": "collect and analyze data to identify sequences and predict patterns of change in the observable appearance of the Moon from Earth",
+        "year": 2026,
+        "question_number": 18,
+        "cluster": "Space",
+        "subcluster": "Earth's Movement",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 40,
+          "rationale": "Derived from 40% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q18",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.10B_2026_q11",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 600,
+        "image_height_px": 416,
+        "sha256": "13af6a17b1e54aeb523aaa3980743322262eb23a98b1d4808fefca8594dc9c53",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.10B_2026_q11.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q11_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.10(B)",
+        "standard_description": "model and describe the processes that led to the formation of sedimentary rocks and fossil fuels",
+        "year": 2026,
+        "question_number": 11,
+        "cluster": "Earth's Resources",
+        "subcluster": "Fossil Fuels",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 47,
+          "rationale": "Derived from 47% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q11",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.10B_2026_q24",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 536,
+        "image_height_px": 303,
+        "sha256": "b0f963697d11b532c3b8464e57f07b5614d161ec2c612387bd13552a75e824c9",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.10B_2026_q24.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q24_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.10(B)",
+        "standard_description": "model and describe the processes that led to the formation of sedimentary rocks and fossil fuels",
+        "year": 2026,
+        "question_number": 24,
+        "cluster": "Earth's Processes",
+        "subcluster": "Rock Cycle",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 63,
+          "rationale": "Derived from 63% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q24",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.10C_2026_q8",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 612,
+        "image_height_px": 388,
+        "sha256": "868cfa189cf89bf13d18b25bd0598e5d89f34c6dcf96bc53f6a50a0b37fac716",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.10C_2026_q8.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q8_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.10(C)",
+        "standard_description": "model and identify how changes to Earth\u2019s surface by wind, water, or ice result in the formation of landforms, including deltas, canyons, and sand dunes",
+        "year": 2026,
+        "question_number": 8,
+        "cluster": "Earth's Processes",
+        "subcluster": "Landforms",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 73,
+          "rationale": "Derived from 73% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q8",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.10C_2026_q13",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 712,
+        "image_height_px": 425,
+        "sha256": "8f594705e64262fb5c96d9731a28c161e37d2efe3f96ab950018d254436d4d5b",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.10C_2026_q13.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q13_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.10(C)",
+        "standard_description": "model and identify how changes to Earth\u2019s surface by wind, water, or ice result in the formation of landforms, including deltas, canyons, and sand dunes",
+        "year": 2026,
+        "question_number": 13,
+        "cluster": "Earth's Processes",
+        "subcluster": "Landforms",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "match_table_grid",
+        "declared_item_type_display": "Match Table Grid",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 43,
+          "rationale": "Derived from 43% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q13",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (V-Shaped Canyon, U-Shaped Valley, Delta, Sand Dune)",
+        "answer_format": "text",
+        "correct_text": "V-Shaped Canyon, U-Shaped Valley, Delta, Sand Dune"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.12A_2026_q9",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 932,
+        "image_height_px": 846,
+        "sha256": "46a509a3ba248686db6fc32a0af9ef5158fd3330f58bdce904b3412b4863d7aa",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.12A_2026_q9.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q9_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.12(A)",
+        "standard_description": "observe and describe how a variety of organisms survive by interacting with biotic and abiotic factors in a healthy ecosystem",
+        "year": 2026,
+        "question_number": 9,
+        "cluster": "Organisms and Environments",
+        "subcluster": "Biotic and Abiotic Factors",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 48,
+          "rationale": "Derived from 48% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q9",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.12A_2026_q21",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 761,
+        "image_height_px": 834,
+        "sha256": "34443abd057de871ea391befa005ec0cd887e9c02037061d22ac6fa212a88cec",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.12A_2026_q21.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q21_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.12(A)",
+        "standard_description": "observe and describe how a variety of organisms survive by interacting with biotic and abiotic factors in a healthy ecosystem",
+        "year": 2026,
+        "question_number": 21,
+        "cluster": "Organisms and Environments",
+        "subcluster": "Biotic and Abiotic Factors",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 61,
+          "rationale": "Derived from 61% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q21",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.13A_2026_q2",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 931,
+        "image_height_px": 806,
+        "sha256": "60dd33790a9f2636dfbfb517823209557ecfc0f0ff8ae6acd7d68c3d1bed5d8c",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.13A_2026_q2.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q2_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.13(A)",
+        "standard_description": "analyze the structures and functions of different species to identify how organisms survive in the same environment",
+        "year": 2026,
+        "question_number": 2,
+        "cluster": "Structure, Function, and Survival",
+        "subcluster": "Structure and Function",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 77,
+          "rationale": "Derived from 77% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q2",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.13A_2026_q22",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 876,
+        "image_height_px": 752,
+        "sha256": "8851d1d575bf0f9958a0d11df8e4918c7e95e169529a767264dab7d1d5e1dcac",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.13A_2026_q22.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q22_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.13(A)",
+        "standard_description": "analyze the structures and functions of different species to identify how organisms survive in the same environment",
+        "year": 2026,
+        "question_number": 22,
+        "cluster": "Structure, Function, and Survival",
+        "subcluster": "Structure and Function",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 44,
+          "rationale": "Derived from 44% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q22",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.6A_2026_q6",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 613,
+        "image_height_px": 623,
+        "sha256": "17bf78668297009bda88cba60a64616f12933cee7c6ee78b66d4f9d10c294259",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.6A_2026_q6.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q6_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.6(A)",
+        "standard_description": "compare and contrast matter based on measurable, testable, or observable physical properties, including mass, magnetism, relative density (sinking and floating using water as a reference point), physical state (solid, liquid, gas), volume, solubility in water, and the ability to conduct or insulate thermal energy and electric energy",
+        "year": 2026,
+        "question_number": 6,
+        "cluster": "Properties of Matter",
+        "subcluster": "Physical Properties",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 57,
+          "rationale": "Derived from 57% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q6",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.6A_2026_q26",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 741,
+        "image_height_px": 527,
+        "sha256": "99cda715a4393955f0159dd1f30219d259c96085217e4991c8696ac5bb9f33ed",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.6A_2026_q26.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q26_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.6(A)",
+        "standard_description": "compare and contrast matter based on measurable, testable, or observable physical properties, including mass, magnetism, relative density (sinking and floating using water as a reference point), physical state (solid, liquid, gas), volume, solubility in water, and the ability to conduct or insulate thermal energy and electric energy",
+        "year": 2026,
+        "question_number": 26,
+        "cluster": "Properties of Matter",
+        "subcluster": "Physical Properties",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q26",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.6B_2026_q7",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 614,
+        "image_height_px": 299,
+        "sha256": "f6e37498d70b06b24e4dd968c7a6f558799b4be98417238036fc8dd5ea117633",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.6B_2026_q7.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q7_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.6(B)",
+        "standard_description": "demonstrate and explain that some mixtures maintain physical properties of their substances such as iron filings and sand or sand and water",
+        "year": 2026,
+        "question_number": 7,
+        "cluster": "Properties of Matter",
+        "subcluster": "Mixtures",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 59,
+          "rationale": "Derived from 59% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q7",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.6C_2026_q12",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 931,
+        "image_height_px": 459,
+        "sha256": "439001a0eb184559c07dfbf8452f11d3d4a287c4464f4ab35516890f62ee6e22",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.6C_2026_q12.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q12_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.6(C)",
+        "standard_description": "compare the properties of substances before and after they are combined into a solution and demonstrate that matter is conserved in solutions",
+        "year": 2026,
+        "question_number": 12,
+        "cluster": "Properties of Matter",
+        "subcluster": "Mixtures",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 55,
+          "rationale": "Derived from 55% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q12",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.7B_2026_q25",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 799,
+        "image_height_px": 529,
+        "sha256": "8c869b9ad22d69e867dcb901a69da58d4a831510a88582b5760baaad95c89234",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.7B_2026_q25.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q25_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.7(B)",
+        "standard_description": "design a simple experimental investigation that tests the effect of force on an object in a system such as a car on a ramp or a balloon rocket on a string",
+        "year": 2026,
+        "question_number": 25,
+        "cluster": "Force and Motion",
+        "subcluster": "Investigating Forces",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 53,
+          "rationale": "Derived from 53% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q25",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (force)",
+        "answer_format": "text",
+        "correct_text": "force"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.8B_2026_q1",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 848,
+        "image_height_px": 842,
+        "sha256": "9f125b2c26ac300b0fe5cb7335f580c67886b7c95fd06aacbec9f55423a0f112",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.8B_2026_q1.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q1_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.8(B)",
+        "standard_description": "demonstrate that electrical energy in complete circuits can be transformed into motion, light, sound, or thermal energy and identify the requirements for a functioning electrical circuit",
+        "year": 2026,
+        "question_number": 1,
+        "cluster": "Energy",
+        "subcluster": "Electrical Energy",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 71,
+          "rationale": "Derived from 71% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q1",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.8B_2026_q14",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 661,
+        "image_height_px": 727,
+        "sha256": "25fc8c3b061a321b0eb567bc18b41e8519b040a5acdf6dac9c768cfe25528d32",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.8B_2026_q14.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q14_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.8(B)",
+        "standard_description": "demonstrate that electrical energy in complete circuits can be transformed into motion, light, sound, or thermal energy and identify the requirements for a functioning electrical circuit",
+        "year": 2026,
+        "question_number": 14,
+        "cluster": "Energy",
+        "subcluster": "Electrical Energy",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 41,
+          "rationale": "Derived from 41% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q14",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.8C_2026_q4",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 583,
+        "image_height_px": 880,
+        "sha256": "5167a916233dd75b7c210d16ea5495a70707af863add914292c6f611b14554f9",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.8C_2026_q4.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q4_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.8(C)",
+        "standard_description": "demonstrate and explain how light travels in a straight line and can be reflected, refracted, or absorbed",
+        "year": 2026,
+        "question_number": 4,
+        "cluster": "Energy",
+        "subcluster": "Light",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multipart",
+        "declared_item_type_display": "Multipart",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 8,
+          "rationale": "Derived from 8% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q4",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C, A)",
+        "answer_format": "text",
+        "correct_text": "C, A"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.8C_2026_q17",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 477,
+        "image_height_px": 265,
+        "sha256": "e7ec9354310976fe8cf0cd6585eafc1233b5de58270c21d9eda1230182c79aeb",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.8C_2026_q17.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q17_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.8(C)",
+        "standard_description": "demonstrate and explain how light travels in a straight line and can be reflected, refracted, or absorbed",
+        "year": 2026,
+        "question_number": 17,
+        "cluster": "Energy",
+        "subcluster": "Light",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 48,
+          "rationale": "Derived from 48% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q17",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (reflects)",
+        "answer_format": "text",
+        "correct_text": "reflects"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.9A_2026_q3",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 575,
+        "image_height_px": 341,
+        "sha256": "82843a01bebd9e1f4c6c080044b78d477bd221f83d9d3a0b21202c9130093ec2",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.9A_2026_q3.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q3_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.9(A)",
+        "standard_description": "demonstrate that Earth rotates on its axis once approximately every 24 hours and explain how that causes the day/night cycle and the appearance of the Sun moving across the sky, resulting in changes in shadow positions and shapes",
+        "year": 2026,
+        "question_number": 3,
+        "cluster": "Space",
+        "subcluster": "Earth's Movement",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 67,
+          "rationale": "Derived from 67% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q3",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g5_science_5.9A_2026_q16",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 657,
+        "image_height_px": 294,
+        "sha256": "bd0e1a949449d36a315dd690d62b9e72d980f1adce08c98278abf3f665f58708",
+        "question_image": "collections/grade-5/science/images/extracted/g5_science_5.9A_2026_q16.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g5/Q16_science_gr5.png"
+      },
+      "metadata": {
+        "grade": 5,
+        "subject": "Science",
+        "standard": "5.9(A)",
+        "standard_description": "demonstrate that Earth rotates on its axis once approximately every 24 hours and explain how that causes the day/night cycle and the appearance of the Sun moving across the sky, resulting in changes in shadow positions and shapes",
+        "year": 2026,
+        "question_number": 16,
+        "cluster": "Space",
+        "subcluster": "Earth's Movement",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 57,
+          "rationale": "Derived from 57% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q16",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
       }
     }
   ]

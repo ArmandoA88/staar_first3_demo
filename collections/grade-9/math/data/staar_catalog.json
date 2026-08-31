@@ -1,8 +1,8 @@
 {
   "source_pdf": "math algebra.pdf",
-  "generated_at_utc": "2026-04-05T17:40:32Z",
+  "generated_at_utc": "2026-08-30T19:47:43Z",
   "schema_version": "staar_catalog_v4",
-  "item_count": 472,
+  "item_count": 522,
   "subject": "Math",
   "grade": 9,
   "collection_label": "Algebra I Math",
@@ -10,7 +10,8 @@
   "extraction_method": {
     "question_region": "Rendered page crop transcribed with OpenAI vision",
     "answer_key": "Parsed from PDF text layer footer",
-    "difficulty": "Derived from state percent-correct data in the PDF text layer"
+    "difficulty": "Derived from state percent-correct data in the PDF text layer",
+    "2026_release": "Official item images and metadata imported from lead4ward IQ (source: TEA)"
   },
   "items": [
     {
@@ -43082,6 +43083,3095 @@
         "vision_confidence": 1.0,
         "needs_review": false,
         "notes": null
+      }
+    },
+    {
+      "id": "g9_math_A.10B_2026_q43",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 534,
+        "image_height_px": 299,
+        "sha256": "d31c212e005bcc1dd61a09927c8f3e8e45a8ae4e3f93fdc157353806be6e98c3",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.10B_2026_q43.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q43_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.10(B)",
+        "standard_description": "multiply polynomials of degree one and degree two",
+        "year": 2026,
+        "question_number": 43,
+        "cluster": "Simplifying Expressions",
+        "subcluster": "Polynomials",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 54,
+          "rationale": "Derived from 54% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q43",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.10C_2026_q12",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 842,
+        "image_height_px": 321,
+        "sha256": "d5a0637cb90654ee40cd68f66d5316e01fb5bab9c3a27db7b03c7bb4b9fba2b9",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.10C_2026_q12.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q12_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.10(C)",
+        "standard_description": "determine the quotient of a polynomial of degree one and polynomial of degree two when divided by a polynomial of degree one and polynomial of degree two when the degree of the divisor does not exceed the degree of the dividend",
+        "year": 2026,
+        "question_number": 12,
+        "cluster": "Simplifying Expressions",
+        "subcluster": "Polynomials",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 53,
+          "rationale": "Derived from 53% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q12",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.10E_2026_q4",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 448,
+        "image_height_px": 306,
+        "sha256": "dec532407e0d8f92b94cd4685da752ca218bdac29acb954178afa556b80afff1",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.10E_2026_q4.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q4_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.10(E)",
+        "standard_description": "factor, if possible, trinomials with real factors in the form ax 2 + bx + c, including perfect square trinomials of degree two",
+        "year": 2026,
+        "question_number": 4,
+        "cluster": "Simplifying Expressions",
+        "subcluster": "Polynomials",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 46,
+          "rationale": "Derived from 46% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q4",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.10E_2026_q37",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 473,
+        "image_height_px": 303,
+        "sha256": "75528ecae30efb3dd1205a1d029268319d40dc24bb2c7f45522f52e0c8ff170e",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.10E_2026_q37.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q37_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.10(E)",
+        "standard_description": "factor, if possible, trinomials with real factors in the form ax 2 + bx + c, including perfect square trinomials of degree two",
+        "year": 2026,
+        "question_number": 37,
+        "cluster": "Simplifying Expressions",
+        "subcluster": "Polynomials",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q37",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.11B_2026_q20",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 814,
+        "image_height_px": 337,
+        "sha256": "991e06a0ee121ea59f5d22e300b0d5e7e7a0aad4a9890e7b52ef9fb942e9f7dd",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.11B_2026_q20.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q20_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.11(B)",
+        "standard_description": "simplify numeric and algebraic expressions using the laws of exponents, including integral and rational exponents",
+        "year": 2026,
+        "question_number": 20,
+        "cluster": "Simplifying Expressions",
+        "subcluster": "Exponents",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 49,
+          "rationale": "Derived from 49% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q20",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.11B_2026_q30",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 492,
+        "image_height_px": 320,
+        "sha256": "14cd7eaefe778e506e03db02742b295903064811fb0c2c92ce8decd9000b15d3",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.11B_2026_q30.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q30_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.11(B)",
+        "standard_description": "simplify numeric and algebraic expressions using the laws of exponents, including integral and rational exponents",
+        "year": 2026,
+        "question_number": 30,
+        "cluster": "Simplifying Expressions",
+        "subcluster": "Radicals",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 43,
+          "rationale": "Derived from 43% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q30",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (x 4 , y 3 )",
+        "answer_format": "text",
+        "correct_text": "x 4 , y 3"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.12A_2026_q22",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 843,
+        "image_height_px": 637,
+        "sha256": "e981a200a24bfbd1735e3f4301c75d5ee0432f5df86205b86806e363bf8f136e",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.12A_2026_q22.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q22_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.12(A)",
+        "standard_description": "decide whether relations represented verbally, tabularly, graphically, and symbolically define a function",
+        "year": 2026,
+        "question_number": 22,
+        "cluster": "Linear Functions",
+        "subcluster": "Describing Linear Functions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 53,
+          "rationale": "Derived from 53% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q22",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.12B_2026_q35",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 333,
+        "image_height_px": 393,
+        "sha256": "c75739d21b226be7a6aa7ab33faef2aa6fba6dfd4815cc5934efd278b6e044f7",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.12B_2026_q35.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q35_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.12(B)",
+        "standard_description": "evaluate functions, expressed in function notation, given one or more elements in their domains",
+        "year": 2026,
+        "question_number": 35,
+        "cluster": "Linear Functions",
+        "subcluster": "Describing Linear Functions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 63,
+          "rationale": "Derived from 63% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q35",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.12C_2026_q25",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 543,
+        "image_height_px": 408,
+        "sha256": "6d6c4d501d9d1c7752cf12fc415e30ee428faccb22c97f0d379c9eaec8387663",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.12C_2026_q25.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q25_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.12(C)",
+        "standard_description": "identify terms of arithmetic and geometric sequences when the sequences are given in function form using recursive processes",
+        "year": 2026,
+        "question_number": 25,
+        "cluster": "Linear Functions",
+        "subcluster": "Writing Linear Equations",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 41,
+          "rationale": "Derived from 41% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q25",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.2A_2026_q23",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1035,
+        "image_height_px": 654,
+        "sha256": "0c7ba851f5563bacd7748fe05988380b25b61f78d3599601b0b81daa184e1d20",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.2A_2026_q23.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q23_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.2(A)",
+        "standard_description": "determine the domain and range of a linear function in mathematical problems; determine reasonable domain and range values for real-world situations, both continuous and discrete; and represent domain and range using inequalities",
+        "year": 2026,
+        "question_number": 23,
+        "cluster": "Linear Functions",
+        "subcluster": "Describing Linear Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 51,
+          "rationale": "Derived from 51% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q23",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.2A_2026_q44",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1031,
+        "image_height_px": 793,
+        "sha256": "421a7fa44f06698c280a7cd7c5773c10873d484f626c11eef67c470d21aeee27",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.2A_2026_q44.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q44_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.2(A)",
+        "standard_description": "determine the domain and range of a linear function in mathematical problems; determine reasonable domain and range values for real-world situations, both continuous and discrete; and represent domain and range using inequalities",
+        "year": 2026,
+        "question_number": 44,
+        "cluster": "Linear Functions",
+        "subcluster": "Describing Linear Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 66,
+          "rationale": "Derived from 66% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q44",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.2C_2026_q29",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 633,
+        "image_height_px": 547,
+        "sha256": "a64af3433d9a262236dff45601921122ea84a1a34fde48d17b3552cfc5fc68e0",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.2C_2026_q29.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q29_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.2(C)",
+        "standard_description": "write linear equations in two variables given a table of values, a graph, and a verbal description",
+        "year": 2026,
+        "question_number": 29,
+        "cluster": "Linear Functions",
+        "subcluster": "Writing Linear Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 75,
+          "rationale": "Derived from 75% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q29",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.2C_2026_q40",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 599,
+        "image_height_px": 413,
+        "sha256": "fb08277dec79919c72ca527fcbc21e21682f7f460ef94e962d49f6af06a37112",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.2C_2026_q40.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q40_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.2(C)",
+        "standard_description": "write linear equations in two variables given a table of values, a graph, and a verbal description",
+        "year": 2026,
+        "question_number": 40,
+        "cluster": "Linear Functions",
+        "subcluster": "Writing Linear Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 43,
+          "rationale": "Derived from 43% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q40",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.2E_2026_q46",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 662,
+        "image_height_px": 357,
+        "sha256": "a3fc3cbc84529faac4042f8a5d4d05318ae1b73d51e5b576297984ea5e66d12f",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.2E_2026_q46.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q46_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.2(E)",
+        "standard_description": "write the equation of a line that contains a given point and is parallel to a given line",
+        "year": 2026,
+        "question_number": 46,
+        "cluster": "Linear Functions",
+        "subcluster": "Writing Linear Equations",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 58,
+          "rationale": "Derived from 58% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q46",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.2G_2026_q14",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 807,
+        "image_height_px": 304,
+        "sha256": "c258395a876440c152a5d9feac85e82795639c5b9154ff10b82946c7e3d6058a",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.2G_2026_q14.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q14_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.2(G)",
+        "standard_description": "write an equation of a line that is parallel or perpendicular to the x- or y- axis and determine whether the slope of the line is zero or undefined",
+        "year": 2026,
+        "question_number": 14,
+        "cluster": "Linear Functions",
+        "subcluster": "Writing Linear Equations",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 36,
+          "rationale": "Derived from 36% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q14",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.2H_2026_q10",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1036,
+        "image_height_px": 392,
+        "sha256": "1d34b849df083fa6e6ba0e3349b2d9b26749a5907801305eb15c27f14c48c42c",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.2H_2026_q10.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q10_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.2(H)",
+        "standard_description": "write linear inequalities in two variables given a table of values, a graph, and a verbal description",
+        "year": 2026,
+        "question_number": 10,
+        "cluster": "Systems of Equations and Inequalities",
+        "subcluster": "Inequalities",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 62,
+          "rationale": "Derived from 62% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q10",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.2I_2026_q7",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 695,
+        "image_height_px": 685,
+        "sha256": "cbd28aadfb42fd7d2ed61e06b2f5c75e5e039c282782bb63e3038b769b023d1a",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.2I_2026_q7.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q7_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.2(I)",
+        "standard_description": "write systems of two linear equations given a table of values, a graph, and a verbal description",
+        "year": 2026,
+        "question_number": 7,
+        "cluster": "Systems of Equations and Inequalities",
+        "subcluster": "Systems of Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 73,
+          "rationale": "Derived from 73% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q7",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.2I_2026_q50",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1034,
+        "image_height_px": 541,
+        "sha256": "15981c04a26a988e5747da97e5409995f398c5aa2acd5940df74776801e11155",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.2I_2026_q50.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q50_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.2(I)",
+        "standard_description": "write systems of two linear equations given a table of values, a graph, and a verbal description",
+        "year": 2026,
+        "question_number": 50,
+        "cluster": "Systems of Equations and Inequalities",
+        "subcluster": "Systems of Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 71,
+          "rationale": "Derived from 71% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q50",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.3A_2026_q24",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 532,
+        "image_height_px": 332,
+        "sha256": "b2a33eb884eabd0d56aaa02b932002a0ddb5471fc9dc5bbd82602b88dc8c1127",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.3A_2026_q24.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q24_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.3(A)",
+        "standard_description": "determine the slope of a line given a table of values, a graph, two points on the line, and an equation written in various forms, including y = mx + b, Ax + By = C, and y - y 1 = m(x - x 1 )",
+        "year": 2026,
+        "question_number": 24,
+        "cluster": "Linear Functions",
+        "subcluster": "Writing Linear Equations",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q24",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.3B_2026_q1",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1032,
+        "image_height_px": 654,
+        "sha256": "76e21c9fc843a7cc7f286cdf55cd5a5fe8a416d746887f7295395a78c7cd8608",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.3B_2026_q1.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q1_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.3(B)",
+        "standard_description": "calculate the rate of change of a linear function represented tabularly, graphically, or algebraically in context of mathematical and real-world problems",
+        "year": 2026,
+        "question_number": 1,
+        "cluster": "Linear Functions",
+        "subcluster": "Writing Linear Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 86,
+          "rationale": "Derived from 86% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q1",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.3B_2026_q26",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 684,
+        "image_height_px": 743,
+        "sha256": "1d491f3d4abde34f2a08fb28d3550045f8b362cec6be55c6ffc7d44b406efc2e",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.3B_2026_q26.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q26_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.3(B)",
+        "standard_description": "calculate the rate of change of a linear function represented tabularly, graphically, or algebraically in context of mathematical and real-world problems",
+        "year": 2026,
+        "question_number": 26,
+        "cluster": "Linear Functions",
+        "subcluster": "Writing Linear Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 66,
+          "rationale": "Derived from 66% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q26",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.3C_2026_q9",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 672,
+        "image_height_px": 519,
+        "sha256": "c6515b797cc0945fc4f7864a8ba9754a23a62a1e012051154d8c0f014f99d9cb",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.3C_2026_q9.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q9_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.3(C)",
+        "standard_description": "graph linear functions on the coordinate plane and identify key features, including x-intercept, y-intercept, zeros, and slope, in mathematical and real-world problems",
+        "year": 2026,
+        "question_number": 9,
+        "cluster": "Linear Functions",
+        "subcluster": "Describing Linear Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "graphing",
+        "declared_item_type_display": "Graphing",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 76,
+          "rationale": "Derived from 76% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q9",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (Line going through (0, 2) and (3, 0))",
+        "answer_format": "text",
+        "correct_text": "Line going through (0, 2"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.3C_2026_q49",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 545,
+        "image_height_px": 716,
+        "sha256": "743d4e066e361f823a2dedb2f67a25fe61573e8706e6496f480ee29311faa9c1",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.3C_2026_q49.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q49_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.3(C)",
+        "standard_description": "graph linear functions on the coordinate plane and identify key features, including x-intercept, y-intercept, zeros, and slope, in mathematical and real-world problems",
+        "year": 2026,
+        "question_number": 49,
+        "cluster": "Linear Functions",
+        "subcluster": "Describing Linear Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 82,
+          "rationale": "Derived from 82% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q49",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.3D_2026_q16",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 530,
+        "image_height_px": 905,
+        "sha256": "a013afce0fe21581a7bd4adc79d5fdbbc127cb8caf5b47182b4279091ca98569",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.3D_2026_q16.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q16_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.3(D)",
+        "standard_description": "graph the solution set of linear inequalities in two variables on the coordinate plane",
+        "year": 2026,
+        "question_number": 16,
+        "cluster": "Systems of Equations and Inequalities",
+        "subcluster": "Inequalities",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 37,
+          "rationale": "Derived from 37% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q16",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.3D_2026_q42",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 796,
+        "image_height_px": 789,
+        "sha256": "65899520ffdb9716efdf38b8c1596dd9e3a3b6953b33a543f2681fdfa47c5ee2",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.3D_2026_q42.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q42_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.3(D)",
+        "standard_description": "graph the solution set of linear inequalities in two variables on the coordinate plane",
+        "year": 2026,
+        "question_number": 42,
+        "cluster": "Systems of Equations and Inequalities",
+        "subcluster": "Inequalities",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "match_table_grid",
+        "declared_item_type_display": "Match Table Grid",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 26,
+          "rationale": "Derived from 26% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q42",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (In the Solution Set, In the Solution Set, In the Solution Set, Not in the Solution Set)",
+        "answer_format": "text",
+        "correct_text": "In the Solution Set, In the Solution Set, In the Solution Set, Not in the Solution Set"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.3E_2026_q13",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1029,
+        "image_height_px": 212,
+        "sha256": "ae9440cc086b65d39be7118b090ebbcc29df37eb161c495c3efeb10e901f7bec",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.3E_2026_q13.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q13_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.3(E)",
+        "standard_description": "determine the effects on the graph of the parent function f(x) = x when f(x) is replaced by af(x), f(x) + d, f(x - c), f(bx) for specific values of a, b, c, and d",
+        "year": 2026,
+        "question_number": 13,
+        "cluster": "Linear Functions",
+        "subcluster": "Describing Linear Functions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 33,
+          "rationale": "Derived from 33% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q13",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (has the same steepness as, less than)",
+        "answer_format": "text",
+        "correct_text": "has the same steepness as, less than"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.3H_2026_q39",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1006,
+        "image_height_px": 744,
+        "sha256": "6575c5166650de6bfff68470deda7dad7492828762314f237221f23b4260fab5",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.3H_2026_q39.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q39_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.3(H)",
+        "standard_description": "graph the solution set of systems of two linear inequalities in two variables on the coordinate plane",
+        "year": 2026,
+        "question_number": 39,
+        "cluster": "Systems of Equations and Inequalities",
+        "subcluster": "Inequalities",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "graphing",
+        "declared_item_type_display": "Graphing",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 30,
+          "rationale": "Derived from 30% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q39",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (Solid line going through the points (0, 2) and (3, 4), dashed line through the points (\u22123, 0) and (0, \u22123), with shading in the area that includes the point (0, 0))",
+        "answer_format": "text",
+        "correct_text": "Solid line going through the points (0, 2"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.4A_2026_q47",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 723,
+        "image_height_px": 481,
+        "sha256": "af17cac5e62d8c7af8749e128fd87dc2b5da1d0ff6958b3c0e4981edf3e0b7f4",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.4A_2026_q47.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q47_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.4(A)",
+        "standard_description": "calculate, using technology, the correlation coefficient between two quantitative variables and interpret this quantity as a measure of the strength of the linear association",
+        "year": 2026,
+        "question_number": 47,
+        "cluster": "Linear Functions",
+        "subcluster": "Describing Linear Functions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 66,
+          "rationale": "Derived from 66% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q47",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.4B_2026_q5",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1036,
+        "image_height_px": 333,
+        "sha256": "8ea5773589c3232132dad254ff920f4c1d351f01d40e45382a3e224f8cae0600",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.4B_2026_q5.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q5_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.4(B)",
+        "standard_description": "compare and contrast association and causation in real-world problems",
+        "year": 2026,
+        "question_number": 5,
+        "cluster": "Linear Functions",
+        "subcluster": "Describing Linear Functions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 34,
+          "rationale": "Derived from 34% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q5",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.5A_2026_q17",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 887,
+        "image_height_px": 480,
+        "sha256": "80ae436229c4d147c08bab96261fb5c9d72d02aa9e935958bc13f142de979190",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.5A_2026_q17.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q17_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.5(A)",
+        "standard_description": "solve linear equations in one variable, including those for which the application of the distributive property is necessary and for which variables are included on both sides",
+        "year": 2026,
+        "question_number": 17,
+        "cluster": "Linear Functions",
+        "subcluster": "Solving Linear Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 26,
+          "rationale": "Derived from 26% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q17",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (10, 24)",
+        "answer_format": "text",
+        "correct_text": "10, 24"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.5A_2026_q36",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 417,
+        "image_height_px": 358,
+        "sha256": "095996f5172d11eb1f81dedd36e23304576625463e19ba7b1e974996795a54a0",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.5A_2026_q36.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q36_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.5(A)",
+        "standard_description": "solve linear equations in one variable, including those for which the application of the distributive property is necessary and for which variables are included on both sides",
+        "year": 2026,
+        "question_number": 36,
+        "cluster": "Linear Functions",
+        "subcluster": "Solving Linear Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 59,
+          "rationale": "Derived from 59% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q36",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B,C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.5B_2026_q19",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 619,
+        "image_height_px": 233,
+        "sha256": "3581f19400f2f2e89dc715577fd23dc2995e3ca2969d5556297482f6f3f8eb2b",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.5B_2026_q19.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q19_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.5(B)",
+        "standard_description": "solve linear inequalities in one variable, including those for which the application of the distributive property is necessary and for which variables are included on both sides",
+        "year": 2026,
+        "question_number": 19,
+        "cluster": "Systems of Equations and Inequalities",
+        "subcluster": "Inequalities",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 32,
+          "rationale": "Derived from 32% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q19",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (\u2265, \u2212\u00be)",
+        "answer_format": "text",
+        "correct_text": "\u2265, \u2212\u00be"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.5C_2026_q3",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1039,
+        "image_height_px": 367,
+        "sha256": "3d8d785ca2dd0762b29b19e3d53b188c9bc4f5eb63c22d804a3bfde9a7ac560e",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.5C_2026_q3.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q3_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.5(C)",
+        "standard_description": "solve systems of two linear equations with two variables for mathematical and real-world problems",
+        "year": 2026,
+        "question_number": 3,
+        "cluster": "Systems of Equations and Inequalities",
+        "subcluster": "Systems of Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 62,
+          "rationale": "Derived from 62% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q3",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.5C_2026_q38",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 599,
+        "image_height_px": 434,
+        "sha256": "f7e59630903ddb6efe9f42f67d564aa4d2d179de4dff9df5241cce5249677200",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.5C_2026_q38.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q38_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.5(C)",
+        "standard_description": "solve systems of two linear equations with two variables for mathematical and real-world problems",
+        "year": 2026,
+        "question_number": 38,
+        "cluster": "Systems of Equations and Inequalities",
+        "subcluster": "Systems of Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 51,
+          "rationale": "Derived from 51% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q38",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.6A_2026_q18",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 894,
+        "image_height_px": 706,
+        "sha256": "fb7cb6314c6a4792dc031f2f037186093b5c0590c52e9e4a848d858ca16b39c0",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.6A_2026_q18.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q18_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.6(A)",
+        "standard_description": "determine the domain and range of quadratic functions and represent the domain and range using inequalities",
+        "year": 2026,
+        "question_number": 18,
+        "cluster": "Quadratic Functions",
+        "subcluster": "Describing Quadratic Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 64,
+          "rationale": "Derived from 64% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q18",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.6A_2026_q45",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 657,
+        "image_height_px": 385,
+        "sha256": "3ecb904d4aa8f79c2ab82d16caf37ab36fb29cc446424d306337712d2c55d636",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.6A_2026_q45.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q45_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.6(A)",
+        "standard_description": "determine the domain and range of quadratic functions and represent the domain and range using inequalities",
+        "year": 2026,
+        "question_number": 45,
+        "cluster": "Quadratic Functions",
+        "subcluster": "Describing Quadratic Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 17,
+          "rationale": "Derived from 17% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q45",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (0, 3.2)",
+        "answer_format": "text",
+        "correct_text": "0, 3.2"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.6C_2026_q33",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 571,
+        "image_height_px": 359,
+        "sha256": "5e00c6a141a02a93924ec564dad53b61f09643eb15cb628811e935fbe4ff47e6",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.6C_2026_q33.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q33_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.6(C)",
+        "standard_description": "write quadratic functions when given real solutions and graphs of their related equations",
+        "year": 2026,
+        "question_number": 33,
+        "cluster": "Quadratic Functions",
+        "subcluster": "Writing and Solving Quadratic Equations",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 55,
+          "rationale": "Derived from 55% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q33",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.7A_2026_q2",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 840,
+        "image_height_px": 744,
+        "sha256": "8aac50e3273b1a409d06ae292205d8f135ba4f54ef11159c2619f16f74cf1165",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.7A_2026_q2.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q2_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.7(A)",
+        "standard_description": "graph quadratic functions on the coordinate plane and use the graph to identify key attributes, if possible, including x-intercept, y-intercept, zeros, maximum value, minimum values, vertex, and the equation of the axis of symmetry",
+        "year": 2026,
+        "question_number": 2,
+        "cluster": "Quadratic Functions",
+        "subcluster": "Describing Quadratic Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 86,
+          "rationale": "Derived from 86% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q2",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.7A_2026_q28",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1029,
+        "image_height_px": 811,
+        "sha256": "da6ef1a6e3c54b809006dd939ca2247e45b078f5657097057eefdec09a2024c3",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.7A_2026_q28.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q28_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.7(A)",
+        "standard_description": "graph quadratic functions on the coordinate plane and use the graph to identify key attributes, if possible, including x-intercept, y-intercept, zeros, maximum value, minimum values, vertex, and the equation of the axis of symmetry",
+        "year": 2026,
+        "question_number": 28,
+        "cluster": "Quadratic Functions",
+        "subcluster": "Describing Quadratic Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 67,
+          "rationale": "Derived from 67% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q28",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.7B_2026_q8",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 778,
+        "image_height_px": 315,
+        "sha256": "cc428d4036084269b4762d8739db08c9af1c39bc46c838ef86069fd10a8d6cd5",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.7B_2026_q8.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q8_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.7(B)",
+        "standard_description": "describe the relationship between the linear factors of quadratic expressions and the zeros of their associated quadratic functions",
+        "year": 2026,
+        "question_number": 8,
+        "cluster": "Quadratic Functions",
+        "subcluster": "Writing and Solving Quadratic Equations",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 39,
+          "rationale": "Derived from 39% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q8",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.7C_2026_q21",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 525,
+        "image_height_px": 241,
+        "sha256": "3c14dfa88422566aa031dd69a746954b4265d3d98b60821b95b2dc511a84a4e5",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.7C_2026_q21.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q21_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.7(C)",
+        "standard_description": "determine the effects on the graph of the parent function f(x) = x 2 when f(x) is replaced by af(x), f(x) + d, f(x - c), f(bx) for specific values of a, b, c, and d",
+        "year": 2026,
+        "question_number": 21,
+        "cluster": "Quadratic Functions",
+        "subcluster": "Describing Quadratic Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 27,
+          "rationale": "Derived from 27% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q21",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (\u22123, \u22122)",
+        "answer_format": "text",
+        "correct_text": "\u22123, \u22122"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.7C_2026_q31",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 698,
+        "image_height_px": 347,
+        "sha256": "b253d8fc9e4e2a68832c0a19f3936e4b97fe2b22a2207be117897003f04bb2ea",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.7C_2026_q31.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q31_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.7(C)",
+        "standard_description": "determine the effects on the graph of the parent function f(x) = x 2 when f(x) is replaced by af(x), f(x) + d, f(x - c), f(bx) for specific values of a, b, c, and d",
+        "year": 2026,
+        "question_number": 31,
+        "cluster": "Quadratic Functions",
+        "subcluster": "Describing Quadratic Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 55,
+          "rationale": "Derived from 55% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q31",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.8A_2026_q11",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 988,
+        "image_height_px": 216,
+        "sha256": "68e6f93f0441c3fcf5dd078afd67328de870f3dabb7069c3cc0d75e3a2045ab3",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.8A_2026_q11.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q11_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.8(A)",
+        "standard_description": "solve quadratic equations having real solutions by factoring, taking square roots, completing the square, and applying the quadratic formula",
+        "year": 2026,
+        "question_number": 11,
+        "cluster": "Quadratic Functions",
+        "subcluster": "Writing and Solving Quadratic Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 55,
+          "rationale": "Derived from 55% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q11",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (\u22124.65, 0.65)",
+        "answer_format": "text",
+        "correct_text": "\u22124.65, 0.65"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.8A_2026_q41",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 502,
+        "image_height_px": 301,
+        "sha256": "fb3bf4abaa619f81e1f1c77dfa20bb75abaaeed7f6aaa26354e339ab65395753",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.8A_2026_q41.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q41_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.8(A)",
+        "standard_description": "solve quadratic equations having real solutions by factoring, taking square roots, completing the square, and applying the quadratic formula",
+        "year": 2026,
+        "question_number": 41,
+        "cluster": "Quadratic Functions",
+        "subcluster": "Writing and Solving Quadratic Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 44,
+          "rationale": "Derived from 44% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q41",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.9A_2026_q48",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 698,
+        "image_height_px": 759,
+        "sha256": "0a451963cd6932856a85ac212e7e289a86b128ded7f750f81bf9a50be80767d6",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.9A_2026_q48.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q48_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.9(A)",
+        "standard_description": "determine the domain and range of exponential functions of the form f(x) = ab x and represent the domain and range using inequalities",
+        "year": 2026,
+        "question_number": 48,
+        "cluster": "Exponential Functions",
+        "subcluster": "Describing Exponential Functions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q48",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.9C_2026_q15",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 921,
+        "image_height_px": 734,
+        "sha256": "fd1d0fc32ad03623ca535b4fe4b12162c8656e8f7890cebafe0b63911eca6739",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.9C_2026_q15.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q15_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.9(C)",
+        "standard_description": "write exponential functions in the form f(x) = ab x (where b is a rational number) to describe problems arising from mathematical and real-world situations, including growth and decay",
+        "year": 2026,
+        "question_number": 15,
+        "cluster": "Exponential Functions",
+        "subcluster": "Writing Exponential Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 67,
+          "rationale": "Derived from 67% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q15",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.9C_2026_q34",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 630,
+        "image_height_px": 562,
+        "sha256": "251d688e9cc13ce8e68ea1166537dd654cbc2f64ed2b36159d93eba264a414fb",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.9C_2026_q34.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q34_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.9(C)",
+        "standard_description": "write exponential functions in the form f(x) = ab x (where b is a rational number) to describe problems arising from mathematical and real-world situations, including growth and decay",
+        "year": 2026,
+        "question_number": 34,
+        "cluster": "Exponential Functions",
+        "subcluster": "Writing Exponential Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 75,
+          "rationale": "Derived from 75% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q34",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.9D_2026_q6",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 624,
+        "image_height_px": 476,
+        "sha256": "31150f03ec4a41832062590c8576378c2be1cda8153783e58067412b4e61caf6",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.9D_2026_q6.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q6_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.9(D)",
+        "standard_description": "graph exponential functions that model growth and decay and identify key features, including y-intercept and asymptote, in mathematical and real-world problems",
+        "year": 2026,
+        "question_number": 6,
+        "cluster": "Exponential Functions",
+        "subcluster": "Describing Exponential Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiselect",
+        "declared_item_type_display": "Multiselect",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 46,
+          "rationale": "Derived from 46% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q6",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (second option, third option)",
+        "answer_format": "text",
+        "correct_text": "second option, third option"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.9D_2026_q32",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 608,
+        "image_height_px": 702,
+        "sha256": "386bea4cdacac00ff7816346e6fd443325ab51598e39d850ab4c7c8c064b4690",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.9D_2026_q32.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q32_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.9(D)",
+        "standard_description": "graph exponential functions that model growth and decay and identify key features, including y-intercept and asymptote, in mathematical and real-world problems",
+        "year": 2026,
+        "question_number": 32,
+        "cluster": "Exponential Functions",
+        "subcluster": "Describing Exponential Functions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 53,
+          "rationale": "Derived from 53% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q32",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g9_math_A.9E_2026_q27",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1026,
+        "image_height_px": 663,
+        "sha256": "7cc424de55490b245450c93dd162745e292347e691ccc9fc7161f4d2b2a9f8f6",
+        "question_image": "collections/grade-9/math/images/extracted/g9_math_A.9E_2026_q27.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/a1/Q27_math_alg1.png"
+      },
+      "metadata": {
+        "grade": 9,
+        "subject": "Math",
+        "standard": "A.9(E)",
+        "standard_description": "write, using technology, exponential functions that provide a reasonable fit to data and make predictions for real-world problems",
+        "year": 2026,
+        "question_number": 27,
+        "cluster": "Exponential Functions",
+        "subcluster": "Writing Exponential Functions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 31,
+          "rationale": "Derived from 31% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q27",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
       }
     }
   ]

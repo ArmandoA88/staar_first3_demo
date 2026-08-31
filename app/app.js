@@ -74,6 +74,16 @@ const SUBJECT_THEME_DEFAULTS = {
     ink: "#382c29",
     muted: "#685954",
   },
+  SLAR: {
+    bgStart: "#f5eee8",
+    bgEnd: "#e7e6f2",
+    burstA: "#d9c2df",
+    burstB: "#ead5c1",
+    panelStrong: "#fff9f4",
+    accent: "#7f4c83",
+    ink: "#382c3d",
+    muted: "#69596d",
+  },
   Science: {
     bgStart: "#eef4e0",
     bgEnd: "#e0efe6",
@@ -610,7 +620,7 @@ function getStimulusGroupKey(item) {
 }
 
 function shouldRenderStimulusBundles(collection = getActiveCollection()) {
-  return collection?.subject === "ELAR" && Number(collection?.grade) === 3;
+  return collection?.subject === "ELAR" || collection?.subject === "SLAR";
 }
 
 function buildStimulusBundles(items) {
@@ -1550,7 +1560,10 @@ function buildPresetSelection(presetName, pool) {
 }
 
 function applyPreset(presetName) {
-  if (ELAR_ONLY_PRESETS.has(presetName) && getActiveCollection()?.subject !== "ELAR") {
+  if (
+    ELAR_ONLY_PRESETS.has(presetName) &&
+    !["ELAR", "SLAR"].includes(getActiveCollection()?.subject)
+  ) {
     window.alert(`"${PRESET_TITLES[presetName] || "That preset"}" is only available for ELAR collections.`);
     return;
   }
@@ -1672,7 +1685,10 @@ function renderSummary(filteredItems) {
 
   const teksCounts = buildCounts(getFilteredItems({ ignore: ["teks"] }), (item) => item.metadata.standard);
   const sortedTeksCounts = sortCountEntries(teksCounts, state.teksSort);
-  const yearCounts = buildCounts(getFilteredItems({ ignore: ["year"] }), (item) => String(item.metadata.year));
+  const yearCounts = buildCounts(
+    getFilteredItems({ ignore: ["year"] }),
+    (item) => String(item.metadata.year)
+  ).sort(([leftYear], [rightYear]) => Number(rightYear) - Number(leftYear));
   const difficultyCounts = buildCounts(getFilteredItems({ ignore: ["difficulty"] }), (item) => item.metadata.difficulty?.label);
 
   elements.teksCount.textContent = `${teksCounts.length} groups`;

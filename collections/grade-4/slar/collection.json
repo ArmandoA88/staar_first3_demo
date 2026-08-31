@@ -1,0 +1,15 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-4-slar",
+  "label": "Grade 4 SLAR (Spanish)",
+  "grade": 4,
+  "subject": "SLAR",
+  "status": "ready",
+  "root": "collections/grade-4/slar",
+  "source_pdf": null,
+  "catalog": "collections/grade-4/slar/data/staar_catalog.json",
+  "reports": {},
+  "images_dir": "collections/grade-4/slar/images/extracted",
+  "stimulus_images_dir": "collections/grade-4/slar/images/stimuli",
+  "vision_cache_dir": "collections/grade-4/slar/cache/vision"
+}

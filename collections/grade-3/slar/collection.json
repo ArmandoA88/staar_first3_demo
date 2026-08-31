@@ -1,0 +1,15 @@
+{
+  "schema_version": "collection_manifest_v1",
+  "id": "grade-3-slar",
+  "label": "Grade 3 SLAR (Spanish)",
+  "grade": 3,
+  "subject": "SLAR",
+  "status": "ready",
+  "root": "collections/grade-3/slar",
+  "source_pdf": null,
+  "catalog": "collections/grade-3/slar/data/staar_catalog.json",
+  "reports": {},
+  "images_dir": "collections/grade-3/slar/images/extracted",
+  "stimulus_images_dir": "collections/grade-3/slar/images/stimuli",
+  "vision_cache_dir": "collections/grade-3/slar/cache/vision"
+}

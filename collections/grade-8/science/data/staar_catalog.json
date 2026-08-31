@@ -1,8 +1,8 @@
 {
   "source_pdf": "science8.pdf",
-  "generated_at_utc": "2026-04-05T17:53:53Z",
+  "generated_at_utc": "2026-08-30T19:46:25Z",
   "schema_version": "staar_catalog_v4",
-  "item_count": 162,
+  "item_count": 192,
   "subject": "Science",
   "grade": 8,
   "collection_label": "Grade 8 Science",
@@ -10,7 +10,8 @@
   "extraction_method": {
     "question_region": "Rendered page crop transcribed with OpenAI vision",
     "answer_key": "Parsed from PDF text layer footer",
-    "difficulty": "Derived from state percent-correct data in the PDF text layer"
+    "difficulty": "Derived from state percent-correct data in the PDF text layer",
+    "2026_release": "Official item images and metadata imported from lead4ward IQ (source: TEA)"
   },
   "items": [
     {
@@ -14873,6 +14874,1859 @@
         "vision_confidence": 1.0,
         "needs_review": false,
         "notes": null
+      }
+    },
+    {
+      "id": "g8_science_7.10A_2026_q3",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1034,
+        "image_height_px": 779,
+        "sha256": "79b0392597357e5cf1389b9d9c2ebbe47d997242050f01c5dd1906057a6a6ca3",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_7.10A_2026_q3.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q3_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "7.10(A)",
+        "standard_description": "describe the evidence that supports that Earth has changed over time, including fossil evidence, plate tectonics, and superposition",
+        "year": 2026,
+        "question_number": 3,
+        "cluster": "The Universe",
+        "subcluster": "Earth's Dynamic Layers",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multipart",
+        "declared_item_type_display": "Multipart",
+        "points": 2,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 74,
+          "rationale": "Derived from 74% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q3",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C, D)",
+        "answer_format": "text",
+        "correct_text": "C, D"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_7.10B_2026_q7",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1035,
+        "image_height_px": 680,
+        "sha256": "28939ecc637ac43792772ff2d3faab0eb6296008e6065db80a5e6e660def3466",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_7.10B_2026_q7.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q7_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "7.10(B)",
+        "standard_description": "describe how plate tectonics causes ocean basin formation, earthquakes, mountain building, and volcanic eruptions, including super volcanoes and hot spots",
+        "year": 2026,
+        "question_number": 7,
+        "cluster": "The Universe",
+        "subcluster": "Earth's Dynamic Layers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 35,
+          "rationale": "Derived from 35% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q7",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_7.10B_2026_q21",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 930,
+        "image_height_px": 792,
+        "sha256": "b3a2685ad185d7971b3dc323503856e4ea46d536d728bf2f64d9c77bf3d77bfc",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_7.10B_2026_q21.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q21_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "7.10(B)",
+        "standard_description": "describe how plate tectonics causes ocean basin formation, earthquakes, mountain building, and volcanic eruptions, including super volcanoes and hot spots",
+        "year": 2026,
+        "question_number": 21,
+        "cluster": "The Universe",
+        "subcluster": "Earth's Dynamic Layers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 46,
+          "rationale": "Derived from 46% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q21",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_7.13D_2026_q4",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 721,
+        "image_height_px": 460,
+        "sha256": "e1156d312b5f72b605403a4578881bc776b9a2c8e6ed19b79507a793cab78092",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_7.13D_2026_q4.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q4_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "7.13(D)",
+        "standard_description": "describe and give examples of how natural and artificial selection change the occurrence of traits in a population over generations",
+        "year": 2026,
+        "question_number": 4,
+        "cluster": "Structure, Function, and Survival",
+        "subcluster": "Variation and Survival",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 64,
+          "rationale": "Derived from 64% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q4",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_7.6B_2026_q15",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 474,
+        "image_height_px": 268,
+        "sha256": "39d18b4b4956fd381e96f2675b0e73fb6d60585b6ec62fa5d0650007d64204fa",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_7.6B_2026_q15.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q15_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "7.6(B)",
+        "standard_description": "use the periodic table to identify the atoms and the number of each kind within a chemical formula",
+        "year": 2026,
+        "question_number": 15,
+        "cluster": "Properties of Matter",
+        "subcluster": "Chemical Formulas, Reactions, and Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 2,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 58,
+          "rationale": "Derived from 58% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q15",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (5, 5)",
+        "answer_format": "text",
+        "correct_text": "5, 5"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_7.6B_2026_q20",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 481,
+        "image_height_px": 202,
+        "sha256": "a69e2decdf5462263143a0dbacdbd7ea1dfe40d71dd8a3adbacd41c229832151",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_7.6B_2026_q20.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q20_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "7.6(B)",
+        "standard_description": "use the periodic table to identify the atoms and the number of each kind within a chemical formula",
+        "year": 2026,
+        "question_number": 20,
+        "cluster": "Properties of Matter",
+        "subcluster": "Chemical Formulas, Reactions, and Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "text_entry",
+        "declared_item_type_display": "Text Entry",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 49,
+          "rationale": "Derived from 49% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q20",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (3)",
+        "answer_format": "text",
+        "correct_text": "3"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_7.6C_2026_q16",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 703,
+        "image_height_px": 615,
+        "sha256": "bcfbef55b7a4ff99d2ac318d9c86dfd053d97f790dc37bfdc75948a2b593e786",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_7.6C_2026_q16.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q16_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "7.6(C)",
+        "standard_description": "distinguish between physical and chemical changes in matter",
+        "year": 2026,
+        "question_number": 16,
+        "cluster": "Properties of Matter",
+        "subcluster": "Chemical Formulas, Reactions, and Equations",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multipart",
+        "declared_item_type_display": "Multipart",
+        "points": 2,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q16",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D, C)",
+        "answer_format": "text",
+        "correct_text": "D, C"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_7.7A_2026_q10",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 759,
+        "image_height_px": 618,
+        "sha256": "1b33826acaa7cde6df07fcefddb7c575b23b8e6d3e9d20d4c0878249ad6fc940",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_7.7A_2026_q10.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q10_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "7.7(A)",
+        "standard_description": "calculate average speed using distance and time measurements from investigations",
+        "year": 2026,
+        "question_number": 10,
+        "cluster": "Force and Motion",
+        "subcluster": "Linear Motion",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 62,
+          "rationale": "Derived from 62% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q10",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_7.8C_2026_q28",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 830,
+        "image_height_px": 921,
+        "sha256": "3153fefd802bb54e23894b736d221a09c6e53d9497f123239fd508d5d6246a0e",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_7.8C_2026_q28.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q28_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "7.8(C)",
+        "standard_description": "explain the relationship between temperature and the kinetic energy of the particles within a substance",
+        "year": 2026,
+        "question_number": 28,
+        "cluster": "Energy",
+        "subcluster": "Energy",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 69,
+          "rationale": "Derived from 69% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q28",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.10A_2026_q12",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 830,
+        "image_height_px": 503,
+        "sha256": "44f9e6ebaaeb8cd062e7dc29c037198b252cc8186a443c57db51950399a83f1d",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.10A_2026_q12.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q12_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.10(A)",
+        "standard_description": "describe how energy from the Sun, hydrosphere, and atmosphere interact and influence weather and climate",
+        "year": 2026,
+        "question_number": 12,
+        "cluster": "Weather",
+        "subcluster": "Solar Energy, Hydrosphere, and Atmosphere Interactions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 46,
+          "rationale": "Derived from 46% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q12",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.10A_2026_q23",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1029,
+        "image_height_px": 518,
+        "sha256": "7591fac01169714455a586af0cb44d689820ab728dc14fee1517cd4ccdf865bc",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.10A_2026_q23.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q23_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.10(A)",
+        "standard_description": "describe how energy from the Sun, hydrosphere, and atmosphere interact and influence weather and climate",
+        "year": 2026,
+        "question_number": 23,
+        "cluster": "Weather",
+        "subcluster": "Solar Energy, Hydrosphere, and Atmosphere Interactions",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q23",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (the equator, 30\u00b0N and 30\u00b0S, cooler, warmer)",
+        "answer_format": "text",
+        "correct_text": "the equator, 30\u00b0N and 30\u00b0S, cooler, warmer"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.10B_2026_q14",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 916,
+        "image_height_px": 719,
+        "sha256": "d6c936acf9f593c744629c83040f2c0f420f7e2fe04d1c4a7ce050b74243da15",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.10B_2026_q14.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q14_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.10(B)",
+        "standard_description": "identify global patterns of atmospheric movement and how they influence local weather",
+        "year": 2026,
+        "question_number": 14,
+        "cluster": "Weather",
+        "subcluster": "Solar Energy, Hydrosphere, and Atmosphere Interactions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 30,
+          "rationale": "Derived from 30% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q14",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.10C_2026_q19",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1033,
+        "image_height_px": 712,
+        "sha256": "1b514ec790110a994695ef67b3953f5189aa0d7eb38e42f551e9a3dfbeb0ee9e",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.10C_2026_q19.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q19_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.10(C)",
+        "standard_description": "describe the interactions between ocean currents and air masses that produce tropical cyclones, including typhoons and hurricanes",
+        "year": 2026,
+        "question_number": 19,
+        "cluster": "Weather",
+        "subcluster": "Solar Energy, Hydrosphere, and Atmosphere Interactions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q19",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.12B_2026_q11",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 813,
+        "image_height_px": 303,
+        "sha256": "a0cdc3827a1887a22eeb8225bf95da06d8b58046a34c63fa5144a8dc5851dbe4",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.12B_2026_q11.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q11_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.12(B)",
+        "standard_description": "describe how primary and secondary ecological succession affect populations and species diversity after ecosystems are disrupted by natural events or human activity",
+        "year": 2026,
+        "question_number": 11,
+        "cluster": "Organisms and Environments",
+        "subcluster": "Ecosystem Stability",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 64,
+          "rationale": "Derived from 64% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q11",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.12B_2026_q29",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 593,
+        "image_height_px": 434,
+        "sha256": "2b0f9ca62b807121c5f6c4f34e461937a3ae99b0235e9b83e5ab41e7578d97d5",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.12B_2026_q29.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q29_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.12(B)",
+        "standard_description": "describe how primary and secondary ecological succession affect populations and species diversity after ecosystems are disrupted by natural events or human activity",
+        "year": 2026,
+        "question_number": 29,
+        "cluster": "Organisms and Environments",
+        "subcluster": "Ecosystem Stability",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 64,
+          "rationale": "Derived from 64% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q29",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.12C_2026_q25",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 635,
+        "image_height_px": 413,
+        "sha256": "dfbbc4153ad587760c5ca8443866c29392ca8a3056c43f7bdd35bb7c7b5e1040",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.12C_2026_q25.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q25_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.12(C)",
+        "standard_description": "describe how biodiversity contributes to the stability and sustainability of an ecosystem and the health of the organisms within the ecosystem",
+        "year": 2026,
+        "question_number": 25,
+        "cluster": "Organisms and Environments",
+        "subcluster": "Ecosystem Stability",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 65,
+          "rationale": "Derived from 65% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q25",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.13A_2026_q8",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 565,
+        "image_height_px": 733,
+        "sha256": "87ecd3252cea179c9bb5a51f4668c4f71bee4fea4e1dda5100fa5c6e7cf755da",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.13A_2026_q8.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q8_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.13(A)",
+        "standard_description": "identify the function of the cell membrane, cell wall, nucleus, ribosomes, cytoplasm, mitochondria, chloroplasts, and vacuoles in plant or animal cells",
+        "year": 2026,
+        "question_number": 8,
+        "cluster": "Structure, Function, and Survival",
+        "subcluster": "Cell Functions and Body Systems",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 51,
+          "rationale": "Derived from 51% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q8",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.13A_2026_q30",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 764,
+        "image_height_px": 741,
+        "sha256": "bf1f4c096b67b20fc399b0a426e034cca12e596859afdf53cfca25a2b9721e7c",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.13A_2026_q30.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q30_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.13(A)",
+        "standard_description": "identify the function of the cell membrane, cell wall, nucleus, ribosomes, cytoplasm, mitochondria, chloroplasts, and vacuoles in plant or animal cells",
+        "year": 2026,
+        "question_number": 30,
+        "cluster": "Structure, Function, and Survival",
+        "subcluster": "Cell Functions and Body Systems",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 65,
+          "rationale": "Derived from 65% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q30",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.13B_2026_q22",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 987,
+        "image_height_px": 652,
+        "sha256": "17000bda6a134244d1d54d15c526c9ee101f6d1f28a6c9d057c4edc25a7b35b0",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.13B_2026_q22.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q22_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.13(B)",
+        "standard_description": "describe the function of genes within chromosomes in determining inherited traits of offspring",
+        "year": 2026,
+        "question_number": 22,
+        "cluster": "Structure, Function, and Survival",
+        "subcluster": "Inherited Traits",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 58,
+          "rationale": "Derived from 58% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q22",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.13C_2026_q1",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1026,
+        "image_height_px": 627,
+        "sha256": "4f8e7e7a79952ef4be2a20b01086581f7e6dd3d1a211504f32b5da3f11ad9a2f",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.13C_2026_q1.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q1_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.13(C)",
+        "standard_description": "describe how variations of traits within a population lead to structural, behavioral, and physiological adaptations that influence the likelihood of survival and reproductive success of a species over generations",
+        "year": 2026,
+        "question_number": 1,
+        "cluster": "Structure, Function, and Survival",
+        "subcluster": "Variation and Survival",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 89,
+          "rationale": "Derived from 89% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q1",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.13C_2026_q24",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1035,
+        "image_height_px": 533,
+        "sha256": "a7fe2ce8f05bdd4c32093934f065163b11a1f323ceef1b4635a7334bd35e2946",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.13C_2026_q24.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q24_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.13(C)",
+        "standard_description": "describe how variations of traits within a population lead to structural, behavioral, and physiological adaptations that influence the likelihood of survival and reproductive success of a species over generations",
+        "year": 2026,
+        "question_number": 24,
+        "cluster": "Structure, Function, and Survival",
+        "subcluster": "Variation and Survival",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "short_constructed_response",
+        "declared_item_type_display": "Short Constructed Response",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 40,
+          "rationale": "Derived from 40% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q24",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (See Scoring Guide)",
+        "answer_format": "text",
+        "correct_text": "See Scoring Guide"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.6E_2026_q17",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 731,
+        "image_height_px": 333,
+        "sha256": "56ddc79f95250754d81e7a6679a11b37261602ed03fa22c23a2bb3e9eda336ff",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.6E_2026_q17.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q17_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.6(E)",
+        "standard_description": "investigate how mass is conserved in chemical reactions and relate conservation of mass to the rearrangement of atoms using chemical equations, including photosynthesis",
+        "year": 2026,
+        "question_number": 17,
+        "cluster": "Properties of Matter",
+        "subcluster": "Chemical Formulas, Reactions, and Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 54,
+          "rationale": "Derived from 54% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q17",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.6E_2026_q26",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1031,
+        "image_height_px": 518,
+        "sha256": "9872cc5e4acce1bf30eedb9ffca087247f8eebeb5cb6fe7d867bc785998fcda3",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.6E_2026_q26.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q26_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.6(E)",
+        "standard_description": "investigate how mass is conserved in chemical reactions and relate conservation of mass to the rearrangement of atoms using chemical equations, including photosynthesis",
+        "year": 2026,
+        "question_number": 26,
+        "cluster": "Properties of Matter",
+        "subcluster": "Chemical Formulas, Reactions, and Equations",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 31,
+          "rationale": "Derived from 31% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q26",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.7A_2026_q5",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 761,
+        "image_height_px": 590,
+        "sha256": "3af8301b89b60bb4b277b6121d292dbf9159d3113fe619299640c6324804c629",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.7A_2026_q5.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q5_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.7(A)",
+        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton\u2019s Second Law of Motion",
+        "year": 2026,
+        "question_number": 5,
+        "cluster": "Force and Motion",
+        "subcluster": "Force",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 51,
+          "rationale": "Derived from 51% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q5",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.7A_2026_q13",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 678,
+        "image_height_px": 418,
+        "sha256": "9a41d6a1d862f6fb941ed155e0d43b87147518d2c80e83ca9f2a57b2cb000991",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.7A_2026_q13.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q13_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.7(A)",
+        "standard_description": "calculate and analyze how the acceleration of an object is dependent upon the net force acting on the object and the mass of the object using Newton\u2019s Second Law of Motion",
+        "year": 2026,
+        "question_number": 13,
+        "cluster": "Force and Motion",
+        "subcluster": "Force",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "short_constructed_response",
+        "declared_item_type_display": "Short Constructed Response",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 10,
+          "rationale": "Derived from 10% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q13",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (See Scoring Guide)",
+        "answer_format": "text",
+        "correct_text": "See Scoring Guide"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.7B_2026_q2",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 807,
+        "image_height_px": 406,
+        "sha256": "edf80972bd3f25bc01dd3cc0c1d1ea5c0fbe3f8052dd4121a0c96b6fab708636",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.7B_2026_q2.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q2_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.7(B)",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches",
+        "year": 2026,
+        "question_number": 2,
+        "cluster": "Force and Motion",
+        "subcluster": "Force",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 60,
+          "rationale": "Derived from 60% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q2",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.7B_2026_q18",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 978,
+        "image_height_px": 726,
+        "sha256": "811391e27ffb7920920f3a480bdda7e6bd132e6c0e32bd3501ff59d6c7a736c8",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.7B_2026_q18.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q18_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.7(B)",
+        "standard_description": "investigate and describe how Newton\u2019s three laws of motion act simultaneously within systems such as in vehicle restraints, sports activities, amusement park rides, Earth\u2019s tectonic activities, and rocket launches",
+        "year": 2026,
+        "question_number": 18,
+        "cluster": "Force and Motion",
+        "subcluster": "Force",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 49,
+          "rationale": "Derived from 49% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q18",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.8A_2026_q6",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 869,
+        "image_height_px": 643,
+        "sha256": "85f779c62ee9ac8c93c15ed5a81efae756f8bd0a5a3f6ac19da5dd750e0ba972",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.8A_2026_q6.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q6_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.8(A)",
+        "standard_description": "compare the characteristics of amplitude, frequency, and wavelength in transverse waves, including the electromagnetic spectrum",
+        "year": 2026,
+        "question_number": 6,
+        "cluster": "Energy",
+        "subcluster": "Characteristics of Waves",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 56,
+          "rationale": "Derived from 56% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q6",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.9A_2026_q9",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1024,
+        "image_height_px": 680,
+        "sha256": "fd6b13bee9e717c32f6d51fb1bacd9b063aed099da40bdc3eb5e371ce836f33f",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.9A_2026_q9.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q9_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.9(A)",
+        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung\u2010Russell diagram",
+        "year": 2026,
+        "question_number": 9,
+        "cluster": "The Universe",
+        "subcluster": "Stars",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 66,
+          "rationale": "Derived from 66% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q9",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g8_science_8.9A_2026_q27",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 656,
+        "image_height_px": 702,
+        "sha256": "99a929ad96f10cb3af989c158fcfd5196f995f7533b1e5463df2028271c2c205",
+        "question_image": "collections/grade-8/science/images/extracted/g8_science_8.9A_2026_q27.png",
+        "source_url": "https://iq.lead4ward.com/items/sc/26/g8/Q27_science_gr8.png"
+      },
+      "metadata": {
+        "grade": 8,
+        "subject": "Science",
+        "standard": "8.9(A)",
+        "standard_description": "describe the life cycle of stars and compare and classify stars using the Hertzsprung\u2010Russell diagram",
+        "year": 2026,
+        "question_number": 27,
+        "cluster": "The Universe",
+        "subcluster": "Stars",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Science item Q27",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
       }
     }
   ]

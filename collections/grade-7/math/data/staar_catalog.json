@@ -1,8 +1,8 @@
 {
   "source_pdf": "math7.pdf",
-  "generated_at_utc": "2026-04-05T16:40:41Z",
+  "generated_at_utc": "2026-08-30T19:46:19Z",
   "schema_version": "staar_catalog_v4",
-  "item_count": 396,
+  "item_count": 434,
   "subject": "Math",
   "grade": 7,
   "collection_label": "Grade 7 Math",
@@ -10,7 +10,8 @@
   "extraction_method": {
     "question_region": "Rendered page crop transcribed with OpenAI vision",
     "answer_key": "Parsed from PDF text layer footer",
-    "difficulty": "Derived from state percent-correct data in the PDF text layer"
+    "difficulty": "Derived from state percent-correct data in the PDF text layer",
+    "2026_release": "Official item images and metadata imported from lead4ward IQ (source: TEA)"
   },
   "items": [
     {
@@ -36096,6 +36097,2352 @@
         "vision_confidence": 1.0,
         "needs_review": false,
         "notes": null
+      }
+    },
+    {
+      "id": "g7_math_7.10B_2026_q27",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 724,
+        "image_height_px": 460,
+        "sha256": "197b31c348681142efda614a34b55a8af4c467992a37c3c7fcb215460f29e248",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.10B_2026_q27.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q27_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.10(B)",
+        "standard_description": "represent solutions for one-variable, two-step equations and inequalities on number lines",
+        "year": 2026,
+        "question_number": 27,
+        "cluster": "Equations and Inequalities",
+        "subcluster": "Representation and Solutions of Equations/Inequalities",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "number_line",
+        "declared_item_type_display": "Number Line",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 18,
+          "rationale": "Derived from 18% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q27",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (open circle at \u22122, shaded to the left)",
+        "answer_format": "text",
+        "correct_text": "open circle at \u22122, shaded to the left"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.10C_2026_q15",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1044,
+        "image_height_px": 454,
+        "sha256": "f4ed69077b9dff5cf39d6b0d127f716cf295e183bac1b897ca6b7b06149caa52",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.10C_2026_q15.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q15_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.10(C)",
+        "standard_description": "write a corresponding real-world problem given a one-variable, two-step equation or inequality",
+        "year": 2026,
+        "question_number": 15,
+        "cluster": "Equations and Inequalities",
+        "subcluster": "Application of Equations/Inequalities",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q15",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.11A_2026_q8",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 682,
+        "image_height_px": 325,
+        "sha256": "07fb788fb2ce4974f2a14931cf35fd6bae7a449fec19215b04ccf3ca351b3e32",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.11A_2026_q8.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q8_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.11(A)",
+        "standard_description": "model and solve one-variable, two-step equations and inequalities",
+        "year": 2026,
+        "question_number": 8,
+        "cluster": "Equations and Inequalities",
+        "subcluster": "Representation and Solutions of Equations/Inequalities",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 25,
+          "rationale": "Derived from 25% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q8",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.11A_2026_q25",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1021,
+        "image_height_px": 296,
+        "sha256": "bc9b27a569af607aa89b427ffee67ab4eeeb3e9b092503f196500e6d3364f1bb",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.11A_2026_q25.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q25_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.11(A)",
+        "standard_description": "model and solve one-variable, two-step equations and inequalities",
+        "year": 2026,
+        "question_number": 25,
+        "cluster": "Equations and Inequalities",
+        "subcluster": "Representation and Solutions of Equations/Inequalities",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 37,
+          "rationale": "Derived from 37% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q25",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (2, 70, 84, 7)",
+        "answer_format": "text",
+        "correct_text": "2, 70, 84, 7"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.11B_2026_q34",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 518,
+        "image_height_px": 340,
+        "sha256": "4e2c56b60207aef1660b1542ea3bdb8f330221cbe1aa6d6d8494cbbff3aa2367",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.11B_2026_q34.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q34_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.11(B)",
+        "standard_description": "determine if the given value(s) make(s) one-variable, two-step equations and inequalities true",
+        "year": 2026,
+        "question_number": 34,
+        "cluster": "Equations and Inequalities",
+        "subcluster": "Representation and Solutions of Equations/Inequalities",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 48,
+          "rationale": "Derived from 48% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q34",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.11C_2026_q23",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 552,
+        "image_height_px": 583,
+        "sha256": "6ebfa57a41766b29dc5979a973374f4b2fa600e06ae2a531da38bcdb0866fbd2",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.11C_2026_q23.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q23_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.11(C)",
+        "standard_description": "write and solve equations using geometry concepts, including the sum of the angles in a triangle, and angle relationships",
+        "year": 2026,
+        "question_number": 23,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Angle Relationships",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 50,
+          "rationale": "Derived from 50% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q23",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.12A_2026_q16",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1037,
+        "image_height_px": 848,
+        "sha256": "1d0e77b26d019b5e87e8401b4a25700bfc4159f2c7a91757872b643630575d59",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.12A_2026_q16.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q16_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.12(A)",
+        "standard_description": "compare two groups of numeric data using comparative dot plots or box plots by comparing their shapes, centers, and spreads",
+        "year": 2026,
+        "question_number": 16,
+        "cluster": "Data Analysis",
+        "subcluster": "Comparison of Data",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 32,
+          "rationale": "Derived from 32% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q16",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.12A_2026_q35",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1038,
+        "image_height_px": 669,
+        "sha256": "c3319ca0d65a09d08e6be284f84b7b002be9c413ce08cfba0660f70a8f65a9f3",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.12A_2026_q35.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q35_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.12(A)",
+        "standard_description": "compare two groups of numeric data using comparative dot plots or box plots by comparing their shapes, centers, and spreads",
+        "year": 2026,
+        "question_number": 35,
+        "cluster": "Data Analysis",
+        "subcluster": "Comparison of Data",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "match_table_grid",
+        "declared_item_type_display": "Match Table Grid",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 29,
+          "rationale": "Derived from 29% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q35",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (Week 1 Is Less Than Week 2, Week 1 Is Equal to Week 2, Week 1 Is Less Than Week 2)",
+        "answer_format": "text",
+        "correct_text": "Week 1 Is Less Than Week 2, Week 1 Is Equal to Week 2, Week 1 Is Less Than Week 2"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.12C_2026_q21",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1035,
+        "image_height_px": 884,
+        "sha256": "69470113b18a0fb53aa2dc64986a68c06cbfde5f0516c7469e22fc8afa489781",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.12C_2026_q21.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q21_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.12(C)",
+        "standard_description": "compare two populations based on data in random samples from these populations, including informal comparative inferences about differences between the two populations",
+        "year": 2026,
+        "question_number": 21,
+        "cluster": "Data Analysis",
+        "subcluster": "Comparison of Data",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q21",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.13A_2026_q24",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1041,
+        "image_height_px": 326,
+        "sha256": "e2b3b6d8d9a8bc412588931f2f96a0f284e48a9710f8d4346cb5aef4899e4f33",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.13A_2026_q24.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q24_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.13(A)",
+        "standard_description": "calculate the sales tax for a given purchase and calculate income tax for earned wages",
+        "year": 2026,
+        "question_number": 24,
+        "cluster": "Personal Financial Literacy",
+        "subcluster": "Calculations",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 41,
+          "rationale": "Derived from 41% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q24",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.13D_2026_q32",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1038,
+        "image_height_px": 593,
+        "sha256": "04a934797a2eeeb05e315eca2513dfbaa405eb7d2f289b39c2e8fd9ad5cca122",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.13D_2026_q32.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q32_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.13(D)",
+        "standard_description": "use a family budget estimator to determine the minimum household budget and average hourly wage needed for a family to meet its basic needs in the student's city or another large city nearby",
+        "year": 2026,
+        "question_number": 32,
+        "cluster": "Personal Financial Literacy",
+        "subcluster": "Calculations",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 46,
+          "rationale": "Derived from 46% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q32",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.3B_2026_q13",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 437,
+        "image_height_px": 374,
+        "sha256": "340e613724a70b2fb6186377a80d727ff5fb57f0101a24ede7e4dbd681ee7355",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.3B_2026_q13.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q13_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.3(B)",
+        "standard_description": "apply and extend previous understandings of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+        "year": 2026,
+        "question_number": 13,
+        "cluster": "Rational Number Representations and Operations",
+        "subcluster": "Operations of Rational Numbers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 48,
+          "rationale": "Derived from 48% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q13",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.3B_2026_q29",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 904,
+        "image_height_px": 533,
+        "sha256": "634f2e880d012b9ae4df785ed3c75dced8401ee6e9f1126a47cebc323e8827be",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.3B_2026_q29.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q29_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.3(B)",
+        "standard_description": "apply and extend previous understandings of operations to solve problems using addition, subtraction, multiplication, and division of rational numbers",
+        "year": 2026,
+        "question_number": 29,
+        "cluster": "Rational Number Representations and Operations",
+        "subcluster": "Operations of Rational Numbers",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 25,
+          "rationale": "Derived from 25% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q29",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.4A_2026_q10",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1015,
+        "image_height_px": 610,
+        "sha256": "22b212f826c21aecb093004cc41d72aa76d92d71c0ae98858ed71760d7c15c4e",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.4A_2026_q10.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q10_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.4(A)",
+        "standard_description": "represent constant rates of change in mathematical and real-world problems given pictorial, tabular, verbal, numeric, graphical, and algebraic representations, including d = rt",
+        "year": 2026,
+        "question_number": 10,
+        "cluster": "Proportional Reasoning",
+        "subcluster": "Constant Rate of Change",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "graphing",
+        "declared_item_type_display": "Graphing",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 43,
+          "rationale": "Derived from 43% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q10",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (Selected 2 points on the line y = 25x, such as (0, 0) and (2, 50). Any other points on the line y = 25x are correct.)",
+        "answer_format": "text",
+        "correct_text": "Selected 2 points on the line y = 25x, such as (0, 0"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.4A_2026_q17",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1039,
+        "image_height_px": 342,
+        "sha256": "15883c8c1a634848405df2b8144065d8290ed3af35bfa0b3d0fcdfeba1d7d48e",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.4A_2026_q17.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q17_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.4(A)",
+        "standard_description": "represent constant rates of change in mathematical and real-world problems given pictorial, tabular, verbal, numeric, graphical, and algebraic representations, including d = rt",
+        "year": 2026,
+        "question_number": 17,
+        "cluster": "Proportional Reasoning",
+        "subcluster": "Constant Rate of Change",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 35,
+          "rationale": "Derived from 35% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q17",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.4C_2026_q4",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1043,
+        "image_height_px": 433,
+        "sha256": "a53b9b14330beef4f6a9e99c0c7acf91c789a04921c75eef6c197b3e445b3da1",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.4C_2026_q4.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q4_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.4(C)",
+        "standard_description": "determine the constant of proportionality (k = y/x) within mathematical and real-world problems",
+        "year": 2026,
+        "question_number": 4,
+        "cluster": "Proportional Reasoning",
+        "subcluster": "Constant Rate of Change",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "equation_editor",
+        "declared_item_type_display": "Equation Editor",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 54,
+          "rationale": "Derived from 54% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q4",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (2.50 or any equivalent value)",
+        "answer_format": "text",
+        "correct_text": "2.50 or any equivalent value"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.4D_2026_q2",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 898,
+        "image_height_px": 213,
+        "sha256": "d2efb68d7a69ccd649233e94b4b69c90944129bf1814388339c723e35397b5ff",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.4D_2026_q2.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q2_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.4(D)",
+        "standard_description": "solve problems involving ratios, rates, and percents, including multi-step problems involving percent increase and percent decrease, and financial literacy problems",
+        "year": 2026,
+        "question_number": 2,
+        "cluster": "Proportional Reasoning",
+        "subcluster": "Ratios/Rates/Percentages",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 2,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 73,
+          "rationale": "Derived from 73% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q2",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (11.2, 75)",
+        "answer_format": "text",
+        "correct_text": "11.2, 75"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.4D_2026_q31",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 949,
+        "image_height_px": 345,
+        "sha256": "d7bda817b8d89fc0092026b9273ab1ad1f4740efe228fd88eac99d896f270fec",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.4D_2026_q31.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q31_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.4(D)",
+        "standard_description": "solve problems involving ratios, rates, and percents, including multi-step problems involving percent increase and percent decrease, and financial literacy problems",
+        "year": 2026,
+        "question_number": 31,
+        "cluster": "Proportional Reasoning",
+        "subcluster": "Ratios/Rates/Percentages",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 23,
+          "rationale": "Derived from 23% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q31",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (A,C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.4E_2026_q5",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 487,
+        "image_height_px": 440,
+        "sha256": "ca242c8ecffdaecb10e06a3e699473a51e10cec38cdde32031db8cfd212bb410",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.4E_2026_q5.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q5_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.4(E)",
+        "standard_description": "convert between measurement systems, including the use of proportions and the use of unit rates",
+        "year": 2026,
+        "question_number": 5,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Conversions",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 54,
+          "rationale": "Derived from 54% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q5",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.5A_2026_q30",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 664,
+        "image_height_px": 847,
+        "sha256": "d9ccce9313226e62dfb3a2d567bde60467e34a1e14a2718ebbba24fed24500b2",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.5A_2026_q30.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q30_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.5(A)",
+        "standard_description": "generalize the critical attributes of similarity, including ratios within and between similar shapes",
+        "year": 2026,
+        "question_number": 30,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Similarity",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiselect",
+        "declared_item_type_display": "Multiselect",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 13,
+          "rationale": "Derived from 13% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q30",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (second option, fifth option)",
+        "answer_format": "text",
+        "correct_text": "second option, fifth option"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.5C_2026_q1",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1044,
+        "image_height_px": 372,
+        "sha256": "9651b0cc1b0653bf2df6495b58204a63876c89621e1b7805732bfeaa1f11e3cc",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.5C_2026_q1.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q1_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.5(C)",
+        "standard_description": "solve mathematical and real-world problems involving similar shape and scale drawings",
+        "year": 2026,
+        "question_number": 1,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Similarity",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "easy",
+          "score": 2,
+          "percent_correct": 85,
+          "rationale": "Derived from 85% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q1",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.5C_2026_q26",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 906,
+        "image_height_px": 340,
+        "sha256": "a671039f05f701eafb2eda08029fece3cb237e0b1701476fe57504572a3fc72d",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.5C_2026_q26.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q26_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.5(C)",
+        "standard_description": "solve mathematical and real-world problems involving similar shape and scale drawings",
+        "year": 2026,
+        "question_number": 26,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Similarity",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 51,
+          "rationale": "Derived from 51% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q26",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.6A_2026_q18",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1038,
+        "image_height_px": 442,
+        "sha256": "ea90dcd97574d928b0af3013fb9797971f0667b752507f11911b9b5448963b7d",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.6A_2026_q18.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q18_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.6(A)",
+        "standard_description": "represent sample spaces for simple and compound events using lists and tree diagrams",
+        "year": 2026,
+        "question_number": 18,
+        "cluster": "Probability",
+        "subcluster": "Representation of Probability",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 59,
+          "rationale": "Derived from 59% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q18",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.6D_2026_q6",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1036,
+        "image_height_px": 671,
+        "sha256": "b8e20d55bb46f62f5444a21402557cd07976d4f6db67b05b682b79e6d81c6ac2",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.6D_2026_q6.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q6_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.6(D)",
+        "standard_description": "make predictions and determine solutions using theoretical probability for simple and compound events",
+        "year": 2026,
+        "question_number": 6,
+        "cluster": "Probability",
+        "subcluster": "Application of Probability",
+        "content": "Supporting",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiselect",
+        "declared_item_type_display": "Multiselect",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 17,
+          "rationale": "Derived from 17% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q6",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (first option, third option)",
+        "answer_format": "text",
+        "correct_text": "first option, third option"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.6G_2026_q7",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1039,
+        "image_height_px": 633,
+        "sha256": "4db5fd9ff4185acf0acc955a785b0b9755110fd8c5cfa4fb385b91e7625f896e",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.6G_2026_q7.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q7_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.6(G)",
+        "standard_description": "solve problems using data represented in bar graphs, dot plots, and circle graphs, including part-to-whole and part-to-part comparisons and equivalents",
+        "year": 2026,
+        "question_number": 7,
+        "cluster": "Data Analysis",
+        "subcluster": "Interpretation of Data",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 29,
+          "rationale": "Derived from 29% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q7",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.6G_2026_q19",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1041,
+        "image_height_px": 766,
+        "sha256": "a8c20079bb6c5800e92c3f790bfce7e969cd985d8c0224eced41bfefeecb416c",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.6G_2026_q19.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q19_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.6(G)",
+        "standard_description": "solve problems using data represented in bar graphs, dot plots, and circle graphs, including part-to-whole and part-to-part comparisons and equivalents",
+        "year": 2026,
+        "question_number": 19,
+        "cluster": "Data Analysis",
+        "subcluster": "Interpretation of Data",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 45,
+          "rationale": "Derived from 45% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q19",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.6H_2026_q12",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1020,
+        "image_height_px": 676,
+        "sha256": "df42bc77551b64aec2b68a6ef050655e7a4f0f5d2bd4e2cfc797de074b506d3b",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.6H_2026_q12.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q12_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.6(H)",
+        "standard_description": "solve problems using qualitative and quantitative predictions and comparisons from simple experiments",
+        "year": 2026,
+        "question_number": 12,
+        "cluster": "Probability",
+        "subcluster": "Application of Probability",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 43,
+          "rationale": "Derived from 43% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q12",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.6H_2026_q33",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1027,
+        "image_height_px": 474,
+        "sha256": "671bbd9169f7acc441a148b961dcd0473fe2cf3362e4eb77c893df5a994e5e62",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.6H_2026_q33.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q33_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.6(H)",
+        "standard_description": "solve problems using qualitative and quantitative predictions and comparisons from simple experiments",
+        "year": 2026,
+        "question_number": 33,
+        "cluster": "Probability",
+        "subcluster": "Application of Probability",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "inline_choice",
+        "declared_item_type_display": "Inline Choice",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 16,
+          "rationale": "Derived from 16% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q33",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (3/2 as, equal to)",
+        "answer_format": "text",
+        "correct_text": "3/2 as, equal to"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.6I_2026_q3",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1002,
+        "image_height_px": 632,
+        "sha256": "5ef9fa5c338a52216999d9813e97be9cd76dab73ee1830586ed86b5577f8fbfd",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.6I_2026_q3.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q3_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.6(I)",
+        "standard_description": "determine experimental and theoretical probabilities related to simple and compound events using data and sample spaces",
+        "year": 2026,
+        "question_number": 3,
+        "cluster": "Probability",
+        "subcluster": "Determination of Probability",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 49,
+          "rationale": "Derived from 49% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q3",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.6I_2026_q38",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1034,
+        "image_height_px": 599,
+        "sha256": "ea839ba6144e6bc0bdb8642f8d164a1c1d6a966ef6d381066abb414d6dd91868",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.6I_2026_q38.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q38_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.6(I)",
+        "standard_description": "determine experimental and theoretical probabilities related to simple and compound events using data and sample spaces",
+        "year": 2026,
+        "question_number": 38,
+        "cluster": "Probability",
+        "subcluster": "Determination of Probability",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 52,
+          "rationale": "Derived from 52% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q38",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (B)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.7A_2026_q22",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1040,
+        "image_height_px": 611,
+        "sha256": "e3e6295d6023604379a3a86dc30f97c895312fb0300083ece12bf7a917d38dc2",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.7A_2026_q22.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q22_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.7(A)",
+        "standard_description": "represent linear relationships using verbal descriptions, tables, graphs, and equations that simplify to the form y = mx + b",
+        "year": 2026,
+        "question_number": 22,
+        "cluster": "Proportional Reasoning",
+        "subcluster": "Conceptual Development of Non-Proportional Reasoning",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 24,
+          "rationale": "Derived from 24% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q22",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.7A_2026_q36",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1042,
+        "image_height_px": 395,
+        "sha256": "778cdc908acf7ebe0cab5b67fe6300516aa7cd52168e631d411e963bc0f2cebb",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.7A_2026_q36.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q36_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.7(A)",
+        "standard_description": "represent linear relationships using verbal descriptions, tables, graphs, and equations that simplify to the form y = mx + b",
+        "year": 2026,
+        "question_number": 36,
+        "cluster": "Proportional Reasoning",
+        "subcluster": "Conceptual Development of Non-Proportional Reasoning",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 38,
+          "rationale": "Derived from 38% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q36",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (D) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "D",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.9A_2026_q11",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1036,
+        "image_height_px": 749,
+        "sha256": "9271f57c3061f5cd0bf75ccbaa73089042e145fe63ec560f3e72b198254bb272",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.9A_2026_q11.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q11_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.9(A)",
+        "standard_description": "solve problems involving the volume of rectangular prisms, triangular prisms, rectangular pyramids, and triangular pyramids",
+        "year": 2026,
+        "question_number": 11,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Volume",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 54,
+          "rationale": "Derived from 54% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q11",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (A) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "A",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.9A_2026_q28",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 895,
+        "image_height_px": 328,
+        "sha256": "19ed24c02427cc2d594c45d32c2d437e8344ec635157e307345c5d1bf3ce6b21",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.9A_2026_q28.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q28_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.9(A)",
+        "standard_description": "solve problems involving the volume of rectangular prisms, triangular prisms, rectangular pyramids, and triangular pyramids",
+        "year": 2026,
+        "question_number": 28,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Volume",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 34,
+          "rationale": "Derived from 34% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q28",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (D)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.9B_2026_q9",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1040,
+        "image_height_px": 329,
+        "sha256": "5720ae44223ebba51bbbf13a6fc1d8e2b735502cc80ba5b731f859b64bb2f446",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.9B_2026_q9.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q9_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.9(B)",
+        "standard_description": "determine the circumference and area of circles",
+        "year": 2026,
+        "question_number": 9,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Circles",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 51,
+          "rationale": "Derived from 51% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q9",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (C)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.9B_2026_q20",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1019,
+        "image_height_px": 282,
+        "sha256": "f2055f0642084013a932c9ff6e49fe54f18455d294d3543e61f3f7a52610c038",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.9B_2026_q20.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q20_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.9(B)",
+        "standard_description": "determine the circumference and area of circles",
+        "year": 2026,
+        "question_number": 20,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Circles",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "drag_and_drop",
+        "declared_item_type_display": "Drag and Drop",
+        "points": 2,
+        "difficulty": {
+          "label": "hard",
+          "score": 5,
+          "percent_correct": 15,
+          "rationale": "Derived from 15% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q20",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (9\u03c0, 6\u03c0)",
+        "answer_format": "text",
+        "correct_text": "9\u03c0, 6\u03c0"
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.9C_2026_q14",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 1040,
+        "image_height_px": 637,
+        "sha256": "e295a43ecd4b15cde7acf70a16a657fe841bddfe28669f3fe763211ae0679b28",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.9C_2026_q14.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q14_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.9(C)",
+        "standard_description": "determine the area of composite figures containing combinations of rectangles, squares, parallelograms, trapezoids, triangles, semicircles, and quarter circles",
+        "year": 2026,
+        "question_number": 14,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Area",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "hard",
+          "score": 4,
+          "percent_correct": 36,
+          "rationale": "Derived from 36% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q14",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (B) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "B",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
+      }
+    },
+    {
+      "id": "g7_math_7.9C_2026_q37",
+      "source": {
+        "pdf_file": "2026 STAAR released test (TEA via lead4ward IQ)",
+        "page_number": null,
+        "crop_bbox_pdf_points": null,
+        "render_dpi": null,
+        "image_width_px": 777,
+        "image_height_px": 793,
+        "sha256": "4804282c97bf30c73cd9e1f29eca71f2d3a7e7e005a461a1720e27acf55ea899",
+        "question_image": "collections/grade-7/math/images/extracted/g7_math_7.9C_2026_q37.png",
+        "source_url": "https://iq.lead4ward.com/items/math/26/g7/Q37_math_gr7.png"
+      },
+      "metadata": {
+        "grade": 7,
+        "subject": "Math",
+        "standard": "7.9(C)",
+        "standard_description": "determine the area of composite figures containing combinations of rectangles, squares, parallelograms, trapezoids, triangles, semicircles, and quarter circles",
+        "year": 2026,
+        "question_number": 37,
+        "cluster": "Geometry and Measurement",
+        "subcluster": "Area",
+        "content": "Readiness",
+        "process": "",
+        "process_codes": [],
+        "sample_item": false,
+        "item_type": "multiple_choice",
+        "declared_item_type_display": "Multiple Choice",
+        "points": 1,
+        "difficulty": {
+          "label": "medium",
+          "score": 3,
+          "percent_correct": 55,
+          "rationale": "Derived from 55% of students earning credit in the State data analysis row.",
+          "source": "state_percent_correct"
+        }
+      },
+      "question": {
+        "stem": "2026 released STAAR Math item Q37",
+        "instruction": "",
+        "options": [],
+        "choice_pool": [],
+        "response_template": null,
+        "visual_elements": [
+          "Official released item image"
+        ]
+      },
+      "answer_key": {
+        "raw_pdf_answer_text": "Correct Answer (C) ^highly chosen incorrect answer (A)",
+        "answer_format": "single_choice_label",
+        "correct_label": "C",
+        "correct_text": null
+      },
+      "extraction_quality": {
+        "question_content_source": "official released item image",
+        "answer_source": "lead4ward IQ data analysis row",
+        "vision_model": null,
+        "vision_confidence": null,
+        "needs_review": false,
+        "notes": "Imported from the 2026 lead4ward IQ release; source credited to TEA."
       }
     }
   ]
